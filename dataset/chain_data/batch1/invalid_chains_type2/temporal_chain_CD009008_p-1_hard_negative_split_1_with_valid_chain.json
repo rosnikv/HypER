@@ -1,0 +1,37 @@
+[
+    {
+        "paperId": "a94d19901ad94859b278c175eac473fcf700a75b",
+        "pmid": "9742976",
+        "title": "Intensive blood-glucose control with sulphonylureas or insulin compared with conventional treatment and risk of complications in patients with type 2 diabetes (UKPDS 33)",
+        "abstract": null,
+        "year": 1998,
+        "citation_count": 8934
+    },
+    {
+        "paperId": "584cd36a853ec19666f89af803b07cb0d6a3b973",
+        "title": "Historical HbA1c Values May Explain the Type 2 Diabetes Legacy Effect: UKPDS 88",
+        "abstract": "OBJECTIVE Type 2 diabetes all-cause mortality (ACM) and myocardial infarction (MI) glycemic legacy effects have not been explained. We examined their relationships with prior individual HbA1c values and explored the potential impact of instituting earlier, compared with delayed, glucose-lowering therapy. RESEARCH DESIGN AND METHODS Twenty-year ACM and MI hazard functions were estimated from diagnosis of type 2 diabetes in 3,802 UK Prospective Diabetes Study participants. Impact of HbA1c values over time was analyzed by weighting them according to their influence on downstream ACM and MI risks. RESULTS Hazard ratios for a one percentage unit higher HbA1c for ACM were 1.08 (95% CI 1.07\u20131.09), 1.18 (1.15\u20131.21), and 1.36 (1.30\u20131.42) at 5, 10, and 20 years, respectively, and for MI was 1.13 (1.11\u20131.15) at 5 years, increasing to 1.31 (1.25\u20131.36) at 20 years. Imposing a one percentage unit lower HbA1c from diagnosis generated an 18.8% (95% CI 21.1\u201316.0) ACM risk reduction 10\u201315 years later, whereas delaying this reduction until 10 years after diagnosis showed a sevenfold lower 2.7% (3.1\u20132.3) risk reduction. Corresponding MI risk reductions were 19.7% (22.4\u201316.5) when lowering HbA1c at diagnosis, and threefold lower 6.5% (7.4\u20135.3%) when imposed 10 years later. CONCLUSIONS The glycemic legacy effects seen in type 2 diabetes are explained largely by historical HbA1c values having a greater impact than recent values on clinical outcomes. Early detection of diabetes and intensive glucose control from the time of diagnosis is essential to maximize reduction of the long-term risk of glycemic complications.",
+        "year": 2021,
+        "citation_count": 66,
+        "relevance": 2,
+        "explanation": "This paper builds upon the findings of the UKPDS study, which is the same study as the source paper. It explores the relationship between historical HbA1c values and the legacy effect in type 2 diabetes, making it partially dependent on the findings of the source paper."
+    },
+    {
+        "paperId": "e662a945867a1c85ab5242b1052b52ba71d4b930",
+        "title": "Effects of continuous glucose monitoring on glycaemic control in type 2 diabetes: A systematic review and network meta\u2010analysis of randomized controlled trials",
+        "abstract": "The aim of this study was to assess the efficacy of continuous glucose monitoring (CGM) versus self\u2010monitoring of blood glucose (SMBG) in maintaining glycaemic control among people with type 2 diabetes mellitus (T2DM).",
+        "year": 2023,
+        "citation_count": 12,
+        "relevance": 0,
+        "explanation": "This paper is a systematic review and meta-analysis, which does not directly build upon or depend on the findings of the source paper. It is a review paper and does not contain novel hypotheses or findings."
+    },
+    {
+        "paperId": "2e80b776386d46284dd43c4d727a5a9fda2f0d3b",
+        "title": "Effectiveness and Safety of the Intermittently Scanned Continuous Glucose Monitoring System FreeStyle Libre 2 in Patients with Type 2 Diabetes Treated with Basal Insulin or Oral Antidiabetic Drugs: An Observational, Retrospective Real-World Study",
+        "abstract": "Intermittently Scanned Continuous Glucose Monitoring (isCGM) devices are increasingly being used in patients with type 2 diabetes mellitus (T2DM) on insulin therapy for their benefits regarding disease management. Evidence of isCGM use in patients with T2DM on basal or non-insulin therapy is lacking. This study aimed at assessing the efficacy and safety of isCGM in this population. This was an observational, retrospective, real-world study enrolling patients with T2DM who were starting the use of isCGM. Data from medical records (i.e., demographics, clinical characteristics, laboratory assessments, and isCGM metrics) were collected over three time periods (baseline, 3 and 6 months). The endpoints were glycated haemoglobin (HbA1c) changes and changes in isCGM metrics as defined by the International Consensus from baseline to 3 months and 6 months. Overall, 132 patients were included (69.5% male; mean age 68.2 \u00b1 11.0 years; mean disease duration 19.0 \u00b1 9.4 years; 79.7% on basal insulin \u00b1non-insulin therapy; mean baseline HbA1c 8.1% \u00b1 1.3%). The estimated mean change in HbA1c was statistically significant at three (\u22120.4 \u00b1 1.0%; p = 0.003) and six months (\u22120.6 \u00b1 1.3%; p < 0.0001). In conclusion, isCGM proved to be effective and safe in improving glycaemic control in patients with T2DM on basal insulin or non-insulin therapy.",
+        "year": 2024,
+        "citation_count": 4,
+        "relevance": 2,
+        "explanation": "This paper assesses the efficacy and safety of isCGM in patients with Type 2 diabetes, which is partially dependent on the previous findings regarding the efficacy of CGM in maintaining glycaemic control, as reported in the source paper."
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "paperId": "194062fe9d8cc4b0b7e118d034b4e060ea335fe5",
+        "pmid": "15836887",
+        "title": "Effects of the cannabinoid-1 receptor blocker rimonabant on weight reduction and cardiovascular risk factors in overweight patients: 1-year experience from the RIO-Europe study",
+        "abstract": null,
+        "year": 2005,
+        "citation_count": 1442
+    },
+    {
+        "paperId": "49cdd2cad380aa346168e5a74717e7d4d2aa4350",
+        "title": "Review article: The impact of obesity on reproduction in women with polycystic ovary syndrome",
+        "abstract": "The polycystic ovary syndrome (PCOS) is one of the most common causes of infertility due to anovulation in women. The clinical features of PCOS are heterogeneous and may change throughout the lifespan, starting from adolescence to postmenopausal age. This is largely dependent on the influence of obesity and metabolic alterations, including an insulin\u2010resistant state and the metabolic syndrome, which consistently affect most women with PCOS. Obesity does in fact have profound effects on both the pathophysiology and the clinical manifestation of PCOS, by different mechanisms leading to androgen excess and increased free androgen availability and to alterations of granulosa cell function and follicle development. Notably, simple obesity per se represents a functional hyperandrogenic state. These mechanisms involve early hormonal and metabolic factors during intrauterine life, leptin, insulin and the insulin growth factor system and, potentially, the endocannabinoid system. Compared with normal weight women with PCOS, those with obesity are characterised by a worsened hyperandrogenic and metabolic state, poorer menses and ovulatory performance and, ultimately, poorer pregnancy rates. The importance of obesity in the pathogenesis of PCOS is emphasised by the efficacy of lifestyle intervention and weight loss, not only on metabolic alterations but also on hyperandrogenism, ovulation and fertility. The increasing prevalence of obesity among adolescent and young women with PCOS may partly depend on the increasing worldwide epidemic of obesity, although this hypothesis should be supported by long\u2010term prospective epidemiological trials. This may have great relevance in preventive medicine and offer the opportunity to expand our still limited knowledge of the genetic and environmental background favouring the development of the PCOS.",
+        "year": 2006,
+        "citation_count": 275,
+        "relevance": 0,
+        "explanation": "This paper has no connection with the source paper, as it is a review article that focuses on the impact of obesity on reproduction in women with polycystic ovary syndrome, and does not mention the cannabinoid-1 receptor blocker rimonabant or its effects on weight reduction and cardiovascular risk factors."
+    },
+    {
+        "paperId": "75d68f515a4288a3fd2ea1be751778c80fc9576f",
+        "title": "Obesity, body composition and metabolic disturbances in polycystic ovary syndrome.",
+        "abstract": "BACKGROUND\nWe determined the impact of polycystic ovary syndrome (PCOS) and obesity on glucose and lipid metabolism and beta-cell function in women with PCOS.\n\n\nMETHODS\nIn 35 women with PCOS (17 lean, lean PCOS and 18 obese, obese PCOS) and 25 control women (9 lean, lean controls and 16 obese, obese controls), beta-cell function was evaluated by the first-phase insulin response after intravenous glucose, acute insulin response to glucose (AIRg); insulin sensitivity, determined as insulin sensitivity index (ISI), was evaluated by the euglycemic hyperinsulinemic clamp. Indirect calorimetry was used for the assessment of glucose and lipid oxidation. Body composition was estimated by dual X-ray absorptiometry scan.\n\n\nRESULTS\nWhen adjusted for obesity, PCOS was associated with higher 2-h glucose levels (P < 0.05), higher trunk/periphery fat ratio (P < 0.001), lower ISI (P < 0.001), lower insulin-stimulated glucose oxidation (GOX 2) (P < 0.05) and lower non-oxidative glucose metabolism (P < 0.05), but a normal AIRg compared with control women. Lean women with PCOS had lower ISI (P < 0.001), GOX-2 (P < 0.05) and higher trunk/periphery fat ratio (P < 0.05) than lean control women. In obese women with PCOS, ISI was reduced with 25% compared with obese control women, whereas trunk/peripheral fat ratio did not differ. AIRg was increased in obese groups compared with lean groups (P < 0.05), but was, in all groups, appropriate for the ambient action of insulin.\n\n\nCONCLUSIONS\nPCOS is associated with a low ISI, which in lean women with PCOS may partly be explained by higher trunk/peripheral fat ratio. AIRg was amplified by obesity, but was, in all groups, appropriate for prevailing insulin sensitivity, suggesting a normal beta-cell adaptation.",
+        "year": 2008,
+        "citation_count": 92,
+        "relevance": 2,
+        "explanation": "This paper examines the metabolic disturbances in PCOS, which is partially dependent on the source paper's discussion on the impact of obesity on PCOS."
+    },
+    {
+        "paperId": "63aeed97816bf3662c27116dc6db11ef9d784370",
+        "title": "Development of morphologically dominant follicles is associated with fewer metabolic disturbances in amenorrheic women with polycystic ovary syndrome: a pilot study",
+        "abstract": "To determine if amenorrheic women with polycystic ovary syndrome (PCOS) demonstrate ultrasonographically detectable changes in follicle population.",
+        "year": 2010,
+        "citation_count": 10,
+        "relevance": 1,
+        "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the relationship between follicle development and metabolic disturbances in women with PCOS, building on the source paper's results regarding metabolic disturbances in PCOS."
+    },
+    {
+        "paperId": "7c0eb0f08b3567fc5dd0d19111253e6f7a70a81d",
+        "title": "Ovary ultrasound image edge detection analysis: A tutorial using MATLAB",
+        "abstract": "Ultrasound imaging has been used over several years and has an excellent safety record. The problem of edge detection is fundamental to many image processing systems. Besides that, the existing of the sparkle noise creates difficulties in a diagnosis image captured by the ultrasound modality. The purpose of this study is to overcome the boundary problem by using several methods in image processing. The methods include image segmentation, morphological technique and image filtering. The ovary image captured from the ultrasound modality is used in this study. The results show that, by combining the region of interest method with threshold and morphological method, the edges and the border of the ovary can be detected.",
+        "year": 2012,
+        "citation_count": 6,
+        "relevance": 1,
+        "explanation": "This paper focuses on image processing techniques for ovary ultrasound images, which is related to the source paper's use of ultrasound imaging to detect changes in follicle population. However, the paper does not build upon or use the findings of the source paper, instead focusing on a technical aspect of image processing."
+    },
+    {
+        "paperId": "fefea154c2137cfbc24d4f791c78a78fa55127c6",
+        "title": "Analyzing ovarian tumor and cancer cells using image processing algorithms K means & fuzzy C-means",
+        "abstract": "Ovarian growth is a tumor that occurs in the ovaries of the women. Sometimes, it may derive to be a malignant tumor. Those tumors are acute cancer cells that could be life-threatening if the treatment had not been properly taken. Few of the cases, malignant tumors can be re-moved using surgery or by means of radiations..There is a chance of cancer if not properly removed and they could grow back. Analyzing ovarian cancer is found to be the highest mortality rate of all categories of cancers affecting the women. Considering its malignant effect necessary remedial actions need to be carried out for the welfare of the peoples in the future. Researches and various analysis are being car-ried out to overcome the drastic effect of malignant tumor. Supporting the research, in this paper we have analyzed various imaging modali-ties to examine segmentation and texture analysis with the help of K-Means and Fuzzy C-Means.\u00a0\u00a0",
+        "year": 2018,
+        "citation_count": 2,
+        "relevance": 1,
+        "explanation": "The hypothesis in this paper is inspired by the source paper, as it also deals with image processing techniques for ovarian analysis, building on the source paper's results regarding image processing methods for ovary ultrasound images."
+    },
+    {
+        "paperId": "2af5bccf53dd491ffb4af994bf6e97aa3ea55791",
+        "title": "Performance Analysis of Segmentation and Classification of CT-Scanned Ovarian Tumours Using U-Net and Deep Convolutional Neural Networks",
+        "abstract": "Difficulty in detecting tumours in early stages is the major cause of mortalities in patients, despite the advancements in treatment and research regarding ovarian cancer. Deep learning algorithms were applied to serve the purpose as a diagnostic tool and applied to CT scan images of the ovarian region. The images went through a series of pre-processing techniques and, further, the tumour was segmented using the UNet model. The instances were then classified into two categories\u2014benign and malignant tumours. Classification was performed using deep learning models like CNN, ResNet, DenseNet, Inception-ResNet, VGG16 and Xception, along with machine learning models such as Random Forest, Gradient Boosting, AdaBoosting and XGBoosting. DenseNet 121 emerges as the best model on this dataset after applying optimization on the machine learning models by obtaining an accuracy of 95.7%. The current work demonstrates the comparison of multiple CNN architectures with common machine learning algorithms, with and without optimization techniques applied.",
+        "year": 2023,
+        "citation_count": 11,
+        "relevance": 2,
+        "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the application of deep learning algorithms for segmentation and classification of ovarian tumors, building on the source paper's use of image processing algorithms (K-Means and Fuzzy C-Means) for analyzing ovarian tumor and cancer cells."
+    },
+    {
+        "paperId": "39ddb51cbb7d0588e2dc67bc23d8b153af9ed7e9",
+        "title": "Revolutionizing Ovarian Cancer Diagnosis: A ResNet50 Approach for Precision Classification",
+        "abstract": "The abstract functions as a short explanation of the study's goals, procedures, findings, and conclusions. We intended to create a robust machine learning model that could accurately identify different subtypes of ovarian cancer, like endometrioid carcinoma (EC), clear cell carcinoma (CC), mucinous carcinoma (MC), high-grade serous carcinoma (HGSC), and low-grade serous carcinoma (LGSC). In this model, powerful image processing algorithms and feature extraction methodologies are applied to identify certain key morphological and textural traits indicative of every subtype and leverage a collection of histology images of ovarian tissue samples. The generated model achieves an overall accuracy of 75%, which indicates the utility of the provided strategy. To establish the model's classification skills across numerous subtypes, we carried out a full evaluation of its performance, including measurements of accuracy, recall, and F1-score. This model indicates possible areas for growth, future research prospects, and the model's strengths or demerits. In summary, this work demonstrates the ability to identify ovarian cancer subgroups. It delivers insightful information that could boost the accuracy or precision of diagnosis to drive the formulation of tailored treatment regimens. The literature offers effective diagnoses on the utilization of computational approaches for increased accuracy, and the treatment continues to rise.",
+        "year": 2024,
+        "citation_count": 0,
+        "relevance": 1,
+        "explanation": "This paper is inspired by the source paper's use of deep learning models for ovarian cancer diagnosis. It explores a different approach using ResNet50 for precision classification, which is a new angle but builds upon the idea presented in the source paper."
+    }
+]

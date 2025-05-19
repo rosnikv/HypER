@@ -1,0 +1,87 @@
+base_model: microsoft/Phi-3-mini-128k-instruct
+# optionally might have model_type or tokenizer_type
+model_type: AutoModelForCausalLM
+tokenizer_type: AutoTokenizer
+# Automatically upload checkpoint and final model to HF
+# hub_model_id: username/custom_model_name
+
+load_in_8bit: true
+load_in_4bit: false
+strict: false
+
+datasets:
+  - path: ../../ground_truth_dataset/alpaca_multi_task3/alpaca_train.jsonl  # Replace with the actual file path
+    type: alpaca                            # Use "alpaca" for instruction-following datasets
+    ds_type: json                           # Specify the file type (json, jsonl, csv, etc.)
+    data_files:                             # List of data files (can be a single file)
+      - ../../ground_truth_dataset/alpaca_multi_task3/alpaca_train.jsonl
+    name: HypER-mixed                  # Optional: Give your dataset a name
+    train_on_split: train                   # Specify the split to use for training (e.g., "train")
+
+
+test_datasets:
+  - path: ../../ground_truth_dataset/alpaca_multi_task3/alpaca_valid.jsonl
+    type: alpaca
+    ds_type: json
+    # You need to specify a split. For "json" datasets the default split is called "train".
+    split: train
+    data_files:
+      - ../../ground_truth_dataset/alpaca_multi_task3/alpaca_valid.jsonl
+
+dataset_prepared_path: ./data/hypER-phi3-full2
+val_set_size: 0
+output_dir: ./outputs/phi3-hypER-mixed-lora-out-full2
+
+sequence_len: 16384
+sample_packing: false
+pad_to_sequence_len: false
+
+adapter: lora
+lora_model_dir:
+lora_r: 8
+lora_alpha: 16
+lora_dropout: 0.05
+lora_target_linear: true
+lora_fan_in_fan_out:
+
+wandb_project: hypER-mixed
+wandb_entity:
+wandb_watch: 
+wandb_name: hypER-mixed-phi3-lora
+wandb_log_model: end
+
+gradient_accumulation_steps: 4
+micro_batch_size: 1
+num_epochs: 10
+optimizer: adamw_bnb_8bit
+lr_scheduler: cosine
+learning_rate: 0.0002
+
+train_on_inputs: false
+group_by_length: false
+bfloat16: true
+bf16: true
+fp16:
+tf32: false
+
+gradient_checkpointing: true
+early_stopping_patience:
+resume_from_checkpoint:
+local_rank:
+logging_steps: 1
+xformers_attention:
+s2_attention:
+flash_attention: true
+trust_remote_code: true
+
+warmup_steps: 10
+evals_per_epoch: 1
+eval_table_size:
+eval_max_new_tokens: 50
+saves_per_epoch: 1
+save_strategy: best
+debug:
+deepspeed: 
+weight_decay: 0.0
+fsdp:
+fsdp_config:

@@ -1,0 +1,37 @@
+[
+    {
+        "paperId": "2bf7e21f57a55e729b9eb8f24beacf2c18204265",
+        "pmid": "3317057",
+        "title": "Coated oral 5-aminosalicylic acid therapy for mildly to moderately active ulcerative colitis. A randomized study.",
+        "abstract": "We assessed oral 5-aminosalicylic acid (5-ASA) prepared with a pH-sensitive polymer coating in 87 patients with mildly to moderately active ulcerative colitis in a double-blind, placebo-controlled trial. Patients were randomly assigned to receive 5-ASA at a dosage of either 4.8 or 1.6 g per day or placebo for six weeks. The outcome was monitored by flexible proctosigmoidoscopic examinations and physicians' assessments at three-week intervals and by patients' recordings of daily symptoms. Results showed 24 percent complete and 50 percent partial responses in those receiving 4.8 g of 5-ASA per day as compared with 5 percent complete and 13 percent partial responses in those receiving placebo (P less than 0.0001, rank-sum test). At a dosage of 1.6 g per day, the response was twice as good as with placebo, but the difference did not reach statistical significance (P = 0.51). Age, sex, duration of disease, duration of active symptoms, or extent of disease did not affect the clinical outcome. We conclude that oral 5-ASA administered in a dosage of 4.8 g per day is effective therapy, at least in the short term, for mildly to moderately active ulcerative colitis.",
+        "year": 1987,
+        "citation_count": 2645
+    },
+    {
+        "paperId": "5a4738eedc170da43d5d9fc7ad3e6b65c2b33415",
+        "title": "IFN-\u03b3 drives inflammatory bowel disease pathogenesis through VE-cadherin-directed vascular barrier disruption.",
+        "abstract": "Inflammatory bowel disease (IBD) is a chronic inflammatory disorder with rising incidence. Diseased tissues are heavily vascularized. Surprisingly, the pathogenic impact of the vasculature in IBD and the underlying regulatory mechanisms remain largely unknown. IFN-\u03b3 is a major cytokine in IBD pathogenesis, but in the context of the disease, it is almost exclusively its immune-modulatory and epithelial cell-directed functions that have been considered. Recent studies by our group demonstrated that IFN-\u03b3 also exerts potent effects on blood vessels. Based on these considerations, we analyzed the vessel-directed pathogenic functions of IFN-\u03b3 and found that it drives IBD pathogenesis through vascular barrier disruption. Specifically, we show that inhibition of the IFN-\u03b3 response in vessels by endothelial-specific knockout of IFN-\u03b3 receptor 2 ameliorates experimentally induced colitis in mice. IFN-\u03b3 acts pathogenic by causing a breakdown of the vascular barrier through disruption of the adherens junction protein VE-cadherin. Notably, intestinal vascular barrier dysfunction was also confirmed in human IBD patients, supporting the clinical relevance of our findings. Treatment with imatinib restored VE-cadherin/adherens junctions, inhibited vascular permeability, and significantly reduced colonic inflammation in experimental colitis. Our findings inaugurate the pathogenic impact of IFN-\u03b3-mediated intestinal vessel activation in IBD and open new avenues for vascular-directed treatment of this disease.",
+        "year": 2019,
+        "citation_count": 143,
+        "relevance": 2,
+        "explanation": "The key hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the underlying mechanisms of inflammatory bowel disease, a condition that the source paper also investigated."
+    },
+    {
+        "paperId": "d8b580a937fc5fb6e2495da42332f2f4ef045f49",
+        "title": "Matricellular Protein SPARCL1 Regulates Blood Vessel Integrity and Antagonizes Inflammatory Bowel Disease",
+        "abstract": "Abstract Background The understanding of vascular plasticity is key to defining the role of blood vessels in physiologic and pathogenic processes. In the present study, the impact of the vascular quiescence marker SPARCL1 on angiogenesis, capillary morphogenesis, and vessel integrity was evaluated. Methods Angiogenesis was studied using the metatarsal test, an ex vivo model of sprouting angiogenesis. In addition, acute and chronic dextran sodium sulfate colitis models with SPARCL1 knockout mice were applied. Results This approach indicated that SPARCL1 inhibits angiogenesis and supports vessel morphogenesis and integrity. Evidence was provided that SPARCL1-mediated stabilization of vessel integrity counteracts vessel permeability and inflammation in acute and chronic dextran sodium sulfate colitis models. Structure-function analyses of purified SPARCL1 identified the acidic domain of the protein necessary for its anti-angiogenic activity. Conclusions Our findings inaugurate SPARCL1 as a blood vessel\u2013derived anti-angiogenic molecule required for vessel morphogenesis and integrity. SPARCL1 opens new perspectives as a vascular marker of susceptibility to colitis and as a therapeutic molecule to support blood vessel stability in this disease.",
+        "year": 2021,
+        "citation_count": 11,
+        "relevance": 2,
+        "explanation": "This paper discusses the role of SPARCL1 in regulating blood vessel integrity and antagonizing IBD, which is related to the vascular barrier disruption discussed in the source paper. The findings of the source paper could be used as a sub-hypothesis to explore the role of SPARCL1 in maintaining vessel integrity and reducing inflammation in IBD."
+    },
+    {
+        "paperId": "5ec085c69e6fd97c6dbe795ecfffe24e1150c9ad",
+        "title": "Vascular endothelial-derived SPARCL1 exacerbates viral pneumonia through pro-inflammatory macrophage activation",
+        "abstract": null,
+        "year": 2024,
+        "citation_count": 5,
+        "relevance": 2,
+        "explanation": "This paper builds upon the findings of the source paper, which identified SPARCL1 as a matricellular protein involved in blood vessel integrity. The current paper investigates the role of SPARCL1 in viral pneumonia and finds that it exacerbates inflammation by activating pro-inflammatory macrophages."
+    }
+]

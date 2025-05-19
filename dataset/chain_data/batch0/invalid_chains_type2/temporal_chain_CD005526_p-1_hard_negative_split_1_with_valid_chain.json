@@ -1,0 +1,55 @@
+[
+    {
+        "paperId": "85895a02c285d2eb866f7c55cc70a29fcf6b3a50",
+        "pmid": "8425695",
+        "title": "Cyclosporin A treatment in primary biliary cirrhosis: results of a long-term placebo controlled trial.",
+        "abstract": null,
+        "year": 1993,
+        "citation_count": 144
+    },
+    {
+        "paperId": "ff372b99e1e9472b9e82b4f222254d165f3a5a4b",
+        "title": "Ursodiol for the long-term treatment of primary biliary cirrhosis. The UDCA-PBC Study Group.",
+        "abstract": "BACKGROUND\nUrsodiol (ursodeoxycholic acid) therapy leads to major improvements in patients with primary biliary cirrhosis. The benefit of long-term treatment is uncertain.\n\n\nMETHODS\nWe randomly assigned 145 patients with biopsy-proved primary biliary cirrhosis to receive ursodiol (13 to 15 mg per kilogram of body weight per day) (72 patients) or placebo (73 patients). After two years of follow-up, because of the benefit from ursodiol, all patients completing the study received ursodiol in an open trial and were monitored for two more years. The end points in the assessment of efficacy were as follows: progression of disease, as defined by the presence of hyperbilirubinemia, variceal bleeding, ascites, or encephalopathy; liver transplantation or a referral for that procedure; and liver transplantation (or a referral) or death.\n\n\nRESULTS\nDisease progressed significantly less frequently in the ursodiol group than in the placebo group (P < 0.002; relative risk, 0.28; 95 percent confidence interval, 0.12 to 0.63). The probability of liver transplantation or a referral for that procedure and the probability of transplantation or death were significantly lower in the group assigned to ursodiol than in the group assigned to placebo (for transplantation alone, P = 0.003; relative risk, 0.21; 95 percent confidence interval, 0.07 to 0.66; for transplantation or death, P = 0.005; relative risk, 0.32; 95 percent confidence interval, 0.14 to 0.74). High bilirubin levels and, to a lesser extent, signs of cirrhosis at entry into the trial were predictive of disease progression, liver transplantation or a referral, and transplantation or death.\n\n\nCONCLUSIONS\nLong-term ursodiol therapy slows the progression of primary biliary cirrhosis and reduces the need for liver transplantation.",
+        "year": 1994,
+        "citation_count": 480,
+        "relevance": 1,
+        "explanation": "This paper is related to the source paper as it also investigates the treatment of primary biliary cirrhosis, but with a different medication (ursodiol) and does not directly build upon or use the findings of the source paper as a sub-hypothesis. However, the paper explores a similar research question, making it somewhat relevant."
+    },
+    {
+        "paperId": "c260e82c3e76756dee6458b7ab4045cdde2fa6d8",
+        "title": "Is the Mayo model for predicting survival useful after the introduction of ursodeoxycholic acid treatment for primary biliary cirrhosis?",
+        "abstract": "Treatment of patients with primary biliary cirrhosis (PBC) using ursodeoxycholic acid (UDCA) leads to a reduction in serum bilirubin. The first objective of this study was to assess the performance of certain prognostic indicators for PBC after the introduction of treatment with UDCA. Serum bilirubin is an important prognostic indicator for PBC and an important component of the Mayo model for grading patients into risk categories. In an analysis of patients enrolled in the Canadian multicenter trial, the Mayo score was calculated before and after treatment with UDCA. After treatment, the Mayo score continued to divide patients with PBC into groups with varying risk. In addition, the serum bilirubin alone was shown to do the same even after the introduction of treatment with UDCA. A second objective was to establish whether UDCA had an effect on long\u2010term (2\u2010 to 6\u2010year) survival in patients with PBC.",
+        "year": 1996,
+        "citation_count": 97,
+        "relevance": 2,
+        "explanation": "This paper discusses the efficacy of UDCA in treating primary biliary cirrhosis, which is the main topic of the source paper. The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the long-term effects of UDCA treatment."
+    },
+    {
+        "paperId": "d743e075412a75df257b4004eb8044362c5e7077",
+        "title": "Primary biliary cirrhosis",
+        "abstract": null,
+        "year": 1998,
+        "citation_count": 2225,
+        "relevance": 1,
+        "explanation": "This paper provides an overview of primary biliary cirrhosis (PBC), including its natural history, presentation, and progression. While it does not directly build upon the source paper, it discusses the same disease and its characteristics, making it partially dependent on the knowledge established by the source paper."
+    },
+    {
+        "paperId": "85b050253885094d172f2a6343beb746c4259e7c",
+        "title": "Reply to Comments on \u201cCorrection Analysis of \u2018Frequency Diverse Array Radar About Time\u201d\u2019",
+        "abstract": "Similar to the analysis method of dividing the actual time into \u201cfast time\u201d and \u201cslow time\u201d introduced in the signal processing community, dividing the actual time into \u201cthe transmit delay\u201d and \u201cthe time index within pulse\u201d is a new analysis method from a new perspective to facilitate the analysis of the time-varying property of frequency diverse array (FDA) radar. It does not break the nature of the unity of time. In this reply, the importance of our new findings and contributions are presented again in a more concisely way.",
+        "year": 2023,
+        "citation_count": 73,
+        "relevance": 0,
+        "explanation": "This paper appears to be a response to a previous paper and does not contain original research or findings related to primary biliary cirrhosis. It is therefore not considered relevant to the source paper."
+    },
+    {
+        "paperId": "f2c79bd5cadd40c0f5be2411ef293c83543e7d4c",
+        "title": "Range Dimensional Monopulse Approach With FDA-MIMO Radar for Mainlobe Deceptive Jamming Suppression",
+        "abstract": "Due to the rapid progress of electronic countermeasures, the corresponding means of electronic counter-countermeasures are urgently needed. To address the mainlobe jamming problem, frequency diverse array (FDA) radar has received extensive attention for its range-dependent feature. However, shortcomings arise, such as the invasion of new jamming styles, which may degrade the detection performance along with the applications of FDA. In this letter, with the construction of accurate deceptive jamming models based on FDA multiple-input\u2013multiple-output, the suppression procedures are presented, which provide a new perspective for mainlobe jamming suppression considering the special jamming and drawbacks that come along with FDA systems. At first, the range-angle two-dimensional adaptive beamforming method is presented to eliminate the jamming model 1. Then, range dimensional monopulse approach is proposed to alleviate the influence of jamming model 2. Simulation examples demonstrate the effectiveness of the proposed approach.",
+        "year": 2024,
+        "citation_count": 5,
+        "relevance": 2,
+        "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it proposes a range-dimensional monopulse approach for FDA-MIMO radar, building on the source paper's analysis of the time-varying property of FDA radar."
+    }
+]

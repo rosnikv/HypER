@@ -1,0 +1,37 @@
+[
+    {
+        "paperId": "056bc3a94cc7d885043a9a856ca4093d31ed2db9",
+        "pmid": "15012565",
+        "title": "An ambulatory stabilisation program for children with newly diagnosed type 1\u00a0diabetes",
+        "abstract": "Objectives: (i) To evaluate the benefits and adverse effects of a Diabetes Day Care Program (DDCP); and (ii) to compare outcomes in two cohorts diagnosed before and after implementing the DDCP (\u201cpre\u2010DDCP\u201d and \u201cpost\u2010DDCP\u201d).",
+        "year": 2004,
+        "citation_count": 18
+    },
+    {
+        "paperId": "b8fa0af7fb7be3ff5e11540cc96d345250d18150",
+        "title": "Psycho\u2010educational interventions for children and young people with Type\u00a01 diabetes",
+        "abstract": "Background\u2002 A systematic review of the literature in 2000 revealed numerous methodological shortcomings in education research, but in recent years progress has been made in the quantity and quality of psycho\u2010educational intervention studies.",
+        "year": 2006,
+        "citation_count": 164,
+        "relevance": 0,
+        "explanation": "This paper is a review of the literature on psycho-educational interventions for children and young people with Type 1 diabetes. Although it may touch on some aspects related to the source paper, it does not directly build upon or depend on the source paper's findings."
+    },
+    {
+        "paperId": "fd99993d8155a512142608dd552f0e113d684a10",
+        "title": "Potential and Pitfalls of ChatGPT and Natural-Language Artificial Intelligence Models for Diabetes Education.",
+        "abstract": null,
+        "year": 2023,
+        "citation_count": 83,
+        "relevance": 2,
+        "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it discusses the importance of education in diabetes care and the benefits of psycho-educational interventions."
+    },
+    {
+        "paperId": "b875206981c6c0a10e84f77d2c48cb7fc57fbfe6",
+        "title": "Knowledge-Infused LLM-Powered Conversational Health Agent: A Case Study for Diabetes Patients",
+        "abstract": "Effective diabetes management is crucial for maintaining health in diabetic patients. Large Language Models (LLMs) have opened new avenues for diabetes management, facilitating their efficacy. However, current LLM-based approaches are limited by their dependence on general sources and lack of integration with domain-specific knowledge, leading to inaccurate responses. In this paper, we propose a knowledge-infused LLM-powered conversational health agent (CHA) for diabetic patients. We customize and leverage the open-source openCHA framework, enhancing our CHA with external knowledge and analytical capabilities. This integration involves two key components: 1) incorporating the American Diabetes Association dietary guidelines and the Nutritionix information and 2) deploying analytical tools that enable nutritional intake calculation and comparison with the guidelines. We compare the proposed CHA with GPT4. Our evaluation includes 100 diabetes-related questions on daily meal choices and assessing the potential risks associated with the suggested diet. Our findings show that the proposed agent demonstrates superior performance in generating responses to manage essential nutrients.",
+        "year": 2024,
+        "citation_count": 9,
+        "relevance": 2,
+        "explanation": "This paper builds upon the idea of using AI models like ChatGPT for diabetes education, which is the main topic of the source paper. The authors propose a knowledge-infused LLM-powered conversational health agent for diabetic patients, demonstrating a direct connection to the source paper's focus on AI models for diabetes education."
+    }
+]
