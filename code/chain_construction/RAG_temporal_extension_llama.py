@@ -8,21 +8,21 @@ from huggingface_hub import login
 login(token=huggingface_token)
 import json
 import sys
-sys.path.append('/srv/scratch1/rosni/scigen/')
+sys.path.append('path to project')
 import asyncio
 SEMANTIC_SCHOLAR_API_KEY = os.environ.get("S2_API_KEY", None)
 from langdetect import detect, DetectorFactory, LangDetectException
 DetectorFactory.seed = 0
-from ground_truth_path.utils import clean_gpt_output, evaluate_papers_with_llama, load_llama_model
-from ground_truth_path.utils import get_paper_data, get_paper_by_id, relevancy_prompt
-from ground_truth_path.utils import remove_numbering, split_into_chunks, search_papers, extract_linear_chain, save_json
+from utils import clean_gpt_output, evaluate_papers_with_llama, load_llama_model
+from utils import get_paper_data, get_paper_by_id, relevancy_prompt
+from utils import remove_numbering, split_into_chunks, search_papers, extract_linear_chain, save_json
 import torch.nn.functional as F
 import torch
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-from ground_truth_path.utils import set_seed
+from utils import set_seed
 import argparse
 import logging
-log_dir = "ground_truth_path_fred/logs"
+log_dir = "./logs"
 os.makedirs(log_dir, exist_ok=True)
 log_filename = os.path.join(log_dir, f"pipeline_llama_HN.log")
 logging.basicConfig(filename=log_filename, level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
@@ -52,7 +52,7 @@ def initialize_globals(review_id, seed, idx):
     SEED = seed  
     IDX = idx
     
-    log_dir = "ground_truth_path_fred/logs"
+    log_dir = "./logs"
     os.makedirs(log_dir, exist_ok=True)
     log_filename = os.path.join(log_dir, f"pipeline_llama_HN.log")
     logging.basicConfig(filename=log_filename, level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
@@ -62,7 +62,7 @@ def load_global_llama():
     if llama_pipeline is None:
         llama_pipeline = load_llama_model()
 
-def log_to_json_file(data, filename="ground_truth_path_fred/intermediate_chains_HN/llama_outputs.json"):
+def log_to_json_file(data, filename="./intermediate_chains_HN/llama_outputs.json"):
     """Append data to a JSON file."""
     global REVIEW_ID
     filename = filename.replace(".json", f"_{REVIEW_ID}_p-{IDX}_log.json")
@@ -166,7 +166,7 @@ def process_yearly_citations(year, year_wise_citations, current_paper, few_shot_
             logging.error(f"Error processing chunk {chunk_index + 1} for year {year}: {e}")
     return relevant_papers_for_year
 
-def save_relevant_papers_to_file(papers, filename="ground_truth_path_fred/intermediate_chains_HN/all_relevant_papers.json"):
+def save_relevant_papers_to_file(papers, filename="./intermediate_chains_HN/all_relevant_papers.json"):
     """Save relevant papers to a JSON file."""
     global REVIEW_ID
     global IDX
@@ -292,7 +292,7 @@ async def extend_temporal_path_with_chains(source_paper, few_shot_prompt):
     # Save the output in hierarchical format
     #save_json(full_chain, "temporal_chains_llama.json")    
     linear_chain = extract_linear_chain(full_chain)
-    outfile = f"ground_truth_path/result_chains_all/temporal_chain_{REVIEW_ID}_p-{IDX}.json"
+    outfile = f"./result_chains_all/temporal_chain_{REVIEW_ID}_p-{IDX}.json"
     save_json(linear_chain, outfile)
     logging.info(f"Linear chain saved to {outfile}.")
 
@@ -303,9 +303,9 @@ def main():
     REVIEW_ID = args.review_id
     set_global_seed(args.seed)
     
-    with open("temporary_data/output.json", "r") as f:
+    with open("example_data/output.json", "r") as f:
         data = json.load(f)
-    with open("temporary_data/gpt4_output", "r") as f:
+    with open("example_data/gpt4_output", "r") as f:
         evaluations = json.load(f)
     
     few_shot_papers = data[1:3]
@@ -340,12 +340,12 @@ def main():
     
     source_paper = max(source, key=lambda x: x.get("CitationCount", 0))
     '''
-    temporal_chain_path = f"ground_truth_path/result_chains/temporal_chain_{REVIEW_ID}_p-1.json"
+    temporal_chain_path = f"./result_chains/temporal_chain_{REVIEW_ID}_p-1.json"
     with open(temporal_chain_path, "r") as f:
         temporal_chain = json.load(f)
     second_item = temporal_chain[1]
     second_item_id = second_item.get("paperId")
-    relevant_papers_path = f"ground_truth_path/intermediate_chains/all_relevant_papers_{REVIEW_ID}_pk-1.json"
+    relevant_papers_path = f"./intermediate_chains/all_relevant_papers_{REVIEW_ID}_pk-1.json"
     with open(relevant_papers_path, "r") as f:
         relevant_papers = json.load(f)
     new_source_papers = [paper for paper in relevant_papers if paper.get("paperId") != second_item_id]

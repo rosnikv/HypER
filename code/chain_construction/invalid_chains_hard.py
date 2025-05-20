@@ -1,6 +1,6 @@
 import os
 import sys
-sys.path.append('/srv/scratch1/rosni/scigen/')
+sys.path.append('path to project')
 import random
 import json
 import asyncio
@@ -11,9 +11,9 @@ from ground_truth_path.RAG_temporal_extension_llama import extract_linear_chain
 REVIEW_ID = None
 SEED = 42
 IDX = 0
-valid_chain_dir = "ground_truth_path/result_chains/"
-intermediate_dir = "ground_truth_path/intermediate_chains/"
-invalid_chain_dir = "ground_truth_path/invalid_chains_type2/"
+valid_chain_dir = "dataset/result_chains/"
+intermediate_dir = "dataset/intermediate_chains/"
+invalid_chain_dir = "dataset/invalid_chains_type2/"
 os.makedirs(invalid_chain_dir, exist_ok=True)
 skipped_file_path = os.path.join(invalid_chain_dir, "skipped_files.txt")
 skipped_files = []

@@ -1,7 +1,7 @@
 import requests
 import json
 import sys
-sys.path.append('/srv/scratch1/rosni/scigen/')
+sys.path.append('path/')
 import os
 import re
 import time
