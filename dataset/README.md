@@ -23,18 +23,13 @@ These source reviews serve as anchor points for building reasoning chains across
 **Endocrinology**, **Cardiology**, **Rheumatology**, and **Gastroenterology/Hepatology**.
 
 ### `training_data/`
-This folder contains multi-task fine-tuning data used to train the HypER model.
+This folder contains raw reasoning chain data and scripts used to generate multi-task fine-tuning datasets for the HypER model.
 
 #### Contents
-- `alpaca_multi_task3/alpaca_train.jsonl`  
-- `alpaca_multi_task3/alpaca_valid.jsonl`  
-- `alpaca_multi_task3/alpaca_test.jsonl`  
+- `balanced_splits_w_hyp/`: Raw train/val/test splits of chains labeled with reasoning validity.
+- `multi-task-data_prep.py`: Script to convert balanced chain data into multi-task format for training.
+- `collect_paths.ipynb`: Extracts reasoning paths and creates chain-level summaries, also script for converting to alpaca formatted dataset.
+- `groundtruth_statistics.ipynb`: Computes task and label distributions for analysis.
 
-Each file contains reasoning chain samples labeled for:
-- One-hop relevance classification  
-- Multi-hop chain validation (agnostic & contextual)
-
-#### Scripts
-- `collect_paths.ipynb`: Extracts reasoning paths  
-- `groundtruth_statistics.ipynb`: Computes dataset statistics  
-
+⚠️ **Note**: Due to submission size limits, the final multi-task formatted JSONL files are not included.  
+However, **all raw data files are provided**, and the complete multi-task dataset can be reproduced using the included scripts.
