@@ -9,14 +9,14 @@
 ### ins2: chain, hypothesis -> valid, invalid, if invalid identify invalid links
 
 import sys
-sys.path.append('/srv/scratch1/rosni/scigen/')
+sys.path.append('add project path here')
 import os
 import json
 import time
 
 # Paths to the original dataset splits
-DATASET_PATH = "ground_truth_dataset/balanced_splits_w_hyp"
-OUTPUT_PATH = "./ground_truth_dataset/multi_task_data3/"
+DATASET_PATH = "training_data/balanced_splits_w_hyp"
+OUTPUT_PATH = "./training_data/multi_task_data3/"
 
 # Ensure the output directory exists
 os.makedirs(OUTPUT_PATH, exist_ok=True)
