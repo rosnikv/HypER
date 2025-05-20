@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /srv/scratch1/rosni/scigen/
+cd PATH_TO_PROJECT
 
 ########################################
 
@@ -21,10 +21,10 @@ cd /srv/scratch1/rosni/scigen/
 SEED=42
 
 # File containing review IDs
-REVIEW_IDS_FILE="ground_truth_path/review_ids.txt"
+REVIEW_IDS_FILE="./review_ids.txt"
 
 # Output directory for logs
-LOG_DIR="ground_truth_path/logs"
+LOG_DIR="./logs"
 mkdir -p "$LOG_DIR"
 
 # Check if the review IDs file exists
@@ -43,7 +43,7 @@ do
     LOG_FILE="$LOG_DIR/review_${REVIEW_ID}_seed_${SEED}.log"
     
     # Run the Python script with the seed and review ID
-    python3 ground_truth_path/RAG_temporal_extension_llama.py --seed "$SEED" --review_id "$REVIEW_ID" > "$LOG_FILE" 2>&1
+    python3 RAG_temporal_extension_llama.py --seed "$SEED" --review_id "$REVIEW_ID" > "$LOG_FILE" 2>&1
     
     # Check if the Python script executed successfully
     if [ $? -ne 0 ]; then

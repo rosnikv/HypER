@@ -7,7 +7,7 @@ huggingface_token = os.getenv("HUGGINGFACE_TOKEN")
 from huggingface_hub import login
 login(token=huggingface_token)
 import sys
-sys.path.append('/srv/scratch1/rosni/scigen/code/prompts')
+sys.path.append('path to project')
 
 from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
 from sklearn.metrics import classification_report, accuracy_score
@@ -326,7 +326,7 @@ def parse_research_idea2(output):
 
     except json.JSONDecodeError as e:
         print(f"JSON parsing error: {e}")
-        print(f"⚠️ Attempting manual extraction...")
+        print(f"Attempting manual extraction...")
         return extract_manual_fields(output)
 
     except Exception as e:
@@ -428,13 +428,13 @@ def load_llama_model():
 
     
 if __name__ == "__main__":
-    data_path = "./ground_truth_dataset/balanced_splits_w_hyp/test_hyp.json"
+    data_path = "./balanced_splits_w_hyp/test_hyp.json"
     meta_chains, chains, labels = load_dataset(data_path)
     #meta_chains, chains, labels = load_balanced_dataset(data_path)
     print(f"Total chains: {len(chains)}")
 
     # Load scoring protocol
-    with open('./code/prompts/scoring_protocol.json', 'r') as f:
+    with open('./scoring_protocol.json', 'r') as f:
         scoring_protocol = json.load(f)
 
     metrics = scoring_protocol.keys()

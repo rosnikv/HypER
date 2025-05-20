@@ -12,8 +12,8 @@ SEMANTIC_SCHOLAR_API_KEY = os.environ.get("S2_API_KEY", None)
 import tiktoken
 from transformers import pipeline
 import torch
-from ground_truth_path.prompts.search_query_prompt import search_query_prompt
-from ground_truth_path.prompts.relevancy_scoring_prompt_002 import relevancy_scoring_prompt
+from prompts.search_query_prompt import search_query_prompt
+from prompts.relevancy_scoring_prompt_002 import relevancy_scoring_prompt
 #from ground_truth_path.prompts.relevancy_scoring_prompt_001 import relevancy_scoring_prompt
 from transformers import AutoModel, AutoTokenizer
 from torch.nn.functional import cosine_similarity
