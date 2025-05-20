@@ -47,6 +47,7 @@ Scripts and utilities for preparing the reasoning chains and multi-task data for
 - `collect_paths.ipynb`: Extracts reasoning paths and creates chain-level summaries, also script for converting to alpaca formatted dataset.
 - `groundtruth_statistics.ipynb`: Computes task and label distributions for analysis and construct the balanced dataset.
 
+---
 
 ### `fine-tuning/`
 We use the [Axolotl framework](https://github.com/OpenAccess-AI-Collective/axolotl) with `accelerate` for scalable multi-GPU fine-tuning. Below are working configurations used for training and inference.
@@ -57,6 +58,7 @@ We use the [Axolotl framework](https://github.com/OpenAccess-AI-Collective/axolo
 accelerate launch -m axolotl.cli.train axolotl/phi3-lora-HypER_multihop12.yaml
 CUDA_VISIBLE_DEVICES="0,1,2,3,4,5,6,7,8" python3 -m axolotl.cli.merge_lora examples/phi/phi3-lora-HypER_multihop12.yaml --lora_model_dir="./outputs/phi3-hypER-mixed-lora-out-full"
 ```
+> **Note**: The final fine-tuned HypER model (full-model) will be released on Hugging Face for reproducibility and downstream use.
 
 ---
 
