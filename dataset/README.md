@@ -22,6 +22,7 @@ The folders `batch0` and `batch1` within `chain_data/` contains the core valid a
 
 #### Contents
 - **`data/`**: selected seed reviews from RCT summarization data, and each review file includes associated PubMed paper details.
+- **`intermediate_chains/`**: Intermediate reasoning chains with candidate nodes and their relevance scores. Nodes with score `0` (breakpoints) are used to generate invalid chains (`invalid_chains_type1/`, `invalid_chains_type2/`).
 - **`invalid_chains_type1/`**: Chains where 10–50% of the intermediate nodes have been randomly replaced with irrelevant (score `0`) papers. These are "easy negatives."
 - **`invalid_chains_type2/`**: Harder negative examples with coherent-looking subchains that contain logical breaks not easily detectable via surface similarity.
 - **`result_chains/`**: Final valid chains where each chain includes paper titles, abstracts, publication years, relevance scores (`0=irrelevant`, `1=inspired`, `2=dependent`) with explanation.
