@@ -1,0 +1,28 @@
+[
+    {
+        "year": 2012,
+        "source_paper": {
+            "paperId": "ff3398d7d27cf4441cf714415d66aaacc1d3c237",
+            "pmid": "18942898",
+            "title": "[Intravenous proton-pump inhibitor for acute peptic ulcer bleeding--is profound acid suppression beneficial to reduce the risk of rebleeding?].",
+            "abstract": "OBJECTIVE\nTo compare two regimens of pantoprazole administered intravenously in patients with ulcerative gastrointestinal bleeding (UGB), and a high risk of presenting with persitent or recurrent hemorrhage.\n\n\nMATERIAL AND METHOD\nPatients were randomized into two groups: group 0--treatment with a 80 mg bolus of pantoprazole administered intravenously, followed by continuous infusion of 8 mg/h for 72 hours; group 1--treatment with 40 mg of pantoprazole administered intravenously on a daily basis. The percentage of hemorrhagic persistence/recurrence in both groups was analyzed, as were transfusion requirements, need for surgery, and mortality resulting from the hemorrhagic episode.\n\n\nRESULTS\nThere were 20 patients in group 0 and 21 in group 1. No differences were found between groups in terms of gender, age, smoking habits, use of NSAIDs, presence of hemodynamic instability or stigmata in ulcer crater (Forrest Ia: 5 vs. 14.3%, p = 0.322; Forrest Ib: 30 vs. 33.3%, p = 0.819; Forrest IIa: 60 vs. 50.1%, p = 0.753). In group 0, 90% of patients received endoscopic treatment, versus 100% in group 1, p = 0.232. In group 0, 50% of patients had a transfusion, as compared to 52.4% in group 1, p = 0.879. In group 0, 2 patients (10.5%) presented with recurrent hemorrhage, versus 3 patients (14.3%) in group 1. Surgery was required by 1 person from each group, and 1 patient in group 0 died.\n\n\nCONCLUSIONS\nMaximum acid inhibition with a bolus and then a continuous infusion of pantoprazole does not yield better results than treatment with conventional doses in acute hemorrhagic episodes.",
+            "year": 2008,
+            "citation_count": 5
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Inhibitory effects of intravenous lansoprazole 30 mg and pantoprazole 40 mg twice daily on intragastric acidity in healthy Chinese volunteers: A randomized, open-labeled, two-way crossover study": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it compares the effect of lansoprazole and pantoprazole administered intravenously on gastric acidity, building on the source paper's results regarding the use of pantoprazole in acute hemorrhagic episodes.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Inhibitory effects of intravenous lansoprazole 30 mg and pantoprazole 40 mg twice daily on intragastric acidity in healthy Chinese volunteers: A randomized, open-labeled, two-way crossover study": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it compares the effect of lansoprazole and pantoprazole administered intravenously on gastric acidity, building on the source paper's results regarding the use of pantoprazole in acute hemorrhagic episodes.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    }
+]

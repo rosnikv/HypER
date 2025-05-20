@@ -1,0 +1,93 @@
+[
+    {
+        "year": 2012,
+        "source_paper": {
+            "paperId": "8b5c4c15833fc475d6dc87ea51b5ff13e442b0e6",
+            "pmid": "21570870",
+            "title": "Batroxobin plus aspirin reduces restenosis after angioplasty for arterial occlusive disease in diabetic patients with lower-limb ischemia.",
+            "abstract": null,
+            "year": 2011,
+            "citation_count": 14
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Antiplatelet and anticoagulant drugs for prevention of restenosis/reocclusion following peripheral endovascular treatment": {
+                    "explanation": "This paper is a review paper that summarizes existing literature on antithrombotic agents for preventing restenosis/reocclusion after peripheral endovascular treatment. It does not present a novel hypothesis or findings inspired by or dependent on the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2018,
+        "source_paper": {
+            "paperId": "8b5c4c15833fc475d6dc87ea51b5ff13e442b0e6",
+            "pmid": "21570870",
+            "title": "Batroxobin plus aspirin reduces restenosis after angioplasty for arterial occlusive disease in diabetic patients with lower-limb ischemia.",
+            "abstract": null,
+            "year": 2011,
+            "citation_count": 14
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. An In Vitro Study to Determine the Feasibility of Combining Bone Marrow Concentrate with BST-CarGel as a Treatment for Cartilage Repair": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the effects of batroxobin, which is also a key component in the source paper. The study explores the feasibility of combining bone marrow concentrate with BST-CarGel and batroxobin, indicating a connection to the source paper's findings on batroxobin.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. An In Vitro Study to Determine the Feasibility of Combining Bone Marrow Concentrate with BST-CarGel as a Treatment for Cartilage Repair": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the effects of batroxobin, which is also a key component in the source paper. The study explores the feasibility of combining bone marrow concentrate with BST-CarGel and batroxobin, indicating a connection to the source paper's findings on batroxobin.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2022,
+        "source_paper": {
+            "paperId": "f77888c968b51a4a617cf4dae89bc71aafb659ee",
+            "title": "An In Vitro Study to Determine the Feasibility of Combining Bone Marrow Concentrate with BST-CarGel as a Treatment for Cartilage Repair",
+            "abstract": "Objective The study aims were to determine whether BST-CarGel, a chitosan scaffold for cartilage repair, can be mixed with bone marrow aspirate concentrate (BMAC) to create a cell seeded implant with comparative properties to standard BST-CarGel mixed with blood. Design Whole blood and bone marrow were harvested from 12 patients who underwent cartilage repair surgery using BMAC after informed consent. A validated in vitro testing model was used to assess the following 6 conditions: (1) BST-CarGel mixed with whole blood (CG-WB), (2) BST-CarGel mixed with bone marrow (CG-BM), (3) BST-CarGel mixed with bone marrow concentrate (CG-BMAC), (4) whole blood (WB), (5) bone marrow (BM), and (6) bone marrow concentrate and batroxobin (BMAC-BTX). Cell retention and viability within the BST-CarGel/BMAC clots were investigated. Results In our study, BM and BMAC (processed using the Harvest, SmartPrep2 system and reactivated with batroxibin) when combined with BST-CarGel produced a product that had similar clot contraction, macroscopic properties, and histological appearance to standard BSTCarGel mixed with blood. Mononucleated cells from the BMAC were retained within the scaffold and remained viable until clot dissolution in vitro. Conclusions By combining BST-CarGel with BMAC in the manner described, bone marrow\u2013derived mononucleated cells can be retained within the chondral defect potentially negating the need for microfracture. Further in vivo work is required to confirm these potential benefits and determine if this combination will result in more durable cartilage repair and improved clinical outcomes.",
+            "year": 2018,
+            "citation_count": 5,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the effects of batroxobin, which is also a key component in the source paper. The study explores the feasibility of combining bone marrow concentrate with BST-CarGel and batroxobin, indicating a connection to the source paper's findings on batroxobin."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Within or Without You? A Perspective Comparing In Situ and Ex Situ Tissue Engineering Strategies for Articular Cartilage Repair": {
+                    "explanation": "This paper is a review paper that discusses the general strategies for articular cartilage repair, including in situ and ex situ tissue engineering. Although it mentions cartilage repair, which is related to the source paper's topic, it does not specifically address the combination of bone marrow concentrate with BST-CarGel or build upon the source paper's findings.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2022,
+        "source_paper": {
+            "paperId": "f77888c968b51a4a617cf4dae89bc71aafb659ee",
+            "title": "An In Vitro Study to Determine the Feasibility of Combining Bone Marrow Concentrate with BST-CarGel as a Treatment for Cartilage Repair",
+            "abstract": "Objective The study aims were to determine whether BST-CarGel, a chitosan scaffold for cartilage repair, can be mixed with bone marrow aspirate concentrate (BMAC) to create a cell seeded implant with comparative properties to standard BST-CarGel mixed with blood. Design Whole blood and bone marrow were harvested from 12 patients who underwent cartilage repair surgery using BMAC after informed consent. A validated in vitro testing model was used to assess the following 6 conditions: (1) BST-CarGel mixed with whole blood (CG-WB), (2) BST-CarGel mixed with bone marrow (CG-BM), (3) BST-CarGel mixed with bone marrow concentrate (CG-BMAC), (4) whole blood (WB), (5) bone marrow (BM), and (6) bone marrow concentrate and batroxobin (BMAC-BTX). Cell retention and viability within the BST-CarGel/BMAC clots were investigated. Results In our study, BM and BMAC (processed using the Harvest, SmartPrep2 system and reactivated with batroxibin) when combined with BST-CarGel produced a product that had similar clot contraction, macroscopic properties, and histological appearance to standard BSTCarGel mixed with blood. Mononucleated cells from the BMAC were retained within the scaffold and remained viable until clot dissolution in vitro. Conclusions By combining BST-CarGel with BMAC in the manner described, bone marrow\u2013derived mononucleated cells can be retained within the chondral defect potentially negating the need for microfracture. Further in vivo work is required to confirm these potential benefits and determine if this combination will result in more durable cartilage repair and improved clinical outcomes.",
+            "year": 2018,
+            "citation_count": 5,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the effects of batroxobin, which is also a key component in the source paper. The study explores the feasibility of combining bone marrow concentrate with BST-CarGel and batroxobin, indicating a connection to the source paper's findings on batroxobin."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Within or Without You? A Perspective Comparing In Situ and Ex Situ Tissue Engineering Strategies for Articular Cartilage Repair": {
+                    "explanation": "This paper is a review paper that discusses tissue engineering strategies for articular cartilage repair, which is a broader topic related to the source paper. However, it does not directly build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    }
+]

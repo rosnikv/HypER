@@ -1,0 +1,1289 @@
+[
+    {
+        "year": 2013,
+        "source_paper": {
+            "paperId": "1a14dcb5e7d632d508bdb8dddcb88e912e95f824",
+            "pmid": "8242109",
+            "title": "[A short-term randomized controlled study with methotrexate in rheumatoid arthritis].",
+            "abstract": "Randomized, controlled and double-blind study of 36 patients aimed at the evaluation of the efficacy and toxicity of MTX in the treatment of rheumatoid arthritis. Twenty-eight patients completed the study period: 14 in the MTX group and 14 in the placebo group. The patients treated with MTX presented a statistically significant improvement (p < 0.05) in pain, grip strength and functional ability when compared to placebo treated patients. Mild adverse effects were observed in 4 patients treated with MTX and in 2 patients treated with placebo. These findings support other studies and give to methotrexate a relevant position in the treatment of rheumatoid arthritis, owing to its convenient posology, beneficial effectivity and favourable toxicity.",
+            "year": 1993,
+            "citation_count": 10
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Current immunotherapy in rheumatoid arthritis": {
+                    "explanation": "This paper discusses methotrexate as one of the disease-modifying antirheumatic drugs (DMARDs) in the treatment of rheumatoid arthritis. Although it does not directly build upon the source paper, it does reference methotrexate as a treatment option, which was the focus of the source paper. However, this paper is more of a review, summarizing existing literature and discussing current recommendations, rather than presenting new findings or hypotheses inspired by the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2013,
+        "source_paper": {
+            "paperId": "1a14dcb5e7d632d508bdb8dddcb88e912e95f824",
+            "pmid": "8242109",
+            "title": "[A short-term randomized controlled study with methotrexate in rheumatoid arthritis].",
+            "abstract": "Randomized, controlled and double-blind study of 36 patients aimed at the evaluation of the efficacy and toxicity of MTX in the treatment of rheumatoid arthritis. Twenty-eight patients completed the study period: 14 in the MTX group and 14 in the placebo group. The patients treated with MTX presented a statistically significant improvement (p < 0.05) in pain, grip strength and functional ability when compared to placebo treated patients. Mild adverse effects were observed in 4 patients treated with MTX and in 2 patients treated with placebo. These findings support other studies and give to methotrexate a relevant position in the treatment of rheumatoid arthritis, owing to its convenient posology, beneficial effectivity and favourable toxicity.",
+            "year": 1993,
+            "citation_count": 10
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Current immunotherapy in rheumatoid arthritis": {
+                    "explanation": "The key hypothesis in this paper is inspired by the findings of the source paper, as it discusses methotrexate as one of the disease-modifying antirheumatic drugs (DMARDs) used in the treatment of rheumatoid arthritis, which is consistent with the source paper's results on the efficacy and toxicity of methotrexate in the treatment of rheumatoid arthritis.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Current immunotherapy in rheumatoid arthritis": {
+                    "explanation": "The key hypothesis in this paper is inspired by the findings of the source paper, as it discusses methotrexate as one of the disease-modifying antirheumatic drugs (DMARDs) used in the treatment of rheumatoid arthritis, which is consistent with the source paper's results on the efficacy and toxicity of methotrexate in the treatment of rheumatoid arthritis.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2014,
+        "source_paper": {
+            "paperId": "1a14dcb5e7d632d508bdb8dddcb88e912e95f824",
+            "pmid": "8242109",
+            "title": "[A short-term randomized controlled study with methotrexate in rheumatoid arthritis].",
+            "abstract": "Randomized, controlled and double-blind study of 36 patients aimed at the evaluation of the efficacy and toxicity of MTX in the treatment of rheumatoid arthritis. Twenty-eight patients completed the study period: 14 in the MTX group and 14 in the placebo group. The patients treated with MTX presented a statistically significant improvement (p < 0.05) in pain, grip strength and functional ability when compared to placebo treated patients. Mild adverse effects were observed in 4 patients treated with MTX and in 2 patients treated with placebo. These findings support other studies and give to methotrexate a relevant position in the treatment of rheumatoid arthritis, owing to its convenient posology, beneficial effectivity and favourable toxicity.",
+            "year": 1993,
+            "citation_count": 10
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Methotrexate for treating rheumatoid arthritis": {
+                    "explanation": "This paper is a review paper that summarizes existing literature, including the source paper, and lacks novel hypotheses or findings. It does not build upon the source paper's hypothesis or findings in a meaningful way.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2014,
+        "source_paper": {
+            "paperId": "f9d3da51427526376fc04038ea9f51742320ddfd",
+            "title": "Current immunotherapy in rheumatoid arthritis.",
+            "abstract": "Rheumatoid arthritis is a common autoimmune disease primarily manifesting as chronic synovitis, subsequently leading to a change in joint integrity. Progressive disability and systemic complications are strongly associated with a decreased quality of life. To maintain function and health in patients with rheumatoid arthritis, early, aggressive and guided immunosuppressive therapy is required to induce clinical remission. Antirheumatic drugs are capable of controlling synovial inflammation and are therefore named 'disease-modifying antirheumatic drugs' (DMARDs). This article aims to bridge the beginning of DMARD therapy with agents such as methotrexate, leflunomide, sulfasalazine, injectable gold and (hydroxy)chloroquine with biological therapies, and with the new era of kinase inhibitors. Mechanisms of action, as well as advantages and disadvantages of DMARDs, are discussed with respect to the current literature and current recommendations.",
+            "year": 2013,
+            "citation_count": 117,
+            "relevance": 1,
+            "explanation": "The key hypothesis in this paper is inspired by the findings of the source paper, as it discusses methotrexate as one of the disease-modifying antirheumatic drugs (DMARDs) used in the treatment of rheumatoid arthritis, which is consistent with the source paper's results on the efficacy and toxicity of methotrexate in the treatment of rheumatoid arthritis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Early treatment with chloroquine inhibits the immune response against Plasmodium yoelii infection in mice": {
+                    "explanation": "Although this paper is related to chloroquine, which is mentioned in the source paper, its focus on malaria and the immune response is quite different from the source paper's focus on rheumatoid arthritis. Therefore, it is not directly related to the source paper.",
+                    "relevance": 0
+                },
+                "2. Protein kinase small molecule inhibitors for rheumatoid arthritis: Medicinal chemistry/clinical perspectives": {
+                    "explanation": "This paper is related to rheumatoid arthritis, which is the main topic of the source paper. It explores a new angle of protein kinase small molecule inhibitors, which is partially dependent on the previous findings regarding disease-modifying antirheumatic drugs (DMARDs) mentioned in the source paper. Thus, it uses the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "3. [Cost-minimization analysis of subcutaneous abatacept in the treatment of rheumatoid arthritis in Spain]": {
+                    "explanation": "This paper is related to rheumatoid arthritis, which is the main topic of the source paper. It explores the cost-minimization analysis of subcutaneous abatacept, which is a biologic disease-modifying antirheumatic drug (DMARD) mentioned in the source paper. However, it is more focused on the cost aspect rather than the therapeutic aspect, and it does not directly build upon the source paper's findings.",
+                    "relevance": 1
+                },
+                "4. Toll-Like Receptor 9 in Breast Cancer": {
+                    "explanation": "This paper is not related to rheumatoid arthritis, which is the main topic of the source paper. It focuses on Toll-Like Receptor 9 in breast cancer, which is a different disease and a different area of research.",
+                    "relevance": 0
+                },
+                "5. \u2018Bamboo spine\u2019, a thing of the past?": {
+                    "explanation": "This paper is not directly related to rheumatoid arthritis, which is the main topic of the source paper. Although it mentions spondyloarthritis, which is a related disease, its focus is on the classification and diagnosis of spondyloarthritis rather than the treatment aspect mentioned in the source paper.",
+                    "relevance": 0
+                },
+                "6. The Effects of Chloroquine and Hydroxychloroquine on Nitric Oxide Production in RAW 264.7 and Bone Marrow-Derived Macrophages": {
+                    "explanation": "Although this paper is related to chloroquine, which is mentioned in the source paper, its focus on nitric oxide production in macrophages is quite different from the source paper's focus on rheumatoid arthritis. Therefore, it is not directly related to the source paper.",
+                    "relevance": 0
+                },
+                "7. The effects of chloroquine and hydroxychloroquine on nitric oxide production in RAW 264.7 and bone marrow-derived macrophages.": {
+                    "explanation": "This paper is a duplicate of paper 6, and the same explanation applies.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Protein kinase small molecule inhibitors for rheumatoid arthritis: Medicinal chemistry/clinical perspectives": {
+                    "explanation": "This paper is related to rheumatoid arthritis, which is the main topic of the source paper. It explores a new angle of protein kinase small molecule inhibitors, which is partially dependent on the previous findings regarding disease-modifying antirheumatic drugs (DMARDs) mentioned in the source paper. Thus, it uses the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "2. [Cost-minimization analysis of subcutaneous abatacept in the treatment of rheumatoid arthritis in Spain]": {
+                    "explanation": "This paper is related to rheumatoid arthritis, which is the main topic of the source paper. It explores the cost-minimization analysis of subcutaneous abatacept, which is a biologic disease-modifying antirheumatic drug (DMARD) mentioned in the source paper. However, it is more focused on the cost aspect rather than the therapeutic aspect, and it does not directly build upon the source paper's findings.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2015,
+        "source_paper": {
+            "paperId": "f9d3da51427526376fc04038ea9f51742320ddfd",
+            "title": "Current immunotherapy in rheumatoid arthritis.",
+            "abstract": "Rheumatoid arthritis is a common autoimmune disease primarily manifesting as chronic synovitis, subsequently leading to a change in joint integrity. Progressive disability and systemic complications are strongly associated with a decreased quality of life. To maintain function and health in patients with rheumatoid arthritis, early, aggressive and guided immunosuppressive therapy is required to induce clinical remission. Antirheumatic drugs are capable of controlling synovial inflammation and are therefore named 'disease-modifying antirheumatic drugs' (DMARDs). This article aims to bridge the beginning of DMARD therapy with agents such as methotrexate, leflunomide, sulfasalazine, injectable gold and (hydroxy)chloroquine with biological therapies, and with the new era of kinase inhibitors. Mechanisms of action, as well as advantages and disadvantages of DMARDs, are discussed with respect to the current literature and current recommendations.",
+            "year": 2013,
+            "citation_count": 117,
+            "relevance": 1,
+            "explanation": "The key hypothesis in this paper is inspired by the findings of the source paper, as it discusses methotrexate as one of the disease-modifying antirheumatic drugs (DMARDs) used in the treatment of rheumatoid arthritis, which is consistent with the source paper's results on the efficacy and toxicity of methotrexate in the treatment of rheumatoid arthritis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Multiple sclerosis: review of eye movement disorders and update of disease-modifying therapies": {
+                    "explanation": "This paper is a review paper and does not build upon the source paper's findings or hypotheses. The source paper focuses on rheumatoid arthritis, whereas this paper focuses on multiple sclerosis.",
+                    "relevance": 0
+                },
+                "2. Selective spleen tyrosine kinase inhibition delays autoimmune arthritis in mice": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it explores a potential therapeutic target for rheumatoid arthritis (SYK inhibition) that builds upon the understanding of the disease's immunological mechanisms discussed in the source paper.",
+                    "relevance": 2
+                },
+                "3. The Small Molecule Inhibitor of Protein Kinase Revolution for the Treatment of Rheumatoid Arthritis": {
+                    "explanation": "This paper is inspired by the hypothesis of the source paper, as it discusses the current state of medical therapy for rheumatoid arthritis, including the use of disease-modifying antirheumatic drugs (DMARDs) and biological therapies, and introduces new small molecule inhibitors as a potential therapeutic option.",
+                    "relevance": 1
+                },
+                "4. Nanodiagnostics, nanopharmacology and nanotoxicology of platelet-vessel wall interactions": {
+                    "explanation": "This paper has no connection to the source paper, as it focuses on the interactions between blood platelets and endothelial cells, and the potential applications of nanomedicine in vascular diseases, which is not related to rheumatoid arthritis or immunotherapy.",
+                    "relevance": 0
+                },
+                "5. Synergistic anti\u2010tumour effects of tetrandrine and chloroquine combination therapy in human cancer: a potential antagonistic role for p21": {
+                    "explanation": "This paper has no connection to the source paper, as it focuses on the anti-tumor effects of a combination therapy in human cancer, which is not related to rheumatoid arthritis or immunotherapy.",
+                    "relevance": 0
+                },
+                "6. Etanercept-Induced Pityriasis Lichenoides Chronica in a Patient with Rheumatoid Arthritis": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses a case of a patient with rheumatoid arthritis who developed a skin condition while being treated with etanercept, a biological therapy mentioned in the source paper.",
+                    "relevance": 2
+                },
+                "7. Current and future trends in biomarker discovery and development of companion diagnostics for arthritis": {
+                    "explanation": "This paper is inspired by the hypothesis of the source paper, as it discusses the need for biomarkers and companion diagnostics to improve disease management and treatment outcomes in rheumatoid arthritis, which is in line with the source paper's discussion of the importance of early, aggressive, and guided immunosuppressive therapy.",
+                    "relevance": 1
+                },
+                "8. Chondrocyte Apoptosis in Rheumatoid Arthritis: Is Preventive Therapy Possible?": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it explores the mechanisms of joint damage in rheumatoid arthritis, including the role of chondrocyte apoptosis, and discusses potential therapeutic strategies to prevent or mitigate this process.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Selective spleen tyrosine kinase inhibition delays autoimmune arthritis in mice": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it explores a potential therapeutic target for rheumatoid arthritis (SYK inhibition) that builds upon the understanding of the disease's immunological mechanisms discussed in the source paper.",
+                    "relevance": 2
+                },
+                "2. Etanercept-Induced Pityriasis Lichenoides Chronica in a Patient with Rheumatoid Arthritis": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses a case of a patient with rheumatoid arthritis who developed a skin condition while being treated with etanercept, a biological therapy mentioned in the source paper.",
+                    "relevance": 2
+                },
+                "3. Chondrocyte Apoptosis in Rheumatoid Arthritis: Is Preventive Therapy Possible?": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it explores the mechanisms of joint damage in rheumatoid arthritis, including the role of chondrocyte apoptosis, and discusses potential therapeutic strategies to prevent or mitigate this process.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2015,
+        "source_paper": {
+            "paperId": "bf62dcf70df95e5b678c6ffe4fa6c1553bfb51f0",
+            "title": "Protein kinase small molecule inhibitors for rheumatoid arthritis: Medicinal chemistry/clinical perspectives.",
+            "abstract": "Medicinal chemistry strategies have contributed to the development, experimental study of and clinical trials assessment of the first type of protein kinase small molecule inhibitor to target the Janus kinase/Signal Transducers and Activators of Transcription (JAK/STAT) signaling pathway. The orally administered small molecule inhibitor, tofacitinib, is the first drug to target the JAK/STAT pathway for entry into the armamentarium of the medical therapy of rheumatoid arthritis. The introduction of tofacitinib into general rheumatologic practice coupled with increasing understanding that additional cellular signal transduction pathways including the mitogen-activated protein kinase and phosphatidylinositide-3-kinase/Akt/mammalian target of rapamycin pathways as well as spleen tyrosine kinase also contribute to immune-mediated inflammatory in rheumatoid arthritis makes it likely that further development of orally administered protein kinase small molecule inhibitors for rheumatoid arthritis will occur in the near future.",
+            "year": 2014,
+            "citation_count": 16,
+            "relevance": 2,
+            "explanation": "This paper is related to rheumatoid arthritis, which is the main topic of the source paper. It explores a new angle of protein kinase small molecule inhibitors, which is partially dependent on the previous findings regarding disease-modifying antirheumatic drugs (DMARDs) mentioned in the source paper. Thus, it uses the source paper's findings as a sub-hypothesis."
+        },
+        "llama_output": {},
+        "seed": 42
+    },
+    {
+        "year": 2016,
+        "source_paper": {
+            "paperId": "bf62dcf70df95e5b678c6ffe4fa6c1553bfb51f0",
+            "title": "Protein kinase small molecule inhibitors for rheumatoid arthritis: Medicinal chemistry/clinical perspectives.",
+            "abstract": "Medicinal chemistry strategies have contributed to the development, experimental study of and clinical trials assessment of the first type of protein kinase small molecule inhibitor to target the Janus kinase/Signal Transducers and Activators of Transcription (JAK/STAT) signaling pathway. The orally administered small molecule inhibitor, tofacitinib, is the first drug to target the JAK/STAT pathway for entry into the armamentarium of the medical therapy of rheumatoid arthritis. The introduction of tofacitinib into general rheumatologic practice coupled with increasing understanding that additional cellular signal transduction pathways including the mitogen-activated protein kinase and phosphatidylinositide-3-kinase/Akt/mammalian target of rapamycin pathways as well as spleen tyrosine kinase also contribute to immune-mediated inflammatory in rheumatoid arthritis makes it likely that further development of orally administered protein kinase small molecule inhibitors for rheumatoid arthritis will occur in the near future.",
+            "year": 2014,
+            "citation_count": 16,
+            "relevance": 2,
+            "explanation": "This paper is related to rheumatoid arthritis, which is the main topic of the source paper. It explores a new angle of protein kinase small molecule inhibitors, which is partially dependent on the previous findings regarding disease-modifying antirheumatic drugs (DMARDs) mentioned in the source paper. Thus, it uses the source paper's findings as a sub-hypothesis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Investigative Drugs for Rheumatoid Arthritis: Novel Targets": {
+                    "explanation": "The key hypothesis in this paper is inspired by the findings of the source paper, as it discusses the development of small molecule inhibitors, specifically mentioning tofacitinib, which targets the JAK/STAT pathway, and explores novel targets for rheumatoid arthritis treatment.",
+                    "relevance": 1
+                },
+                "2. Suppressor of cytokine signaling and rheumatoid arthritis": {
+                    "explanation": "The key hypothesis in this paper is partially dependent on the findings of the source paper, as it discusses the role of signal transduction pathways, including the JAK/STAT pathway, in rheumatoid arthritis pathogenesis and progression, building on the source paper's discussion of protein kinase small molecule inhibitors.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Suppressor of cytokine signaling and rheumatoid arthritis": {
+                    "explanation": "The key hypothesis in this paper is partially dependent on the findings of the source paper, as it discusses the role of signal transduction pathways, including the JAK/STAT pathway, in rheumatoid arthritis pathogenesis and progression, building on the source paper's discussion of protein kinase small molecule inhibitors.",
+                    "relevance": 2
+                },
+                "2. Investigative Drugs for Rheumatoid Arthritis: Novel Targets": {
+                    "explanation": "The key hypothesis in this paper is inspired by the findings of the source paper, as it discusses the development of small molecule inhibitors, specifically mentioning tofacitinib, which targets the JAK/STAT pathway, and explores novel targets for rheumatoid arthritis treatment.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2017,
+        "source_paper": {
+            "paperId": "30d95164ad9cbde82f012f475038a0f4ae923a91",
+            "title": "Suppressor of cytokine signaling and rheumatoid arthritis",
+            "abstract": "The function of T-cells in general and T-cell subsets, B-cells, neutrophils, mast cells, macrophages and antigen-presenting dendritic cells as well articular chondrocytes and synovial fibroblasts are all significantly metabolically compromised in RA which has been correlated with defects at the molecular level. In that regard, altered function of these cells can generally be traced back to defective regulation of individual signal transduction pathways, involving primarily the mitogen-activated protein kinase (MAPK) pathway, [35] the Janus kinase/Signal Transducers and Activators of Transcription pathway (JAK/STAT) [6-9], the Toll-like receptor pathway [1012] and the phosphatidylinositol-3-kinase/Akt/ mechanistic target of rapamycin (PI3K/PKB/mTOR) pathway [13-16]. In addition, deregulated signal transduction in the cells from RA joint tissues is also likely to involve \u201ccross-talk\u201d between signaling cascades leading to continuous activation between these various receptor-mediated signaling pathways [4].",
+            "year": 2016,
+            "citation_count": 6,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is partially dependent on the findings of the source paper, as it discusses the role of signal transduction pathways, including the JAK/STAT pathway, in rheumatoid arthritis pathogenesis and progression, building on the source paper's discussion of protein kinase small molecule inhibitors."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Negative Regulators of JAK/STAT Signaling in Rheumatoid Arthritis and Osteoarthritis": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it explores the role of negative regulators of JAK/STAT signaling in the context of rheumatoid arthritis, which is a key aspect of the source paper's discussion on the molecular mechanisms underlying RA.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Negative Regulators of JAK/STAT Signaling in Rheumatoid Arthritis and Osteoarthritis": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it explores the role of negative regulators of JAK/STAT signaling in the context of rheumatoid arthritis, which is a key aspect of the source paper's discussion on the molecular mechanisms underlying RA.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2018,
+        "source_paper": {
+            "paperId": "30d95164ad9cbde82f012f475038a0f4ae923a91",
+            "title": "Suppressor of cytokine signaling and rheumatoid arthritis",
+            "abstract": "The function of T-cells in general and T-cell subsets, B-cells, neutrophils, mast cells, macrophages and antigen-presenting dendritic cells as well articular chondrocytes and synovial fibroblasts are all significantly metabolically compromised in RA which has been correlated with defects at the molecular level. In that regard, altered function of these cells can generally be traced back to defective regulation of individual signal transduction pathways, involving primarily the mitogen-activated protein kinase (MAPK) pathway, [35] the Janus kinase/Signal Transducers and Activators of Transcription pathway (JAK/STAT) [6-9], the Toll-like receptor pathway [1012] and the phosphatidylinositol-3-kinase/Akt/ mechanistic target of rapamycin (PI3K/PKB/mTOR) pathway [13-16]. In addition, deregulated signal transduction in the cells from RA joint tissues is also likely to involve \u201ccross-talk\u201d between signaling cascades leading to continuous activation between these various receptor-mediated signaling pathways [4].",
+            "year": 2016,
+            "citation_count": 6,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is partially dependent on the findings of the source paper, as it discusses the role of signal transduction pathways, including the JAK/STAT pathway, in rheumatoid arthritis pathogenesis and progression, building on the source paper's discussion of protein kinase small molecule inhibitors."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Defective T-Cell Apoptosis and T-Regulatory Cell Dysfunction in Rheumatoid Arthritis": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores T-cell dysfunction and T-regulatory cell dysfunction, which is related to the defective regulation of individual signal transduction pathways mentioned in the source paper.",
+                    "relevance": 2
+                },
+                "2. Pharmacologic Interventions for Preventing Chondrocyte Apoptosis in Rheumatoid Arthritis and Osteoarthritis": {
+                    "explanation": "This paper is a review paper that discusses various pharmacologic interventions for preventing chondrocyte apoptosis, but it does not build upon the specific findings of the source paper. It lacks novel hypotheses or findings related to the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Defective T-Cell Apoptosis and T-Regulatory Cell Dysfunction in Rheumatoid Arthritis": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores T-cell dysfunction and T-regulatory cell dysfunction, which is related to the defective regulation of individual signal transduction pathways mentioned in the source paper.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2018,
+        "source_paper": {
+            "paperId": "ab8b53fc3d9fedbec4bd6b3a7d2610c2ba199702",
+            "title": "Negative Regulators of JAK/STAT Signaling in Rheumatoid Arthritis and Osteoarthritis",
+            "abstract": "Elevated levels of pro-inflammatory cytokines are generally thought to be responsible for driving the progression of synovial joint inflammation in rheumatoid arthritis (RA) and osteoarthritis (OA). These cytokines activate several signal transduction pathways, including the Janus kinase/Signal Transducers and Activators of Transcription (JAK/STAT), Stress-Activated/Mitogen-Activated Protein Kinase (SAPK/MAPK) and phosphatidylinositol-3-kinase/Akt/mechanistic target of rapamycin (PI3K/Akt/mTOR) pathways which regulate numerous cellular responses. However, cytokine gene expression, matrix metalloproteinase gene expression and aberrant immune cell and synoviocyte survival via reduced apoptosis are most critical in the context of inflammation characteristic of RA and OA. Negative regulation of JAK/STAT signaling is controlled by Suppressor of Cytokine Signaling (SOCS) proteins. SOCS is produced at lower levels in RA and OA. In addition, gaining further insight into the role played in RA and OA pathology by the inhibitors of the apoptosis protein family, cellular inhibitor of apoptosis protein-1, -2 (c-IAP1, c-IAP2), X (cross)-linked inhibitor of apoptosis protein (XIAP), protein inhibitor of activated STAT (PIAS), and survivin (human) as well as SOCS appears to be a worthy endeavor going forward.",
+            "year": 2017,
+            "citation_count": 101,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it explores the role of negative regulators of JAK/STAT signaling in the context of rheumatoid arthritis, which is a key aspect of the source paper's discussion on the molecular mechanisms underlying RA."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Baicalin Ameliorates Collagen-Induced Arthritis Through the Suppression of Janus Kinase 1 (JAK1)/Signal Transducer and Activator of Transcription 3 (STAT3) Signaling in Mice": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the role of JAK/STAT signaling in rheumatoid arthritis and explores a potential therapeutic approach using baicalin.",
+                    "relevance": 1
+                },
+                "2. The roles of SOCS3 and STAT3 in bacterial infection and inflammatory diseases": {
+                    "explanation": "This paper is a review and lacks novel hypotheses or findings, thus it has no direct connection to the source paper.",
+                    "relevance": 0
+                },
+                "3. Downregulation of long noncoding RNA LOC101928134 inhibits the synovial hyperplasia and cartilage destruction of osteoarthritis rats through the activation of the Janus kinase/signal transducers and activators of transcription signaling pathway by upregulating IFNA1": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the role of JAK/STAT signaling in osteoarthritis and identifies a potential therapeutic target.",
+                    "relevance": 2
+                },
+                "4. Effects of microRNA\u201024 targeting C\u2010myc on apoptosis, proliferation, and cytokine expressions in chondrocytes of rats with osteoarthritis via MAPK signaling pathway": {
+                    "explanation": "The hypothesis in this paper is not directly related to the source paper, as it focuses on the MAPK signaling pathway and microRNA-24, rather than JAK/STAT signaling.",
+                    "relevance": 0
+                },
+                "5. Pharmacologic Interventions for Preventing Chondrocyte Apoptosis in Rheumatoid Arthritis and Osteoarthritis": {
+                    "explanation": "This paper is a review and lacks novel hypotheses or findings, thus it has no direct connection to the source paper.",
+                    "relevance": 0
+                },
+                "6. Sex Differences in Correlation with Gene Expression Levels between Ifi200 Family Genes and Four Sets of Immune Disease-Relevant Genes": {
+                    "explanation": "The hypothesis in this paper is not directly related to the source paper, as it focuses on sex differences in gene expression and immune disease-relevant genes, rather than JAK/STAT signaling.",
+                    "relevance": 0
+                },
+                "7. MicroRNA\u2010136 promotes lipopolysaccharide\u2010induced ATDC5 cell injury and inflammatory cytokine expression by targeting myeloid cell leukemia 1": {
+                    "explanation": "The hypothesis in this paper is not directly related to the source paper, as it focuses on microRNA-136 and its role in osteoarthritis, rather than JAK/STAT signaling.",
+                    "relevance": 0
+                },
+                "8. MicroRNAs and Osteoarthritis": {
+                    "explanation": "This paper is a review and lacks novel hypotheses or findings, thus it has no direct connection to the source paper.",
+                    "relevance": 0
+                },
+                "9. The role of the JAK/STAT signal pathway in rheumatoid arthritis": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the role of JAK/STAT signaling in rheumatoid arthritis and discusses its therapeutic potential.",
+                    "relevance": 2
+                },
+                "10. Multifaceted role of IL\u201021 in rheumatoid arthritis: Current understanding and future perspectives": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the role of IL-21 in rheumatoid arthritis and explores its potential as a therapeutic target.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Downregulation of long noncoding RNA LOC101928134 inhibits the synovial hyperplasia and cartilage destruction of osteoarthritis rats through the activation of the Janus kinase/signal transducers and activators of transcription signaling pathway by upregulating IFNA1": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the role of JAK/STAT signaling in osteoarthritis and identifies a potential therapeutic target.",
+                    "relevance": 2
+                },
+                "2. The role of the JAK/STAT signal pathway in rheumatoid arthritis": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the role of JAK/STAT signaling in rheumatoid arthritis and discusses its therapeutic potential.",
+                    "relevance": 2
+                },
+                "3. Baicalin Ameliorates Collagen-Induced Arthritis Through the Suppression of Janus Kinase 1 (JAK1)/Signal Transducer and Activator of Transcription 3 (STAT3) Signaling in Mice": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the role of JAK/STAT signaling in rheumatoid arthritis and explores a potential therapeutic approach using baicalin.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2018,
+        "source_paper": {
+            "paperId": "ab8b53fc3d9fedbec4bd6b3a7d2610c2ba199702",
+            "title": "Negative Regulators of JAK/STAT Signaling in Rheumatoid Arthritis and Osteoarthritis",
+            "abstract": "Elevated levels of pro-inflammatory cytokines are generally thought to be responsible for driving the progression of synovial joint inflammation in rheumatoid arthritis (RA) and osteoarthritis (OA). These cytokines activate several signal transduction pathways, including the Janus kinase/Signal Transducers and Activators of Transcription (JAK/STAT), Stress-Activated/Mitogen-Activated Protein Kinase (SAPK/MAPK) and phosphatidylinositol-3-kinase/Akt/mechanistic target of rapamycin (PI3K/Akt/mTOR) pathways which regulate numerous cellular responses. However, cytokine gene expression, matrix metalloproteinase gene expression and aberrant immune cell and synoviocyte survival via reduced apoptosis are most critical in the context of inflammation characteristic of RA and OA. Negative regulation of JAK/STAT signaling is controlled by Suppressor of Cytokine Signaling (SOCS) proteins. SOCS is produced at lower levels in RA and OA. In addition, gaining further insight into the role played in RA and OA pathology by the inhibitors of the apoptosis protein family, cellular inhibitor of apoptosis protein-1, -2 (c-IAP1, c-IAP2), X (cross)-linked inhibitor of apoptosis protein (XIAP), protein inhibitor of activated STAT (PIAS), and survivin (human) as well as SOCS appears to be a worthy endeavor going forward.",
+            "year": 2017,
+            "citation_count": 101,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it explores the role of negative regulators of JAK/STAT signaling in the context of rheumatoid arthritis, which is a key aspect of the source paper's discussion on the molecular mechanisms underlying RA."
+        },
+        "llama_output": {},
+        "seed": 42
+    },
+    {
+        "year": 2019,
+        "source_paper": {
+            "paperId": "ab8b53fc3d9fedbec4bd6b3a7d2610c2ba199702",
+            "title": "Negative Regulators of JAK/STAT Signaling in Rheumatoid Arthritis and Osteoarthritis",
+            "abstract": "Elevated levels of pro-inflammatory cytokines are generally thought to be responsible for driving the progression of synovial joint inflammation in rheumatoid arthritis (RA) and osteoarthritis (OA). These cytokines activate several signal transduction pathways, including the Janus kinase/Signal Transducers and Activators of Transcription (JAK/STAT), Stress-Activated/Mitogen-Activated Protein Kinase (SAPK/MAPK) and phosphatidylinositol-3-kinase/Akt/mechanistic target of rapamycin (PI3K/Akt/mTOR) pathways which regulate numerous cellular responses. However, cytokine gene expression, matrix metalloproteinase gene expression and aberrant immune cell and synoviocyte survival via reduced apoptosis are most critical in the context of inflammation characteristic of RA and OA. Negative regulation of JAK/STAT signaling is controlled by Suppressor of Cytokine Signaling (SOCS) proteins. SOCS is produced at lower levels in RA and OA. In addition, gaining further insight into the role played in RA and OA pathology by the inhibitors of the apoptosis protein family, cellular inhibitor of apoptosis protein-1, -2 (c-IAP1, c-IAP2), X (cross)-linked inhibitor of apoptosis protein (XIAP), protein inhibitor of activated STAT (PIAS), and survivin (human) as well as SOCS appears to be a worthy endeavor going forward.",
+            "year": 2017,
+            "citation_count": 101,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it explores the role of negative regulators of JAK/STAT signaling in the context of rheumatoid arthritis, which is a key aspect of the source paper's discussion on the molecular mechanisms underlying RA."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Effect of growth hormone releasing hormone on chondrocytes of osteoarthritis": {
+                    "explanation": "This paper does not directly build upon or use the findings of the source paper. It explores a different topic, the effect of growth hormone releasing hormone on chondrocytes of osteoarthritis.",
+                    "relevance": 0
+                },
+                "2. Protease-activated receptor 2 (PAR-2) antagonist AZ3451 as a novel therapeutic agent for osteoarthritis": {
+                    "explanation": "This paper does not directly build upon or use the findings of the source paper. It explores a different topic, the use of PAR-2 antagonist AZ3451 as a therapeutic agent for osteoarthritis.",
+                    "relevance": 0
+                },
+                "3. Upadacitinib and filgotinib: the role of JAK1 selective inhibition in the treatment of rheumatoid arthritis": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the role of JAK/STAT signaling in rheumatoid arthritis and explores the use of JAK1 selective inhibitors as a therapeutic approach.",
+                    "relevance": 2
+                },
+                "4. Kirenol Inhibits the Function and Inflammation of Fibroblast-like Synoviocytes in Rheumatoid Arthritis in vitro and in vivo": {
+                    "explanation": "This paper does not directly build upon or use the findings of the source paper. It explores a different topic, the effect of Kirenol on fibroblast-like synoviocytes in rheumatoid arthritis.",
+                    "relevance": 0
+                },
+                "5. Protective efficacy of Hippophae rhamnoides L. extract exhibited in rat heart against hypobaric hypoxia is possibly mediated by configurations in JAK/STAT pathway": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the role of JAK/STAT signaling in mediating the protective effects of Hippophae rhamnoides L. extract against hypobaric hypoxia.",
+                    "relevance": 2
+                },
+                "6. A double\u2010blind, randomized, placebo\u2010controlled study to assess the efficacy of Andrographis paniculata standardized extract (ParActin\u00ae) on pain reduction in subjects with knee osteoarthritis": {
+                    "explanation": "This paper does not directly build upon or use the findings of the source paper. It explores a different topic, the efficacy of Andrographis paniculata standardized extract on pain reduction in knee osteoarthritis.",
+                    "relevance": 0
+                },
+                "7. Investigation of gene expression profiles in a rat adjuvant arthritis model suggests an effective role of triptolide via PI3K-AKT signaling": {
+                    "explanation": "This paper does not directly build upon or use the findings of the source paper. It explores a different topic, the role of triptolide in modulating gene expression profiles in a rat adjuvant arthritis model.",
+                    "relevance": 0
+                },
+                "8. [Role of hypomethylation of suppressor of cytokine signaling in T helper 17 cell/regulatory T cell imbalance in children with Henoch-Sch\u00f6nlein purpura]": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the role of SOCS in regulating cytokine signaling and its potential involvement in immune disorders.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Upadacitinib and filgotinib: the role of JAK1 selective inhibition in the treatment of rheumatoid arthritis": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the role of JAK/STAT signaling in rheumatoid arthritis and explores the use of JAK1 selective inhibitors as a therapeutic approach.",
+                    "relevance": 2
+                },
+                "2. Protective efficacy of Hippophae rhamnoides L. extract exhibited in rat heart against hypobaric hypoxia is possibly mediated by configurations in JAK/STAT pathway": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the role of JAK/STAT signaling in mediating the protective effects of Hippophae rhamnoides L. extract against hypobaric hypoxia.",
+                    "relevance": 2
+                },
+                "3. [Role of hypomethylation of suppressor of cytokine signaling in T helper 17 cell/regulatory T cell imbalance in children with Henoch-Sch\u00f6nlein purpura]": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the role of SOCS in regulating cytokine signaling and its potential involvement in immune disorders.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2019,
+        "source_paper": {
+            "paperId": "6c5abce8ea2d8fae2d5a6ab5c9178dd68f6b4fe3",
+            "title": "The role of the JAK/STAT signal pathway in rheumatoid arthritis",
+            "abstract": "Proinflammatory cytokine activation of the Janus kinase/signal transducers and activators of transcription (JAK/STAT) signal transduction pathway is a critical event in the pathogenesis and progression of rheumatoid arthritis. Under normal conditions, JAK/STAT signaling reflects the influence of negative regulators of JAK/STAT, exemplified by the suppressor of cytokine signaling and protein inhibitor of activated STAT. However, in rheumatoid arthritis (RA) both of these regulators are dysfunctional. Thus, continuous activation of JAK/STAT signaling in RA synovial joints results in the elevated level of matrix metalloproteinase gene expression, increased frequency of apoptotic chondrocytes and most prominently \u2018apoptosis resistance\u2019 in the inflamed synovial tissue. Tofacitinib, a JAK small molecule inhibitor, with selectivity for JAK2/JAK3 was approved by the United States Food and Drug Administration (US FDA) for the therapy of RA. Importantly, tofacitinib has demonstrated significant clinical efficacy for RA in the post-US FDA-approval surveillance period. Of note, the success of tofacitinib has spurred the development of JAK1, JAK2 and other JAK3-selective small molecule inhibitors, some of which have also entered the clinical setting, whereas other JAK inhibitors are currently being evaluated in RA clinical trials.",
+            "year": 2018,
+            "citation_count": 201,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the role of JAK/STAT signaling in rheumatoid arthritis and discusses its therapeutic potential."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. 7-epi-Clusianone, a Multi-Targeting Natural Product with Potential Chemotherapeutic, Immune-Modulating, and Anti-Angiogenic Properties": {
+                    "explanation": "This paper has no connection with the source paper as it discusses the potential of a natural product in cancer treatment, which is unrelated to rheumatoid arthritis or the JAK/STAT signal pathway.",
+                    "relevance": 0
+                },
+                "2. pathfindR: An R Package for Comprehensive Identification of Enriched Pathways in Omics Data Through Active Subnetworks": {
+                    "explanation": "This paper has no connection with the source paper as it presents an R package for pathway analysis, which is a tool unrelated to the JAK/STAT signal pathway or rheumatoid arthritis.",
+                    "relevance": 0
+                },
+                "3. Alnus Sibirica Extracts Suppress the Expression of Inflammatory Cytokines Induced by Lipopolysaccharides, Tumor Necrosis Factor-\u03b1, and Interferon-\u03b3 in Human Dermal Fibroblasts": {
+                    "explanation": "This paper has no connection with the source paper as it investigates the anti-inflammatory effects of Alnus sibirica extracts, which is unrelated to the JAK/STAT signal pathway or rheumatoid arthritis.",
+                    "relevance": 0
+                },
+                "4. Efficacy and safety of peficitinib (ASP015K) in patients with rheumatoid arthritis and an inadequate response to methotrexate: results of a phase III randomised, double-blind, placebo-controlled trial (RAJ4) in Japan": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the efficacy and safety of a JAK inhibitor, peficitinib, in patients with rheumatoid arthritis, which is related to the JAK/STAT signal pathway discussed in the source paper.",
+                    "relevance": 2
+                },
+                "5. Rheumatoid arthritis: \u2018melting pot\u2019 of T helper subsets": {
+                    "explanation": "This paper is a review and has no novel hypothesis or findings, but it discusses the role of T helper subsets in rheumatoid arthritis, which is related to the source paper's discussion of the JAK/STAT signal pathway.",
+                    "relevance": 0
+                },
+                "6. Chronic pain and central sensitization in immuno-inflammatory rheumatic diseases: pathogenesis, clinical manifestations, the possibility of using targeted disease modifying antirheumatic drugs": {
+                    "explanation": "The key hypothesis in this paper is inspired by the findings of the source paper, as it discusses the role of the JAK-STAT pathway in chronic pain and central sensitization in immuno-inflammatory rheumatic diseases, including rheumatoid arthritis.",
+                    "relevance": 1
+                },
+                "7. Immunopathogenic Mechanisms and Novel Immune-Modulated Therapies in Rheumatoid Arthritis": {
+                    "explanation": "The key hypothesis in this paper is inspired by the findings of the source paper, as it discusses the immunopathogenic mechanisms of rheumatoid arthritis and novel immune-modulated therapies, including JAK inhibitors, which is related to the JAK/STAT signal pathway discussed in the source paper.",
+                    "relevance": 1
+                },
+                "8. Advances in the Study of Chronic Active Epstein-Barr Virus Infection: Clinical Features Under the 2016 WHO Classification and Mechanisms of Development": {
+                    "explanation": "This paper has no connection with the source paper as it discusses chronic active Epstein-Barr virus infection, which is unrelated to rheumatoid arthritis or the JAK/STAT signal pathway.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Efficacy and safety of peficitinib (ASP015K) in patients with rheumatoid arthritis and an inadequate response to methotrexate: results of a phase III randomised, double-blind, placebo-controlled trial (RAJ4) in Japan": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the efficacy and safety of a JAK inhibitor, peficitinib, in patients with rheumatoid arthritis, which is related to the JAK/STAT signal pathway discussed in the source paper.",
+                    "relevance": 2
+                },
+                "2. Immunopathogenic Mechanisms and Novel Immune-Modulated Therapies in Rheumatoid Arthritis": {
+                    "explanation": "The key hypothesis in this paper is inspired by the findings of the source paper, as it discusses the immunopathogenic mechanisms of rheumatoid arthritis and novel immune-modulated therapies, including JAK inhibitors, which is related to the JAK/STAT signal pathway discussed in the source paper.",
+                    "relevance": 1
+                },
+                "3. Chronic pain and central sensitization in immuno-inflammatory rheumatic diseases: pathogenesis, clinical manifestations, the possibility of using targeted disease modifying antirheumatic drugs": {
+                    "explanation": "The key hypothesis in this paper is inspired by the findings of the source paper, as it discusses the role of the JAK-STAT pathway in chronic pain and central sensitization in immuno-inflammatory rheumatic diseases, including rheumatoid arthritis.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2020,
+        "source_paper": {
+            "paperId": "6c5abce8ea2d8fae2d5a6ab5c9178dd68f6b4fe3",
+            "title": "The role of the JAK/STAT signal pathway in rheumatoid arthritis",
+            "abstract": "Proinflammatory cytokine activation of the Janus kinase/signal transducers and activators of transcription (JAK/STAT) signal transduction pathway is a critical event in the pathogenesis and progression of rheumatoid arthritis. Under normal conditions, JAK/STAT signaling reflects the influence of negative regulators of JAK/STAT, exemplified by the suppressor of cytokine signaling and protein inhibitor of activated STAT. However, in rheumatoid arthritis (RA) both of these regulators are dysfunctional. Thus, continuous activation of JAK/STAT signaling in RA synovial joints results in the elevated level of matrix metalloproteinase gene expression, increased frequency of apoptotic chondrocytes and most prominently \u2018apoptosis resistance\u2019 in the inflamed synovial tissue. Tofacitinib, a JAK small molecule inhibitor, with selectivity for JAK2/JAK3 was approved by the United States Food and Drug Administration (US FDA) for the therapy of RA. Importantly, tofacitinib has demonstrated significant clinical efficacy for RA in the post-US FDA-approval surveillance period. Of note, the success of tofacitinib has spurred the development of JAK1, JAK2 and other JAK3-selective small molecule inhibitors, some of which have also entered the clinical setting, whereas other JAK inhibitors are currently being evaluated in RA clinical trials.",
+            "year": 2018,
+            "citation_count": 201,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the role of JAK/STAT signaling in rheumatoid arthritis and discusses its therapeutic potential."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Identification of New, Functionally Relevant Mutations in the Coding Regions of the Human Fos and Jun Proto-Oncogenes in Rheumatoid Arthritis Synovial Tissue": {
+                    "explanation": "The paper explores the mutations in the coding regions of the AP-1 subunits of the fos and jun family in RA patients, but it does not directly build upon or use the findings of the source paper as a sub-hypothesis. However, the source paper mentions the role of JAK/STAT signaling in the pathogenesis of RA, and this paper investigates the AP-1 transcription factor, which is related to the JAK/STAT pathway.",
+                    "relevance": 1
+                },
+                "2. Efficacy and safety of filgotinib in Japanese patients with refractory rheumatoid arthritis: Subgroup analyses of a global Phase 3 study (FINCH 2)": {
+                    "explanation": "This paper is a clinical trial report on the efficacy and safety of filgotinib in Japanese patients with refractory RA. The source paper discusses the role of JAK/STAT signaling in RA and the use of JAK inhibitors like tofacitinib, but it does not directly relate to the findings of this paper, which focuses on filgotinib.",
+                    "relevance": 0
+                },
+                "3. Targeting Interleukin-2-Inducible T-Cell Kinase (ITK) Differentiates GVL and GVHD in Allo-HSCT": {
+                    "explanation": "This paper investigates the role of ITK in differentiating GVL and GVHD in allo-HSCT. Although it mentions the JAK/STAT pathway, it does not directly build upon or use the findings of the source paper as a sub-hypothesis. The source paper focuses on RA, while this paper focuses on allo-HSCT.",
+                    "relevance": 0
+                },
+                "4. Therapeutic Maintenance of Baricitinib and Tofacitinib in Real Life": {
+                    "explanation": "This paper evaluates the effectiveness and maintenance of baricitinib and tofacitinib in real-life settings. The source paper discusses the role of JAK/STAT signaling in RA and the use of JAK inhibitors like tofacitinib, and this paper builds upon those findings by investigating the therapeutic maintenance of tofacitinib and another JAK inhibitor, baricitinib.",
+                    "relevance": 2
+                },
+                "5. Study of miRNA interactome in active rheumatoid arthritis patients reveals key pathogenic roles of dysbiosis in the infection\u2013immune network": {
+                    "explanation": "This paper investigates the miRNA interactome in active RA patients and its relation to dysbiosis in the infection-immune network. Although it mentions the JAK/STAT pathway, it does not directly build upon or use the findings of the source paper as a sub-hypothesis. The source paper focuses on the role of JAK/STAT signaling in RA, while this paper focuses on the miRNA interactome.",
+                    "relevance": 1
+                },
+                "6. Tofacitinib and Baricitinib Are Taken up by Different Uptake Mechanisms Determining the Efficacy of Both Drugs in RA": {
+                    "explanation": "This paper investigates the uptake mechanisms of tofacitinib and baricitinib in RA. The source paper discusses the role of JAK/STAT signaling in RA and the use of JAK inhibitors like tofacitinib, and this paper builds upon those findings by investigating the uptake mechanisms of tofacitinib and another JAK inhibitor, baricitinib.",
+                    "relevance": 2
+                },
+                "7. A Novel Role of Interleukin-6 as a Regulatory Factor of Inflammation-Associated Deterioration in Osteoblast Arrangement": {
+                    "explanation": "This paper investigates the role of IL-6 in inflammation-associated deterioration in osteoblast arrangement. Although it mentions the JAK/STAT pathway, it does not directly build upon or use the findings of the source paper as a sub-hypothesis. The source paper focuses on the role of JAK/STAT signaling in RA, while this paper focuses on the role of IL-6 in osteoblast arrangement.",
+                    "relevance": 0
+                },
+                "8. Medicinal plants used against various inflammatory biomarkers for the management of rheumatoid arthritis": {
+                    "explanation": "This paper reviews medicinal plants used against inflammatory biomarkers in RA. Although it mentions the JAK/STAT pathway, it does not directly build upon or use the findings of the source paper as a sub-hypothesis. The source paper focuses on the role of JAK/STAT signaling in RA, while this paper focuses on medicinal plants.",
+                    "relevance": 0
+                },
+                "9. Inhibition of ITK differentiates GVT and GVHD in allo-HSCT": {
+                    "explanation": "This paper is a duplicate of paper 3 and has the same explanation.",
+                    "relevance": 0
+                },
+                "10. JANEX-1 improves acute pulmonary embolism through VEGF and FAK in pulmonary artery smooth muscle cells": {
+                    "explanation": "This paper investigates the effect of JANEX-1 on acute pulmonary embolism. Although it mentions the JAK/STAT pathway, it does not directly build upon or use the findings of the source paper as a sub-hypothesis. The source paper focuses on the role of JAK/STAT signaling in RA, while this paper focuses on acute pulmonary embolism.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Therapeutic Maintenance of Baricitinib and Tofacitinib in Real Life": {
+                    "explanation": "This paper evaluates the effectiveness and maintenance of baricitinib and tofacitinib in real-life settings. The source paper discusses the role of JAK/STAT signaling in RA and the use of JAK inhibitors like tofacitinib, and this paper builds upon those findings by investigating the therapeutic maintenance of tofacitinib and another JAK inhibitor, baricitinib.",
+                    "relevance": 2
+                },
+                "2. Tofacitinib and Baricitinib Are Taken up by Different Uptake Mechanisms Determining the Efficacy of Both Drugs in RA": {
+                    "explanation": "This paper investigates the uptake mechanisms of tofacitinib and baricitinib in RA. The source paper discusses the role of JAK/STAT signaling in RA and the use of JAK inhibitors like tofacitinib, and this paper builds upon those findings by investigating the uptake mechanisms of tofacitinib and another JAK inhibitor, baricitinib.",
+                    "relevance": 2
+                },
+                "3. Identification of New, Functionally Relevant Mutations in the Coding Regions of the Human Fos and Jun Proto-Oncogenes in Rheumatoid Arthritis Synovial Tissue": {
+                    "explanation": "The paper explores the mutations in the coding regions of the AP-1 subunits of the fos and jun family in RA patients, but it does not directly build upon or use the findings of the source paper as a sub-hypothesis. However, the source paper mentions the role of JAK/STAT signaling in the pathogenesis of RA, and this paper investigates the AP-1 transcription factor, which is related to the JAK/STAT pathway.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2020,
+        "source_paper": {
+            "paperId": "6c5abce8ea2d8fae2d5a6ab5c9178dd68f6b4fe3",
+            "title": "The role of the JAK/STAT signal pathway in rheumatoid arthritis",
+            "abstract": "Proinflammatory cytokine activation of the Janus kinase/signal transducers and activators of transcription (JAK/STAT) signal transduction pathway is a critical event in the pathogenesis and progression of rheumatoid arthritis. Under normal conditions, JAK/STAT signaling reflects the influence of negative regulators of JAK/STAT, exemplified by the suppressor of cytokine signaling and protein inhibitor of activated STAT. However, in rheumatoid arthritis (RA) both of these regulators are dysfunctional. Thus, continuous activation of JAK/STAT signaling in RA synovial joints results in the elevated level of matrix metalloproteinase gene expression, increased frequency of apoptotic chondrocytes and most prominently \u2018apoptosis resistance\u2019 in the inflamed synovial tissue. Tofacitinib, a JAK small molecule inhibitor, with selectivity for JAK2/JAK3 was approved by the United States Food and Drug Administration (US FDA) for the therapy of RA. Importantly, tofacitinib has demonstrated significant clinical efficacy for RA in the post-US FDA-approval surveillance period. Of note, the success of tofacitinib has spurred the development of JAK1, JAK2 and other JAK3-selective small molecule inhibitors, some of which have also entered the clinical setting, whereas other JAK inhibitors are currently being evaluated in RA clinical trials.",
+            "year": 2018,
+            "citation_count": 201,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the role of JAK/STAT signaling in rheumatoid arthritis and discusses its therapeutic potential."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. JAK/STAT pathway in pathology of rheumatoid arthritis (Review)": {
+                    "explanation": "This paper is a review of the JAK/STAT pathway in rheumatoid arthritis and does not provide any new findings or hypotheses.",
+                    "relevance": 0
+                },
+                "2. Systematic review on tuberculosis risk in patients with rheumatoid arthritis receiving inhibitors of Janus Kinases": {
+                    "explanation": "This paper is a systematic review that assesses the risk of tuberculosis in patients with rheumatoid arthritis receiving Janus kinase inhibitors. While it is related to the topic of the source paper, it does not build upon the source paper's findings or hypothesis.",
+                    "relevance": 0
+                },
+                "3. Basic Mechanisms of JAK Inhibition": {
+                    "explanation": "This paper provides an overview of the basic mechanisms of JAK inhibition, which is related to the topic of the source paper. However, it does not build upon the source paper's findings or hypothesis.",
+                    "relevance": 1
+                },
+                "4. Chinese Herbal Formula, Huayu Tongbi Fang, Attenuates Inflammatory Proliferation of Rat Synoviocytes Induced by IL-1\u03b2 by Regulating Proliferation and Differentiation of T Lymphocytes": {
+                    "explanation": "This paper investigates the effects of a Chinese herbal formula on inflammatory proliferation of rat synoviocytes, which is related to the topic of the source paper. The paper mentions the JAK/STAT pathway, but it does not build upon the source paper's findings or hypothesis.",
+                    "relevance": 1
+                },
+                "5. Hi-JAKi-ng Synovial Fibroblasts in Inflammatory Arthritis With JAK Inhibitors": {
+                    "explanation": "This paper reviews the effects of JAK inhibitors on synovial fibroblasts in inflammatory arthritis, which is related to the topic of the source paper. The paper builds upon the source paper's findings on the role of JAK inhibitors in rheumatoid arthritis.",
+                    "relevance": 2
+                },
+                "6. Fedratinib in myelofibrosis": {
+                    "explanation": "This paper discusses the use of fedratinib, a JAK inhibitor, in the treatment of myelofibrosis. While it is related to the topic of JAK inhibitors, it does not build upon the source paper's findings or hypothesis on rheumatoid arthritis.",
+                    "relevance": 1
+                },
+                "7. Janus kinase inhibitors: A therapeutic strategy for cancer and autoimmune diseases": {
+                    "explanation": "This paper discusses the use of JAK inhibitors as a therapeutic strategy for cancer and autoimmune diseases, which is related to the topic of the source paper. However, it does not build upon the source paper's findings or hypothesis on rheumatoid arthritis.",
+                    "relevance": 1
+                },
+                "8. Activity of fibroblast-like synoviocytes in rheumatoid arthritis was impaired by dickkopf-1 targeting siRNA": {
+                    "explanation": "This paper investigates the effects of dickkopf-1 targeting siRNA on the activity of fibroblast-like synoviocytes in rheumatoid arthritis. While it is related to the topic of the source paper, it does not build upon the source paper's findings or hypothesis on JAK inhibitors.",
+                    "relevance": 1
+                },
+                "9. Recent Advances in Nanotheranostics for Treat\u2010to\u2010Target of Rheumatoid Arthritis": {
+                    "explanation": "This paper discusses the use of nanotheranostics for the treatment of rheumatoid arthritis, which is related to the topic of the source paper. However, it does not build upon the source paper's findings or hypothesis on JAK inhibitors.",
+                    "relevance": 1
+                },
+                "10. Molecular modeling studies of pyrrolo[2,3-d]pyrimidin-4-amine derivatives as JAK1 inhibitors based on 3D-QSAR, molecular docking, molecular dynamics (MD) and MM-PBSA calculations": {
+                    "explanation": "This paper discusses the use of molecular modeling studies to design JAK1 inhibitors, which is related to the topic of the source paper. The paper builds upon the source paper's findings on the role of JAK inhibitors in rheumatoid arthritis.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Hi-JAKi-ng Synovial Fibroblasts in Inflammatory Arthritis With JAK Inhibitors": {
+                    "explanation": "This paper reviews the effects of JAK inhibitors on synovial fibroblasts in inflammatory arthritis, which is related to the topic of the source paper. The paper builds upon the source paper's findings on the role of JAK inhibitors in rheumatoid arthritis.",
+                    "relevance": 2
+                },
+                "2. Molecular modeling studies of pyrrolo[2,3-d]pyrimidin-4-amine derivatives as JAK1 inhibitors based on 3D-QSAR, molecular docking, molecular dynamics (MD) and MM-PBSA calculations": {
+                    "explanation": "This paper discusses the use of molecular modeling studies to design JAK1 inhibitors, which is related to the topic of the source paper. The paper builds upon the source paper's findings on the role of JAK inhibitors in rheumatoid arthritis.",
+                    "relevance": 2
+                },
+                "3. Basic Mechanisms of JAK Inhibition": {
+                    "explanation": "This paper provides an overview of the basic mechanisms of JAK inhibition, which is related to the topic of the source paper. However, it does not build upon the source paper's findings or hypothesis.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2020,
+        "source_paper": {
+            "paperId": "6c5abce8ea2d8fae2d5a6ab5c9178dd68f6b4fe3",
+            "title": "The role of the JAK/STAT signal pathway in rheumatoid arthritis",
+            "abstract": "Proinflammatory cytokine activation of the Janus kinase/signal transducers and activators of transcription (JAK/STAT) signal transduction pathway is a critical event in the pathogenesis and progression of rheumatoid arthritis. Under normal conditions, JAK/STAT signaling reflects the influence of negative regulators of JAK/STAT, exemplified by the suppressor of cytokine signaling and protein inhibitor of activated STAT. However, in rheumatoid arthritis (RA) both of these regulators are dysfunctional. Thus, continuous activation of JAK/STAT signaling in RA synovial joints results in the elevated level of matrix metalloproteinase gene expression, increased frequency of apoptotic chondrocytes and most prominently \u2018apoptosis resistance\u2019 in the inflamed synovial tissue. Tofacitinib, a JAK small molecule inhibitor, with selectivity for JAK2/JAK3 was approved by the United States Food and Drug Administration (US FDA) for the therapy of RA. Importantly, tofacitinib has demonstrated significant clinical efficacy for RA in the post-US FDA-approval surveillance period. Of note, the success of tofacitinib has spurred the development of JAK1, JAK2 and other JAK3-selective small molecule inhibitors, some of which have also entered the clinical setting, whereas other JAK inhibitors are currently being evaluated in RA clinical trials.",
+            "year": 2018,
+            "citation_count": 201,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the role of JAK/STAT signaling in rheumatoid arthritis and discusses its therapeutic potential."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Effect of platelet-rich plasma on infection markers and JAK/STAT pathway in rabbit models of knee osteoarthritis": {
+                    "explanation": "This paper explores the JAK/STAT pathway in the context of osteoarthritis, which is different from rheumatoid arthritis in the source paper. However, the key hypothesis in this paper is at least partially dependent on the findings of the source paper regarding the JAK/STAT pathway, thus using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Effect of platelet-rich plasma on infection markers and JAK/STAT pathway in rabbit models of knee osteoarthritis": {
+                    "explanation": "This paper explores the JAK/STAT pathway in the context of osteoarthritis, which is different from rheumatoid arthritis in the source paper. However, the key hypothesis in this paper is at least partially dependent on the findings of the source paper regarding the JAK/STAT pathway, thus using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2020,
+        "source_paper": {
+            "paperId": "d16946fee68caaf3a094a575d656bcfb8a1aeafa",
+            "title": "Efficacy and safety of peficitinib (ASP015K) in patients with rheumatoid arthritis and an inadequate response to methotrexate: results of a phase III randomised, double-blind, placebo-controlled trial (RAJ4) in Japan",
+            "abstract": "Objective To evaluate the efficacy and safety of the oral Janus kinase (JAK) inhibitor peficitinib versus placebo in Japanese patients with rheumatoid arthritis (RA). Methods In this multicentre, double-blind, parallel-group, placebo-controlled phase III study, patients with RA and inadequate response to methotrexate (MTX) were randomised 1:1:1 to placebo, peficitinib 100 mg once daily or peficitinib 150 mg once daily with MTX for 52 weeks. Based on baseline randomisation, at week 12, non-responders receiving placebo were switched to peficitinib until the end of treatment; the remaining patients were switched to peficitinib at week 28. Primary efficacy variables were American College of Rheumatology (ACR)20 response rate at week 12/early termination (ET) and change from baseline in van der Heijde-modified total Sharp score (mTSS) at week 28/ET. Results 519 patients were randomised and treated. Significantly more (p<0.001) peficitinib (58.6%, 100 mg; 64.4%, 150 mg) than placebo (21.8%) recipients achieved ACR20 response at week 12/ET. Significantly lower (p<0.001) mean changes from baseline in mTSS at week 28/ET occurred in peficitinib (1.62, 100 mg; 1.03, 150 mg) than placebo (3.37) recipients. Peficitinib was associated with haematological and biochemical parameter changes, and increased incidence of serious infections and herpes zoster-related disease. One death from suicide occurred in a patient in the placebo group after switching to peficitinib 100 mg. Conclusions In Japanese patients with RA and inadequate response to MTX, peficitinib demonstrated significant superiority versus placebo in reducing RA symptoms and suppressing joint destruction. Peficitinib had an acceptable safety and tolerability profile, with no new safety signals compared with other JAK inhibitors. Trial registration number NCT02305849.",
+            "year": 2019,
+            "citation_count": 103,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the efficacy and safety of a JAK inhibitor, peficitinib, in patients with rheumatoid arthritis, which is related to the JAK/STAT signal pathway discussed in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Points to consider for the treatment of immune-mediated inflammatory diseases with Janus kinase inhibitors: a consensus statement": {
+                    "explanation": "This paper is a review of the current understanding of JAK inhibitors, including peficitinib, but it does not build upon the source paper's findings or hypotheses. It is a general consensus statement.",
+                    "relevance": 0
+                },
+                "2. Points to consider for the treatment of immune-mediated inflammatory diseases with Janus kinase inhibitors: a systematic literature research": {
+                    "explanation": "This paper is a systematic literature review of JAK inhibitors, including peficitinib. While it does include the source paper's findings, it does not build upon them or use them as a sub-hypothesis. It is a general review of the literature.",
+                    "relevance": 0
+                },
+                "3. Impact of Janus Kinase Inhibition on the Treatment of Axial Spondyloarthropathies": {
+                    "explanation": "This paper discusses the potential impact of JAK inhibition on the treatment of axial spondyloarthropathies, but it does not specifically build upon the source paper's findings or hypotheses. It is a general review of the topic.",
+                    "relevance": 0
+                },
+                "4. Population pharmacokinetic analysis of peficitinib in patients with rheumatoid arthritis": {
+                    "explanation": "This paper presents a population pharmacokinetic analysis of peficitinib, which is the same drug studied in the source paper. However, it does not build upon the source paper's findings or hypotheses. It is a separate study with a different focus.",
+                    "relevance": 1
+                },
+                "5. A pooled safety analysis of peficitinib (ASP015K) in Asian patients with rheumatoid arthritis treated over a median of 2 years": {
+                    "explanation": "This paper presents a pooled safety analysis of peficitinib, which is the same drug studied in the source paper. The analysis builds upon the source paper's findings by providing longer-term safety data, thus using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "6. State of the art: approved and emerging JAK inhibitors for rheumatoid arthritis": {
+                    "explanation": "This paper is a review of approved and emerging JAK inhibitors for rheumatoid arthritis, including peficitinib. While it does include the source paper's findings, it does not build upon them or use them as a sub-hypothesis. It is a general review of the topic.",
+                    "relevance": 0
+                },
+                "7. JAK Inhibitors in Rheumatoid Arthritis: An Evidence-Based Review on the Emerging Clinical Data": {
+                    "explanation": "This paper is a review of JAK inhibitors in rheumatoid arthritis, including peficitinib. While it does include the source paper's findings, it does not build upon them or use them as a sub-hypothesis. It is a general review of the literature.",
+                    "relevance": 0
+                },
+                "8. Small Molecule Inhibitors in the Treatment of Rheumatoid Arthritis and Beyond: Latest Updates and Potential Strategy for Fighting COVID-19": {
+                    "explanation": "This paper discusses the potential of small molecule inhibitors, including JAK inhibitors, in the treatment of rheumatoid arthritis and COVID-19. However, it does not specifically build upon the source paper's findings or hypotheses. It is a general review of the topic.",
+                    "relevance": 0
+                },
+                "9. Inside Perspective of the Synthetic and Computational Toolbox of JAK Inhibitors: Recent Updates": {
+                    "explanation": "This paper discusses the synthetic and computational toolbox of JAK inhibitors, but it does not specifically build upon the source paper's findings or hypotheses. It is a general review of the topic.",
+                    "relevance": 0
+                },
+                "10. Efficacy and safety of peficitinib in rheumatoid arthritis": {
+                    "explanation": "This paper presents the efficacy and safety of peficitinib in rheumatoid arthritis, which is the same topic as the source paper. However, it does not build upon the source paper's findings or hypotheses. It is a separate study with similar conclusions.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. A pooled safety analysis of peficitinib (ASP015K) in Asian patients with rheumatoid arthritis treated over a median of 2 years": {
+                    "explanation": "This paper presents a pooled safety analysis of peficitinib, which is the same drug studied in the source paper. The analysis builds upon the source paper's findings by providing longer-term safety data, thus using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "2. Population pharmacokinetic analysis of peficitinib in patients with rheumatoid arthritis": {
+                    "explanation": "This paper presents a population pharmacokinetic analysis of peficitinib, which is the same drug studied in the source paper. However, it does not build upon the source paper's findings or hypotheses. It is a separate study with a different focus.",
+                    "relevance": 1
+                },
+                "3. Efficacy and safety of peficitinib in rheumatoid arthritis": {
+                    "explanation": "This paper presents the efficacy and safety of peficitinib in rheumatoid arthritis, which is the same topic as the source paper. However, it does not build upon the source paper's findings or hypotheses. It is a separate study with similar conclusions.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2020,
+        "source_paper": {
+            "paperId": "d16946fee68caaf3a094a575d656bcfb8a1aeafa",
+            "title": "Efficacy and safety of peficitinib (ASP015K) in patients with rheumatoid arthritis and an inadequate response to methotrexate: results of a phase III randomised, double-blind, placebo-controlled trial (RAJ4) in Japan",
+            "abstract": "Objective To evaluate the efficacy and safety of the oral Janus kinase (JAK) inhibitor peficitinib versus placebo in Japanese patients with rheumatoid arthritis (RA). Methods In this multicentre, double-blind, parallel-group, placebo-controlled phase III study, patients with RA and inadequate response to methotrexate (MTX) were randomised 1:1:1 to placebo, peficitinib 100 mg once daily or peficitinib 150 mg once daily with MTX for 52 weeks. Based on baseline randomisation, at week 12, non-responders receiving placebo were switched to peficitinib until the end of treatment; the remaining patients were switched to peficitinib at week 28. Primary efficacy variables were American College of Rheumatology (ACR)20 response rate at week 12/early termination (ET) and change from baseline in van der Heijde-modified total Sharp score (mTSS) at week 28/ET. Results 519 patients were randomised and treated. Significantly more (p<0.001) peficitinib (58.6%, 100 mg; 64.4%, 150 mg) than placebo (21.8%) recipients achieved ACR20 response at week 12/ET. Significantly lower (p<0.001) mean changes from baseline in mTSS at week 28/ET occurred in peficitinib (1.62, 100 mg; 1.03, 150 mg) than placebo (3.37) recipients. Peficitinib was associated with haematological and biochemical parameter changes, and increased incidence of serious infections and herpes zoster-related disease. One death from suicide occurred in a patient in the placebo group after switching to peficitinib 100 mg. Conclusions In Japanese patients with RA and inadequate response to MTX, peficitinib demonstrated significant superiority versus placebo in reducing RA symptoms and suppressing joint destruction. Peficitinib had an acceptable safety and tolerability profile, with no new safety signals compared with other JAK inhibitors. Trial registration number NCT02305849.",
+            "year": 2019,
+            "citation_count": 103,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the efficacy and safety of a JAK inhibitor, peficitinib, in patients with rheumatoid arthritis, which is related to the JAK/STAT signal pathway discussed in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. The Bioequivalence of Two Peficitinib Formulations, and the Effect of Food on the Pharmacokinetics of Peficitinib: Two\u2010Way Crossover Studies of a Single Dose of 150 mg Peficitinib in Healthy Volunteers": {
+                    "explanation": "This paper explores the bioequivalence and food effect on the pharmacokinetics of peficitinib, a drug investigated in the source paper. The study is relevant as it provides more information on the properties of peficitinib.",
+                    "relevance": 1
+                },
+                "2. JAK-Inhibitors for the Treatment of Rheumatoid Arthritis: A Focus on the Present and an Outlook on the Future": {
+                    "explanation": "This paper is a review of JAK inhibitors, including peficitinib, for the treatment of rheumatoid arthritis. Although it does not directly build upon the source paper, it provides a broader context for the use of JAK inhibitors in RA treatment.",
+                    "relevance": 0
+                },
+                "3. Radiographic progression in clinical trials in rheumatoid arthritis: a systemic literature review of trials performed by industry": {
+                    "explanation": "This paper discusses radiographic progression in clinical trials of rheumatoid arthritis, including those involving peficitinib. However, it is a literature review and does not directly build upon the source paper.",
+                    "relevance": 0
+                },
+                "4. JAK inhibitors for the treatment of rheumatoid arthritis": {
+                    "explanation": "This paper is another review of JAK inhibitors for the treatment of rheumatoid arthritis, including peficitinib. Similar to paper 2, it provides context but does not directly build upon the source paper.",
+                    "relevance": 0
+                },
+                "5. Comparison of the efficacy and safety of tofacitinib and peficitinib in patients with active rheumatoid arthritis: A Bayesian network meta\u2010analysis of randomized controlled trials": {
+                    "explanation": "This paper compares the efficacy and safety of tofacitinib and peficitinib, a drug investigated in the source paper. The study is relevant as it provides a direct comparison with another JAK inhibitor.",
+                    "relevance": 1
+                },
+                "6. Peficitinib for the treatment of rheumatoid arthritis: an overview from clinical trials": {
+                    "explanation": "This paper provides an overview of peficitinib for the treatment of rheumatoid arthritis, including its efficacy and safety. The study is relevant as it summarizes the clinical trials of peficitinib, including the source paper.",
+                    "relevance": 1
+                },
+                "7. New insights into IFN-\u03b3 in rheumatoid arthritis: role in the era of JAK inhibitors": {
+                    "explanation": "This paper discusses the role of IFN-\u03b3 in rheumatoid arthritis and its relation to JAK inhibitors, including peficitinib. However, it does not directly build upon the source paper.",
+                    "relevance": 0
+                },
+                "8. One year in review 2020: novelties in the treatment of rheumatoid arthritis.": {
+                    "explanation": "This paper is a review of novelties in the treatment of rheumatoid arthritis in 2020, including JAK inhibitors like peficitinib. However, it does not directly build upon the source paper.",
+                    "relevance": 0
+                },
+                "9. Efficacy of pharmacological treatment in rheumatoid arthritis: a systematic literature research informing the 2019 update of the EULAR recommendations for management of rheumatoid arthritis": {
+                    "explanation": "This paper discusses the efficacy of pharmacological treatments for rheumatoid arthritis, including JAK inhibitors like peficitinib. However, it is a literature review and does not directly build upon the source paper.",
+                    "relevance": 0
+                },
+                "10. EULAR recommendations for the management of rheumatoid arthritis with synthetic and biological disease-modifying antirheumatic drugs: 2019 update": {
+                    "explanation": "This paper provides an update of the EULAR recommendations for the management of rheumatoid arthritis, including the use of JAK inhibitors like peficitinib. However, it does not directly build upon the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. The Bioequivalence of Two Peficitinib Formulations, and the Effect of Food on the Pharmacokinetics of Peficitinib: Two\u2010Way Crossover Studies of a Single Dose of 150 mg Peficitinib in Healthy Volunteers": {
+                    "explanation": "This paper explores the bioequivalence and food effect on the pharmacokinetics of peficitinib, a drug investigated in the source paper. The study is relevant as it provides more information on the properties of peficitinib.",
+                    "relevance": 1
+                },
+                "2. Comparison of the efficacy and safety of tofacitinib and peficitinib in patients with active rheumatoid arthritis: A Bayesian network meta\u2010analysis of randomized controlled trials": {
+                    "explanation": "This paper compares the efficacy and safety of tofacitinib and peficitinib, a drug investigated in the source paper. The study is relevant as it provides a direct comparison with another JAK inhibitor.",
+                    "relevance": 1
+                },
+                "3. Peficitinib for the treatment of rheumatoid arthritis: an overview from clinical trials": {
+                    "explanation": "This paper provides an overview of peficitinib for the treatment of rheumatoid arthritis, including its efficacy and safety. The study is relevant as it summarizes the clinical trials of peficitinib, including the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2020,
+        "source_paper": {
+            "paperId": "d16946fee68caaf3a094a575d656bcfb8a1aeafa",
+            "title": "Efficacy and safety of peficitinib (ASP015K) in patients with rheumatoid arthritis and an inadequate response to methotrexate: results of a phase III randomised, double-blind, placebo-controlled trial (RAJ4) in Japan",
+            "abstract": "Objective To evaluate the efficacy and safety of the oral Janus kinase (JAK) inhibitor peficitinib versus placebo in Japanese patients with rheumatoid arthritis (RA). Methods In this multicentre, double-blind, parallel-group, placebo-controlled phase III study, patients with RA and inadequate response to methotrexate (MTX) were randomised 1:1:1 to placebo, peficitinib 100 mg once daily or peficitinib 150 mg once daily with MTX for 52 weeks. Based on baseline randomisation, at week 12, non-responders receiving placebo were switched to peficitinib until the end of treatment; the remaining patients were switched to peficitinib at week 28. Primary efficacy variables were American College of Rheumatology (ACR)20 response rate at week 12/early termination (ET) and change from baseline in van der Heijde-modified total Sharp score (mTSS) at week 28/ET. Results 519 patients were randomised and treated. Significantly more (p<0.001) peficitinib (58.6%, 100 mg; 64.4%, 150 mg) than placebo (21.8%) recipients achieved ACR20 response at week 12/ET. Significantly lower (p<0.001) mean changes from baseline in mTSS at week 28/ET occurred in peficitinib (1.62, 100 mg; 1.03, 150 mg) than placebo (3.37) recipients. Peficitinib was associated with haematological and biochemical parameter changes, and increased incidence of serious infections and herpes zoster-related disease. One death from suicide occurred in a patient in the placebo group after switching to peficitinib 100 mg. Conclusions In Japanese patients with RA and inadequate response to MTX, peficitinib demonstrated significant superiority versus placebo in reducing RA symptoms and suppressing joint destruction. Peficitinib had an acceptable safety and tolerability profile, with no new safety signals compared with other JAK inhibitors. Trial registration number NCT02305849.",
+            "year": 2019,
+            "citation_count": 103,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the efficacy and safety of a JAK inhibitor, peficitinib, in patients with rheumatoid arthritis, which is related to the JAK/STAT signal pathway discussed in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. JAK inhibitors and infections risk: focus on herpes zoster": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the association between JAK inhibitors and viral infections, specifically herpes zoster reactivation, which was mentioned as a safety concern in the source paper.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. JAK inhibitors and infections risk: focus on herpes zoster": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the association between JAK inhibitors and viral infections, specifically herpes zoster reactivation, which was mentioned as a safety concern in the source paper.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2021,
+        "source_paper": {
+            "paperId": "d16946fee68caaf3a094a575d656bcfb8a1aeafa",
+            "title": "Efficacy and safety of peficitinib (ASP015K) in patients with rheumatoid arthritis and an inadequate response to methotrexate: results of a phase III randomised, double-blind, placebo-controlled trial (RAJ4) in Japan",
+            "abstract": "Objective To evaluate the efficacy and safety of the oral Janus kinase (JAK) inhibitor peficitinib versus placebo in Japanese patients with rheumatoid arthritis (RA). Methods In this multicentre, double-blind, parallel-group, placebo-controlled phase III study, patients with RA and inadequate response to methotrexate (MTX) were randomised 1:1:1 to placebo, peficitinib 100 mg once daily or peficitinib 150 mg once daily with MTX for 52 weeks. Based on baseline randomisation, at week 12, non-responders receiving placebo were switched to peficitinib until the end of treatment; the remaining patients were switched to peficitinib at week 28. Primary efficacy variables were American College of Rheumatology (ACR)20 response rate at week 12/early termination (ET) and change from baseline in van der Heijde-modified total Sharp score (mTSS) at week 28/ET. Results 519 patients were randomised and treated. Significantly more (p<0.001) peficitinib (58.6%, 100 mg; 64.4%, 150 mg) than placebo (21.8%) recipients achieved ACR20 response at week 12/ET. Significantly lower (p<0.001) mean changes from baseline in mTSS at week 28/ET occurred in peficitinib (1.62, 100 mg; 1.03, 150 mg) than placebo (3.37) recipients. Peficitinib was associated with haematological and biochemical parameter changes, and increased incidence of serious infections and herpes zoster-related disease. One death from suicide occurred in a patient in the placebo group after switching to peficitinib 100 mg. Conclusions In Japanese patients with RA and inadequate response to MTX, peficitinib demonstrated significant superiority versus placebo in reducing RA symptoms and suppressing joint destruction. Peficitinib had an acceptable safety and tolerability profile, with no new safety signals compared with other JAK inhibitors. Trial registration number NCT02305849.",
+            "year": 2019,
+            "citation_count": 103,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the efficacy and safety of a JAK inhibitor, peficitinib, in patients with rheumatoid arthritis, which is related to the JAK/STAT signal pathway discussed in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Cytokine Networks in the Pathogenesis of Rheumatoid Arthritis": {
+                    "explanation": "This paper is a review of the current knowledge on cytokine networks in rheumatoid arthritis. It does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "2. How effective are JAK-inhibitors? Perspectives from clinical trials and real-world studies": {
+                    "explanation": "This paper provides a general review of JAK-inhibitors, including their efficacy and safety. It does not specifically focus on peficitinib or build upon the findings of the source paper.",
+                    "relevance": 0
+                },
+                "3. A pooled analysis of serious infections and herpes zoster-related disease in Asian patients with rheumatoid arthritis treated with peficitinib (ASP015K) over a median of 3 years.": {
+                    "explanation": "This paper presents a pooled analysis of serious infections and herpes zoster-related disease in Asian patients with rheumatoid arthritis treated with peficitinib. The hypothesis in this paper is at least partially dependent on the findings of the source paper, which demonstrated the efficacy and safety of peficitinib in Japanese patients with rheumatoid arthritis.",
+                    "relevance": 2
+                },
+                "4. Impact of age on the efficacy and safety of peficitinib (ASP015K) for the treatment of rheumatoid arthritis.": {
+                    "explanation": "This paper evaluates the impact of age on the efficacy and safety of peficitinib in Asian patients with rheumatoid arthritis. The hypothesis in this paper is at least partially dependent on the findings of the source paper, which demonstrated the efficacy and safety of peficitinib in Japanese patients with rheumatoid arthritis.",
+                    "relevance": 2
+                },
+                "5. Emerging protein kinase inhibitors for the treatment of rheumatoid arthritis": {
+                    "explanation": "This paper provides a general review of protein kinase inhibitors, including JAK inhibitors, for the treatment of rheumatoid arthritis. It does not specifically focus on peficitinib or build upon the findings of the source paper.",
+                    "relevance": 0
+                },
+                "6. A Decade of JAK Inhibitors: What Have We Learned and What May Be the Future?": {
+                    "explanation": "This paper provides a general review of JAK inhibitors, including their efficacy and safety. It does not specifically focus on peficitinib or build upon the findings of the source paper.",
+                    "relevance": 0
+                },
+                "7. Exposure\u2013response modeling of peficitinib efficacy in patients with rheumatoid arthritis": {
+                    "explanation": "This paper presents an exposure-response model of peficitinib efficacy in patients with rheumatoid arthritis. The hypothesis in this paper is at least partially dependent on the findings of the source paper, which demonstrated the efficacy and safety of peficitinib in Japanese patients with rheumatoid arthritis.",
+                    "relevance": 2
+                },
+                "8. JAK Inhibitors and Modulation of B Cell Immune Responses in Rheumatoid Arthritis": {
+                    "explanation": "This paper provides a general review of JAK inhibitors, including their effects on B cell immune responses in rheumatoid arthritis. It does not specifically focus on peficitinib or build upon the findings of the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. A pooled analysis of serious infections and herpes zoster-related disease in Asian patients with rheumatoid arthritis treated with peficitinib (ASP015K) over a median of 3 years.": {
+                    "explanation": "This paper presents a pooled analysis of serious infections and herpes zoster-related disease in Asian patients with rheumatoid arthritis treated with peficitinib. The hypothesis in this paper is at least partially dependent on the findings of the source paper, which demonstrated the efficacy and safety of peficitinib in Japanese patients with rheumatoid arthritis.",
+                    "relevance": 2
+                },
+                "2. Impact of age on the efficacy and safety of peficitinib (ASP015K) for the treatment of rheumatoid arthritis.": {
+                    "explanation": "This paper evaluates the impact of age on the efficacy and safety of peficitinib in Asian patients with rheumatoid arthritis. The hypothesis in this paper is at least partially dependent on the findings of the source paper, which demonstrated the efficacy and safety of peficitinib in Japanese patients with rheumatoid arthritis.",
+                    "relevance": 2
+                },
+                "3. Exposure\u2013response modeling of peficitinib efficacy in patients with rheumatoid arthritis": {
+                    "explanation": "This paper presents an exposure-response model of peficitinib efficacy in patients with rheumatoid arthritis. The hypothesis in this paper is at least partially dependent on the findings of the source paper, which demonstrated the efficacy and safety of peficitinib in Japanese patients with rheumatoid arthritis.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2021,
+        "source_paper": {
+            "paperId": "adbbec1ac2235194ef26e69c5554caacad2a16f9",
+            "title": "JAK inhibitors and infections risk: focus on herpes zoster",
+            "abstract": "Currently, there is a growing interest in Janus kinase (JAK) intracellular signalling since targeted inhibitors against these pathways are proving effective in the treatment of a range of immune-mediated diseases, such as rheumatoid arthritis (RA), psoriasis, psoriatic arthritis (PsA), inflammatory bowel disease and atopic dermatitis. In particular, post marketing experience and the increasing development of new pharmacological inhibitors of broad and increasingly selective JAK pathways provide new insights into the JAK pathway role in viral infections as well as their pathogenic role in immune-mediated inflammatory diseases. Herein we provide an overview of the biological role of JAK signalling and its role in immunity against viruses, with particular regard to herpes zoster reactivation. Thereafter, we will discuss the evidence currently available on the principal JAK inhibitors and their association with viral infections.",
+            "year": 2020,
+            "citation_count": 67,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the association between JAK inhibitors and viral infections, specifically herpes zoster reactivation, which was mentioned as a safety concern in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Editorial: tofacitinib post\u2010marketing safety reports among ulcerative colitis patients": {
+                    "explanation": "This paper is related to the source paper as it discusses the safety profile of tofacitinib, a JAK inhibitor, in the context of ulcerative colitis, and touches upon the risk of herpes zoster reactivation, which is the main focus of the source paper.",
+                    "relevance": 1
+                },
+                "2. JAK-STAT Pathway: A Novel Target to Tackle Viral Infections": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the role of the JAK-STAT pathway in viral infections, including herpes zoster, and explores the potential of JAK inhibitors as a therapeutic target.",
+                    "relevance": 2
+                },
+                "3. Should atopic dermatitis patients starting JAK inhibitors take prophylactic acyclovir?": {
+                    "explanation": "This paper is related to the source paper as it discusses the risk of herpes simplex virus infection in patients with atopic dermatitis treated with JAK inhibitors, and touches upon the potential need for prophylactic antiviral treatment.",
+                    "relevance": 1
+                },
+                "4. Efficacy and Safety of Abrocitinib in Combination With Topical Therapy in Adolescents With Moderate-to-Severe Atopic Dermatitis": {
+                    "explanation": "This paper is not directly related to the source paper, as it focuses on the efficacy and safety of abrocitinib in the treatment of atopic dermatitis, without discussing the risk of herpes zoster reactivation.",
+                    "relevance": 0
+                },
+                "5. Risk of herpes zoster (shingles) in patients with rheumatoid arthritis under biologic, targeted synthetic and conventional synthetic DMARD treatment: data from the German RABBIT register": {
+                    "explanation": "This paper is related to the source paper as it discusses the risk of herpes zoster in patients with rheumatoid arthritis treated with different types of DMARDs, including JAK inhibitors, and provides data on the incidence rates of herpes zoster.",
+                    "relevance": 2
+                },
+                "6. A comparison of Janus kinase inhibitor safety in rheumatoid arthritis": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the safety profile of different JAK inhibitors in the context of rheumatoid arthritis, including the risk of herpes zoster reactivation.",
+                    "relevance": 2
+                },
+                "7. JAK Inhibitors and Modulation of B Cell Immune Responses in Rheumatoid Arthritis": {
+                    "explanation": "This paper is not directly related to the source paper, as it focuses on the role of JAK inhibitors in modulating B cell immune responses in rheumatoid arthritis, without discussing the risk of herpes zoster reactivation.",
+                    "relevance": 0
+                },
+                "8. Safety and Efficacy of Filgotinib: Up to 4-year Results From an Open-label Extension Study of Phase II Rheumatoid Arthritis Programs": {
+                    "explanation": "This paper is not directly related to the source paper, as it focuses on the long-term safety and efficacy of filgotinib in the treatment of rheumatoid arthritis, without discussing the risk of herpes zoster reactivation.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. JAK-STAT Pathway: A Novel Target to Tackle Viral Infections": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the role of the JAK-STAT pathway in viral infections, including herpes zoster, and explores the potential of JAK inhibitors as a therapeutic target.",
+                    "relevance": 2
+                },
+                "2. Risk of herpes zoster (shingles) in patients with rheumatoid arthritis under biologic, targeted synthetic and conventional synthetic DMARD treatment: data from the German RABBIT register": {
+                    "explanation": "This paper is related to the source paper as it discusses the risk of herpes zoster in patients with rheumatoid arthritis treated with different types of DMARDs, including JAK inhibitors, and provides data on the incidence rates of herpes zoster.",
+                    "relevance": 2
+                },
+                "3. A comparison of Janus kinase inhibitor safety in rheumatoid arthritis": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the safety profile of different JAK inhibitors in the context of rheumatoid arthritis, including the risk of herpes zoster reactivation.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2022,
+        "source_paper": {
+            "paperId": "adbbec1ac2235194ef26e69c5554caacad2a16f9",
+            "title": "JAK inhibitors and infections risk: focus on herpes zoster",
+            "abstract": "Currently, there is a growing interest in Janus kinase (JAK) intracellular signalling since targeted inhibitors against these pathways are proving effective in the treatment of a range of immune-mediated diseases, such as rheumatoid arthritis (RA), psoriasis, psoriatic arthritis (PsA), inflammatory bowel disease and atopic dermatitis. In particular, post marketing experience and the increasing development of new pharmacological inhibitors of broad and increasingly selective JAK pathways provide new insights into the JAK pathway role in viral infections as well as their pathogenic role in immune-mediated inflammatory diseases. Herein we provide an overview of the biological role of JAK signalling and its role in immunity against viruses, with particular regard to herpes zoster reactivation. Thereafter, we will discuss the evidence currently available on the principal JAK inhibitors and their association with viral infections.",
+            "year": 2020,
+            "citation_count": 67,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the association between JAK inhibitors and viral infections, specifically herpes zoster reactivation, which was mentioned as a safety concern in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. The incidence of opportunistic infections in patients with psoriatic arthritis treated with biologic and targeted synthetic agents: A systematic review and meta-analysis": {
+                    "explanation": "This paper is a review and does not present a novel hypothesis inspired by or dependent on the source paper.",
+                    "relevance": 0
+                },
+                "2. Visceral disseminated varicella zoster virus infection in a patient with rheumatoid arthritis treated with immunosuppressive therapy including a Janus kinase inhibitor": {
+                    "explanation": "This paper presents a case study that is partially dependent on the findings of the source paper, which discusses the association between JAK inhibitors and the risk of herpes zoster reactivation.",
+                    "relevance": 2
+                },
+                "3. Correlation between Type I Interferon Associated Factors and COVID-19 Severity": {
+                    "explanation": "This paper does not present a hypothesis that is inspired by or dependent on the source paper, which focuses on JAK inhibitors and herpes zoster.",
+                    "relevance": 0
+                },
+                "4. Withania somnifera (L.) Dunal (Ashwagandha) for the possible therapeutics and clinical management of SARS-CoV-2 infection: Plant-based drug discovery and targeted therapy": {
+                    "explanation": "This paper does not present a hypothesis that is inspired by or dependent on the source paper, which focuses on JAK inhibitors and herpes zoster.",
+                    "relevance": 0
+                },
+                "5. Consensus statements for pharmacological management, monitoring of therapies, and comorbidity management of psoriatic arthritis in the United Arab Emirates": {
+                    "explanation": "This paper is a consensus statement and does not present a novel hypothesis inspired by or dependent on the source paper.",
+                    "relevance": 0
+                },
+                "6. Positioning of tofacitinib in treatment of ulcerative colitis: a global perspective": {
+                    "explanation": "This paper presents a review of tofacitinib's use in ulcerative colitis, which is partially dependent on the findings of the source paper, which discusses JAK inhibitors and their association with viral infections.",
+                    "relevance": 2
+                },
+                "7. The AI-Assisted Identification and Clinical Efficacy of Baricitinib in the Treatment of COVID-19": {
+                    "explanation": "This paper presents a review of baricitinib's use in COVID-19, which is partially dependent on the findings of the source paper, which discusses JAK inhibitors and their association with viral infections.",
+                    "relevance": 2
+                },
+                "8. Pharmacodynamics of Janus kinase inhibitors for the treatment of atopic dermatitis": {
+                    "explanation": "This paper presents a review of JAK inhibitors' use in atopic dermatitis, which is inspired by the hypothesis of the source paper, which discusses JAK inhibitors and their association with viral infections.",
+                    "relevance": 1
+                },
+                "9. Mitochondrial dysfunction and biological therapy: a new look at rheumatoid arthritis": {
+                    "explanation": "This paper does not present a hypothesis that is inspired by or dependent on the source paper, which focuses on JAK inhibitors and herpes zoster.",
+                    "relevance": 0
+                },
+                "10. Choosing the Appropriate Target for the Treatment of Psoriatic Arthritis: TNF\u03b1, IL-17, IL-23 or JAK Inhibitors?": {
+                    "explanation": "This paper presents a review of treatment options for psoriatic arthritis, which is inspired by the hypothesis of the source paper, which discusses JAK inhibitors and their association with viral infections.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Visceral disseminated varicella zoster virus infection in a patient with rheumatoid arthritis treated with immunosuppressive therapy including a Janus kinase inhibitor": {
+                    "explanation": "This paper presents a case study that is partially dependent on the findings of the source paper, which discusses the association between JAK inhibitors and the risk of herpes zoster reactivation.",
+                    "relevance": 2
+                },
+                "2. Positioning of tofacitinib in treatment of ulcerative colitis: a global perspective": {
+                    "explanation": "This paper presents a review of tofacitinib's use in ulcerative colitis, which is partially dependent on the findings of the source paper, which discusses JAK inhibitors and their association with viral infections.",
+                    "relevance": 2
+                },
+                "3. The AI-Assisted Identification and Clinical Efficacy of Baricitinib in the Treatment of COVID-19": {
+                    "explanation": "This paper presents a review of baricitinib's use in COVID-19, which is partially dependent on the findings of the source paper, which discusses JAK inhibitors and their association with viral infections.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2022,
+        "source_paper": {
+            "paperId": "adbbec1ac2235194ef26e69c5554caacad2a16f9",
+            "title": "JAK inhibitors and infections risk: focus on herpes zoster",
+            "abstract": "Currently, there is a growing interest in Janus kinase (JAK) intracellular signalling since targeted inhibitors against these pathways are proving effective in the treatment of a range of immune-mediated diseases, such as rheumatoid arthritis (RA), psoriasis, psoriatic arthritis (PsA), inflammatory bowel disease and atopic dermatitis. In particular, post marketing experience and the increasing development of new pharmacological inhibitors of broad and increasingly selective JAK pathways provide new insights into the JAK pathway role in viral infections as well as their pathogenic role in immune-mediated inflammatory diseases. Herein we provide an overview of the biological role of JAK signalling and its role in immunity against viruses, with particular regard to herpes zoster reactivation. Thereafter, we will discuss the evidence currently available on the principal JAK inhibitors and their association with viral infections.",
+            "year": 2020,
+            "citation_count": 67,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the association between JAK inhibitors and viral infections, specifically herpes zoster reactivation, which was mentioned as a safety concern in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Baricitinib for relapsing giant cell arteritis: a prospective open-label 52-week pilot study": {
+                    "explanation": "This paper explores a new application of JAK inhibitors, but it does not directly build upon or investigate the hypothesis of the source paper regarding JAK inhibitors and herpes zoster risk. The source paper's findings are not used as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "2. Recent issues in JAK inhibitor safety: perspective for the clinician": {
+                    "explanation": "This paper provides a general overview of JAK inhibitor safety, but it does not specifically address the risk of herpes zoster or build upon the source paper's hypothesis.",
+                    "relevance": 0
+                },
+                "3. Cellular senescence and the skeleton: pathophysiology and therapeutic implications": {
+                    "explanation": "This paper is unrelated to JAK inhibitors and herpes zoster, as it focuses on cellular senescence and its impact on the skeleton.",
+                    "relevance": 0
+                },
+                "4. Evaluating the Therapeutic Potential of Ritlecitinib for the Treatment of Alopecia Areata": {
+                    "explanation": "This paper explores a new application of JAK inhibitors, but it does not directly build upon or investigate the hypothesis of the source paper regarding JAK inhibitors and herpes zoster risk. The source paper's findings are not used as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "5. Risk factors for herpes zoster in Korean patients with rheumatoid arthritis treated with JAK inhibitor: a nested case\u2013control study": {
+                    "explanation": "This paper directly investigates the risk of herpes zoster in patients treated with JAK inhibitors, which is the same topic as the source paper. The source paper's findings are used as a foundation for this study, making it partially dependent on the source paper.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Risk factors for herpes zoster in Korean patients with rheumatoid arthritis treated with JAK inhibitor: a nested case\u2013control study": {
+                    "explanation": "This paper directly investigates the risk of herpes zoster in patients treated with JAK inhibitors, which is the same topic as the source paper. The source paper's findings are used as a foundation for this study, making it partially dependent on the source paper.",
+                    "relevance": 2
+                },
+                "2. Baricitinib for relapsing giant cell arteritis: a prospective open-label 52-week pilot study": {
+                    "explanation": "This paper explores a new application of JAK inhibitors, but it does not directly build upon or investigate the hypothesis of the source paper regarding JAK inhibitors and herpes zoster risk. The source paper's findings are not used as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "3. Evaluating the Therapeutic Potential of Ritlecitinib for the Treatment of Alopecia Areata": {
+                    "explanation": "This paper explores a new application of JAK inhibitors, but it does not directly build upon or investigate the hypothesis of the source paper regarding JAK inhibitors and herpes zoster risk. The source paper's findings are not used as a sub-hypothesis.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2022,
+        "source_paper": {
+            "paperId": "815c52e25eb6696155d1feaee15f21a22ed6373e",
+            "title": "Risk of herpes zoster (shingles) in patients with rheumatoid arthritis under biologic, targeted synthetic and conventional synthetic DMARD treatment: data from the German RABBIT register",
+            "abstract": "Objective To compare event and incidence rates of herpes zoster (HZ), also known as shingles, in patients with rheumatoid arthritis under treatment with conventional synthetic (cs), targeted synthetic (ts) or biologic (b) disease-modifying antirheumatic drugs (DMARDs). Methods Patients were prospectively enrolled from 2007 until October 2020. Reported HZ events were assigned to ongoing treatments or those terminated within 1\u2009month prior to the HZ event. Exposure-adjusted event rates (EAERs) of HZ were calculated per 1000 patient years (py) and adjusted HRs with 95% CIs computed. Inverse probability weights (IPW) were used to adjust for confounding by indication. Results Data of 13\u2009991 patients (62\u2009958 py) were analysed, with 559\u2009HZ events reported in 533 patients. The EAER of HZ was highest for tsDMARDs (21.5, 95%\u2009CI 16.4 to 27.9), followed by B cell targeted therapy (10.3, 95%\u2009CI 8.0 to 13.0), monoclonal antitumour necrosis factor (anti-TNF) antibodies (9.3, 95%\u2009CI 7.7 to 11.2), interleukin 6 inhibitors (8.8, 95%\u2009CI 6.9 to 11.0), soluble TNF receptor fusion protein (8.6, 95%\u2009CI 6.8 to 10.8), T cell costimulation modulator (8.4, 95%\u2009CI 5.9 to 11.8) and csDMARDs (7.1, 95%\u2009CI 6.0 to 8.3). Adjusted for age, sex and glucocorticoids and weighted with IPW, tsDMARDs (HR 3.66, 95%\u2009CI 2.38 to 5.63), monoclonal anti-TNF antibodies (HR 1.63, 95%\u2009CI 1.17 to 2.28) and B cell targeted therapy (HR 1.57, 95%\u2009CI 1.03 to 2.40) showed a significantly higher risk compared with csDMARDs. Conclusion Our results provide evidence for a 3.6-fold increased risk of HZ associated with tsDMARDs and an increased risk of HZ under bDMARDs compared with csDMARDs.",
+            "year": 2021,
+            "citation_count": 51,
+            "relevance": 2,
+            "explanation": "This paper is related to the source paper as it discusses the risk of herpes zoster in patients with rheumatoid arthritis treated with different types of DMARDs, including JAK inhibitors, and provides data on the incidence rates of herpes zoster."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Safety of synthetic and biological DMARDs: a systematic literature review informing the 2022 update of the EULAR recommendations for the management of rheumatoid arthritis": {
+                    "explanation": "This paper is a systematic literature review and does not directly build on the source paper's findings. However, it does discuss the safety of DMARDs, which is related to the source paper's topic of the risk of herpes zoster in patients with rheumatoid arthritis under different DMARD treatments.",
+                    "relevance": 0
+                },
+                "2. EULAR recommendations for the management of rheumatoid arthritis with synthetic and biological disease-modifying antirheumatic drugs: 2022 update": {
+                    "explanation": "This paper provides updated recommendations for the management of rheumatoid arthritis and mentions the risk of herpes zoster as a safety consideration, but it does not directly build on the source paper's findings.",
+                    "relevance": 0
+                },
+                "3. Infections in patients with rheumatoid arthritis receiving tofacitinib versus tumour necrosis factor inhibitors: results from the open-label, randomised controlled ORAL Surveillance trial": {
+                    "explanation": "This paper investigates the risk of infections in patients with rheumatoid arthritis receiving different treatments, which is related to the source paper's topic of the risk of herpes zoster. However, it does not directly build on the source paper's findings.",
+                    "relevance": 1
+                },
+                "4. Janus kinase versus TNF inhibitors: where we stand today in rheumatoid arthritis": {
+                    "explanation": "This paper discusses the mechanism of action and safety of Janus kinase inhibitors and TNF inhibitors in the treatment of rheumatoid arthritis, which is related to the source paper's topic. However, it does not directly build on the source paper's findings.",
+                    "relevance": 1
+                },
+                "5. Research Trends and Hotspots on Herpes Zoster: A 10-Year Bibliometric Analysis (2012\u20132021)": {
+                    "explanation": "This paper is a bibliometric analysis of research trends on herpes zoster and does not directly build on the source paper's findings.",
+                    "relevance": 0
+                },
+                "6. Perspectives of JAK Inhibitors for Large Vessel Vasculitis": {
+                    "explanation": "This paper discusses the potential use of JAK inhibitors for large vessel vasculitis, which is a different condition from rheumatoid arthritis. It does not directly build on the source paper's findings.",
+                    "relevance": 0
+                },
+                "7. Short-Term Prognostic Factors in Hospitalized Herpes Zoster Patients and Its Associated Cerebro-Cardiovascular Events: A Nationwide Retrospective Cohort in Japan": {
+                    "explanation": "This paper investigates the short-term prognostic factors for hospitalized herpes zoster patients, which is related to the source paper's topic. However, it does not directly build on the source paper's findings.",
+                    "relevance": 1
+                },
+                "8. Focus on Sex and Gender: What We Need to Know in the Management of Rheumatoid Arthritis": {
+                    "explanation": "This paper discusses the importance of considering sex and gender in the management of rheumatoid arthritis, which is not directly related to the source paper's topic of the risk of herpes zoster.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Infections in patients with rheumatoid arthritis receiving tofacitinib versus tumour necrosis factor inhibitors: results from the open-label, randomised controlled ORAL Surveillance trial": {
+                    "explanation": "This paper investigates the risk of infections in patients with rheumatoid arthritis receiving different treatments, which is related to the source paper's topic of the risk of herpes zoster.",
+                    "relevance": 1
+                },
+                "2. Janus kinase versus TNF inhibitors: where we stand today in rheumatoid arthritis": {
+                    "explanation": "This paper discusses the mechanism of action and safety of Janus kinase inhibitors and TNF inhibitors in the treatment of rheumatoid arthritis, which is related to the source paper's topic.",
+                    "relevance": 1
+                },
+                "3. Short-Term Prognostic Factors in Hospitalized Herpes Zoster Patients and Its Associated Cerebro-Cardiovascular Events: A Nationwide Retrospective Cohort in Japan": {
+                    "explanation": "This paper investigates the short-term prognostic factors for hospitalized herpes zoster patients, which is related to the source paper's topic.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2023,
+        "source_paper": {
+            "paperId": "815c52e25eb6696155d1feaee15f21a22ed6373e",
+            "title": "Risk of herpes zoster (shingles) in patients with rheumatoid arthritis under biologic, targeted synthetic and conventional synthetic DMARD treatment: data from the German RABBIT register",
+            "abstract": "Objective To compare event and incidence rates of herpes zoster (HZ), also known as shingles, in patients with rheumatoid arthritis under treatment with conventional synthetic (cs), targeted synthetic (ts) or biologic (b) disease-modifying antirheumatic drugs (DMARDs). Methods Patients were prospectively enrolled from 2007 until October 2020. Reported HZ events were assigned to ongoing treatments or those terminated within 1\u2009month prior to the HZ event. Exposure-adjusted event rates (EAERs) of HZ were calculated per 1000 patient years (py) and adjusted HRs with 95% CIs computed. Inverse probability weights (IPW) were used to adjust for confounding by indication. Results Data of 13\u2009991 patients (62\u2009958 py) were analysed, with 559\u2009HZ events reported in 533 patients. The EAER of HZ was highest for tsDMARDs (21.5, 95%\u2009CI 16.4 to 27.9), followed by B cell targeted therapy (10.3, 95%\u2009CI 8.0 to 13.0), monoclonal antitumour necrosis factor (anti-TNF) antibodies (9.3, 95%\u2009CI 7.7 to 11.2), interleukin 6 inhibitors (8.8, 95%\u2009CI 6.9 to 11.0), soluble TNF receptor fusion protein (8.6, 95%\u2009CI 6.8 to 10.8), T cell costimulation modulator (8.4, 95%\u2009CI 5.9 to 11.8) and csDMARDs (7.1, 95%\u2009CI 6.0 to 8.3). Adjusted for age, sex and glucocorticoids and weighted with IPW, tsDMARDs (HR 3.66, 95%\u2009CI 2.38 to 5.63), monoclonal anti-TNF antibodies (HR 1.63, 95%\u2009CI 1.17 to 2.28) and B cell targeted therapy (HR 1.57, 95%\u2009CI 1.03 to 2.40) showed a significantly higher risk compared with csDMARDs. Conclusion Our results provide evidence for a 3.6-fold increased risk of HZ associated with tsDMARDs and an increased risk of HZ under bDMARDs compared with csDMARDs.",
+            "year": 2021,
+            "citation_count": 51,
+            "relevance": 2,
+            "explanation": "This paper is related to the source paper as it discusses the risk of herpes zoster in patients with rheumatoid arthritis treated with different types of DMARDs, including JAK inhibitors, and provides data on the incidence rates of herpes zoster."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Frailty and Risk of Serious Infections in Patients With Rheumatoid Arthritis Treated With Biologic or Targeted\u2010Synthetic Disease\u2010Modifying Antirheumatic Drugs": {
+                    "explanation": "This paper explores the relationship between frailty and serious infections in patients with rheumatoid arthritis treated with biologic or targeted-synthetic disease-modifying antirheumatic drugs, which is related to the source paper's investigation of the risk of herpes zoster in patients with rheumatoid arthritis under different treatments.",
+                    "relevance": 1
+                },
+                "2. Long-Term Safety, Efficacy, and Patient-Centered Outcomes of Filgotinib in the Treatment of Rheumatoid Arthritis: Current Perspectives": {
+                    "explanation": "This paper reviews the long-term safety and efficacy of filgotinib in the treatment of rheumatoid arthritis, which is a specific type of biologic disease-modifying antirheumatic drug (bDMARD) mentioned in the source paper.",
+                    "relevance": 1
+                },
+                "3. Clinical efficacy and metabolomic analysis of ozone major autohemotherapy for the treatment of herpes zoster": {
+                    "explanation": "This paper investigates the clinical efficacy and metabolomic analysis of ozone major autohemotherapy for the treatment of herpes zoster, which is the same condition studied in the source paper.",
+                    "relevance": 1
+                },
+                "4. Rituximab Treatment for Neuroimmunologic Disorders": {
+                    "explanation": "This paper reviews the treatment of neuroimmunologic disorders with rituximab, which is a biologic disease-modifying antirheumatic drug (bDMARD) mentioned in the source paper, but it does not directly relate to the risk of herpes zoster.",
+                    "relevance": 0
+                },
+                "5. Facilitators and barriers for vaccination in patients with inflammatory rheumatic musculoskeletal diseases: a prospective cohort study": {
+                    "explanation": "This paper explores the facilitators and barriers for vaccination in patients with inflammatory rheumatic musculoskeletal diseases, which is related to the source paper's investigation of the risk of herpes zoster in patients with rheumatoid arthritis, but it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "6. Tofacitinib treatment of rheumatoid arthritis increases senescent T cell frequency in patients and limits T cell function in vitro": {
+                    "explanation": "This paper investigates the effect of tofacitinib treatment on senescent T cell frequency in patients with rheumatoid arthritis, which is related to the source paper's investigation of the risk of herpes zoster in patients with rheumatoid arthritis under different treatments.",
+                    "relevance": 1
+                },
+                "7. Novel insights into the management of rheumatoid arthritis: one year in review 2023": {
+                    "explanation": "This paper reviews the latest developments in the management of rheumatoid arthritis, which includes the risk of herpes zoster in patients with rheumatoid arthritis under different treatments, but it is a review paper and does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 0
+                },
+                "8. Safety of biological and targeted synthetic disease-modifying antirheumatic drugs for rheumatoid arthritis as used in clinical practice: results from the ARTIS programme": {
+                    "explanation": "This paper investigates the safety of biological and targeted synthetic disease-modifying antirheumatic drugs for rheumatoid arthritis, which is related to the source paper's investigation of the risk of herpes zoster in patients with rheumatoid arthritis under different treatments, and it partially depends on the source paper's findings.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Safety of biological and targeted synthetic disease-modifying antirheumatic drugs for rheumatoid arthritis as used in clinical practice: results from the ARTIS programme": {
+                    "explanation": "This paper investigates the safety of biological and targeted synthetic disease-modifying antirheumatic drugs for rheumatoid arthritis, which is related to the source paper's investigation of the risk of herpes zoster in patients with rheumatoid arthritis under different treatments, and it partially depends on the source paper's findings.",
+                    "relevance": 2
+                },
+                "2. Frailty and Risk of Serious Infections in Patients With Rheumatoid Arthritis Treated With Biologic or Targeted\u2010Synthetic Disease\u2010Modifying Antirheumatic Drugs": {
+                    "explanation": "This paper explores the relationship between frailty and serious infections in patients with rheumatoid arthritis treated with biologic or targeted-synthetic disease-modifying antirheumatic drugs, which is related to the source paper's investigation of the risk of herpes zoster in patients with rheumatoid arthritis under different treatments.",
+                    "relevance": 1
+                },
+                "3. Tofacitinib treatment of rheumatoid arthritis increases senescent T cell frequency in patients and limits T cell function in vitro": {
+                    "explanation": "This paper investigates the effect of tofacitinib treatment on senescent T cell frequency in patients with rheumatoid arthritis, which is related to the source paper's investigation of the risk of herpes zoster in patients with rheumatoid arthritis under different treatments.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2024,
+        "source_paper": {
+            "paperId": "ca72155330a316da21057ef0b28b0236b7caaa4f",
+            "title": "Safety of biological and targeted synthetic disease-modifying antirheumatic drugs for rheumatoid arthritis as used in clinical practice: results from the ARTIS programme",
+            "abstract": "Objective Longitudinal clinical registry-infrastructures such as Anti-Rheumatic Therapies in Sweden (ARTIS) allow simultaneous comparison of the safety of individual immunomodulatory drugs used in clinical practice, with consistent definitions of treatment cohorts, follow-up and outcomes. Our objective was to assess and compare incidence rates of key safety outcomes for individual targeted synthetic or biological disease-modifying antirheumatic drugs (b/ts DMARDs) in rheumatoid arthritis (RA), updating previous reports and including newer treatments including Janus Kinase inhibitors (JAKi). Methods Nationwide register-based cohort study including all patients with RA in Sweden registered as starting any b/tsDMARD 1 January 2010 through 31 December 2020, followed until 30 June 2021 (N=20\u2009117). The incidence rates of selected outcomes, identified through national healthcare registers, were compared between individual b/tsDMARDs, adjusted for confounding by demographics, RA disease characteristics and comorbidity. Results There were marked differences in treatment discontinuations due to adverse events (rates per 1000 person-years ranged from 18 on rituximab to 57 on tofacitinib), but few significant differences were observed for the serious adverse events under study. Neither cardiovascular events nor general serious infections were more frequent on baricitinib or tofacitinib versus bDMARDs, but JAKi were associated with higher rates of hospital-treated herpes zoster (HR vs etanercept, 3.82 (95% CI 2.05 to 7.09) and 4.00 (1.59 to 10.06)). Low number of events limited some comparisons, in particular for sarilumab and tofacitinib. Conclusion Data from ARTIS supports that the b/tsDMARDs currently used to treat RA have acceptable and largely similar safety profiles, but differences exist in particular concerning tolerability and specific infection risks.",
+            "year": 2023,
+            "citation_count": 33,
+            "relevance": 2,
+            "explanation": "This paper investigates the safety of biological and targeted synthetic disease-modifying antirheumatic drugs for rheumatoid arthritis, which is related to the source paper's investigation of the risk of herpes zoster in patients with rheumatoid arthritis under different treatments, and it partially depends on the source paper's findings."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Efficacy and safety of methotrexate plus hydroxychloroquine combination therapy vs. methotrexate monotherapy in the treatment of rheumatoid arthritis: A randomized controlled clinical trial": {
+                    "explanation": "This paper is not directly related to the source paper as it discusses the efficacy and safety of methotrexate plus hydroxychloroquine combination therapy vs. methotrexate monotherapy, which is not a direct comparison or continuation of the source paper's findings on b/tsDMARDs.",
+                    "relevance": 0
+                },
+                "2. A retrospective study of efficacy of tofacitinib combined with bDMARDs in the treatment of rheumatoid arthritis patients with inadequate response to bDMARDs": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it explores the efficacy of combining bDMARDs with JAK inhibitors (such as tofacitinib), which is related to the source paper's discussion of JAK inhibitors' safety profiles.",
+                    "relevance": 2
+                },
+                "3. Clinical characteristics of chronic sclerosing sialadenitis as a distinctive entity from primary Sj\u00f6gren\u2019s syndrome": {
+                    "explanation": "This paper has no connection to the source paper as it discusses the clinical characteristics of chronic sclerosing sialadenitis, which is not related to the source paper's topic of b/tsDMARDs in rheumatoid arthritis.",
+                    "relevance": 0
+                },
+                "4. Increased risk of cardiovascular events under the treatments with Janus kinase inhibitors versus biological disease-modifying antirheumatic drugs in patients with rheumatoid arthritis: a retrospective longitudinal population-based study using the Japanese health insurance database": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it compares the risk of cardiovascular events between JAK inhibitors and bDMARDs, which is related to the source paper's discussion of JAK inhibitors' safety profiles.",
+                    "relevance": 2
+                },
+                "5. Hypogammaglobulinaemia during rituximab treatment in multiple sclerosis: A Swedish cohort study": {
+                    "explanation": "This paper is not directly related to the source paper as it discusses the incidence of hypogammaglobulinaemia during rituximab treatment in multiple sclerosis, which is not a direct comparison or continuation of the source paper's findings on b/tsDMARDs in rheumatoid arthritis.",
+                    "relevance": 0
+                },
+                "6. A narrative review of the comparative safety of disease-modifying anti-rheumatic drugs used for the treatment of rheumatoid arthritis": {
+                    "explanation": "This paper is a review and has no novel findings or hypotheses. It summarizes existing literature on the comparative safety of DMARDs, including b/tsDMARDs, but does not provide new insights or connections to the source paper.",
+                    "relevance": 0
+                },
+                "7. The Real-World Effectiveness, Persistence, Adherence, and Safety of Janus Kinase Inhibitor Baricitinib in Rheumatoid Arthritis: A Long-Term Study": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it explores the real-world effectiveness, persistence, adherence, and safety of baricitinib, a JAK inhibitor, which is related to the source paper's discussion of JAK inhibitors' safety profiles.",
+                    "relevance": 2
+                },
+                "8. 2023 Management Recommendations of Bangladesh Rheumatology Society on Pharmacological Treatment of Rheumatoid Arthritis With Synthetic and Biologic Disease-Modifying Drugs": {
+                    "explanation": "This paper is a guideline and has no novel findings or hypotheses. It provides recommendations for the treatment of rheumatoid arthritis with DMARDs, including b/tsDMARDs, but does not provide new insights or connections to the source paper.",
+                    "relevance": 0
+                },
+                "9. Risk of Major Adverse Cardiovascular Events and Venous Thromboembolism with JAK Inhibitors versus TNF Inhibitors in Rheumatoid Arthritis Patients: A Systematic Review and Meta-Analysis": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it compares the risk of major adverse cardiovascular events and venous thromboembolism between JAK inhibitors and TNF inhibitors, which is related to the source paper's discussion of JAK inhibitors' safety profiles.",
+                    "relevance": 2
+                },
+                "10. Multicenter evaluation of tofacitinib retention and safety in rheumatoid arthritis \u2013 why cardiovascular risk factors do not equate to overt risk": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it explores the retention and safety of tofacitinib, a JAK inhibitor, in rheumatoid arthritis, which is related to the source paper's discussion of JAK inhibitors' safety profiles.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. A retrospective study of efficacy of tofacitinib combined with bDMARDs in the treatment of rheumatoid arthritis patients with inadequate response to bDMARDs": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it explores the efficacy of combining bDMARDs with JAK inhibitors (such as tofacitinib), which is related to the source paper's discussion of JAK inhibitors' safety profiles.",
+                    "relevance": 2
+                },
+                "2. Increased risk of cardiovascular events under the treatments with Janus kinase inhibitors versus biological disease-modifying antirheumatic drugs in patients with rheumatoid arthritis: a retrospective longitudinal population-based study using the Japanese health insurance database": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it compares the risk of cardiovascular events between JAK inhibitors and bDMARDs, which is related to the source paper's discussion of JAK inhibitors' safety profiles.",
+                    "relevance": 2
+                },
+                "3. The Real-World Effectiveness, Persistence, Adherence, and Safety of Janus Kinase Inhibitor Baricitinib in Rheumatoid Arthritis: A Long-Term Study": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it explores the real-world effectiveness, persistence, adherence, and safety of baricitinib, a JAK inhibitor, which is related to the source paper's discussion of JAK inhibitors' safety profiles.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    }
+]

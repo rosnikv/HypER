@@ -1,0 +1,133 @@
+[
+    {
+        "year": 1991,
+        "source_paper": {
+            "paperId": "7f36118d87e0792ec8e2aa3c899956357acc72a5",
+            "pmid": "2184355",
+            "title": "A controlled trial of cyclosporine in the treatment of primary biliary cirrhosis.",
+            "abstract": "Primary biliary cirrhosis is a progressive disease of the liver characterized by the immunologic destruction of bile ducts; effective therapy is lacking. We therefore evaluated the safety and efficacy of low-dose cyclosporine in 29 patients with primary biliary cirrhosis without evidence of damage to the lobular architecture (precirrhotic disease) or portal hypertension. The patients were randomly assigned to receive either cyclosporine (4 mg per kilogram of body weight per day) or placebo. After one year 17 of the 19 patients assigned to cyclosporine had improvement or stability in their degree of fatigue, and 18 in their degree of pruritus. In contrast, among the 10 patients assigned to placebo, fatigue increased in 4 (P less than 0.06) and pruritus worsened in 6 (P less than 0.001). Those assigned to cyclosporine also had significant decreases in serum levels of bilirubin, alanine aminotransferase, alkaline phosphatase, gamma globulin, and the titer of antimitochondrial antibodies. For the 20 patients who have completed two years in the study, liver biopsies (coded specimens) showed evidence of histologic progression in only 1 of 13 patients in the cyclosporine group, as compared with 5 of 7 in the placebo group (P less than 0.003). No patient has permanently discontinued cyclosporine because of side effects; however, signs of nephrotoxicity developed in 12 of 19, and 9 of 19 had increased blood pressure. We conclude that in patients with precirrhotic primary biliary cirrhosis, immunosuppressive therapy with cyclosporine is promising and deserves further evaluation.",
+            "year": 1990,
+            "citation_count": 199
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Long\u2010term follow\u2010up of patients with primary biliary cirrhosis on colchicine therapy": {
+                    "explanation": "This paper is not directly connected to the source paper, as it discusses colchicine therapy, whereas the source paper focuses on cyclosporine. However, both papers deal with primary biliary cirrhosis, but there is no indication that the hypothesis or findings of the source paper inspired or partially depend on the current paper.",
+                    "relevance": 0
+                },
+                "2. Indocyanine green-sulfobromophthalein pharmacokinetics for diagnosing primary biliary cirrhosis and assessing histological severity": {
+                    "explanation": "This paper is not directly connected to the source paper, as it discusses a diagnostic method for primary biliary cirrhosis, whereas the source paper focuses on cyclosporine treatment. There is no indication that the hypothesis or findings of the source paper inspired or partially depend on the current paper.",
+                    "relevance": 0
+                },
+                "3. Renal Changes Associated With Cyclosporine in Recent Type I Diabetes Mellitus": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the effects of cyclosporine on renal function, which was mentioned in the source paper as a potential side effect.",
+                    "relevance": 2
+                },
+                "4. A multicenter, controlled trial of ursodiol for the treatment of primary biliary cirrhosis": {
+                    "explanation": "The key hypothesis in this paper is inspired by the hypothesis or the finding from the source paper, as it discusses an alternative treatment for primary biliary cirrhosis, which was the focus of the source paper.",
+                    "relevance": 1
+                },
+                "5. Hepatic fibrosis--new therapeutic approaches": {
+                    "explanation": "This paper is a review paper, as it discusses various therapeutic approaches for hepatic fibrosis without presenting novel findings or hypotheses. It does not directly connect to the source paper.",
+                    "relevance": 0
+                },
+                "6. Cyclosporin: use outside transplantation": {
+                    "explanation": "This paper does not appear to be directly connected to the source paper, as it discusses the use of cyclosporin in a different context, without mentioning primary biliary cirrhosis or building upon the findings of the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Renal Changes Associated With Cyclosporine in Recent Type I Diabetes Mellitus": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the effects of cyclosporine on renal function, which was mentioned in the source paper as a potential side effect.",
+                    "relevance": 2
+                },
+                "2. A multicenter, controlled trial of ursodiol for the treatment of primary biliary cirrhosis": {
+                    "explanation": "The key hypothesis in this paper is inspired by the hypothesis or the finding from the source paper, as it discusses an alternative treatment for primary biliary cirrhosis, which was the focus of the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 1992,
+        "source_paper": {
+            "paperId": "7f36118d87e0792ec8e2aa3c899956357acc72a5",
+            "pmid": "2184355",
+            "title": "A controlled trial of cyclosporine in the treatment of primary biliary cirrhosis.",
+            "abstract": "Primary biliary cirrhosis is a progressive disease of the liver characterized by the immunologic destruction of bile ducts; effective therapy is lacking. We therefore evaluated the safety and efficacy of low-dose cyclosporine in 29 patients with primary biliary cirrhosis without evidence of damage to the lobular architecture (precirrhotic disease) or portal hypertension. The patients were randomly assigned to receive either cyclosporine (4 mg per kilogram of body weight per day) or placebo. After one year 17 of the 19 patients assigned to cyclosporine had improvement or stability in their degree of fatigue, and 18 in their degree of pruritus. In contrast, among the 10 patients assigned to placebo, fatigue increased in 4 (P less than 0.06) and pruritus worsened in 6 (P less than 0.001). Those assigned to cyclosporine also had significant decreases in serum levels of bilirubin, alanine aminotransferase, alkaline phosphatase, gamma globulin, and the titer of antimitochondrial antibodies. For the 20 patients who have completed two years in the study, liver biopsies (coded specimens) showed evidence of histologic progression in only 1 of 13 patients in the cyclosporine group, as compared with 5 of 7 in the placebo group (P less than 0.003). No patient has permanently discontinued cyclosporine because of side effects; however, signs of nephrotoxicity developed in 12 of 19, and 9 of 19 had increased blood pressure. We conclude that in patients with precirrhotic primary biliary cirrhosis, immunosuppressive therapy with cyclosporine is promising and deserves further evaluation.",
+            "year": 1990,
+            "citation_count": 199
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Renal Function and Blood Pressure in Patients Receiving Long-Term, Low-Dose Cyclosporine Therapy for Idiopathic Autoimmune Uveitis": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the long-term effects of cyclosporine therapy, which was also used in the source paper to treat primary biliary cirrhosis.",
+                    "relevance": 1
+                },
+                "2. The treatment of neurosarcoidosis with cyclosporine": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it explores the use of cyclosporine therapy in treating another autoimmune disease, neurosarcoidosis.",
+                    "relevance": 1
+                },
+                "3. Oral pharmacokinetics of cyclosporin in patients with primary biliary Cirrhosis and patients with skin diseases": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the pharmacokinetics of cyclosporin in patients with primary biliary cirrhosis, which was also the focus of the source paper.",
+                    "relevance": 2
+                },
+                "4. Is continued enthusiasm for ursodeoxycholic acid therapy for the treatment of primary biliary cirrhosis warranted?": {
+                    "explanation": "This paper is not directly related to the source paper, as it discusses a different treatment option for primary biliary cirrhosis, ursodeoxycholic acid, without referencing cyclosporine or the source paper's findings.",
+                    "relevance": 0
+                },
+                "5. Pharmacology and Therapeutic Use in Autoimmune Diseases": {
+                    "explanation": "This paper is a review of cyclosporin A's pharmacology and therapeutic use in autoimmune diseases, including its use in liver transplantation, but it does not specifically reference the source paper or its findings.",
+                    "relevance": 0
+                },
+                "6. Primary biliary cirrhosis: new therapeutic directions": {
+                    "explanation": "This paper is a review of new therapeutic directions for primary biliary cirrhosis, including the use of ursodeoxycholic acid and methotrexate, but it does not specifically reference the source paper or its findings on cyclosporine therapy.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Oral pharmacokinetics of cyclosporin in patients with primary biliary Cirrhosis and patients with skin diseases": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the pharmacokinetics of cyclosporin in patients with primary biliary cirrhosis, which was also the focus of the source paper.",
+                    "relevance": 2
+                },
+                "2. Renal Function and Blood Pressure in Patients Receiving Long-Term, Low-Dose Cyclosporine Therapy for Idiopathic Autoimmune Uveitis": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the long-term effects of cyclosporine therapy, which was also used in the source paper to treat primary biliary cirrhosis.",
+                    "relevance": 1
+                },
+                "3. The treatment of neurosarcoidosis with cyclosporine": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it explores the use of cyclosporine therapy in treating another autoimmune disease, neurosarcoidosis.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 1996,
+        "source_paper": {
+            "paperId": "9eb7a8d11f087eeb11eda7e1274348d46737cda4",
+            "title": "Renal Changes Associated With Cyclosporine in Recent Type I Diabetes Mellitus",
+            "abstract": "The effects of cyclosporine A treatment on arterial pressure and renal function were assessed in 11 young patients with type I diabetes of short duration. Cyclosporine was started at 7.5 mg/kg/day, progressively decreased to 63 mg/kg/day at 6 months, and then continued at a lower dose (4.1 mg/kg/day) for an additional 3 months in patients in whom remission of insulin dependency was obtained (n=6). After 3 months of cyclosporine, a slight but significant increase in arterial pressure (+5.2\u00b11.5 mm Hg), a rise in renal vascular resistance (\u201420%), a decrease in glomerular filtration rate (\u201425%), and a fall in filtration fraction were observed. Such changes were sustained after 6 and eventually 9 months of therapy. The decrease in glomerular filtration rate observed during cyclosporine treatment contrasted with the lack of change in simultaneously estimated creatinine clearance; in fact, the creatinine clearance/ glomerular filtration ratio increased from 1.07\u00b10.05% to 1.33\u00b10.09% within 3 months of cyclosporine therapy, thus suggesting an enhanced tubular secretion of creatinine. Plasma renin activity and urinary excretion of kallikrein decreased significantly (\u201450%), whereas plasma aldosterone concentration remained unaltered and plasma concentration of potassium increased during cyclosporine therapy. These changes were observed in the presence of a constant urinary excretion of sodium and potassium and a constant body weight All parameters returned to pretreatment values within 3 months after cessation of cyclosporine. These results indicate that cyclosporine given for 6-9 months at a moderate dose causes a deleterious but reversible effect on arterial pressure and renal function in young diabetic patients.",
+            "year": 1991,
+            "citation_count": 13,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the effects of cyclosporine on renal function, which was mentioned in the source paper as a potential side effect."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Cyclosporin does not inhibit the tubular secretion of creatinine": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper. The source paper found that cyclosporine treatment caused a decrease in glomerular filtration rate (GFR) and an increase in creatinine clearance/GFR ratio, suggesting an enhanced tubular secretion of creatinine. This paper investigates whether cyclosporine inhibits the tubular secretion of creatinine, which is a sub-hypothesis of the source paper's findings.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Cyclosporin does not inhibit the tubular secretion of creatinine": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper. The source paper found that cyclosporine treatment caused a decrease in glomerular filtration rate (GFR) and an increase in creatinine clearance/GFR ratio, suggesting an enhanced tubular secretion of creatinine. This paper investigates whether cyclosporine inhibits the tubular secretion of creatinine, which is a sub-hypothesis of the source paper's findings.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    }
+]

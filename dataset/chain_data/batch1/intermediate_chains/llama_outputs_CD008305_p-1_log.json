@@ -1,0 +1,256 @@
+[
+    {
+        "year": 2009,
+        "source_paper": {
+            "paperId": "224d28989fd4ea72dbc09a581fb1b0dff472958f",
+            "pmid": "18424099",
+            "title": "Artichoke leaf extract (Cynara scolymus) reduces plasma cholesterol in otherwise healthy hypercholesterolemic adults: a randomized, double blind placebo controlled trial.",
+            "abstract": null,
+            "year": 2008,
+            "citation_count": 143
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Multivariate analysis ( PCA ) in Compositae biocompounds class": {
+                    "explanation": "This paper explores the multivariate analysis of biocompounds in Compositae family plants, including artichoke, but does not build upon or depend on the findings of the source paper regarding the effect of artichoke leaf extract on plasma cholesterol levels. The connection to the source paper is limited to the shared subject of Cynara scolymus (artichoke), but the context and research question are distinct.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2010,
+        "source_paper": {
+            "paperId": "224d28989fd4ea72dbc09a581fb1b0dff472958f",
+            "pmid": "18424099",
+            "title": "Artichoke leaf extract (Cynara scolymus) reduces plasma cholesterol in otherwise healthy hypercholesterolemic adults: a randomized, double blind placebo controlled trial.",
+            "abstract": null,
+            "year": 2008,
+            "citation_count": 143
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Evidence of glycemia\u2010lowering effect by a Cynara scolymus L. extract in normal and obese rats": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effects of Cynara scolymus L. extract on glycemia, building on the source paper's results regarding artichoke leaf extract's role in reducing plasma cholesterol.",
+                    "relevance": 1
+                },
+                "2. Novel Hydroxycinnamoyl-Coenzyme A Quinate Transferase Genes from Artichoke Are Involved in the Synthesis of Chlorogenic Acid1[W]": {
+                    "explanation": "This paper has no direct connection with the source paper, as it focuses on the synthesis of chlorogenic acid in artichokes and does not investigate the effects of artichoke leaf extract on plasma cholesterol or other related health outcomes.",
+                    "relevance": 0
+                },
+                "3. Artichoke leaf extract reduces oxidative stress and lipoprotein dyshomeostasis in rats fed on high cholesterol diet": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the effects of artichoke leaf extract on oxidative stress and lipoprotein dyshomeostasis in rats fed on a high cholesterol diet, using the source paper's findings on the cholesterol-reducing effect of artichoke leaf extract as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "4. Effects of artichoke leaf extract on acute gastric mucosal injury in rats": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effects of artichoke leaf extract on acute gastric mucosal injury in rats, building on the source paper's results regarding the potential health benefits of artichoke leaf extract.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Artichoke leaf extract reduces oxidative stress and lipoprotein dyshomeostasis in rats fed on high cholesterol diet": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the effects of artichoke leaf extract on oxidative stress and lipoprotein dyshomeostasis in rats fed on a high cholesterol diet, using the source paper's findings on the cholesterol-reducing effect of artichoke leaf extract as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "2. Evidence of glycemia\u2010lowering effect by a Cynara scolymus L. extract in normal and obese rats": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effects of Cynara scolymus L. extract on glycemia, building on the source paper's results regarding artichoke leaf extract's role in reducing plasma cholesterol.",
+                    "relevance": 1
+                },
+                "3. Effects of artichoke leaf extract on acute gastric mucosal injury in rats": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effects of artichoke leaf extract on acute gastric mucosal injury in rats, building on the source paper's results regarding the potential health benefits of artichoke leaf extract.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2011,
+        "source_paper": {
+            "paperId": "cc715ac9ab589b861242633e9569a9d0cd01450a",
+            "title": "Artichoke leaf extract reduces oxidative stress and lipoprotein dyshomeostasis in rats fed on high cholesterol diet",
+            "abstract": "Hypercholesterolemia and lipid peroxidation play complementary role in atherosclerosis. Artichoke leaf extract (ALE) is rich in natural antioxidants and has a cholesterol\u2010reducing effect. However, there is no study investigating the effect of ALE on lipid levels and lipid peroxidation in experimental hypercholesterolemic conditions. Rats were fed on 4% (w/w) cholesterol and 1% (w/w) cholic acid supplemented diet for 1 month. ALE (1.5\u2009g/kg/day) was given by gavage during the last 2 weeks. Serum lipid composition, malondialdehyde (MDA) and diene conjugate (DC) levels and plasma antioxidant activity (AOA) were measured. In addition, endogenous DC and copper\u2010induced MDA levels were determined in apo B\u2010containing lipoproteins (LDL+VLDL fraction). Serum cholesterol and triglyceride levels and the ratio of cholesterol to HDL\u2010cholesterol decreased due to ALE treatment in rats fed on HC diet. Significant decreases in serum MDA and DC levels and increases in plasma AOA were detected in serum in ALE\u2010treated hypercholesterolemic rats. Endogenous DC and copper\u2010induced MDA levels were also lower in LDL+VLDL fraction due to ALE\u2010treatment in hypercholesterolemic rats. Our results indicate that ALE may be useful for the prevention of hypercholesterolemia\u2010induced pro\u2010oxidant state in LDL+VLDL fraction and the reduction of increased serum cholesterol and triglyceride levels. Copyright \u00a9 2009 John Wiley & Sons, Ltd.",
+            "year": 2010,
+            "citation_count": 72,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the effects of artichoke leaf extract on oxidative stress and lipoprotein dyshomeostasis in rats fed on a high cholesterol diet, using the source paper's findings on the cholesterol-reducing effect of artichoke leaf extract as a sub-hypothesis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Beneficial effects of artichoke on liver phosphatidate phosphohydrolase and plasma lipids in rats fed by lipogenic diet": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effect of artichoke on liver phosphatidate phosphohydrolase, plasma lipid levels, and oxidative stress, building on the source paper's results regarding artichoke leaf extract's role in reducing oxidative stress and lipoprotein dyshomeostasis.",
+                    "relevance": 1
+                },
+                "2. Lipid-lowering effect of artichoke on liver phosphatidate phosphohydrolase and plasma lipids in hyperlipidemic rats": {
+                    "explanation": "This paper appears to be a duplicate or highly similar to the first paper, with the same hypothesis and methodology. However, it is still partially dependent on the findings of the source paper, using them as a sub-hypothesis.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Lipid-lowering effect of artichoke on liver phosphatidate phosphohydrolase and plasma lipids in hyperlipidemic rats": {
+                    "explanation": "This paper appears to be a duplicate or highly similar to the first paper, with the same hypothesis and methodology. However, it is still partially dependent on the findings of the source paper, using them as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "2. Beneficial effects of artichoke on liver phosphatidate phosphohydrolase and plasma lipids in rats fed by lipogenic diet": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effect of artichoke on liver phosphatidate phosphohydrolase, plasma lipid levels, and oxidative stress, building on the source paper's results regarding artichoke leaf extract's role in reducing oxidative stress and lipoprotein dyshomeostasis.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2012,
+        "source_paper": {
+            "paperId": "cc715ac9ab589b861242633e9569a9d0cd01450a",
+            "title": "Artichoke leaf extract reduces oxidative stress and lipoprotein dyshomeostasis in rats fed on high cholesterol diet",
+            "abstract": "Hypercholesterolemia and lipid peroxidation play complementary role in atherosclerosis. Artichoke leaf extract (ALE) is rich in natural antioxidants and has a cholesterol\u2010reducing effect. However, there is no study investigating the effect of ALE on lipid levels and lipid peroxidation in experimental hypercholesterolemic conditions. Rats were fed on 4% (w/w) cholesterol and 1% (w/w) cholic acid supplemented diet for 1 month. ALE (1.5\u2009g/kg/day) was given by gavage during the last 2 weeks. Serum lipid composition, malondialdehyde (MDA) and diene conjugate (DC) levels and plasma antioxidant activity (AOA) were measured. In addition, endogenous DC and copper\u2010induced MDA levels were determined in apo B\u2010containing lipoproteins (LDL+VLDL fraction). Serum cholesterol and triglyceride levels and the ratio of cholesterol to HDL\u2010cholesterol decreased due to ALE treatment in rats fed on HC diet. Significant decreases in serum MDA and DC levels and increases in plasma AOA were detected in serum in ALE\u2010treated hypercholesterolemic rats. Endogenous DC and copper\u2010induced MDA levels were also lower in LDL+VLDL fraction due to ALE\u2010treatment in hypercholesterolemic rats. Our results indicate that ALE may be useful for the prevention of hypercholesterolemia\u2010induced pro\u2010oxidant state in LDL+VLDL fraction and the reduction of increased serum cholesterol and triglyceride levels. Copyright \u00a9 2009 John Wiley & Sons, Ltd.",
+            "year": 2010,
+            "citation_count": 72,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the effects of artichoke leaf extract on oxidative stress and lipoprotein dyshomeostasis in rats fed on a high cholesterol diet, using the source paper's findings on the cholesterol-reducing effect of artichoke leaf extract as a sub-hypothesis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Artichoke Extract Lowered Plasma Cholesterol and Increased Fecal Bile Acids in Golden Syrian Hamsters": {
+                    "explanation": "This paper is inspired by the source paper, as it also investigates the effects of artichoke leaf extract on cholesterol levels. The source paper found that artichoke leaf extract reduced oxidative stress and lipoprotein dyshomeostasis in rats fed on high cholesterol diet, and this paper explores a similar hypothesis in a different animal model (Golden Syrian hamsters).",
+                    "relevance": 1
+                },
+                "2. The toxicity effect of methyl mercury chloride on newborn rat: Enzymatic, histology change and mercury accumulation": {
+                    "explanation": "This paper has no connection to the source paper. The source paper is about the effects of artichoke leaf extract on cholesterol levels, while this paper is about the toxicity of methyl mercury chloride on newborn rats.",
+                    "relevance": 0
+                },
+                "3. Effect of silymarin on liver phoshpatidate phosphohydrolase in hyperlipidemic rats": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper. The source paper found that artichoke leaf extract reduced oxidative stress and lipoprotein dyshomeostasis in rats fed on high cholesterol diet, and this paper explores a similar hypothesis with a different compound (silymarin) and a different enzyme (liver phoshpatidate phosphohydrolase).",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Effect of silymarin on liver phoshpatidate phosphohydrolase in hyperlipidemic rats": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper. The source paper found that artichoke leaf extract reduced oxidative stress and lipoprotein dyshomeostasis in rats fed on high cholesterol diet, and this paper explores a similar hypothesis with a different compound (silymarin) and a different enzyme (liver phoshpatidate phosphohydrolase).",
+                    "relevance": 2
+                },
+                "2. Artichoke Extract Lowered Plasma Cholesterol and Increased Fecal Bile Acids in Golden Syrian Hamsters": {
+                    "explanation": "This paper is inspired by the source paper, as it also investigates the effects of artichoke leaf extract on cholesterol levels. The source paper found that artichoke leaf extract reduced oxidative stress and lipoprotein dyshomeostasis in rats fed on high cholesterol diet, and this paper explores a similar hypothesis in a different animal model (Golden Syrian hamsters).",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2013,
+        "source_paper": {
+            "paperId": "efb87d03aa45c6ffef5f160b55d2bea9dcef2996",
+            "title": "Lipid-lowering effect of artichoke on liver phosphatidate phosphohydrolase and plasma lipids in hyperlipidemic rats",
+            "abstract": "Artichoke ( Cynara scolymus L.) is full of natural antioxidants and has a lipid-lowering effect. The aim of this study was to investigate the effect of artichoke on the liver phosphatidate phosphohydrolase (PAP), plasma lipid levels, plasma malondialdehyde (MDA), and plasma antioxidant in hyperlipidemic rats. Male rats were fed by standard pellet diet (Group 1), standard diet supplemented with 10% artichoke (Group 2), lipogenic diet (containing sunflower oil, cholesterol and ethanol) plus 10% artichoke (Group 3) and only lipogenic diet (Group 4). On day 60 of the experiment, liver PAP activity, liver triglyceride (TG), plasma lipids, plasma MDA, and plasma antioxidant levels were measured. PAP activity, liver TG, the ratio of total cholesterol (TC) to high density lipoprotein (HDL) cholesterol, plasma TC and TG levels were significantly decreased due to artichoke treatment in Groups 2 and 3 compared to Groups 1 and 4, respectively. Significant reduction in plasma MDA and significant elevation in plasma antioxidant power observed in Groups 2 and 3 compared to Groups 1 and 4, respectively. The results clearly indicated that artichoke can be useful for the reduction of PAP activity and liver TG. Also, artichoke has beneficial effects in the controlling of hyperlipidemia, abnormalities in lipid profiles and oxidative stress in hyperlipidemic regimes.",
+            "year": 2011,
+            "citation_count": 25,
+            "relevance": 2,
+            "explanation": "This paper appears to be a duplicate or highly similar to the first paper, with the same hypothesis and methodology. However, it is still partially dependent on the findings of the source paper, using them as a sub-hypothesis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Protective effect of artichoke (Cynara scolymus) leaf extract against lead toxicity in rat": {
+                    "explanation": "This paper explores a new angle (protective effect against lead toxicity) of artichoke treatment, but it is not directly related to the lipid-lowering effect or the liver phosphatidate phosphohydrolase activity studied in the source paper.",
+                    "relevance": 1
+                },
+                "2. Protective Effect of Hydroethanolic Extract of Cress against Hepatotoxicity due to Acetaminophen in Rats": {
+                    "explanation": "This paper has no connection with the source paper, as it investigates the protective effect of cress extract against hepatotoxicity due to acetaminophen, which is a different topic from the lipid-lowering effect of artichoke.",
+                    "relevance": 0
+                },
+                "3. The effect of sesame oil on the liver phosphatidate phosphohydrolase and serum lipoproteins in hypercholesterolemic rabbits": {
+                    "explanation": "This paper is at least partially dependent on the findings of the source paper, as it also investigates the effect of a natural substance (sesame oil) on liver phosphatidate phosphohydrolase activity and serum lipoproteins, which is a similar topic to the source paper.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. The effect of sesame oil on the liver phosphatidate phosphohydrolase and serum lipoproteins in hypercholesterolemic rabbits": {
+                    "explanation": "This paper is at least partially dependent on the findings of the source paper, as it also investigates the effect of a natural substance (sesame oil) on liver phosphatidate phosphohydrolase activity and serum lipoproteins, which is a similar topic to the source paper.",
+                    "relevance": 2
+                },
+                "2. Protective effect of artichoke (Cynara scolymus) leaf extract against lead toxicity in rat": {
+                    "explanation": "This paper explores a new angle (protective effect against lead toxicity) of artichoke treatment, but it is not directly related to the lipid-lowering effect or the liver phosphatidate phosphohydrolase activity studied in the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2014,
+        "source_paper": {
+            "paperId": "4d32312a42779e0002a863de1848eecca138fcd3",
+            "title": "The effect of sesame oil on the liver phosphatidate phosphohydrolase and serum lipoproteins in hypercholesterolemic rabbits.",
+            "abstract": "Background and Aim: Nowadays, the effect of medicinal plants on the reduction of the prevalence of cardiovascular diseases and atherosclerosis has been confirmed. Liver phosphatidate phosphohydrolase (PAP) is a key regulatory enzyme in the glycerolipid metabolism. The aim of this study was to assess the effects of sesame oil on liver PAP activity, liver triglyceride, liver cholesterol and serum lipoprotein levels in hypercholesterolemic rabbits. Material and Methods: In this experimental study 27 New Zealand rabbits were randomly assigned to 3 groups (n=9). Group1 (control) was fed with standard diet. Group II (hypercholesterolemic group) animals received hypercholesterolemic diet (1) without treatment. Group III was fed with hypercholesterolemic diet (1) plus sesame oil (5). After two months, liver PAP activity, liver triglyceride and cholesterol content, serum lipoproteins and malondialdehyde, and antioxidant capacity were measured. One way ANOVA was used for analysis of the mean values of the variables and for pair-wise comparison of the groups we used Tukey's test. Results: Group III had a significant decrease (P< 0.05) in the liver PAP activity compared to group II. In group II, consumption of the enriched cholesterol diet led to a significant elevation (P< 0.05) in serum lipoproteins compared to group I (control). Also, sesame oil in group III decreased the serum lipoproteins, liver triglyceride, and liver cholesterol in comparison to group II (p<0.05). However, a significant elevation (P< 0.05) in serum antioxidant capacity and a significant reduction in malondialdehyde level occurred in group III compared to group II (P<0.05). Conclusion: Sesame oil can be effective in reducing risk factors of cardiovascular diseases by decreasing serum lipids through making desirable alterations in serum lipoproteins. Also addition of sesame oil to hypercholesterolemic diets can reduce the liver PAP activity resulting in reduced liver triglyceride synthesis, which can decrease the risk of development of fatty liver in hypercholesterolemic diets.",
+            "year": 2013,
+            "citation_count": 4,
+            "relevance": 2,
+            "explanation": "This paper is at least partially dependent on the findings of the source paper, as it also investigates the effect of a natural substance (sesame oil) on liver phosphatidate phosphohydrolase activity and serum lipoproteins, which is a similar topic to the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Atherosclerosis: Process, Indicators, Risk Factors and New Hopes": {
+                    "explanation": "This paper is a review paper that discusses the mechanism of atherosclerosis, its risk factors, and the role of antioxidants and medicinal herbs in atherosclerosis. While it mentions medicinal plants effective in the treatment and prevention of hyperlipidemia and atherosclerosis, it does not specifically build upon or reference the findings of the source paper on sesame oil's effects on liver phosphatidate phosphohydrolase and serum lipoproteins in hypercholesterolemic rabbits.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2015,
+        "source_paper": {
+            "paperId": "4d32312a42779e0002a863de1848eecca138fcd3",
+            "title": "The effect of sesame oil on the liver phosphatidate phosphohydrolase and serum lipoproteins in hypercholesterolemic rabbits.",
+            "abstract": "Background and Aim: Nowadays, the effect of medicinal plants on the reduction of the prevalence of cardiovascular diseases and atherosclerosis has been confirmed. Liver phosphatidate phosphohydrolase (PAP) is a key regulatory enzyme in the glycerolipid metabolism. The aim of this study was to assess the effects of sesame oil on liver PAP activity, liver triglyceride, liver cholesterol and serum lipoprotein levels in hypercholesterolemic rabbits. Material and Methods: In this experimental study 27 New Zealand rabbits were randomly assigned to 3 groups (n=9). Group1 (control) was fed with standard diet. Group II (hypercholesterolemic group) animals received hypercholesterolemic diet (1) without treatment. Group III was fed with hypercholesterolemic diet (1) plus sesame oil (5). After two months, liver PAP activity, liver triglyceride and cholesterol content, serum lipoproteins and malondialdehyde, and antioxidant capacity were measured. One way ANOVA was used for analysis of the mean values of the variables and for pair-wise comparison of the groups we used Tukey's test. Results: Group III had a significant decrease (P< 0.05) in the liver PAP activity compared to group II. In group II, consumption of the enriched cholesterol diet led to a significant elevation (P< 0.05) in serum lipoproteins compared to group I (control). Also, sesame oil in group III decreased the serum lipoproteins, liver triglyceride, and liver cholesterol in comparison to group II (p<0.05). However, a significant elevation (P< 0.05) in serum antioxidant capacity and a significant reduction in malondialdehyde level occurred in group III compared to group II (P<0.05). Conclusion: Sesame oil can be effective in reducing risk factors of cardiovascular diseases by decreasing serum lipids through making desirable alterations in serum lipoproteins. Also addition of sesame oil to hypercholesterolemic diets can reduce the liver PAP activity resulting in reduced liver triglyceride synthesis, which can decrease the risk of development of fatty liver in hypercholesterolemic diets.",
+            "year": 2013,
+            "citation_count": 4,
+            "relevance": 2,
+            "explanation": "This paper is at least partially dependent on the findings of the source paper, as it also investigates the effect of a natural substance (sesame oil) on liver phosphatidate phosphohydrolase activity and serum lipoproteins, which is a similar topic to the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Neuroprotective Effect of Mentha longifolia L. Extract on Ischemia/reperfusion-induced Brain Injury in Male Wistar Rats": {
+                    "explanation": "This paper has no connection with the source paper, as it investigates the neuroprotective effect of Mentha longifolia L. extract on brain injury in rats, which is unrelated to the source paper's topic of sesame oil's effect on liver phosphatidate phosphohydrolase and serum lipoproteins in hypercholesterolemic rabbits.",
+                    "relevance": 0
+                },
+                "2. NEUROPROTECTIVE EFFECT OF PRETREATMENT WITH MENTHA LONGIFOLIA L. EXTRACT ON BRAIN ISCHEMIA IN THE RAT STROKE MODEL": {
+                    "explanation": "This paper has no connection with the source paper, as it also investigates the neuroprotective effect of Mentha longifolia L. extract on brain ischemia in rats, which is unrelated to the source paper's topic.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2015,
+        "source_paper": {
+            "paperId": "4d32312a42779e0002a863de1848eecca138fcd3",
+            "title": "The effect of sesame oil on the liver phosphatidate phosphohydrolase and serum lipoproteins in hypercholesterolemic rabbits.",
+            "abstract": "Background and Aim: Nowadays, the effect of medicinal plants on the reduction of the prevalence of cardiovascular diseases and atherosclerosis has been confirmed. Liver phosphatidate phosphohydrolase (PAP) is a key regulatory enzyme in the glycerolipid metabolism. The aim of this study was to assess the effects of sesame oil on liver PAP activity, liver triglyceride, liver cholesterol and serum lipoprotein levels in hypercholesterolemic rabbits. Material and Methods: In this experimental study 27 New Zealand rabbits were randomly assigned to 3 groups (n=9). Group1 (control) was fed with standard diet. Group II (hypercholesterolemic group) animals received hypercholesterolemic diet (1) without treatment. Group III was fed with hypercholesterolemic diet (1) plus sesame oil (5). After two months, liver PAP activity, liver triglyceride and cholesterol content, serum lipoproteins and malondialdehyde, and antioxidant capacity were measured. One way ANOVA was used for analysis of the mean values of the variables and for pair-wise comparison of the groups we used Tukey's test. Results: Group III had a significant decrease (P< 0.05) in the liver PAP activity compared to group II. In group II, consumption of the enriched cholesterol diet led to a significant elevation (P< 0.05) in serum lipoproteins compared to group I (control). Also, sesame oil in group III decreased the serum lipoproteins, liver triglyceride, and liver cholesterol in comparison to group II (p<0.05). However, a significant elevation (P< 0.05) in serum antioxidant capacity and a significant reduction in malondialdehyde level occurred in group III compared to group II (P<0.05). Conclusion: Sesame oil can be effective in reducing risk factors of cardiovascular diseases by decreasing serum lipids through making desirable alterations in serum lipoproteins. Also addition of sesame oil to hypercholesterolemic diets can reduce the liver PAP activity resulting in reduced liver triglyceride synthesis, which can decrease the risk of development of fatty liver in hypercholesterolemic diets.",
+            "year": 2013,
+            "citation_count": 4,
+            "relevance": 2,
+            "explanation": "This paper is at least partially dependent on the findings of the source paper, as it also investigates the effect of a natural substance (sesame oil) on liver phosphatidate phosphohydrolase activity and serum lipoproteins, which is a similar topic to the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Neuroprotective Effect of Mentha longifolia L. Extract on Ischemia/reperfusion-induced Brain Injury in Male Wistar Rats": {
+                    "explanation": "This paper has no connection to the source paper as it explores the neuroprotective effect of Mentha longifolia L. extract on brain injury, which is unrelated to the source paper's topic of sesame oil's effect on liver phosphatidate phosphohydrolase and serum lipoproteins in hypercholesterolemic rabbits.",
+                    "relevance": 0
+                },
+                "2. NEUROPROTECTIVE EFFECT OF PRETREATMENT WITH MENTHA LONGIFOLIA L. EXTRACT ON BRAIN ISCHEMIA IN THE RAT STROKE MODEL": {
+                    "explanation": "Similar to the first paper, this paper also has no connection to the source paper as it investigates the neuroprotective effect of Mentha longifolia L. extract on brain ischemia, which is unrelated to the source paper's topic.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    }
+]

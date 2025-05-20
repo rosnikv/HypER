@@ -1,0 +1,145 @@
+[
+    {
+        "year": 1994,
+        "source_paper": {
+            "paperId": "00250da70723ec94f46ab56105e5e37303c25ffd",
+            "pmid": "8235813",
+            "title": "The natural course of acute sciatica with nerve root symptoms in a double-blind placebo-controlled trial evaluating the effect of piroxicam.",
+            "abstract": "To study the natural history of acute sciatica, 208 patients with obvious symptoms and signs of a lumbar radiculopathy (L5 and S1) were examined within 14 days of onset. A concomitant double-blind investigation of the effect of the nonsteroidal anti-inflammatory drug piroxicam was performed. The results measured by visual analog scale and Roland's functional tests showed a satisfactory improvement throughout the 4 weeks of observation. The piroxicam-treated group had same results as the control group. Based on questionnaires at months 3 and 12 approximately 30% of the patients still complained about back trouble and 19.5% were out of work after 1 year. Four patients underwent surgery during this period.",
+            "year": 1993,
+            "citation_count": 307
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. The intervertebral disc: a biologically active tissue challenging therapy": {
+                    "explanation": "This paper discusses the role of intervertebral discs in low back pain, which is related to the topic of sciatica and radiculopathy in the source paper. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "2. The natural history of disc herniation and the influence of intervention": {
+                    "explanation": "This paper explores the natural history of lumbar disc herniation, which is relevant to the source paper's topic of acute sciatica with nerve root symptoms. The paper's discussion of the relationship between low back pain and herniated discs, as well as the role of conservative therapy, is inspired by the findings of the source paper.",
+                    "relevance": 1
+                },
+                "3. CT Changes after Conservative Treatment for Lumbar Disk Herniation": {
+                    "explanation": "This paper investigates the changes in lumbar disk herniations after conservative treatment, which is partially dependent on the understanding of the natural course of acute radiculopathy presented in the source paper. The paper's findings on the association between the evolution of hernias and clinical results can be seen as a sub-hypothesis of the source paper's findings.",
+                    "relevance": 2
+                },
+                "4. CT changes after conservative treatment for lumbar disk herniation": {
+                    "explanation": "This paper is a duplicate of paper 3, and therefore has the same explanation and relevance score.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. CT Changes after Conservative Treatment for Lumbar Disk Herniation": {
+                    "explanation": "This paper investigates the changes in lumbar disk herniations after conservative treatment, which is partially dependent on the understanding of the natural course of acute radiculopathy presented in the source paper. The paper's findings on the association between the evolution of hernias and clinical results can be seen as a sub-hypothesis of the source paper's findings.",
+                    "relevance": 2
+                },
+                "2. CT changes after conservative treatment for lumbar disk herniation": {
+                    "explanation": "This paper is a duplicate of paper 3, and therefore has the same explanation and relevance score.",
+                    "relevance": 2
+                },
+                "3. The natural history of disc herniation and the influence of intervention": {
+                    "explanation": "This paper explores the natural history of lumbar disc herniation, which is relevant to the source paper's topic of acute sciatica with nerve root symptoms. The paper's discussion of the relationship between low back pain and herniated discs, as well as the role of conservative therapy, is inspired by the findings of the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 1995,
+        "source_paper": {
+            "paperId": "00250da70723ec94f46ab56105e5e37303c25ffd",
+            "pmid": "8235813",
+            "title": "The natural course of acute sciatica with nerve root symptoms in a double-blind placebo-controlled trial evaluating the effect of piroxicam.",
+            "abstract": "To study the natural history of acute sciatica, 208 patients with obvious symptoms and signs of a lumbar radiculopathy (L5 and S1) were examined within 14 days of onset. A concomitant double-blind investigation of the effect of the nonsteroidal anti-inflammatory drug piroxicam was performed. The results measured by visual analog scale and Roland's functional tests showed a satisfactory improvement throughout the 4 weeks of observation. The piroxicam-treated group had same results as the control group. Based on questionnaires at months 3 and 12 approximately 30% of the patients still complained about back trouble and 19.5% were out of work after 1 year. Four patients underwent surgery during this period.",
+            "year": 1993,
+            "citation_count": 307
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Clinical Results after Percutaneous Automated Lumbar Nucleotomy": {
+                    "explanation": "This paper is not directly related to the source paper, which investigates the natural course of acute sciatica with nerve root symptoms and the effect of piroxicam. The paper discusses percutaneous automated nucleotomy, a different treatment approach for low-back pain and spinal conditions. There is no apparent connection between the two papers' hypotheses or findings.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 1995,
+        "source_paper": {
+            "paperId": "60811fc07ca846be71be62711dc8010e552f0b03",
+            "title": "CT changes after conservative treatment for lumbar disk herniation.",
+            "abstract": "In order to assess changes occurring to lumbar disk herniations and bulges and to the disk spaces after conservative treatment, a follow-up CT was carried out of 106 pathologic disks in 92 patients at a mean interval of 14 months after the initial examination. There was a strong association between the evolution of the hernias and clinical results, with a decrease in size of the majority of hernias in successfully treated patients, whereas the others essentially remained unchanged (p < 0.0001). A significantly higher proportion of large hernias diminished as compared to the smaller ones (p < 0.0001). Diffuse disk bulges were associated with a poor outcome and never regressed. There was a lower incidence of diminution of the central hernias compared to other locations. Patients with normal disk space at the initial examination had a better outcome than those with disk space narrowing. Only occasionally was a reduction of the disk space observed at follow-up.",
+            "year": 1994,
+            "citation_count": 27,
+            "relevance": 2,
+            "explanation": "This paper investigates the changes in lumbar disk herniations after conservative treatment, which is partially dependent on the understanding of the natural course of acute radiculopathy presented in the source paper. The paper's findings on the association between the evolution of hernias and clinical results can be seen as a sub-hypothesis of the source paper's findings."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Clinical Results after Percutaneous Automated Lumbar Nucleotomy": {
+                    "explanation": "This paper explores the clinical results after percutaneous automated nucleotomy and discusses predictive factors for the outcome, which includes disk space narrowing. Although the paper does not directly build upon the source paper's findings, it does relate to the topic of disk herniation treatment and mentions disk space narrowing, which was observed in the source paper. However, it does not directly use the source paper's findings as a sub-hypothesis, and the connection is more topical than methodological or result-based.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Clinical Results after Percutaneous Automated Lumbar Nucleotomy": {
+                    "explanation": "This paper explores the clinical results after percutaneous automated nucleotomy and discusses predictive factors for the outcome, which includes disk space narrowing. Although the paper does not directly build upon the source paper's findings, it does relate to the topic of disk herniation treatment and mentions disk space narrowing, which was observed in the source paper. However, it does not directly use the source paper's findings as a sub-hypothesis, and the connection is more topical than methodological or result-based.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 1996,
+        "source_paper": {
+            "paperId": "60811fc07ca846be71be62711dc8010e552f0b03",
+            "title": "CT changes after conservative treatment for lumbar disk herniation.",
+            "abstract": "In order to assess changes occurring to lumbar disk herniations and bulges and to the disk spaces after conservative treatment, a follow-up CT was carried out of 106 pathologic disks in 92 patients at a mean interval of 14 months after the initial examination. There was a strong association between the evolution of the hernias and clinical results, with a decrease in size of the majority of hernias in successfully treated patients, whereas the others essentially remained unchanged (p < 0.0001). A significantly higher proportion of large hernias diminished as compared to the smaller ones (p < 0.0001). Diffuse disk bulges were associated with a poor outcome and never regressed. There was a lower incidence of diminution of the central hernias compared to other locations. Patients with normal disk space at the initial examination had a better outcome than those with disk space narrowing. Only occasionally was a reduction of the disk space observed at follow-up.",
+            "year": 1994,
+            "citation_count": 27,
+            "relevance": 2,
+            "explanation": "This paper investigates the changes in lumbar disk herniations after conservative treatment, which is partially dependent on the understanding of the natural course of acute radiculopathy presented in the source paper. The paper's findings on the association between the evolution of hernias and clinical results can be seen as a sub-hypothesis of the source paper's findings."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. The use of radiographic imaging studies in the evaluation of patients who have degenerative disorders of the lumbar spine": {
+                    "explanation": "This paper is a review article that discusses the general principles of imaging of the spine and the appropriate timing for performing imaging studies in the context of degenerative spinal disorders. Although it mentions the shrinking of disc herniations, it does not specifically build upon or depend on the findings of the source paper, which investigated CT changes after conservative treatment for lumbar disk herniation.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 1998,
+        "source_paper": {
+            "paperId": "401dd1ea57ac00ec82ce0338a7345244acd43337",
+            "title": "Clinical Results after Percutaneous Automated Lumbar Nucleotomy",
+            "abstract": "This study was carried out in order to assess the clinical results after percutaneous automated nucleotomy with regard to predictive factors for the outcome. Selection criteria included patients with predominance of low-back pain, diffuse posterior disk bulges and concomitant spinal stenosis who are not normally accepted for nucleotomy. In all, 142 patients were treated. The overall success rate after an average observation time of 21 months was 56%. The results were not influenced by whether a diffuse posterior bulge or a focal hernia had been treated or not (p=0.449). Spinal stenosis (p=0.043) and disk space narrowing exceeding 25% of the expected width (p=0.017) were associated with a poor outcome. By excluding these categories and patients with symptoms from more than one disk level, the success rate rose to 70%. With this selection, the results were equally good in patients with predominantly low-back pain compared to those with predominantly sciatica (p=0.490).",
+            "year": 1995,
+            "citation_count": 18,
+            "relevance": 1,
+            "explanation": "This paper explores the clinical results after percutaneous automated nucleotomy and discusses predictive factors for the outcome, which includes disk space narrowing. Although the paper does not directly build upon the source paper's findings, it does relate to the topic of disk herniation treatment and mentions disk space narrowing, which was observed in the source paper. However, it does not directly use the source paper's findings as a sub-hypothesis, and the connection is more topical than methodological or result-based."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Retropsoas positioned bowel: incidence and clinical relevance": {
+                    "explanation": "This paper discusses the incidence and clinical relevance of retropsoas positioned bowel, which is related to the source paper's topic of percutaneous automated nucleotomy. The paper highlights the importance of considering retropsoas positioned bowel when performing percutaneous diskectomy or other interventional procedures in the posterior retroperitoneum, which is relevant to the source paper's findings on nucleotomy. However, the paper does not directly build upon or use the source paper's findings as a sub-hypothesis, so it is given a relevance score of 1.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Retropsoas positioned bowel: incidence and clinical relevance": {
+                    "explanation": "This paper discusses the incidence and clinical relevance of retropsoas positioned bowel, which is related to the source paper's topic of percutaneous automated nucleotomy. The paper highlights the importance of considering retropsoas positioned bowel when performing percutaneous diskectomy or other interventional procedures in the posterior retroperitoneum, which is relevant to the source paper's findings on nucleotomy. However, the paper does not directly build upon or use the source paper's findings as a sub-hypothesis, so it is given a relevance score of 1.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    }
+]

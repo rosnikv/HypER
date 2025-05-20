@@ -1,0 +1,1159 @@
+[
+    {
+        "year": 1992,
+        "source_paper": {
+            "paperId": "666cf79f3a888c7c3f751eead5f89ebb9e2ac029",
+            "pmid": "7141881",
+            "title": "The effect of a dietary supplement (Build-up) on nutritional status in hospitalized elderly patients.",
+            "abstract": null,
+            "year": 1982,
+            "citation_count": 16
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Plasma aspirin esterase and associated plasma esterases in old age and frailty": {
+                    "explanation": "This paper has no direct connection to the source paper. The source paper focuses on the effect of a dietary supplement on nutritional status in hospitalized elderly patients, while this paper explores plasma aspirin esterase and associated plasma esterases in the elderly. The topics are unrelated.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 1992,
+        "source_paper": {
+            "paperId": "666cf79f3a888c7c3f751eead5f89ebb9e2ac029",
+            "pmid": "7141881",
+            "title": "The effect of a dietary supplement (Build-up) on nutritional status in hospitalized elderly patients.",
+            "abstract": null,
+            "year": 1982,
+            "citation_count": 16
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Plasma aspirin esterase and associated plasma esterases in old age and frailty": {
+                    "explanation": "This paper has no connection with the source paper as it discusses plasma aspirin esterase and associated plasma esterases in the elderly, which is unrelated to the effect of a dietary supplement on nutritional status in hospitalized elderly patients.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 1993,
+        "source_paper": {
+            "paperId": "666cf79f3a888c7c3f751eead5f89ebb9e2ac029",
+            "pmid": "7141881",
+            "title": "The effect of a dietary supplement (Build-up) on nutritional status in hospitalized elderly patients.",
+            "abstract": null,
+            "year": 1982,
+            "citation_count": 16
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. The effect of age and frailty upon blood esterase activities and their response to dietary supplementation": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the effect of a dietary supplement (Build-up) on nutritional status, specifically blood esterase activities, in hospitalized elderly patients, using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. The effect of age and frailty upon blood esterase activities and their response to dietary supplementation": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the effect of a dietary supplement (Build-up) on nutritional status, specifically blood esterase activities, in hospitalized elderly patients, using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2007,
+        "source_paper": {
+            "paperId": "f371ff92079c9c9e8780b0d78974328bf93294c8",
+            "title": "The effect of age and frailty upon blood esterase activities and their response to dietary supplementation.",
+            "abstract": "1. The aims of this study were two-fold. First, to define ranges of blood esterase activities in three groups, namely young subjects, fit community dwelling elderly and frail, chronically hospitalised elderly subjects, and second, to determine whether low blood esterase activities in the frail patients could be altered by increasing their nutritional intake. 2. Plasma cholinesterase, aspirin esterase, paraoxonase and phenylacetate esterase activities were all significantly lower in the frail elderly compared with the young and fit elderly volunteers. The activity of red blood cell esterase was not different in the frail elderly. 3. Fourteen frail elderly patients were randomly assigned to receive either hospital meal provision plus supplemental feeding with Build-up (Nestle) and Maxijul (SHS Ltd) or hospital provision alone for 8 weeks. Dietary intake was measured for all patients at the start of the study and at week 8. Measurements of blood esterase (cholinesterase, phenylacetate esterase, paraoxonase, aspirin esterase and red blood cell esterase), albumin and anthropometric indices (weight, triceps skinfold thickness and mid arm circumference) were made before the study and repeated at week 4 and 8. 4. There was a significant increase in plasma cholinesterase at week 4 (P < 0.05) but this was not statistically significant at week 8. There were no significant changes in any of the other esterase activities or anthropometric measurements. 5. We conclude that the lower esterase activities of the frail chronically hospitalised elderly do not respond to dietary supplementation for a period of 8 weeks with routinely available products. The hypothesis that lower esterase activities are the direct result of undernutrition which would be corrected by dietary supplementation has not been supported by this study.",
+            "year": 1993,
+            "citation_count": 13,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the effect of a dietary supplement (Build-up) on nutritional status, specifically blood esterase activities, in hospitalized elderly patients, using the source paper's findings as a sub-hypothesis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Clinical pharmacology in the geriatric patient": {
+                    "explanation": "This paper discusses the importance of understanding pharmacokinetics and pharmacodynamics in geriatric patients, which is related to the source paper's focus on blood esterase activities in frail elderly subjects. However, it does not directly build upon or use the source paper's findings as a sub-hypothesis.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Clinical pharmacology in the geriatric patient": {
+                    "explanation": "This paper discusses the importance of understanding pharmacokinetics and pharmacodynamics in geriatric patients, which is related to the source paper's focus on blood esterase activities in frail elderly subjects. However, it does not directly build upon or use the source paper's findings as a sub-hypothesis.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2008,
+        "source_paper": {
+            "paperId": "87f64a5ced7ff46cd70282a564380ca1c49b6e80",
+            "title": "Clinical pharmacology in the geriatric patient",
+            "abstract": "Geriatric patients are a subset of older people with multiple comorbidities that usually have significant functional implications. Geriatric patients have impaired homeostasis and wide inter\u2010individual variability. Comprehensive geriatric assessment captures the complexity of the problems that characterize frail older patients and can be used to guide management, including prescribing. Prescribing for geriatric patients requires an understanding of the efficacy of the medication in frail older people, assessment of the risk of adverse drug events, discussion of the harm:benefit ratio with the patient, a decision about the dose regime and careful monitoring of the patient's response. This requires evaluation of evidence from clinical trials, application of the evidence to frail older people through an understanding of changes in pharmacokinetics and pharmacodynamics, and attention to medication management issues. Given that most disease occurs in older people, and that older people are the major recipients of drug therapy in the Western world, increased research and a better evidence base is essential to guide clinicians who manage geriatric patients.",
+            "year": 2007,
+            "citation_count": 274,
+            "relevance": 1,
+            "explanation": "This paper discusses the importance of understanding pharmacokinetics and pharmacodynamics in geriatric patients, which is related to the source paper's focus on blood esterase activities in frail elderly subjects. However, it does not directly build upon or use the source paper's findings as a sub-hypothesis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Exploring reasons for variation in urinary catheterisation prevalence in care homes: a qualitative study": {
+                    "explanation": "This paper has no direct connection to the source paper, as it discusses urinary catheterization prevalence in care homes, which is unrelated to the clinical pharmacology in geriatric patients. The source paper focuses on the challenges of prescribing medications to geriatric patients, while this paper explores a different aspect of geriatric care.",
+                    "relevance": 0
+                },
+                "2. Psychotropic prescribing in long-term care facilities: impact of medication reviews and educational interventions": {
+                    "explanation": "This paper is a review paper that discusses the impact of medication reviews and educational interventions on psychotropic drug use in long-term care facilities. Although it touches on the topic of medication management in geriatric patients, it does not build upon or partially depend on the findings of the source paper. Instead, it provides a broader overview of the literature on this topic.",
+                    "relevance": 0
+                },
+                "3. Clinical pharmacology in special populations: the extremes of age": {
+                    "explanation": "This paper is inspired by the hypothesis of the source paper, as it discusses the challenges of clinical pharmacology in special populations, including geriatric patients. The paper highlights the importance of considering the unique needs of geriatric patients when prescribing medications, which is a key theme in the source paper.",
+                    "relevance": 1
+                },
+                "4. Pharmaco\u2010epistemology for the prescribing geriatrician": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the importance of considering the broader social context of knowledge when interpreting clinical trial data for geriatric patients. The paper builds upon the idea that geriatric patients require special consideration when prescribing medications, which is a key theme in the source paper.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Pharmaco\u2010epistemology for the prescribing geriatrician": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the importance of considering the broader social context of knowledge when interpreting clinical trial data for geriatric patients.",
+                    "relevance": 2
+                },
+                "2. Clinical pharmacology in special populations: the extremes of age": {
+                    "explanation": "This paper is inspired by the hypothesis of the source paper, as it discusses the challenges of clinical pharmacology in special populations, including geriatric patients.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2009,
+        "source_paper": {
+            "paperId": "87f64a5ced7ff46cd70282a564380ca1c49b6e80",
+            "title": "Clinical pharmacology in the geriatric patient",
+            "abstract": "Geriatric patients are a subset of older people with multiple comorbidities that usually have significant functional implications. Geriatric patients have impaired homeostasis and wide inter\u2010individual variability. Comprehensive geriatric assessment captures the complexity of the problems that characterize frail older patients and can be used to guide management, including prescribing. Prescribing for geriatric patients requires an understanding of the efficacy of the medication in frail older people, assessment of the risk of adverse drug events, discussion of the harm:benefit ratio with the patient, a decision about the dose regime and careful monitoring of the patient's response. This requires evaluation of evidence from clinical trials, application of the evidence to frail older people through an understanding of changes in pharmacokinetics and pharmacodynamics, and attention to medication management issues. Given that most disease occurs in older people, and that older people are the major recipients of drug therapy in the Western world, increased research and a better evidence base is essential to guide clinicians who manage geriatric patients.",
+            "year": 2007,
+            "citation_count": 274,
+            "relevance": 1,
+            "explanation": "This paper discusses the importance of understanding pharmacokinetics and pharmacodynamics in geriatric patients, which is related to the source paper's focus on blood esterase activities in frail elderly subjects. However, it does not directly build upon or use the source paper's findings as a sub-hypothesis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Effects of aging on pharmacokinetic and pharmacodynamic drug processes": {
+                    "explanation": "This paper builds on the idea of the source paper, which emphasizes the importance of understanding the efficacy of medication in frail older people. This paper specifically explores how aging affects the pharmacokinetics and pharmacodynamics of drugs, providing further insight into the complexities of prescribing for geriatric patients.",
+                    "relevance": 1
+                },
+                "2. Pharmacokinetics in special populations": {
+                    "explanation": "This paper touches on the concept of pharmacokinetics in special populations, including the elderly, which is relevant to the source paper's discussion on geriatric patients. However, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "3. Drug Burden Index and physical function in older Australian men": {
+                    "explanation": "This paper explores the relationship between the Drug Burden Index and physical function in older men, which is a specific application of the concepts discussed in the source paper. However, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "4. Compliance with Paracetamol Prescribing Policies at a Sydney Hospital": {
+                    "explanation": "This paper is focused on a specific policy implementation and does not have a direct connection to the source paper's discussion on geriatric patients and pharmacology.",
+                    "relevance": 0
+                },
+                "5. Pharmacokinetics and drug metabolism in the elderly": {
+                    "explanation": "This paper provides a detailed exploration of the changes in pharmacokinetics and drug metabolism that occur in the elderly, which is a key concept discussed in the source paper. The findings of this paper could be considered a sub-hypothesis of the source paper, as they provide further insight into the complexities of prescribing for geriatric patients.",
+                    "relevance": 2
+                },
+                "6. Clinical pharmacology of analgesics in old age and frailty": {
+                    "explanation": "This paper builds on the idea of the source paper, which emphasizes the importance of understanding the efficacy of medication in frail older people. This paper specifically explores the clinical pharmacology of analgesics in older adults, providing further insight into the complexities of prescribing for geriatric patients.",
+                    "relevance": 1
+                },
+                "7. Methadone: an effective, safe drug of first choice for pain management in frail older adults": {
+                    "explanation": "This paper presents a specific case study on the use of methadone in frail older adults, which is a specific application of the concepts discussed in the source paper. However, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "8. Food-drug interactions in older people": {
+                    "explanation": "This paper explores the concept of food-drug interactions in older adults, which is a relevant consideration in the context of geriatric pharmacology. However, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Pharmacokinetics and drug metabolism in the elderly": {
+                    "explanation": "This paper provides a detailed exploration of the changes in pharmacokinetics and drug metabolism that occur in the elderly, which is a key concept discussed in the source paper. The findings of this paper could be considered a sub-hypothesis of the source paper, as they provide further insight into the complexities of prescribing for geriatric patients.",
+                    "relevance": 2
+                },
+                "2. Effects of aging on pharmacokinetic and pharmacodynamic drug processes": {
+                    "explanation": "This paper builds on the idea of the source paper, which emphasizes the importance of understanding the efficacy of medication in frail older people. This paper specifically explores how aging affects the pharmacokinetics and pharmacodynamics of drugs, providing further insight into the complexities of prescribing for geriatric patients.",
+                    "relevance": 1
+                },
+                "3. Clinical pharmacology of analgesics in old age and frailty": {
+                    "explanation": "This paper builds on the idea of the source paper, which emphasizes the importance of understanding the efficacy of medication in frail older people. This paper specifically explores the clinical pharmacology of analgesics in older adults, providing further insight into the complexities of prescribing for geriatric patients.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2010,
+        "source_paper": {
+            "paperId": "65ed9d50abc357aa52713e6eb36aabb567e888b4",
+            "title": "Pharmacokinetics and drug metabolism in the elderly",
+            "abstract": "Aging involves progressive impairments in the functional reserve of multiple organs, which might also affect drug metabolism and pharmacokinetics. In addition, the elderly population will develop multiple diseases and, consequently, often has to take several drugs. As the hepatic first-pass effect of highly cleared drugs could be reduced (due to decreases in liver mass and perfusion), the bioavailability of some drugs can be increased in the elderly. Significant changes in body composition occur with advancing age. Lipophilic drugs may have an increased volume of distribution (Vd) with a prolonged half-life, and water-soluble drugs tend to have a smaller Vd. In the elderly, hepatic drug clearance of some drugs can be reduced by up to 30% and CYP-mediated phase I reactions are more likely to be impaired than phase II metabolism, which is relatively preserved in the elderly. Concerning the most important CYP3A4 studies with human liver microsomes and clinical studies with the validated probe, midazolam, it is indicated that there are no significant differences in CYP3A4 activity between young and old populations. Finally, renal excretion is decreased (up to 50%) in about two thirds of elderly subjects, but confounding factors such as hypertension and coronary heart disease account also for a decline in kidney function. In conclusion, age-related physiological and pharmacokinetic changes as well as the presence of comorbidity and polypharmacy will complicate drug therapy in the elderly.",
+            "year": 2009,
+            "citation_count": 691,
+            "relevance": 2,
+            "explanation": "This paper provides a detailed exploration of the changes in pharmacokinetics and drug metabolism that occur in the elderly, which is a key concept discussed in the source paper. The findings of this paper could be considered a sub-hypothesis of the source paper, as they provide further insight into the complexities of prescribing for geriatric patients."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Do activities of cytochrome P450 (CYP)3A, CYP2D6 and P-glycoprotein differ between healthy volunteers and HIV-infected patients?": {
+                    "explanation": "This paper is not directly connected to the source paper. The source paper focuses on the pharmacokinetics and drug metabolism in the elderly, whereas this paper explores the differences in CYP enzyme activities between healthy volunteers and HIV-infected patients.",
+                    "relevance": 0
+                },
+                "2. HIV infection and aging": {
+                    "explanation": "Although this paper discusses the impact of aging on HIV infection, it does not directly relate to the pharmacokinetics and drug metabolism in the elderly, which is the focus of the source paper.",
+                    "relevance": 0
+                },
+                "3. Pharmacokinetics and Intramuscular Bioavailability of a Single Dose of Butorphanol in Asian Elephants (Elephas maximus)": {
+                    "explanation": "This paper is unrelated to the source paper, as it deals with the pharmacokinetics of butorphanol in Asian elephants, whereas the source paper focuses on drug metabolism and pharmacokinetics in humans, specifically the elderly.",
+                    "relevance": 0
+                },
+                "4. Population pharmacokinetics and pharmacodynamics in anesthesia, intensive care and pain medicine": {
+                    "explanation": "This paper is not directly connected to the source paper. The source paper focuses on the pharmacokinetics and drug metabolism in the elderly, whereas this paper discusses population pharmacokinetics and pharmacodynamics in anesthesia, intensive care, and pain medicine.",
+                    "relevance": 0
+                },
+                "5. Energy Restriction Does Not Compensate for the Reduced Expression of Hepatic Drug-Processing Genes in Mice with Aging": {
+                    "explanation": "This paper is related to the source paper, as it investigates the impact of aging on the expression of hepatic drug-processing genes in mice. However, it is not directly connected to the source paper's focus on humans.",
+                    "relevance": 1
+                },
+                "6. Age-related changes in plasma concentrations of the HIV protease inhibitor lopinavir": {
+                    "explanation": "This paper is related to the source paper, as it explores the impact of aging on the pharmacokinetics of lopinavir, which is relevant to the source paper's discussion of age-related changes in drug metabolism and pharmacokinetics.",
+                    "relevance": 1
+                },
+                "7. A discourse on the contributions of evidence-based medicine to wound care": {
+                    "explanation": "This paper is unrelated to the source paper, as it deals with the application of evidence-based medicine to wound care, whereas the source paper focuses on pharmacokinetics and drug metabolism in the elderly.",
+                    "relevance": 0
+                },
+                "8. Sex-Dependent Differences in Cytochrome P450 3A Activity as Assessed by Midazolam Disposition in Humans: A Meta-Analysis": {
+                    "explanation": "This paper is related to the source paper, as it investigates sex-dependent differences in CYP3A activity, which is relevant to the source paper's discussion of age-related changes in drug metabolism and pharmacokinetics.",
+                    "relevance": 1
+                },
+                "9. Multimorbidity and polypharmacy: Which betablocker to use in relation to the pharmacokinetic profile and interaction potential": {
+                    "explanation": "This paper is related to the source paper, as it discusses the importance of considering pharmacokinetic profiles and interaction potential when selecting betablockers for patients with multimorbidity and polypharmacy, which is relevant to the source paper's discussion of age-related changes in drug metabolism and pharmacokinetics.",
+                    "relevance": 1
+                },
+                "10. The effects of a nucleoside-sparing antiretroviral regimen on the pharmacokinetics of ritonavir-boosted darunavir in HIV type-1-infected patients": {
+                    "explanation": "This paper is related to the source paper, as it investigates the impact of a nucleoside-sparing antiretroviral regimen on the pharmacokinetics of ritonavir-boosted darunavir, which is relevant to the source paper's discussion of age-related changes in drug metabolism and pharmacokinetics.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Age-related changes in plasma concentrations of the HIV protease inhibitor lopinavir": {
+                    "explanation": "This paper is related to the source paper, as it explores the impact of aging on the pharmacokinetics of lopinavir, which is relevant to the source paper's discussion of age-related changes in drug metabolism and pharmacokinetics.",
+                    "relevance": 1
+                },
+                "2. Sex-Dependent Differences in Cytochrome P450 3A Activity as Assessed by Midazolam Disposition in Humans: A Meta-Analysis": {
+                    "explanation": "This paper is related to the source paper, as it investigates sex-dependent differences in CYP3A activity, which is relevant to the source paper's discussion of age-related changes in drug metabolism and pharmacokinetics.",
+                    "relevance": 1
+                },
+                "3. Multimorbidity and polypharmacy: Which betablocker to use in relation to the pharmacokinetic profile and interaction potential": {
+                    "explanation": "This paper is related to the source paper, as it discusses the importance of considering pharmacokinetic profiles and interaction potential when selecting betablockers for patients with multimorbidity and polypharmacy, which is relevant to the source paper's discussion of age-related changes in drug metabolism and pharmacokinetics.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2010,
+        "source_paper": {
+            "paperId": "65ed9d50abc357aa52713e6eb36aabb567e888b4",
+            "title": "Pharmacokinetics and drug metabolism in the elderly",
+            "abstract": "Aging involves progressive impairments in the functional reserve of multiple organs, which might also affect drug metabolism and pharmacokinetics. In addition, the elderly population will develop multiple diseases and, consequently, often has to take several drugs. As the hepatic first-pass effect of highly cleared drugs could be reduced (due to decreases in liver mass and perfusion), the bioavailability of some drugs can be increased in the elderly. Significant changes in body composition occur with advancing age. Lipophilic drugs may have an increased volume of distribution (Vd) with a prolonged half-life, and water-soluble drugs tend to have a smaller Vd. In the elderly, hepatic drug clearance of some drugs can be reduced by up to 30% and CYP-mediated phase I reactions are more likely to be impaired than phase II metabolism, which is relatively preserved in the elderly. Concerning the most important CYP3A4 studies with human liver microsomes and clinical studies with the validated probe, midazolam, it is indicated that there are no significant differences in CYP3A4 activity between young and old populations. Finally, renal excretion is decreased (up to 50%) in about two thirds of elderly subjects, but confounding factors such as hypertension and coronary heart disease account also for a decline in kidney function. In conclusion, age-related physiological and pharmacokinetic changes as well as the presence of comorbidity and polypharmacy will complicate drug therapy in the elderly.",
+            "year": 2009,
+            "citation_count": 691,
+            "relevance": 2,
+            "explanation": "This paper provides a detailed exploration of the changes in pharmacokinetics and drug metabolism that occur in the elderly, which is a key concept discussed in the source paper. The findings of this paper could be considered a sub-hypothesis of the source paper, as they provide further insight into the complexities of prescribing for geriatric patients."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Interindividual variability in hepatic drug glucuronidation: studies into the role of age, sex, enzyme inducers, and genetic polymorphism using the human liver bank as a model system": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the effect of age on hepatic drug glucuronidation, building on the source paper's discussion of age-related changes in drug metabolism.",
+                    "relevance": 2
+                },
+                "2. Impact of CYP2C19 genetics on pharmacokinetic variability of escitalopram and sertraline : a study based on therapeutic drug monitoring data": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the impact of genetic polymorphism on drug metabolism, which is related to the source paper's discussion of age-related changes in drug metabolism and pharmacokinetics.",
+                    "relevance": 1
+                },
+                "3. Contemporary Reviews in Cardiovascular Medicine": {
+                    "explanation": "This paper has no connection with the source paper, as it is a review paper that discusses cardiovascular medicine and does not relate to the topic of drug metabolism and pharmacokinetics in the elderly.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Interindividual variability in hepatic drug glucuronidation: studies into the role of age, sex, enzyme inducers, and genetic polymorphism using the human liver bank as a model system": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the effect of age on hepatic drug glucuronidation, building on the source paper's discussion of age-related changes in drug metabolism.",
+                    "relevance": 2
+                },
+                "2. Impact of CYP2C19 genetics on pharmacokinetic variability of escitalopram and sertraline : a study based on therapeutic drug monitoring data": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the impact of genetic polymorphism on drug metabolism, which is related to the source paper's discussion of age-related changes in drug metabolism and pharmacokinetics.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2011,
+        "source_paper": {
+            "paperId": "65ed9d50abc357aa52713e6eb36aabb567e888b4",
+            "title": "Pharmacokinetics and drug metabolism in the elderly",
+            "abstract": "Aging involves progressive impairments in the functional reserve of multiple organs, which might also affect drug metabolism and pharmacokinetics. In addition, the elderly population will develop multiple diseases and, consequently, often has to take several drugs. As the hepatic first-pass effect of highly cleared drugs could be reduced (due to decreases in liver mass and perfusion), the bioavailability of some drugs can be increased in the elderly. Significant changes in body composition occur with advancing age. Lipophilic drugs may have an increased volume of distribution (Vd) with a prolonged half-life, and water-soluble drugs tend to have a smaller Vd. In the elderly, hepatic drug clearance of some drugs can be reduced by up to 30% and CYP-mediated phase I reactions are more likely to be impaired than phase II metabolism, which is relatively preserved in the elderly. Concerning the most important CYP3A4 studies with human liver microsomes and clinical studies with the validated probe, midazolam, it is indicated that there are no significant differences in CYP3A4 activity between young and old populations. Finally, renal excretion is decreased (up to 50%) in about two thirds of elderly subjects, but confounding factors such as hypertension and coronary heart disease account also for a decline in kidney function. In conclusion, age-related physiological and pharmacokinetic changes as well as the presence of comorbidity and polypharmacy will complicate drug therapy in the elderly.",
+            "year": 2009,
+            "citation_count": 691,
+            "relevance": 2,
+            "explanation": "This paper provides a detailed exploration of the changes in pharmacokinetics and drug metabolism that occur in the elderly, which is a key concept discussed in the source paper. The findings of this paper could be considered a sub-hypothesis of the source paper, as they provide further insight into the complexities of prescribing for geriatric patients."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. The care of the very old in the last three days of life": {
+                    "explanation": "This paper discusses the experience of dying of the very old in a palliative care unit, focusing on symptom burden and medications prescribed. Although it doesn't directly build on the source paper's findings, it shares the theme of aging and its effects on healthcare. However, the connection is not strong enough to be considered as building on the source paper's hypothesis or findings.",
+                    "relevance": 0
+                },
+                "2. Optimal antiretroviral therapy for aging": {
+                    "explanation": "This paper explores the impact of aging on antiretroviral therapy for HIV-infected individuals. It mentions the complications associated with increasing age, such as cardiovascular disease and kidney dysfunction, which are also relevant to the source paper's discussion of age-related physiological and pharmacokinetic changes. However, the connection is not strong enough to be considered as building on the source paper's hypothesis or findings.",
+                    "relevance": 0
+                },
+                "3. Pharmacokinetic Modifications and Drug-Drug Interactions in Clinical Monitoring of the Elderly: A Short Review": {
+                    "explanation": "This paper discusses the increased risk of drug interactions and adverse effects in the elderly due to age-related pharmacokinetic alterations and polypharmacy. This is directly related to the source paper's discussion of age-related changes in drug metabolism and pharmacokinetics. The paper's hypothesis is partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                },
+                "4. A GENS-based approach to cardiovascular pharmacology: impact on metabolism, pharmacokinetics and pharmacodynamics": {
+                    "explanation": "This paper focuses on the impact of physiological gender/sex differences on pharmacokinetics and pharmacodynamics. Although it touches on the theme of pharmacokinetics, it does not directly build on the source paper's findings or hypothesis.",
+                    "relevance": 0
+                },
+                "5. Use of antiarrhythmic drugs in elderly patients": {
+                    "explanation": "This paper explores the impact of aging on the pharmacokinetics and pharmacodynamics of antiarrhythmic drugs. It discusses the age-related cardiac changes and their effects on the development of arrhythmias, which is related to the source paper's discussion of age-related physiological and pharmacokinetic changes. The paper's hypothesis is partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                },
+                "6. Combination of micellar electrokinetic and high-performance liquid chromatographies to assess age-related changes in the in vitro metabolism of Fischer 344 rat liver": {
+                    "explanation": "This paper discusses the use of a novel analytical approach to investigate age-related changes in the metabolism of doxorubicin in rat liver. Although it touches on the theme of aging and metabolism, it does not directly build on the source paper's findings or hypothesis.",
+                    "relevance": 0
+                },
+                "7. Effects of Ginkgo biloba extract on the pharmacokinetics and pharmacodynamics of tolbutamide in protein\u2010restricted rats": {
+                    "explanation": "This paper explores the impact of Ginkgo biloba extract on the pharmacokinetics and pharmacodynamics of tolbutamide in rats. Although it touches on the theme of pharmacokinetics, it does not directly build on the source paper's findings or hypothesis.",
+                    "relevance": 0
+                },
+                "8. AGNP Consensus Guidelines for Therapeutic Drug Monitoring in Psychiatry: Update 2011": {
+                    "explanation": "This paper provides guidelines for therapeutic drug monitoring in psychiatry, including recommendations for elderly patients. Although it touches on the theme of pharmacokinetics and aging, it does not directly build on the source paper's findings or hypothesis.",
+                    "relevance": 0
+                },
+                "9. The risk of adverse drug reactions in older patients: beyond drug metabolism": {
+                    "explanation": "This paper discusses the factors that contribute to the risk of adverse drug reactions in older patients, including comorbidity, geriatric syndromes, and cognitive and functional deficits. Although it touches on the theme of aging and pharmacokinetics, it does not directly build on the source paper's findings or hypothesis.",
+                    "relevance": 0
+                },
+                "10. Suspected side effects of doxycycline use in dogs \u2013 a retrospective study of 386 cases": {
+                    "explanation": "This paper is a veterinary study that investigates the side effects of doxycycline use in dogs. It is not related to the source paper's findings or hypothesis.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Pharmacokinetic Modifications and Drug-Drug Interactions in Clinical Monitoring of the Elderly: A Short Review": {
+                    "explanation": "This paper discusses the increased risk of drug interactions and adverse effects in the elderly due to age-related pharmacokinetic alterations and polypharmacy. This is directly related to the source paper's discussion of age-related changes in drug metabolism and pharmacokinetics. The paper's hypothesis is partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                },
+                "2. Use of antiarrhythmic drugs in elderly patients": {
+                    "explanation": "This paper explores the impact of aging on the pharmacokinetics and pharmacodynamics of antiarrhythmic drugs. It discusses the age-related cardiac changes and their effects on the development of arrhythmias, which is related to the source paper's discussion of age-related physiological and pharmacokinetic changes. The paper's hypothesis is partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2011,
+        "source_paper": {
+            "paperId": "65ed9d50abc357aa52713e6eb36aabb567e888b4",
+            "title": "Pharmacokinetics and drug metabolism in the elderly",
+            "abstract": "Aging involves progressive impairments in the functional reserve of multiple organs, which might also affect drug metabolism and pharmacokinetics. In addition, the elderly population will develop multiple diseases and, consequently, often has to take several drugs. As the hepatic first-pass effect of highly cleared drugs could be reduced (due to decreases in liver mass and perfusion), the bioavailability of some drugs can be increased in the elderly. Significant changes in body composition occur with advancing age. Lipophilic drugs may have an increased volume of distribution (Vd) with a prolonged half-life, and water-soluble drugs tend to have a smaller Vd. In the elderly, hepatic drug clearance of some drugs can be reduced by up to 30% and CYP-mediated phase I reactions are more likely to be impaired than phase II metabolism, which is relatively preserved in the elderly. Concerning the most important CYP3A4 studies with human liver microsomes and clinical studies with the validated probe, midazolam, it is indicated that there are no significant differences in CYP3A4 activity between young and old populations. Finally, renal excretion is decreased (up to 50%) in about two thirds of elderly subjects, but confounding factors such as hypertension and coronary heart disease account also for a decline in kidney function. In conclusion, age-related physiological and pharmacokinetic changes as well as the presence of comorbidity and polypharmacy will complicate drug therapy in the elderly.",
+            "year": 2009,
+            "citation_count": 691,
+            "relevance": 2,
+            "explanation": "This paper provides a detailed exploration of the changes in pharmacokinetics and drug metabolism that occur in the elderly, which is a key concept discussed in the source paper. The findings of this paper could be considered a sub-hypothesis of the source paper, as they provide further insight into the complexities of prescribing for geriatric patients."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Pharmacokinetics, Pharmacodynamics, and Safety of Ticagrelor in Volunteers With Mild Hepatic Impairment": {
+                    "explanation": "This paper explores the effect of mild hepatic impairment on the pharmacokinetics, pharmacodynamics, and safety of ticagrelor, which is partially dependent on the source paper's findings regarding the impact of aging on hepatic metabolism and pharmacokinetics.",
+                    "relevance": 2
+                },
+                "2. Prescribing for older adults": {
+                    "explanation": "This paper discusses the complexities of pharmacotherapy in the elderly population, including age-related physiologic changes, multiple comorbidities, and polypharmacy, which is inspired by the source paper's discussion of age-related physiological and pharmacokinetic changes.",
+                    "relevance": 1
+                },
+                "3. Inhibition of Cytochrome P450 3A by Clarithromycin Uniformly Affects the Pharmacokinetics and Pharmacodynamics of Oxycodone in Young and Elderly Volunteers": {
+                    "explanation": "This paper investigates the effect of clarithromycin on the pharmacokinetics and pharmacodynamics of oxycodone in young and elderly volunteers, which is partially dependent on the source paper's findings regarding the impact of aging on cytochrome P450 3A4 activity.",
+                    "relevance": 2
+                },
+                "4. Dyslipidemias in the older subject: features,significance and treatment dilemmas": {
+                    "explanation": "This paper discusses the management of dyslipidemias in older adults, including the impact of age-related changes on cardiovascular risk and the potential benefits and risks of statin therapy, which is not directly related to the source paper's findings.",
+                    "relevance": 0
+                },
+                "5. Age-Related Changes in the Hepatic Pharmacology and Toxicology of Paracetamol": {
+                    "explanation": "This paper explores the age-related changes in the hepatic pharmacology and toxicology of paracetamol, which is partially dependent on the source paper's findings regarding the impact of aging on hepatic metabolism and pharmacokinetics.",
+                    "relevance": 2
+                },
+                "6. Pharmacokinetic and Pharmacodynamic Properties of Cholinesterase Inhibitors Donepezil, Tacrine, and Galantamine in Aged and Young Lister Hooded Rats": {
+                    "explanation": "This paper investigates the pharmacokinetic and pharmacodynamic properties of cholinesterase inhibitors in aged and young rats, which is partially dependent on the source paper's findings regarding the impact of aging on pharmacokinetics and pharmacodynamics.",
+                    "relevance": 2
+                },
+                "7. Unique Aspects of the Elderly Surgical Population": {
+                    "explanation": "This paper discusses the unique aspects of the elderly surgical population, including age-related changes and decreased physiological reserve, which is inspired by the source paper's discussion of age-related physiological and pharmacokinetic changes.",
+                    "relevance": 1
+                },
+                "8. Pharmacokinetic Variability of Quetiapine and the Active Metabolite N-desalkylquetiapine in Psychiatric Patients": {
+                    "explanation": "This paper explores the pharmacokinetic variability of quetiapine and its active metabolite in psychiatric patients, including the impact of age on pharmacokinetics, which is partially dependent on the source paper's findings regarding the impact of aging on pharmacokinetics.",
+                    "relevance": 2
+                },
+                "9. Role of retinoids, rexinoids and thyroid hormone in the expression of cytochrome p450 enzymes": {
+                    "explanation": "This paper discusses the role of retinoids, rexinoids, and thyroid hormone in the expression of cytochrome P450 enzymes, which is not directly related to the source paper's findings.",
+                    "relevance": 0
+                },
+                "10. The influence of CYP2C9 and VKORC1 gene polymorphisms on optimal warfarin doses after heart valve replacement": {
+                    "explanation": "This paper investigates the influence of CYP2C9 and VKORC1 gene polymorphisms on optimal warfarin doses after heart valve replacement, which is not directly related to the source paper's findings.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Age-Related Changes in the Hepatic Pharmacology and Toxicology of Paracetamol": {
+                    "explanation": "This paper explores the age-related changes in the hepatic pharmacology and toxicology of paracetamol, which is partially dependent on the source paper's findings regarding the impact of aging on hepatic metabolism and pharmacokinetics.",
+                    "relevance": 2
+                },
+                "2. Pharmacokinetics, Pharmacodynamics, and Safety of Ticagrelor in Volunteers With Mild Hepatic Impairment": {
+                    "explanation": "This paper explores the effect of mild hepatic impairment on the pharmacokinetics, pharmacodynamics, and safety of ticagrelor, which is partially dependent on the source paper's findings regarding the impact of aging on hepatic metabolism and pharmacokinetics.",
+                    "relevance": 2
+                },
+                "3. Inhibition of Cytochrome P450 3A by Clarithromycin Uniformly Affects the Pharmacokinetics and Pharmacodynamics of Oxycodone in Young and Elderly Volunteers": {
+                    "explanation": "This paper investigates the effect of clarithromycin on the pharmacokinetics and pharmacodynamics of oxycodone in young and elderly volunteers, which is partially dependent on the source paper's findings regarding the impact of aging on cytochrome P450 3A4 activity.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2011,
+        "source_paper": {
+            "paperId": "65ed9d50abc357aa52713e6eb36aabb567e888b4",
+            "title": "Pharmacokinetics and drug metabolism in the elderly",
+            "abstract": "Aging involves progressive impairments in the functional reserve of multiple organs, which might also affect drug metabolism and pharmacokinetics. In addition, the elderly population will develop multiple diseases and, consequently, often has to take several drugs. As the hepatic first-pass effect of highly cleared drugs could be reduced (due to decreases in liver mass and perfusion), the bioavailability of some drugs can be increased in the elderly. Significant changes in body composition occur with advancing age. Lipophilic drugs may have an increased volume of distribution (Vd) with a prolonged half-life, and water-soluble drugs tend to have a smaller Vd. In the elderly, hepatic drug clearance of some drugs can be reduced by up to 30% and CYP-mediated phase I reactions are more likely to be impaired than phase II metabolism, which is relatively preserved in the elderly. Concerning the most important CYP3A4 studies with human liver microsomes and clinical studies with the validated probe, midazolam, it is indicated that there are no significant differences in CYP3A4 activity between young and old populations. Finally, renal excretion is decreased (up to 50%) in about two thirds of elderly subjects, but confounding factors such as hypertension and coronary heart disease account also for a decline in kidney function. In conclusion, age-related physiological and pharmacokinetic changes as well as the presence of comorbidity and polypharmacy will complicate drug therapy in the elderly.",
+            "year": 2009,
+            "citation_count": 691,
+            "relevance": 2,
+            "explanation": "This paper provides a detailed exploration of the changes in pharmacokinetics and drug metabolism that occur in the elderly, which is a key concept discussed in the source paper. The findings of this paper could be considered a sub-hypothesis of the source paper, as they provide further insight into the complexities of prescribing for geriatric patients."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. The HIV and Aging Consensus Project Recommended Treatment Strategies for Clinicians Managing Older Patients with HIV": {
+                    "explanation": "This paper appears to be a consensus project and recommended treatment strategies for clinicians managing older patients with HIV. Although it mentions aging, it does not seem to be directly connected to the source paper's findings on pharmacokinetics and drug metabolism in the elderly. However, it may be indirectly related as it deals with treatment strategies for older patients, which could be influenced by the age-related physiological and pharmacokinetic changes discussed in the source paper.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. The HIV and Aging Consensus Project Recommended Treatment Strategies for Clinicians Managing Older Patients with HIV": {
+                    "explanation": "This paper appears to be a consensus project and recommended treatment strategies for clinicians managing older patients with HIV. Although it mentions aging, it does not seem to be directly connected to the source paper's findings on pharmacokinetics and drug metabolism in the elderly. However, it may be indirectly related as it deals with treatment strategies for older patients, which could be influenced by the age-related physiological and pharmacokinetic changes discussed in the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2011,
+        "source_paper": {
+            "paperId": "1b53833366aec9ce84fa2688cd08df57d5194bd7",
+            "title": "Interindividual variability in hepatic drug glucuronidation: studies into the role of age, sex, enzyme inducers, and genetic polymorphism using the human liver bank as a model system",
+            "abstract": "The human liver bank has provided an invaluable model system for the study of interindividual variability in expression and activity of the major hepatic UGTs, including UGT1A1, 1A4, 1A6, 1A9, 2B7, and 2B15. Based on studies using UGT-isoform\u2013selective probes, the rank order of activity variability is UGT 1A1>1A6>2B15>1A4\u2009=\u20091A9>2B7, with coefficient of variation values ranging from 92 to 45%. Liver donor age, sex, enzyme inducers, and genetic polymorphism are factors that have been implicated as sources of this variability in UGT activity. The expression of UGTs prior to, and immediately following, birth is quite limited, explaining the susceptibility of neonates to certain drug toxicities. Old age appears to have minimal effect on UGT function. Sex differences in UGT activity are relatively small and are confined to several UGTs, including UGT2B15, which shows higher activity in males, compared with females. Enzyme inducers, including coadministered drugs, smoking, and alcohol, may increase hepatic UGT levels. Human liver bank phenotype-genotype studies, using UGT-isoform\u2013selective probes have identified common genetic polymorphisms that are predictive of glucuronidation activity in vitro and that were subsequently verified as predictors of probe-drug clearance by glucuronidation in vivo.",
+            "year": 2010,
+            "citation_count": 216,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the effect of age on hepatic drug glucuronidation, building on the source paper's discussion of age-related changes in drug metabolism."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Pain, analgesia and genetics": {
+                    "explanation": "This paper is a review paper that discusses the genetic and environmental factors influencing pain and analgesia, but does not have a direct connection to the source paper on hepatic drug glucuronidation.",
+                    "relevance": 0
+                },
+                "2. AGNP Consensus Guidelines for Therapeutic Drug Monitoring in Psychiatry: Update 2011": {
+                    "explanation": "This paper provides guidelines for therapeutic drug monitoring in psychiatry, but does not specifically address glucuronidation or the source paper's findings.",
+                    "relevance": 0
+                },
+                "3. Microsomal Quercetin Glucuronidation in Rat Small Intestine Depends on Age and Segment": {
+                    "explanation": "This paper explores the glucuronidation of quercetin in rat small intestine, which is related to the source paper's topic of glucuronidation, but focuses on a different aspect and species.",
+                    "relevance": 1
+                },
+                "4. N-glucuronidation of drugs and other xenobiotics by human and animal UDP-glucuronosyltransferases": {
+                    "explanation": "This paper reviews N-glucuronidation in humans and animals, which is related to the source paper's topic of glucuronidation, but does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "5. Glucuronidation of Anticancer Prodrug PR-104A: Species Differences, Identification of Human UDP-Glucuronosyltransferases, and Implications for Therapy": {
+                    "explanation": "This paper investigates the glucuronidation of an anticancer prodrug, which is related to the source paper's topic of glucuronidation, and identifies human UDP-glucuronosyltransferases involved in the process, building upon the source paper's findings.",
+                    "relevance": 2
+                },
+                "6. Determinants of Aspirin Metabolism in Healthy Men and Women: Effects of Dietary Inducers of UDP-Glucuronosyltransferases": {
+                    "explanation": "This paper explores the determinants of aspirin metabolism, including dietary inducers of UDP-glucuronosyltransferases, which is related to the source paper's topic of glucuronidation, but does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "7. Metabolism of the c-Fos/Activator Protein-1 Inhibitor T-5224 by Multiple Human UDP-Glucuronosyltransferase Isoforms": {
+                    "explanation": "This paper investigates the metabolism of a c-Fos/activator protein-1 inhibitor by human UDP-glucuronosyltransferase isoforms, which is related to the source paper's topic of glucuronidation, and identifies specific isoforms involved in the process, building upon the source paper's findings.",
+                    "relevance": 2
+                },
+                "8. Characterization of Niflumic Acid as a Selective Inhibitor of Human Liver Microsomal UDP-Glucuronosyltransferase 1A9: Application to the Reaction Phenotyping of Acetaminophen Glucuronidation": {
+                    "explanation": "This paper characterizes niflumic acid as a selective inhibitor of human liver microsomal UDP-glucuronosyltransferase 1A9 and applies it to the reaction phenotyping of acetaminophen glucuronidation, which is related to the source paper's topic of glucuronidation, and builds upon the source paper's findings.",
+                    "relevance": 2
+                },
+                "9. Critical evaluation of key evidence on the human health hazards of exposure to bisphenol A": {
+                    "explanation": "This paper provides a critical evaluation of the human health hazards of exposure to bisphenol A, which is not directly related to the source paper's topic of glucuronidation.",
+                    "relevance": 0
+                },
+                "10. Pharmacogenetics of the antiepileptic drugs phenytoin and lamotrigine": {
+                    "explanation": "This paper discusses the pharmacogenetics of antiepileptic drugs, including the role of UDP-glucuronosyltransferases in their metabolism, which is related to the source paper's topic of glucuronidation, but does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Glucuronidation of Anticancer Prodrug PR-104A: Species Differences, Identification of Human UDP-Glucuronosyltransferases, and Implications for Therapy": {
+                    "explanation": "This paper investigates the glucuronidation of an anticancer prodrug, which is related to the source paper's topic of glucuronidation, and identifies human UDP-glucuronosyltransferases involved in the process, building upon the source paper's findings.",
+                    "relevance": 2
+                },
+                "2. Metabolism of the c-Fos/Activator Protein-1 Inhibitor T-5224 by Multiple Human UDP-Glucuronosyltransferase Isoforms": {
+                    "explanation": "This paper investigates the metabolism of a c-Fos/activator protein-1 inhibitor by human UDP-glucuronosyltransferase isoforms, which is related to the source paper's topic of glucuronidation, and identifies specific isoforms involved in the process, building upon the source paper's findings.",
+                    "relevance": 2
+                },
+                "3. Characterization of Niflumic Acid as a Selective Inhibitor of Human Liver Microsomal UDP-Glucuronosyltransferase 1A9: Application to the Reaction Phenotyping of Acetaminophen Glucuronidation": {
+                    "explanation": "This paper characterizes niflumic acid as a selective inhibitor of human liver microsomal UDP-glucuronosyltransferase 1A9 and applies it to the reaction phenotyping of acetaminophen glucuronidation, which is related to the source paper's topic of glucuronidation, and builds upon the source paper's findings.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2011,
+        "source_paper": {
+            "paperId": "1b53833366aec9ce84fa2688cd08df57d5194bd7",
+            "title": "Interindividual variability in hepatic drug glucuronidation: studies into the role of age, sex, enzyme inducers, and genetic polymorphism using the human liver bank as a model system",
+            "abstract": "The human liver bank has provided an invaluable model system for the study of interindividual variability in expression and activity of the major hepatic UGTs, including UGT1A1, 1A4, 1A6, 1A9, 2B7, and 2B15. Based on studies using UGT-isoform\u2013selective probes, the rank order of activity variability is UGT 1A1>1A6>2B15>1A4\u2009=\u20091A9>2B7, with coefficient of variation values ranging from 92 to 45%. Liver donor age, sex, enzyme inducers, and genetic polymorphism are factors that have been implicated as sources of this variability in UGT activity. The expression of UGTs prior to, and immediately following, birth is quite limited, explaining the susceptibility of neonates to certain drug toxicities. Old age appears to have minimal effect on UGT function. Sex differences in UGT activity are relatively small and are confined to several UGTs, including UGT2B15, which shows higher activity in males, compared with females. Enzyme inducers, including coadministered drugs, smoking, and alcohol, may increase hepatic UGT levels. Human liver bank phenotype-genotype studies, using UGT-isoform\u2013selective probes have identified common genetic polymorphisms that are predictive of glucuronidation activity in vitro and that were subsequently verified as predictors of probe-drug clearance by glucuronidation in vivo.",
+            "year": 2010,
+            "citation_count": 216,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the effect of age on hepatic drug glucuronidation, building on the source paper's discussion of age-related changes in drug metabolism."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Pharmacogenetic Determinants of Atorvastatin Metabolism and Response": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the role of genetic polymorphisms in UGT1A3 in determining atorvastatin metabolism, which is related to the source paper's study on the role of genetic polymorphism in hepatic drug glucuronidation.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Pharmacogenetic Determinants of Atorvastatin Metabolism and Response": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the role of genetic polymorphisms in UGT1A3 in determining atorvastatin metabolism, which is related to the source paper's study on the role of genetic polymorphism in hepatic drug glucuronidation.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2012,
+        "source_paper": {
+            "paperId": "1b53833366aec9ce84fa2688cd08df57d5194bd7",
+            "title": "Interindividual variability in hepatic drug glucuronidation: studies into the role of age, sex, enzyme inducers, and genetic polymorphism using the human liver bank as a model system",
+            "abstract": "The human liver bank has provided an invaluable model system for the study of interindividual variability in expression and activity of the major hepatic UGTs, including UGT1A1, 1A4, 1A6, 1A9, 2B7, and 2B15. Based on studies using UGT-isoform\u2013selective probes, the rank order of activity variability is UGT 1A1>1A6>2B15>1A4\u2009=\u20091A9>2B7, with coefficient of variation values ranging from 92 to 45%. Liver donor age, sex, enzyme inducers, and genetic polymorphism are factors that have been implicated as sources of this variability in UGT activity. The expression of UGTs prior to, and immediately following, birth is quite limited, explaining the susceptibility of neonates to certain drug toxicities. Old age appears to have minimal effect on UGT function. Sex differences in UGT activity are relatively small and are confined to several UGTs, including UGT2B15, which shows higher activity in males, compared with females. Enzyme inducers, including coadministered drugs, smoking, and alcohol, may increase hepatic UGT levels. Human liver bank phenotype-genotype studies, using UGT-isoform\u2013selective probes have identified common genetic polymorphisms that are predictive of glucuronidation activity in vitro and that were subsequently verified as predictors of probe-drug clearance by glucuronidation in vivo.",
+            "year": 2010,
+            "citation_count": 216,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the effect of age on hepatic drug glucuronidation, building on the source paper's discussion of age-related changes in drug metabolism."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Characterization of UDP-glucuronosyltransferases involved in glucuronidation of diethylstilbestrol in human liver and intestine": {
+                    "explanation": "This paper builds on the source paper's findings regarding the variability of UGTs in human liver and explores the specific UGTs involved in the glucuronidation of diethylstilbestrol, a synthetic estrogen. The hypothesis in this paper is partially dependent on the findings of the source paper, which investigated the interindividual variability in hepatic drug glucuronidation.",
+                    "relevance": 2
+                },
+                "2. Population Pharmacokinetics of Unbound Mycophenolic Acid in Pediatric and Young Adult Patients Undergoing Allogeneic Hematopoietic Cell Transplantation": {
+                    "explanation": "This paper does not have a direct connection to the source paper, as it focuses on the population pharmacokinetics of mycophenolic acid in pediatric and young adult patients, rather than exploring the variability of UGTs in human liver.",
+                    "relevance": 0
+                },
+                "3. Effects of Tobacco Smoking and Nicotine on Cancer Treatment": {
+                    "explanation": "This paper is related to the source paper in that it discusses the effects of smoking on glucuronidation, but it does not directly build on the source paper's findings. Instead, it provides a broader overview of the effects of smoking on cancer treatment.",
+                    "relevance": 1
+                },
+                "4. Identification of UDP-glucuronosyltransferase isoforms involved in hepatic and intestinal glucuronidation of phytochemical carvacrol": {
+                    "explanation": "Similar to paper 1, this paper builds on the source paper's findings regarding the variability of UGTs in human liver and explores the specific UGTs involved in the glucuronidation of carvacrol, a phytochemical. The hypothesis in this paper is partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                },
+                "5. Autoinduction of phase I and phase II metabolism of artemisinin in rats": {
+                    "explanation": "This paper does not have a direct connection to the source paper, as it focuses on the autoinduction of phase I and phase II metabolism of artemisinin in rats, rather than exploring the variability of UGTs in human liver.",
+                    "relevance": 0
+                },
+                "6. The Dual Role of Pharmacogenetics in HIV Treatment: Mutations and Polymorphisms Regulating Antiretroviral Drug Resistance and Disposition": {
+                    "explanation": "This paper is related to the source paper in that it discusses the role of UGTs in drug metabolism, but it does not directly build on the source paper's findings. Instead, it provides a broader overview of the role of pharmacogenetics in HIV treatment.",
+                    "relevance": 1
+                },
+                "7. Ontogeny of hepatic glucuronidation; methods and results": {
+                    "explanation": "This paper is related to the source paper in that it discusses the development of hepatic glucuronidation, but it does not directly build on the source paper's findings. Instead, it provides a broader overview of the methods and results of studying the ontogeny of hepatic glucuronidation.",
+                    "relevance": 1
+                },
+                "8. Conjugation, Transport, and Elimination of Drugs in Humans": {
+                    "explanation": "This paper is a review paper that summarizes the current knowledge on conjugation, transport, and elimination of drugs in humans. It does not directly build on the source paper's findings or present novel hypotheses.",
+                    "relevance": 0
+                },
+                "9. Clinical Aspects of Drug Biotransformation: An Overview": {
+                    "explanation": "This paper is a review paper that provides an overview of the major oxidative, conjugative, and hydrolyzing capabilities of biotransforming enzyme systems. It does not directly build on the source paper's findings or present novel hypotheses.",
+                    "relevance": 0
+                },
+                "10. Optimized Assays for Human UDP-Glucuronosyltransferase (UGT) Activities: Altered Alamethicin Concentration and Utility to Screen for UGT Inhibitors": {
+                    "explanation": "This paper is related to the source paper in that it discusses the optimization of assays for human UGT activities, but it does not directly build on the source paper's findings. Instead, it provides a methodological contribution to the field.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Characterization of UDP-glucuronosyltransferases involved in glucuronidation of diethylstilbestrol in human liver and intestine": {
+                    "explanation": "This paper builds on the source paper's findings regarding the variability of UGTs in human liver and explores the specific UGTs involved in the glucuronidation of diethylstilbestrol, a synthetic estrogen. The hypothesis in this paper is partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                },
+                "2. Identification of UDP-glucuronosyltransferase isoforms involved in hepatic and intestinal glucuronidation of phytochemical carvacrol": {
+                    "explanation": "Similar to paper 1, this paper builds on the source paper's findings regarding the variability of UGTs in human liver and explores the specific UGTs involved in the glucuronidation of carvacrol, a phytochemical. The hypothesis in this paper is partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                },
+                "3. Effects of Tobacco Smoking and Nicotine on Cancer Treatment": {
+                    "explanation": "This paper is related to the source paper in that it discusses the effects of smoking on glucuronidation, but it does not directly build on the source paper's findings. Instead, it provides a broader overview of the effects of smoking on cancer treatment.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2012,
+        "source_paper": {
+            "paperId": "1b53833366aec9ce84fa2688cd08df57d5194bd7",
+            "title": "Interindividual variability in hepatic drug glucuronidation: studies into the role of age, sex, enzyme inducers, and genetic polymorphism using the human liver bank as a model system",
+            "abstract": "The human liver bank has provided an invaluable model system for the study of interindividual variability in expression and activity of the major hepatic UGTs, including UGT1A1, 1A4, 1A6, 1A9, 2B7, and 2B15. Based on studies using UGT-isoform\u2013selective probes, the rank order of activity variability is UGT 1A1>1A6>2B15>1A4\u2009=\u20091A9>2B7, with coefficient of variation values ranging from 92 to 45%. Liver donor age, sex, enzyme inducers, and genetic polymorphism are factors that have been implicated as sources of this variability in UGT activity. The expression of UGTs prior to, and immediately following, birth is quite limited, explaining the susceptibility of neonates to certain drug toxicities. Old age appears to have minimal effect on UGT function. Sex differences in UGT activity are relatively small and are confined to several UGTs, including UGT2B15, which shows higher activity in males, compared with females. Enzyme inducers, including coadministered drugs, smoking, and alcohol, may increase hepatic UGT levels. Human liver bank phenotype-genotype studies, using UGT-isoform\u2013selective probes have identified common genetic polymorphisms that are predictive of glucuronidation activity in vitro and that were subsequently verified as predictors of probe-drug clearance by glucuronidation in vivo.",
+            "year": 2010,
+            "citation_count": 216,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the effect of age on hepatic drug glucuronidation, building on the source paper's discussion of age-related changes in drug metabolism."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Ontogeny of mammalian metabolizing enzymes in humans and animals used in toxicological studies": {
+                    "explanation": "This paper is a review and does not present novel findings directly related to the source paper, but it discusses the development of metabolizing enzymes, including UGTs, in humans and animals.",
+                    "relevance": 0
+                },
+                "2. Characterization of In Vitro Glucuronidation Clearance of a Range of Drugs in Human Kidney Microsomes: Comparison with Liver and Intestinal Glucuronidation and Impact of Albumin": {
+                    "explanation": "This paper investigates glucuronidation in human kidney microsomes, liver, and intestinal microsomes, building on the understanding of UGTs in the liver as presented in the source paper.",
+                    "relevance": 1
+                },
+                "3. Drug metabolism in older people--a key consideration in achieving optimal outcomes with medicines": {
+                    "explanation": "This paper discusses the effects of aging on drug metabolism, including the role of UGTs, which is partially dependent on the understanding of UGTs presented in the source paper.",
+                    "relevance": 1
+                },
+                "4. Role and Clinical Consequences of Human UDP-Glucuronosyltransferases": {
+                    "explanation": "This paper presents an overview of the role of UGTs in drug metabolism, which is related to the source paper but does not directly build upon or use its findings as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "5. Quantitative distribution of mRNAs encoding the 19 human UDP-glucuronosyltransferase enzymes in 26 adult and 3 fetal tissues": {
+                    "explanation": "This paper investigates the expression levels of UGTs in various human tissues, which is a direct extension of the source paper's findings on the variability of UGTs in the human liver.",
+                    "relevance": 2
+                },
+                "6. Analysis of R- and S-Hydroxywarfarin Glucuronidation Catalyzed by Human Liver Microsomes and Recombinant UDP-Glucuronosyltransferases": {
+                    "explanation": "This paper investigates the glucuronidation of warfarin metabolites by specific UGTs, which is partially dependent on the understanding of UGTs in the liver presented in the source paper.",
+                    "relevance": 1
+                },
+                "7. Effects of UGT1A6, UGT2B7, and CYP2C9 genotypes on plasma concentrations of valproic acid in Chinese children with epilepsy": {
+                    "explanation": "This paper examines the effects of genetic polymorphisms in UGT1A6, UGT2B7, and CYP2C9 on valproic acid metabolism, which is partially dependent on the understanding of UGTs presented in the source paper.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Quantitative distribution of mRNAs encoding the 19 human UDP-glucuronosyltransferase enzymes in 26 adult and 3 fetal tissues": {
+                    "explanation": "This paper investigates the expression levels of UGTs in various human tissues, which is a direct extension of the source paper's findings on the variability of UGTs in the human liver.",
+                    "relevance": 2
+                },
+                "2. Characterization of In Vitro Glucuronidation Clearance of a Range of Drugs in Human Kidney Microsomes: Comparison with Liver and Intestinal Glucuronidation and Impact of Albumin": {
+                    "explanation": "This paper investigates glucuronidation in human kidney microsomes, liver, and intestinal microsomes, building on the understanding of UGTs in the liver as presented in the source paper.",
+                    "relevance": 1
+                },
+                "3. Analysis of R- and S-Hydroxywarfarin Glucuronidation Catalyzed by Human Liver Microsomes and Recombinant UDP-Glucuronosyltransferases": {
+                    "explanation": "This paper investigates the glucuronidation of warfarin metabolites by specific UGTs, which is partially dependent on the understanding of UGTs in the liver presented in the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2013,
+        "source_paper": {
+            "paperId": "f01c6adb74f8dbf7e3f85eda039b0ba831253ffe",
+            "title": "Quantitative distribution of mRNAs encoding the 19 human UDP-glucuronosyltransferase enzymes in 26 adult and 3 fetal tissues",
+            "abstract": "The purpose of this study was to generate, by real-time PCR, a quantitative expression level profile of the 19 human UDP-glucuronosyltransferases (UGTs) of subfamilies 1A, 2A and 2B, in 26 adult and 3 fetal tissues, for better understanding of their roles in xenobiotic and endobiotic metabolism. Adult liver contained the highest level of combined UGTs mRNA, and UGT2B4 was the most abundant isoform in this tissue (40% of total). Other well expressed hepatic UGTs, in decreasing order of mRNA level, were 1A9, 2B7, 1A4, 2B10, 1A1, 1A6, 2B11, 2B15, 1A3, 2A3, 2B17 and 2B28. UGT2B4 was by far the most abundant isoform in the fetal liver (90% of total). The combined UGT mRNA expression in both adult and fetal olfactory epithelium was high, about 20% the adult hepatic level. Interestingly, a large developmental change was found in this tissue from high UGT2A1 and UGT2A2 expression in the fetus to UGT1A6 in the adult. The most abundantly expressed UGTs in the small intestine were 2A3, 1A10, 1A1, 1A6 and 2B7, while 1A10 and 2A3 predominated in the colon. The results provide the most comprehensive data to date on the tissue distribution of the human UGTs.",
+            "year": 2012,
+            "citation_count": 220,
+            "relevance": 2,
+            "explanation": "This paper investigates the expression levels of UGTs in various human tissues, which is a direct extension of the source paper's findings on the variability of UGTs in the human liver."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Modulation of the UGT2B7 Enzyme Activity by C-Terminally Truncated Proteins Derived from Alternative Splicing": {
+                    "explanation": "This paper investigates the modulation of UGT2B7 enzyme activity, which is one of the UGT enzymes studied in the source paper. The hypothesis in this paper is inspired by the findings of the source paper, as it explores the role of alternative splicing in UGT2B7 enzyme activity.",
+                    "relevance": 1
+                },
+                "2. Utility of In Vitro Systems and Preclinical Data for the Prediction of Human Intestinal First-Pass Metabolism during Drug Discovery and Preclinical Development": {
+                    "explanation": "This paper discusses the utility of in vitro systems and preclinical data for predicting human intestinal first-pass metabolism, which is related to the expression of UGT enzymes in the small intestine, as described in the source paper. However, the paper does not directly build upon the findings of the source paper.",
+                    "relevance": 0
+                },
+                "3. Epigenetic Regulation Is a Crucial Factor in the Repression of UGT1A1 Expression in the Human Kidney": {
+                    "explanation": "This paper explores the epigenetic regulation of UGT1A1 expression in the human kidney, which is one of the tissues studied in the source paper. The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the tissue-specific expression of UGT1A1.",
+                    "relevance": 2
+                },
+                "4. A high throughput assay for the glucuronidation of 7-hydroxy-4-trifluoromethylcoumarin by recombinant human UDP-glucuronosyltransferases and liver microsomes": {
+                    "explanation": "This paper describes a high-throughput assay for the glucuronidation of 7-hydroxy-4-trifluoromethylcoumarin by recombinant human UGT enzymes, which is related to the expression of UGT enzymes in the liver, as described in the source paper. However, the paper does not directly build upon the findings of the source paper.",
+                    "relevance": 0
+                },
+                "5. Determination of Serotonin and Dopamine Metabolites in Human Brain Microdialysis and Cerebrospinal Fluid Samples by UPLC-MS/MS: Discovery of Intact Glucuronide and Sulfate Conjugates": {
+                    "explanation": "This paper discusses the determination of serotonin and dopamine metabolites in human brain microdialysis and cerebrospinal fluid samples, which is not directly related to the expression of UGT enzymes in various tissues, as described in the source paper.",
+                    "relevance": 0
+                },
+                "6. Evidence for regulation of UDP\u2010glucuronosyltransferase (UGT) 1A1 protein expression and activity via DNA methylation in healthy human livers": {
+                    "explanation": "This paper explores the regulation of UGT1A1 protein expression and activity via DNA methylation in healthy human livers, which is related to the expression of UGT enzymes in the liver, as described in the source paper. The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the regulation of UGT1A1 expression.",
+                    "relevance": 2
+                },
+                "7. The UDP-Glucuronosyltransferase (UGT) 1A Polymorphism c.2042C>G (rs8330) Is Associated with Increased Human Liver Acetaminophen Glucuronidation, Increased UGT1A Exon 5a/5b Splice Variant mRNA Ratio, and Decreased Risk of Unintentional Acetaminophen-Induced Acute Liver Failure": {
+                    "explanation": "This paper discusses the association between a UGT1A polymorphism and increased human liver acetaminophen glucuronidation, which is related to the expression of UGT enzymes in the liver, as described in the source paper. The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the role of UGT1A polymorphisms in acetaminophen glucuronidation.",
+                    "relevance": 2
+                },
+                "8. Application of a Physiologically Based Pharmacokinetic Model to Assess Propofol Hepatic and Renal Glucuronidation in Isolation: Utility of In Vitro and In Vivo Data": {
+                    "explanation": "This paper discusses the application of a physiologically based pharmacokinetic model to assess propofol hepatic and renal glucuronidation, which is related to the expression of UGT enzymes in the liver and kidney, as described in the source paper. However, the paper does not directly build upon the findings of the source paper.",
+                    "relevance": 0
+                },
+                "9. Activity and Enzyme Kinetics of Human UDP-Glucuronosyltransferases : Studies of Psilocin Glucuronidation and the Effects of Albumin on the Enzyme Kinetic Mechanism": {
+                    "explanation": "This paper discusses the activity and enzyme kinetics of human UGT enzymes, which is related to the expression of UGT enzymes in various tissues, as described in the source paper. However, the paper does not directly build upon the findings of the source paper.",
+                    "relevance": 0
+                },
+                "10. Regiospecificity and Stereospecificity of Human UDP-Glucuronosyltransferases in the Glucuronidation of Estriol, 16-Epiestriol, 17-Epiestriol, and 13-Epiestradiol": {
+                    "explanation": "This paper explores the regiospecificity and stereospecificity of human UGT enzymes in the glucuronidation of estriol and its metabolites, which is related to the expression of UGT enzymes in various tissues, as described in the source paper. The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the substrate specificity of UGT enzymes.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Epigenetic Regulation Is a Crucial Factor in the Repression of UGT1A1 Expression in the Human Kidney": {
+                    "explanation": "This paper explores the epigenetic regulation of UGT1A1 expression in the human kidney, which is one of the tissues studied in the source paper. The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the tissue-specific expression of UGT1A1.",
+                    "relevance": 2
+                },
+                "2. Evidence for regulation of UDP\u2010glucuronosyltransferase (UGT) 1A1 protein expression and activity via DNA methylation in healthy human livers": {
+                    "explanation": "This paper explores the regulation of UGT1A1 protein expression and activity via DNA methylation in healthy human livers, which is related to the expression of UGT enzymes in the liver, as described in the source paper. The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the regulation of UGT1A1 expression.",
+                    "relevance": 2
+                },
+                "3. The UDP-Glucuronosyltransferase (UGT) 1A Polymorphism c.2042C>G (rs8330) Is Associated with Increased Human Liver Acetaminophen Glucuronidation, Increased UGT1A Exon 5a/5b Splice Variant mRNA Ratio, and Decreased Risk of Unintentional Acetaminophen-Induced Acute Liver Failure": {
+                    "explanation": "This paper discusses the association between a UGT1A polymorphism and increased human liver acetaminophen glucuronidation, which is related to the expression of UGT enzymes in the liver, as described in the source paper. The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the role of UGT1A polymorphisms in acetaminophen glucuronidation.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2013,
+        "source_paper": {
+            "paperId": "f01c6adb74f8dbf7e3f85eda039b0ba831253ffe",
+            "title": "Quantitative distribution of mRNAs encoding the 19 human UDP-glucuronosyltransferase enzymes in 26 adult and 3 fetal tissues",
+            "abstract": "The purpose of this study was to generate, by real-time PCR, a quantitative expression level profile of the 19 human UDP-glucuronosyltransferases (UGTs) of subfamilies 1A, 2A and 2B, in 26 adult and 3 fetal tissues, for better understanding of their roles in xenobiotic and endobiotic metabolism. Adult liver contained the highest level of combined UGTs mRNA, and UGT2B4 was the most abundant isoform in this tissue (40% of total). Other well expressed hepatic UGTs, in decreasing order of mRNA level, were 1A9, 2B7, 1A4, 2B10, 1A1, 1A6, 2B11, 2B15, 1A3, 2A3, 2B17 and 2B28. UGT2B4 was by far the most abundant isoform in the fetal liver (90% of total). The combined UGT mRNA expression in both adult and fetal olfactory epithelium was high, about 20% the adult hepatic level. Interestingly, a large developmental change was found in this tissue from high UGT2A1 and UGT2A2 expression in the fetus to UGT1A6 in the adult. The most abundantly expressed UGTs in the small intestine were 2A3, 1A10, 1A1, 1A6 and 2B7, while 1A10 and 2A3 predominated in the colon. The results provide the most comprehensive data to date on the tissue distribution of the human UGTs.",
+            "year": 2012,
+            "citation_count": 220,
+            "relevance": 2,
+            "explanation": "This paper investigates the expression levels of UGTs in various human tissues, which is a direct extension of the source paper's findings on the variability of UGTs in the human liver."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Involvement of UDP-Glucuronosyltransferases UGT1A9 and UGT2B7 in Ethanol Glucuronidation, and Interactions with Common Drugs of Abuse": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the role of specific UDP-glucuronosyltransferases (UGTs) in ethanol glucuronidation, which is a related area of research.",
+                    "relevance": 1
+                },
+                "2. Tissue Distribution and Relative Gene Expression of UDP-Glucuronosyltransferases (2B7, 2B15, 2B17) in the Human Fetus": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the tissue distribution and gene expression of specific UGTs in the human fetus, building on the source paper's comprehensive data on the tissue distribution of human UGTs.",
+                    "relevance": 2
+                },
+                "3. UDP-glucuronosyltransferases : Their role in drug metabolism and etoxification": {
+                    "explanation": "This paper is a review paper that summarizes the role of UDP-glucuronosyltransferases in drug metabolism and etoxification, and does not have a direct connection to the source paper.",
+                    "relevance": 0
+                },
+                "4. UDP-glucuronosyltransferase 2B15 (UGT2B15) is the major enzyme responsible for sipoglitazar glucuronidation in humans: retrospective identification of the UGT isoform by in vitro analysis and the effect of UGT2B15*2 mutation.": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the role of a specific UGT isoform in the glucuronidation of a particular drug, which is a related area of research.",
+                    "relevance": 1
+                },
+                "5. Regio-and stereo-specificity of the human UDP-glucuronosyltransferases in the glucuronidation of estriol, 16-epiestriol, 17-epiestriol and 13-epiestradiol": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the regio- and stereo-specificity of human UDP-glucuronosyltransferases in the glucuronidation of specific compounds, which is a related area of research.",
+                    "relevance": 1
+                },
+                "6. Microsoft Word-42761122-file00.docx": {
+                    "explanation": "This paper does not have an abstract or a clear title, and its content is not directly related to the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Tissue Distribution and Relative Gene Expression of UDP-Glucuronosyltransferases (2B7, 2B15, 2B17) in the Human Fetus": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the tissue distribution and gene expression of specific UGTs in the human fetus, building on the source paper's comprehensive data on the tissue distribution of human UGTs.",
+                    "relevance": 2
+                },
+                "2. Involvement of UDP-Glucuronosyltransferases UGT1A9 and UGT2B7 in Ethanol Glucuronidation, and Interactions with Common Drugs of Abuse": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the role of specific UDP-glucuronosyltransferases (UGTs) in ethanol glucuronidation, which is a related area of research.",
+                    "relevance": 1
+                },
+                "3. UDP-glucuronosyltransferase 2B15 (UGT2B15) is the major enzyme responsible for sipoglitazar glucuronidation in humans: retrospective identification of the UGT isoform by in vitro analysis and the effect of UGT2B15*2 mutation.": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the role of a specific UGT isoform in the glucuronidation of a particular drug, which is a related area of research.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2014,
+        "source_paper": {
+            "paperId": "f01c6adb74f8dbf7e3f85eda039b0ba831253ffe",
+            "title": "Quantitative distribution of mRNAs encoding the 19 human UDP-glucuronosyltransferase enzymes in 26 adult and 3 fetal tissues",
+            "abstract": "The purpose of this study was to generate, by real-time PCR, a quantitative expression level profile of the 19 human UDP-glucuronosyltransferases (UGTs) of subfamilies 1A, 2A and 2B, in 26 adult and 3 fetal tissues, for better understanding of their roles in xenobiotic and endobiotic metabolism. Adult liver contained the highest level of combined UGTs mRNA, and UGT2B4 was the most abundant isoform in this tissue (40% of total). Other well expressed hepatic UGTs, in decreasing order of mRNA level, were 1A9, 2B7, 1A4, 2B10, 1A1, 1A6, 2B11, 2B15, 1A3, 2A3, 2B17 and 2B28. UGT2B4 was by far the most abundant isoform in the fetal liver (90% of total). The combined UGT mRNA expression in both adult and fetal olfactory epithelium was high, about 20% the adult hepatic level. Interestingly, a large developmental change was found in this tissue from high UGT2A1 and UGT2A2 expression in the fetus to UGT1A6 in the adult. The most abundantly expressed UGTs in the small intestine were 2A3, 1A10, 1A1, 1A6 and 2B7, while 1A10 and 2A3 predominated in the colon. The results provide the most comprehensive data to date on the tissue distribution of the human UGTs.",
+            "year": 2012,
+            "citation_count": 220,
+            "relevance": 2,
+            "explanation": "This paper investigates the expression levels of UGTs in various human tissues, which is a direct extension of the source paper's findings on the variability of UGTs in the human liver."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. The UDP-glucuronosyltransferases of the blood-brain barrier: their role in drug metabolism and detoxication": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the role of UGTs in the blood-brain barrier, building on the source paper's results regarding the tissue distribution of human UGTs.",
+                    "relevance": 1
+                },
+                "2. Transcriptional regulation of human UDP-glucuronosyltransferase genes": {
+                    "explanation": "This paper is a review of the transcriptional regulation of UGT genes and does not directly build on the source paper's findings. However, it provides a broader understanding of UGTs, which are relevant to the source paper.",
+                    "relevance": 0
+                },
+                "3. Human sulfotransferase 1A1-dependent mutagenicity of 12-hydroxy-nevirapine: the missing link?": {
+                    "explanation": "This paper does not directly relate to the source paper, as it focuses on sulfotransferase 1A1 and its role in the mutagenicity of 12-hydroxy-nevirapine, rather than UGTs.",
+                    "relevance": 0
+                },
+                "4. In vitro glucuronidation of Armillarisin A: UDP-glucuronosyltransferase 1A9 acts as a major contributor and significant species differences": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the glucuronidation of Armillarisin A by UGT1A9, building on the source paper's results regarding the tissue distribution and expression levels of human UGTs.",
+                    "relevance": 1
+                },
+                "5. Identification of Diet-Derived Constituents as Potent Inhibitors of Intestinal Glucuronidation": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the inhibition of intestinal UGTs, which are expressed in various tissues, including the small intestine, as reported in the source paper.",
+                    "relevance": 2
+                },
+                "6. Human hepatic UGT2B15 developmental expression": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the developmental expression of UGT2B15 in human liver, building on the source paper's results regarding the expression levels of human UGTs in various tissues.",
+                    "relevance": 1
+                },
+                "7. Extrahepatic metabolism at the body's internal\u2013external interfaces": {
+                    "explanation": "This paper is a review of the expression of xenobiotic metabolizing enzymes, including UGTs, in extrahepatic tissues and does not directly build on the source paper's findings. However, it provides a broader understanding of UGTs, which are relevant to the source paper.",
+                    "relevance": 0
+                },
+                "8. UGT2B Gene Expression Analysis in Multiple Tobacco Carcinogen-Targeted Tissues": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the expression of UGT2B genes in various tissues, building on the source paper's results regarding the tissue distribution of human UGTs.",
+                    "relevance": 1
+                },
+                "9. SVM Classification and CoMSIA Modeling of UGT1A6 Interacting Molecules": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the interactions of UGT1A6 with various molecules, building on the source paper's results regarding the expression levels and tissue distribution of human UGTs.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Identification of Diet-Derived Constituents as Potent Inhibitors of Intestinal Glucuronidation": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the inhibition of intestinal UGTs, which are expressed in various tissues, including the small intestine, as reported in the source paper.",
+                    "relevance": 2
+                },
+                "2. The UDP-glucuronosyltransferases of the blood-brain barrier: their role in drug metabolism and detoxication": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the role of UGTs in the blood-brain barrier, building on the source paper's results regarding the tissue distribution of human UGTs.",
+                    "relevance": 1
+                },
+                "3. In vitro glucuronidation of Armillarisin A: UDP-glucuronosyltransferase 1A9 acts as a major contributor and significant species differences": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the glucuronidation of Armillarisin A by UGT1A9, building on the source paper's results regarding the tissue distribution and expression levels of human UGTs.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2014,
+        "source_paper": {
+            "paperId": "6c4f4508f5e5735fc04fee93f600280ccbd1bf46",
+            "title": "The UDP-Glucuronosyltransferase (UGT) 1A Polymorphism c.2042C>G (rs8330) Is Associated with Increased Human Liver Acetaminophen Glucuronidation, Increased UGT1A Exon 5a/5b Splice Variant mRNA Ratio, and Decreased Risk of Unintentional Acetaminophen-Induced Acute Liver Failure",
+            "abstract": "Acetaminophen is cleared primarily by hepatic glucuronidation. Polymorphisms in genes encoding the acetaminophen UDP-glucuronosyltransferase (UGT) enzymes could explain interindividual variability in acetaminophen glucuronidation and variable risk for liver injury after acetaminophen overdose. In this study, human liver bank samples were phenotyped for acetaminophen glucuronidation activity and genotyped for the major acetaminophen-glucuronidating enzymes (UGTs 1A1, 1A6, 1A9, and 2B15). Of these, only three linked single nucleotide polymorphisms (SNPs) located in the shared UGT1A-3\u2032UTR region (rs10929303, rs1042640, rs8330) were associated with acetaminophen glucuronidation activity, with rs8330 consistently showing higher acetaminophen glucuronidation at all the tested concentrations of acetaminophen. Mechanistic studies using luciferase-UGT1A-3\u2032UTR reporters indicated that these SNPs do not alter mRNA stability or translation efficiency. However, there was evidence for allelic imbalance and a gene-dose proportional increase in the amount of exon 5a versus exon 5b containing UGT1A mRNA spliced transcripts in livers with the rs8330 variant allele. Cotransfection studies demonstrated an inhibitory effect of exon 5b containing cDNAs on acetaminophen glucuronidation by UGT1A1 and UGT1A6 cDNAs containing exon 5a. In silico analysis predicted that rs8330 creates an exon splice enhancer site that could favor exon 5a (over exon 5b) utilization during splicing. Finally, the prevalence of rs8330 was significantly lower (P = 0.027, \u03c72 test) in patients who had acute liver failure from unintentional acetaminophen overdose compared with patients with acute liver failure from other causes or a race- or ethnicity-matched population. Together, these findings suggest that rs8330 is an important determinant of acetaminophen glucuronidation and could affect an individual\u2019s risk for acetaminophen-induced liver injury.",
+            "year": 2013,
+            "citation_count": 77,
+            "relevance": 2,
+            "explanation": "This paper discusses the association between a UGT1A polymorphism and increased human liver acetaminophen glucuronidation, which is related to the expression of UGT enzymes in the liver, as described in the source paper. The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the role of UGT1A polymorphisms in acetaminophen glucuronidation."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Single-nucleotide polymorphisms in the UDP-glucuronosyltransferase 1A-3' untranslated region are associated with atazanavir-induced nephrolithiasis in patients with HIV-1 infection: a pharmacogenetic study": {
+                    "explanation": "The study explores the relationship between polymorphisms in genes encoding proteins involved in metabolism and transportation of atazanavir, and atazanavir/ritonavir-induced nephrolithiasis in HIV-1-infected patients. Although it does not directly investigate acetaminophen glucuronidation, it does examine the UGT1A-3' untranslated region, which is relevant to the source paper's findings on the rs8330 variant allele. Thus, the key hypothesis in this paper is at least partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                },
+                "2. Early predictors of severe acetaminophen\u2010induced hepatotoxicity in a paediatric population referred to a tertiary paediatric department": {
+                    "explanation": "This paper explores the dose\u2013response relationship between ingested acetaminophen and hepatotoxicity in children. The hypothesis in this paper is inspired by the source paper's findings on acetaminophen glucuronidation and its association with liver injury.",
+                    "relevance": 1
+                },
+                "3. Pharmacogenomics of acetaminophen in pediatric populations: a moving target": {
+                    "explanation": "This review paper focuses on the ontogenesis of the regulatory pathways involved in the disposition of APAP and on the variability between pediatric, adolescent, and adult patients. It does not present novel hypotheses or findings, but rather summarizes existing literature.",
+                    "relevance": 0
+                },
+                "4. Early Risk Factors of Moderate/Severe Hepatotoxicity After Suicide Attempts With Acetaminophen in 11- to 15-Year-Old Children": {
+                    "explanation": "This study aims to characterize early risk factors of moderate/severe hepatotoxicity in a pediatric population with acetaminophen overdose. The hypothesis in this paper is inspired by the source paper's findings on acetaminophen glucuronidation and its association with liver injury.",
+                    "relevance": 1
+                },
+                "5. Pharmacogenetic insights into migraine treatment in children": {
+                    "explanation": "This paper discusses the pharmacogenetics of drugs used in pediatric migraine, but does not directly relate to the source paper's findings on acetaminophen glucuronidation.",
+                    "relevance": 0
+                },
+                "6. A Potential Role for Human UDP-Glucuronosyltransferase 1A4 Promoter Single Nucleotide Polymorphisms in the Pharmacogenomics of Tamoxifen and Its Derivatives": {
+                    "explanation": "This study examines the glucuronidation of Tam and its derivatives using recombinant human UDP-glucuronosyltransferases from the 1A subfamily. Although it does not directly investigate acetaminophen glucuronidation, it does examine the UGT1A4 enzyme, which is relevant to the source paper's findings. Thus, the key hypothesis in this paper is at least partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                },
+                "7. Changing etiologies and outcomes of acute liver failure: Perspectives from 6 transplant centers in Argentina": {
+                    "explanation": "This study examines the causes and short-term outcomes of acute liver failure in Argentina, but does not directly relate to the source paper's findings on acetaminophen glucuronidation.",
+                    "relevance": 0
+                },
+                "8. Candidate Gene Polymorphisms in Patients with Acetaminophen-Induced Acute Liver Failure": {
+                    "explanation": "This study evaluates genotype frequency differences among patients with acetaminophen-induced acute liver failure. The hypothesis in this paper is inspired by the source paper's findings on acetaminophen glucuronidation and its association with liver injury.",
+                    "relevance": 1
+                },
+                "9. Drug Metabolism Determines Resistance of Colorectal Cancer to Resorcinol-Based HSP90 Inhibitors": {
+                    "explanation": "This paper does not directly relate to the source paper's findings on acetaminophen glucuronidation.",
+                    "relevance": 0
+                },
+                "10. Effect of the global variation of the genetic biomarker uridine diphosphate glucuronosyl transferase": {
+                    "explanation": "This study aims to investigate the global genetic variation of UGT1A1. Although it does not directly investigate acetaminophen glucuronidation, it does examine the UGT1A1 enzyme, which is relevant to the source paper's findings. Thus, the key hypothesis in this paper is at least partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Single-nucleotide polymorphisms in the UDP-glucuronosyltransferase 1A-3' untranslated region are associated with atazanavir-induced nephrolithiasis in patients with HIV-1 infection: a pharmacogenetic study": {
+                    "explanation": "The study explores the relationship between polymorphisms in genes encoding proteins involved in metabolism and transportation of atazanavir, and atazanavir/ritonavir-induced nephrolithiasis in HIV-1-infected patients. Although it does not directly investigate acetaminophen glucuronidation, it does examine the UGT1A-3' untranslated region, which is relevant to the source paper's findings on the rs8330 variant allele. Thus, the key hypothesis in this paper is at least partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                },
+                "2. A Potential Role for Human UDP-Glucuronosyltransferase 1A4 Promoter Single Nucleotide Polymorphisms in the Pharmacogenomics of Tamoxifen and Its Derivatives": {
+                    "explanation": "This study examines the glucuronidation of Tam and its derivatives using recombinant human UDP-glucuronosyltransferases from the 1A subfamily. Although it does not directly investigate acetaminophen glucuronidation, it does examine the UGT1A4 enzyme, which is relevant to the source paper's findings. Thus, the key hypothesis in this paper is at least partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                },
+                "3. Effect of the global variation of the genetic biomarker uridine diphosphate glucuronosyl transferase": {
+                    "explanation": "This study aims to investigate the global genetic variation of UGT1A1. Although it does not directly investigate acetaminophen glucuronidation, it does examine the UGT1A1 enzyme, which is relevant to the source paper's findings. Thus, the key hypothesis in this paper is at least partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2015,
+        "source_paper": {
+            "paperId": "6c4f4508f5e5735fc04fee93f600280ccbd1bf46",
+            "title": "The UDP-Glucuronosyltransferase (UGT) 1A Polymorphism c.2042C>G (rs8330) Is Associated with Increased Human Liver Acetaminophen Glucuronidation, Increased UGT1A Exon 5a/5b Splice Variant mRNA Ratio, and Decreased Risk of Unintentional Acetaminophen-Induced Acute Liver Failure",
+            "abstract": "Acetaminophen is cleared primarily by hepatic glucuronidation. Polymorphisms in genes encoding the acetaminophen UDP-glucuronosyltransferase (UGT) enzymes could explain interindividual variability in acetaminophen glucuronidation and variable risk for liver injury after acetaminophen overdose. In this study, human liver bank samples were phenotyped for acetaminophen glucuronidation activity and genotyped for the major acetaminophen-glucuronidating enzymes (UGTs 1A1, 1A6, 1A9, and 2B15). Of these, only three linked single nucleotide polymorphisms (SNPs) located in the shared UGT1A-3\u2032UTR region (rs10929303, rs1042640, rs8330) were associated with acetaminophen glucuronidation activity, with rs8330 consistently showing higher acetaminophen glucuronidation at all the tested concentrations of acetaminophen. Mechanistic studies using luciferase-UGT1A-3\u2032UTR reporters indicated that these SNPs do not alter mRNA stability or translation efficiency. However, there was evidence for allelic imbalance and a gene-dose proportional increase in the amount of exon 5a versus exon 5b containing UGT1A mRNA spliced transcripts in livers with the rs8330 variant allele. Cotransfection studies demonstrated an inhibitory effect of exon 5b containing cDNAs on acetaminophen glucuronidation by UGT1A1 and UGT1A6 cDNAs containing exon 5a. In silico analysis predicted that rs8330 creates an exon splice enhancer site that could favor exon 5a (over exon 5b) utilization during splicing. Finally, the prevalence of rs8330 was significantly lower (P = 0.027, \u03c72 test) in patients who had acute liver failure from unintentional acetaminophen overdose compared with patients with acute liver failure from other causes or a race- or ethnicity-matched population. Together, these findings suggest that rs8330 is an important determinant of acetaminophen glucuronidation and could affect an individual\u2019s risk for acetaminophen-induced liver injury.",
+            "year": 2013,
+            "citation_count": 77,
+            "relevance": 2,
+            "explanation": "This paper discusses the association between a UGT1A polymorphism and increased human liver acetaminophen glucuronidation, which is related to the expression of UGT enzymes in the liver, as described in the source paper. The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the role of UGT1A polymorphisms in acetaminophen glucuronidation."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Time course of acetaminophen-protein adducts and acetaminophen metabolites in circulation of overdose patients and in HepaRG cells": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the metabolism of acetaminophen and its relation to liver injury, which is closely related to the source paper's findings on the UDP-Glucuronosyltransferase (UGT) 1A polymorphism and its association with acetaminophen glucuronidation.",
+                    "relevance": 1
+                },
+                "2. PharmGKB summary: pathways of acetaminophen metabolism at the therapeutic versus toxic doses": {
+                    "explanation": "This paper is a review paper that summarizes the pathways of acetaminophen metabolism, but does not present a novel hypothesis or findings that are directly related to the source paper.",
+                    "relevance": 0
+                },
+                "3. Metabolomics and Proteomics, and What to Do with All These \u2018Omes': Insights from Nutrigenomic Investigations in New Zealand": {
+                    "explanation": "This paper is not directly related to the source paper, as it focuses on nutrigenomics and the use of omics techniques in studying intestinal inflammation, which is a different topic from acetaminophen metabolism and liver injury.",
+                    "relevance": 0
+                },
+                "4. Metabolism by conjugation appears to confer resistance to paracetamol (acetaminophen) hepatotoxicity in the cynomolgus monkey": {
+                    "explanation": "The key hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the role of conjugation in acetaminophen metabolism and its relation to liver injury, which is closely related to the source paper's findings on the UDP-Glucuronosyltransferase (UGT) 1A polymorphism and its association with acetaminophen glucuronidation.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Metabolism by conjugation appears to confer resistance to paracetamol (acetaminophen) hepatotoxicity in the cynomolgus monkey": {
+                    "explanation": "The key hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the role of conjugation in acetaminophen metabolism and its relation to liver injury, which is closely related to the source paper's findings on the UDP-Glucuronosyltransferase (UGT) 1A polymorphism and its association with acetaminophen glucuronidation.",
+                    "relevance": 2
+                },
+                "2. Time course of acetaminophen-protein adducts and acetaminophen metabolites in circulation of overdose patients and in HepaRG cells": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the metabolism of acetaminophen and its relation to liver injury, which is closely related to the source paper's findings on the UDP-Glucuronosyltransferase (UGT) 1A polymorphism and its association with acetaminophen glucuronidation.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2015,
+        "source_paper": {
+            "paperId": "c8275a8319d5b2b3205b816dc5a64713d7f9e30e",
+            "title": "Single-nucleotide polymorphisms in the UDP-glucuronosyltransferase 1A-3' untranslated region are associated with atazanavir-induced nephrolithiasis in patients with HIV-1 infection: a pharmacogenetic study.",
+            "abstract": "OBJECTIVES\nRitonavir-boosted atazanavir (atazanavir/ritonavir) is a widely used antiretroviral drug, though it can potentially cause nephrolithiasis. The aim of this study was to determine the relationship between polymorphisms in genes encoding proteins involved in metabolism and transportation of atazanavir, and atazanavir/ritonavir-induced nephrolithiasis in HIV-1-infected patients treated with atazanavir/ritonavir.\n\n\nMETHODS\nNineteen SNPs in the ABCB1, NR1I2, UGT1A1, SLCO1B1 and CYP3A5 genes were examined in case patients with atazanavir/ritonavir-induced nephrolithiasis (n = 31) and controls (n = 47). Case patients were those with a clinical diagnosis of nephrolithiasis while on atazanavir/ritonavir, based on new-onset acute flank pain plus one of the following: (i) new-onset haematuria; (ii) documented presence of stones by either abdominal ultrasonography or CT; or (iii) confirmed stone passage. Control patients were consecutively enrolled among those with >2 years of atazanavir/ritonavir exposure free of nephrolithiasis. Genotyping was performed by allelic discrimination using TaqMan 5'-nuclease assays with standard protocols. Associations between alleles and atazanavir/ritonavir-induced nephrolithiasis were tested by univariate and multivariate logistic regression analyses.\n\n\nRESULTS\nMultivariate analysis showed a significant association between atazanavir/ritonavir-induced nephrolithiasis and genotype T/C versus C/C at position c.211 (adjusted OR = 3.7; 95% CI, 1.13-11.9; P = 0.030), genotype G/C versus C/C at 339 (adjusted OR = 5.8; 95% CI, 1.56-21.3; P = 0.009) and genotype G/G or G/C versus C/C at 440 (adjusted OR = 5.8; 95% CI, 1.56-21.3; P = 0.009) of the UGT1A-3' untranslated region (UTR).\n\n\nCONCLUSIONS\nThis is the first known study to identify the association between SNPs in the UGT1A-3'-UTR and atazanavir-induced nephrolithiasis. Further studies are warranted to confirm this association and to elucidate how these SNPs might influence atazanavir exposure.",
+            "year": 2014,
+            "citation_count": 15,
+            "relevance": 2,
+            "explanation": "The study explores the relationship between polymorphisms in genes encoding proteins involved in metabolism and transportation of atazanavir, and atazanavir/ritonavir-induced nephrolithiasis in HIV-1-infected patients. Although it does not directly investigate acetaminophen glucuronidation, it does examine the UGT1A-3' untranslated region, which is relevant to the source paper's findings on the rs8330 variant allele. Thus, the key hypothesis in this paper is at least partially dependent on the findings of the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Cholelithiasis and Nephrolithiasis in HIV-Positive Patients in the Era of Combination Antiretroviral Therapy": {
+                    "explanation": "This paper explores the risk factors of cholelithiasis and nephrolithiasis among HIV-positive patients, including the impact of atazanavir-containing combination antiretroviral therapy. Although it does not directly investigate the association between SNPs in the UGT1A-3' untranslated region and atazanavir-induced nephrolithiasis, it does examine the effects of atazanavir on kidney stones, which is related to the source paper's findings. The paper also investigates genetic polymorphisms, including UDP-glucuronosyltransferase (UGT) 1A1*28, which is related to the UGT1A-3' untranslated region examined in the source paper.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Cholelithiasis and Nephrolithiasis in HIV-Positive Patients in the Era of Combination Antiretroviral Therapy": {
+                    "explanation": "This paper explores the risk factors of cholelithiasis and nephrolithiasis among HIV-positive patients, including the impact of atazanavir-containing combination antiretroviral therapy. Although it does not directly investigate the association between SNPs in the UGT1A-3' untranslated region and atazanavir-induced nephrolithiasis, it does examine the effects of atazanavir on kidney stones, which is related to the source paper's findings. The paper also investigates genetic polymorphisms, including UDP-glucuronosyltransferase (UGT) 1A1*28, which is related to the UGT1A-3' untranslated region examined in the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2016,
+        "source_paper": {
+            "paperId": "56d31ff591aee922e74c55be49aa691e7f648afe",
+            "title": "Cholelithiasis and Nephrolithiasis in HIV-Positive Patients in the Era of Combination Antiretroviral Therapy",
+            "abstract": "Objectives This study aimed to describe the epidemiology and risk factors of cholelithiasis and nephrolithiasis among HIV-positive patients in the era of combination antiretroviral therapy. Methods We retrospectively reviewed the medical records of HIV-positive patients who underwent routine abdominal sonography for chronic viral hepatitis, fatty liver, or elevated aminotransferases between January 2004 and January 2015. Therapeutic drug monitoring of plasma concentrations of atazanavir was performed and genetic polymorphisms, including UDP-glucuronosyltransferase (UGT) 1A1*28 and multidrug resistance gene 1 (MDR1) G2677T/A, were determined in a subgroup of patients who received ritonavir-boosted or unboosted atazanavir-containing combination antiretroviral therapy. Information on demographics, clinical characteristics, and laboratory testing were collected and analyzed. Results During the 11-year study period, 910 patients who underwent routine abdominal sonography were included for analysis. The patients were mostly male (96.9%) with a mean age of 42.2 years and mean body-mass index of 22.9 kg/m2 and 85.8% being on antiretroviral therapy. The anchor antiretroviral agents included non-nucleoside reverse-transcriptase inhibitors (49.3%), unboosted atazanavir (34.4%), ritonavir-boosted lopinavir (20.4%), and ritonavir-boosted atazanavir (5.5%). The overall prevalence of cholelithiasis and nephrolithiasis was 12.5% and 8.2%, respectively. Among 680 antiretroviral-experienced patients with both baseline and follow-up sonography, the crude incidence of cholelithiasis and nephrolithiasis was 4.3% and 3.7%, respectively. In multivariate analysis, the independent factors associated with incident cholelithiasis were exposure to ritonavir-boosted atazanavir for >2 years (adjusted odds ratio [AOR], 6.29; 95% confidence interval [CI], 1.12\u201335.16) and older age (AOR, 1.04; 95% CI, 1.00\u20131.09). The positive association between duration of exposure to ritonavir-boosted atazanavir and incident cholelithiasis was also found (AOR, per 1-year exposure, 1.49; 95% CI, 1.05\u20132.10). The associated factors with incident nephrolithiasis were hyperlipidemia (AOR, 3.97; 95% CI, 1.32\u201311.93), hepatitis B or C coinfection (AOR, 3.41; 95% CI, 1.09\u201310.62), and exposure to abacavir (AOR, 12.01; 95% CI, 1.54\u201393.54). Of 180 patients who underwent therapeutic drug monitoring of plasma atazanavir concentrations and pharmacogenetic investigations, we found that the atazanavir concentrations and UGT 1A1*28 and MDR1 G2677T/A polymorphisms were not statistically significantly associated with incident cholelithiasis and nephrolithiasis. Conclusions In HIV-positive patients in the era of combination antiretroviral therapy, a high prevalence of cholelithiasis and nephrolithiasis was observed, and exposure to ritonavir-boosted atazanavir for >2 years was associated with incident cholelithiasis.",
+            "year": 2015,
+            "citation_count": 16,
+            "relevance": 1,
+            "explanation": "This paper explores the risk factors of cholelithiasis and nephrolithiasis among HIV-positive patients, including the impact of atazanavir-containing combination antiretroviral therapy. Although it does not directly investigate the association between SNPs in the UGT1A-3' untranslated region and atazanavir-induced nephrolithiasis, it does examine the effects of atazanavir on kidney stones, which is related to the source paper's findings. The paper also investigates genetic polymorphisms, including UDP-glucuronosyltransferase (UGT) 1A1*28, which is related to the UGT1A-3' untranslated region examined in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. The Lowest Prevalence of Cholelithiasis in the Americas - An Autopsy-based Study": {
+                    "explanation": "This paper has no connection with the source paper as it investigates the prevalence of cholelithiasis in a healthy, young population in Brazil, whereas the source paper focuses on the epidemiology and risk factors of cholelithiasis and nephrolithiasis among HIV-positive patients in the era of combination antiretroviral therapy.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2017,
+        "source_paper": {
+            "paperId": "56d31ff591aee922e74c55be49aa691e7f648afe",
+            "title": "Cholelithiasis and Nephrolithiasis in HIV-Positive Patients in the Era of Combination Antiretroviral Therapy",
+            "abstract": "Objectives This study aimed to describe the epidemiology and risk factors of cholelithiasis and nephrolithiasis among HIV-positive patients in the era of combination antiretroviral therapy. Methods We retrospectively reviewed the medical records of HIV-positive patients who underwent routine abdominal sonography for chronic viral hepatitis, fatty liver, or elevated aminotransferases between January 2004 and January 2015. Therapeutic drug monitoring of plasma concentrations of atazanavir was performed and genetic polymorphisms, including UDP-glucuronosyltransferase (UGT) 1A1*28 and multidrug resistance gene 1 (MDR1) G2677T/A, were determined in a subgroup of patients who received ritonavir-boosted or unboosted atazanavir-containing combination antiretroviral therapy. Information on demographics, clinical characteristics, and laboratory testing were collected and analyzed. Results During the 11-year study period, 910 patients who underwent routine abdominal sonography were included for analysis. The patients were mostly male (96.9%) with a mean age of 42.2 years and mean body-mass index of 22.9 kg/m2 and 85.8% being on antiretroviral therapy. The anchor antiretroviral agents included non-nucleoside reverse-transcriptase inhibitors (49.3%), unboosted atazanavir (34.4%), ritonavir-boosted lopinavir (20.4%), and ritonavir-boosted atazanavir (5.5%). The overall prevalence of cholelithiasis and nephrolithiasis was 12.5% and 8.2%, respectively. Among 680 antiretroviral-experienced patients with both baseline and follow-up sonography, the crude incidence of cholelithiasis and nephrolithiasis was 4.3% and 3.7%, respectively. In multivariate analysis, the independent factors associated with incident cholelithiasis were exposure to ritonavir-boosted atazanavir for >2 years (adjusted odds ratio [AOR], 6.29; 95% confidence interval [CI], 1.12\u201335.16) and older age (AOR, 1.04; 95% CI, 1.00\u20131.09). The positive association between duration of exposure to ritonavir-boosted atazanavir and incident cholelithiasis was also found (AOR, per 1-year exposure, 1.49; 95% CI, 1.05\u20132.10). The associated factors with incident nephrolithiasis were hyperlipidemia (AOR, 3.97; 95% CI, 1.32\u201311.93), hepatitis B or C coinfection (AOR, 3.41; 95% CI, 1.09\u201310.62), and exposure to abacavir (AOR, 12.01; 95% CI, 1.54\u201393.54). Of 180 patients who underwent therapeutic drug monitoring of plasma atazanavir concentrations and pharmacogenetic investigations, we found that the atazanavir concentrations and UGT 1A1*28 and MDR1 G2677T/A polymorphisms were not statistically significantly associated with incident cholelithiasis and nephrolithiasis. Conclusions In HIV-positive patients in the era of combination antiretroviral therapy, a high prevalence of cholelithiasis and nephrolithiasis was observed, and exposure to ritonavir-boosted atazanavir for >2 years was associated with incident cholelithiasis.",
+            "year": 2015,
+            "citation_count": 16,
+            "relevance": 1,
+            "explanation": "This paper explores the risk factors of cholelithiasis and nephrolithiasis among HIV-positive patients, including the impact of atazanavir-containing combination antiretroviral therapy. Although it does not directly investigate the association between SNPs in the UGT1A-3' untranslated region and atazanavir-induced nephrolithiasis, it does examine the effects of atazanavir on kidney stones, which is related to the source paper's findings. The paper also investigates genetic polymorphisms, including UDP-glucuronosyltransferase (UGT) 1A1*28, which is related to the UGT1A-3' untranslated region examined in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Antiretroviral treatment for HIV infection: Swedish recommendations 2016": {
+                    "explanation": "This paper is a review of recommendations for antiretroviral treatment of HIV infection and does not directly build upon or utilize the findings of the source paper. It provides updated guidelines for treatment, but does not investigate the epidemiology of cholelithiasis and nephrolithiasis in HIV-positive patients.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2017,
+        "source_paper": {
+            "paperId": "56d31ff591aee922e74c55be49aa691e7f648afe",
+            "title": "Cholelithiasis and Nephrolithiasis in HIV-Positive Patients in the Era of Combination Antiretroviral Therapy",
+            "abstract": "Objectives This study aimed to describe the epidemiology and risk factors of cholelithiasis and nephrolithiasis among HIV-positive patients in the era of combination antiretroviral therapy. Methods We retrospectively reviewed the medical records of HIV-positive patients who underwent routine abdominal sonography for chronic viral hepatitis, fatty liver, or elevated aminotransferases between January 2004 and January 2015. Therapeutic drug monitoring of plasma concentrations of atazanavir was performed and genetic polymorphisms, including UDP-glucuronosyltransferase (UGT) 1A1*28 and multidrug resistance gene 1 (MDR1) G2677T/A, were determined in a subgroup of patients who received ritonavir-boosted or unboosted atazanavir-containing combination antiretroviral therapy. Information on demographics, clinical characteristics, and laboratory testing were collected and analyzed. Results During the 11-year study period, 910 patients who underwent routine abdominal sonography were included for analysis. The patients were mostly male (96.9%) with a mean age of 42.2 years and mean body-mass index of 22.9 kg/m2 and 85.8% being on antiretroviral therapy. The anchor antiretroviral agents included non-nucleoside reverse-transcriptase inhibitors (49.3%), unboosted atazanavir (34.4%), ritonavir-boosted lopinavir (20.4%), and ritonavir-boosted atazanavir (5.5%). The overall prevalence of cholelithiasis and nephrolithiasis was 12.5% and 8.2%, respectively. Among 680 antiretroviral-experienced patients with both baseline and follow-up sonography, the crude incidence of cholelithiasis and nephrolithiasis was 4.3% and 3.7%, respectively. In multivariate analysis, the independent factors associated with incident cholelithiasis were exposure to ritonavir-boosted atazanavir for >2 years (adjusted odds ratio [AOR], 6.29; 95% confidence interval [CI], 1.12\u201335.16) and older age (AOR, 1.04; 95% CI, 1.00\u20131.09). The positive association between duration of exposure to ritonavir-boosted atazanavir and incident cholelithiasis was also found (AOR, per 1-year exposure, 1.49; 95% CI, 1.05\u20132.10). The associated factors with incident nephrolithiasis were hyperlipidemia (AOR, 3.97; 95% CI, 1.32\u201311.93), hepatitis B or C coinfection (AOR, 3.41; 95% CI, 1.09\u201310.62), and exposure to abacavir (AOR, 12.01; 95% CI, 1.54\u201393.54). Of 180 patients who underwent therapeutic drug monitoring of plasma atazanavir concentrations and pharmacogenetic investigations, we found that the atazanavir concentrations and UGT 1A1*28 and MDR1 G2677T/A polymorphisms were not statistically significantly associated with incident cholelithiasis and nephrolithiasis. Conclusions In HIV-positive patients in the era of combination antiretroviral therapy, a high prevalence of cholelithiasis and nephrolithiasis was observed, and exposure to ritonavir-boosted atazanavir for >2 years was associated with incident cholelithiasis.",
+            "year": 2015,
+            "citation_count": 16,
+            "relevance": 1,
+            "explanation": "This paper explores the risk factors of cholelithiasis and nephrolithiasis among HIV-positive patients, including the impact of atazanavir-containing combination antiretroviral therapy. Although it does not directly investigate the association between SNPs in the UGT1A-3' untranslated region and atazanavir-induced nephrolithiasis, it does examine the effects of atazanavir on kidney stones, which is related to the source paper's findings. The paper also investigates genetic polymorphisms, including UDP-glucuronosyltransferase (UGT) 1A1*28, which is related to the UGT1A-3' untranslated region examined in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Antiretroviral treatment for HIV infection: Swedish recommendations 2016": {
+                    "explanation": "This paper is a review paper that provides recommendations for antiretroviral treatment of HIV infection. It does not have a direct connection to the source paper, which investigates the epidemiology and risk factors of cholelithiasis and nephrolithiasis in HIV-positive patients.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2020,
+        "source_paper": {
+            "paperId": "56d31ff591aee922e74c55be49aa691e7f648afe",
+            "title": "Cholelithiasis and Nephrolithiasis in HIV-Positive Patients in the Era of Combination Antiretroviral Therapy",
+            "abstract": "Objectives This study aimed to describe the epidemiology and risk factors of cholelithiasis and nephrolithiasis among HIV-positive patients in the era of combination antiretroviral therapy. Methods We retrospectively reviewed the medical records of HIV-positive patients who underwent routine abdominal sonography for chronic viral hepatitis, fatty liver, or elevated aminotransferases between January 2004 and January 2015. Therapeutic drug monitoring of plasma concentrations of atazanavir was performed and genetic polymorphisms, including UDP-glucuronosyltransferase (UGT) 1A1*28 and multidrug resistance gene 1 (MDR1) G2677T/A, were determined in a subgroup of patients who received ritonavir-boosted or unboosted atazanavir-containing combination antiretroviral therapy. Information on demographics, clinical characteristics, and laboratory testing were collected and analyzed. Results During the 11-year study period, 910 patients who underwent routine abdominal sonography were included for analysis. The patients were mostly male (96.9%) with a mean age of 42.2 years and mean body-mass index of 22.9 kg/m2 and 85.8% being on antiretroviral therapy. The anchor antiretroviral agents included non-nucleoside reverse-transcriptase inhibitors (49.3%), unboosted atazanavir (34.4%), ritonavir-boosted lopinavir (20.4%), and ritonavir-boosted atazanavir (5.5%). The overall prevalence of cholelithiasis and nephrolithiasis was 12.5% and 8.2%, respectively. Among 680 antiretroviral-experienced patients with both baseline and follow-up sonography, the crude incidence of cholelithiasis and nephrolithiasis was 4.3% and 3.7%, respectively. In multivariate analysis, the independent factors associated with incident cholelithiasis were exposure to ritonavir-boosted atazanavir for >2 years (adjusted odds ratio [AOR], 6.29; 95% confidence interval [CI], 1.12\u201335.16) and older age (AOR, 1.04; 95% CI, 1.00\u20131.09). The positive association between duration of exposure to ritonavir-boosted atazanavir and incident cholelithiasis was also found (AOR, per 1-year exposure, 1.49; 95% CI, 1.05\u20132.10). The associated factors with incident nephrolithiasis were hyperlipidemia (AOR, 3.97; 95% CI, 1.32\u201311.93), hepatitis B or C coinfection (AOR, 3.41; 95% CI, 1.09\u201310.62), and exposure to abacavir (AOR, 12.01; 95% CI, 1.54\u201393.54). Of 180 patients who underwent therapeutic drug monitoring of plasma atazanavir concentrations and pharmacogenetic investigations, we found that the atazanavir concentrations and UGT 1A1*28 and MDR1 G2677T/A polymorphisms were not statistically significantly associated with incident cholelithiasis and nephrolithiasis. Conclusions In HIV-positive patients in the era of combination antiretroviral therapy, a high prevalence of cholelithiasis and nephrolithiasis was observed, and exposure to ritonavir-boosted atazanavir for >2 years was associated with incident cholelithiasis.",
+            "year": 2015,
+            "citation_count": 16,
+            "relevance": 1,
+            "explanation": "This paper explores the risk factors of cholelithiasis and nephrolithiasis among HIV-positive patients, including the impact of atazanavir-containing combination antiretroviral therapy. Although it does not directly investigate the association between SNPs in the UGT1A-3' untranslated region and atazanavir-induced nephrolithiasis, it does examine the effects of atazanavir on kidney stones, which is related to the source paper's findings. The paper also investigates genetic polymorphisms, including UDP-glucuronosyltransferase (UGT) 1A1*28, which is related to the UGT1A-3' untranslated region examined in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Possible association of sialolithiasis with HIV infection and highly active antiretroviral therapy: A case report.": {
+                    "explanation": "This paper explores a different type of lithiasis (sialolithiasis) and its possible association with highly active antiretroviral therapy, which is related to the source paper's topic of cholelithiasis and nephrolithiasis in HIV-positive patients. The hypothesis in this paper is inspired by the findings of the source paper, as it investigates another potential side effect of antiretroviral therapy.",
+                    "relevance": 1
+                },
+                "2. Antiretroviral treatment for HIV infection: Swedish recommendations 2019": {
+                    "explanation": "This paper is a review of recommendations for antiretroviral treatment and does not present a novel hypothesis or findings related to the source paper. It lacks a connection to the source paper's specific topic of cholelithiasis and nephrolithiasis in HIV-positive patients.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Possible association of sialolithiasis with HIV infection and highly active antiretroviral therapy: A case report.": {
+                    "explanation": "This paper explores a different type of lithiasis (sialolithiasis) and its possible association with highly active antiretroviral therapy, which is related to the source paper's topic of cholelithiasis and nephrolithiasis in HIV-positive patients. The hypothesis in this paper is inspired by the findings of the source paper, as it investigates another potential side effect of antiretroviral therapy.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2021,
+        "source_paper": {
+            "paperId": "9a6c1e5a7f5c847b29301987b420fbb89a65292f",
+            "title": "Possible association of sialolithiasis with HIV infection and highly active antiretroviral therapy: A case report.",
+            "abstract": "Although there appears to be an overall trend of diminishing oral manifestations of HIV infection, evidence is emerging on the increased incidence of concomitant parotid gland enlargement and xerostomia. Furthermore, several case narrations and a limited series have suggested a possible association of sialolithiasis with highly active antiretroviral therapy, mostly involving the parotid gland. The aim of this report is to present a patient with a giant sialolith of the submandibular gland following a 27-year intake of various antiretrovirals for HIV infection and review the relevant literature.",
+            "year": 2020,
+            "citation_count": 3,
+            "relevance": 1,
+            "explanation": "This paper explores a different type of lithiasis (sialolithiasis) and its possible association with highly active antiretroviral therapy, which is related to the source paper's topic of cholelithiasis and nephrolithiasis in HIV-positive patients. The hypothesis in this paper is inspired by the findings of the source paper, as it investigates another potential side effect of antiretroviral therapy."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Concurrent giant sialoliths within the submandibular gland parenchyma and distal segment of Wharton's duct: Novel case report": {
+                    "explanation": "This paper has no connection to the source paper, as it discusses a novel case report of concurrent giant sialoliths within the submandibular gland and Wharton's duct, without mentioning HIV infection, highly active antiretroviral therapy, or any association with the source paper's findings.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    }
+]

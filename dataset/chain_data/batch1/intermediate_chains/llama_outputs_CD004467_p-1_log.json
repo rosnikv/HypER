@@ -1,0 +1,855 @@
+[
+    {
+        "year": 1994,
+        "source_paper": {
+            "paperId": "4e15b133be142afeab9cee30b4f901fbb9e1ee88",
+            "pmid": "3234586",
+            "title": "Foods with a low glycemic index do not improve glycemic control of both type 1 and type 2 diabetic patients after one month of therapy.",
+            "abstract": "Twenty four diabetic patients (12 type 1 and 12 type 2) were studied to determine the influence of using foods rich in carbohydrates with either low or high glycemic indexes on the glycemic control of Diabetes Mellitus. All patients were treated with insulin. During 2 periods of 4 weeks the patients received, at lunch, 2 types of foods rich in carbohydrates as part of their usual diet. Meal A: foods with a low glycemic index and Meal B: foods with a high glycemic index. During the last 7 days of each period the patients determined, at home, their capillary glucose levels before and 1, 2, and 3 hours after lunch by means of a reflectometer. At the end of each period HbA1 levels were also determined. No differences in insulin dose or changes in body weight were found during the two periods of the study for both types of diabetic patients. Capillary glucose levels before lunch were similar on both diets and for both types of diabetic patients. Similarly, postprandial capillary glucose levels 1, 2, and 3 hours later were not different for both died A and diet B. No statistically significant differences were found either in HbA1 values for both periods of the study. These results confirm previous ones obtained in acute studies. The present findings indicate that the glycemic response of foods rich in carbohydrates is modified when included in a mixed meal by the other components of the meal. From these date it can be inferred that the use in a diet of foods with a low glycemic index does not improve the glycemic control of patients affected of Diabetes Mellitus.",
+            "year": 1988,
+            "citation_count": 41
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Importance of glycemic index in diabetes": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it discusses the effectiveness of low-GI diets in diabetes management, which is contrary to the source paper's findings. This paper presents a conflicting view, suggesting that low-GI diets can have positive effects on diabetes management, unlike the source paper's conclusion that it does not improve glycemic control.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Importance of glycemic index in diabetes": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it discusses the effectiveness of low-GI diets in diabetes management, which is contrary to the source paper's findings. This paper presents a conflicting view, suggesting that low-GI diets can have positive effects on diabetes management, unlike the source paper's conclusion that it does not improve glycemic control.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 1997,
+        "source_paper": {
+            "paperId": "2080ab8a2be775601352d4cbd82cc8e5891a72d3",
+            "title": "Importance of glycemic index in diabetes.",
+            "abstract": "To date there are 11 medium to long-term studies that have specifically used the glycemic index (GI) approach to determine the clinical gains in diabetes or lipid management. All but one study produced positive findings. On average, low-GI diets reduced glycosylated hemoglobin by 9%, fructosamine by 8%, urinary C-peptide by 20%, and day-long blood glucose by 16%. Cholesterol was reduced by an average of 6% and triglycerides by 9%. These are modest improvements but so too were the changes to the diet. Unlike high-fiber diets, low-GI diets are \"user friendly.\" As part of studies on the GI of foods, we determined the glycemic and insulin responses to 44 foods containing simple sugars. Their mean (+/- SE) GI was 62 +/- 14, which compares favorably with bread (GI = 73, glucose = 100). There was often no difference in the GI between the sweetened and unsweetened product. The time has come to reassess the value of GI in planning meals for diabetics.",
+            "year": 1994,
+            "citation_count": 261,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it discusses the effectiveness of low-GI diets in diabetes management, which is contrary to the source paper's findings. This paper presents a conflicting view, suggesting that low-GI diets can have positive effects on diabetes management, unlike the source paper's conclusion that it does not improve glycemic control."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. The Role of Viscous Soluble Fiber in the Metabolic Control of Diabetes: A review with special emphasis on cereals rich in \u03b2-glucan": {
+                    "explanation": "This paper is a review and does not build on the source paper's hypothesis or findings. It discusses the role of \u03b2-glucan in cereal products and its effects on glycemic control, which is a related but distinct topic.",
+                    "relevance": 0
+                },
+                "2. Dietary fiber, glycemic load, and risk of non-insulin-dependent diabetes mellitus in women": {
+                    "explanation": "The hypothesis in this paper is inspired by the source paper's findings on the importance of glycemic index in diabetes management. This paper explores the relationship between dietary glycemic load, fiber intake, and risk of non-insulin-dependent diabetes mellitus in women.",
+                    "relevance": 1
+                },
+                "3. Content of dietary fiber in foods and its physiological effects": {
+                    "explanation": "This paper is a review and does not build on the source paper's hypothesis or findings. It discusses the definition, measurement, and physiological effects of dietary fiber, which is a related but distinct topic.",
+                    "relevance": 0
+                },
+                "4. GLYCEMIC INDEX AND EXERCISE METABOLISM": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the source paper's findings on the importance of glycemic index in diabetes management. This paper explores the relationship between glycemic index and exercise metabolism, which builds on the understanding of glycemic index and its effects on blood glucose levels.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. GLYCEMIC INDEX AND EXERCISE METABOLISM": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the source paper's findings on the importance of glycemic index in diabetes management. This paper explores the relationship between glycemic index and exercise metabolism, which builds on the understanding of glycemic index and its effects on blood glucose levels.",
+                    "relevance": 2
+                },
+                "2. Dietary fiber, glycemic load, and risk of non-insulin-dependent diabetes mellitus in women": {
+                    "explanation": "The hypothesis in this paper is inspired by the source paper's findings on the importance of glycemic index in diabetes management. This paper explores the relationship between dietary glycemic load, fiber intake, and risk of non-insulin-dependent diabetes mellitus in women.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 1999,
+        "source_paper": {
+            "paperId": "0ffc139de3af7d7e721ca04314ef7ce8513bbd2f",
+            "title": "GLYCEMIC INDEX AND EXERCISE METABOLISM",
+            "abstract": "KEY POINTS 1. The glycemic index (GI) of a food represents the magnitude of the increase in blood glucose that occurs after ingestion of the food. 2. GI tends to be lower for foods that have a high fructose content, exhibit high amylose/amylopectin ratios, are present in relatively large particles, are minimally processed, and are ingested along with fat and protein. 3. Consumption of lower GI foods 30-60 min prior to an endurance exercise bout tends to promote the following effects during exercise: \u2022 Minimizes the hypoglycemia that occurs at the start of exercise. \u2022 Increases the concentration of fatty acids in the blood. \u2022 Increases fat oxidation and reduces reliance on carbohydrate fuel. 4. The GI of a food consumed during exercise is probably less important than at other times because the insulin response to carbohydrate ingestion is suppressed during exercise. 5. Consumption of high GI foods soon after exercise will probably optimally promote the restoration of muscle glycogen. 6. Although manipulation of the GI of ingested foods may alter exercise metabolism, the effect of the GI on exercise performance is controversial and requires additional research.",
+            "year": 1997,
+            "citation_count": 17,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is at least partially dependent on the source paper's findings on the importance of glycemic index in diabetes management. This paper explores the relationship between glycemic index and exercise metabolism, which builds on the understanding of glycemic index and its effects on blood glucose levels."
+        },
+        "llama_output": {},
+        "seed": 42
+    },
+    {
+        "year": 1999,
+        "source_paper": {
+            "paperId": "0ffc139de3af7d7e721ca04314ef7ce8513bbd2f",
+            "title": "GLYCEMIC INDEX AND EXERCISE METABOLISM",
+            "abstract": "KEY POINTS 1. The glycemic index (GI) of a food represents the magnitude of the increase in blood glucose that occurs after ingestion of the food. 2. GI tends to be lower for foods that have a high fructose content, exhibit high amylose/amylopectin ratios, are present in relatively large particles, are minimally processed, and are ingested along with fat and protein. 3. Consumption of lower GI foods 30-60 min prior to an endurance exercise bout tends to promote the following effects during exercise: \u2022 Minimizes the hypoglycemia that occurs at the start of exercise. \u2022 Increases the concentration of fatty acids in the blood. \u2022 Increases fat oxidation and reduces reliance on carbohydrate fuel. 4. The GI of a food consumed during exercise is probably less important than at other times because the insulin response to carbohydrate ingestion is suppressed during exercise. 5. Consumption of high GI foods soon after exercise will probably optimally promote the restoration of muscle glycogen. 6. Although manipulation of the GI of ingested foods may alter exercise metabolism, the effect of the GI on exercise performance is controversial and requires additional research.",
+            "year": 1997,
+            "citation_count": 17,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is at least partially dependent on the source paper's findings on the importance of glycemic index in diabetes management. This paper explores the relationship between glycemic index and exercise metabolism, which builds on the understanding of glycemic index and its effects on blood glucose levels."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Exercise and Sport in Diabetes": {
+                    "explanation": "This paper is a review paper, as it provides a comprehensive overview of various topics related to exercise and diabetes, without presenting a specific hypothesis or novel findings.",
+                    "relevance": 0
+                },
+                "2. Effective nutritional ergogenic aids": {
+                    "explanation": "This paper explores the effects of different nutritional aids on exercise performance, which is related to the source paper's discussion of the glycemic index and exercise metabolism. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Effective nutritional ergogenic aids": {
+                    "explanation": "This paper explores the effects of different nutritional aids on exercise performance, which is related to the source paper's discussion of the glycemic index and exercise metabolism. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2001,
+        "source_paper": {
+            "paperId": "fded7d1842a9051a2eb30cde34bd55dd813896d4",
+            "title": "Effective nutritional ergogenic aids.",
+            "abstract": "Athletes use a variety of nutritional ergogenic aids to enhance performance. Most nutritional aids can be categorized as a potential energy source, an anabolic enhancer, a cellular component, or a recovery aid. Studies have consistently shown that carbohydrates consumed immediately before or after exercise enhance performance by increasing glycogen stores and delaying fatigue. Protein and amino acid supplementation may serve an anabolic role by optimizing body composition crucial in strength-related sports. Dietary antioxidants, such as vitamins C and E and carotenes, may prevent oxidative stress that occurs with intense exercise. Performance during high-intensity exercise, such as sprinting, may be improved with short-term creatine loading, and high effort exercise lasting 1-7 min may be improved through bicarbonate loading immediately prior to activity. Caffeine dosing before exercise delays fatigue and may enhance performance of high-intensity exercise.",
+            "year": 1999,
+            "citation_count": 79,
+            "relevance": 1,
+            "explanation": "This paper explores the effects of different nutritional aids on exercise performance, which is related to the source paper's discussion of the glycemic index and exercise metabolism. However, it does not directly build upon or depend on the findings of the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Changes in Hematological Parameters of Athletes after Receiving Daily Dose of a Mixture of 12 Amino Acids for One Month during the Middle- and Long-distance Running Training": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the effects of amino acid supplementation on athletes, building on the source paper's results regarding protein and amino acid supplementation as an anabolic enhancer.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Changes in Hematological Parameters of Athletes after Receiving Daily Dose of a Mixture of 12 Amino Acids for One Month during the Middle- and Long-distance Running Training": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the effects of amino acid supplementation on athletes, building on the source paper's results regarding protein and amino acid supplementation as an anabolic enhancer.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2003,
+        "source_paper": {
+            "paperId": "cfd58c703cd987b21042c4e25d5211dcde50ba22",
+            "title": "Changes in Hematological Parameters of Athletes after Receiving Daily Dose of a Mixture of 12 Amino Acids for One Month during the Middle- and Long-distance Running Training",
+            "abstract": "Previous studies have shown that a mixture of amino acids, consisting of 9 essential amino acids and 3 non-essential amino acids was effective in facilitating muscle recovery from athletic activities. In this study, the objective was to determine whether this amino acid mixture improved the physical condition and associated blood parameters of athletes in training when administered for a prolonged period. Thirteen college middle- and long-distance runners were placed in a 6-month experiment and received the amino acid mixture at the dose of 2.2 g/day for one month, 4.4 g/day for one month, and 6.6 g/day for one month with washout periods between test periods. The physical condition was scored and blood samples were collected before and after each test period. When the subjects received 2.2 g of the amino acid mixture three times a day, the physical condition was significantly improved along with increases in red blood cell count, hemoglobin, hematocrit, serum albumin, and fasting glucose, and a decrease in creatine phophokinase (p<0.05), suggesting increased hematopoiesis and glycogenesis, and rapid alleviation of muscle inflammation by the amino acid mixture.",
+            "year": 2001,
+            "citation_count": 26,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the effects of amino acid supplementation on athletes, building on the source paper's results regarding protein and amino acid supplementation as an anabolic enhancer."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Effect of a Selected Amino Acid Mixture on the Recovery from Muscle Fatigue during and after Eccentric Contraction Exercise Training": {
+                    "explanation": "The key hypothesis in this paper is inspired by the hypothesis of the source paper. Both studies investigate the effect of amino acid mixtures on athletic performance and recovery, but this paper focuses on muscle fatigue during and after eccentric contraction exercise training, whereas the source paper examines the effect of amino acids on middle- and long-distance running training.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Effect of a Selected Amino Acid Mixture on the Recovery from Muscle Fatigue during and after Eccentric Contraction Exercise Training": {
+                    "explanation": "The key hypothesis in this paper is inspired by the hypothesis of the source paper. Both studies investigate the effect of amino acid mixtures on athletic performance and recovery, but this paper focuses on muscle fatigue during and after eccentric contraction exercise training, whereas the source paper examines the effect of amino acids on middle- and long-distance running training.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2006,
+        "source_paper": {
+            "paperId": "cf7ba35287d7cc70f84126b2d643e7d2050a484d",
+            "title": "Effect of a Selected Amino Acid Mixture on the Recovery from Muscle Fatigue during and after Eccentric Contraction Exercise Training",
+            "abstract": "The effect of an amino acid mixture on the recovery from muscle fatigue after eccentric exercise (ECEX) training was examined in twenty-two male college students. The administration of 5.6 g of the amino acid mixture twice daily resulted faster recovery of muscle strength than that with a placebo. The oral administration of the amino acid mixture was proved to effective for muscle strength recovery after the eccentric exercise.",
+            "year": 2003,
+            "citation_count": 25,
+            "relevance": 1,
+            "explanation": "The key hypothesis in this paper is inspired by the hypothesis of the source paper. Both studies investigate the effect of amino acid mixtures on athletic performance and recovery, but this paper focuses on muscle fatigue during and after eccentric contraction exercise training, whereas the source paper examines the effect of amino acids on middle- and long-distance running training."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Effects of amino acid supplementation on muscle soreness and damage": {
+                    "explanation": "This paper is partially dependent on the source paper's findings regarding the effects of amino acid mixture on muscle recovery. The paper investigates the effects of amino acid supplementation on muscle soreness and damage, which is a related concept to muscle fatigue recovery.",
+                    "relevance": 2
+                },
+                "2. Amino acid mixture improves training efficiency in athletes": {
+                    "explanation": "This paper is a review that summarizes existing literature on the beneficial effects of a dietary amino acid supplement on muscle function, fatigue, and recovery in exercising athletes. It does not present novel findings or hypotheses that are directly connected to the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Effects of amino acid supplementation on muscle soreness and damage": {
+                    "explanation": "This paper is partially dependent on the source paper's findings regarding the effects of amino acid mixture on muscle recovery. The paper investigates the effects of amino acid supplementation on muscle soreness and damage, which is a related concept to muscle fatigue recovery.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2008,
+        "source_paper": {
+            "paperId": "486cff8bb3dfa0e986d488d89bb1e8aac82fa73e",
+            "title": "Effects of amino acid supplementation on muscle soreness and damage.",
+            "abstract": "This study investigated the effect of a supplement containing 9 essential and 3 non-essential amino acids on muscle soreness and damage by comparing two endurance exercise bouts of the elbow flexors with amino acid or placebo supplementation in a double blind crossover design. The supplement was ingested 30 min before (10 h post-fasting) and immediately after exercise (Experiment 1), or 30 min before (2-3 h after breakfast), immediately post, and 8 more occasions over 4-day post-exercise (Experiment 2). Changes in muscle soreness and indicators of muscle damage for 4 days following exercise were compared between supplement conditions using two-way ANOVA. No significant differences between conditions were evident for Experiment 1; however, plasma creatine kinase, aldolase, myoglobin, and muscle soreness were significantly lower for the amino acid versus placebo condition in Experiment 2. These results suggest that amino acid supplementation attenuates DOMS and muscle damage when ingested in recovery days.",
+            "year": 2006,
+            "citation_count": 138,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the source paper's findings regarding the effects of amino acid mixture on muscle recovery. The paper investigates the effects of amino acid supplementation on muscle soreness and damage, which is a related concept to muscle fatigue recovery."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. A single protein meal increases recovery of muscle function following an acute eccentric exercise bout": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the effects of protein ingestion on muscle recovery and damage, building on the source paper's results regarding amino acid supplementation and muscle damage.",
+                    "relevance": 2
+                },
+                "2. Skeletal muscle damage, delayed onset muscle soreness and performance after resistance training with leucine and carbohydrate or carbohydrate alone": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it explores the effects of different nutritional supplements on muscle damage and recovery, which is related to the source paper's investigation of amino acid supplementation and muscle damage.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. A single protein meal increases recovery of muscle function following an acute eccentric exercise bout": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the effects of protein ingestion on muscle recovery and damage, building on the source paper's results regarding amino acid supplementation and muscle damage.",
+                    "relevance": 2
+                },
+                "2. Skeletal muscle damage, delayed onset muscle soreness and performance after resistance training with leucine and carbohydrate or carbohydrate alone": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it explores the effects of different nutritional supplements on muscle damage and recovery, which is related to the source paper's investigation of amino acid supplementation and muscle damage.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2009,
+        "source_paper": {
+            "paperId": "05847b95342ac3475d7c6b06093af4127c5ee7f4",
+            "title": "A single protein meal increases recovery of muscle function following an acute eccentric exercise bout.",
+            "abstract": "The purpose of this study was to examine the effects of acute protein ingestion on the recovery of muscle function and markers of muscle damage in the 72 h post eccentric-exercise. Nine recreationally active males recorded quadriceps maximum isometric voluntary contraction (MVC), peak 5 s power output (PPO), and perceived muscle soreness. Plasma creatine kinase (CK) and protein carbonyl (PC) content were measured prior to exercise. Delayed-onset muscle soreness (DOMS) was induced by a 30 min downhill run (-10 degrees ) at a target intensity of 75% age-predicted heart rate maximum, immediately followed by ingestion of 100 g protein (containing 40 g essential amino acids; PRO) or placebo (CON) solution. The pre-exercise measures were re-taken in the subsequent 24, 48, and 72 h. CK, PC, and perceived muscle soreness increased significantly following exercise and with each supplement at 24 h. PC and muscle soreness remained elevated at 48 and 72 h (p < 0.05), whereas CK returned to baseline values. No difference between conditions was observed for these measures. Peak MVC significantly declined in CON to -7.9% at 24 h, reaching a nadir of -10% at 48 h (p < 0.05). In the PRO group, MVC remained within pre-exercise values at all time points. PPO followed a similar trend, reaching its nadir of -8.7% at 48 h in CON (p < 0.05), but had recovered in the PRO trial. Ingestion of a single post-exercise protein mixture increases the rate of force and power restoration at 48 h, suggesting potential for protein as an ergogenic aid during the DOMS period.",
+            "year": 2008,
+            "citation_count": 54,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the effects of protein ingestion on muscle recovery and damage, building on the source paper's results regarding amino acid supplementation and muscle damage."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Systemic indices of skeletal muscle damage and recovery of muscle function after exercise: effect of combined carbohydrate-protein ingestion": {
+                    "explanation": "This paper builds upon the source paper's findings regarding the effects of protein ingestion on muscle recovery. The current study investigates the addition of whey protein isolate to a dietary carbohydrate supplement and its effects on systemic indices of muscle damage and inflammation. Although the hypothesis is not directly inspired by the source paper, it is partially dependent on the previous findings regarding protein's role in muscle recovery.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Systemic indices of skeletal muscle damage and recovery of muscle function after exercise: effect of combined carbohydrate-protein ingestion": {
+                    "explanation": "This paper builds upon the source paper's findings regarding the effects of protein ingestion on muscle recovery. The current study investigates the addition of whey protein isolate to a dietary carbohydrate supplement and its effects on systemic indices of muscle damage and inflammation. Although the hypothesis is not directly inspired by the source paper, it is partially dependent on the previous findings regarding protein's role in muscle recovery.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2010,
+        "source_paper": {
+            "paperId": "05847b95342ac3475d7c6b06093af4127c5ee7f4",
+            "title": "A single protein meal increases recovery of muscle function following an acute eccentric exercise bout.",
+            "abstract": "The purpose of this study was to examine the effects of acute protein ingestion on the recovery of muscle function and markers of muscle damage in the 72 h post eccentric-exercise. Nine recreationally active males recorded quadriceps maximum isometric voluntary contraction (MVC), peak 5 s power output (PPO), and perceived muscle soreness. Plasma creatine kinase (CK) and protein carbonyl (PC) content were measured prior to exercise. Delayed-onset muscle soreness (DOMS) was induced by a 30 min downhill run (-10 degrees ) at a target intensity of 75% age-predicted heart rate maximum, immediately followed by ingestion of 100 g protein (containing 40 g essential amino acids; PRO) or placebo (CON) solution. The pre-exercise measures were re-taken in the subsequent 24, 48, and 72 h. CK, PC, and perceived muscle soreness increased significantly following exercise and with each supplement at 24 h. PC and muscle soreness remained elevated at 48 and 72 h (p < 0.05), whereas CK returned to baseline values. No difference between conditions was observed for these measures. Peak MVC significantly declined in CON to -7.9% at 24 h, reaching a nadir of -10% at 48 h (p < 0.05). In the PRO group, MVC remained within pre-exercise values at all time points. PPO followed a similar trend, reaching its nadir of -8.7% at 48 h in CON (p < 0.05), but had recovered in the PRO trial. Ingestion of a single post-exercise protein mixture increases the rate of force and power restoration at 48 h, suggesting potential for protein as an ergogenic aid during the DOMS period.",
+            "year": 2008,
+            "citation_count": 54,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the effects of protein ingestion on muscle recovery and damage, building on the source paper's results regarding amino acid supplementation and muscle damage."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Effect of milk-based carbohydrate-protein supplement timing on the attenuation of exercise-induced muscle damage": {
+                    "explanation": "This paper explores the timing of milk-based carbohydrate-protein supplementation on the attenuation of exercise-induced muscle damage, which is related to the source paper's findings on the effects of acute protein ingestion on muscle function recovery. The hypothesis in this paper is inspired by the findings of the source paper.",
+                    "relevance": 1
+                },
+                "2. Acute protein-carbohydrate supplementation: effects on exercise-induced muscle damage": {
+                    "explanation": "This paper is a review of published peer-reviewed articles on acute carbohydrate-protein supplementation and its impact on alleviating exercise-induced muscle damage. Although it does not directly build upon the source paper's findings, it provides a broader overview of the topic and discusses the potential benefits of carbohydrate-protein supplementation, which is related to the source paper's hypothesis.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Effect of milk-based carbohydrate-protein supplement timing on the attenuation of exercise-induced muscle damage": {
+                    "explanation": "This paper explores the timing of milk-based carbohydrate-protein supplementation on the attenuation of exercise-induced muscle damage, which is related to the source paper's findings on the effects of acute protein ingestion on muscle function recovery. The hypothesis in this paper is inspired by the findings of the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2010,
+        "source_paper": {
+            "paperId": "6c7fed67fbb0269404cfa528efccb2da3b117d14",
+            "title": "Systemic indices of skeletal muscle damage and recovery of muscle function after exercise: effect of combined carbohydrate-protein ingestion.",
+            "abstract": "Previous studies indicate that exercise-induced muscle damage may be attenuated when protein is included in a carbohydrate recovery supplement. This study was designed to examine systemic indices of muscle damage, inflammation, and recovery of muscle function, following strenuous exercise, with ingestion of either carbohydrate alone or a carbohydrate-protein mixture. Seventeen highly trained volunteers participated in 2 trials in a randomized order, separated by approximately 9 weeks. Each trial involved 90 min of intermittent shuttle-running, either with ingestion of a 9% sucrose solution during and for 4 h after (1.2 g.kg-1 body mass.h-1) or with the same solution plus 3% whey protein isolate (0.4 g.kg-1 body mass.h-1). Blood was sampled throughout and 24 h after each trial to determinate the systemic indices of muscle damage and inflammation. An isokinetic dynamometer was used to establish reliable baseline measurements of peak isometric torque for knee and hip flexors and extensors, which were then followed-up at 4-, 24-, 48-, and 168-h postexercise. The exercise protocol resulted in significantly elevated variables indicative of muscle damage and inflammation, while peak isometric torque was immediately reduced by 10%-20% relative to baseline, across all muscle groups tested. However, none of these responses varied in magnitude or time-course between the treatments, or between participants' first and second trials. The addition of whey protein isolate to a dietary carbohydrate supplement ingested during and for 4 h following strenuous exercise did not attenuate systemic indices of muscle damage or inflammation, nor did it restore muscle function more rapidly than when the carbohydrate fraction was ingested alone.",
+            "year": 2009,
+            "citation_count": 66,
+            "relevance": 2,
+            "explanation": "This paper builds upon the source paper's findings regarding the effects of protein ingestion on muscle recovery. The current study investigates the addition of whey protein isolate to a dietary carbohydrate supplement and its effects on systemic indices of muscle damage and inflammation. Although the hypothesis is not directly inspired by the source paper, it is partially dependent on the previous findings regarding protein's role in muscle recovery."
+        },
+        "llama_output": {},
+        "seed": 42
+    },
+    {
+        "year": 2011,
+        "source_paper": {
+            "paperId": "6c7fed67fbb0269404cfa528efccb2da3b117d14",
+            "title": "Systemic indices of skeletal muscle damage and recovery of muscle function after exercise: effect of combined carbohydrate-protein ingestion.",
+            "abstract": "Previous studies indicate that exercise-induced muscle damage may be attenuated when protein is included in a carbohydrate recovery supplement. This study was designed to examine systemic indices of muscle damage, inflammation, and recovery of muscle function, following strenuous exercise, with ingestion of either carbohydrate alone or a carbohydrate-protein mixture. Seventeen highly trained volunteers participated in 2 trials in a randomized order, separated by approximately 9 weeks. Each trial involved 90 min of intermittent shuttle-running, either with ingestion of a 9% sucrose solution during and for 4 h after (1.2 g.kg-1 body mass.h-1) or with the same solution plus 3% whey protein isolate (0.4 g.kg-1 body mass.h-1). Blood was sampled throughout and 24 h after each trial to determinate the systemic indices of muscle damage and inflammation. An isokinetic dynamometer was used to establish reliable baseline measurements of peak isometric torque for knee and hip flexors and extensors, which were then followed-up at 4-, 24-, 48-, and 168-h postexercise. The exercise protocol resulted in significantly elevated variables indicative of muscle damage and inflammation, while peak isometric torque was immediately reduced by 10%-20% relative to baseline, across all muscle groups tested. However, none of these responses varied in magnitude or time-course between the treatments, or between participants' first and second trials. The addition of whey protein isolate to a dietary carbohydrate supplement ingested during and for 4 h following strenuous exercise did not attenuate systemic indices of muscle damage or inflammation, nor did it restore muscle function more rapidly than when the carbohydrate fraction was ingested alone.",
+            "year": 2009,
+            "citation_count": 66,
+            "relevance": 2,
+            "explanation": "This paper builds upon the source paper's findings regarding the effects of protein ingestion on muscle recovery. The current study investigates the addition of whey protein isolate to a dietary carbohydrate supplement and its effects on systemic indices of muscle damage and inflammation. Although the hypothesis is not directly inspired by the source paper, it is partially dependent on the previous findings regarding protein's role in muscle recovery."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Effect of combined carbohydrate-protein ingestion on markers of recovery after simulated rugby union match-play": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effect of ingesting carbohydrate alone or carbohydrate with protein on functional and metabolic markers of recovery from a rugby union-specific shuttle running protocol, similar to the source paper's investigation of the effect of combined carbohydrate-protein ingestion on systemic indices of muscle damage and recovery of muscle function after exercise.",
+                    "relevance": 1
+                },
+                "2. Carbohydrate-Protein Intake and Recovery from Endurance Exercise: Is Chocolate Milk the Answer?": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it discusses the effects of carbohydrate and protein coingestion (CHO + Pro) on recovery from heavy aerobic exercise, including the potential influences of chocolate milk, which is related to the source paper's investigation of the effect of combined carbohydrate-protein ingestion on muscle damage and recovery.",
+                    "relevance": 1
+                },
+                "3. Laser homeostatics on delayed onset muscle soreness": {
+                    "explanation": "This paper has no connection with the source paper, as it discusses the use of laser homeostatics to alleviate delayed onset muscle soreness (DOMS), which is not related to the source paper's investigation of the effect of combined carbohydrate-protein ingestion on muscle damage and recovery.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Effect of combined carbohydrate-protein ingestion on markers of recovery after simulated rugby union match-play": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effect of ingesting carbohydrate alone or carbohydrate with protein on functional and metabolic markers of recovery from a rugby union-specific shuttle running protocol, similar to the source paper's investigation of the effect of combined carbohydrate-protein ingestion on systemic indices of muscle damage and recovery of muscle function after exercise.",
+                    "relevance": 1
+                },
+                "2. Carbohydrate-Protein Intake and Recovery from Endurance Exercise: Is Chocolate Milk the Answer?": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it discusses the effects of carbohydrate and protein coingestion (CHO + Pro) on recovery from heavy aerobic exercise, including the potential influences of chocolate milk, which is related to the source paper's investigation of the effect of combined carbohydrate-protein ingestion on muscle damage and recovery.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2012,
+        "source_paper": {
+            "paperId": "989c022c010186842c0b0266714e9400f93da5c9",
+            "title": "Carbohydrate-Protein Intake and Recovery from Endurance Exercise: Is Chocolate Milk the Answer?",
+            "abstract": "Postexercise carbohydrate intake has been shown to augment recovery from heavy aerobic exercise. The effects of carbohydrate and protein coingestion (CHO + Pro) have been investigated more recently, including the potential influences of chocolate milk. Some studies report that CHO + Pro beverages (including chocolate milk) enhance subsequent exercise performance versus carbohydrate beverages, although others have reported no positive effects. The putative efficacy of CHO + Pro could be due to influences on glycogen resynthesis, protein turnover, rehydration, attenuations in muscle disruption, or perhaps a combination of these factors. However, there are inconsistencies in the literature regarding the effects of CHO + Pro on these factors, and the mechanisms explaining potential influences of CHO + Pro are not defined clearly. Further research is required to address these limitations, but present evidence suggests that CHO + Pro beverages may positively influence recovery under some exercise conditions, and chocolate milk is likely a good recovery beverage for lactose-tolerant endurance athletes.",
+            "year": 2011,
+            "citation_count": 20,
+            "relevance": 1,
+            "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it discusses the effects of carbohydrate and protein coingestion (CHO + Pro) on recovery from heavy aerobic exercise, including the potential influences of chocolate milk, which is related to the source paper's investigation of the effect of combined carbohydrate-protein ingestion on muscle damage and recovery."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Recovery from Cycling Exercise: Effects of Carbohydrate and Protein Beverages": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effects of different carbohydrate-protein beverages on recovery from cycling exercise, building on the source paper's discussion of the potential benefits of CHO + Pro beverages, including chocolate milk, for recovery from endurance exercise.",
+                    "relevance": 1
+                },
+                "2. Coping with a Cluttered Marketplace: Athlete Choice of Products to Support Training*": {
+                    "explanation": "This paper has no direct connection with the source paper. It focuses on athlete preferences for postexercise recovery drink attributes and does not investigate the effects of CHO + Pro beverages on recovery from exercise.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Recovery from Cycling Exercise: Effects of Carbohydrate and Protein Beverages": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effects of different carbohydrate-protein beverages on recovery from cycling exercise, building on the source paper's discussion of the potential benefits of CHO + Pro beverages, including chocolate milk, for recovery from endurance exercise.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2013,
+        "source_paper": {
+            "paperId": "989c022c010186842c0b0266714e9400f93da5c9",
+            "title": "Carbohydrate-Protein Intake and Recovery from Endurance Exercise: Is Chocolate Milk the Answer?",
+            "abstract": "Postexercise carbohydrate intake has been shown to augment recovery from heavy aerobic exercise. The effects of carbohydrate and protein coingestion (CHO + Pro) have been investigated more recently, including the potential influences of chocolate milk. Some studies report that CHO + Pro beverages (including chocolate milk) enhance subsequent exercise performance versus carbohydrate beverages, although others have reported no positive effects. The putative efficacy of CHO + Pro could be due to influences on glycogen resynthesis, protein turnover, rehydration, attenuations in muscle disruption, or perhaps a combination of these factors. However, there are inconsistencies in the literature regarding the effects of CHO + Pro on these factors, and the mechanisms explaining potential influences of CHO + Pro are not defined clearly. Further research is required to address these limitations, but present evidence suggests that CHO + Pro beverages may positively influence recovery under some exercise conditions, and chocolate milk is likely a good recovery beverage for lactose-tolerant endurance athletes.",
+            "year": 2011,
+            "citation_count": 20,
+            "relevance": 1,
+            "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it discusses the effects of carbohydrate and protein coingestion (CHO + Pro) on recovery from heavy aerobic exercise, including the potential influences of chocolate milk, which is related to the source paper's investigation of the effect of combined carbohydrate-protein ingestion on muscle damage and recovery."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Developing a sports nutrition formulary for the Academy of Nutrition and Dietetics Sports Nutrition Care Manual": {
+                    "explanation": "This paper has no connection with the source paper, as it focuses on creating a sports nutrition formulary, which is a separate topic from the source paper's investigation of carbohydrate-protein intake and recovery from endurance exercise.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2013,
+        "source_paper": {
+            "paperId": "845521042e42c8c8787a9a061573db78b3cb6d9f",
+            "title": "Recovery from Cycling Exercise: Effects of Carbohydrate and Protein Beverages",
+            "abstract": "The effects of different carbohydrate-protein (CHO + Pro) beverages were compared during recovery from cycling exercise. Twelve male cyclists (VO2peak: 65 \u00b1 7 mL/kg/min) completed ~1 h of high-intensity intervals (EX1). Immediately and 120 min following EX1, subjects consumed one of three calorically-similar beverages (285\u2013300 kcal) in a cross-over design: carbohydrate-only (CHO; 75 g per beverage), high-carbohydrate/low-protein (HCLP; 45 g CHO, 25 g Pro, 0.5 g fat), or low-carbohydrate/high-protein (LCHP; 8 g CHO, 55 g Pro, 4 g fat). After 4 h of recovery, subjects performed subsequent exercise (EX2; 20 min at 70% VO2peak + 20 km time-trial). Beverages were also consumed following EX2. Blood glucose levels (30 min after beverage ingestion) differed across all treatments (CHO > HCLP > LCHP; p < 0.05), and serum insulin was higher following CHO and HCLP ingestion versus LCHP. Peak quadriceps force, serum creatine kinase, muscle soreness, and fatigue/energy ratings measured pre- and post-exercise were not different between treatments. EX2 performance was not significantly different between CHO (48.5 \u00b1 1.5 min), HCLP (48.8 \u00b1 2.1 min) and LCHP (50.3 \u00b1 2.7 min). Beverages containing similar caloric content but different proportions of carbohydrate/protein provided similar effects on muscle recovery and subsequent exercise performance in well-trained cyclists.",
+            "year": 2012,
+            "citation_count": 32,
+            "relevance": 1,
+            "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effects of different carbohydrate-protein beverages on recovery from cycling exercise, building on the source paper's discussion of the potential benefits of CHO + Pro beverages, including chocolate milk, for recovery from endurance exercise."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Ingestion of carbohydrate during recovery in exercising people": {
+                    "explanation": "This paper is a review of existing literature on the effects of carbohydrate and protein supplementation on postexercise recovery, focusing on rehydration and muscle damage. It does not present novel findings or hypotheses that build upon the source paper, but rather summarizes existing knowledge in the field.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2014,
+        "source_paper": {
+            "paperId": "845521042e42c8c8787a9a061573db78b3cb6d9f",
+            "title": "Recovery from Cycling Exercise: Effects of Carbohydrate and Protein Beverages",
+            "abstract": "The effects of different carbohydrate-protein (CHO + Pro) beverages were compared during recovery from cycling exercise. Twelve male cyclists (VO2peak: 65 \u00b1 7 mL/kg/min) completed ~1 h of high-intensity intervals (EX1). Immediately and 120 min following EX1, subjects consumed one of three calorically-similar beverages (285\u2013300 kcal) in a cross-over design: carbohydrate-only (CHO; 75 g per beverage), high-carbohydrate/low-protein (HCLP; 45 g CHO, 25 g Pro, 0.5 g fat), or low-carbohydrate/high-protein (LCHP; 8 g CHO, 55 g Pro, 4 g fat). After 4 h of recovery, subjects performed subsequent exercise (EX2; 20 min at 70% VO2peak + 20 km time-trial). Beverages were also consumed following EX2. Blood glucose levels (30 min after beverage ingestion) differed across all treatments (CHO > HCLP > LCHP; p < 0.05), and serum insulin was higher following CHO and HCLP ingestion versus LCHP. Peak quadriceps force, serum creatine kinase, muscle soreness, and fatigue/energy ratings measured pre- and post-exercise were not different between treatments. EX2 performance was not significantly different between CHO (48.5 \u00b1 1.5 min), HCLP (48.8 \u00b1 2.1 min) and LCHP (50.3 \u00b1 2.7 min). Beverages containing similar caloric content but different proportions of carbohydrate/protein provided similar effects on muscle recovery and subsequent exercise performance in well-trained cyclists.",
+            "year": 2012,
+            "citation_count": 32,
+            "relevance": 1,
+            "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effects of different carbohydrate-protein beverages on recovery from cycling exercise, building on the source paper's discussion of the potential benefits of CHO + Pro beverages, including chocolate milk, for recovery from endurance exercise."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Glucose-fructose enhances performance versus isocaloric, but not moderate, glucose.": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it explores the effects of different carbohydrate compositions on exercise performance, building on the source paper's results regarding carbohydrate-protein beverages and recovery from cycling exercise.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Glucose-fructose enhances performance versus isocaloric, but not moderate, glucose.": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it explores the effects of different carbohydrate compositions on exercise performance, building on the source paper's results regarding carbohydrate-protein beverages and recovery from cycling exercise.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2015,
+        "source_paper": {
+            "paperId": "98e62131184741c3becc36f0ca9c9996e9297f3f",
+            "title": "Glucose-fructose enhances performance versus isocaloric, but not moderate, glucose.",
+            "abstract": "PURPOSE\nThe effects of glucose-and-fructose (GF) coingestion on cycling time trial (TT) performance and physiological responses to exercise were examined under postprandial conditions.\n\n\nMETHODS\nEight trained male cyclists (age, 25 \u00b1 6 yr; height, 180 \u00b1 4 cm; weight, 77 \u00b1 9 kg; V\u02d9O2max, 62 \u00b1 6 mL\u00b7kg\u00b7min) completed the study. Subjects ingested either an artificially sweetened placebo (PL), a moderate-glucose beverage (MG, 1.03 g\u00b7min), a high-glucose beverage (HG, 1.55 g\u00b7min), or a GF beverage (1.55 g\u00b7min, 2:1 ratio) during approximately 3 h of exercise, including 2 h of constant-load cycling (55% Wmax, 195 \u00b1 17 W), immediately followed by a computer-simulated 30-km TT. Physiological responses (V\u02d9E, V\u02d9O2, RER, HR, blood glucose level, blood lactate level, and RPE) and incidences of gastrointestinal distress were assessed during early (15-20 min), middle (55-60 min), and late exercise (115-120 min) and during the TT. Magnitude-based qualitative inferences were used to evaluate differences between treatments.\n\n\nRESULTS\nIn comparison with that in PL (52.9 \u00b1 3.7 min), TT performances were faster with GF (50.4 \u00b1 2.2 min, \"very likely\" benefit), MG (51.1 \u00b1 2.4 min, \"likely\" benefit), and HG (52.0 \u00b1 3.7 min, \"possible\" benefit). GF resulted in a \"likely\" improvement versus HG (3.0%) and an \"unclear\" effect relative to MG (1.2%). MG was \"possibly\" beneficial versus HG (1.8%). Few incidences of GI distress were reported in any trials.\n\n\nCONCLUSIONS\nGF ingestion seems to enhance performance, relative to PL and HG. However, it is unclear whether GF improves performance versus moderate doses of glucose.",
+            "year": 2014,
+            "citation_count": 33,
+            "relevance": 1,
+            "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it explores the effects of different carbohydrate compositions on exercise performance, building on the source paper's results regarding carbohydrate-protein beverages and recovery from cycling exercise."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Ingesting Isomaltulose Versus Fructose-Maltodextrin During Prolonged Moderate-Heavy Exercise Increases Fat Oxidation but Impairs Gastrointestinal Comfort and Cycling Performance": {
+                    "explanation": "This paper explores the effects of different carbohydrate sources on exercise performance and gastrointestinal comfort, building on the source paper's findings regarding glucose-fructose coingestion. However, it does not directly depend on the source paper's findings, but rather expands on the general topic of carbohydrate supplementation during exercise.",
+                    "relevance": 1
+                },
+                "2. Multiple Transportable Carbohydrates During Exercise: Current Limitations and Directions for Future Research": {
+                    "explanation": "This paper reviews the concept of multiple transportable carbohydrates (MTC) and evaluates the literature on MTC during exercise. The source paper's findings on glucose-fructose coingestion are a part of the MTC concept, making this paper partially dependent on the source paper's findings.",
+                    "relevance": 2
+                },
+                "3. Effects of caffeine and maltodextrin mouth rinsing on P300, brain imaging, and cognitive performance": {
+                    "explanation": "This paper investigates the effects of caffeine and maltodextrin mouth rinsing on cognitive performance and brain activity, which is unrelated to the source paper's topic of glucose-fructose coingestion and exercise performance.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Multiple Transportable Carbohydrates During Exercise: Current Limitations and Directions for Future Research": {
+                    "explanation": "This paper reviews the concept of multiple transportable carbohydrates (MTC) and evaluates the literature on MTC during exercise. The source paper's findings on glucose-fructose coingestion are a part of the MTC concept, making this paper partially dependent on the source paper's findings.",
+                    "relevance": 2
+                },
+                "2. Ingesting Isomaltulose Versus Fructose-Maltodextrin During Prolonged Moderate-Heavy Exercise Increases Fat Oxidation but Impairs Gastrointestinal Comfort and Cycling Performance": {
+                    "explanation": "This paper explores the effects of different carbohydrate sources on exercise performance and gastrointestinal comfort, building on the source paper's findings regarding glucose-fructose coingestion. However, it does not directly depend on the source paper's findings, but rather expands on the general topic of carbohydrate supplementation during exercise.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2016,
+        "source_paper": {
+            "paperId": "98e62131184741c3becc36f0ca9c9996e9297f3f",
+            "title": "Glucose-fructose enhances performance versus isocaloric, but not moderate, glucose.",
+            "abstract": "PURPOSE\nThe effects of glucose-and-fructose (GF) coingestion on cycling time trial (TT) performance and physiological responses to exercise were examined under postprandial conditions.\n\n\nMETHODS\nEight trained male cyclists (age, 25 \u00b1 6 yr; height, 180 \u00b1 4 cm; weight, 77 \u00b1 9 kg; V\u02d9O2max, 62 \u00b1 6 mL\u00b7kg\u00b7min) completed the study. Subjects ingested either an artificially sweetened placebo (PL), a moderate-glucose beverage (MG, 1.03 g\u00b7min), a high-glucose beverage (HG, 1.55 g\u00b7min), or a GF beverage (1.55 g\u00b7min, 2:1 ratio) during approximately 3 h of exercise, including 2 h of constant-load cycling (55% Wmax, 195 \u00b1 17 W), immediately followed by a computer-simulated 30-km TT. Physiological responses (V\u02d9E, V\u02d9O2, RER, HR, blood glucose level, blood lactate level, and RPE) and incidences of gastrointestinal distress were assessed during early (15-20 min), middle (55-60 min), and late exercise (115-120 min) and during the TT. Magnitude-based qualitative inferences were used to evaluate differences between treatments.\n\n\nRESULTS\nIn comparison with that in PL (52.9 \u00b1 3.7 min), TT performances were faster with GF (50.4 \u00b1 2.2 min, \"very likely\" benefit), MG (51.1 \u00b1 2.4 min, \"likely\" benefit), and HG (52.0 \u00b1 3.7 min, \"possible\" benefit). GF resulted in a \"likely\" improvement versus HG (3.0%) and an \"unclear\" effect relative to MG (1.2%). MG was \"possibly\" beneficial versus HG (1.8%). Few incidences of GI distress were reported in any trials.\n\n\nCONCLUSIONS\nGF ingestion seems to enhance performance, relative to PL and HG. However, it is unclear whether GF improves performance versus moderate doses of glucose.",
+            "year": 2014,
+            "citation_count": 33,
+            "relevance": 1,
+            "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it explores the effects of different carbohydrate compositions on exercise performance, building on the source paper's results regarding carbohydrate-protein beverages and recovery from cycling exercise."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Effects of carbohydrate dose and frequency on metabolism, gastrointestinal discomfort, and cross\u2010country skiing performance": {
+                    "explanation": "The key hypothesis in this paper is inspired by the hypothesis or the finding from the source paper, as it explores the effects of carbohydrate ingestion on exercise performance, building on the source paper's results regarding glucose-fructose coingestion.",
+                    "relevance": 1
+                },
+                "2. Supplemental Protein during Heavy Cycling Training and Recovery Impacts Skeletal Muscle and Heart Rate Responses but Not Performance": {
+                    "explanation": "This paper has no connection with the source paper, as it investigates the effects of protein supplementation on cycling performance, skeletal muscle function, and heart rate responses, which is unrelated to the source paper's findings on glucose-fructose coingestion.",
+                    "relevance": 0
+                },
+                "3. Carbohydrate Mouth Rinsing Enhances High Intensity Time Trial Performance Following Prolonged Cycling": {
+                    "explanation": "The key hypothesis in this paper is inspired by the hypothesis or the finding from the source paper, as it explores the effects of carbohydrate mouth rinsing on exercise performance, building on the source paper's results regarding glucose-fructose coingestion.",
+                    "relevance": 1
+                },
+                "4. Nighttime feeding likely alters morning metabolism but not exercise performance in female athletes": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the effects of nighttime feeding on morning metabolism and exercise performance, using the source paper's findings on glucose-fructose coingestion as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "5. Mixed drink increased carbohydrate oxidation but not performance during a 40 km time trial": {
+                    "explanation": "The key hypothesis in this paper is inspired by the hypothesis or the finding from the source paper, as it explores the effects of a mixed drink (glucose polymer and fructose) on exercise performance, building on the source paper's results regarding glucose-fructose coingestion.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Nighttime feeding likely alters morning metabolism but not exercise performance in female athletes": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the effects of nighttime feeding on morning metabolism and exercise performance, using the source paper's findings on glucose-fructose coingestion as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "2. Effects of carbohydrate dose and frequency on metabolism, gastrointestinal discomfort, and cross\u2010country skiing performance": {
+                    "explanation": "The key hypothesis in this paper is inspired by the hypothesis or the finding from the source paper, as it explores the effects of carbohydrate ingestion on exercise performance, building on the source paper's results regarding glucose-fructose coingestion.",
+                    "relevance": 1
+                },
+                "3. Carbohydrate Mouth Rinsing Enhances High Intensity Time Trial Performance Following Prolonged Cycling": {
+                    "explanation": "The key hypothesis in this paper is inspired by the hypothesis or the finding from the source paper, as it explores the effects of carbohydrate mouth rinsing on exercise performance, building on the source paper's results regarding glucose-fructose coingestion.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2018,
+        "source_paper": {
+            "paperId": "286a1314b137b65599362e51296e08e263a24437",
+            "title": "Nighttime feeding likely alters morning metabolism but not exercise performance in female athletes.",
+            "abstract": "The timing of morning endurance competition may limit proper pre-race fueling and resulting performance. A nighttime, pre-sleep nutritional strategy could be an alternative method to target the metabolic and hydrating needs of the early morning athlete without compromising sleep or gastrointestinal comfort during exercise. Therefore, the purpose of this investigation was to examine the acute effects of pre-sleep chocolate milk (CM) ingestion on next-morning running performance, metabolism, and hydration status. Twelve competitive female runners and triathletes (age, 30 \u00b1 7 years; peak oxygen consumption, 53 \u00b1 4 mL\u00b7kg(-1)\u00b7min(-1)) randomly ingested either pre-sleep CM or non-nutritive placebo (PL) \u223c30 min before sleep and 7-9 h before a morning exercise trial. Resting metabolic rate (RMR) was assessed prior to exercise. The exercise trial included a warm-up, three 5-min incremental workloads at 55%, 65%, and 75% peak oxygen consumption, and a 10-km treadmill time trial (TT). Physiological responses were assessed prior, during (incremental and TT), and postexercise. Paired t tests and magnitude-based inferences were used to determine treatment differences. TT performances were not different (\"most likely trivial\" improvement with CM) between conditions (PL: 52.8 \u00b1 8.4 min vs CM: 52.8 \u00b1 8.0 min). RMR was \"likely\" increased (4.8%) and total carbohydrate oxidation (g\u00b7min(-1)) during exercise was \"possibly\" or likely increased (18.8%, 10.1%, 9.1% for stage 1-3, respectively) with CM versus PL. There were no consistent changes to hydration indices. In conclusion, pre-sleep CM may alter next-morning resting and exercise metabolism to favor carbohydrate oxidation, but effects did not translate to 10-km running performance improvements.",
+            "year": 2016,
+            "citation_count": 33,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the effects of nighttime feeding on morning metabolism and exercise performance, using the source paper's findings on glucose-fructose coingestion as a sub-hypothesis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Influence of Resistance Exercise on Appetite and Affect Following Pre-Sleep Feeding": {
+                    "explanation": "This paper investigates the effects of pre-sleep feeding on appetite and affect following resistance exercise, which is related to the source paper's findings on the effects of pre-sleep chocolate milk ingestion on next-morning metabolism and exercise performance. However, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "2. Effects of High vs. Low Glycemic Index of Post-Exercise Meals on Sleep and Exercise Performance: A Randomized, Double-Blind, Counterbalanced Polysomnographic Study": {
+                    "explanation": "This paper explores the effects of post-exercise meals on sleep and exercise performance, which is not directly related to the source paper's findings on pre-sleep feeding. The focus is on post-exercise nutrition rather than pre-sleep nutrition, making it less relevant to the source paper.",
+                    "relevance": 0
+                },
+                "3. Pre-sleep protein in casein supplement or whole-food form has no impact on resting energy expenditure or hunger in women": {
+                    "explanation": "This paper examines the effects of pre-sleep protein consumption on resting energy expenditure and hunger in women, which is related to the source paper's findings on the effects of pre-sleep chocolate milk ingestion on next-morning metabolism. However, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "4. Pre-Sleep Consumption of Casein and Whey Protein: Effects on Morning Metabolism and Resistance Exercise Performance in Active Women": {
+                    "explanation": "This paper investigates the effects of pre-sleep casein and whey protein consumption on morning metabolism and resistance exercise performance in active women, which is related to the source paper's findings on the effects of pre-sleep chocolate milk ingestion on next-morning metabolism and exercise performance. The paper partially depends on the source paper's findings as it explores the effects of different types of protein on morning metabolism.",
+                    "relevance": 2
+                },
+                "5. A bedtime milk snack does not impact RMR, substrate utilisation and appetite the following morning in mildly overweight males": {
+                    "explanation": "This paper examines the effects of a bedtime milk snack on resting metabolic rate, substrate utilization, and appetite in mildly overweight males, which is related to the source paper's findings on the effects of pre-sleep chocolate milk ingestion on next-morning metabolism. However, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Pre-Sleep Consumption of Casein and Whey Protein: Effects on Morning Metabolism and Resistance Exercise Performance in Active Women": {
+                    "explanation": "This paper investigates the effects of pre-sleep casein and whey protein consumption on morning metabolism and resistance exercise performance in active women, which is related to the source paper's findings on the effects of pre-sleep chocolate milk ingestion on next-morning metabolism and exercise performance. The paper partially depends on the source paper's findings as it explores the effects of different types of protein on morning metabolism.",
+                    "relevance": 2
+                },
+                "2. Influence of Resistance Exercise on Appetite and Affect Following Pre-Sleep Feeding": {
+                    "explanation": "This paper investigates the effects of pre-sleep feeding on appetite and affect following resistance exercise, which is related to the source paper's findings on the effects of pre-sleep chocolate milk ingestion on next-morning metabolism and exercise performance. However, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "3. Pre-sleep protein in casein supplement or whole-food form has no impact on resting energy expenditure or hunger in women": {
+                    "explanation": "This paper examines the effects of pre-sleep protein consumption on resting energy expenditure and hunger in women, which is related to the source paper's findings on the effects of pre-sleep chocolate milk ingestion on next-morning metabolism. However, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2019,
+        "source_paper": {
+            "paperId": "c2f9180b068c5b23b58a4a0439fdd907b557aea1",
+            "title": "Pre-Sleep Consumption of Casein and Whey Protein: Effects on Morning Metabolism and Resistance Exercise Performance in Active Women",
+            "abstract": "Consuming milk proteins (casein (CP) and whey (WP)) at night before sleep has been shown to positively influence next morning resting metabolic rate (RMR). No data exist regarding the effect of pre-sleep consumption of CP and WP on the ability to perform resistance exercise (RE) the following morning. The present study compared the effects of low (24 g) and high (48 g) doses of CP and WP and a non-energetic placebo (PLA) consumed 30 min before sleep on morning RMR, and RE performance. Nine active women participated in this randomized, double-blind, crossover study. Next morning RMR was measured via indirect calorimetry. RE was performed on six machines for 2 sets of 10 repetitions, and a 3rd set to failure at 60% of one-repetition maximum to calculate RE volume (weight lifted \u00d7 sets \u00d7 repetitions). Magnitude based inferences were used. Compared to the PLA, 48 g CP had a likely increase in RMR (4.0 \u00b1 4.8%) and possibly trivial (1.1 \u00b1 7.0%) effect on RE volume. There were no clear effects of 24 g CP, 24 g and 48 g of WP on RMR and RE volume. In conclusion, 48 g CP elicited favorable changes in morning RMR, with only trivial changes in RE performance.",
+            "year": 2018,
+            "citation_count": 16,
+            "relevance": 2,
+            "explanation": "This paper investigates the effects of pre-sleep casein and whey protein consumption on morning metabolism and resistance exercise performance in active women, which is related to the source paper's findings on the effects of pre-sleep chocolate milk ingestion on next-morning metabolism and exercise performance. The paper partially depends on the source paper's findings as it explores the effects of different types of protein on morning metabolism."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Pre-Sleep Casein Protein Ingestion Does Not Impact Next-Day Appetite, Energy Intake and Metabolism in Older Individuals": {
+                    "explanation": "The hypothesis in this paper is inspired by the hypothesis of the source paper, as it investigates the effects of pre-sleep casein protein ingestion on next-day appetite and metabolism, similar to the source paper's investigation of pre-sleep consumption of casein and whey protein on morning metabolism and resistance exercise performance.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Pre-Sleep Casein Protein Ingestion Does Not Impact Next-Day Appetite, Energy Intake and Metabolism in Older Individuals": {
+                    "explanation": "The hypothesis in this paper is inspired by the hypothesis of the source paper, as it investigates the effects of pre-sleep casein protein ingestion on next-day appetite and metabolism, similar to the source paper's investigation of pre-sleep consumption of casein and whey protein on morning metabolism and resistance exercise performance.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2020,
+        "source_paper": {
+            "paperId": "c2f9180b068c5b23b58a4a0439fdd907b557aea1",
+            "title": "Pre-Sleep Consumption of Casein and Whey Protein: Effects on Morning Metabolism and Resistance Exercise Performance in Active Women",
+            "abstract": "Consuming milk proteins (casein (CP) and whey (WP)) at night before sleep has been shown to positively influence next morning resting metabolic rate (RMR). No data exist regarding the effect of pre-sleep consumption of CP and WP on the ability to perform resistance exercise (RE) the following morning. The present study compared the effects of low (24 g) and high (48 g) doses of CP and WP and a non-energetic placebo (PLA) consumed 30 min before sleep on morning RMR, and RE performance. Nine active women participated in this randomized, double-blind, crossover study. Next morning RMR was measured via indirect calorimetry. RE was performed on six machines for 2 sets of 10 repetitions, and a 3rd set to failure at 60% of one-repetition maximum to calculate RE volume (weight lifted \u00d7 sets \u00d7 repetitions). Magnitude based inferences were used. Compared to the PLA, 48 g CP had a likely increase in RMR (4.0 \u00b1 4.8%) and possibly trivial (1.1 \u00b1 7.0%) effect on RE volume. There were no clear effects of 24 g CP, 24 g and 48 g of WP on RMR and RE volume. In conclusion, 48 g CP elicited favorable changes in morning RMR, with only trivial changes in RE performance.",
+            "year": 2018,
+            "citation_count": 16,
+            "relevance": 2,
+            "explanation": "This paper investigates the effects of pre-sleep casein and whey protein consumption on morning metabolism and resistance exercise performance in active women, which is related to the source paper's findings on the effects of pre-sleep chocolate milk ingestion on next-morning metabolism and exercise performance. The paper partially depends on the source paper's findings as it explores the effects of different types of protein on morning metabolism."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Protein Requirements of Pre-Menopausal Female Athletes: Systematic Literature Review": {
+                    "explanation": "This paper is a systematic literature review and does not directly build upon or utilize the findings of the source paper. The review aims to determine protein requirements for pre-menopausal female athletes, which is a broader topic than the source paper's focus on the effects of pre-sleep casein and whey protein consumption.",
+                    "relevance": 0
+                },
+                "2. Effects of Dietary Protein on Body Composition in Exercising Individuals": {
+                    "explanation": "This narrative review discusses the effects of dietary protein on body composition in exercising individuals, including the benefits of high-protein diets and pre-sleep protein intake. While the review does not directly build upon the source paper, it does mention pre-sleep protein studies, which is related to the source paper's topic. However, the review does not specifically utilize the source paper's findings.",
+                    "relevance": 1
+                },
+                "3. Pre-sleep casein protein ingestion: new paradigm in post-exercise recovery nutrition": {
+                    "explanation": "This review paper focuses on the effects of pre-sleep casein protein ingestion on post-exercise recovery, which is closely related to the source paper's topic. The review mentions the benefits of pre-sleep casein protein intake, including increased plasma amino acid availability during sleep and improved muscle recovery. The review's findings are partially dependent on the source paper's results, which investigated the effects of pre-sleep casein and whey protein consumption on morning metabolism and resistance exercise performance.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Pre-sleep casein protein ingestion: new paradigm in post-exercise recovery nutrition": {
+                    "explanation": "This review paper focuses on the effects of pre-sleep casein protein ingestion on post-exercise recovery, which is closely related to the source paper's topic. The review mentions the benefits of pre-sleep casein protein intake, including increased plasma amino acid availability during sleep and improved muscle recovery. The review's findings are partially dependent on the source paper's results, which investigated the effects of pre-sleep casein and whey protein consumption on morning metabolism and resistance exercise performance.",
+                    "relevance": 2
+                },
+                "2. Effects of Dietary Protein on Body Composition in Exercising Individuals": {
+                    "explanation": "This narrative review discusses the effects of dietary protein on body composition in exercising individuals, including the benefits of high-protein diets and pre-sleep protein intake. While the review does not directly build upon the source paper, it does mention pre-sleep protein studies, which is related to the source paper's topic. However, the review does not specifically utilize the source paper's findings.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2021,
+        "source_paper": {
+            "paperId": "0bf7df5e836309e7257a275d5f4e42382e9e22f1",
+            "title": "Pre-sleep casein protein ingestion: new paradigm in post-exercise recovery nutrition",
+            "abstract": "[Purpose] Milk is a commonly ingested post-exercise recovery protein source. Casein protein, found in milk, is characterized by its slow digestion and absorption. Recently, several studies have been conducted with a focus on how pre-sleep casein protein intake could affect post-exercise recovery but our knowledge of the subject remains limited. This review aimed at presenting and discussing how pre-sleep casein protein ingestion affects post-exercise recovery and the details of its potential effector mechanisms. [Methods] We systematically reviewed the topics of 1) casein nutritional characteristics, 2) pre-sleep casein protein effects on post-exercise recovery, and 3) potential effector mechanisms of pre-sleep casein protein on post-exercise recovery, based on the currently available published studies on pre-sleep casein protein ingestion. [Results] Studies have shown that pre-sleep casein protein ingestion (timing: 30 minutes before sleep, amount of casein protein ingested: 40-48 g) could help post-exercise recovery and positively affect acute protein metabolism and exercise performance. In addition, studies have suggested that repeated pre-sleep casein protein ingestion for post-exercise recovery over a long period might also result in chronic effects that optimize intramuscular physiological adaptation (muscle strength and muscle hypertrophy). The potential mechanisms of pre-sleep casein protein ingestion that contribute to these effects include the following: 1) significantly increasing plasma amino acid availability during sleep, thereby increasing protein synthesis, inhibiting protein breakdown, and achieving a positive protein balance; and 2) weakening exercise-induced muscle damage or inflammatory responses, causing reduced muscle soreness. Future studies should focus on completely elucidating these potential mechanisms. [Conclusion] In conclusion, post-exercise ingestion of at least 40 g of casein protein, approximately 30 minutes before sleep and after a bout of resistance exercise in the evening, might be an effective nutritional intervention to facilitate muscle recovery.",
+            "year": 2020,
+            "citation_count": 10,
+            "relevance": 2,
+            "explanation": "This review paper focuses on the effects of pre-sleep casein protein ingestion on post-exercise recovery, which is closely related to the source paper's topic. The review mentions the benefits of pre-sleep casein protein intake, including increased plasma amino acid availability during sleep and improved muscle recovery. The review's findings are partially dependent on the source paper's results, which investigated the effects of pre-sleep casein and whey protein consumption on morning metabolism and resistance exercise performance."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Dietary Habits of Female University Students in Eastern Slovakia in the Context of Sports Activity": {
+                    "explanation": "This paper has no direct connection to the source paper, as it explores the dietary habits of female university students in relation to sports activity, without mentioning pre-sleep casein protein ingestion or its effects on post-exercise recovery.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2022,
+        "source_paper": {
+            "paperId": "0bf7df5e836309e7257a275d5f4e42382e9e22f1",
+            "title": "Pre-sleep casein protein ingestion: new paradigm in post-exercise recovery nutrition",
+            "abstract": "[Purpose] Milk is a commonly ingested post-exercise recovery protein source. Casein protein, found in milk, is characterized by its slow digestion and absorption. Recently, several studies have been conducted with a focus on how pre-sleep casein protein intake could affect post-exercise recovery but our knowledge of the subject remains limited. This review aimed at presenting and discussing how pre-sleep casein protein ingestion affects post-exercise recovery and the details of its potential effector mechanisms. [Methods] We systematically reviewed the topics of 1) casein nutritional characteristics, 2) pre-sleep casein protein effects on post-exercise recovery, and 3) potential effector mechanisms of pre-sleep casein protein on post-exercise recovery, based on the currently available published studies on pre-sleep casein protein ingestion. [Results] Studies have shown that pre-sleep casein protein ingestion (timing: 30 minutes before sleep, amount of casein protein ingested: 40-48 g) could help post-exercise recovery and positively affect acute protein metabolism and exercise performance. In addition, studies have suggested that repeated pre-sleep casein protein ingestion for post-exercise recovery over a long period might also result in chronic effects that optimize intramuscular physiological adaptation (muscle strength and muscle hypertrophy). The potential mechanisms of pre-sleep casein protein ingestion that contribute to these effects include the following: 1) significantly increasing plasma amino acid availability during sleep, thereby increasing protein synthesis, inhibiting protein breakdown, and achieving a positive protein balance; and 2) weakening exercise-induced muscle damage or inflammatory responses, causing reduced muscle soreness. Future studies should focus on completely elucidating these potential mechanisms. [Conclusion] In conclusion, post-exercise ingestion of at least 40 g of casein protein, approximately 30 minutes before sleep and after a bout of resistance exercise in the evening, might be an effective nutritional intervention to facilitate muscle recovery.",
+            "year": 2020,
+            "citation_count": 10,
+            "relevance": 2,
+            "explanation": "This review paper focuses on the effects of pre-sleep casein protein ingestion on post-exercise recovery, which is closely related to the source paper's topic. The review mentions the benefits of pre-sleep casein protein intake, including increased plasma amino acid availability during sleep and improved muscle recovery. The review's findings are partially dependent on the source paper's results, which investigated the effects of pre-sleep casein and whey protein consumption on morning metabolism and resistance exercise performance."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Age-related muscle anabolic resistance: inevitable or preventable?": {
+                    "explanation": "This paper has no direct connection to the source paper. The source paper focuses on pre-sleep casein protein ingestion for post-exercise recovery, whereas this paper discusses age-related muscle anabolic resistance and its prevention through various interventional strategies, including exercise and nutrition.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2022,
+        "source_paper": {
+            "paperId": "0bf7df5e836309e7257a275d5f4e42382e9e22f1",
+            "title": "Pre-sleep casein protein ingestion: new paradigm in post-exercise recovery nutrition",
+            "abstract": "[Purpose] Milk is a commonly ingested post-exercise recovery protein source. Casein protein, found in milk, is characterized by its slow digestion and absorption. Recently, several studies have been conducted with a focus on how pre-sleep casein protein intake could affect post-exercise recovery but our knowledge of the subject remains limited. This review aimed at presenting and discussing how pre-sleep casein protein ingestion affects post-exercise recovery and the details of its potential effector mechanisms. [Methods] We systematically reviewed the topics of 1) casein nutritional characteristics, 2) pre-sleep casein protein effects on post-exercise recovery, and 3) potential effector mechanisms of pre-sleep casein protein on post-exercise recovery, based on the currently available published studies on pre-sleep casein protein ingestion. [Results] Studies have shown that pre-sleep casein protein ingestion (timing: 30 minutes before sleep, amount of casein protein ingested: 40-48 g) could help post-exercise recovery and positively affect acute protein metabolism and exercise performance. In addition, studies have suggested that repeated pre-sleep casein protein ingestion for post-exercise recovery over a long period might also result in chronic effects that optimize intramuscular physiological adaptation (muscle strength and muscle hypertrophy). The potential mechanisms of pre-sleep casein protein ingestion that contribute to these effects include the following: 1) significantly increasing plasma amino acid availability during sleep, thereby increasing protein synthesis, inhibiting protein breakdown, and achieving a positive protein balance; and 2) weakening exercise-induced muscle damage or inflammatory responses, causing reduced muscle soreness. Future studies should focus on completely elucidating these potential mechanisms. [Conclusion] In conclusion, post-exercise ingestion of at least 40 g of casein protein, approximately 30 minutes before sleep and after a bout of resistance exercise in the evening, might be an effective nutritional intervention to facilitate muscle recovery.",
+            "year": 2020,
+            "citation_count": 10,
+            "relevance": 2,
+            "explanation": "This review paper focuses on the effects of pre-sleep casein protein ingestion on post-exercise recovery, which is closely related to the source paper's topic. The review mentions the benefits of pre-sleep casein protein intake, including increased plasma amino acid availability during sleep and improved muscle recovery. The review's findings are partially dependent on the source paper's results, which investigated the effects of pre-sleep casein and whey protein consumption on morning metabolism and resistance exercise performance."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Age-related muscle anabolic resistance: inevitable or preventable?": {
+                    "explanation": "This paper is a review paper that discusses age-related muscle anabolic resistance, its mechanisms, and potential interventions, but does not have a direct connection to the source paper's hypothesis on pre-sleep casein protein ingestion for post-exercise recovery. It lacks novel hypotheses or findings related to the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2023,
+        "source_paper": {
+            "paperId": "0bf7df5e836309e7257a275d5f4e42382e9e22f1",
+            "title": "Pre-sleep casein protein ingestion: new paradigm in post-exercise recovery nutrition",
+            "abstract": "[Purpose] Milk is a commonly ingested post-exercise recovery protein source. Casein protein, found in milk, is characterized by its slow digestion and absorption. Recently, several studies have been conducted with a focus on how pre-sleep casein protein intake could affect post-exercise recovery but our knowledge of the subject remains limited. This review aimed at presenting and discussing how pre-sleep casein protein ingestion affects post-exercise recovery and the details of its potential effector mechanisms. [Methods] We systematically reviewed the topics of 1) casein nutritional characteristics, 2) pre-sleep casein protein effects on post-exercise recovery, and 3) potential effector mechanisms of pre-sleep casein protein on post-exercise recovery, based on the currently available published studies on pre-sleep casein protein ingestion. [Results] Studies have shown that pre-sleep casein protein ingestion (timing: 30 minutes before sleep, amount of casein protein ingested: 40-48 g) could help post-exercise recovery and positively affect acute protein metabolism and exercise performance. In addition, studies have suggested that repeated pre-sleep casein protein ingestion for post-exercise recovery over a long period might also result in chronic effects that optimize intramuscular physiological adaptation (muscle strength and muscle hypertrophy). The potential mechanisms of pre-sleep casein protein ingestion that contribute to these effects include the following: 1) significantly increasing plasma amino acid availability during sleep, thereby increasing protein synthesis, inhibiting protein breakdown, and achieving a positive protein balance; and 2) weakening exercise-induced muscle damage or inflammatory responses, causing reduced muscle soreness. Future studies should focus on completely elucidating these potential mechanisms. [Conclusion] In conclusion, post-exercise ingestion of at least 40 g of casein protein, approximately 30 minutes before sleep and after a bout of resistance exercise in the evening, might be an effective nutritional intervention to facilitate muscle recovery.",
+            "year": 2020,
+            "citation_count": 10,
+            "relevance": 2,
+            "explanation": "This review paper focuses on the effects of pre-sleep casein protein ingestion on post-exercise recovery, which is closely related to the source paper's topic. The review mentions the benefits of pre-sleep casein protein intake, including increased plasma amino acid availability during sleep and improved muscle recovery. The review's findings are partially dependent on the source paper's results, which investigated the effects of pre-sleep casein and whey protein consumption on morning metabolism and resistance exercise performance."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. 4R Nutrition Strategies for Optimized Recovery of Elite Soccer Players": {
+                    "explanation": "This paper has no direct connection to the source paper. It discusses nutrition strategies for optimized recovery of soccer players, which is a different context from the source paper's focus on pre-sleep casein protein ingestion for post-exercise recovery.",
+                    "relevance": 0
+                },
+                "2. Increasing Muscle Mass in Elders through Diet and Exercise: A Literature Review of Recent RCTs": {
+                    "explanation": "Although this paper is a literature review and does not directly build upon the source paper, it discusses the importance of protein intake for muscle protein synthesis, which is related to the source paper's findings on pre-sleep casein protein ingestion. However, the context and focus are different, making it not directly dependent on the source paper's findings.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Increasing Muscle Mass in Elders through Diet and Exercise: A Literature Review of Recent RCTs": {
+                    "explanation": "Although this paper is a literature review and does not directly build upon the source paper, it discusses the importance of protein intake for muscle protein synthesis, which is related to the source paper's findings on pre-sleep casein protein ingestion. However, the context and focus are different, making it not directly dependent on the source paper's findings.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2024,
+        "source_paper": {
+            "paperId": "38fe913f7f5e28a20b03a3fd8dcab1aa1baf5e68",
+            "title": "Increasing Muscle Mass in Elders through Diet and Exercise: A Literature Review of Recent RCTs",
+            "abstract": "This study aimed to review the current evidence on the independent and combined effects of diet and exercise and their impact on skeletal muscle mass in the elderly population. Skeletal muscle makes up approximately 40% of total body weight and is essential for performing daily activities. The combination of exercise and diet is known to be a potent anabolic stimulus through stimulation of muscle protein synthesis from amino acids. Aging is strongly associated with a generalized deterioration of physiological function, including a progressive reduction in skeletal muscle mass and strength, which in turn leads to a gradual functional impairment and an increased rate of disability resulting in falls, frailty, or even death. The term sarcopenia, which is an age-related syndrome, is primarily used to describe the gradual and generalized loss of skeletal muscle mass (mainly in type II muscle fibers) and function. Multimodal training is emerging as a popular training method that combines a wide range of physical dimensions. On the other hand, nutrition and especially protein intake provide amino acids, which are essential for muscle protein synthesis. According to ESPEN, protein intake in older people should be at least 1 g/kgbw/day. Essential amino acids, such as leucine, arginine, cysteine, and glutamine, are of particular importance for the regulation of muscle protein synthesis. For instance, a leucine intake of 3 g administered alongside each main meal has been suggested to prevent muscle loss in the elderly. In addition, studies have shown that vitamin D and other micronutrients can have a protective role and may modulate muscle growth; nevertheless, further research is needed to validate these claims. Resistance-based exercise combined with a higher intake of dietary protein, amino acids, and/or vitamin D are currently recognized as the most effective interventions to promote skeletal muscle growth. However, the results are quite controversial and contradictory, which could be explained by the high heterogeneity among studies. It is therefore necessary to further assess the impact of each individual exercise and nutritional approach, particularly protein and amino acids, on human muscle turnover so that more efficient strategies can be implemented for the augmentation of muscle mass in the elderly.",
+            "year": 2023,
+            "citation_count": 18,
+            "relevance": 1,
+            "explanation": "Although this paper is a literature review and does not directly build upon the source paper, it discusses the importance of protein intake for muscle protein synthesis, which is related to the source paper's findings on pre-sleep casein protein ingestion. However, the context and focus are different, making it not directly dependent on the source paper's findings."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Mediterranean Diet-Based Sustainable Healthy Diet and Multicomponent Training Combined Intervention Effect on Body Composition, Anthropometry, and Physical Fitness in Healthy Aging": {
+                    "explanation": "The hypothesis in this paper is inspired by the hypothesis from the source paper, as it investigates the combined effects of diet and exercise on body composition and physical fitness in older adults, building on the source paper's results regarding the importance of diet and exercise for healthy aging.",
+                    "relevance": 1
+                },
+                "2. Effects of exercise with or without \u03b2-hydroxy-\u03b2-methylbutyrate supplementation on muscle mass, muscle strength, and physical performance in patients with sarcopenia: a systematic review and meta-analysis": {
+                    "explanation": "This paper is a systematic review and meta-analysis, which does not directly build upon the source paper's findings, but rather provides a comprehensive overview of the current evidence on exercise and supplementation for sarcopenia.",
+                    "relevance": 0
+                },
+                "3. Whey Protein Supplementation in Older Adults With Type 2 Diabetes Undergoing a Resistance Training Program: A Double-Blind Randomized Controlled Trial": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the effects of whey protein supplementation on muscle strength and body composition in older adults with type 2 diabetes, building on the source paper's results regarding the importance of protein intake for muscle growth.",
+                    "relevance": 2
+                },
+                "4. Sex differences in reduction of trunk muscle mass related to falls and cognitive function during the COVID\u201019 pandemic in older adults": {
+                    "explanation": "This paper does not directly build upon the source paper's findings, but rather explores the relationship between muscle mass and cognitive function in older adults during the COVID-19 pandemic.",
+                    "relevance": 0
+                },
+                "5. Open, Active-Controlled Clinical Study to Evaluate the Correlation between Whole Body DEXA and BIA Muscle Measurements": {
+                    "explanation": "This paper is a methodological study that evaluates the correlation between different measurement techniques for muscle mass, and does not directly build upon the source paper's findings.",
+                    "relevance": 0
+                },
+                "6. Position paper on essential strategies for healthy aging: focus on preventing sarcopenia and cardiovascular diseases from the 38th National Congress of the Italian Society of Geriatrics Hospital and Territory (SIGOT)": {
+                    "explanation": "This paper is a position paper that provides an overview of strategies for healthy aging, including the prevention of sarcopenia and cardiovascular diseases, but does not directly build upon the source paper's findings.",
+                    "relevance": 0
+                },
+                "7. Physical Performance, Body Composition, and Oral Health in Community-Residing Older Adults: A Cross-Sectional Study": {
+                    "explanation": "This paper explores the relationship between physical performance, body composition, and oral health in older adults, but does not directly build upon the source paper's findings.",
+                    "relevance": 0
+                },
+                "8. Impact of an oral nutritional supplement on the body composition of older adults with or at risk of malnutrition in an institutionalised setting: A randomised controlled trial": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the effects of an oral nutritional supplement on body composition in older adults, building on the source paper's results regarding the importance of nutrition for muscle growth.",
+                    "relevance": 2
+                },
+                "9. Non-Pharmacological Strategies for Managing Sarcopenia in Chronic Diseases": {
+                    "explanation": "The hypothesis in this paper is inspired by the hypothesis from the source paper, as it provides an overview of non-pharmacological strategies for managing sarcopenia, including exercise and nutrition, building on the source paper's results regarding the importance of diet and exercise for healthy aging.",
+                    "relevance": 1
+                },
+                "10. Diagnostic Criteria and Measurement Techniques of Sarcopenia: A Critical Evaluation of the Up-to-Date Evidence": {
+                    "explanation": "This paper is a review that provides an overview of diagnostic criteria and measurement techniques for sarcopenia, but does not directly build upon the source paper's findings.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Whey Protein Supplementation in Older Adults With Type 2 Diabetes Undergoing a Resistance Training Program: A Double-Blind Randomized Controlled Trial": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the effects of whey protein supplementation on muscle strength and body composition in older adults with type 2 diabetes, building on the source paper's results regarding the importance of protein intake for muscle growth.",
+                    "relevance": 2
+                },
+                "2. Impact of an oral nutritional supplement on the body composition of older adults with or at risk of malnutrition in an institutionalised setting: A randomised controlled trial": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the effects of an oral nutritional supplement on body composition in older adults, building on the source paper's results regarding the importance of nutrition for muscle growth.",
+                    "relevance": 2
+                },
+                "3. Non-Pharmacological Strategies for Managing Sarcopenia in Chronic Diseases": {
+                    "explanation": "The hypothesis in this paper is inspired by the hypothesis from the source paper, as it provides an overview of non-pharmacological strategies for managing sarcopenia, including exercise and nutrition, building on the source paper's results regarding the importance of diet and exercise for healthy aging.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2024,
+        "source_paper": {
+            "paperId": "38fe913f7f5e28a20b03a3fd8dcab1aa1baf5e68",
+            "title": "Increasing Muscle Mass in Elders through Diet and Exercise: A Literature Review of Recent RCTs",
+            "abstract": "This study aimed to review the current evidence on the independent and combined effects of diet and exercise and their impact on skeletal muscle mass in the elderly population. Skeletal muscle makes up approximately 40% of total body weight and is essential for performing daily activities. The combination of exercise and diet is known to be a potent anabolic stimulus through stimulation of muscle protein synthesis from amino acids. Aging is strongly associated with a generalized deterioration of physiological function, including a progressive reduction in skeletal muscle mass and strength, which in turn leads to a gradual functional impairment and an increased rate of disability resulting in falls, frailty, or even death. The term sarcopenia, which is an age-related syndrome, is primarily used to describe the gradual and generalized loss of skeletal muscle mass (mainly in type II muscle fibers) and function. Multimodal training is emerging as a popular training method that combines a wide range of physical dimensions. On the other hand, nutrition and especially protein intake provide amino acids, which are essential for muscle protein synthesis. According to ESPEN, protein intake in older people should be at least 1 g/kgbw/day. Essential amino acids, such as leucine, arginine, cysteine, and glutamine, are of particular importance for the regulation of muscle protein synthesis. For instance, a leucine intake of 3 g administered alongside each main meal has been suggested to prevent muscle loss in the elderly. In addition, studies have shown that vitamin D and other micronutrients can have a protective role and may modulate muscle growth; nevertheless, further research is needed to validate these claims. Resistance-based exercise combined with a higher intake of dietary protein, amino acids, and/or vitamin D are currently recognized as the most effective interventions to promote skeletal muscle growth. However, the results are quite controversial and contradictory, which could be explained by the high heterogeneity among studies. It is therefore necessary to further assess the impact of each individual exercise and nutritional approach, particularly protein and amino acids, on human muscle turnover so that more efficient strategies can be implemented for the augmentation of muscle mass in the elderly.",
+            "year": 2023,
+            "citation_count": 18,
+            "relevance": 1,
+            "explanation": "Although this paper is a literature review and does not directly build upon the source paper, it discusses the importance of protein intake for muscle protein synthesis, which is related to the source paper's findings on pre-sleep casein protein ingestion. However, the context and focus are different, making it not directly dependent on the source paper's findings."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. The Benefits of Processed Purple Sweet Potato (Ipomoea batatas L. poir) in Increasing Nutritional Intake": {
+                    "explanation": "This paper is a review of the nutritional benefits of processed purple sweet potatoes, but it does not directly build upon or utilize the findings of the source paper regarding muscle mass increase in elders through diet and exercise. It is a separate topic, and thus, the relevance score is 0.",
+                    "relevance": 0
+                },
+                "2. Low protein intake is associated with mortality in Brazilian older adults": {
+                    "explanation": "This paper investigates the association between low protein intake and mortality in older adults, which is partially dependent on the findings of the source paper. The source paper highlights the importance of protein intake in muscle growth and maintenance in the elderly population. This paper uses the concept of protein intake as a sub-hypothesis to explore its relationship with mortality. Therefore, the relevance score is 2.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Low protein intake is associated with mortality in Brazilian older adults": {
+                    "explanation": "This paper investigates the association between low protein intake and mortality in older adults, which is partially dependent on the findings of the source paper. The source paper highlights the importance of protein intake in muscle growth and maintenance in the elderly population. This paper uses the concept of protein intake as a sub-hypothesis to explore its relationship with mortality. Therefore, the relevance score is 2.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    }
+]

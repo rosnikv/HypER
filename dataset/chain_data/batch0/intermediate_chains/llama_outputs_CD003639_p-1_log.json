@@ -1,0 +1,111 @@
+[
+    {
+        "year": 2005,
+        "source_paper": {
+            "paperId": "558c0abbdbc427e1667d2ecccd2546e28c33a4af",
+            "pmid": "3282895",
+            "title": "Effectiveness of acarbose, an alpha-glucosidase inhibitor, in uncontrolled non-obese non-insulin dependent diabetes",
+            "abstract": null,
+            "year": 2004,
+            "citation_count": 12
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Alpha-glucosidase inhibitors for type 2 diabetes mellitus.": {
+                    "explanation": "This paper is a systematic review and meta-analysis of alpha-glucosidase inhibitors, including acarbose, which was investigated in the source paper. However, as a review paper, it does not present a novel hypothesis or findings that directly build upon the source paper.",
+                    "relevance": 0
+                },
+                "2. Alpha-glucosidase inhibitors for patients with type 2 diabetes: results from a Cochrane systematic review and meta-analysis.": {
+                    "explanation": "This paper is also a systematic review and meta-analysis, similar to the first paper. It does not present a novel hypothesis or findings that directly build upon the source paper, but rather summarizes existing literature on alpha-glucosidase inhibitors.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2014,
+        "source_paper": {
+            "paperId": "558c0abbdbc427e1667d2ecccd2546e28c33a4af",
+            "pmid": "3282895",
+            "title": "Effectiveness of acarbose, an alpha-glucosidase inhibitor, in uncontrolled non-obese non-insulin dependent diabetes",
+            "abstract": null,
+            "year": 2004,
+            "citation_count": 12
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Acarbose monotherapy and weight loss in Eastern and Western populations with hyperglycaemia: an ethnicity\u2010specific meta\u2010analysis": {
+                    "explanation": "This paper is a meta-analysis, which is a type of review paper that summarizes existing literature. Although it focuses on acarbose, the same medication as the source paper, it does not build upon or depend on the findings of the source paper. Instead, it provides a broader overview of the topic.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2014,
+        "source_paper": {
+            "paperId": "558c0abbdbc427e1667d2ecccd2546e28c33a4af",
+            "pmid": "3282895",
+            "title": "Effectiveness of acarbose, an alpha-glucosidase inhibitor, in uncontrolled non-obese non-insulin dependent diabetes",
+            "abstract": null,
+            "year": 2004,
+            "citation_count": 12
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Acarbose monotherapy and weight loss in Eastern and Western populations with hyperglycaemia: an ethnicity\u2010specific meta\u2010analysis": {
+                    "explanation": "This paper is a meta-analysis that investigates the effectiveness of acarbose in weight loss across different ethnic populations. Although it does not directly build upon or use the findings of the source paper as a sub-hypothesis, it does explore the effects of acarbose, which is the same medication studied in the source paper. However, since it is a meta-analysis, it does not present novel findings or hypotheses, but rather summarizes existing literature.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2015,
+        "source_paper": {
+            "paperId": "558c0abbdbc427e1667d2ecccd2546e28c33a4af",
+            "pmid": "3282895",
+            "title": "Effectiveness of acarbose, an alpha-glucosidase inhibitor, in uncontrolled non-obese non-insulin dependent diabetes",
+            "abstract": null,
+            "year": 2004,
+            "citation_count": 12
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Comparison of Glucose Lowering Effect of Metformin and Acarbose in Type 2 Diabetes Mellitus: A Meta-Analysis": {
+                    "explanation": "This paper is a review paper (meta-analysis) comparing the glucose lowering effects of metformin and acarbose. Although it mentions acarbose, which is the drug investigated in the source paper, it does not build upon or depend on the findings of the source paper. Instead, it provides a comprehensive overview of existing literature.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2015,
+        "source_paper": {
+            "paperId": "558c0abbdbc427e1667d2ecccd2546e28c33a4af",
+            "pmid": "3282895",
+            "title": "Effectiveness of acarbose, an alpha-glucosidase inhibitor, in uncontrolled non-obese non-insulin dependent diabetes",
+            "abstract": null,
+            "year": 2004,
+            "citation_count": 12
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Comparison of Glucose Lowering Effect of Metformin and Acarbose in Type 2 Diabetes Mellitus: A Meta-Analysis": {
+                    "explanation": "This paper is a meta-analysis comparing the glucose-lowering effects of metformin and acarbose. Although it discusses acarbose, which is also the subject of the source paper, it does not build upon or use the source paper's findings as a sub-hypothesis. Instead, it provides a general comparison between metformin and acarbose.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    }
+]

@@ -1,0 +1,631 @@
+[
+    {
+        "year": 2002,
+        "source_paper": {
+            "paperId": "95e45d435e96c89425f64f8b82ef856e3dce5e5d",
+            "pmid": "11352967",
+            "title": "Randomized trial of black cohosh for the treatment of hot flashes among women with a history of breast cancer.",
+            "abstract": "PURPOSE\nMost breast cancer survivors experience hot flashes; many use complementary or alternative remedies for these symptoms. We undertook a randomized clinical trial of black cohosh, a widely used herbal remedy for menopausal symptoms, among breast cancer patients.\n\n\nPATIENTS AND METHODS\nPatients diagnosed with breast cancer who had completed their primary treatment were randomly assigned to black cohosh or placebo, stratified on tamoxifen use. At enrollment, patients completed a questionnaire about demographic factors and menopausal symptoms. Before starting to take the pills and at 30 and 60 days, they completed a 4-day hot flash diary. At the final visit, they completed another menopausal symptom questionnaire. Follicle-stimulating hormone (FSH) and luteinizing hormone (LH) levels were measured in a subset of patients at the first and final visits.\n\n\nRESULTS\nOf 85 patients (59 on tamoxifen, 26 not on tamoxifen) enrolled in the study, 42 were assigned to treatment and 43 were assigned to placebo; 69 completed all three hot flash diaries. Both treatment and placebo groups reported declines in number and intensity of hot flashes; the differences between the groups were not statistically significant. Both groups also reported improvements in menopausal symptoms that were, for the most part, not significantly different. Changes in blood levels of FSH and LH also did not differ in the two groups.\n\n\nCONCLUSION\nBlack cohosh was not significantly more efficacious than placebo against most menopausal symptoms, including number and intensity of hot flashes. Our study illustrates the feasibility and value of standard clinical trial methodology in assessing the efficacy and safety of herbal agents.",
+            "year": 2001,
+            "citation_count": 353
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Complementary and Alternative Medicine for Menopausal Symptoms: A Review of Randomized, Controlled Trials": {
+                    "explanation": "This is a review paper that summarizes existing literature on complementary and alternative medicine for menopausal symptoms, including black cohosh, which is the focus of the source paper. However, it does not build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "2. Black cohosh: an alternative therapy for menopause?": {
+                    "explanation": "This paper discusses the use of black cohosh as an alternative therapy for menopause, which is also the focus of the source paper. However, it does not specifically build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "3. Pathophysiology and treatment of hot flashes": {
+                    "explanation": "This paper discusses the pathophysiology and treatment of hot flashes, which is a symptom that the source paper investigated in the context of black cohosh treatment. However, it does not specifically build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "4. Systemic therapy": {
+                    "explanation": "This paper discusses systemic therapy for breast cancer, which is not directly related to the source paper's focus on black cohosh for menopausal symptoms.",
+                    "relevance": 0
+                },
+                "5. Treatment for hot flushes in women receiving tamoxifen": {
+                    "explanation": "This paper discusses treatment options for hot flashes in women receiving tamoxifen, which is a population that the source paper investigated in the context of black cohosh treatment. The paper's findings are partially dependent on the source paper's results regarding black cohosh's efficacy for hot flashes in breast cancer survivors.",
+                    "relevance": 2
+                },
+                "6. Lack of promotion of estrogen-dependent mammary gland tumors in vivo by an isopropanolic Cimicifuga racemosa extract": {
+                    "explanation": "This paper investigates the safety of black cohosh extract in an animal model, which is relevant to the source paper's focus on black cohosh for menopausal symptoms. However, it does not specifically build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "7. Herbalism and the menopause": {
+                    "explanation": "This paper discusses the use of herbal medicines, including black cohosh, for menopausal symptoms. However, it does not specifically build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "8. Use of alternative therapies in menopause": {
+                    "explanation": "This paper discusses the use of alternative therapies, including phytoestrogens and herbal therapies, for menopausal symptoms. However, it does not specifically build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "9. Effect of Soy Phytoestrogens on Hot Flashes in Postmenopausal Women With Breast Cancer: A Randomized, Controlled Clinical Trial": {
+                    "explanation": "This paper investigates the effect of soy phytoestrogens on hot flashes in postmenopausal women with breast cancer, which is a population that the source paper investigated in the context of black cohosh treatment. However, it does not specifically build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "10. Physiological investigation of a unique extract of black cohosh (Cimicifugae racemosae rhizoma): a 6-month clinical study demonstrates no systemic estrogenic effect": {
+                    "explanation": "This paper investigates the physiological effects of a unique black cohosh extract, which is relevant to the source paper's focus on black cohosh for menopausal symptoms. However, it does not specifically build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Treatment for hot flushes in women receiving tamoxifen": {
+                    "explanation": "This paper discusses treatment options for hot flashes in women receiving tamoxifen, which is a population that the source paper investigated in the context of black cohosh treatment. The paper's findings are partially dependent on the source paper's results regarding black cohosh's efficacy for hot flashes in breast cancer survivors.",
+                    "relevance": 2
+                },
+                "2. Black cohosh: an alternative therapy for menopause?": {
+                    "explanation": "This paper discusses the use of black cohosh as an alternative therapy for menopause, which is also the focus of the source paper. However, it does not specifically build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "3. Pathophysiology and treatment of hot flashes": {
+                    "explanation": "This paper discusses the pathophysiology and treatment of hot flashes, which is a symptom that the source paper investigated in the context of black cohosh treatment. However, it does not specifically build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2002,
+        "source_paper": {
+            "paperId": "95e45d435e96c89425f64f8b82ef856e3dce5e5d",
+            "pmid": "11352967",
+            "title": "Randomized trial of black cohosh for the treatment of hot flashes among women with a history of breast cancer.",
+            "abstract": "PURPOSE\nMost breast cancer survivors experience hot flashes; many use complementary or alternative remedies for these symptoms. We undertook a randomized clinical trial of black cohosh, a widely used herbal remedy for menopausal symptoms, among breast cancer patients.\n\n\nPATIENTS AND METHODS\nPatients diagnosed with breast cancer who had completed their primary treatment were randomly assigned to black cohosh or placebo, stratified on tamoxifen use. At enrollment, patients completed a questionnaire about demographic factors and menopausal symptoms. Before starting to take the pills and at 30 and 60 days, they completed a 4-day hot flash diary. At the final visit, they completed another menopausal symptom questionnaire. Follicle-stimulating hormone (FSH) and luteinizing hormone (LH) levels were measured in a subset of patients at the first and final visits.\n\n\nRESULTS\nOf 85 patients (59 on tamoxifen, 26 not on tamoxifen) enrolled in the study, 42 were assigned to treatment and 43 were assigned to placebo; 69 completed all three hot flash diaries. Both treatment and placebo groups reported declines in number and intensity of hot flashes; the differences between the groups were not statistically significant. Both groups also reported improvements in menopausal symptoms that were, for the most part, not significantly different. Changes in blood levels of FSH and LH also did not differ in the two groups.\n\n\nCONCLUSION\nBlack cohosh was not significantly more efficacious than placebo against most menopausal symptoms, including number and intensity of hot flashes. Our study illustrates the feasibility and value of standard clinical trial methodology in assessing the efficacy and safety of herbal agents.",
+            "year": 2001,
+            "citation_count": 353
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Estrogenic activity of herbs commonly used as remedies for menopausal symptoms": {
+                    "explanation": "This paper investigates the estrogenic activity of black cohosh, which is the herbal remedy studied in the source paper. However, it does not build upon or depend on the findings of the source paper, but rather explores a different aspect of black cohosh.",
+                    "relevance": 1
+                },
+                "2. Alternative Medicine and Nephrology\u2028Series Editor: Naomi V. Dahl: Herbs, Menopause, and Dialysis": {
+                    "explanation": "This paper reviews the safety and efficacy of various herbal medicines, including black cohosh, but it does not specifically build upon or depend on the findings of the source paper. It is more of a general review.",
+                    "relevance": 0
+                },
+                "3. Management of Hot Flushes in Breast Cancer Patients": {
+                    "explanation": "This paper reviews strategies for managing hot flashes in breast cancer patients, which is the population studied in the source paper. However, it does not specifically mention or build upon the findings of the source paper.",
+                    "relevance": 0
+                },
+                "4. Effect of soy phytoestrogens on hot flashes in postmenopausal women with breast cancer: a randomized, controlled clinical trial.": {
+                    "explanation": "This paper investigates the effectiveness of a soy beverage in alleviating hot flashes in postmenopausal women with breast cancer. While it shares a similar population and outcome of interest with the source paper, it does not specifically build upon or depend on the findings of the source paper. However, it is partially dependent on the previous findings regarding the need for alternative treatments for hot flashes in breast cancer survivors.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Effect of soy phytoestrogens on hot flashes in postmenopausal women with breast cancer: a randomized, controlled clinical trial.": {
+                    "explanation": "This paper investigates the effectiveness of a soy beverage in alleviating hot flashes in postmenopausal women with breast cancer. While it shares a similar population and outcome of interest with the source paper, it does not specifically build upon or depend on the findings of the source paper. However, it is partially dependent on the previous findings regarding the need for alternative treatments for hot flashes in breast cancer survivors.",
+                    "relevance": 2
+                },
+                "2. Estrogenic activity of herbs commonly used as remedies for menopausal symptoms": {
+                    "explanation": "This paper investigates the estrogenic activity of black cohosh, which is the herbal remedy studied in the source paper. However, it does not build upon or depend on the findings of the source paper, but rather explores a different aspect of black cohosh.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2003,
+        "source_paper": {
+            "paperId": "95e45d435e96c89425f64f8b82ef856e3dce5e5d",
+            "pmid": "11352967",
+            "title": "Randomized trial of black cohosh for the treatment of hot flashes among women with a history of breast cancer.",
+            "abstract": "PURPOSE\nMost breast cancer survivors experience hot flashes; many use complementary or alternative remedies for these symptoms. We undertook a randomized clinical trial of black cohosh, a widely used herbal remedy for menopausal symptoms, among breast cancer patients.\n\n\nPATIENTS AND METHODS\nPatients diagnosed with breast cancer who had completed their primary treatment were randomly assigned to black cohosh or placebo, stratified on tamoxifen use. At enrollment, patients completed a questionnaire about demographic factors and menopausal symptoms. Before starting to take the pills and at 30 and 60 days, they completed a 4-day hot flash diary. At the final visit, they completed another menopausal symptom questionnaire. Follicle-stimulating hormone (FSH) and luteinizing hormone (LH) levels were measured in a subset of patients at the first and final visits.\n\n\nRESULTS\nOf 85 patients (59 on tamoxifen, 26 not on tamoxifen) enrolled in the study, 42 were assigned to treatment and 43 were assigned to placebo; 69 completed all three hot flash diaries. Both treatment and placebo groups reported declines in number and intensity of hot flashes; the differences between the groups were not statistically significant. Both groups also reported improvements in menopausal symptoms that were, for the most part, not significantly different. Changes in blood levels of FSH and LH also did not differ in the two groups.\n\n\nCONCLUSION\nBlack cohosh was not significantly more efficacious than placebo against most menopausal symptoms, including number and intensity of hot flashes. Our study illustrates the feasibility and value of standard clinical trial methodology in assessing the efficacy and safety of herbal agents.",
+            "year": 2001,
+            "citation_count": 353
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Herbal Medicine for Treating Menopausal Symptoms": {
+                    "explanation": "This paper is a review of herbal medicines for menopausal symptoms, including black cohosh, which was studied in the source paper. However, it does not build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "2. Estrogen deficiency symptom management in breast cancer survivors in the changing context of menopausal hormone therapy": {
+                    "explanation": "This paper discusses alternative treatments for hot flashes in breast cancer survivors, including non-hormonal pharmacologic and herbal interventions. While it does not directly build upon the source paper, it mentions the use of black cohosh as a herbal remedy, showing some connection to the source paper.",
+                    "relevance": 1
+                },
+                "3. Treating hot flashes in breast cancer survivors: a review of alternative treatments to hormone replacement therapy": {
+                    "explanation": "This paper reviews alternative treatments for hot flashes in breast cancer survivors, including herbal remedies. However, it does not specifically mention or build upon the findings of the source paper.",
+                    "relevance": 0
+                },
+                "4. Nutritional approaches to late toxicities of adjuvant chemotherapy in breast cancer survivors": {
+                    "explanation": "This paper discusses nutritional approaches to managing late toxicities of chemotherapy in breast cancer survivors, including the use of herbal remedies like black cohosh. It shows some connection to the source paper, but does not directly build upon or depend on its findings.",
+                    "relevance": 1
+                },
+                "5. A systematic review of herbal medicinal products for the treatment of menopausal symptoms": {
+                    "explanation": "This paper is a systematic review of herbal medicinal products, including black cohosh, for the treatment of menopausal symptoms. It mentions the source paper as part of the review, showing a direct connection.",
+                    "relevance": 2
+                },
+                "6. Lessons learned from the Women's Health Initiative Study": {
+                    "explanation": "This paper is a commentary on the Women's Health Initiative Study and does not mention the source paper or its findings.",
+                    "relevance": 0
+                },
+                "7. Phytoestrogens: potential benefits and implications for breast cancer survivors": {
+                    "explanation": "This paper discusses phytoestrogens, including those found in herbal remedies like black cohosh, and their potential benefits and implications for breast cancer survivors. It shows some connection to the source paper, but does not directly build upon or depend on its findings.",
+                    "relevance": 1
+                },
+                "8. Hot Flashes in Breast Cancer Survivors": {
+                    "explanation": "This paper reviews the management of hot flashes in breast cancer survivors, including non-hormonal pharmacologic and herbal interventions. However, it does not specifically mention or build upon the findings of the source paper.",
+                    "relevance": 0
+                },
+                "9. Hot flashes--a review of the literature on alternative and complementary treatment approaches": {
+                    "explanation": "This paper reviews alternative and complementary treatment approaches for hot flashes, including herbal remedies like black cohosh. However, it does not specifically mention or build upon the findings of the source paper.",
+                    "relevance": 0
+                },
+                "10. Critical evaluation of the safety of Cimicifuga racemosa in menopause symptom relief": {
+                    "explanation": "This paper evaluates the safety of Cimicifuga racemosa (black cohosh) for menopause symptom relief. It shows a direct connection to the source paper, as it discusses the safety of black cohosh, which was studied in the source paper.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. A systematic review of herbal medicinal products for the treatment of menopausal symptoms": {
+                    "explanation": "This paper is a systematic review of herbal medicinal products, including black cohosh, for the treatment of menopausal symptoms. It mentions the source paper as part of the review, showing a direct connection.",
+                    "relevance": 2
+                },
+                "2. Critical evaluation of the safety of Cimicifuga racemosa in menopause symptom relief": {
+                    "explanation": "This paper evaluates the safety of Cimicifuga racemosa (black cohosh) for menopause symptom relief. It shows a direct connection to the source paper, as it discusses the safety of black cohosh, which was studied in the source paper.",
+                    "relevance": 2
+                },
+                "3. Estrogen deficiency symptom management in breast cancer survivors in the changing context of menopausal hormone therapy": {
+                    "explanation": "This paper discusses alternative treatments for hot flashes in breast cancer survivors, including non-hormonal pharmacologic and herbal interventions. While it does not directly build upon the source paper, it mentions the use of black cohosh as a herbal remedy, showing some connection to the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2003,
+        "source_paper": {
+            "paperId": "95e45d435e96c89425f64f8b82ef856e3dce5e5d",
+            "pmid": "11352967",
+            "title": "Randomized trial of black cohosh for the treatment of hot flashes among women with a history of breast cancer.",
+            "abstract": "PURPOSE\nMost breast cancer survivors experience hot flashes; many use complementary or alternative remedies for these symptoms. We undertook a randomized clinical trial of black cohosh, a widely used herbal remedy for menopausal symptoms, among breast cancer patients.\n\n\nPATIENTS AND METHODS\nPatients diagnosed with breast cancer who had completed their primary treatment were randomly assigned to black cohosh or placebo, stratified on tamoxifen use. At enrollment, patients completed a questionnaire about demographic factors and menopausal symptoms. Before starting to take the pills and at 30 and 60 days, they completed a 4-day hot flash diary. At the final visit, they completed another menopausal symptom questionnaire. Follicle-stimulating hormone (FSH) and luteinizing hormone (LH) levels were measured in a subset of patients at the first and final visits.\n\n\nRESULTS\nOf 85 patients (59 on tamoxifen, 26 not on tamoxifen) enrolled in the study, 42 were assigned to treatment and 43 were assigned to placebo; 69 completed all three hot flash diaries. Both treatment and placebo groups reported declines in number and intensity of hot flashes; the differences between the groups were not statistically significant. Both groups also reported improvements in menopausal symptoms that were, for the most part, not significantly different. Changes in blood levels of FSH and LH also did not differ in the two groups.\n\n\nCONCLUSION\nBlack cohosh was not significantly more efficacious than placebo against most menopausal symptoms, including number and intensity of hot flashes. Our study illustrates the feasibility and value of standard clinical trial methodology in assessing the efficacy and safety of herbal agents.",
+            "year": 2001,
+            "citation_count": 353
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Phytoestrogens in Botanical Dietary Supplements: Implications for Cancer": {
+                    "explanation": "This paper discusses the implications of phytoestrogens, including black cohosh, on cancer, but it does not directly build upon or use the findings of the source paper as a sub-hypothesis. The paper is more focused on the general effects of phytoestrogens on cancer rather than the specific effects of black cohosh on hot flashes in breast cancer survivors.",
+                    "relevance": 0
+                },
+                "2. An integrative medicine approach to premenstrual syndrome": {
+                    "explanation": "This paper is a review of complementary and alternative medicine approaches for premenstrual syndrome, which is a different condition from hot flashes in breast cancer survivors. The paper does not mention black cohosh or build upon the findings of the source paper.",
+                    "relevance": 0
+                },
+                "3. Treating hot flushes without hormone replacement therapy": {
+                    "explanation": "This paper discusses alternative treatments for hot flashes, including plant-based alternatives, but it does not specifically mention black cohosh or build upon the findings of the source paper. The paper is more focused on general treatment options rather than the efficacy of black cohosh.",
+                    "relevance": 0
+                },
+                "4. A systematic review of the safety of black cohosh": {
+                    "explanation": "This paper reviews the safety of black cohosh, which is relevant to the source paper. However, the paper does not build upon the findings of the source paper or use them as a sub-hypothesis. The paper is more focused on the general safety of black cohosh rather than its efficacy for hot flashes in breast cancer survivors.",
+                    "relevance": 0
+                },
+                "5. Review of alternative therapies for treatment of menopausal symptoms": {
+                    "explanation": "This paper reviews alternative therapies for menopausal symptoms, including black cohosh, but it does not specifically mention the source paper or build upon its findings. The paper is more focused on general treatment options rather than the efficacy of black cohosh for hot flashes in breast cancer survivors.",
+                    "relevance": 0
+                },
+                "6. Comprehensive Menopausal Assessment: An Approach to Managing Vasomotor and Urogenital Symptoms in Breast Cancer Survivors": {
+                    "explanation": "This paper discusses a comprehensive approach to managing menopausal symptoms in breast cancer survivors, which is relevant to the source paper. However, the paper does not specifically mention black cohosh or build upon the findings of the source paper. The paper is more focused on general management strategies rather than the efficacy of black cohosh.",
+                    "relevance": 0
+                },
+                "7. New therapeutic approaches for hot flashes in women": {
+                    "explanation": "This paper discusses new therapeutic approaches for hot flashes, including non-hormonal treatments, but it does not specifically mention black cohosh or build upon the findings of the source paper. The paper is more focused on general treatment options rather than the efficacy of black cohosh for hot flashes in breast cancer survivors.",
+                    "relevance": 0
+                },
+                "8. Current status of selective estrogen receptor modulators (SERMs)": {
+                    "explanation": "This paper discusses the current status of selective estrogen receptor modulators (SERMs), which are a different class of compounds from black cohosh. The paper does not mention black cohosh or build upon the findings of the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2003,
+        "source_paper": {
+            "paperId": "cf540722d326745acff766f5351f6b59eace5cd9",
+            "title": "Effect of soy phytoestrogens on hot flashes in postmenopausal women with breast cancer: a randomized, controlled clinical trial.",
+            "abstract": "PURPOSE\nVasomotor symptoms, such as hot flashes and night sweats, in breast cancer survivors are often worsened by chemotherapy and tamoxifen, and/or the discontinuation of hormone replacement therapy at diagnosis. This study evaluated the acceptability and effectiveness of a soy beverage containing phytoestrogens as a treatment for hot flashes in postmenopausal women with breast cancer.\n\n\nMETHODS\nA randomized, placebo-controlled, double-blind clinical trial was conducted in postmenopausal women with moderate hot flashes who were previously treated for early-stage breast cancer. Women were stratified for tamoxifen use and randomized to a soy beverage (n = 59) containing 90 mg of isoflavones or to a placebo rice beverage (n = 64). Women recorded the number and severity of hot flashes daily with a daily menopause diary for 4 weeks at baseline and for 12 weeks while consuming 500 mL of a soy or placebo beverage.\n\n\nRESULTS\nThere were no significant differences between the soy and placebo groups in the number of hot flashes or hot flash scores. However, presumably because of a strong placebo effect, both groups had significant reductions in hot flashes. Mild gastrointestinal side effects were experienced by both groups but occurred with greater frequency and severity with soy. The mean serum genistein concentration at 6 weeks was significantly higher in women who consumed soy (0.61 +/- 0.43 micromol/L) compared with placebo (0.43 +/- 0.37 micromol/L) (P =.02). Overall acceptability and compliance were high and similar in both groups.\n\n\nCONCLUSION\nThe soy beverage did not alleviate hot flashes in women with breast cancer any more than did a placebo. Future research into other compounds is recommended to identify safe and effective therapies for hot flashes in breast cancer survivors.",
+            "year": 2002,
+            "citation_count": 208,
+            "relevance": 2,
+            "explanation": "This paper investigates the effectiveness of a soy beverage in alleviating hot flashes in postmenopausal women with breast cancer. While it shares a similar population and outcome of interest with the source paper, it does not specifically build upon or depend on the findings of the source paper. However, it is partially dependent on the previous findings regarding the need for alternative treatments for hot flashes in breast cancer survivors."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Phytoestrogen supplements for the treatment of hot flashes: the Isoflavone Clover Extract (ICE) Study: a randomized controlled trial": {
+                    "explanation": "This paper investigates the efficacy and safety of dietary supplements derived from red clover for hot flashes in menopausal women, which is related to the source paper's topic of phytoestrogens and hot flashes.",
+                    "relevance": 1
+                },
+                "2. Hot flashes--a review of the literature on alternative and complementary treatment approaches": {
+                    "explanation": "This paper is a review of the literature on alternative and complementary treatment approaches for hot flashes, including phytoestrogens, but does not present new findings or hypotheses related to the source paper.",
+                    "relevance": 0
+                },
+                "3. Phytoestrogens in Botanical Dietary Supplements: Implications for Cancer": {
+                    "explanation": "This paper discusses the implications of phytoestrogen intake for cancer, which is related to the source paper's topic of phytoestrogens and breast cancer, but does not present new findings or hypotheses that are directly dependent on the source paper.",
+                    "relevance": 1
+                },
+                "4. Cyclicity of breast tenderness and night-time vasomotor symptoms in mid-life women: information collected using the Daily Perimenopause Diary": {
+                    "explanation": "This paper investigates the cyclicity of breast tenderness and vasomotor symptoms in mid-life women, which is not directly related to the source paper's topic of phytoestrogens and hot flashes in postmenopausal women with breast cancer.",
+                    "relevance": 0
+                },
+                "5. Biochemical and Molecular Actions of Nutrients Proteins of White Lupin Seed, a Naturally Iso\ufb02avone-Poor Legume, Reduce Cholesterolemia in Rats and Increase LDL Receptor Activity in HepG2 Cells": {
+                    "explanation": "This paper investigates the biochemical and molecular actions of proteins from white lupin seed, which is not directly related to the source paper's topic of phytoestrogens and hot flashes in postmenopausal women with breast cancer.",
+                    "relevance": 0
+                },
+                "6. Current status of selective estrogen receptor modulators (SERMs)": {
+                    "explanation": "This paper discusses the current status of selective estrogen receptor modulators (SERMs), which is related to the source paper's topic of phytoestrogens and estrogen receptors, but does not present new findings or hypotheses that are directly dependent on the source paper.",
+                    "relevance": 1
+                },
+                "7. Using Simulated 2D 13 C NMR Nearest Neighbor Connectivity Spectral Data Patterns to Model a Diverse Set of Estrogens": {
+                    "explanation": "This paper presents a modeling method for predicting estrogen receptor binding affinities, which is related to the source paper's topic of phytoestrogens and estrogen receptors, but does not present new findings or hypotheses that are directly dependent on the source paper.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Phytoestrogen supplements for the treatment of hot flashes: the Isoflavone Clover Extract (ICE) Study: a randomized controlled trial": {
+                    "explanation": "This paper investigates the efficacy and safety of dietary supplements derived from red clover for hot flashes in menopausal women, which is related to the source paper's topic of phytoestrogens and hot flashes.",
+                    "relevance": 1
+                },
+                "2. Phytoestrogens in Botanical Dietary Supplements: Implications for Cancer": {
+                    "explanation": "This paper discusses the implications of phytoestrogen intake for cancer, which is related to the source paper's topic of phytoestrogens and breast cancer, but does not present new findings or hypotheses that are directly dependent on the source paper.",
+                    "relevance": 1
+                },
+                "3. Current status of selective estrogen receptor modulators (SERMs)": {
+                    "explanation": "This paper discusses the current status of selective estrogen receptor modulators (SERMs), which is related to the source paper's topic of phytoestrogens and estrogen receptors, but does not present new findings or hypotheses that are directly dependent on the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2004,
+        "source_paper": {
+            "paperId": "cf540722d326745acff766f5351f6b59eace5cd9",
+            "title": "Effect of soy phytoestrogens on hot flashes in postmenopausal women with breast cancer: a randomized, controlled clinical trial.",
+            "abstract": "PURPOSE\nVasomotor symptoms, such as hot flashes and night sweats, in breast cancer survivors are often worsened by chemotherapy and tamoxifen, and/or the discontinuation of hormone replacement therapy at diagnosis. This study evaluated the acceptability and effectiveness of a soy beverage containing phytoestrogens as a treatment for hot flashes in postmenopausal women with breast cancer.\n\n\nMETHODS\nA randomized, placebo-controlled, double-blind clinical trial was conducted in postmenopausal women with moderate hot flashes who were previously treated for early-stage breast cancer. Women were stratified for tamoxifen use and randomized to a soy beverage (n = 59) containing 90 mg of isoflavones or to a placebo rice beverage (n = 64). Women recorded the number and severity of hot flashes daily with a daily menopause diary for 4 weeks at baseline and for 12 weeks while consuming 500 mL of a soy or placebo beverage.\n\n\nRESULTS\nThere were no significant differences between the soy and placebo groups in the number of hot flashes or hot flash scores. However, presumably because of a strong placebo effect, both groups had significant reductions in hot flashes. Mild gastrointestinal side effects were experienced by both groups but occurred with greater frequency and severity with soy. The mean serum genistein concentration at 6 weeks was significantly higher in women who consumed soy (0.61 +/- 0.43 micromol/L) compared with placebo (0.43 +/- 0.37 micromol/L) (P =.02). Overall acceptability and compliance were high and similar in both groups.\n\n\nCONCLUSION\nThe soy beverage did not alleviate hot flashes in women with breast cancer any more than did a placebo. Future research into other compounds is recommended to identify safe and effective therapies for hot flashes in breast cancer survivors.",
+            "year": 2002,
+            "citation_count": 208,
+            "relevance": 2,
+            "explanation": "This paper investigates the effectiveness of a soy beverage in alleviating hot flashes in postmenopausal women with breast cancer. While it shares a similar population and outcome of interest with the source paper, it does not specifically build upon or depend on the findings of the source paper. However, it is partially dependent on the previous findings regarding the need for alternative treatments for hot flashes in breast cancer survivors."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Phytoestrogens for Treatment of Menopausal Symptoms: A Systematic Review": {
+                    "explanation": "This paper is a systematic review of phytoestrogens for menopausal symptoms, including hot flashes, which is the same topic as the source paper. However, it is a review paper and does not build upon the source paper's findings.",
+                    "relevance": 0
+                },
+                "2. Effects of genistein on hot flushes in early postmenopausal women: a randomized, double-blind EPT- and placebo-controlled study.": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effects of genistein, a type of phytoestrogen, on hot flashes in postmenopausal women, which is a related topic to the source paper's investigation of soy phytoestrogens.",
+                    "relevance": 1
+                },
+                "3. Red Clover Isoflavones in Practice: A Clinician's View": {
+                    "explanation": "This paper discusses the use of red clover isoflavones for menopausal symptoms, including hot flashes, which is a related topic to the source paper. However, it does not build upon the source paper's findings and appears to be a review or opinion piece.",
+                    "relevance": 0
+                },
+                "4. Review Dietary phytoestrogens and health": {
+                    "explanation": "This paper is a review of the health effects of dietary phytoestrogens, including their impact on menopausal symptoms. However, it is a broad review and does not specifically build upon the source paper's findings.",
+                    "relevance": 0
+                },
+                "5. POSTMENOPAUSAL WOMEN \u2013 Effects on Climacteric Symptoms, Reproductive Organs, and Markers of Bone and Vascular Health": {
+                    "explanation": "This paper appears to be a review or literature summary, and its topic is related to the source paper's investigation of menopausal symptoms. However, it does not build upon the source paper's findings.",
+                    "relevance": 0
+                },
+                "6. Treatment of menopause-associated vasomotor symptoms: position statement of The North American Menopause Society.": {
+                    "explanation": "This paper is a position statement on the treatment of menopause-associated vasomotor symptoms, which includes hot flashes. While it is related to the source paper's topic, it does not build upon the source paper's findings and appears to be a review or guideline document.",
+                    "relevance": 0
+                },
+                "7. Risks and benefits of soy isoflavones for breast cancer survivors.": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it discusses the risks and benefits of soy isoflavones for breast cancer survivors, which is a related topic to the source paper's investigation of soy phytoestrogens in postmenopausal women with breast cancer.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Risks and benefits of soy isoflavones for breast cancer survivors.": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it discusses the risks and benefits of soy isoflavones for breast cancer survivors, which is a related topic to the source paper's investigation of soy phytoestrogens in postmenopausal women with breast cancer.",
+                    "relevance": 2
+                },
+                "2. Effects of genistein on hot flushes in early postmenopausal women: a randomized, double-blind EPT- and placebo-controlled study.": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effects of genistein, a type of phytoestrogen, on hot flashes in postmenopausal women, which is a related topic to the source paper's investigation of soy phytoestrogens.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2007,
+        "source_paper": {
+            "paperId": "da58997af199b6020ca071f3f6532d3fe5295d79",
+            "title": "Risks and benefits of soy isoflavones for breast cancer survivors.",
+            "abstract": "PURPOSE/OBJECTIVES\nTo present state-of-the-art information about the risks and benefits of soy isoflavones for breast cancer survivors.\n\n\nDATA SOURCES\nPublished research articles, pertinent articles and books, and computerized databases.\n\n\nDATA SYNTHESIS\nSome epidemiologic data suggest that soy isoflavones play an important role in preventing breast cancer in Asian women and promoting women's health in a variety of ways. However, the use of soy isoflavones in women with breast cancer is controversial. Risks and benefits exist regarding the use of soy isoflavones by breast cancer survivors.\n\n\nCONCLUSIONS\nThe use of soy isoflavones to promote health in breast cancer survivors remains controversial because of scant scientific data.\n\n\nIMPLICATIONS FOR NURSING\nNurses should not only provide updated information to the public but also interpret research results carefully. More clinical trials need to be conducted on a longitudinal basis with the enrollment of breast cancer survivors.",
+            "year": 2004,
+            "citation_count": 9,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it discusses the risks and benefits of soy isoflavones for breast cancer survivors, which is a related topic to the source paper's investigation of soy phytoestrogens in postmenopausal women with breast cancer."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Content composition and antioxidant activity of isoflavones in commercial and homemade soymilk and tofu": {
+                    "explanation": "This paper investigates the composition and antioxidant activity of isoflavones in various soy products. Although it does not directly address the risks and benefits of soy isoflavones for breast cancer survivors, it provides information on the isoflavone content in different soy products, which could be relevant to understanding the potential health effects of soy isoflavones. However, the paper's focus on the composition and antioxidant activity of isoflavones in soy products makes it only partially dependent on the findings of the source paper.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Content composition and antioxidant activity of isoflavones in commercial and homemade soymilk and tofu": {
+                    "explanation": "This paper investigates the composition and antioxidant activity of isoflavones in various soy products. Although it does not directly address the risks and benefits of soy isoflavones for breast cancer survivors, it provides information on the isoflavone content in different soy products, which could be relevant to understanding the potential health effects of soy isoflavones.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2008,
+        "source_paper": {
+            "paperId": "84a196683cbf621cb8fe3b5da69b37194b02714d",
+            "title": "Content composition and antioxidant activity of isoflavones in commercial and homemade soymilk and tofu",
+            "abstract": "BACKGROUND: Isoflavones, found in soymilk and tofu, are one of the phytochemicals in soy-based products that may promote good health. Homemade tofu and various homemade soymilk samples were made using different soaking, grinding, and cooking methods. The homemade samples were compared to commercial tofu and soymilk for total isoflavone content and composition as well as their antioxidant capacity. All samples were freeze-dried and extracted with a 58% acetonitrile solution which was subsequently used to determine the isoflavone content by reverse-phase high-performance liquid chromatography. The antioxidant activity of extracts was determined using a modified 2,2-azino-bis-(3-ethylbenzthiazoline-6-sulfonic acid) method and total antioxidant capacity was reported as ascorbic acid equivalents. \n \n \n \nRESULTS: The total isoflavone, aglycone, and antioxidant levels were significantly higher in homemade soymilk and tofu (1571 \u00b5g) than in commercial samples. Homemade soymilk made by the extended boiling method yielded the highest total isoflavone (2567 \u00b5g) and glucoside (1525 \u00b5g) content. A strong positive correlation was observed between the total isoflavone, aglycone conjugates, and genistein series concentration and antioxidant capacity of soymilk. \n \n \n \nCONCLUSION: Increased moist heating time yielded the highest concentration of total isoflavones as well as aglycone conjugates and the genistein series. Increasing the duration of boiling can increase the isoflavone content of both homemade and commercial soymilk and tofu. Copyright \u00a9 2007 Society of Chemical Industry",
+            "year": 2007,
+            "citation_count": 22,
+            "relevance": 1,
+            "explanation": "This paper investigates the composition and antioxidant activity of isoflavones in various soy products. Although it does not directly address the risks and benefits of soy isoflavones for breast cancer survivors, it provides information on the isoflavone content in different soy products, which could be relevant to understanding the potential health effects of soy isoflavones."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Comparison of analytical methods for the quality control of a new formulation containing soy extract and melatonin": {
+                    "explanation": "This paper has no direct connection to the source paper. The source paper focuses on the content composition and antioxidant activity of isoflavones in commercial and homemade soymilk and tofu, whereas this paper discusses the quality control of a new formulation containing soy extract and melatonin. Although soy extract is mentioned, the context and purpose of the two papers are different.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2010,
+        "source_paper": {
+            "paperId": "84a196683cbf621cb8fe3b5da69b37194b02714d",
+            "title": "Content composition and antioxidant activity of isoflavones in commercial and homemade soymilk and tofu",
+            "abstract": "BACKGROUND: Isoflavones, found in soymilk and tofu, are one of the phytochemicals in soy-based products that may promote good health. Homemade tofu and various homemade soymilk samples were made using different soaking, grinding, and cooking methods. The homemade samples were compared to commercial tofu and soymilk for total isoflavone content and composition as well as their antioxidant capacity. All samples were freeze-dried and extracted with a 58% acetonitrile solution which was subsequently used to determine the isoflavone content by reverse-phase high-performance liquid chromatography. The antioxidant activity of extracts was determined using a modified 2,2-azino-bis-(3-ethylbenzthiazoline-6-sulfonic acid) method and total antioxidant capacity was reported as ascorbic acid equivalents. \n \n \n \nRESULTS: The total isoflavone, aglycone, and antioxidant levels were significantly higher in homemade soymilk and tofu (1571 \u00b5g) than in commercial samples. Homemade soymilk made by the extended boiling method yielded the highest total isoflavone (2567 \u00b5g) and glucoside (1525 \u00b5g) content. A strong positive correlation was observed between the total isoflavone, aglycone conjugates, and genistein series concentration and antioxidant capacity of soymilk. \n \n \n \nCONCLUSION: Increased moist heating time yielded the highest concentration of total isoflavones as well as aglycone conjugates and the genistein series. Increasing the duration of boiling can increase the isoflavone content of both homemade and commercial soymilk and tofu. Copyright \u00a9 2007 Society of Chemical Industry",
+            "year": 2007,
+            "citation_count": 22,
+            "relevance": 1,
+            "explanation": "This paper investigates the composition and antioxidant activity of isoflavones in various soy products. Although it does not directly address the risks and benefits of soy isoflavones for breast cancer survivors, it provides information on the isoflavone content in different soy products, which could be relevant to understanding the potential health effects of soy isoflavones."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Effects of the beta-glycosidase reaction on bio-conversion of isoflavones and quality during tofu processing": {
+                    "explanation": "This paper builds on the findings of the source paper regarding the isoflavone content and composition in soymilk and tofu. The hypothesis in this paper is partially dependent on the source paper's results, as it explores the effect of beta-glycosidase reaction on the bio-conversion of isoflavones in tofu processing, which is related to the source paper's discussion on the antioxidant activity of isoflavones.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Effects of the beta-glycosidase reaction on bio-conversion of isoflavones and quality during tofu processing": {
+                    "explanation": "This paper builds on the findings of the source paper regarding the isoflavone content and composition in soymilk and tofu. The hypothesis in this paper is partially dependent on the source paper's results, as it explores the effect of beta-glycosidase reaction on the bio-conversion of isoflavones in tofu processing, which is related to the source paper's discussion on the antioxidant activity of isoflavones.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2013,
+        "source_paper": {
+            "paperId": "659bf26c911a65c4c65417ce4f7c20d91333c749",
+            "title": "Effects of the beta-glycosidase reaction on bio-conversion of isoflavones and quality during tofu processing.",
+            "abstract": "BACKGROUND\nIsoflavones are the most common group of phytoestrogens which are present in significantly large amounts in soybean and soy products such as tofu. Isoflavones occur naturally in glycoside forms having lower bioavailability than their aglycone forms. beta-Glycosidase acts as a bio-catalyst for the conversion of isoflavone glycosides to isoflavone aglycones, raising the bioavailability of isoflavones; therefore, it can be used to improve the quality of tofu. We need to establish process conditions for the optimal outcome of the enzyme reaction in tofu.\n\n\nRESULTS\nBy using the beta-glycosidase (0.02% w/v) reaction at 55 degrees C for 30 min, a maximum 84.5% conversion of isoflavone glycoside to isoflavone aglycone was obtained. The enzyme reaction caused no significant effects on the sensory acceptability of soft tofu. The hardness of enzyme-treated hard tofu increased with the coagulant amount whereas prolonged heating resulted in decrease of hardness. Incorporation of enzyme reaction before the coagulation process during soft tofu processing provided a sufficient bio-conversion of isoflavones at optimal conditions.\n\n\nCONCLUSION\nbeta-Glycosidase can be effectively used for the bioconversion of isoflavones in soft tofu manufacturing process at optimal reaction conditions before the onset of coagulation process.",
+            "year": 2010,
+            "citation_count": 10,
+            "relevance": 2,
+            "explanation": "This paper builds on the findings of the source paper regarding the isoflavone content and composition in soymilk and tofu. The hypothesis in this paper is partially dependent on the source paper's results, as it explores the effect of beta-glycosidase reaction on the bio-conversion of isoflavones in tofu processing, which is related to the source paper's discussion on the antioxidant activity of isoflavones."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. A Systems-Pharmacology Analysis of Herbal Medicines Used in Health Improvement Treatment: Predicting Potential New Drugs and Targets": {
+                    "explanation": "This paper has no connection with the source paper, as it discusses the systems-pharmacology analysis of herbal medicines and their mechanisms of action, which is unrelated to the beta-glycosidase reaction and its effects on isoflavone bioavailability during tofu processing.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2013,
+        "source_paper": {
+            "paperId": "659bf26c911a65c4c65417ce4f7c20d91333c749",
+            "title": "Effects of the beta-glycosidase reaction on bio-conversion of isoflavones and quality during tofu processing.",
+            "abstract": "BACKGROUND\nIsoflavones are the most common group of phytoestrogens which are present in significantly large amounts in soybean and soy products such as tofu. Isoflavones occur naturally in glycoside forms having lower bioavailability than their aglycone forms. beta-Glycosidase acts as a bio-catalyst for the conversion of isoflavone glycosides to isoflavone aglycones, raising the bioavailability of isoflavones; therefore, it can be used to improve the quality of tofu. We need to establish process conditions for the optimal outcome of the enzyme reaction in tofu.\n\n\nRESULTS\nBy using the beta-glycosidase (0.02% w/v) reaction at 55 degrees C for 30 min, a maximum 84.5% conversion of isoflavone glycoside to isoflavone aglycone was obtained. The enzyme reaction caused no significant effects on the sensory acceptability of soft tofu. The hardness of enzyme-treated hard tofu increased with the coagulant amount whereas prolonged heating resulted in decrease of hardness. Incorporation of enzyme reaction before the coagulation process during soft tofu processing provided a sufficient bio-conversion of isoflavones at optimal conditions.\n\n\nCONCLUSION\nbeta-Glycosidase can be effectively used for the bioconversion of isoflavones in soft tofu manufacturing process at optimal reaction conditions before the onset of coagulation process.",
+            "year": 2010,
+            "citation_count": 10,
+            "relevance": 2,
+            "explanation": "This paper builds on the findings of the source paper regarding the isoflavone content and composition in soymilk and tofu. The hypothesis in this paper is partially dependent on the source paper's results, as it explores the effect of beta-glycosidase reaction on the bio-conversion of isoflavones in tofu processing, which is related to the source paper's discussion on the antioxidant activity of isoflavones."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. A Systems-Pharmacology Analysis of Herbal Medicines Used in Health Improvement Treatment: Predicting Potential New Drugs and Targets": {
+                    "explanation": "This paper is unrelated to the source paper as it discusses the use of tonic herbs in health improvement treatment and does not mention isoflavones or the beta-glycosidase reaction. The paper's focus on systems-pharmacology analysis of herbal medicines is distinct from the source paper's investigation of the beta-glycosidase reaction on bio-conversion of isoflavones during tofu processing.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2015,
+        "source_paper": {
+            "paperId": "659bf26c911a65c4c65417ce4f7c20d91333c749",
+            "title": "Effects of the beta-glycosidase reaction on bio-conversion of isoflavones and quality during tofu processing.",
+            "abstract": "BACKGROUND\nIsoflavones are the most common group of phytoestrogens which are present in significantly large amounts in soybean and soy products such as tofu. Isoflavones occur naturally in glycoside forms having lower bioavailability than their aglycone forms. beta-Glycosidase acts as a bio-catalyst for the conversion of isoflavone glycosides to isoflavone aglycones, raising the bioavailability of isoflavones; therefore, it can be used to improve the quality of tofu. We need to establish process conditions for the optimal outcome of the enzyme reaction in tofu.\n\n\nRESULTS\nBy using the beta-glycosidase (0.02% w/v) reaction at 55 degrees C for 30 min, a maximum 84.5% conversion of isoflavone glycoside to isoflavone aglycone was obtained. The enzyme reaction caused no significant effects on the sensory acceptability of soft tofu. The hardness of enzyme-treated hard tofu increased with the coagulant amount whereas prolonged heating resulted in decrease of hardness. Incorporation of enzyme reaction before the coagulation process during soft tofu processing provided a sufficient bio-conversion of isoflavones at optimal conditions.\n\n\nCONCLUSION\nbeta-Glycosidase can be effectively used for the bioconversion of isoflavones in soft tofu manufacturing process at optimal reaction conditions before the onset of coagulation process.",
+            "year": 2010,
+            "citation_count": 10,
+            "relevance": 2,
+            "explanation": "This paper builds on the findings of the source paper regarding the isoflavone content and composition in soymilk and tofu. The hypothesis in this paper is partially dependent on the source paper's results, as it explores the effect of beta-glycosidase reaction on the bio-conversion of isoflavones in tofu processing, which is related to the source paper's discussion on the antioxidant activity of isoflavones."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Enhanced Estrogenic Activity of Soybean Isoflavones by Coadministration of Liuwei Dihuang Pills in Ovariectomized Rats": {
+                    "explanation": "The paper explores the enhanced estrogenic activity of soybean isoflavones when co-administered with Liuwei Dihuang pills, which involves the conversion of isoflavone glycosides to aglycones by intestinal \u03b2-glucosidase. This is partially dependent on the source paper's findings on the bio-conversion of isoflavones using beta-glycosidase, thus using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Enhanced Estrogenic Activity of Soybean Isoflavones by Coadministration of Liuwei Dihuang Pills in Ovariectomized Rats": {
+                    "explanation": "The paper explores the enhanced estrogenic activity of soybean isoflavones when co-administered with Liuwei Dihuang pills, which involves the conversion of isoflavone glycosides to aglycones by intestinal \u03b2-glucosidase. This is partially dependent on the source paper's findings on the bio-conversion of isoflavones using beta-glycosidase, thus using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2018,
+        "source_paper": {
+            "paperId": "b807bbe72572c1bd3f82e37b9265feced03f82a1",
+            "title": "Enhanced Estrogenic Activity of Soybean Isoflavones by Coadministration of Liuwei Dihuang Pills in Ovariectomized Rats",
+            "abstract": "Soybean isoflavones are beneficial for treating hormone\u2010related diseases. Simultaneous consumption of soybean isoflavones and Liuwei Dihuang pills (LWPs) is effective for treating perimenopausal period syndrome. However, why the combination of isoflavones and LWPs is more effective than ingestion of each component alone remains unknown. Here, we show that enhanced estrogenic activities would appear when the ovariectomized rats were fed with a soybean diet in combination of LWPs treatment. Our further studies explored enhancements of Lactobacillus (19\u2010fold) and Bifidobacterium (12\u2010fold) contents in the intestine of rat and 1.84\u2010fold higher intestinal \u03b2\u2010glucosidase activity in LWPs treatment group compared with the control group. As a result, steady\u2010state concentrations of genistein (1.20\u2010fold), daidzein (1.36\u2010fold), and equol (1.43\u2010fold) in serum were significantly elevated in the combination group compared with the soybean alone group. The results present the first evidence of the mechanism of enhanced estrogenic activity of dietary soybean isoflavones in combination with LWPs. Our study indicates that alterations of gut bacteria after LWPs treatment play a key role in the enhanced estrogenic effect of dietary soybean, suggesting a direct relationship between dietary soybean, LWPs, and gut flora. Copyright \u00a9 2015 John Wiley & Sons, Ltd.",
+            "year": 2015,
+            "citation_count": 8,
+            "relevance": 2,
+            "explanation": "The paper explores the enhanced estrogenic activity of soybean isoflavones when co-administered with Liuwei Dihuang pills, which involves the conversion of isoflavone glycosides to aglycones by intestinal \u03b2-glucosidase. This is partially dependent on the source paper's findings on the bio-conversion of isoflavones using beta-glycosidase, thus using the source paper's findings as a sub-hypothesis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Chinese herbal formulas for postmenopausal osteoporosis: A review of preclinical evidence on animal studies and molecular mechanism": {
+                    "explanation": "This paper is a review paper, and it does not have a direct connection with the source paper. Although it mentions Liuwei Dihuang Wan, which is related to the source paper's Liuwei Dihuang Pills, it does not build upon or use the source paper's findings as a sub-hypothesis. Instead, it provides a general overview of Chinese herbal formulas for postmenopausal osteoporosis.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2018,
+        "source_paper": {
+            "paperId": "b807bbe72572c1bd3f82e37b9265feced03f82a1",
+            "title": "Enhanced Estrogenic Activity of Soybean Isoflavones by Coadministration of Liuwei Dihuang Pills in Ovariectomized Rats",
+            "abstract": "Soybean isoflavones are beneficial for treating hormone\u2010related diseases. Simultaneous consumption of soybean isoflavones and Liuwei Dihuang pills (LWPs) is effective for treating perimenopausal period syndrome. However, why the combination of isoflavones and LWPs is more effective than ingestion of each component alone remains unknown. Here, we show that enhanced estrogenic activities would appear when the ovariectomized rats were fed with a soybean diet in combination of LWPs treatment. Our further studies explored enhancements of Lactobacillus (19\u2010fold) and Bifidobacterium (12\u2010fold) contents in the intestine of rat and 1.84\u2010fold higher intestinal \u03b2\u2010glucosidase activity in LWPs treatment group compared with the control group. As a result, steady\u2010state concentrations of genistein (1.20\u2010fold), daidzein (1.36\u2010fold), and equol (1.43\u2010fold) in serum were significantly elevated in the combination group compared with the soybean alone group. The results present the first evidence of the mechanism of enhanced estrogenic activity of dietary soybean isoflavones in combination with LWPs. Our study indicates that alterations of gut bacteria after LWPs treatment play a key role in the enhanced estrogenic effect of dietary soybean, suggesting a direct relationship between dietary soybean, LWPs, and gut flora. Copyright \u00a9 2015 John Wiley & Sons, Ltd.",
+            "year": 2015,
+            "citation_count": 8,
+            "relevance": 2,
+            "explanation": "The paper explores the enhanced estrogenic activity of soybean isoflavones when co-administered with Liuwei Dihuang pills, which involves the conversion of isoflavone glycosides to aglycones by intestinal \u03b2-glucosidase. This is partially dependent on the source paper's findings on the bio-conversion of isoflavones using beta-glycosidase, thus using the source paper's findings as a sub-hypothesis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Chinese herbal formulas for postmenopausal osteoporosis: A review of preclinical evidence on animal studies and molecular mechanism": {
+                    "explanation": "This paper is a review paper that includes terms like 'Review' and summarizes existing literature on Chinese herbal formulas, including Liuwei Dihuang Wan, which is mentioned in the source paper. However, it lacks novel hypotheses or findings and does not build upon the source paper's results.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2022,
+        "source_paper": {
+            "paperId": "b807bbe72572c1bd3f82e37b9265feced03f82a1",
+            "title": "Enhanced Estrogenic Activity of Soybean Isoflavones by Coadministration of Liuwei Dihuang Pills in Ovariectomized Rats",
+            "abstract": "Soybean isoflavones are beneficial for treating hormone\u2010related diseases. Simultaneous consumption of soybean isoflavones and Liuwei Dihuang pills (LWPs) is effective for treating perimenopausal period syndrome. However, why the combination of isoflavones and LWPs is more effective than ingestion of each component alone remains unknown. Here, we show that enhanced estrogenic activities would appear when the ovariectomized rats were fed with a soybean diet in combination of LWPs treatment. Our further studies explored enhancements of Lactobacillus (19\u2010fold) and Bifidobacterium (12\u2010fold) contents in the intestine of rat and 1.84\u2010fold higher intestinal \u03b2\u2010glucosidase activity in LWPs treatment group compared with the control group. As a result, steady\u2010state concentrations of genistein (1.20\u2010fold), daidzein (1.36\u2010fold), and equol (1.43\u2010fold) in serum were significantly elevated in the combination group compared with the soybean alone group. The results present the first evidence of the mechanism of enhanced estrogenic activity of dietary soybean isoflavones in combination with LWPs. Our study indicates that alterations of gut bacteria after LWPs treatment play a key role in the enhanced estrogenic effect of dietary soybean, suggesting a direct relationship between dietary soybean, LWPs, and gut flora. Copyright \u00a9 2015 John Wiley & Sons, Ltd.",
+            "year": 2015,
+            "citation_count": 8,
+            "relevance": 2,
+            "explanation": "The paper explores the enhanced estrogenic activity of soybean isoflavones when co-administered with Liuwei Dihuang pills, which involves the conversion of isoflavone glycosides to aglycones by intestinal \u03b2-glucosidase. This is partially dependent on the source paper's findings on the bio-conversion of isoflavones using beta-glycosidase, thus using the source paper's findings as a sub-hypothesis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Research on the Mechanism of Liuwei Dihuang Decoction for Osteoporosis Based on Systematic Biological Strategies": {
+                    "explanation": "This paper explores the mechanism of Liuwei Dihuang Decoction (LDD) for treating osteoporosis. Although the source paper investigates the enhanced estrogenic activity of soybean isoflavones by coadministration of Liuwei Dihuang pills, this paper is not directly inspired by or dependent on the source paper's findings. Instead, it focuses on a different application of LDD. However, it does mention estrogen metabolism as one of the biological processes affected by LDD, which is related to the source paper's topic.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Research on the Mechanism of Liuwei Dihuang Decoction for Osteoporosis Based on Systematic Biological Strategies": {
+                    "explanation": "This paper explores the mechanism of Liuwei Dihuang Decoction (LDD) for treating osteoporosis. Although the source paper investigates the enhanced estrogenic activity of soybean isoflavones by coadministration of Liuwei Dihuang pills, this paper is not directly inspired by or dependent on the source paper's findings. Instead, it focuses on a different application of LDD. However, it does mention estrogen metabolism as one of the biological processes affected by LDD, which is related to the source paper's topic.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2023,
+        "source_paper": {
+            "paperId": "54076909f31977e2da9ff0fcafd59bd4b04d9eb3",
+            "title": "Research on the Mechanism of Liuwei Dihuang Decoction for Osteoporosis Based on Systematic Biological Strategies",
+            "abstract": "Background Osteoporosis is an important health problem worldwide. Liuwei Dihuang Decoction (LDD) and its main ingredients may have a good clinical effect on osteoporosis. Meanwhile, its mechanism for treating osteoporosis needs to be further revealed in order to provide a basis for future drug development. Methods A systematic biological methodology was utilized to construct and analyze the LDD-osteoporosis network. After that, the human transcription data of LDD intervention in patients with osteoporosis and protein arrays data of LDD intervention in osteoporosis rats were collected. The human transcription data analysis, protein arrays data analysis, and molecular docking were performed to validate the findings of the prediction network (LDD-osteoporosis PPI network). Finally, animal experiments were conducted to verify the prediction results of systematic pharmacology. Results (1) LDD-osteoporosis PPI network shows the potential compounds, potential targets (such as ALB, IGF1, SRC, and ESR1), clusters, biological processes (such as positive regulation of calmodulin 1-monooxygenase activity, estrogen metabolism, and endothelial cell proliferation), and signaling and Reactome pathways (such as JAK-STAT signaling pathway, osteoclast differentiation, and degradation of the extracellular matrix) of LDD intervention in osteoporosis. (2) Human transcriptomics data and protein arrays data validated the findings of the LDD-osteoporosis PPI network. (3) The animal experiments showed that LDD can improve bone mineral density (BMD), increase serum estradiol (E2) and alkaline phosphatase (ALP) levels, and upregulate Wnt3a and \u03b2-catenin mRNA expression (P < 0.05). (4) Molecular docking results showed that alisol A, dioscin, loganin, oleanolic acid, pachymic acid, and ursolic acid may stably bind to JAK2, ESR1, and CTNNB1. Conclusion LDD may have a therapeutic effect on osteoporosis through regulating the targets (such as ALB, IGF1, SRC, and ESR1), biological processes (such as positive regulation of calmodulin 1-monooxygenase activity, estrogen metabolism, and endothelial cell proliferation), and pathways (such as JAK-STAT signaling pathway, osteoclast differentiation, and degradation of the extracellular matrix) found in this research.",
+            "year": 2022,
+            "citation_count": 3,
+            "relevance": 1,
+            "explanation": "This paper explores the mechanism of Liuwei Dihuang Decoction (LDD) for treating osteoporosis. Although the source paper investigates the enhanced estrogenic activity of soybean isoflavones by coadministration of Liuwei Dihuang pills, this paper is not directly inspired by or dependent on the source paper's findings. Instead, it focuses on a different application of LDD. However, it does mention estrogen metabolism as one of the biological processes affected by LDD, which is related to the source paper's topic."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Efficacy of the Chinese herbal medicine Jintiange capsules in the postoperative treatment of osteoporotic vertebral compression fractures: a systematic review and meta-analysis": {
+                    "explanation": "This paper is a systematic review and meta-analysis of Jintiange capsules in treating osteoporotic vertebral compression fractures, which is not directly related to the source paper's findings on Liuwei Dihuang Decoction for osteoporosis. It lacks novel hypotheses or findings and is not inspired by or dependent on the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2024,
+        "source_paper": {
+            "paperId": "54076909f31977e2da9ff0fcafd59bd4b04d9eb3",
+            "title": "Research on the Mechanism of Liuwei Dihuang Decoction for Osteoporosis Based on Systematic Biological Strategies",
+            "abstract": "Background Osteoporosis is an important health problem worldwide. Liuwei Dihuang Decoction (LDD) and its main ingredients may have a good clinical effect on osteoporosis. Meanwhile, its mechanism for treating osteoporosis needs to be further revealed in order to provide a basis for future drug development. Methods A systematic biological methodology was utilized to construct and analyze the LDD-osteoporosis network. After that, the human transcription data of LDD intervention in patients with osteoporosis and protein arrays data of LDD intervention in osteoporosis rats were collected. The human transcription data analysis, protein arrays data analysis, and molecular docking were performed to validate the findings of the prediction network (LDD-osteoporosis PPI network). Finally, animal experiments were conducted to verify the prediction results of systematic pharmacology. Results (1) LDD-osteoporosis PPI network shows the potential compounds, potential targets (such as ALB, IGF1, SRC, and ESR1), clusters, biological processes (such as positive regulation of calmodulin 1-monooxygenase activity, estrogen metabolism, and endothelial cell proliferation), and signaling and Reactome pathways (such as JAK-STAT signaling pathway, osteoclast differentiation, and degradation of the extracellular matrix) of LDD intervention in osteoporosis. (2) Human transcriptomics data and protein arrays data validated the findings of the LDD-osteoporosis PPI network. (3) The animal experiments showed that LDD can improve bone mineral density (BMD), increase serum estradiol (E2) and alkaline phosphatase (ALP) levels, and upregulate Wnt3a and \u03b2-catenin mRNA expression (P < 0.05). (4) Molecular docking results showed that alisol A, dioscin, loganin, oleanolic acid, pachymic acid, and ursolic acid may stably bind to JAK2, ESR1, and CTNNB1. Conclusion LDD may have a therapeutic effect on osteoporosis through regulating the targets (such as ALB, IGF1, SRC, and ESR1), biological processes (such as positive regulation of calmodulin 1-monooxygenase activity, estrogen metabolism, and endothelial cell proliferation), and pathways (such as JAK-STAT signaling pathway, osteoclast differentiation, and degradation of the extracellular matrix) found in this research.",
+            "year": 2022,
+            "citation_count": 3,
+            "relevance": 1,
+            "explanation": "This paper explores the mechanism of Liuwei Dihuang Decoction (LDD) for treating osteoporosis. Although the source paper investigates the enhanced estrogenic activity of soybean isoflavones by coadministration of Liuwei Dihuang pills, this paper is not directly inspired by or dependent on the source paper's findings. Instead, it focuses on a different application of LDD. However, it does mention estrogen metabolism as one of the biological processes affected by LDD, which is related to the source paper's topic."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Targeting the mTOR-Autophagy Axis: Unveiling Therapeutic Potentials in Osteoporosis": {
+                    "explanation": "This paper is a review paper that explores the therapeutic potential of targeting the mTOR-autophagy axis in osteoporosis. It does not build upon the source paper's findings or hypotheses, and instead provides a general overview of the topic.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2024,
+        "source_paper": {
+            "paperId": "54076909f31977e2da9ff0fcafd59bd4b04d9eb3",
+            "title": "Research on the Mechanism of Liuwei Dihuang Decoction for Osteoporosis Based on Systematic Biological Strategies",
+            "abstract": "Background Osteoporosis is an important health problem worldwide. Liuwei Dihuang Decoction (LDD) and its main ingredients may have a good clinical effect on osteoporosis. Meanwhile, its mechanism for treating osteoporosis needs to be further revealed in order to provide a basis for future drug development. Methods A systematic biological methodology was utilized to construct and analyze the LDD-osteoporosis network. After that, the human transcription data of LDD intervention in patients with osteoporosis and protein arrays data of LDD intervention in osteoporosis rats were collected. The human transcription data analysis, protein arrays data analysis, and molecular docking were performed to validate the findings of the prediction network (LDD-osteoporosis PPI network). Finally, animal experiments were conducted to verify the prediction results of systematic pharmacology. Results (1) LDD-osteoporosis PPI network shows the potential compounds, potential targets (such as ALB, IGF1, SRC, and ESR1), clusters, biological processes (such as positive regulation of calmodulin 1-monooxygenase activity, estrogen metabolism, and endothelial cell proliferation), and signaling and Reactome pathways (such as JAK-STAT signaling pathway, osteoclast differentiation, and degradation of the extracellular matrix) of LDD intervention in osteoporosis. (2) Human transcriptomics data and protein arrays data validated the findings of the LDD-osteoporosis PPI network. (3) The animal experiments showed that LDD can improve bone mineral density (BMD), increase serum estradiol (E2) and alkaline phosphatase (ALP) levels, and upregulate Wnt3a and \u03b2-catenin mRNA expression (P < 0.05). (4) Molecular docking results showed that alisol A, dioscin, loganin, oleanolic acid, pachymic acid, and ursolic acid may stably bind to JAK2, ESR1, and CTNNB1. Conclusion LDD may have a therapeutic effect on osteoporosis through regulating the targets (such as ALB, IGF1, SRC, and ESR1), biological processes (such as positive regulation of calmodulin 1-monooxygenase activity, estrogen metabolism, and endothelial cell proliferation), and pathways (such as JAK-STAT signaling pathway, osteoclast differentiation, and degradation of the extracellular matrix) found in this research.",
+            "year": 2022,
+            "citation_count": 3,
+            "relevance": 1,
+            "explanation": "This paper explores the mechanism of Liuwei Dihuang Decoction (LDD) for treating osteoporosis. Although the source paper investigates the enhanced estrogenic activity of soybean isoflavones by coadministration of Liuwei Dihuang pills, this paper is not directly inspired by or dependent on the source paper's findings. Instead, it focuses on a different application of LDD. However, it does mention estrogen metabolism as one of the biological processes affected by LDD, which is related to the source paper's topic."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Targeting the mTOR-Autophagy Axis: Unveiling Therapeutic Potentials in Osteoporosis": {
+                    "explanation": "This paper is a review paper that discusses the therapeutic potential of targeting the mTOR-autophagy axis in osteoporosis. Although it explores a new angle in osteoporosis treatment, it does not directly build upon or depend on the findings of the source paper, which investigated the mechanism of Liuwei Dihuang Decoction for osteoporosis.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    }
+]

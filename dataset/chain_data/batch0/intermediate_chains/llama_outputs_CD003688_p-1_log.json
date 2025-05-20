@@ -1,0 +1,1321 @@
+[
+    {
+        "year": 2002,
+        "source_paper": {
+            "paperId": "166ce2010f7e0add050c8920ade3aa9549296741",
+            "pmid": "11166484",
+            "title": "A blind, randomized, controlled trial of cognitive-behavioural intervention for patients with recent onset rheumatoid arthritis: preventing psychological and physical morbidity",
+            "abstract": null,
+            "year": 2001,
+            "citation_count": 186
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Psychological interventions for rheumatoid arthritis: a meta-analysis of randomized controlled trials.": {
+                    "explanation": "This paper is a review of existing literature on psychological interventions for rheumatoid arthritis, including cognitive-behavioral therapy. It does not build on the source paper's findings or use them as a sub-hypothesis, but rather provides a broader overview of the field.",
+                    "relevance": 0
+                },
+                "2. Psychological Well-Being in Rheumatoid Arthritis: Relationship to \u2018Disease\u2019 Variables and Affective Disturbance": {
+                    "explanation": "This paper explores the relationship between psychological well-being and disease variables in rheumatoid arthritis. While it does not directly build on the source paper's findings, it does investigate a related aspect of rheumatoid arthritis, suggesting a potential connection. However, the connection is not strong enough to be considered partially dependent on the source paper's findings.",
+                    "relevance": 1
+                },
+                "3. Recent advances and future directions in the biopsychosocial assessment and treatment of arthritis.": {
+                    "explanation": "This paper provides an overview of the biopsychosocial approach to assessing and treating arthritis, including rheumatoid arthritis. While it does not directly build on the source paper's findings, it does discuss cognitive-behavioral interventions, which is related to the source paper's topic. However, the connection is not strong enough to be considered partially dependent on the source paper's findings.",
+                    "relevance": 1
+                },
+                "4. Central nervous system mechanisms of pain in fibromyalgia and other musculoskeletal disorders: behavioral and psychologic treatment approaches.": {
+                    "explanation": "This paper focuses on the central nervous system mechanisms of pain in fibromyalgia and other musculoskeletal disorders, which is a different topic from the source paper. It does discuss cognitive-behavioral interventions, but in the context of a different disease. Therefore, it is not considered relevant to the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Psychological Well-Being in Rheumatoid Arthritis: Relationship to \u2018Disease\u2019 Variables and Affective Disturbance": {
+                    "explanation": "This paper explores the relationship between psychological well-being and disease variables in rheumatoid arthritis. While it does not directly build on the source paper's findings, it does investigate a related aspect of rheumatoid arthritis, suggesting a potential connection.",
+                    "relevance": 1
+                },
+                "2. Recent advances and future directions in the biopsychosocial assessment and treatment of arthritis.": {
+                    "explanation": "This paper provides an overview of the biopsychosocial approach to assessing and treating arthritis, including rheumatoid arthritis. While it does not directly build on the source paper's findings, it does discuss cognitive-behavioral interventions, which is related to the source paper's topic.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2003,
+        "source_paper": {
+            "paperId": "166ce2010f7e0add050c8920ade3aa9549296741",
+            "pmid": "11166484",
+            "title": "A blind, randomized, controlled trial of cognitive-behavioural intervention for patients with recent onset rheumatoid arthritis: preventing psychological and physical morbidity",
+            "abstract": null,
+            "year": 2001,
+            "citation_count": 186
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Patient education for adults with rheumatoid arthritis": {
+                    "explanation": "This paper is a review paper, as indicated by the abstract's focus on assessing the effectiveness of patient education interventions through a systematic search of multiple databases and the presentation of main results and reviewer's conclusions.",
+                    "relevance": 0
+                },
+                "2. Testing for the Integrity of Blinding in Clinical Trials: How Valid Are Forced Choice Paradigms?": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it uses data derived from a trial in recent-onset rheumatoid arthritis comparing cognitive behavioural therapy plus routine care with routine care alone, which is related to the source paper's topic.",
+                    "relevance": 2
+                },
+                "3. Cost effectiveness and medical cost-offset considerations in psychological service provision": {
+                    "explanation": "This paper is inspired by the hypothesis of the source paper, as it discusses the cost-effectiveness of psychological interventions, including cognitive-behavioural treatments, which is related to the source paper's topic of cognitive-behavioural intervention for patients with recent onset rheumatoid arthritis.",
+                    "relevance": 1
+                },
+                "4. The Role of Complementary and Alternative Therapies in Managing Rheumatoid Arthritis": {
+                    "explanation": "This paper has no connection with the source paper, as it focuses on complementary and alternative therapies in managing rheumatoid arthritis, which is a different topic from the source paper's focus on cognitive-behavioural intervention.",
+                    "relevance": 0
+                },
+                "5. Cognitive Behavioral Therapy: A Blueprint for Attaining and Assessing Psychiatry Resident Competency": {
+                    "explanation": "This paper is inspired by the hypothesis of the source paper, as it discusses cognitive behavior therapy (CBT) competency for psychiatric residents, which is related to the source paper's topic of cognitive-behavioural intervention for patients with recent onset rheumatoid arthritis.",
+                    "relevance": 1
+                },
+                "6. Coping behaviour and outcome in two pain populations : a general adult population with neck or low back pain & individuals suffering from pain due to motor-vehicle Injuries": {
+                    "explanation": "This paper has no connection with the source paper, as it focuses on coping behaviour and outcome in pain populations, which is a different topic from the source paper's focus on cognitive-behavioural intervention for patients with recent onset rheumatoid arthritis.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Testing for the Integrity of Blinding in Clinical Trials: How Valid Are Forced Choice Paradigms?": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it uses data derived from a trial in recent-onset rheumatoid arthritis comparing cognitive behavioural therapy plus routine care with routine care alone, which is related to the source paper's topic.",
+                    "relevance": 2
+                },
+                "2. Cost effectiveness and medical cost-offset considerations in psychological service provision": {
+                    "explanation": "This paper is inspired by the hypothesis of the source paper, as it discusses the cost-effectiveness of psychological interventions, including cognitive-behavioural treatments, which is related to the source paper's topic of cognitive-behavioural intervention for patients with recent onset rheumatoid arthritis.",
+                    "relevance": 1
+                },
+                "3. Cognitive Behavioral Therapy: A Blueprint for Attaining and Assessing Psychiatry Resident Competency": {
+                    "explanation": "This paper is inspired by the hypothesis of the source paper, as it discusses cognitive behavior therapy (CBT) competency for psychiatric residents, which is related to the source paper's topic of cognitive-behavioural intervention for patients with recent onset rheumatoid arthritis.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2004,
+        "source_paper": {
+            "paperId": "c3faa60f2c8d2e2649a59aabd6b80ca0a77a2752",
+            "title": "Testing for the Integrity of Blinding in Clinical Trials: How Valid Are Forced Choice Paradigms?",
+            "abstract": "Background: In randomised controlled trials, an increasingly used test of the \u2018blindness\u2019 of assessors is to have them guess the group to which each participant has been allocated. Because assessors are usually aware of the trial hypotheses, we predicted that trial participants who showed the greatest improvement would be assumed by an assessor to have been in the \u2018preferred intervention\u2019 group. Methods: Data were derived from a trial in recent-onset rheumatoid arthritis comparing cognitive behavioural therapy plus routine care with routine care alone. Results: Although in this trial assessor blindness was demonstrated, patients \u2018guessed\u2019 by the assessor to be in the cognitive therapy group showed significantly greater improvements than those predicted to have received routine care alone in variables predicted to change in the study protocol. Conclusions: These results indicate that even if an assessor\u2019s guesses about patient group allocations are more accurate than expected by chance, this would not necessarily demonstrate failure of blinding. This casts further doubt on the validity of forced choice paradigms in testing the integrity of blinding in clinical trials.",
+            "year": 2003,
+            "citation_count": 21,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it uses data derived from a trial in recent-onset rheumatoid arthritis comparing cognitive behavioural therapy plus routine care with routine care alone, which is related to the source paper's topic."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Methodological Issues in Clinical Trials of Antidepressant Medications: Perspectives from Psychotherapy Outcome Research": {
+                    "explanation": "This paper discusses methodological issues in clinical trials, specifically in the context of antidepressant medications. Although it does not directly reference the source paper, it touches on related topics such as the use of placebo control conditions and the impact of researcher allegiance and patient expectancy on outcome, which are relevant to the integrity of blinding in clinical trials. However, the connection is not strong enough to be considered as inspired by or dependent on the source paper.",
+                    "relevance": 0
+                },
+                "2. Efficacy of Cognitive Behaviour Therapy in Generalized Anxiety Disorders": {
+                    "explanation": "This paper evaluates the efficacy of cognitive behaviour therapy (CBT) in treating generalized anxiety disorders. While CBT is mentioned in the source paper as part of a trial in recent-onset rheumatoid arthritis, the current paper focuses on a different context (GAD) and does not build upon or depend on the findings of the source paper. The connection is too weak to be considered relevant.",
+                    "relevance": 0
+                },
+                "3. Drug-Induced Depression: A Systematic Review to Inform Clinical Practice": {
+                    "explanation": "This paper is a systematic review that aims to identify evidence linking medical drugs to depressive symptoms and disorders. It does not reference the source paper or discuss topics related to the integrity of blinding in clinical trials. Therefore, it is not considered relevant to the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2005,
+        "source_paper": {
+            "paperId": "c3faa60f2c8d2e2649a59aabd6b80ca0a77a2752",
+            "title": "Testing for the Integrity of Blinding in Clinical Trials: How Valid Are Forced Choice Paradigms?",
+            "abstract": "Background: In randomised controlled trials, an increasingly used test of the \u2018blindness\u2019 of assessors is to have them guess the group to which each participant has been allocated. Because assessors are usually aware of the trial hypotheses, we predicted that trial participants who showed the greatest improvement would be assumed by an assessor to have been in the \u2018preferred intervention\u2019 group. Methods: Data were derived from a trial in recent-onset rheumatoid arthritis comparing cognitive behavioural therapy plus routine care with routine care alone. Results: Although in this trial assessor blindness was demonstrated, patients \u2018guessed\u2019 by the assessor to be in the cognitive therapy group showed significantly greater improvements than those predicted to have received routine care alone in variables predicted to change in the study protocol. Conclusions: These results indicate that even if an assessor\u2019s guesses about patient group allocations are more accurate than expected by chance, this would not necessarily demonstrate failure of blinding. This casts further doubt on the validity of forced choice paradigms in testing the integrity of blinding in clinical trials.",
+            "year": 2003,
+            "citation_count": 21,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it uses data derived from a trial in recent-onset rheumatoid arthritis comparing cognitive behavioural therapy plus routine care with routine care alone, which is related to the source paper's topic."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. The Effectiveness of Cognitive Therapy for Schizophrenia: What Can We Learn from the Meta-Analyses?": {
+                    "explanation": "This paper is a review paper, discussing the effectiveness of cognitive therapy for schizophrenia through meta-analyses. It does not have any direct connection with the source paper, which is focused on the integrity of blinding in clinical trials.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2005,
+        "source_paper": {
+            "paperId": "c3faa60f2c8d2e2649a59aabd6b80ca0a77a2752",
+            "title": "Testing for the Integrity of Blinding in Clinical Trials: How Valid Are Forced Choice Paradigms?",
+            "abstract": "Background: In randomised controlled trials, an increasingly used test of the \u2018blindness\u2019 of assessors is to have them guess the group to which each participant has been allocated. Because assessors are usually aware of the trial hypotheses, we predicted that trial participants who showed the greatest improvement would be assumed by an assessor to have been in the \u2018preferred intervention\u2019 group. Methods: Data were derived from a trial in recent-onset rheumatoid arthritis comparing cognitive behavioural therapy plus routine care with routine care alone. Results: Although in this trial assessor blindness was demonstrated, patients \u2018guessed\u2019 by the assessor to be in the cognitive therapy group showed significantly greater improvements than those predicted to have received routine care alone in variables predicted to change in the study protocol. Conclusions: These results indicate that even if an assessor\u2019s guesses about patient group allocations are more accurate than expected by chance, this would not necessarily demonstrate failure of blinding. This casts further doubt on the validity of forced choice paradigms in testing the integrity of blinding in clinical trials.",
+            "year": 2003,
+            "citation_count": 21,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it uses data derived from a trial in recent-onset rheumatoid arthritis comparing cognitive behavioural therapy plus routine care with routine care alone, which is related to the source paper's topic."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. The Effectiveness of Cognitive Therapy for Schizophrenia: What Can We Learn from the Meta-Analyses?": {
+                    "explanation": "This paper is a review paper, discussing the effectiveness of cognitive therapy for schizophrenia through meta-analyses. It does not have a direct connection with the source paper, which focuses on testing the integrity of blinding in clinical trials.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2006,
+        "source_paper": {
+            "paperId": "c3faa60f2c8d2e2649a59aabd6b80ca0a77a2752",
+            "title": "Testing for the Integrity of Blinding in Clinical Trials: How Valid Are Forced Choice Paradigms?",
+            "abstract": "Background: In randomised controlled trials, an increasingly used test of the \u2018blindness\u2019 of assessors is to have them guess the group to which each participant has been allocated. Because assessors are usually aware of the trial hypotheses, we predicted that trial participants who showed the greatest improvement would be assumed by an assessor to have been in the \u2018preferred intervention\u2019 group. Methods: Data were derived from a trial in recent-onset rheumatoid arthritis comparing cognitive behavioural therapy plus routine care with routine care alone. Results: Although in this trial assessor blindness was demonstrated, patients \u2018guessed\u2019 by the assessor to be in the cognitive therapy group showed significantly greater improvements than those predicted to have received routine care alone in variables predicted to change in the study protocol. Conclusions: These results indicate that even if an assessor\u2019s guesses about patient group allocations are more accurate than expected by chance, this would not necessarily demonstrate failure of blinding. This casts further doubt on the validity of forced choice paradigms in testing the integrity of blinding in clinical trials.",
+            "year": 2003,
+            "citation_count": 21,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it uses data derived from a trial in recent-onset rheumatoid arthritis comparing cognitive behavioural therapy plus routine care with routine care alone, which is related to the source paper's topic."
+        },
+        "llama_output": {},
+        "seed": 42
+    },
+    {
+        "year": 2006,
+        "source_paper": {
+            "paperId": "c3faa60f2c8d2e2649a59aabd6b80ca0a77a2752",
+            "title": "Testing for the Integrity of Blinding in Clinical Trials: How Valid Are Forced Choice Paradigms?",
+            "abstract": "Background: In randomised controlled trials, an increasingly used test of the \u2018blindness\u2019 of assessors is to have them guess the group to which each participant has been allocated. Because assessors are usually aware of the trial hypotheses, we predicted that trial participants who showed the greatest improvement would be assumed by an assessor to have been in the \u2018preferred intervention\u2019 group. Methods: Data were derived from a trial in recent-onset rheumatoid arthritis comparing cognitive behavioural therapy plus routine care with routine care alone. Results: Although in this trial assessor blindness was demonstrated, patients \u2018guessed\u2019 by the assessor to be in the cognitive therapy group showed significantly greater improvements than those predicted to have received routine care alone in variables predicted to change in the study protocol. Conclusions: These results indicate that even if an assessor\u2019s guesses about patient group allocations are more accurate than expected by chance, this would not necessarily demonstrate failure of blinding. This casts further doubt on the validity of forced choice paradigms in testing the integrity of blinding in clinical trials.",
+            "year": 2003,
+            "citation_count": 21,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it uses data derived from a trial in recent-onset rheumatoid arthritis comparing cognitive behavioural therapy plus routine care with routine care alone, which is related to the source paper's topic."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Blindness and Bias in a Trial of Antidepressant Medication For Chronic Tension-Type Headache": {
+                    "explanation": "This paper explores the concept of blindness and bias in clinical trials, similar to the source paper, but it does not directly build upon or depend on the findings of the source paper. Instead, it examines a different aspect of clinical trials, namely the penetration of the blind in a trial of antidepressant medication for chronic tension-type headache.",
+                    "relevance": 1
+                },
+                "2. Evaluating Masking in a Randomized, Double-Masked Clinical Trial in Children With Myopia": {
+                    "explanation": "This paper evaluates the success of masking in a randomized, double-masked clinical trial, which is closely related to the concept of blinding in clinical trials discussed in the source paper. However, it does not directly build upon or depend on the findings of the source paper. Instead, it presents a new study design and results that are relevant to the broader topic of clinical trials.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Blindness and Bias in a Trial of Antidepressant Medication For Chronic Tension-Type Headache": {
+                    "explanation": "This paper explores the concept of blindness and bias in clinical trials, similar to the source paper, but it does not directly build upon or depend on the findings of the source paper. Instead, it examines a different aspect of clinical trials, namely the penetration of the blind in a trial of antidepressant medication for chronic tension-type headache.",
+                    "relevance": 1
+                },
+                "2. Evaluating Masking in a Randomized, Double-Masked Clinical Trial in Children With Myopia": {
+                    "explanation": "This paper evaluates the success of masking in a randomized, double-masked clinical trial, which is closely related to the concept of blinding in clinical trials discussed in the source paper. However, it does not directly build upon or depend on the findings of the source paper. Instead, it presents a new study design and results that are relevant to the broader topic of clinical trials.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2011,
+        "source_paper": {
+            "paperId": "0cbbb98a2a26331862158e6fd63179a196a89cf4",
+            "title": "Blindness and Bias in a Trial of Antidepressant Medication For Chronic Tension-Type Headache",
+            "abstract": "This study aimed to examine penetration of the blind in a randomized, placebo-controlled trial. Neurologists' ratings of improvement and medication side-effects, participants' ratings of improvement and daily diary recordings of headaches were assessed along with participants' and neurologists' guesses about treatment group placement in participants who completed at least 3 months of treatment (N = 169). Despite blinding, treating neurologists successfully identified the medication condition for 82\u00b1 of participants receiving medication only; trial participants accurately identified their medication condition when receiving active medication (77\u00b1 of participants), but not when receiving placebo. Concurrent stress-management therapy reduced, but did not eliminate penetration of the blind. Irrespective of drug condition, when participants were improved they were judged to be on active medication and when unimproved they were judged to be on placebo. However, neurologists' ratings of improvement, participants' reports of improvement and daily headache recordings yielded equivalent outcomes. Penetration of the blind needs to be assessed, not assumed in clinical trials in headache. However, penetration of the blind did not produce a prodrug bias as has been asserted by critics. Better methods of assessing and quantifying blindness are needed.",
+            "year": 2006,
+            "citation_count": 6,
+            "relevance": 1,
+            "explanation": "This paper explores the concept of blindness and bias in clinical trials, similar to the source paper, but it does not directly build upon or depend on the findings of the source paper. Instead, it examines a different aspect of clinical trials, namely the penetration of the blind in a trial of antidepressant medication for chronic tension-type headache."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Lessons learned from placebo groups in antidepressant trials": {
+                    "explanation": "This paper is related to the source paper as it discusses the placebo response in antidepressant trials, which is relevant to the source paper's investigation of blindness and bias in a trial of antidepressant medication for chronic tension-type headache. The paper's focus on the role of expectations in shaping the placebo response is also connected to the source paper's findings on the penetration of the blind.",
+                    "relevance": 1
+                },
+                "2. The Origins of Health and Disease": {
+                    "explanation": "This paper appears to be a review or a book chapter that discusses various topics related to health and disease, including psychoneuroimmunology, stress, and adaptive response. It does not seem to have a direct connection to the source paper, which focused on the specific topic of blindness and bias in a trial of antidepressant medication for chronic tension-type headache.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Lessons learned from placebo groups in antidepressant trials": {
+                    "explanation": "This paper is related to the source paper as it discusses the placebo response in antidepressant trials, which is relevant to the source paper's investigation of blindness and bias in a trial of antidepressant medication for chronic tension-type headache. The paper's focus on the role of expectations in shaping the placebo response is also connected to the source paper's findings on the penetration of the blind.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2012,
+        "source_paper": {
+            "paperId": "8ae28614aac49feff5b55ba191a4a674bbd54059",
+            "title": "Lessons learned from placebo groups in antidepressant trials",
+            "abstract": "This comprehensive review provides an overview about placebo and nocebo phenomena in antidepressant trials. Improvements in the placebo groups may partly be explained through methodological issues such as natural course of depression and regression to the mean, but also fundamentally reflect investigators' and participants' expectations. A meta-analysis by our group of 96 randomized placebo-controlled trials showed large placebo responses to antidepressant medication. Moderator analyses revealed substantially larger placebo responses in observer ratings compared with self-report. Effect sizes in observer ratings showed strong increase with publication year while this effect was not found for patients' self-ratings. This reflects the strong influence of investigators' expectations. The analysis of \u2018nocebo effects\u2019, e.g. adverse effects in placebo groups of antidepressant trials also confirms the impact of expectations: nocebo symptoms reflected the typical side-effect patterns expected in the drug group, with higher symptoms rates in the placebo groups of tricyclic antidepressant trials compared with placebo groups of trials testing selective serotonin reuptake inhibitors. While the placebo response seems to be similar for women and men, gender differences were found for nocebo rates. In the conclusion, we discuss potential implications for clinical trial designs and argue for interventions aimed at optimizing positive expectations of treatment benefit while minimizing the impact of adverse effects.",
+            "year": 2011,
+            "citation_count": 105,
+            "relevance": 1,
+            "explanation": "This paper is related to the source paper as it discusses the placebo response in antidepressant trials, which is relevant to the source paper's investigation of blindness and bias in a trial of antidepressant medication for chronic tension-type headache. The paper's focus on the role of expectations in shaping the placebo response is also connected to the source paper's findings on the penetration of the blind."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Evidence-based medicine, 'placebos' and the homeopathy controversy": {
+                    "explanation": "This paper discusses the concept of 'placebos' and its role in the controversy around homeopathy, but it does not directly build upon or depend on the findings of the source paper. The source paper provides an overview of placebo and nocebo phenomena in antidepressant trials, whereas this paper examines the concept of 'placebos' in the context of homeopathy and evidence-based medicine.",
+                    "relevance": 0
+                },
+                "2. Rethinking recommendations for screening for depression in primary care": {
+                    "explanation": "This paper re-evaluates recommendations for screening for depression in primary care, but it does not explicitly mention or build upon the findings of the source paper. The source paper focuses on the placebo and nocebo phenomena in antidepressant trials, whereas this paper discusses screening for depression in primary care.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2013,
+        "source_paper": {
+            "paperId": "8ae28614aac49feff5b55ba191a4a674bbd54059",
+            "title": "Lessons learned from placebo groups in antidepressant trials",
+            "abstract": "This comprehensive review provides an overview about placebo and nocebo phenomena in antidepressant trials. Improvements in the placebo groups may partly be explained through methodological issues such as natural course of depression and regression to the mean, but also fundamentally reflect investigators' and participants' expectations. A meta-analysis by our group of 96 randomized placebo-controlled trials showed large placebo responses to antidepressant medication. Moderator analyses revealed substantially larger placebo responses in observer ratings compared with self-report. Effect sizes in observer ratings showed strong increase with publication year while this effect was not found for patients' self-ratings. This reflects the strong influence of investigators' expectations. The analysis of \u2018nocebo effects\u2019, e.g. adverse effects in placebo groups of antidepressant trials also confirms the impact of expectations: nocebo symptoms reflected the typical side-effect patterns expected in the drug group, with higher symptoms rates in the placebo groups of tricyclic antidepressant trials compared with placebo groups of trials testing selective serotonin reuptake inhibitors. While the placebo response seems to be similar for women and men, gender differences were found for nocebo rates. In the conclusion, we discuss potential implications for clinical trial designs and argue for interventions aimed at optimizing positive expectations of treatment benefit while minimizing the impact of adverse effects.",
+            "year": 2011,
+            "citation_count": 105,
+            "relevance": 1,
+            "explanation": "This paper is related to the source paper as it discusses the placebo response in antidepressant trials, which is relevant to the source paper's investigation of blindness and bias in a trial of antidepressant medication for chronic tension-type headache. The paper's focus on the role of expectations in shaping the placebo response is also connected to the source paper's findings on the penetration of the blind."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. The nocebo effect: patient expectations and medication side effects": {
+                    "explanation": "This paper explores the nocebo effect, which is closely related to the placebo effect discussed in the source paper. While it does not directly build upon the source paper's findings, it examines a complementary concept, indicating a connection to the source paper's topic.",
+                    "relevance": 1
+                },
+                "2. Placebo and the new physiology of the doctor-patient relationship": {
+                    "explanation": "This review paper discusses the placebo effect and its relationship to the doctor-patient interaction, which is a topic related to the source paper's discussion of expectations and their impact on treatment outcomes. However, it does not specifically build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "3. The placebo effect in psychiatry: problem or solution?": {
+                    "explanation": "This opinion piece discusses the placebo effect in the context of psychiatric treatment, which is the same field as the source paper. However, it does not specifically reference or build upon the source paper's findings, and its focus is more on the debate surrounding the placebo effect rather than its underlying mechanisms or implications.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. The nocebo effect: patient expectations and medication side effects": {
+                    "explanation": "This paper explores the nocebo effect, which is closely related to the placebo effect discussed in the source paper. While it does not directly build upon the source paper's findings, it examines a complementary concept, indicating a connection to the source paper's topic.",
+                    "relevance": 1
+                },
+                "2. Placebo and the new physiology of the doctor-patient relationship": {
+                    "explanation": "This review paper discusses the placebo effect and its relationship to the doctor-patient interaction, which is a topic related to the source paper's discussion of expectations and their impact on treatment outcomes. However, it does not specifically build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "3. The placebo effect in psychiatry: problem or solution?": {
+                    "explanation": "This opinion piece discusses the placebo effect in the context of psychiatric treatment, which is the same field as the source paper. However, it does not specifically reference or build upon the source paper's findings, and its focus is more on the debate surrounding the placebo effect rather than its underlying mechanisms or implications.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2014,
+        "source_paper": {
+            "paperId": "a7fb15f28f057d61a5d7e8e4b4eacee44e6d1f9d",
+            "title": "Placebo and the new physiology of the doctor-patient relationship.",
+            "abstract": "Modern medicine has progressed in parallel with the advancement of biochemistry, anatomy, and physiology. By using the tools of modern medicine, the physician today can treat and prevent a number of diseases through pharmacology, genetics, and physical interventions. Besides this materia medica, the patient's mind, cognitions, and emotions play a central part as well in any therapeutic outcome, as investigated by disciplines such as psychoneuroendocrinoimmunology. This review describes recent findings that give scientific evidence to the old tenet that patients must be both cured and cared for. In fact, we are today in a good position to investigate complex psychological factors, like placebo effects and the doctor-patient relationship, by using a physiological and neuroscientific approach. These intricate psychological factors can be approached through biochemistry, anatomy, and physiology, thus eliminating the old dichotomy between biology and psychology. This is both a biomedical and a philosophical enterprise that is changing the way we approach and interpret medicine and human biology. In the first case, curing the disease only is not sufficient, and care of the patient is of tantamount importance. In the second case, the philosophical debate about the mind-body interaction can find some important answers in the study of placebo effects. Therefore, maybe paradoxically, the placebo effect and the doctor-patient relationship can be approached by using the same biochemical, cellular and physiological tools of the materia medica, which represents an epochal transition from general concepts such as suggestibility and power of mind to a true physiology of the doctor-patient interaction.",
+            "year": 2013,
+            "citation_count": 365,
+            "relevance": 1,
+            "explanation": "This review paper discusses the placebo effect and its relationship to the doctor-patient interaction, which is a topic related to the source paper's discussion of expectations and their impact on treatment outcomes. However, it does not specifically build upon or depend on the source paper's findings."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Psychological Knowledge and Skills in Clinical Practice among Selected Medical Professions": {
+                    "explanation": "This paper discusses the importance of psychological factors in the diagnosis and treatment process, which is related to the source paper's topic of the doctor-patient relationship and the role of psychological factors in therapeutic outcomes. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "2. Sublingual Immunotherapy in Human and Canine Atopic Dermatitis: A Mini Review": {
+                    "explanation": "This paper is a review of sublingual immunotherapy for atopic dermatitis and does not have a direct connection to the source paper's topic of the doctor-patient relationship and placebo effects.",
+                    "relevance": 0
+                },
+                "3. Placebo and nocebo effect: a mini-review": {
+                    "explanation": "This paper is a review of the placebo and nocebo effects, which is closely related to the source paper's topic of the placebo effect and the doctor-patient relationship. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "4. Exploring the Dimensions of Doctor-Patient Relationship in Clinical Practice in Hospital Settings": {
+                    "explanation": "This paper explores the dimensions of the doctor-patient relationship in clinical practice, which is directly related to the source paper's topic. The paper's focus on the importance of the doctor-patient relationship in therapeutic outcomes is partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Exploring the Dimensions of Doctor-Patient Relationship in Clinical Practice in Hospital Settings": {
+                    "explanation": "This paper explores the dimensions of the doctor-patient relationship in clinical practice, which is directly related to the source paper's topic. The paper's focus on the importance of the doctor-patient relationship in therapeutic outcomes is partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                },
+                "2. Psychological Knowledge and Skills in Clinical Practice among Selected Medical Professions": {
+                    "explanation": "This paper discusses the importance of psychological factors in the diagnosis and treatment process, which is related to the source paper's topic of the doctor-patient relationship and the role of psychological factors in therapeutic outcomes. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "3. Placebo and nocebo effect: a mini-review": {
+                    "explanation": "This paper is a review of the placebo and nocebo effects, which is closely related to the source paper's topic of the placebo effect and the doctor-patient relationship. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2015,
+        "source_paper": {
+            "paperId": "a7fb15f28f057d61a5d7e8e4b4eacee44e6d1f9d",
+            "title": "Placebo and the new physiology of the doctor-patient relationship.",
+            "abstract": "Modern medicine has progressed in parallel with the advancement of biochemistry, anatomy, and physiology. By using the tools of modern medicine, the physician today can treat and prevent a number of diseases through pharmacology, genetics, and physical interventions. Besides this materia medica, the patient's mind, cognitions, and emotions play a central part as well in any therapeutic outcome, as investigated by disciplines such as psychoneuroendocrinoimmunology. This review describes recent findings that give scientific evidence to the old tenet that patients must be both cured and cared for. In fact, we are today in a good position to investigate complex psychological factors, like placebo effects and the doctor-patient relationship, by using a physiological and neuroscientific approach. These intricate psychological factors can be approached through biochemistry, anatomy, and physiology, thus eliminating the old dichotomy between biology and psychology. This is both a biomedical and a philosophical enterprise that is changing the way we approach and interpret medicine and human biology. In the first case, curing the disease only is not sufficient, and care of the patient is of tantamount importance. In the second case, the philosophical debate about the mind-body interaction can find some important answers in the study of placebo effects. Therefore, maybe paradoxically, the placebo effect and the doctor-patient relationship can be approached by using the same biochemical, cellular and physiological tools of the materia medica, which represents an epochal transition from general concepts such as suggestibility and power of mind to a true physiology of the doctor-patient interaction.",
+            "year": 2013,
+            "citation_count": 365,
+            "relevance": 1,
+            "explanation": "This review paper discusses the placebo effect and its relationship to the doctor-patient interaction, which is a topic related to the source paper's discussion of expectations and their impact on treatment outcomes. However, it does not specifically build upon or depend on the source paper's findings."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Can Pain or Hyperalgesia Be a Classically Conditioned Response in Humans? A Systematic Review and Meta-Analysis": {
+                    "explanation": "This paper is a review paper, as indicated by the title and the use of terms like 'Systematic Review' and 'Meta-Analysis'. It lacks novel hypotheses or findings, and its connection to the source paper is not clear.",
+                    "relevance": 0
+                },
+                "2. Communication between Health Care Professionals and Chronic Pain Patients Time to change the \"Pain Game\"": {
+                    "explanation": "This paper discusses the importance of patient-doctor communication in pain management, which is related to the source paper's topic of the doctor-patient relationship. However, it does not directly build upon or use the findings of the source paper.",
+                    "relevance": 1
+                },
+                "3. Expectations do not Influence the Response to Phosphosdiesterase Type 5 Inhibitor Therapy for Erectile Dysfunction": {
+                    "explanation": "This paper investigates the role of expectations in treatment response, which is a topic related to the placebo effect discussed in the source paper. However, it does not directly build upon or use the findings of the source paper.",
+                    "relevance": 1
+                },
+                "4. Different Placebos, Different Mechanisms, Different Outcomes: Lessons for Clinical Trials": {
+                    "explanation": "This paper discusses the use of placebos in clinical trials and their effects on treatment outcomes, which is a topic directly related to the source paper's discussion of the placebo effect. The paper uses the findings of the source paper as a sub-hypothesis to investigate the mechanisms of different placebos.",
+                    "relevance": 2
+                },
+                "5. High-altitude headache: the effects of real vs sham oxygen administration": {
+                    "explanation": "This paper investigates the effects of placebo oxygen administration on high-altitude headache, which is a topic related to the placebo effect discussed in the source paper. However, it does not directly build upon or use the findings of the source paper.",
+                    "relevance": 1
+                },
+                "6. Clinical Research Methodology 1: Study Designs and Methodologic Sources of Error": {
+                    "explanation": "This paper is a review paper that discusses clinical research methodology, which is not directly related to the source paper's topic of the doctor-patient relationship and the placebo effect.",
+                    "relevance": 0
+                },
+                "7. Social Bonds and Exercise: Evidence for a Reciprocal Relationship": {
+                    "explanation": "This paper investigates the relationship between social bonds and exercise, which is not directly related to the source paper's topic of the doctor-patient relationship and the placebo effect.",
+                    "relevance": 0
+                },
+                "8. Inverted Perceptual Judgment of Nociceptive Stimuli at Threshold Level following Inconsistent Cues": {
+                    "explanation": "This paper investigates the effects of inconsistent cues on pain perception, which is a topic related to the placebo effect discussed in the source paper. However, it does not directly build upon or use the findings of the source paper.",
+                    "relevance": 1
+                },
+                "9. The Signaling Theory of Symptoms": {
+                    "explanation": "This paper proposes a theory to explain the function of symptoms, including the placebo effect, which is a topic directly related to the source paper's discussion of the placebo effect. The paper uses the findings of the source paper as a sub-hypothesis to develop its theory.",
+                    "relevance": 2
+                },
+                "10. Capitalizing on the Placebo Component of Treatments": {
+                    "explanation": "This paper discusses the potential benefits of capitalizing on the placebo component of treatments, which is a topic directly related to the source paper's discussion of the placebo effect. The paper uses the findings of the source paper as a sub-hypothesis to develop its argument.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Different Placebos, Different Mechanisms, Different Outcomes: Lessons for Clinical Trials": {
+                    "explanation": "This paper discusses the use of placebos in clinical trials and their effects on treatment outcomes, which is a topic directly related to the source paper's discussion of the placebo effect. The paper uses the findings of the source paper as a sub-hypothesis to investigate the mechanisms of different placebos.",
+                    "relevance": 2
+                },
+                "2. The Signaling Theory of Symptoms": {
+                    "explanation": "This paper proposes a theory to explain the function of symptoms, including the placebo effect, which is a topic directly related to the source paper's discussion of the placebo effect. The paper uses the findings of the source paper as a sub-hypothesis to develop its theory.",
+                    "relevance": 2
+                },
+                "3. Capitalizing on the Placebo Component of Treatments": {
+                    "explanation": "This paper discusses the potential benefits of capitalizing on the placebo component of treatments, which is a topic directly related to the source paper's discussion of the placebo effect. The paper uses the findings of the source paper as a sub-hypothesis to develop its argument.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2015,
+        "source_paper": {
+            "paperId": "a7fb15f28f057d61a5d7e8e4b4eacee44e6d1f9d",
+            "title": "Placebo and the new physiology of the doctor-patient relationship.",
+            "abstract": "Modern medicine has progressed in parallel with the advancement of biochemistry, anatomy, and physiology. By using the tools of modern medicine, the physician today can treat and prevent a number of diseases through pharmacology, genetics, and physical interventions. Besides this materia medica, the patient's mind, cognitions, and emotions play a central part as well in any therapeutic outcome, as investigated by disciplines such as psychoneuroendocrinoimmunology. This review describes recent findings that give scientific evidence to the old tenet that patients must be both cured and cared for. In fact, we are today in a good position to investigate complex psychological factors, like placebo effects and the doctor-patient relationship, by using a physiological and neuroscientific approach. These intricate psychological factors can be approached through biochemistry, anatomy, and physiology, thus eliminating the old dichotomy between biology and psychology. This is both a biomedical and a philosophical enterprise that is changing the way we approach and interpret medicine and human biology. In the first case, curing the disease only is not sufficient, and care of the patient is of tantamount importance. In the second case, the philosophical debate about the mind-body interaction can find some important answers in the study of placebo effects. Therefore, maybe paradoxically, the placebo effect and the doctor-patient relationship can be approached by using the same biochemical, cellular and physiological tools of the materia medica, which represents an epochal transition from general concepts such as suggestibility and power of mind to a true physiology of the doctor-patient interaction.",
+            "year": 2013,
+            "citation_count": 365,
+            "relevance": 1,
+            "explanation": "This review paper discusses the placebo effect and its relationship to the doctor-patient interaction, which is a topic related to the source paper's discussion of expectations and their impact on treatment outcomes. However, it does not specifically build upon or depend on the source paper's findings."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Ethical Overview of Placebo Control in Psychiatric Research - Concepts and Challenges": {
+                    "explanation": "This paper is related to the source paper as it discusses the placebo effect and its ethical considerations in psychiatric research, which is an extension of the source paper's discussion on the placebo effect and the doctor-patient relationship.",
+                    "relevance": 1
+                },
+                "2. A Qualitative Study of Patient and Family Perceptions of Chaplain Presence During Post-Trauma Care": {
+                    "explanation": "This paper has no direct connection with the source paper, as it focuses on chaplain presence during post-trauma care, which is not related to the placebo effect or the doctor-patient relationship.",
+                    "relevance": 0
+                },
+                "3. Interoceptive dysfunction: toward an integrated framework for understanding somatic and affective disturbance in depression": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the interplay between cognitive, somatic, and affective factors in depression, which is related to the source paper's discussion on the doctor-patient relationship and the placebo effect.",
+                    "relevance": 2
+                },
+                "4. Who responds to placebos? Considering the \u201cplacebo personality\u201d via a transactional model": {
+                    "explanation": "This paper is inspired by the hypothesis of the source paper, as it explores the concept of the placebo effect and attempts to identify the characteristics of individuals who respond to placebos, which is a direct extension of the source paper's discussion on the placebo effect.",
+                    "relevance": 1
+                },
+                "5. The Framework of a Mathematical Model of the Autonomic Nervous System and Physiological Systems: Using the Neuroregulation of Blood Glucose as an Example": {
+                    "explanation": "This paper has no direct connection with the source paper, as it focuses on a mathematical model of the autonomic nervous system and physiological systems, which is not related to the placebo effect or the doctor-patient relationship.",
+                    "relevance": 0
+                },
+                "6. Understanding the non-pharmacological correlates of self-reported efficacy of antidepressants": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it explores the non-pharmacological factors that contribute to the efficacy of antidepressants, which is related to the source paper's discussion on the doctor-patient relationship and the placebo effect.",
+                    "relevance": 2
+                },
+                "7. Kruiedokters, plants and molecules : relations of power, wind, and matter in Namaqualand": {
+                    "explanation": "This paper has no direct connection with the source paper, as it focuses on traditional healing practices in South Africa, which is not related to the placebo effect or the doctor-patient relationship.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Interoceptive dysfunction: toward an integrated framework for understanding somatic and affective disturbance in depression": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the interplay between cognitive, somatic, and affective factors in depression, which is related to the source paper's discussion on the doctor-patient relationship and the placebo effect.",
+                    "relevance": 2
+                },
+                "2. Understanding the non-pharmacological correlates of self-reported efficacy of antidepressants": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it explores the non-pharmacological factors that contribute to the efficacy of antidepressants, which is related to the source paper's discussion on the doctor-patient relationship and the placebo effect.",
+                    "relevance": 2
+                },
+                "3. Ethical Overview of Placebo Control in Psychiatric Research - Concepts and Challenges": {
+                    "explanation": "This paper is related to the source paper as it discusses the placebo effect and its ethical considerations in psychiatric research, which is an extension of the source paper's discussion on the placebo effect and the doctor-patient relationship.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2016,
+        "source_paper": {
+            "paperId": "8166c7179952341efd286b1bf05dc2f4cb888bcc",
+            "title": "Interoceptive dysfunction: toward an integrated framework for understanding somatic and affective disturbance in depression.",
+            "abstract": "Depression is characterized by disturbed sleep and eating, a variety of other nonspecific somatic symptoms, and significant somatic comorbidities. Why there is such close association between cognitive and somatic dysfunction in depression is nonetheless poorly understood. An explosion of research in the area of interoception-the perception and interpretation of bodily signals-over the last decade nonetheless holds promise for illuminating what have until now been obscure links between the social, cognitive-affective, and somatic features of depression. This article reviews rapidly accumulating evidence that both somatic signaling and interoception are frequently altered in depression. This includes comparative studies showing vagus-mediated effects on depression-like behaviors in rodent models as well as studies in humans indicating both dysfunction in the neural substrates for interoception (e.g., vagus, insula, anterior cingulate cortex) and reduced sensitivity to bodily stimuli in depression. An integrative framework for organizing and interpreting this evidence is put forward which incorporates (a) multiple potential pathways to interoceptive dysfunction; (b) interaction with individual, gender, and cultural differences in interoception; and (c) a developmental psychobiological systems perspective, emphasizing likely differential susceptibility to somatic and interoceptive dysfunction across the lifespan. Combined with current theory and evidence, it is suggested that core symptoms of depression (e.g., anhedonia, social deficits) may be products of disturbed interoceptive-exteroceptive integration. More research is nonetheless needed to fully elucidate the relationship between mind, body, and social context in depression.",
+            "year": 2015,
+            "citation_count": 226,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the interplay between cognitive, somatic, and affective factors in depression, which is related to the source paper's discussion on the doctor-patient relationship and the placebo effect."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. I Keep a Close Watch on This Heart of Mine: Increased Interoception in Insomnia": {
+                    "explanation": "This paper explores the relationship between insomnia and interoception, which is a concept that the source paper discusses as being altered in depression. However, the paper does not directly build upon or use the source paper's findings as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "2. An active inference theory of allostasis and interoception in depression": {
+                    "explanation": "This paper proposes a unified theory of the mind that places metabolism and energy regulation at its core, which is related to the source paper's discussion of interoception in depression. The paper builds upon the source paper's ideas and uses them as a foundation for its own theory.",
+                    "relevance": 2
+                },
+                "3. Neural correlates of heart-focused interoception: a functional magnetic resonance imaging meta-analysis": {
+                    "explanation": "This paper examines the neural correlates of heart-focused interoception, which is a topic related to the source paper's discussion of interoception in depression. However, the paper does not directly build upon or use the source paper's findings as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "4. Bridging the Gap between the Lab and the Clinic: Psychopathology's Grand Challenge": {
+                    "explanation": "This paper discusses the challenges of translating basic research into clinical practice, but it does not directly relate to the source paper's discussion of interoception in depression.",
+                    "relevance": 0
+                },
+                "5. Interoception and Positive Symptoms in Schizophrenia": {
+                    "explanation": "This paper explores the relationship between interoception and positive symptoms in schizophrenia, which is a topic related to the source paper's discussion of interoception in depression. However, the paper does not directly build upon or use the source paper's findings as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "6. Can Interoception Improve the Pragmatic Search for Biomarkers in Psychiatry?": {
+                    "explanation": "This paper discusses the potential of interoception as a biomarker for psychiatric disorders, which is a topic related to the source paper's discussion of interoception in depression. However, the paper does not directly build upon or use the source paper's findings as a sub-hypothesis.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. An active inference theory of allostasis and interoception in depression": {
+                    "explanation": "This paper proposes a unified theory of the mind that places metabolism and energy regulation at its core, which is related to the source paper's discussion of interoception in depression. The paper builds upon the source paper's ideas and uses them as a foundation for its own theory.",
+                    "relevance": 2
+                },
+                "2. I Keep a Close Watch on This Heart of Mine: Increased Interoception in Insomnia": {
+                    "explanation": "This paper explores the relationship between insomnia and interoception, which is a concept that the source paper discusses as being altered in depression. However, the paper does not directly build upon or use the source paper's findings as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "3. Neural correlates of heart-focused interoception: a functional magnetic resonance imaging meta-analysis": {
+                    "explanation": "This paper examines the neural correlates of heart-focused interoception, which is a topic related to the source paper's discussion of interoception in depression. However, the paper does not directly build upon or use the source paper's findings as a sub-hypothesis.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2017,
+        "source_paper": {
+            "paperId": "8166c7179952341efd286b1bf05dc2f4cb888bcc",
+            "title": "Interoceptive dysfunction: toward an integrated framework for understanding somatic and affective disturbance in depression.",
+            "abstract": "Depression is characterized by disturbed sleep and eating, a variety of other nonspecific somatic symptoms, and significant somatic comorbidities. Why there is such close association between cognitive and somatic dysfunction in depression is nonetheless poorly understood. An explosion of research in the area of interoception-the perception and interpretation of bodily signals-over the last decade nonetheless holds promise for illuminating what have until now been obscure links between the social, cognitive-affective, and somatic features of depression. This article reviews rapidly accumulating evidence that both somatic signaling and interoception are frequently altered in depression. This includes comparative studies showing vagus-mediated effects on depression-like behaviors in rodent models as well as studies in humans indicating both dysfunction in the neural substrates for interoception (e.g., vagus, insula, anterior cingulate cortex) and reduced sensitivity to bodily stimuli in depression. An integrative framework for organizing and interpreting this evidence is put forward which incorporates (a) multiple potential pathways to interoceptive dysfunction; (b) interaction with individual, gender, and cultural differences in interoception; and (c) a developmental psychobiological systems perspective, emphasizing likely differential susceptibility to somatic and interoceptive dysfunction across the lifespan. Combined with current theory and evidence, it is suggested that core symptoms of depression (e.g., anhedonia, social deficits) may be products of disturbed interoceptive-exteroceptive integration. More research is nonetheless needed to fully elucidate the relationship between mind, body, and social context in depression.",
+            "year": 2015,
+            "citation_count": 226,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the interplay between cognitive, somatic, and affective factors in depression, which is related to the source paper's discussion on the doctor-patient relationship and the placebo effect."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Editorial: Embodying the Self: Neurophysiological Perspectives on the Psychopathology of Anomalous Bodily Experiences": {
+                    "explanation": "This paper is a review paper that does not present new research findings or hypotheses. It discusses the psychopathology of anomalous bodily experiences from a neurophysiological perspective, but it does not build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "2. Interoceptive sensitivity as a proxy for emotional intensity and its relationship with perseverative cognition": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the relationship between interoceptive sensitivity and perseverative cognition, building on the source paper's discussion of interoceptive dysfunction in depression.",
+                    "relevance": 1
+                },
+                "3. Idiopathic Environmental Intolerance: A Comprehensive Model": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it discusses the role of interoceptive dysfunction in idiopathic environmental intolerance, a condition that may be related to depression and other somatic symptoms.",
+                    "relevance": 2
+                },
+                "4. Increasing Our Insular World View: Interoception and Psychopathology for Psychotherapists": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it reviews current neuroscience research on interoception and its relationship to psychopathology, including depression and anxiety.",
+                    "relevance": 1
+                },
+                "5. Exteroceptive and Interoceptive Body-Self Awareness in Fibromyalgia Patients": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the relationship between interoceptive awareness and fibromyalgia, a condition that may be related to depression and other somatic symptoms.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Idiopathic Environmental Intolerance: A Comprehensive Model": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it discusses the role of interoceptive dysfunction in idiopathic environmental intolerance, a condition that may be related to depression and other somatic symptoms.",
+                    "relevance": 2
+                },
+                "2. Exteroceptive and Interoceptive Body-Self Awareness in Fibromyalgia Patients": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the relationship between interoceptive awareness and fibromyalgia, a condition that may be related to depression and other somatic symptoms.",
+                    "relevance": 2
+                },
+                "3. Interoceptive sensitivity as a proxy for emotional intensity and its relationship with perseverative cognition": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the relationship between interoceptive sensitivity and perseverative cognition, building on the source paper's discussion of interoceptive dysfunction in depression.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2017,
+        "source_paper": {
+            "paperId": "4448c8a806a46ee6b0a38a6ea8c9dc8a8362a39e",
+            "title": "An active inference theory of allostasis and interoception in depression",
+            "abstract": "In this paper, we integrate recent theoretical and empirical developments in predictive coding and active inference accounts of interoception (including the Embodied Predictive Interoception Coding model) with working hypotheses from the theory of constructed emotion to propose a biologically plausible unified theory of the mind that places metabolism and energy regulation (i.e. allostasis), as well as the sensory consequences of that regulation (i.e. interoception), at its core. We then consider the implications of this approach for understanding depression. We speculate that depression is a disorder of allostasis, whose myriad symptoms result from a \u2018locked in\u2019 brain that is relatively insensitive to its sensory context. We conclude with a brief discussion of the ways our approach might reveal new insights for the treatment of depression. This article is part of the themed issue \u2018Interoception beyond homeostasis: affect, cognition and mental health\u2019.",
+            "year": 2016,
+            "citation_count": 381,
+            "relevance": 2,
+            "explanation": "This paper proposes a unified theory of the mind that places metabolism and energy regulation at its core, which is related to the source paper's discussion of interoception in depression. The paper builds upon the source paper's ideas and uses them as a foundation for its own theory."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Positivity versus negativity is a matter of timing": {
+                    "explanation": "This paper does not appear to be directly related to the source paper's topic of allostasis, interoception, and depression. The source paper focuses on a biologically plausible unified theory of the mind, while this paper discusses the role of negative emotions in art and life.",
+                    "relevance": 0
+                },
+                "2. Body awareness, voluntary physiological regulation, and their modulation by contemplative mental training": {
+                    "explanation": "This paper is related to the source paper as it investigates the influence of contemplative mental training on interoception, which is a key concept in the source paper. The paper explores how interoception is improved through mental training, which is inspired by the source paper's discussion of interoception in depression.",
+                    "relevance": 1
+                },
+                "3. Model-Based Approaches to Active Perception and Control": {
+                    "explanation": "This paper discusses the role of internal modeling and inference in cognitive processing, which is related to the source paper's discussion of active inference and interoception. However, the paper does not appear to be directly dependent on the source paper's findings, but rather explores alternative frameworks for understanding cognition.",
+                    "relevance": 1
+                },
+                "4. Increasing Our Insular World View: Interoception and Psychopathology for Psychotherapists": {
+                    "explanation": "This paper is directly related to the source paper as it reviews current neuroscience research on interoception and its relation to psychopathology, including depression. The paper discusses the clinical implications of interoceptive disturbances, which is partially dependent on the source paper's findings on the role of interoception in depression.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Increasing Our Insular World View: Interoception and Psychopathology for Psychotherapists": {
+                    "explanation": "This paper is directly related to the source paper as it reviews current neuroscience research on interoception and its relation to psychopathology, including depression. The paper discusses the clinical implications of interoceptive disturbances, which is partially dependent on the source paper's findings on the role of interoception in depression.",
+                    "relevance": 2
+                },
+                "2. Body awareness, voluntary physiological regulation, and their modulation by contemplative mental training": {
+                    "explanation": "This paper is related to the source paper as it investigates the influence of contemplative mental training on interoception, which is a key concept in the source paper. The paper explores how interoception is improved through mental training, which is inspired by the source paper's discussion of interoception in depression.",
+                    "relevance": 1
+                },
+                "3. Model-Based Approaches to Active Perception and Control": {
+                    "explanation": "This paper discusses the role of internal modeling and inference in cognitive processing, which is related to the source paper's discussion of active inference and interoception. However, the paper does not appear to be directly dependent on the source paper's findings, but rather explores alternative frameworks for understanding cognition.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2018,
+        "source_paper": {
+            "paperId": "4448c8a806a46ee6b0a38a6ea8c9dc8a8362a39e",
+            "title": "An active inference theory of allostasis and interoception in depression",
+            "abstract": "In this paper, we integrate recent theoretical and empirical developments in predictive coding and active inference accounts of interoception (including the Embodied Predictive Interoception Coding model) with working hypotheses from the theory of constructed emotion to propose a biologically plausible unified theory of the mind that places metabolism and energy regulation (i.e. allostasis), as well as the sensory consequences of that regulation (i.e. interoception), at its core. We then consider the implications of this approach for understanding depression. We speculate that depression is a disorder of allostasis, whose myriad symptoms result from a \u2018locked in\u2019 brain that is relatively insensitive to its sensory context. We conclude with a brief discussion of the ways our approach might reveal new insights for the treatment of depression. This article is part of the themed issue \u2018Interoception beyond homeostasis: affect, cognition and mental health\u2019.",
+            "year": 2016,
+            "citation_count": 381,
+            "relevance": 2,
+            "explanation": "This paper proposes a unified theory of the mind that places metabolism and energy regulation at its core, which is related to the source paper's discussion of interoception in depression. The paper builds upon the source paper's ideas and uses them as a foundation for its own theory."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Mood impairment is stronger in young than in older adults after sleep deprivation": {
+                    "explanation": "This paper explores the effect of sleep deprivation on mood, which is not directly related to the source paper's focus on allostasis, interoception, and depression. The source paper's findings on depression as a disorder of allostasis are not used as a sub-hypothesis or inspiration for this paper.",
+                    "relevance": 0
+                },
+                "2. The Anatomy of Inference: Generative Models and Brain Structure": {
+                    "explanation": "This paper discusses the anatomical aspects of generative models in the brain, which is related to the source paper's use of predictive coding and active inference accounts of interoception. However, the paper does not directly build upon or use the source paper's findings as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "3. Facial Expression and Peripheral Physiology Fusion to Decode Individualized Affective Experience": {
+                    "explanation": "This paper presents a multimodal approach to decoding individualized affective experiences, which is related to the source paper's focus on interoception and emotion. However, the paper does not directly build upon or use the source paper's findings as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "4. Interoception and emotion: Shared mechanisms and clinical implications": {
+                    "explanation": "This paper explores the relationship between interoception and emotion, which is directly related to the source paper's focus on allostasis, interoception, and depression. The paper uses the interoceptive predictive processing framework, which is also used in the source paper, and discusses the clinical implications of interoceptive deficits in depression.",
+                    "relevance": 2
+                },
+                "5. The Free-energy Principle: A Unified Theory of Brain Functions": {
+                    "explanation": "This paper discusses the free-energy principle as a unified theory of brain functions, which is related to the source paper's use of predictive coding and active inference accounts of interoception. However, the paper does not directly build upon or use the source paper's findings as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "6. Heartbeat counting is unrelated to heartbeat detection: A comparison of methods to quantify interoception": {
+                    "explanation": "This paper explores the relationship between heartbeat counting and heartbeat detection, which is related to the source paper's focus on interoception. However, the paper does not directly build upon or use the source paper's findings as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "7. When Words Hurt: Affective Word Use in Daily News Coverage Impacts Mental Health": {
+                    "explanation": "This paper explores the impact of news coverage on mental health, which is not directly related to the source paper's focus on allostasis, interoception, and depression. The source paper's findings on depression as a disorder of allostasis are not used as a sub-hypothesis or inspiration for this paper.",
+                    "relevance": 0
+                },
+                "8. The neurobiology of interoception in health and disease": {
+                    "explanation": "This paper provides a neurobiological overview of interoception and its relationship to physical and mental health conditions, including depression. The paper discusses the interoceptive predictive processing framework, which is also used in the source paper, and explores the clinical implications of interoceptive deficits in depression.",
+                    "relevance": 2
+                },
+                "9. A morphometric signature of depressive symptoms in unmedicated patients with mood disorders": {
+                    "explanation": "This paper explores the relationship between grey matter volume and depressive symptoms, which is related to the source paper's focus on depression as a disorder of allostasis. However, the paper does not directly build upon or use the source paper's findings as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "10. Maladaptive repetitive thought as a transdiagnostic phenomenon and treatment target: An integrative review": {
+                    "explanation": "This paper explores the relationship between maladaptive repetitive thought and psychopathological processes, including depression. However, the paper does not directly build upon or use the source paper's findings as a sub-hypothesis.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Interoception and emotion: Shared mechanisms and clinical implications": {
+                    "explanation": "This paper explores the relationship between interoception and emotion, which is directly related to the source paper's focus on allostasis, interoception, and depression. The paper uses the interoceptive predictive processing framework, which is also used in the source paper, and discusses the clinical implications of interoceptive deficits in depression.",
+                    "relevance": 2
+                },
+                "2. The neurobiology of interoception in health and disease": {
+                    "explanation": "This paper provides a neurobiological overview of interoception and its relationship to physical and mental health conditions, including depression. The paper discusses the interoceptive predictive processing framework, which is also used in the source paper, and explores the clinical implications of interoceptive deficits in depression.",
+                    "relevance": 2
+                },
+                "3. The Anatomy of Inference: Generative Models and Brain Structure": {
+                    "explanation": "This paper discusses the anatomical aspects of generative models in the brain, which is related to the source paper's use of predictive coding and active inference accounts of interoception. However, the paper does not directly build upon or use the source paper's findings as a sub-hypothesis.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2018,
+        "source_paper": {
+            "paperId": "4448c8a806a46ee6b0a38a6ea8c9dc8a8362a39e",
+            "title": "An active inference theory of allostasis and interoception in depression",
+            "abstract": "In this paper, we integrate recent theoretical and empirical developments in predictive coding and active inference accounts of interoception (including the Embodied Predictive Interoception Coding model) with working hypotheses from the theory of constructed emotion to propose a biologically plausible unified theory of the mind that places metabolism and energy regulation (i.e. allostasis), as well as the sensory consequences of that regulation (i.e. interoception), at its core. We then consider the implications of this approach for understanding depression. We speculate that depression is a disorder of allostasis, whose myriad symptoms result from a \u2018locked in\u2019 brain that is relatively insensitive to its sensory context. We conclude with a brief discussion of the ways our approach might reveal new insights for the treatment of depression. This article is part of the themed issue \u2018Interoception beyond homeostasis: affect, cognition and mental health\u2019.",
+            "year": 2016,
+            "citation_count": 381,
+            "relevance": 2,
+            "explanation": "This paper proposes a unified theory of the mind that places metabolism and energy regulation at its core, which is related to the source paper's discussion of interoception in depression. The paper builds upon the source paper's ideas and uses them as a foundation for its own theory."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Behavioral Inhibition Underlies the Link Between Interoceptive Sensitivity and Anxiety-Related Temperamental Traits": {
+                    "explanation": "This paper explores the relationship between interoceptive sensitivity and anxiety, which is related to the concept of interoception in the source paper. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "2. Processing of Emotion in Functional Neurological Disorder": {
+                    "explanation": "This paper discusses the role of emotions in functional neurological disorder, which is not directly related to the source paper's focus on depression and allostasis.",
+                    "relevance": 0
+                },
+                "3. Regulation of Functions of the Brain and Body by the Principle of Predictive Coding: Implications for Impairments of the Brain-Gut Axis": {
+                    "explanation": "This paper expands on the predictive coding framework mentioned in the source paper and explores its implications for understanding the brain-gut axis. It is partially dependent on the source paper's findings.",
+                    "relevance": 2
+                },
+                "4. Persistent Physical Symptoms as Perceptual Dysregulation: A Neuropsychobehavioral Model and Its Clinical Implications": {
+                    "explanation": "This paper proposes a model for understanding persistent physical symptoms, which is related to the concept of interoception in the source paper. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "5. Objecthood, Agency and Mutualism in Valenced Farm Animal Environments": {
+                    "explanation": "This paper discusses the concept of predictive coding in the context of animal welfare, which is not directly related to the source paper's focus on depression and allostasis.",
+                    "relevance": 0
+                },
+                "6. Impact of intranasal oxytocin on interoceptive accuracy in alcohol users: an attentional mechanism?": {
+                    "explanation": "This paper explores the relationship between oxytocin and interoception in alcohol users, which is related to the concept of interoception in the source paper. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "7. Emotion Perception as Conceptual Synchrony": {
+                    "explanation": "This paper discusses the concept of emotion perception, which is related to the source paper's focus on interoception and emotion. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "8. What is mood? A computational perspective": {
+                    "explanation": "This paper explores the concept of mood from a computational perspective, which is related to the source paper's focus on depression and allostasis. It is partially dependent on the source paper's findings.",
+                    "relevance": 2
+                },
+                "9. Altered Processing and Integration of Multisensory Bodily Representations and Signals in Eating Disorders: A Possible Path Toward the Understanding of Their Underlying Causes": {
+                    "explanation": "This paper discusses the relationship between multisensory bodily representations and eating disorders, which is related to the concept of interoception in the source paper. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "10. Volitional limbic neuromodulation has a multifaceted clinical benefit in Fibromyalgia patients": {
+                    "explanation": "This paper discusses the use of neurofeedback for treating fibromyalgia, which is not directly related to the source paper's focus on depression and allostasis.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Regulation of Functions of the Brain and Body by the Principle of Predictive Coding: Implications for Impairments of the Brain-Gut Axis": {
+                    "explanation": "This paper expands on the predictive coding framework mentioned in the source paper and explores its implications for understanding the brain-gut axis. It is partially dependent on the source paper's findings.",
+                    "relevance": 2
+                },
+                "2. What is mood? A computational perspective": {
+                    "explanation": "This paper explores the concept of mood from a computational perspective, which is related to the source paper's focus on depression and allostasis. It is partially dependent on the source paper's findings.",
+                    "relevance": 2
+                },
+                "3. Behavioral Inhibition Underlies the Link Between Interoceptive Sensitivity and Anxiety-Related Temperamental Traits": {
+                    "explanation": "This paper explores the relationship between interoceptive sensitivity and anxiety, which is related to the concept of interoception in the source paper. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2019,
+        "source_paper": {
+            "paperId": "bed0e07c09c2d3665125591e6c04f77091052199",
+            "title": "The neurobiology of interoception in health and disease",
+            "abstract": "Interoception is the sensing of internal bodily sensations. Interoception is an umbrella term that encompasses (1) the afferent (body\u2010to\u2010brain) signaling through distinct neural and humoral (including immune and endocrine) channels; (2) the neural encoding, representation, and integration of this information concerning internal bodily state; (3) the influence of such information on other perceptions, cognitions, and behaviors; (4) and the psychological expression of these representations as consciously accessible physical sensations and feelings. Interoceptive mechanisms ensure physiological health through the cerebral coordination of homeostatic reflexes and allostatic responses that include motivational behaviors and associated affective and emotional feelings. Furthermore, the conscious, unitary sense of self in time and space may be grounded in the primacy and lifelong continuity of interoception. Body\u2010to\u2010brain interactions influence physical and mental well\u2010being. Consequently, we show that systematic investigation of how individual differences, and within\u2010individual changes, in interoceptive processing can contribute to the mechanistic understanding of physical and psychological disorders. We present a neurobiological overview of interoception and describe how interoceptive impairments at different levels relate to specific physical and mental health conditions, including sickness behaviors and fatigue, depression, eating disorders, autism, and anxiety. We frame these findings in an interoceptive predictive processing framework and highlight potential new avenues for treatments.",
+            "year": 2018,
+            "citation_count": 267,
+            "relevance": 2,
+            "explanation": "This paper provides a neurobiological overview of interoception and its relationship to physical and mental health conditions, including depression. The paper discusses the interoceptive predictive processing framework, which is also used in the source paper, and explores the clinical implications of interoceptive deficits in depression."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Tools and Resources: Remote, automated and MRI-compatible administration of interoceptive inspiratory resistive loading": {
+                    "explanation": "This paper presents a new methodology for studying interoception, which is related to the source paper's topic of interoception. However, the source paper provides a neurobiological overview of interoception, while this paper focuses on a specific method for studying interoception, making it partially dependent on the source paper's findings.",
+                    "relevance": 2
+                },
+                "2. Fatigue in multiple sclerosis is associated with multimodal interoceptive abnormalities": {
+                    "explanation": "This paper investigates the relationship between fatigue in multiple sclerosis and interoceptive abnormalities, which is a specific application of the interoceptive mechanisms discussed in the source paper. The hypothesis in this paper is inspired by the findings of the source paper, but it does not directly build upon them.",
+                    "relevance": 1
+                },
+                "3. Interoception and Social Connection": {
+                    "explanation": "This paper discusses the role of interoception in social connection, which is a related but distinct topic from the source paper's focus on the neurobiology of interoception. The paper does not directly build upon the source paper's findings, but rather explores a new angle on the topic of interoception.",
+                    "relevance": 1
+                },
+                "4. Transdiagnostic expression of interoceptive abnormalities in psychiatric conditions": {
+                    "explanation": "This paper presents a cross-sectional characterization of cardiac interoception in patients with psychiatric conditions, which is a specific application of the interoceptive mechanisms discussed in the source paper. The hypothesis in this paper is partially dependent on the source paper's findings, as it builds upon the idea that interoceptive abnormalities are related to psychiatric symptoms and diagnoses.",
+                    "relevance": 2
+                },
+                "5. Use of Cardiac and Cerebral Biopotential-Operated Neurointerfaces in Management of Stress-Induced Disorders": {
+                    "explanation": "This paper discusses the use of neurointerfaces in managing stress-induced disorders, which is a distinct topic from the source paper's focus on the neurobiology of interoception. The paper does not directly build upon the source paper's findings, but rather explores a new angle on the topic of interoception and its applications.",
+                    "relevance": 0
+                },
+                "6. Working With the Predictable Life of Patients: The Importance of \u201cMentalizing Interoception\u201d to Meaningful Change in Psychotherapy": {
+                    "explanation": "This paper discusses the importance of mentalizing interoception in psychotherapy, which is a specific application of the interoceptive mechanisms discussed in the source paper. The hypothesis in this paper is partially dependent on the source paper's findings, as it builds upon the idea that interoceptive abnormalities are related to psychiatric symptoms and diagnoses.",
+                    "relevance": 2
+                },
+                "7. Measuring the Brain-Gut Axis in Psychological Sciences: A Necessary Challenge": {
+                    "explanation": "This paper discusses the importance of measuring the brain-gut axis in psychological sciences, which is a distinct topic from the source paper's focus on the neurobiology of interoception. The paper does not directly build upon the source paper's findings, but rather explores a new angle on the topic of interoception and its applications.",
+                    "relevance": 0
+                },
+                "8. Tantra and Modern Neurosciences: Is there any Correlation?": {
+                    "explanation": "This paper discusses the correlation between Tantra and modern neurosciences, which is a distinct topic from the source paper's focus on the neurobiology of interoception. The paper does not directly build upon the source paper's findings, but rather explores a new angle on the topic of interoception and its applications.",
+                    "relevance": 0
+                },
+                "9. Major Depressive Disorder Is Associated with Impaired Interoceptive Accuracy: A Systematic Review": {
+                    "explanation": "This paper presents a systematic review of the relationship between major depressive disorder and impaired interoceptive accuracy, which is a specific application of the interoceptive mechanisms discussed in the source paper. The hypothesis in this paper is partially dependent on the source paper's findings, as it builds upon the idea that interoceptive abnormalities are related to psychiatric symptoms and diagnoses.",
+                    "relevance": 2
+                },
+                "10. Interoceptive accuracy predicts nonplanning trait impulsivity.": {
+                    "explanation": "This paper investigates the relationship between interoceptive accuracy and nonplanning trait impulsivity, which is a specific application of the interoceptive mechanisms discussed in the source paper. The hypothesis in this paper is partially dependent on the source paper's findings, as it builds upon the idea that interoceptive abnormalities are related to psychiatric symptoms and diagnoses.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Transdiagnostic expression of interoceptive abnormalities in psychiatric conditions": {
+                    "explanation": "This paper presents a cross-sectional characterization of cardiac interoception in patients with psychiatric conditions, which is a specific application of the interoceptive mechanisms discussed in the source paper. The hypothesis in this paper is partially dependent on the source paper's findings, as it builds upon the idea that interoceptive abnormalities are related to psychiatric symptoms and diagnoses.",
+                    "relevance": 2
+                },
+                "2. Working With the Predictable Life of Patients: The Importance of \u201cMentalizing Interoception\u201d to Meaningful Change in Psychotherapy": {
+                    "explanation": "This paper discusses the importance of mentalizing interoception in psychotherapy, which is a specific application of the interoceptive mechanisms discussed in the source paper. The hypothesis in this paper is partially dependent on the source paper's findings, as it builds upon the idea that interoceptive abnormalities are related to psychiatric symptoms and diagnoses.",
+                    "relevance": 2
+                },
+                "3. Major Depressive Disorder Is Associated with Impaired Interoceptive Accuracy: A Systematic Review": {
+                    "explanation": "This paper presents a systematic review of the relationship between major depressive disorder and impaired interoceptive accuracy, which is a specific application of the interoceptive mechanisms discussed in the source paper. The hypothesis in this paper is partially dependent on the source paper's findings, as it builds upon the idea that interoceptive abnormalities are related to psychiatric symptoms and diagnoses.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2019,
+        "source_paper": {
+            "paperId": "bed0e07c09c2d3665125591e6c04f77091052199",
+            "title": "The neurobiology of interoception in health and disease",
+            "abstract": "Interoception is the sensing of internal bodily sensations. Interoception is an umbrella term that encompasses (1) the afferent (body\u2010to\u2010brain) signaling through distinct neural and humoral (including immune and endocrine) channels; (2) the neural encoding, representation, and integration of this information concerning internal bodily state; (3) the influence of such information on other perceptions, cognitions, and behaviors; (4) and the psychological expression of these representations as consciously accessible physical sensations and feelings. Interoceptive mechanisms ensure physiological health through the cerebral coordination of homeostatic reflexes and allostatic responses that include motivational behaviors and associated affective and emotional feelings. Furthermore, the conscious, unitary sense of self in time and space may be grounded in the primacy and lifelong continuity of interoception. Body\u2010to\u2010brain interactions influence physical and mental well\u2010being. Consequently, we show that systematic investigation of how individual differences, and within\u2010individual changes, in interoceptive processing can contribute to the mechanistic understanding of physical and psychological disorders. We present a neurobiological overview of interoception and describe how interoceptive impairments at different levels relate to specific physical and mental health conditions, including sickness behaviors and fatigue, depression, eating disorders, autism, and anxiety. We frame these findings in an interoceptive predictive processing framework and highlight potential new avenues for treatments.",
+            "year": 2018,
+            "citation_count": 267,
+            "relevance": 2,
+            "explanation": "This paper provides a neurobiological overview of interoception and its relationship to physical and mental health conditions, including depression. The paper discusses the interoceptive predictive processing framework, which is also used in the source paper, and explores the clinical implications of interoceptive deficits in depression."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. The Importance of Sensory Processing in Mental Health: A Proposed Addition to the Research Domain Criteria (RDoC) and Suggestions for RDoC 2.0": {
+                    "explanation": "The key hypothesis in this paper is inspired by the findings of the source paper. The source paper provides a neurobiological overview of interoception, and this paper builds upon that by highlighting the importance of interoception, a subset of sensory processing, in mental health. The authors propose adding sensory processing, including interoception, to the Research Domain Criteria (RDoC) framework, demonstrating a clear connection to the source paper's discussion of interoception.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. The Importance of Sensory Processing in Mental Health: A Proposed Addition to the Research Domain Criteria (RDoC) and Suggestions for RDoC 2.0": {
+                    "explanation": "The key hypothesis in this paper is inspired by the findings of the source paper. The source paper provides a neurobiological overview of interoception, and this paper builds upon that by highlighting the importance of interoception, a subset of sensory processing, in mental health. The authors propose adding sensory processing, including interoception, to the Research Domain Criteria (RDoC) framework, demonstrating a clear connection to the source paper's discussion of interoception.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2020,
+        "source_paper": {
+            "paperId": "bed0e07c09c2d3665125591e6c04f77091052199",
+            "title": "The neurobiology of interoception in health and disease",
+            "abstract": "Interoception is the sensing of internal bodily sensations. Interoception is an umbrella term that encompasses (1) the afferent (body\u2010to\u2010brain) signaling through distinct neural and humoral (including immune and endocrine) channels; (2) the neural encoding, representation, and integration of this information concerning internal bodily state; (3) the influence of such information on other perceptions, cognitions, and behaviors; (4) and the psychological expression of these representations as consciously accessible physical sensations and feelings. Interoceptive mechanisms ensure physiological health through the cerebral coordination of homeostatic reflexes and allostatic responses that include motivational behaviors and associated affective and emotional feelings. Furthermore, the conscious, unitary sense of self in time and space may be grounded in the primacy and lifelong continuity of interoception. Body\u2010to\u2010brain interactions influence physical and mental well\u2010being. Consequently, we show that systematic investigation of how individual differences, and within\u2010individual changes, in interoceptive processing can contribute to the mechanistic understanding of physical and psychological disorders. We present a neurobiological overview of interoception and describe how interoceptive impairments at different levels relate to specific physical and mental health conditions, including sickness behaviors and fatigue, depression, eating disorders, autism, and anxiety. We frame these findings in an interoceptive predictive processing framework and highlight potential new avenues for treatments.",
+            "year": 2018,
+            "citation_count": 267,
+            "relevance": 2,
+            "explanation": "This paper provides a neurobiological overview of interoception and its relationship to physical and mental health conditions, including depression. The paper discusses the interoceptive predictive processing framework, which is also used in the source paper, and explores the clinical implications of interoceptive deficits in depression."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Sensitivity to changes in rate of heartbeats as a measure of interoceptive ability": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates a new way of assessing cardiac interoceptive ability, building on the source paper's results regarding interoception and its relation to physical and mental well-being.",
+                    "relevance": 1
+                },
+                "2. Mindfulness and Behavior Change": {
+                    "explanation": "Although this paper explores the relationship between mindfulness and behavior change, it lacks a direct connection to the source paper's findings on interoception. However, it mentions the importance of interoception in understanding adaptive behavior and psychopathology, showing some relevance to the source paper.",
+                    "relevance": 1
+                },
+                "3. Two Measures of Interoceptive Sensibility and the Relationship With Introversion and Neuroticism in an Adult Population": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it utilizes two interoceptive measures to investigate the relationship between interoception and personality types, which is a topic mentioned in the source paper.",
+                    "relevance": 2
+                },
+                "4. Exploring the Multidimensional Assessment of Interoceptive Awareness in youth aged 7-17 years": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it adapts the Multidimensional Assessment of Interoceptive Awareness (MAIA) questionnaire for younger respondents, building on the source paper's results regarding interoception and its relation to physical and mental well-being.",
+                    "relevance": 2
+                },
+                "5. Interoception and Its Role for Eating, Obesity, and Eating Disorders": {
+                    "explanation": "Although this paper explores the relationship between interoception and eating disorders, it lacks a direct connection to the source paper's findings. However, it mentions the importance of interoception in understanding adaptive behavior and psychopathology, showing some relevance to the source paper.",
+                    "relevance": 1
+                },
+                "6. Using mobile brain/body imaging to advance research in arts, health, and related therapeutics": {
+                    "explanation": "This paper has no direct connection to the source paper's findings on interoception. It explores the use of mobile brain/body imaging in arts, health, and related therapeutics, which is a different topic.",
+                    "relevance": 0
+                },
+                "7. Mechanisms of Light and Music Stimulation Controlled by a Person\u2019s own Brain and Heart Biopotentials or Those of another Person": {
+                    "explanation": "Although this paper explores the effects of light and music stimulation controlled by brain and heart biopotentials, it lacks a direct connection to the source paper's findings on interoception. However, it mentions the importance of interoceptive signals in understanding the effects of stimulation, showing some relevance to the source paper.",
+                    "relevance": 1
+                },
+                "8. Vagus Nerve Stimulation as a Gateway to Interoception": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it proposes the use of vagus nerve stimulation to modulate bodily signals and study interoception, building on the source paper's results regarding interoception and its relation to physical and mental well-being.",
+                    "relevance": 2
+                },
+                "9. Feeling the beat: Temporal and spatial perception of heartbeat sensations": {
+                    "explanation": "Although this paper explores the perception of heartbeat sensations, it lacks a direct connection to the source paper's findings. However, it mentions the importance of interoception in understanding adaptive behavior and psychopathology, showing some relevance to the source paper.",
+                    "relevance": 1
+                },
+                "10. Presence, flow, and narrative absorption: an interdisciplinary theoretical exploration with a new spatiotemporal integrated model based on predictive processing": {
+                    "explanation": "Although this paper explores the relationship between presence, flow, and narrative absorption, it lacks a direct connection to the source paper's findings on interoception. However, it mentions the importance of interoception in understanding adaptive behavior and psychopathology, showing some relevance to the source paper.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Two Measures of Interoceptive Sensibility and the Relationship With Introversion and Neuroticism in an Adult Population": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it utilizes two interoceptive measures to investigate the relationship between interoception and personality types, which is a topic mentioned in the source paper.",
+                    "relevance": 2
+                },
+                "2. Exploring the Multidimensional Assessment of Interoceptive Awareness in youth aged 7-17 years": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it adapts the Multidimensional Assessment of Interoceptive Awareness (MAIA) questionnaire for younger respondents, building on the source paper's results regarding interoception and its relation to physical and mental well-being.",
+                    "relevance": 2
+                },
+                "3. Vagus Nerve Stimulation as a Gateway to Interoception": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it proposes the use of vagus nerve stimulation to modulate bodily signals and study interoception, building on the source paper's results regarding interoception and its relation to physical and mental well-being.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2020,
+        "source_paper": {
+            "paperId": "bed0e07c09c2d3665125591e6c04f77091052199",
+            "title": "The neurobiology of interoception in health and disease",
+            "abstract": "Interoception is the sensing of internal bodily sensations. Interoception is an umbrella term that encompasses (1) the afferent (body\u2010to\u2010brain) signaling through distinct neural and humoral (including immune and endocrine) channels; (2) the neural encoding, representation, and integration of this information concerning internal bodily state; (3) the influence of such information on other perceptions, cognitions, and behaviors; (4) and the psychological expression of these representations as consciously accessible physical sensations and feelings. Interoceptive mechanisms ensure physiological health through the cerebral coordination of homeostatic reflexes and allostatic responses that include motivational behaviors and associated affective and emotional feelings. Furthermore, the conscious, unitary sense of self in time and space may be grounded in the primacy and lifelong continuity of interoception. Body\u2010to\u2010brain interactions influence physical and mental well\u2010being. Consequently, we show that systematic investigation of how individual differences, and within\u2010individual changes, in interoceptive processing can contribute to the mechanistic understanding of physical and psychological disorders. We present a neurobiological overview of interoception and describe how interoceptive impairments at different levels relate to specific physical and mental health conditions, including sickness behaviors and fatigue, depression, eating disorders, autism, and anxiety. We frame these findings in an interoceptive predictive processing framework and highlight potential new avenues for treatments.",
+            "year": 2018,
+            "citation_count": 267,
+            "relevance": 2,
+            "explanation": "This paper provides a neurobiological overview of interoception and its relationship to physical and mental health conditions, including depression. The paper discusses the interoceptive predictive processing framework, which is also used in the source paper, and explores the clinical implications of interoceptive deficits in depression."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Brain activation after nasal histamine provocation in house dust mite allergic rhinitis patients": {
+                    "explanation": "This paper explores brain activation in response to nasal histamine provocation, which is related to interoception. However, it does not directly build upon or depend on the findings of the source paper, which focuses on the neurobiology of interoception in health and disease.",
+                    "relevance": 0
+                },
+                "2. Trait and state interoceptive abnormalities are associated with dissociation and seizure frequency in patients with functional seizures": {
+                    "explanation": "This paper investigates the relationship between interoceptive abnormalities and functional seizures, which is closely related to the topic of the source paper. The key hypothesis in this paper is inspired by the findings of the source paper regarding the role of interoception in physical and mental health conditions.",
+                    "relevance": 1
+                },
+                "3. More Than Words Can Say: A Multi-Disciplinary Consideration of the Psychotherapeutic Evaluation and Treatment of Alexithymia": {
+                    "explanation": "This paper discusses the evaluation and treatment of alexithymia, a disorder characterized by difficulties in emotional awareness and interoception. The paper builds upon the source paper's discussion of interoceptive impairments and their relation to physical and mental health conditions.",
+                    "relevance": 1
+                },
+                "4. Electrogastrography for psychophysiological research: Practical considerations, analysis pipeline, and normative data in a large sample": {
+                    "explanation": "This paper presents a methodological study on electrogastrography, which is a technique used to record gastric electrical activity. While the paper touches on interoception, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "5. Remote, Automated, and MRI-Compatible Administration of Interoceptive Inspiratory Resistive Loading": {
+                    "explanation": "This paper presents a novel methodology for studying interoception, which is closely related to the topic of the source paper. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "6. Skipping a Beat: Heartbeat-Evoked Potentials Reflect Predictions during Interoceptive-Exteroceptive Integration": {
+                    "explanation": "This paper investigates the neural mechanisms of interoceptive-exteroceptive integration, which is a topic related to the source paper. The key hypothesis in this paper is inspired by the findings of the source paper regarding the role of interoception in predicting internal bodily states.",
+                    "relevance": 1
+                },
+                "7. Interoceptive accuracy and its impact on neuronal responses to olfactory stimulation in the insular cortex": {
+                    "explanation": "This paper explores the relationship between interoceptive accuracy and neuronal responses to olfactory stimulation, which is closely related to the topic of the source paper. The key hypothesis in this paper is partially dependent on the findings of the source paper regarding the role of interoception in integrating multimodal information.",
+                    "relevance": 2
+                },
+                "8. New directions in predictive processing": {
+                    "explanation": "This paper presents a review of predictive processing, a theoretical framework that is related to interoception. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "9. Hunger: Deprivation and manipulation of food as a torture method. State of the art in research and ways forward": {
+                    "explanation": "This paper discusses the topic of hunger and food deprivation, which is related to interoception. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Interoceptive accuracy and its impact on neuronal responses to olfactory stimulation in the insular cortex": {
+                    "explanation": "This paper explores the relationship between interoceptive accuracy and neuronal responses to olfactory stimulation, which is closely related to the topic of the source paper. The key hypothesis in this paper is partially dependent on the findings of the source paper regarding the role of interoception in integrating multimodal information.",
+                    "relevance": 2
+                },
+                "2. Trait and state interoceptive abnormalities are associated with dissociation and seizure frequency in patients with functional seizures": {
+                    "explanation": "This paper investigates the relationship between interoceptive abnormalities and functional seizures, which is closely related to the topic of the source paper. The key hypothesis in this paper is inspired by the findings of the source paper regarding the role of interoception in physical and mental health conditions.",
+                    "relevance": 1
+                },
+                "3. More Than Words Can Say: A Multi-Disciplinary Consideration of the Psychotherapeutic Evaluation and Treatment of Alexithymia": {
+                    "explanation": "This paper discusses the evaluation and treatment of alexithymia, a disorder characterized by difficulties in emotional awareness and interoception. The paper builds upon the source paper's discussion of interoceptive impairments and their relation to physical and mental health conditions.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2020,
+        "source_paper": {
+            "paperId": "710c7f32348bbb48f81d895a9be7d0a981029640",
+            "title": "Major Depressive Disorder Is Associated with Impaired Interoceptive Accuracy: A Systematic Review",
+            "abstract": "Interoception is the sense of the physiological condition of the entire body. Impaired interoception has been associated with aberrant activity of the insula in major depressive disorder (MDD) during heartbeat perception tasks. Despite clinical relevance, studies investigating interoceptive impairments in MDD have never been reviewed systematically according to the guidelines of the PRISMA protocol, and therefore we collated studies that assessed accuracy in detecting heartbeat sensations (interoceptive accuracy, IAc) in MDD (databases: PubMed/Medline, PsycINFO, and PsycARTICLES). Out of 389 records, six studies met the inclusion criteria. The main findings suggest that (i) moderately depressed samples exhibit the largest interoceptive deficits as compared with healthy adults. (ii) difficulties in decision making and low affect intensity are correlated with low IAc, and (iii) IAc seems to normalize in severely depressed subjects. These associations may be confounded by sex, anxiety or panic disorder, and intake of selective serotonin reuptake inhibitors. Our findings have implications for the development of interoceptive treatments that might relieve MDD-related symptoms or prevent relapse in recurrent depression by targeting the interoceptive nervous system.",
+            "year": 2019,
+            "citation_count": 116,
+            "relevance": 2,
+            "explanation": "This paper presents a systematic review of the relationship between major depressive disorder and impaired interoceptive accuracy, which is a specific application of the interoceptive mechanisms discussed in the source paper. The hypothesis in this paper is partially dependent on the source paper's findings, as it builds upon the idea that interoceptive abnormalities are related to psychiatric symptoms and diagnoses."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Touch Research\u2013Quo Vadis? A Plea for High-Quality Clinical Trials": {
+                    "explanation": "This paper is unrelated to the source paper, as it focuses on the importance of touch research and high-quality clinical trials, without mentioning interoception or major depressive disorder.",
+                    "relevance": 0
+                },
+                "2. Individual differences in interoceptive accuracy and prediction error in motor functional neurological disorders: A DTI study": {
+                    "explanation": "This paper explores the relationship between interoception and motor functional neurological disorders, which is partially dependent on the concept of interoceptive accuracy introduced in the source paper.",
+                    "relevance": 1
+                },
+                "3. Aberrant Interoceptive Accuracy in Patients With Schizophrenia Performing a Heartbeat Counting Task": {
+                    "explanation": "This paper investigates the relationship between interoception and schizophrenia, which is partially dependent on the concept of interoceptive accuracy introduced in the source paper.",
+                    "relevance": 1
+                },
+                "4. A Pilot Study on the Effect of an Energy Drink on Interoception in High vs. Low Anxiety Sensitivity Individuals": {
+                    "explanation": "This paper explores the relationship between interoception and anxiety sensitivity, which is partially dependent on the concept of interoceptive accuracy introduced in the source paper.",
+                    "relevance": 1
+                },
+                "5. Effects of Psychoactive Massage in Outpatients with Depressive Disorders: A Randomized Controlled Mixed-Methods Study": {
+                    "explanation": "This paper investigates the effects of psychoactive massage on depressive disorders, which is partially dependent on the concept of interoception introduced in the source paper.",
+                    "relevance": 1
+                },
+                "6. Effects of Depressive Symptoms, Feelings, and Interoception on Reward-Based Decision-Making: Investigation Using Reinforcement Learning Model": {
+                    "explanation": "This paper explores the relationship between interoception, depressive symptoms, and reward-based decision-making, which is partially dependent on the concept of interoceptive accuracy introduced in the source paper.",
+                    "relevance": 1
+                },
+                "7. Trauma or Drama: A Predictive Processing Perspective on the Continuum of Stress": {
+                    "explanation": "This paper is unrelated to the source paper, as it focuses on the concept of trauma and stress, without mentioning interoception or major depressive disorder.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Individual differences in interoceptive accuracy and prediction error in motor functional neurological disorders: A DTI study": {
+                    "explanation": "This paper explores the relationship between interoception and motor functional neurological disorders, which is partially dependent on the concept of interoceptive accuracy introduced in the source paper.",
+                    "relevance": 1
+                },
+                "2. Aberrant Interoceptive Accuracy in Patients With Schizophrenia Performing a Heartbeat Counting Task": {
+                    "explanation": "This paper investigates the relationship between interoception and schizophrenia, which is partially dependent on the concept of interoceptive accuracy introduced in the source paper.",
+                    "relevance": 1
+                },
+                "3. Effects of Psychoactive Massage in Outpatients with Depressive Disorders: A Randomized Controlled Mixed-Methods Study": {
+                    "explanation": "This paper investigates the effects of psychoactive massage on depressive disorders, which is partially dependent on the concept of interoception introduced in the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2021,
+        "source_paper": {
+            "paperId": "710c7f32348bbb48f81d895a9be7d0a981029640",
+            "title": "Major Depressive Disorder Is Associated with Impaired Interoceptive Accuracy: A Systematic Review",
+            "abstract": "Interoception is the sense of the physiological condition of the entire body. Impaired interoception has been associated with aberrant activity of the insula in major depressive disorder (MDD) during heartbeat perception tasks. Despite clinical relevance, studies investigating interoceptive impairments in MDD have never been reviewed systematically according to the guidelines of the PRISMA protocol, and therefore we collated studies that assessed accuracy in detecting heartbeat sensations (interoceptive accuracy, IAc) in MDD (databases: PubMed/Medline, PsycINFO, and PsycARTICLES). Out of 389 records, six studies met the inclusion criteria. The main findings suggest that (i) moderately depressed samples exhibit the largest interoceptive deficits as compared with healthy adults. (ii) difficulties in decision making and low affect intensity are correlated with low IAc, and (iii) IAc seems to normalize in severely depressed subjects. These associations may be confounded by sex, anxiety or panic disorder, and intake of selective serotonin reuptake inhibitors. Our findings have implications for the development of interoceptive treatments that might relieve MDD-related symptoms or prevent relapse in recurrent depression by targeting the interoceptive nervous system.",
+            "year": 2019,
+            "citation_count": 116,
+            "relevance": 2,
+            "explanation": "This paper presents a systematic review of the relationship between major depressive disorder and impaired interoceptive accuracy, which is a specific application of the interoceptive mechanisms discussed in the source paper. The hypothesis in this paper is partially dependent on the source paper's findings, as it builds upon the idea that interoceptive abnormalities are related to psychiatric symptoms and diagnoses."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Interoception and social cognition in chronic low back pain: a common inference disturbance? An exploratory study.": {
+                    "explanation": "This paper explores the relationship between interoception and social cognition in chronic low back pain patients. Although it does not directly build upon the source paper's findings, it does investigate interoceptive accuracy, which is a related concept. Therefore, the relevance score is 1.",
+                    "relevance": 1
+                },
+                "2. Effects of a Single Yoga Session on Cardiac Interoceptive Accuracy and Emotional Experience": {
+                    "explanation": "This paper examines the effects of a single yoga session on cardiac interoceptive accuracy and emotional experience. While it does not directly build upon the source paper's findings, it does investigate interoceptive accuracy, which is a related concept. Therefore, the relevance score is 1.",
+                    "relevance": 1
+                },
+                "3. Influencing factors on women's attitudes toward menopause: a systematic review": {
+                    "explanation": "This paper is a systematic review that investigates the factors influencing women's attitudes toward menopause. It does not appear to be related to the source paper, which focuses on interoception and major depressive disorder. Therefore, the relevance score is 0.",
+                    "relevance": 0
+                },
+                "4. Massage therapy as a complementary and alternative approach for people with multiple sclerosis: a systematic review": {
+                    "explanation": "This paper is a systematic review that examines the effectiveness of massage therapy for people with multiple sclerosis. It does not appear to be related to the source paper, which focuses on interoception and major depressive disorder. Therefore, the relevance score is 0.",
+                    "relevance": 0
+                },
+                "5. Altered effective connectivity in sensorimotor cortices is a signature of severity and clinical course in depression": {
+                    "explanation": "This paper investigates the neural underpinnings of depression, focusing on sensorimotor alterations. While it does not directly build upon the source paper's findings, it does explore the relationship between interoception and depression. Therefore, the relevance score is 1.",
+                    "relevance": 1
+                },
+                "6. Validation of the Multidimensional Assessment of Interoceptive Awareness (MAIA-2) questionnaire in hospitalized patients with major depressive disorder": {
+                    "explanation": "This paper validates the MAIA-2 questionnaire in hospitalized patients with major depressive disorder. It builds upon the source paper's findings, which suggest that interoceptive impairments are associated with major depressive disorder. Therefore, the relevance score is 2.",
+                    "relevance": 2
+                },
+                "7. Listen to Your Heart\u2013Ecological Momentary Assessment of Interoceptive Accuracy, Awareness and Sensibility: A Pilot Study": {
+                    "explanation": "This paper explores the use of ecological momentary assessment to examine interoceptive accuracy, awareness, and sensibility. While it does not directly build upon the source paper's findings, it does investigate interoceptive accuracy, which is a related concept. Therefore, the relevance score is 1.",
+                    "relevance": 1
+                },
+                "8. Interoception and the origin of feelings: A new synthesis": {
+                    "explanation": "This paper proposes a new synthesis of interoception and the origin of feelings. While it does not directly build upon the source paper's findings, it does explore the relationship between interoception and conscious mental states. Therefore, the relevance score is 1.",
+                    "relevance": 1
+                },
+                "9. Neural changes in youth at high risk for bipolar disorder undergoing family\u2010focused therapy or psychoeducation": {
+                    "explanation": "This paper investigates the neural changes in youth at high risk for bipolar disorder undergoing family-focused therapy or psychoeducation. It does not appear to be related to the source paper, which focuses on interoception and major depressive disorder. Therefore, the relevance score is 0.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Validation of the Multidimensional Assessment of Interoceptive Awareness (MAIA-2) questionnaire in hospitalized patients with major depressive disorder": {
+                    "explanation": "This paper validates the MAIA-2 questionnaire in hospitalized patients with major depressive disorder. It builds upon the source paper's findings, which suggest that interoceptive impairments are associated with major depressive disorder. Therefore, the relevance score is 2.",
+                    "relevance": 2
+                },
+                "2. Interoception and social cognition in chronic low back pain: a common inference disturbance? An exploratory study.": {
+                    "explanation": "This paper explores the relationship between interoception and social cognition in chronic low back pain patients. Although it does not directly build upon the source paper's findings, it does investigate interoceptive accuracy, which is a related concept. Therefore, the relevance score is 1.",
+                    "relevance": 1
+                },
+                "3. Effects of a Single Yoga Session on Cardiac Interoceptive Accuracy and Emotional Experience": {
+                    "explanation": "This paper examines the effects of a single yoga session on cardiac interoceptive accuracy and emotional experience. While it does not directly build upon the source paper's findings, it does investigate interoceptive accuracy, which is a related concept. Therefore, the relevance score is 1.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2022,
+        "source_paper": {
+            "paperId": "095ac0332377b33bd5399fb96566debb3616c5db",
+            "title": "Validation of the Multidimensional Assessment of Interoceptive Awareness (MAIA-2) questionnaire in hospitalized patients with major depressive disorder",
+            "abstract": "Objectives Interoception refers to the sensation, interpretation, and integration of internal somatic signals. Abnormalities in self-reported interoception are prevalent features of major depressive disorder (MDD) and may affect treatment outcomes. In the present study, we investigated the psychometric properties of the revised eight-dimensional and 37-item Multidimensional Assessment of Interoceptive Awareness questionnaire (the MAIA-2) in a severely depressed sample, after translating two updated scales (Not-Distracting, Not-Worrying) into German. Specifically, we examined the measure\u2019s internal consistency reliability, sensitivity to change, and minimal important differences (MID) with a focus on patient\u2019s antidepressive responses to treatment. Methods The study enrolled 110 participants (age: M = 46.85, SD = 11.23; female: 55.45%) undergoing hospital treatment, of whom 87 were included in the pre-post analysis. Participants completed a German translation of MAIA-2 and the Beck Depression Inventory-II (pre-/post-treatment). Internal consistency reliability was determined by Cronbach\u2019s \u03b1/McDonalds\u2019s \u03c9, sensitivity to change was determined by effect sizes, and MIDs were determined by distribution- (0.5*SD) and anchor-based approaches (mean change method; ROC curve cut-points). Results Depression severity reduced over the course of treatment (Median = -65.22%), and 34.48% of patients achieved remission. Reliability was appropriate for post-treatment (range of \u03c9: .70-.90), but questionable for two pre-treatment scales (Noticing: \u03c9 = .64; Not-Distracting: \u03c9 = .66). The eight dimensions of MAIA-2 were sensitive to change (standardized response mean: .32-.81; Cohen\u2019s effect size: .30-.92). Distribution-based MIDs (.38-.61) and anchor-based mean change MIDs (remission vs. partial response: .00-.85; partial response vs. nonresponse: .08-.88) were established on the group level. For six scales, ROC cut-points (remission: .00\u20131.33; response: -.20\u20131.00) demonstrated accurate classification to treatment response groups on the individual level. Conclusions This study demonstrated the applicability of the MAIA-2 questionnaire in MDD. The updated version may have led to reliability improvements regarding the revised scales, but subthreshold reliability was evident prior to treatment. The measure\u2019s dimensions were sensitive to change. MIDs were established that corresponded with antidepressive treatment outcomes. Our findings are consistent with a growing area of research which considers somatic feelings as key contributors to mental health.",
+            "year": 2021,
+            "citation_count": 29,
+            "relevance": 2,
+            "explanation": "This paper validates the MAIA-2 questionnaire in hospitalized patients with major depressive disorder. It builds upon the source paper's findings, which suggest that interoceptive impairments are associated with major depressive disorder. Therefore, the relevance score is 2."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Efficacy of interoceptive and embodied rehabilitative training protocol in patients with mild multiple sclerosis: A randomized controlled trial": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the effect of an embodied rehabilitative protocol on interoceptive awareness, which is a concept that the source paper explored in the context of major depressive disorder.",
+                    "relevance": 2
+                },
+                "2. Stress Reduction by Yoga versus Mindfulness Training in Adults Suffering from Distress: A Three-Armed Randomized Controlled Trial including Qualitative Interviews (RELAX Study)": {
+                    "explanation": "The hypothesis in this paper is not directly related to the source paper, as it focuses on the effects of yoga and mindfulness training on stress reduction, without specifically exploring interoceptive awareness in the context of major depressive disorder.",
+                    "relevance": 0
+                },
+                "3. Intra and inter: Alterations in functional brain resting-state networks in patients with functional constipation": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the relationship between interoceptive abilities and brain plastic changes in patients with functional constipation, which is a concept that the source paper touched upon in the context of major depressive disorder.",
+                    "relevance": 2
+                },
+                "4. Altered Interoceptive Sensibility in Adults With Chronic Tic Disorder": {
+                    "explanation": "The hypothesis in this paper is inspired by the hypothesis of the source paper, as it investigates the relationship between interoceptive sensibility and chronic tic disorders, which is a concept that the source paper explored in the context of major depressive disorder.",
+                    "relevance": 1
+                },
+                "5. Interoception Dysfunction Contributes to the Negative Emotional Bias in Major Depressive Disorder": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the relationship between interoception dysfunction and negative emotional bias in major depressive disorder, which is a concept that the source paper investigated.",
+                    "relevance": 2
+                },
+                "6. Preliminary Rasch analysis of the multidimensional assessment of interoceptive awareness in adults with stroke": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it validates the Multidimensional Assessment of Interoceptive Awareness (MAIA) in adults with stroke, which is a concept that the source paper explored in the context of major depressive disorder.",
+                    "relevance": 2
+                },
+                "7. A Pilot Feasibility Study of Reconnecting to Internal Sensations and Experiences (RISE), a Mindfulness-Informed Intervention to Reduce Interoceptive Dysfunction and Suicidal Ideation, among University Students in India": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the relationship between interoceptive dysfunction and suicidal ideation, which is a concept that the source paper touched upon in the context of major depressive disorder.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Efficacy of interoceptive and embodied rehabilitative training protocol in patients with mild multiple sclerosis: A randomized controlled trial": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the effect of an embodied rehabilitative protocol on interoceptive awareness, which is a concept that the source paper explored in the context of major depressive disorder.",
+                    "relevance": 2
+                },
+                "2. Interoception Dysfunction Contributes to the Negative Emotional Bias in Major Depressive Disorder": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the relationship between interoception dysfunction and negative emotional bias in major depressive disorder, which is a concept that the source paper investigated.",
+                    "relevance": 2
+                },
+                "3. Preliminary Rasch analysis of the multidimensional assessment of interoceptive awareness in adults with stroke": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it validates the Multidimensional Assessment of Interoceptive Awareness (MAIA) in adults with stroke, which is a concept that the source paper explored in the context of major depressive disorder.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2023,
+        "source_paper": {
+            "paperId": "095ac0332377b33bd5399fb96566debb3616c5db",
+            "title": "Validation of the Multidimensional Assessment of Interoceptive Awareness (MAIA-2) questionnaire in hospitalized patients with major depressive disorder",
+            "abstract": "Objectives Interoception refers to the sensation, interpretation, and integration of internal somatic signals. Abnormalities in self-reported interoception are prevalent features of major depressive disorder (MDD) and may affect treatment outcomes. In the present study, we investigated the psychometric properties of the revised eight-dimensional and 37-item Multidimensional Assessment of Interoceptive Awareness questionnaire (the MAIA-2) in a severely depressed sample, after translating two updated scales (Not-Distracting, Not-Worrying) into German. Specifically, we examined the measure\u2019s internal consistency reliability, sensitivity to change, and minimal important differences (MID) with a focus on patient\u2019s antidepressive responses to treatment. Methods The study enrolled 110 participants (age: M = 46.85, SD = 11.23; female: 55.45%) undergoing hospital treatment, of whom 87 were included in the pre-post analysis. Participants completed a German translation of MAIA-2 and the Beck Depression Inventory-II (pre-/post-treatment). Internal consistency reliability was determined by Cronbach\u2019s \u03b1/McDonalds\u2019s \u03c9, sensitivity to change was determined by effect sizes, and MIDs were determined by distribution- (0.5*SD) and anchor-based approaches (mean change method; ROC curve cut-points). Results Depression severity reduced over the course of treatment (Median = -65.22%), and 34.48% of patients achieved remission. Reliability was appropriate for post-treatment (range of \u03c9: .70-.90), but questionable for two pre-treatment scales (Noticing: \u03c9 = .64; Not-Distracting: \u03c9 = .66). The eight dimensions of MAIA-2 were sensitive to change (standardized response mean: .32-.81; Cohen\u2019s effect size: .30-.92). Distribution-based MIDs (.38-.61) and anchor-based mean change MIDs (remission vs. partial response: .00-.85; partial response vs. nonresponse: .08-.88) were established on the group level. For six scales, ROC cut-points (remission: .00\u20131.33; response: -.20\u20131.00) demonstrated accurate classification to treatment response groups on the individual level. Conclusions This study demonstrated the applicability of the MAIA-2 questionnaire in MDD. The updated version may have led to reliability improvements regarding the revised scales, but subthreshold reliability was evident prior to treatment. The measure\u2019s dimensions were sensitive to change. MIDs were established that corresponded with antidepressive treatment outcomes. Our findings are consistent with a growing area of research which considers somatic feelings as key contributors to mental health.",
+            "year": 2021,
+            "citation_count": 29,
+            "relevance": 2,
+            "explanation": "This paper validates the MAIA-2 questionnaire in hospitalized patients with major depressive disorder. It builds upon the source paper's findings, which suggest that interoceptive impairments are associated with major depressive disorder. Therefore, the relevance score is 2."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Dispositional Associations Between Interoceptive Attention Tendencies and Effortful Control: Cross\u2010sectional Findings from an Online National Survey of Japanese Working Adults": {
+                    "explanation": "This paper uses the Multidimensional Assessment of Interoceptive Awareness (MAIA) questionnaire, which is also used in the source paper. However, it explores the relationship between interoceptive attention tendencies and effortful control in a different population (Japanese working adults) and context, making it inspired by the source paper's findings but not directly dependent on them.",
+                    "relevance": 1
+                },
+                "2. The role of the body in the experience of installation art: a case study of visitors' bodily, emotional, and transformative experiences in Tom\u00e1s Saraceno's \u201cin orbit\u201d": {
+                    "explanation": "This paper does not directly reference the source paper or use the MAIA-2 questionnaire. It explores the concept of interoception in a different context (installation art), making it unrelated to the source paper.",
+                    "relevance": 0
+                },
+                "3. Exploring Associations between C-Reactive Protein and Self-Reported Interoception in Major Depressive Disorder: A Bayesian Analysis": {
+                    "explanation": "This paper uses the MAIA-2 questionnaire, which is also used in the source paper, and explores the relationship between self-reported interoception and C-reactive protein in major depressive disorder. The findings of this paper are partially dependent on the source paper's validation of the MAIA-2 questionnaire, making it a relevant paper with a relevance score of 2.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Exploring Associations between C-Reactive Protein and Self-Reported Interoception in Major Depressive Disorder: A Bayesian Analysis": {
+                    "explanation": "This paper uses the MAIA-2 questionnaire, which is also used in the source paper, and explores the relationship between self-reported interoception and C-reactive protein in major depressive disorder. The findings of this paper are partially dependent on the source paper's validation of the MAIA-2 questionnaire, making it a relevant paper with a relevance score of 2.",
+                    "relevance": 2
+                },
+                "2. Dispositional Associations Between Interoceptive Attention Tendencies and Effortful Control: Cross\u2010sectional Findings from an Online National Survey of Japanese Working Adults": {
+                    "explanation": "This paper uses the Multidimensional Assessment of Interoceptive Awareness (MAIA) questionnaire, which is also used in the source paper. However, it explores the relationship between interoceptive attention tendencies and effortful control in a different population (Japanese working adults) and context, making it inspired by the source paper's findings but not directly dependent on them.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2023,
+        "source_paper": {
+            "paperId": "b2384e1ae1598b2560c94dbcc354c35aedcf9148",
+            "title": "Interoception Dysfunction Contributes to the Negative Emotional Bias in Major Depressive Disorder",
+            "abstract": "Background Previous research studies have demonstrated that impaired interoception is involved in emotional information processing in major depressive disorder (MDD). Heartbeat-evoked potential (HEP) amplitudes, an index for interoception, could be manipulated by emotional faces in healthy people. Considering negative emotional bias is the core characteristic in MDD, we hypothesized that interoception dysfunction was associated with the negative emotional bias in MDD. Methods An electroencephalogram (EEG) study under an emotional faces task was applied to explore the relationship between interoception and emotional bias. HEPs before emotional faces stimuli were used to predict the late positive potential (LPP) amplitudes and it worked as an index of emotional bias. Twenty-seven patients with MDD and 27 healthy controls (HCs) participated in this study. Source analysis gave an auxiliary description for results in sensory level. Results Major depressive disorders (MDDs) had poor performance in the heartbeat count task (HCT) and attenuate HEP average amplitudes (455\u2013550 ms). Compared with HCs, cluster-based permutation t-tests revealed that MDDs had attenuated LPP amplitudes (300\u20131,000 ms) over centroparietal regions and enhanced LPP amplitudes over frontocentral regions. Furthermore, abnormal attenuated HEPs could predict aberrant LPPs under sad face stimuli in MDDs, which could be associated with the dysfunction of the anterior cingulate cortex (ACC) and right insula. Conclusion Mediated by ACC and insula, interoception dysfunction contributes to the negative emotional bias of MDD, highlighting the importance of interoception in the disorder.",
+            "year": 2022,
+            "citation_count": 8,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the relationship between interoception dysfunction and negative emotional bias in major depressive disorder, which is a concept that the source paper investigated."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Modulation of the heartbeat evoked cortical potential by hypnotizability and hypnosis": {
+                    "explanation": "This paper explores the relationship between hypnotizability, hypnosis, and interoceptive accuracy, which is related to the concept of interoception studied in the source paper. The paper uses the heartbeat evoked cortical potential (HEP) as a correlate of interoceptive accuracy, similar to the source paper's use of HEP amplitudes as an index for interoception. However, the paper's hypothesis is not directly dependent on the source paper's findings, but rather explores a new angle on interoception.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Modulation of the heartbeat evoked cortical potential by hypnotizability and hypnosis": {
+                    "explanation": "This paper explores the relationship between hypnotizability, hypnosis, and interoceptive accuracy, which is related to the concept of interoception studied in the source paper. The paper uses the heartbeat evoked cortical potential (HEP) as a correlate of interoceptive accuracy, similar to the source paper's use of HEP amplitudes as an index for interoception. However, the paper's hypothesis is not directly dependent on the source paper's findings, but rather explores a new angle on interoception.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2024,
+        "source_paper": {
+            "paperId": "b2384e1ae1598b2560c94dbcc354c35aedcf9148",
+            "title": "Interoception Dysfunction Contributes to the Negative Emotional Bias in Major Depressive Disorder",
+            "abstract": "Background Previous research studies have demonstrated that impaired interoception is involved in emotional information processing in major depressive disorder (MDD). Heartbeat-evoked potential (HEP) amplitudes, an index for interoception, could be manipulated by emotional faces in healthy people. Considering negative emotional bias is the core characteristic in MDD, we hypothesized that interoception dysfunction was associated with the negative emotional bias in MDD. Methods An electroencephalogram (EEG) study under an emotional faces task was applied to explore the relationship between interoception and emotional bias. HEPs before emotional faces stimuli were used to predict the late positive potential (LPP) amplitudes and it worked as an index of emotional bias. Twenty-seven patients with MDD and 27 healthy controls (HCs) participated in this study. Source analysis gave an auxiliary description for results in sensory level. Results Major depressive disorders (MDDs) had poor performance in the heartbeat count task (HCT) and attenuate HEP average amplitudes (455\u2013550 ms). Compared with HCs, cluster-based permutation t-tests revealed that MDDs had attenuated LPP amplitudes (300\u20131,000 ms) over centroparietal regions and enhanced LPP amplitudes over frontocentral regions. Furthermore, abnormal attenuated HEPs could predict aberrant LPPs under sad face stimuli in MDDs, which could be associated with the dysfunction of the anterior cingulate cortex (ACC) and right insula. Conclusion Mediated by ACC and insula, interoception dysfunction contributes to the negative emotional bias of MDD, highlighting the importance of interoception in the disorder.",
+            "year": 2022,
+            "citation_count": 8,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the relationship between interoception dysfunction and negative emotional bias in major depressive disorder, which is a concept that the source paper investigated."
+        },
+        "llama_output": {},
+        "seed": 42
+    },
+    {
+        "year": 2024,
+        "source_paper": {
+            "paperId": "973ef5064e6760ade4125053736966b90c1f7038",
+            "title": "Modulation of the heartbeat evoked cortical potential by hypnotizability and hypnosis.",
+            "abstract": "Hypnotizability is a psychophysiological trait measured by scales and associated with several differences, including interoceptive accuracy and the morpho-functional characteristics of interoception-related brain regions. The aim of the study was to assess whether the amplitude of the heartbeat evoked cortical potential (HEP), a correlate of interoceptive accuracy, differs in participants with low (lows) and high (highs) hypnotizability scores (assessed by the Stanford Hypnotic Susceptibility Scale, Form A) before and after the induction of hypnosis. ECG and EEG were monitored in 16 highs and 15 lows during an experimental session, including open eyes baseline (B), closed eyes relaxation (R), hypnotic induction (IND), neutral hypnosis (NH), and post session baseline (Post). No significant difference was observed between groups and conditions in autonomic variables. The HEP amplitude was lower in highs than in lows at the right parietal site, likely due to hypnotizability related differences in the functional connection between the right insula and parietal cortex. It increased in highs and decreased in lows across the session, possibly due to the highs' preeminently internally directed attention and to the lows' possible disengagement from the task. Since interoception is involved in several cognitive-emotional functions, its hypnotizability related differences may contribute to the variability of experience and behavior in daily life.",
+            "year": 2023,
+            "citation_count": 5,
+            "relevance": 1,
+            "explanation": "This paper explores the relationship between hypnotizability, hypnosis, and interoceptive accuracy, which is related to the concept of interoception studied in the source paper. The paper uses the heartbeat evoked cortical potential (HEP) as a correlate of interoceptive accuracy, similar to the source paper's use of HEP amplitudes as an index for interoception. However, the paper's hypothesis is not directly dependent on the source paper's findings, but rather explores a new angle on interoception."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Interoception as a function of hypnotizability during rest and a heartbeat counting task": {
+                    "explanation": "The key hypothesis in this paper is inspired by the findings of the source paper, as it investigates interoceptive processing in individuals with different hypnotizability scores, building on the source paper's results regarding the relationship between hypnotizability and interoceptive accuracy.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Interoception as a function of hypnotizability during rest and a heartbeat counting task": {
+                    "explanation": "The key hypothesis in this paper is inspired by the findings of the source paper, as it investigates interoceptive processing in individuals with different hypnotizability scores, building on the source paper's results regarding the relationship between hypnotizability and interoceptive accuracy.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    }
+]

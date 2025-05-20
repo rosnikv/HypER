@@ -1,0 +1,20 @@
+[
+    {
+        "paperId": "480224d1d8aea358b363757649e841385d38b4a8",
+        "title": "Screening for colorectal cancer and other GI cancers.",
+        "abstract": "Most of the major advances in the screening for gastrointestinal cancers this year were in the area of colorectal cancer screening. Currently, screening is recommended for the prevention of colorectal cancer in average and high-risk populations. For average risk populations, large randomized trials support the use of screening fecal occult blood testing, and case-control studies support the use of screening sigmoidoscopy. This year, several investigators have addressed issues related to the probability of identifying advanced lesions in the proximal colon following a positive screening flexible sigmoidoscopy. Similarly, two studies identified that villous histology in an index polyp was associated with an increased risk of recurrent colonic polyps. Additionally, two large trials provided new insight about the prevalence of mutations in the MLH1 or MSH2 mismatch-repair genes among patients with colorectal cancer. Lastly, a case-control study from Sweden provided the best evidence to date that surveillance colonoscopies for patients with long-standing ulcerative colitis may reduce cancer-related mortality. Although further work is needed, these studies have served to advance our knowledge of colorectal cancer screening substantially.",
+        "year": 1999,
+        "citation_count": 3,
+        "relevance": 1,
+        "explanation": "This paper discusses various aspects of colorectal cancer screening, including the use of surveillance colonoscopies for patients with long-standing ulcerative colitis. The paper mentions a case-control study from Sweden that provides evidence that surveillance colonoscopies may reduce cancer-related mortality, which is related to the findings of the source paper."
+    },
+    {
+        "paperId": "5c7329146eae3f5ac741e691ca2167f40a26bcc7",
+        "title": "A decision analysis of surveillance for colorectal cancer in ulcerative colitis",
+        "abstract": "BACKGROUND Patients with long standing, extensive ulcerative colitis have an increased risk of developing colorectal cancer. AIMS To assess the feasibility of surveillance colonoscopy in preventing death from colorectal cancer. PATIENTS A hypothetical cohort of patients with chronic ulcerative colitis. METHODS The benefits of life years saved were weighted against the costs of biannual colonoscopy and proctocolectomy, and the terminal care of patients dying from colorectal cancer. Two separate Markov processes were modelled to compare the cost-benefit relation in patients with or without surveillance. The cumulative probability of developing colorectal cancer served as a threshold to determine which of the two management strategies is associated with a larger net benefit. RESULTS If the cumulative probability of colorectal cancer exceeds a threshold value of 27%, surveillance becomes more beneficial than no surveillance. The threshold is only slightly smaller than the actual cumulative cancer rate of 30%. Variations of the assumptions built into the model can raise the threshold above or lower it far below the actual rate. If several of the assumptions are varied jointly, even small changes can lead to extreme threshold values. CONCLUSIONS It is not possible to prove that frequent colonoscopies scheduled at regular intervals are an effective means to manage the increased risk of colorectal cancer associated with ulcerative colitis.",
+        "year": 2000,
+        "citation_count": 49,
+        "relevance": 2,
+        "explanation": "This paper builds upon the findings of the source paper, which suggested that colonoscopic surveillance may be associated with a decreased risk of death from colorectal cancer in patients with long-standing UC. The current paper uses decision analysis to assess the feasibility of surveillance colonoscopy in preventing death from colorectal cancer, thus using the source paper's findings as a sub-hypothesis."
+    }
+]

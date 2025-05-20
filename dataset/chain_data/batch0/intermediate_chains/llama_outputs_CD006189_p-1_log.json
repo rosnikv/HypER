@@ -1,0 +1,366 @@
+[
+    {
+        "year": 2006,
+        "source_paper": {
+            "paperId": "c95fcf9d4100ca85be76927f9a6b200ea7ea0d7b",
+            "pmid": "15727375",
+            "title": "Frozen shoulder syndrome: comparison of oral route corticosteroid and intra-articular corticosteroid injection.",
+            "abstract": "Twenty-six patients with frozen shoulder syndrome (Stage 2 and 3) were included in this study conducted at Dr. Kariadi General Hospital, Semarang, Indonesia and randomly allocated into 2 groups: 40 mg triamcinolone intra-articular injection and triamcinolone oral tablets. The result showed that triamcinolone intra-articular injection group \"cured\" rate was 5.8 times higher at week one compared to the triamcinolone tablet group. Sixty-two percent of the cases with triamcinolone intra-articular injection achieved their \"cured\" condition after one week of therapy, compared with only 14% of the triamcinolone tablets group. We conclude that, intra-articular corticosteroid injection provide faster improvement compared to oral route.",
+            "year": 2004,
+            "citation_count": 45
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Oral steroids for adhesive capsulitis": {
+                    "explanation": "This paper is a review paper, which summarizes existing literature on oral steroids for adhesive capsulitis, including the source paper's findings on intra-articular corticosteroid injection. However, it does not build upon or depend on the source paper's hypothesis or findings, and lacks novel hypotheses or findings itself.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2006,
+        "source_paper": {
+            "paperId": "c95fcf9d4100ca85be76927f9a6b200ea7ea0d7b",
+            "pmid": "15727375",
+            "title": "Frozen shoulder syndrome: comparison of oral route corticosteroid and intra-articular corticosteroid injection.",
+            "abstract": "Twenty-six patients with frozen shoulder syndrome (Stage 2 and 3) were included in this study conducted at Dr. Kariadi General Hospital, Semarang, Indonesia and randomly allocated into 2 groups: 40 mg triamcinolone intra-articular injection and triamcinolone oral tablets. The result showed that triamcinolone intra-articular injection group \"cured\" rate was 5.8 times higher at week one compared to the triamcinolone tablet group. Sixty-two percent of the cases with triamcinolone intra-articular injection achieved their \"cured\" condition after one week of therapy, compared with only 14% of the triamcinolone tablets group. We conclude that, intra-articular corticosteroid injection provide faster improvement compared to oral route.",
+            "year": 2004,
+            "citation_count": 45
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Oral steroids for adhesive capsulitis": {
+                    "explanation": "This paper is a review paper, including terms like 'Review' and summarizing existing literature without novel hypotheses or findings. It does not directly build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2007,
+        "source_paper": {
+            "paperId": "c95fcf9d4100ca85be76927f9a6b200ea7ea0d7b",
+            "pmid": "15727375",
+            "title": "Frozen shoulder syndrome: comparison of oral route corticosteroid and intra-articular corticosteroid injection.",
+            "abstract": "Twenty-six patients with frozen shoulder syndrome (Stage 2 and 3) were included in this study conducted at Dr. Kariadi General Hospital, Semarang, Indonesia and randomly allocated into 2 groups: 40 mg triamcinolone intra-articular injection and triamcinolone oral tablets. The result showed that triamcinolone intra-articular injection group \"cured\" rate was 5.8 times higher at week one compared to the triamcinolone tablet group. Sixty-two percent of the cases with triamcinolone intra-articular injection achieved their \"cured\" condition after one week of therapy, compared with only 14% of the triamcinolone tablets group. We conclude that, intra-articular corticosteroid injection provide faster improvement compared to oral route.",
+            "year": 2004,
+            "citation_count": 45
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Comparison between intraarticular triamcinolone acetonide and methylprednisolone acetate injections in treatment of frozen shoulder": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper as it compares the effectiveness of different corticosteroids, including triamcinolone, in treating frozen shoulder. The source paper's findings on the efficacy of intra-articular corticosteroid injection provide a basis for this comparison.",
+                    "relevance": 2
+                },
+                "2. Pain Relieving Effect of Short-Course, Pulse Prednisolone in Managing Frozen Shoulder": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the pain-relieving effect of a different corticosteroid (prednisolone) in managing frozen shoulder. The source paper's results on the efficacy of intra-articular corticosteroid injection provide a starting point for this investigation.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Comparison between intraarticular triamcinolone acetonide and methylprednisolone acetate injections in treatment of frozen shoulder": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper as it compares the effectiveness of different corticosteroids, including triamcinolone, in treating frozen shoulder. The source paper's findings on the efficacy of intra-articular corticosteroid injection provide a basis for this comparison.",
+                    "relevance": 2
+                },
+                "2. Pain Relieving Effect of Short-Course, Pulse Prednisolone in Managing Frozen Shoulder": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the pain-relieving effect of a different corticosteroid (prednisolone) in managing frozen shoulder. The source paper's results on the efficacy of intra-articular corticosteroid injection provide a starting point for this investigation.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2009,
+        "source_paper": {
+            "paperId": "10aa141cb635014233e4948805a22a1d0458bbd4",
+            "title": "Comparison between intraarticular triamcinolone acetonide and methylprednisolone acetate injections in treatment of frozen shoulder.",
+            "abstract": "OBJECTIVE\nTo compare the effectiveness of triamcinolone acetonide (40 mg) and methylprednisolone acetate (60 mg) in Iraqi patients with primary and secondary frozen shoulder.\n\n\nMETHODS\nA total number of 135 (93 males and 42 females) patients with frozen shoulder, allocated at outpatient clinic of rheumatology in Al-Yarmook Teaching Hospital (Baghdad-Iraq) from January 2004 to December 2005, were enrolled in non-controlled clinical trial. The diagnosis of frozen shoulder was made using the guidelines for shoulder complaint issued by the Dutch College of General Practitioners. Intraarticular injections of 40 mg triamcinolone acetonide (46 males and 22 females) or 60 mg methylprednisolone acetate (47 males and 20 females) were given every 3 weeks (not more than 3 injections) by using posterior route.\n\n\nRESULTS\nBoth triamcinolone acetonide (81.8%) and methylprednisolone acetate (83.3%) were equally effective in primary frozen shoulder. Triamcinolone acetonide is significantly improved diabetic frozen shoulder in comparison to methylprednisolone acetate (69% versus 39%). Also patients on triamcinolone acetonide required less number of steroid injections and higher percent of severe cases were significantly improved by triamcinolone acetonide in comparison with methylprednisolone acetate.\n\n\nCONCLUSION\nWe conclude that triamcinolone acetonide is a good rescue for painful stiff shoulder particularly for resistant cases as with diabetes mellitus, and with long duration of illness. Also, its efficacy can be observed with less frequent injections.",
+            "year": 2007,
+            "citation_count": 23,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper as it compares the effectiveness of different corticosteroids, including triamcinolone, in treating frozen shoulder. The source paper's findings on the efficacy of intra-articular corticosteroid injection provide a basis for this comparison."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Methylprednisolone versus triamcinolone in painful shoulder using ultrasound-guided injection": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it compares the efficacy of methylprednisolone and triamcinolone in the treatment of painful shoulder, similar to the source paper's comparison of the two corticosteroids in the treatment of frozen shoulder.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Methylprednisolone versus triamcinolone in painful shoulder using ultrasound-guided injection": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it compares the efficacy of methylprednisolone and triamcinolone in the treatment of painful shoulder, similar to the source paper's comparison of the two corticosteroids in the treatment of frozen shoulder.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2010,
+        "source_paper": {
+            "paperId": "6fc65d4c7b876e6f0232e5b7a649884c0f47c72b",
+            "title": "Methylprednisolone versus triamcinolone in painful shoulder using ultrasound-guided injection",
+            "abstract": "There is little evidence about the comparative efficacy of corticosteroids in the treatment of painful shoulder. The main aim was to compare the efficacy of methylprednisolone (MTP) versus triamcinolone (TMC) in the treatment of painful shoulder using an ultrasound-guided injection. Patients with painful shoulder due to subacromial bursitis and partial or full-thickness rotator cuff tears demonstrated by musculoskeletal ultrasound received a guided-injection of MTP acetate 40\u00a0mg (12 patients) or TMC acetonide 40\u00a0mg (12 patients). Range of motion and pain visual analogue scale were registered at 10 and 30 min, 1 and 2\u00a0weeks postinjection. Two weeks postinjection, both groups reported a mean improvement in range of motion (33%) and relief of pain (61%). Relief of pain of 50% or more was observed in 92% of patients in MTP group and 50% of TMC group (p\u00a0=\u00a00.02). Two months postinjection, 50% of the patients in MTP group and 25% in TMC group reported total relief of pain (p\u00a0=\u00a00.3). Patients with painful shoulder receiving an ultrasound-guided injection of MTP or TMC have a rapid and sustained overall response. Relief of pain tends to be more rapid with MTP than TMC.",
+            "year": 2009,
+            "citation_count": 32,
+            "relevance": 1,
+            "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it compares the efficacy of methylprednisolone and triamcinolone in the treatment of painful shoulder, similar to the source paper's comparison of the two corticosteroids in the treatment of frozen shoulder."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Intra-articular Corticosteroid Injections Versus Pulsed Radiofrequency in Painful Shoulder: A Prospective, Randomized, Single-blinded Study": {
+                    "explanation": "The key hypothesis in this paper is inspired by the hypothesis of the source paper, as it compares the efficacy of intra-articular corticosteroid injection, which is a similar treatment approach to the ultrasound-guided injection of methylprednisolone (MTP) or triamcinolone (TMC) in the source paper. The paper investigates a different aspect of corticosteroid treatment, but it is still within the same domain of painful shoulder treatment.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Intra-articular Corticosteroid Injections Versus Pulsed Radiofrequency in Painful Shoulder: A Prospective, Randomized, Single-blinded Study": {
+                    "explanation": "The key hypothesis in this paper is inspired by the hypothesis of the source paper, as it compares the efficacy of intra-articular corticosteroid injection, which is a similar treatment approach to the ultrasound-guided injection of methylprednisolone (MTP) or triamcinolone (TMC) in the source paper. The paper investigates a different aspect of corticosteroid treatment, but it is still within the same domain of painful shoulder treatment.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2011,
+        "source_paper": {
+            "paperId": "6fc65d4c7b876e6f0232e5b7a649884c0f47c72b",
+            "title": "Methylprednisolone versus triamcinolone in painful shoulder using ultrasound-guided injection",
+            "abstract": "There is little evidence about the comparative efficacy of corticosteroids in the treatment of painful shoulder. The main aim was to compare the efficacy of methylprednisolone (MTP) versus triamcinolone (TMC) in the treatment of painful shoulder using an ultrasound-guided injection. Patients with painful shoulder due to subacromial bursitis and partial or full-thickness rotator cuff tears demonstrated by musculoskeletal ultrasound received a guided-injection of MTP acetate 40\u00a0mg (12 patients) or TMC acetonide 40\u00a0mg (12 patients). Range of motion and pain visual analogue scale were registered at 10 and 30 min, 1 and 2\u00a0weeks postinjection. Two weeks postinjection, both groups reported a mean improvement in range of motion (33%) and relief of pain (61%). Relief of pain of 50% or more was observed in 92% of patients in MTP group and 50% of TMC group (p\u00a0=\u00a00.02). Two months postinjection, 50% of the patients in MTP group and 25% in TMC group reported total relief of pain (p\u00a0=\u00a00.3). Patients with painful shoulder receiving an ultrasound-guided injection of MTP or TMC have a rapid and sustained overall response. Relief of pain tends to be more rapid with MTP than TMC.",
+            "year": 2009,
+            "citation_count": 32,
+            "relevance": 1,
+            "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it compares the efficacy of methylprednisolone and triamcinolone in the treatment of painful shoulder, similar to the source paper's comparison of the two corticosteroids in the treatment of frozen shoulder."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Clinical Effectiveness of Botulinum Toxin Type B in the Treatment of Subacromial Bursitis or Shoulder Impingement Syndrome": {
+                    "explanation": "This paper explores an alternative treatment method for subacromial bursitis or shoulder impingement syndrome, comparing the effectiveness of botulinum toxin type B with trimacinolone injection. Although it does not directly build upon or use the findings of the source paper as a sub-hypothesis, it does investigate a related condition (subacromial bursitis) and treatment method (ultrasound-guided injection) that is also relevant to the source paper. However, the key hypothesis in this paper is not directly inspired by or dependent on the findings of the source paper.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Clinical Effectiveness of Botulinum Toxin Type B in the Treatment of Subacromial Bursitis or Shoulder Impingement Syndrome": {
+                    "explanation": "This paper explores an alternative treatment method for subacromial bursitis or shoulder impingement syndrome, comparing the effectiveness of botulinum toxin type B with trimacinolone injection. Although it does not directly build upon or use the findings of the source paper as a sub-hypothesis, it does investigate a related condition (subacromial bursitis) and treatment method (ultrasound-guided injection) that is also relevant to the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2011,
+        "source_paper": {
+            "paperId": "d7cfbcac0ea4fd3495afcdc2d150e39d0b9b8d13",
+            "title": "Intra-articular Corticosteroid Injections Versus Pulsed Radiofrequency in Painful Shoulder: A Prospective, Randomized, Single-blinded Study",
+            "abstract": "ObjectiveChronic shoulder pain treatment is known to be a difficult and long process. The objective of this study is to compare the efficacy of intra-articular corticosteroid injection and pulse radiofrequency (PRF) applied to the suprascapular nerve in patients with shoulder pain. MethodsFifty patients with shoulder pain were included in the study. Patients were randomly allocated into group 1 (intra-articular injection of corticosteroid) and group 2 (PRF to the suprascapular nerve). Outcome measures included a pain scale (visual analog scale; VAS), range of motion, Shoulder Pain and Disability Index (SPADI), the Short Form-36, Beck Depression Scale questionnaires, and paracetamol consumption. ResultsIn both groups, significant improvement was observed in all weeks in VAS, range of motion (active-passive), and SPADI subscores (P<0.05). Improvement was detected in most of the Short Form-36 scores at the end of the treatment in both groups (P<0.05), whereas no significant change was observed in Beck Depression Inventory score (P>0.05). When the groups were compared, a significant difference was found between the groups in favor of group 1 in terms of VAS at night in weeks 1, 4, and 12; VAS at rest in weeks 1 and 4; and VAS during movement in week 1 (P<0.05). There was also a significant difference in favor of group 1 observed in weeks 1, 4, and 12 in SPADI pain and total subscores (P<0.05). Paracetamol consumption was observed to be lower in group 1 (P<0.05). ConclusionsIntra-articular injection of corticosteroid and PRF applied to the suprascapular nerve are effective in the treatment of painful shoulder. When 2 treatments are compared, it may be concluded that intra-articular steroid injection was more effective especially in the first weeks regarding pain than the PRF. Further studies are needed to confirm these results in the prospective treatment guidelines.",
+            "year": 2010,
+            "citation_count": 52,
+            "relevance": 1,
+            "explanation": "The key hypothesis in this paper is inspired by the hypothesis of the source paper, as it compares the efficacy of intra-articular corticosteroid injection, which is a similar treatment approach to the ultrasound-guided injection of methylprednisolone (MTP) or triamcinolone (TMC) in the source paper. The paper investigates a different aspect of corticosteroid treatment, but it is still within the same domain of painful shoulder treatment."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Suprascapular Nerve Block: A Narrative Review": {
+                    "explanation": "This paper is a review paper that discusses the suprascapular nerve blockade technique, which is related to the source paper's topic of pulsed radiofrequency applied to the suprascapular nerve. However, it does not build upon or depend on the findings of the source paper, and instead provides a general overview of the technique.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2012,
+        "source_paper": {
+            "paperId": "d7cfbcac0ea4fd3495afcdc2d150e39d0b9b8d13",
+            "title": "Intra-articular Corticosteroid Injections Versus Pulsed Radiofrequency in Painful Shoulder: A Prospective, Randomized, Single-blinded Study",
+            "abstract": "ObjectiveChronic shoulder pain treatment is known to be a difficult and long process. The objective of this study is to compare the efficacy of intra-articular corticosteroid injection and pulse radiofrequency (PRF) applied to the suprascapular nerve in patients with shoulder pain. MethodsFifty patients with shoulder pain were included in the study. Patients were randomly allocated into group 1 (intra-articular injection of corticosteroid) and group 2 (PRF to the suprascapular nerve). Outcome measures included a pain scale (visual analog scale; VAS), range of motion, Shoulder Pain and Disability Index (SPADI), the Short Form-36, Beck Depression Scale questionnaires, and paracetamol consumption. ResultsIn both groups, significant improvement was observed in all weeks in VAS, range of motion (active-passive), and SPADI subscores (P<0.05). Improvement was detected in most of the Short Form-36 scores at the end of the treatment in both groups (P<0.05), whereas no significant change was observed in Beck Depression Inventory score (P>0.05). When the groups were compared, a significant difference was found between the groups in favor of group 1 in terms of VAS at night in weeks 1, 4, and 12; VAS at rest in weeks 1 and 4; and VAS during movement in week 1 (P<0.05). There was also a significant difference in favor of group 1 observed in weeks 1, 4, and 12 in SPADI pain and total subscores (P<0.05). Paracetamol consumption was observed to be lower in group 1 (P<0.05). ConclusionsIntra-articular injection of corticosteroid and PRF applied to the suprascapular nerve are effective in the treatment of painful shoulder. When 2 treatments are compared, it may be concluded that intra-articular steroid injection was more effective especially in the first weeks regarding pain than the PRF. Further studies are needed to confirm these results in the prospective treatment guidelines.",
+            "year": 2010,
+            "citation_count": 52,
+            "relevance": 1,
+            "explanation": "The key hypothesis in this paper is inspired by the hypothesis of the source paper, as it compares the efficacy of intra-articular corticosteroid injection, which is a similar treatment approach to the ultrasound-guided injection of methylprednisolone (MTP) or triamcinolone (TMC) in the source paper. The paper investigates a different aspect of corticosteroid treatment, but it is still within the same domain of painful shoulder treatment."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Pulsed radio frequency. But what dose did you use?": {
+                    "explanation": "This paper is a letter to the editor and does not present any new findings or hypotheses related to the source paper. It appears to be a discussion on the technique used in a different study, and does not have any connection to the source paper.",
+                    "relevance": 0
+                },
+                "2. Percutaneous radiofrequency lesioning of the suprascapular nerve for the management of chronic shoulder pain: a case series": {
+                    "explanation": "This paper explores the use of radiofrequency lesioning of the suprascapular nerve for chronic shoulder pain, which is partially dependent on the findings of the source paper regarding the use of pulsed radiofrequency for shoulder pain treatment. The source paper's findings on the efficacy of pulsed radiofrequency can be seen as a sub-hypothesis for this paper's investigation of a different radiofrequency technique.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Percutaneous radiofrequency lesioning of the suprascapular nerve for the management of chronic shoulder pain: a case series": {
+                    "explanation": "This paper explores the use of radiofrequency lesioning of the suprascapular nerve for chronic shoulder pain, which is partially dependent on the findings of the source paper regarding the use of pulsed radiofrequency for shoulder pain treatment. The source paper's findings on the efficacy of pulsed radiofrequency can be seen as a sub-hypothesis for this paper's investigation of a different radiofrequency technique.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2013,
+        "source_paper": {
+            "paperId": "06e74a6b37613dab2df579317164c5e74b6a36cb",
+            "title": "Percutaneous radiofrequency lesioning of the suprascapular nerve for the management of chronic shoulder pain: a case series",
+            "abstract": "Purpose The objective of this study was to retrospectively evaluate the analgesic effects of continuous radiofrequency lesioning of the suprascapular nerve (SSN) for chronic shoulder pain. The authors sought to obtain insight into the time-sensitive analgesic success and complications of this therapy. Patients and methods This study was a retrospective case series involving patients with unremitting shoulder pain that had lasted for at least 12 months. Patients were selected if they showed a reduction of at least 50% in pain intensity during the anesthetic phase after SSN block, no additional motor weakness of the shoulder, and pain relief lasting for less than 2 months after separate treatments of the SSN with depot corticosteroids and pulsed radiofrequency. Nine patients were referred to the Arnold Pain Management Center. Of these nine patients, six patients who had significant chronic shoulder pain unresponsive to oral medications and intra-articular injections and who were not considered surgical candidates were selected. These patients were treated with a single radiofrequency lesion of the SSN at 80\u00b0C for 60 seconds. The primary outcome was a reduction in pain intensity by 50%, as determined by the numeric rating scale, and duration of this effect. The secondary outcome was improvement in either the passive or the active range of motion (ROM). Patients were also monitored for adverse effects such as weakness or increased pain. Results The pooled mean numeric rating scale score before the procedure was 7.2 \u00b1 1.2; this fell to 3.0 \u00b1 0.9 at 5\u20137 weeks post procedure. The duration of pain relief ranged from 3 to 18 months, and all patients underwent at least one additional treatment. The change in baseline ROM improved from an average of 60\u00b0 \u00b1 28\u00b0 (flexion) and 58\u00b0 \u00b1 28\u00b0 (abduction) to 99\u00b0 \u00b1 46\u00b0 (flexion) and 107\u00b0 \u00b1 39\u00b0 (abduction). No adverse side effects were observed. Conclusion Continuous radiofrequency lesioning of the SSN seems to be an effective treatment for chronic shoulder pain. There can be improved ROM of the shoulder following this treatment. More formal, controlled studies are required to confirm these observations.",
+            "year": 2012,
+            "citation_count": 42,
+            "relevance": 2,
+            "explanation": "This paper explores the use of radiofrequency lesioning of the suprascapular nerve for chronic shoulder pain, which is partially dependent on the findings of the source paper regarding the use of pulsed radiofrequency for shoulder pain treatment. The source paper's findings on the efficacy of pulsed radiofrequency can be seen as a sub-hypothesis for this paper's investigation of a different radiofrequency technique."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Thermal Radiofrequency Denervation of the Suprascapular Nerve for Chronic Shoulder Pain": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it also investigates the use of radiofrequency lesioning of the suprascapular nerve for chronic shoulder pain, building on the source paper's results regarding the effectiveness of this treatment.",
+                    "relevance": 1
+                },
+                "2. Pulsed radiofrequency for the suprascapular nerve for patients with chronic headache": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the use of pulsed radiofrequency for the suprascapular nerve, which is a related treatment to the continuous radiofrequency lesioning used in the source paper.",
+                    "relevance": 2
+                },
+                "3. Influences of Chronic Shoulder Pain on Muscle Tone Changes in Trunk Muscles": {
+                    "explanation": "This paper has no connection with the source paper, as it investigates the effects of chronic shoulder pain on muscle tone changes in trunk muscles, which is a different research question than the source paper's focus on radiofrequency lesioning of the suprascapular nerve.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Pulsed radiofrequency for the suprascapular nerve for patients with chronic headache": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the use of pulsed radiofrequency for the suprascapular nerve, which is a related treatment to the continuous radiofrequency lesioning used in the source paper.",
+                    "relevance": 2
+                },
+                "2. Thermal Radiofrequency Denervation of the Suprascapular Nerve for Chronic Shoulder Pain": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it also investigates the use of radiofrequency lesioning of the suprascapular nerve for chronic shoulder pain, building on the source paper's results regarding the effectiveness of this treatment.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2014,
+        "source_paper": {
+            "paperId": "06e74a6b37613dab2df579317164c5e74b6a36cb",
+            "title": "Percutaneous radiofrequency lesioning of the suprascapular nerve for the management of chronic shoulder pain: a case series",
+            "abstract": "Purpose The objective of this study was to retrospectively evaluate the analgesic effects of continuous radiofrequency lesioning of the suprascapular nerve (SSN) for chronic shoulder pain. The authors sought to obtain insight into the time-sensitive analgesic success and complications of this therapy. Patients and methods This study was a retrospective case series involving patients with unremitting shoulder pain that had lasted for at least 12 months. Patients were selected if they showed a reduction of at least 50% in pain intensity during the anesthetic phase after SSN block, no additional motor weakness of the shoulder, and pain relief lasting for less than 2 months after separate treatments of the SSN with depot corticosteroids and pulsed radiofrequency. Nine patients were referred to the Arnold Pain Management Center. Of these nine patients, six patients who had significant chronic shoulder pain unresponsive to oral medications and intra-articular injections and who were not considered surgical candidates were selected. These patients were treated with a single radiofrequency lesion of the SSN at 80\u00b0C for 60 seconds. The primary outcome was a reduction in pain intensity by 50%, as determined by the numeric rating scale, and duration of this effect. The secondary outcome was improvement in either the passive or the active range of motion (ROM). Patients were also monitored for adverse effects such as weakness or increased pain. Results The pooled mean numeric rating scale score before the procedure was 7.2 \u00b1 1.2; this fell to 3.0 \u00b1 0.9 at 5\u20137 weeks post procedure. The duration of pain relief ranged from 3 to 18 months, and all patients underwent at least one additional treatment. The change in baseline ROM improved from an average of 60\u00b0 \u00b1 28\u00b0 (flexion) and 58\u00b0 \u00b1 28\u00b0 (abduction) to 99\u00b0 \u00b1 46\u00b0 (flexion) and 107\u00b0 \u00b1 39\u00b0 (abduction). No adverse side effects were observed. Conclusion Continuous radiofrequency lesioning of the SSN seems to be an effective treatment for chronic shoulder pain. There can be improved ROM of the shoulder following this treatment. More formal, controlled studies are required to confirm these observations.",
+            "year": 2012,
+            "citation_count": 42,
+            "relevance": 2,
+            "explanation": "This paper explores the use of radiofrequency lesioning of the suprascapular nerve for chronic shoulder pain, which is partially dependent on the findings of the source paper regarding the use of pulsed radiofrequency for shoulder pain treatment. The source paper's findings on the efficacy of pulsed radiofrequency can be seen as a sub-hypothesis for this paper's investigation of a different radiofrequency technique."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Optimization and standardization of technique for fluoroscopically guided suprascapular nerve blocks.": {
+                    "explanation": "This paper is related to the source paper as it focuses on optimizing the technique for suprascapular nerve blocks, which is the same nerve targeted by the radiofrequency lesioning procedure in the source paper. However, the paper does not build upon the findings of the source paper, nor does it use them as a sub-hypothesis.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Optimization and standardization of technique for fluoroscopically guided suprascapular nerve blocks.": {
+                    "explanation": "This paper is related to the source paper as it focuses on optimizing the technique for suprascapular nerve blocks, which is the same nerve targeted by the radiofrequency lesioning procedure in the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2015,
+        "source_paper": {
+            "paperId": "b6842000fd0995975a5655b4effd9ac906a8d565",
+            "title": "Pulsed radiofrequency for the suprascapular nerve for patients with chronic headache.",
+            "abstract": "BACKGROUND Chronic shoulder or suprascapular pain is a disabling phenomenon. Chronic headache is also a disabling phenomenon for many patients. Once it was believed that chronic headache that is attributed to the cervical spine originates from the upper cervical nerve roots (C0-C3). Currently, it is suggested by some authors that the reason for headache in many patients is attributed to the lower cervical nerve roots in the cervical spine. The suprascapular nerve originates from the C5 and C6 nerve roots and supplies the suprascapular and shoulder region. Pulsed radiofrequency (PRF) has gained popularity over recent years as a good clinical tool in treating patients with shoulder/suprascapular pain. It is usually considered as a treatment option after conservative treatment has failed. The purpose of this study was to evaluate whether PRF for the suprascapular nerve has also beneficial effect for patients that have also chronic headache that is attributed to the lower cervical nerve roots. MATERIALS AND METHODS Sixty-nine patients with a follow-up of 1 year who had chronic shoulder/suprascapular pain and chronic headache were examined after they underwent PRF procedures to the suprascapular nerve (either unilateral or bilateral). RESULTS Forty patients (58%) reported long-term pain relief (1-y follow-up) for the shoulder/suprascapular pain and 31 patients (45%) reported long-term pain relief for the headache. This pain relief was defined as reduction of Visual Analogue Score by at least 30%. No complications were found in this study except for mild discomfort in the treated area which spontaneously resolved up to 3 weeks after the procedure. CONCLUSIONS PRF for the suprascapular nerve is a safe and an effective procedure for patients who suffer from shoulder/suprascapular pain and also for headache that is attributed to the lower cervical nerve roots. It should be tried after conservative treatment has failed.",
+            "year": 2013,
+            "citation_count": 10,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the use of pulsed radiofrequency for the suprascapular nerve, which is a related treatment to the continuous radiofrequency lesioning used in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Comparison of High\u2010voltage\u2010 with Standard\u2010voltage Pulsed Radiofrequency of Gasserian Ganglion in the Treatment of Idiopathic Trigeminal Neuralgia": {
+                    "explanation": "This paper explores the efficacy of high-voltage pulsed radiofrequency treatment for idiopathic trigeminal neuralgia, which is a different application of pulsed radiofrequency treatment than the source paper. The source paper investigates the use of pulsed radiofrequency for the suprascapular nerve in patients with chronic headache, while this paper focuses on the Gasserian ganglion for trigeminal neuralgia. Although both papers deal with pulsed radiofrequency treatment, they are not directly connected, and the hypothesis in this paper is not inspired by or dependent on the findings of the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2015,
+        "source_paper": {
+            "paperId": "b6842000fd0995975a5655b4effd9ac906a8d565",
+            "title": "Pulsed radiofrequency for the suprascapular nerve for patients with chronic headache.",
+            "abstract": "BACKGROUND Chronic shoulder or suprascapular pain is a disabling phenomenon. Chronic headache is also a disabling phenomenon for many patients. Once it was believed that chronic headache that is attributed to the cervical spine originates from the upper cervical nerve roots (C0-C3). Currently, it is suggested by some authors that the reason for headache in many patients is attributed to the lower cervical nerve roots in the cervical spine. The suprascapular nerve originates from the C5 and C6 nerve roots and supplies the suprascapular and shoulder region. Pulsed radiofrequency (PRF) has gained popularity over recent years as a good clinical tool in treating patients with shoulder/suprascapular pain. It is usually considered as a treatment option after conservative treatment has failed. The purpose of this study was to evaluate whether PRF for the suprascapular nerve has also beneficial effect for patients that have also chronic headache that is attributed to the lower cervical nerve roots. MATERIALS AND METHODS Sixty-nine patients with a follow-up of 1 year who had chronic shoulder/suprascapular pain and chronic headache were examined after they underwent PRF procedures to the suprascapular nerve (either unilateral or bilateral). RESULTS Forty patients (58%) reported long-term pain relief (1-y follow-up) for the shoulder/suprascapular pain and 31 patients (45%) reported long-term pain relief for the headache. This pain relief was defined as reduction of Visual Analogue Score by at least 30%. No complications were found in this study except for mild discomfort in the treated area which spontaneously resolved up to 3 weeks after the procedure. CONCLUSIONS PRF for the suprascapular nerve is a safe and an effective procedure for patients who suffer from shoulder/suprascapular pain and also for headache that is attributed to the lower cervical nerve roots. It should be tried after conservative treatment has failed.",
+            "year": 2013,
+            "citation_count": 10,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the use of pulsed radiofrequency for the suprascapular nerve, which is a related treatment to the continuous radiofrequency lesioning used in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Comparison of High\u2010voltage\u2010 with Standard\u2010voltage Pulsed Radiofrequency of Gasserian Ganglion in the Treatment of Idiopathic Trigeminal Neuralgia": {
+                    "explanation": "This paper explores the efficacy of high-voltage pulsed radiofrequency treatment for idiopathic trigeminal neuralgia, which is a different condition and application than the source paper. The paper does not build upon or depend on the findings of the source paper, which focused on the use of pulsed radiofrequency for the suprascapular nerve in patients with chronic headache.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2021,
+        "source_paper": {
+            "paperId": "b6842000fd0995975a5655b4effd9ac906a8d565",
+            "title": "Pulsed radiofrequency for the suprascapular nerve for patients with chronic headache.",
+            "abstract": "BACKGROUND Chronic shoulder or suprascapular pain is a disabling phenomenon. Chronic headache is also a disabling phenomenon for many patients. Once it was believed that chronic headache that is attributed to the cervical spine originates from the upper cervical nerve roots (C0-C3). Currently, it is suggested by some authors that the reason for headache in many patients is attributed to the lower cervical nerve roots in the cervical spine. The suprascapular nerve originates from the C5 and C6 nerve roots and supplies the suprascapular and shoulder region. Pulsed radiofrequency (PRF) has gained popularity over recent years as a good clinical tool in treating patients with shoulder/suprascapular pain. It is usually considered as a treatment option after conservative treatment has failed. The purpose of this study was to evaluate whether PRF for the suprascapular nerve has also beneficial effect for patients that have also chronic headache that is attributed to the lower cervical nerve roots. MATERIALS AND METHODS Sixty-nine patients with a follow-up of 1 year who had chronic shoulder/suprascapular pain and chronic headache were examined after they underwent PRF procedures to the suprascapular nerve (either unilateral or bilateral). RESULTS Forty patients (58%) reported long-term pain relief (1-y follow-up) for the shoulder/suprascapular pain and 31 patients (45%) reported long-term pain relief for the headache. This pain relief was defined as reduction of Visual Analogue Score by at least 30%. No complications were found in this study except for mild discomfort in the treated area which spontaneously resolved up to 3 weeks after the procedure. CONCLUSIONS PRF for the suprascapular nerve is a safe and an effective procedure for patients who suffer from shoulder/suprascapular pain and also for headache that is attributed to the lower cervical nerve roots. It should be tried after conservative treatment has failed.",
+            "year": 2013,
+            "citation_count": 10,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the use of pulsed radiofrequency for the suprascapular nerve, which is a related treatment to the continuous radiofrequency lesioning used in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. A systematic review and meta\u2010analysis of radiofrequency procedures on innervation to the shoulder joint for relieving chronic pain": {
+                    "explanation": "This paper is a review paper that summarizes existing literature on radiofrequency procedures for treating chronic shoulder pain, including pulsed radiofrequency (PRF) procedures. Although it does not directly build upon or depend on the findings of the source paper, it does cover a related topic. However, since it is a review paper, it does not propose a novel hypothesis or present new findings.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2021,
+        "source_paper": {
+            "paperId": "b6842000fd0995975a5655b4effd9ac906a8d565",
+            "title": "Pulsed radiofrequency for the suprascapular nerve for patients with chronic headache.",
+            "abstract": "BACKGROUND Chronic shoulder or suprascapular pain is a disabling phenomenon. Chronic headache is also a disabling phenomenon for many patients. Once it was believed that chronic headache that is attributed to the cervical spine originates from the upper cervical nerve roots (C0-C3). Currently, it is suggested by some authors that the reason for headache in many patients is attributed to the lower cervical nerve roots in the cervical spine. The suprascapular nerve originates from the C5 and C6 nerve roots and supplies the suprascapular and shoulder region. Pulsed radiofrequency (PRF) has gained popularity over recent years as a good clinical tool in treating patients with shoulder/suprascapular pain. It is usually considered as a treatment option after conservative treatment has failed. The purpose of this study was to evaluate whether PRF for the suprascapular nerve has also beneficial effect for patients that have also chronic headache that is attributed to the lower cervical nerve roots. MATERIALS AND METHODS Sixty-nine patients with a follow-up of 1 year who had chronic shoulder/suprascapular pain and chronic headache were examined after they underwent PRF procedures to the suprascapular nerve (either unilateral or bilateral). RESULTS Forty patients (58%) reported long-term pain relief (1-y follow-up) for the shoulder/suprascapular pain and 31 patients (45%) reported long-term pain relief for the headache. This pain relief was defined as reduction of Visual Analogue Score by at least 30%. No complications were found in this study except for mild discomfort in the treated area which spontaneously resolved up to 3 weeks after the procedure. CONCLUSIONS PRF for the suprascapular nerve is a safe and an effective procedure for patients who suffer from shoulder/suprascapular pain and also for headache that is attributed to the lower cervical nerve roots. It should be tried after conservative treatment has failed.",
+            "year": 2013,
+            "citation_count": 10,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the use of pulsed radiofrequency for the suprascapular nerve, which is a related treatment to the continuous radiofrequency lesioning used in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. A systematic review and meta\u2010analysis of radiofrequency procedures on innervation to the shoulder joint for relieving chronic pain": {
+                    "explanation": "This paper is a review paper that aims to synthesize existing literature on radiofrequency procedures for treating chronic shoulder pain, including pulsed radiofrequency (PRF). Although it mentions PRF, it does not build upon or use the source paper's findings as a sub-hypothesis, but rather provides a broad overview of the topic.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "year": 2016,
+        "source_paper": {
+            "paperId": "c2e63fbdeab2d16a5703366c316ff7f118896e2e",
+            "pmid": "8455424",
+            "title": "Effects of prednisolone pretreatment in interferon alfa therapy for patients with chronic non-A, non-B (C) hepatitis.",
+            "abstract": "The effect of corticosteroid pretreatment on interferon alfa treatment of chronic non-A, non-B or C hepatitis was evaluated in an open, randomized, controlled study. Normalization of the serum alanine aminotransferase level, which suggested complete response, was recorded in 14 (56%) of 25 patients at the end of a 6-month treatment with 3 million units of interferon alfa three times weekly alone. Prednisolone withdrawal followed by the same interferon alfa treatment resulted in complete response in 14 (61%) of another 23 patients. Both of these rates are significantly higher than the spontaneous ALT normalization rate of 9% observed in 2 of 22 patients during the same period (p < 0.01). ALT normalized within 2 months of interferon therapy in most (89%) of the complete responders. Of the patients pretreated with prednisolone, 43% showed a \"rebound\" following prednisolone withdrawal and 89% of the patients with \"rebound\" responded to subsequent interferon therapy. The cumulative probability of sustained remission in patients with and without prednisolone pretreatment in a 24-month period of follow-up after the end of therapy was 79% and 30%, respectively (p < 0.05). Clinical relapse mostly (85%) occurred within 3 months after the end of therapy. No obvious factor could be identified as a predictor of response or relapse. The results of this study suggest that prednisolone withdrawal tends to enhance the durability of the beneficial effects of interferon alfa therapy in patients with chronic non-A, non-B or C hepatitis.",
+            "year": 2008,
+            "citation_count": 32
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Treatment of Hepatitis C in Patients Undergoing Immunosuppressive Drug Therapy": {
+                    "explanation": "This paper has no direct connection with the source paper. The source paper explores the effects of prednisolone pretreatment in interferon alfa therapy for patients with chronic non-A, non-B (C) hepatitis, while this paper discusses the treatment of hepatitis C in patients undergoing immunosuppressive drug therapy. Although both papers deal with hepatitis treatment, the focus and methods are different, and this paper does not build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2016,
+        "source_paper": {
+            "paperId": "c2e63fbdeab2d16a5703366c316ff7f118896e2e",
+            "pmid": "8455424",
+            "title": "Effects of prednisolone pretreatment in interferon alfa therapy for patients with chronic non-A, non-B (C) hepatitis.",
+            "abstract": "The effect of corticosteroid pretreatment on interferon alfa treatment of chronic non-A, non-B or C hepatitis was evaluated in an open, randomized, controlled study. Normalization of the serum alanine aminotransferase level, which suggested complete response, was recorded in 14 (56%) of 25 patients at the end of a 6-month treatment with 3 million units of interferon alfa three times weekly alone. Prednisolone withdrawal followed by the same interferon alfa treatment resulted in complete response in 14 (61%) of another 23 patients. Both of these rates are significantly higher than the spontaneous ALT normalization rate of 9% observed in 2 of 22 patients during the same period (p < 0.01). ALT normalized within 2 months of interferon therapy in most (89%) of the complete responders. Of the patients pretreated with prednisolone, 43% showed a \"rebound\" following prednisolone withdrawal and 89% of the patients with \"rebound\" responded to subsequent interferon therapy. The cumulative probability of sustained remission in patients with and without prednisolone pretreatment in a 24-month period of follow-up after the end of therapy was 79% and 30%, respectively (p < 0.05). Clinical relapse mostly (85%) occurred within 3 months after the end of therapy. No obvious factor could be identified as a predictor of response or relapse. The results of this study suggest that prednisolone withdrawal tends to enhance the durability of the beneficial effects of interferon alfa therapy in patients with chronic non-A, non-B or C hepatitis.",
+            "year": 2008,
+            "citation_count": 32
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Treatment of Hepatitis C in Patients Undergoing Immunosuppressive Drug Therapy": {
+                    "explanation": "This paper has no direct connection to the source paper, which investigates the effect of prednisolone pretreatment in interferon alfa therapy for patients with chronic non-A, non-B (C) hepatitis. The paper is a systematic review that discusses the treatment of hepatitis C in patients undergoing immunosuppressive drug therapy, focusing on all-oral regimens and interferon-based regimens. It does not build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    }
+]

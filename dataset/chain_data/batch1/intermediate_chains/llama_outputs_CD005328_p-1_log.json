@@ -1,0 +1,821 @@
+[
+    {
+        "year": 2004,
+        "source_paper": {
+            "paperId": "cfbd3618632bc40ba1fc831de980082a66c2657d",
+            "pmid": "12571845",
+            "title": "Safety and efficacy of long-term intraarticular steroid injections in osteoarthritis of the knee: a randomized, double-blind, placebo-controlled trial.",
+            "abstract": "OBJECTIVE\nTo evaluate the safety and efficacy of long-term intraarticular (IA) steroid injections for knee pain related to osteoarthritis (OA).\n\n\nMETHODS\nIn a randomized, double-blind trial, 68 patients with OA of the knee received IA injections of triamcinolone acetonide 40 mg (34 patients) or saline (34 patients) into the study knee every 3 months for up to 2 years. The primary outcome variable was radiologic progression of joint space narrowing of the injected knee after 2 years. Measurements of minimum joint space width were performed by an automated computerized method on standardized fluoroscopically guided radiographs taken with the patient standing and with the knee in a semiflexed position. The clinical efficacy measure of primary interest was the pain subscale from the Western Ontario and McMaster Universities OA Index (WOMAC). Efficacy measures of secondary interest were the total score on the WOMAC, physician's global assessment, patient's global assessment, patient's assessment of pain, range of motion (ROM) of the affected knee, and 50-foot walking time. Clinical symptoms were assessed just before each injection.\n\n\nRESULTS\nAt the 1-year and 2-year followup evaluations, no difference was noted between the two treatment groups with respect to loss of joint space over time. The steroid-injected knees showed a trend toward greater symptom improvement, especially at 1 year, for the WOMAC pain subscale, night pain, and ROM values (P = 0.05) compared with the saline-injected knees. Using area under the curve analyses, knee pain and stiffness were significantly improved throughout the 2-year study by repeated injections of triamcinolone acetonide, but not saline (P < 0.05).\n\n\nCONCLUSION\nOur findings support the long-term safety of IA steroid injections for patients with symptomatic knee OA. No deleterious effects of the long-term administration of IA steroids on the anatomical structure of the knee were noted. Moreover, long-term treatment of knee OA with repeated steroid injections appears to be clinically effective for the relief of symptoms of the disease.",
+            "year": 2003,
+            "citation_count": 478
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. The orthopaedic approach to managing osteoarthritis of the knee": {
+                    "explanation": "This paper is a review of osteoarthritis management options, including intra-articular steroid injections, which is the main topic of the source paper. However, it does not specifically build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 0
+                },
+                "2. Update in Rheumatology": {
+                    "explanation": "This paper is a review of various rheumatology topics, including vasculitis and rheumatoid arthritis, but does not mention osteoarthritis or intra-articular steroid injections. It has no connection to the source paper.",
+                    "relevance": 0
+                },
+                "3. Rheumatology and musculoskeletal medicine": {
+                    "explanation": "This paper is a review of musculoskeletal diseases, including osteoarthritis, and mentions intra-articular steroid injections as a treatment option. However, it does not specifically build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 0
+                },
+                "4. Intra-articular treatments in osteoarthritis: from the symptomatic to the structure modifying": {
+                    "explanation": "This paper reviews the efficacy of intra-articular injections, including corticosteroids, for osteoarthritis. While it does not directly build upon the source paper, it explores the same topic and could be considered partially dependent on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "5. Corticosteroid injections for osteoarthritis of the knee: meta-analysis": {
+                    "explanation": "This paper is a meta-analysis of the efficacy of intra-articular corticosteroid injections for osteoarthritis of the knee. It builds upon the findings of the source paper, which investigated the safety and efficacy of long-term intra-articular steroid injections.",
+                    "relevance": 2
+                },
+                "6. Medical management of osteoarthritis of the knee and hip joints": {
+                    "explanation": "This paper reviews the medical management of osteoarthritis, including intra-articular therapies. While it does not directly build upon the source paper, it explores the same topic and could be considered partially dependent on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "7. Relationship between the area of cartilage shown on the magnetic resonance imaging middle-slice image of the medial and lateral tibial cartilages with cartilage volume and grade of osteoarthritis over time": {
+                    "explanation": "This paper investigates the relationship between cartilage area and volume in osteoarthritis. While it is related to osteoarthritis, it does not specifically address intra-articular steroid injections or build upon the findings of the source paper.",
+                    "relevance": 0
+                },
+                "8. Intra-articular steroid injections for painful knees. Systematic review with meta-analysis.": {
+                    "explanation": "This paper is a systematic review with meta-analysis of the efficacy of intra-articular steroid injections for osteoarthritis of the knee. It builds upon the findings of the source paper, which investigated the safety and efficacy of long-term intra-articular steroid injections.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Corticosteroid injections for osteoarthritis of the knee: meta-analysis": {
+                    "explanation": "This paper is a meta-analysis of the efficacy of intra-articular corticosteroid injections for osteoarthritis of the knee. It builds upon the findings of the source paper, which investigated the safety and efficacy of long-term intra-articular steroid injections.",
+                    "relevance": 2
+                },
+                "2. Intra-articular steroid injections for painful knees. Systematic review with meta-analysis.": {
+                    "explanation": "This paper is a systematic review with meta-analysis of the efficacy of intra-articular steroid injections for osteoarthritis of the knee. It builds upon the findings of the source paper, which investigated the safety and efficacy of long-term intra-articular steroid injections.",
+                    "relevance": 2
+                },
+                "3. Intra-articular treatments in osteoarthritis: from the symptomatic to the structure modifying": {
+                    "explanation": "This paper reviews the efficacy of intra-articular injections, including corticosteroids, for osteoarthritis. While it does not directly build upon the source paper, it explores the same topic and could be considered partially dependent on the findings of the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2005,
+        "source_paper": {
+            "paperId": "cfbd3618632bc40ba1fc831de980082a66c2657d",
+            "pmid": "12571845",
+            "title": "Safety and efficacy of long-term intraarticular steroid injections in osteoarthritis of the knee: a randomized, double-blind, placebo-controlled trial.",
+            "abstract": "OBJECTIVE\nTo evaluate the safety and efficacy of long-term intraarticular (IA) steroid injections for knee pain related to osteoarthritis (OA).\n\n\nMETHODS\nIn a randomized, double-blind trial, 68 patients with OA of the knee received IA injections of triamcinolone acetonide 40 mg (34 patients) or saline (34 patients) into the study knee every 3 months for up to 2 years. The primary outcome variable was radiologic progression of joint space narrowing of the injected knee after 2 years. Measurements of minimum joint space width were performed by an automated computerized method on standardized fluoroscopically guided radiographs taken with the patient standing and with the knee in a semiflexed position. The clinical efficacy measure of primary interest was the pain subscale from the Western Ontario and McMaster Universities OA Index (WOMAC). Efficacy measures of secondary interest were the total score on the WOMAC, physician's global assessment, patient's global assessment, patient's assessment of pain, range of motion (ROM) of the affected knee, and 50-foot walking time. Clinical symptoms were assessed just before each injection.\n\n\nRESULTS\nAt the 1-year and 2-year followup evaluations, no difference was noted between the two treatment groups with respect to loss of joint space over time. The steroid-injected knees showed a trend toward greater symptom improvement, especially at 1 year, for the WOMAC pain subscale, night pain, and ROM values (P = 0.05) compared with the saline-injected knees. Using area under the curve analyses, knee pain and stiffness were significantly improved throughout the 2-year study by repeated injections of triamcinolone acetonide, but not saline (P < 0.05).\n\n\nCONCLUSION\nOur findings support the long-term safety of IA steroid injections for patients with symptomatic knee OA. No deleterious effects of the long-term administration of IA steroids on the anatomical structure of the knee were noted. Moreover, long-term treatment of knee OA with repeated steroid injections appears to be clinically effective for the relief of symptoms of the disease.",
+            "year": 2003,
+            "citation_count": 478
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Measurement of joint space width and erosion size.": {
+                    "explanation": "This paper is a review of methods for measuring joint space width and erosion size, but it does not build upon or use the findings of the source paper as a sub-hypothesis. It lacks novel hypotheses or findings related to the source paper.",
+                    "relevance": 0
+                },
+                "2. The lateral view radiograph for assessment of the tibiofemoral joint space in knee osteoarthritis: its reliability, sensitivity to change, and longitudinal validity.": {
+                    "explanation": "This paper explores a new method for assessing joint space narrowing in knee osteoarthritis, but it does not directly build upon or use the findings of the source paper as a sub-hypothesis. However, it is related to the source paper's topic of osteoarthritis treatment and assessment.",
+                    "relevance": 1
+                },
+                "3. Effects of doxycycline on progression of osteoarthritis: results of a randomized, placebo-controlled, double-blind trial.": {
+                    "explanation": "This paper investigates the effect of doxycycline on osteoarthritis progression, which is a different treatment approach than the source paper's focus on intraarticular steroid injections. However, it is related to the source paper's topic of osteoarthritis treatment and uses similar methods.",
+                    "relevance": 1
+                },
+                "4. Osteoarthritis in older adults: current treatments.": {
+                    "explanation": "This paper is a review of current treatments for osteoarthritis in older adults, but it does not build upon or use the findings of the source paper as a sub-hypothesis. It lacks novel hypotheses or findings related to the source paper.",
+                    "relevance": 0
+                },
+                "5. Advancements in the surgical and alternative treatment of arthritis": {
+                    "explanation": "This paper is a review of recent advancements in surgical and alternative treatments for arthritis, but it does not build upon or use the findings of the source paper as a sub-hypothesis. It lacks novel hypotheses or findings related to the source paper.",
+                    "relevance": 0
+                },
+                "6. Evaluation of the pituitary-adrenal axis function following single intraarticular injection of methylprednisolone.": {
+                    "explanation": "This paper investigates the effect of a single intraarticular methylprednisolone injection on the pituitary-adrenal axis function, which is related to the source paper's topic of intraarticular steroid injections. However, it does not directly build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "7. Treatment of Osteoarthritis": {
+                    "explanation": "This paper investigates the cardiovascular safety of cyclooxygenase-2 inhibitors in the treatment of osteoarthritis, which is a different treatment approach than the source paper's focus on intraarticular steroid injections. However, it is related to the source paper's topic of osteoarthritis treatment.",
+                    "relevance": 1
+                },
+                "8. Injectable Corticosteroids in Modern Practice": {
+                    "explanation": "This paper reviews the use of injectable corticosteroids in modern practice, including their benefits and risks. It is related to the source paper's topic of intraarticular steroid injections and uses similar methods. The paper also references the source paper's findings on the safety and efficacy of long-term intraarticular steroid injections.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Injectable Corticosteroids in Modern Practice": {
+                    "explanation": "This paper reviews the use of injectable corticosteroids in modern practice, including their benefits and risks. It is related to the source paper's topic of intraarticular steroid injections and uses similar methods. The paper also references the source paper's findings on the safety and efficacy of long-term intraarticular steroid injections.",
+                    "relevance": 2
+                },
+                "2. The lateral view radiograph for assessment of the tibiofemoral joint space in knee osteoarthritis: its reliability, sensitivity to change, and longitudinal validity.": {
+                    "explanation": "This paper explores a new method for assessing joint space narrowing in knee osteoarthritis, but it does not directly build upon or use the findings of the source paper as a sub-hypothesis. However, it is related to the source paper's topic of osteoarthritis treatment and assessment.",
+                    "relevance": 1
+                },
+                "3. Effects of doxycycline on progression of osteoarthritis: results of a randomized, placebo-controlled, double-blind trial.": {
+                    "explanation": "This paper investigates the effect of doxycycline on osteoarthritis progression, which is a different treatment approach than the source paper's focus on intraarticular steroid injections. However, it is related to the source paper's topic of osteoarthritis treatment and uses similar methods.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2005,
+        "source_paper": {
+            "paperId": "aad77962e5d6c6c5a667bcd6747481da62deba2d",
+            "title": "Corticosteroid injections for osteoarthritis of the knee: meta-analysis",
+            "abstract": "Abstract Objectives To determine the efficacy of intra-articular corticosteroid injections for osteoarthritis of the knee and to identify numbers needed to treat. Data sources Cochrane controlled trials register, Medline (1966 to 2003), Embase (1980 to 2003), hand searches, and contact with authors. Inclusion criteria Randomised controlled trial in which the efficacy of intra-articular corticosteroid injections for osteoarthritis of the knee could be ascertained. Results In high quality studies, the pooled relative risk for improvement in symptoms of osteoarthritis of the knee at 16-24 weeks after intra-articular corticosteroid injections was 2.09 (95% confidence interval 1.2 to 3.7) and the number needed to treat was 4.4. The pooled relative risk for improvement up to two weeks after injections was 1.66 (1.37 to 2.0). The numbers needed to treat to get one improvement in the statistically significant studies was 1.3 to 3.5 patients. Conclusion Evidence supports short term (up to two weeks) improvement in symptoms of osteoarthritis of the knee after intra-articular corticosteroid injection. Significant improvement was also shown in the only methodologically sound studies addressing longer term response (16-24 weeks). A dose equivalent to 50 mg of prednisone may be needed to show benefit at 16-24 weeks.",
+            "year": 2004,
+            "citation_count": 334,
+            "relevance": 2,
+            "explanation": "This paper is a meta-analysis of the efficacy of intra-articular corticosteroid injections for osteoarthritis of the knee. It builds upon the findings of the source paper, which investigated the safety and efficacy of long-term intra-articular steroid injections."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Is our evidence\u2010based practice effective?": {
+                    "explanation": "This paper has no direct connection to the source paper, as it discusses the effectiveness of steroid injections in general practice, without referencing the specific findings of the source paper on corticosteroid injections for osteoarthritis of the knee.",
+                    "relevance": 0
+                },
+                "2. A guide to joint and soft tissue corticosteroid injection. Part 1: general principles and the knee": {
+                    "explanation": "This paper is a review and instructional guide, and does not present new findings or hypotheses that are directly inspired by or dependent on the source paper.",
+                    "relevance": 0
+                },
+                "3. Evidence-based rheumatology practice": {
+                    "explanation": "This paper is a review of recent developments in evidence-based practice of rheumatology, and does not specifically address or build upon the findings of the source paper on corticosteroid injections for osteoarthritis of the knee.",
+                    "relevance": 0
+                },
+                "4. Injectable Corticosteroids in Modern Practice": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it discusses the benefits and safety of intra-articular corticosteroid injections, which is in line with the source paper's findings on the efficacy of corticosteroid injections for osteoarthritis of the knee.",
+                    "relevance": 2
+                },
+                "5. Intra-Articular Corticosteroid and Hyaluronic Acid Injections in the Management of Osteoarthritis": {
+                    "explanation": "The key hypothesis in this paper is inspired by the findings of the source paper, as it discusses the use of intra-articular corticosteroid injections in the management of osteoarthritis, and presents a practical approach based on the available literature.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Injectable Corticosteroids in Modern Practice": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it discusses the benefits and safety of intra-articular corticosteroid injections, which is in line with the source paper's findings on the efficacy of corticosteroid injections for osteoarthritis of the knee.",
+                    "relevance": 2
+                },
+                "2. Intra-Articular Corticosteroid and Hyaluronic Acid Injections in the Management of Osteoarthritis": {
+                    "explanation": "The key hypothesis in this paper is inspired by the findings of the source paper, as it discusses the use of intra-articular corticosteroid injections in the management of osteoarthritis, and presents a practical approach based on the available literature.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2006,
+        "source_paper": {
+            "paperId": "aad77962e5d6c6c5a667bcd6747481da62deba2d",
+            "title": "Corticosteroid injections for osteoarthritis of the knee: meta-analysis",
+            "abstract": "Abstract Objectives To determine the efficacy of intra-articular corticosteroid injections for osteoarthritis of the knee and to identify numbers needed to treat. Data sources Cochrane controlled trials register, Medline (1966 to 2003), Embase (1980 to 2003), hand searches, and contact with authors. Inclusion criteria Randomised controlled trial in which the efficacy of intra-articular corticosteroid injections for osteoarthritis of the knee could be ascertained. Results In high quality studies, the pooled relative risk for improvement in symptoms of osteoarthritis of the knee at 16-24 weeks after intra-articular corticosteroid injections was 2.09 (95% confidence interval 1.2 to 3.7) and the number needed to treat was 4.4. The pooled relative risk for improvement up to two weeks after injections was 1.66 (1.37 to 2.0). The numbers needed to treat to get one improvement in the statistically significant studies was 1.3 to 3.5 patients. Conclusion Evidence supports short term (up to two weeks) improvement in symptoms of osteoarthritis of the knee after intra-articular corticosteroid injection. Significant improvement was also shown in the only methodologically sound studies addressing longer term response (16-24 weeks). A dose equivalent to 50 mg of prednisone may be needed to show benefit at 16-24 weeks.",
+            "year": 2004,
+            "citation_count": 334,
+            "relevance": 2,
+            "explanation": "This paper is a meta-analysis of the efficacy of intra-articular corticosteroid injections for osteoarthritis of the knee. It builds upon the findings of the source paper, which investigated the safety and efficacy of long-term intra-articular steroid injections."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Corticosteroid Injections for Osteoarthritis": {
+                    "explanation": "This paper is a review paper, as indicated by the title and the content. It lacks novel hypotheses or findings and primarily summarizes existing literature.",
+                    "relevance": 0
+                },
+                "2. Treatment of knee pain in older adults in primary care: development of an evidence-based model of care.": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it develops a model of care for knee pain in older adults, incorporating intra-articular corticosteroids as a treatment option.",
+                    "relevance": 1
+                },
+                "3. Steroid receptor antagonist mifepristone inhibits the anti-inflammatory effects of photoradiation.": {
+                    "explanation": "This paper has no direct connection to the source paper. It explores the interaction between steroid receptor antagonists and photoradiation, which is unrelated to the topic of corticosteroid injections for osteoarthritis.",
+                    "relevance": 0
+                },
+                "4. Musculoskeletal exam and joint injection training for internal medicine residents": {
+                    "explanation": "This paper has no direct connection to the source paper. It focuses on medical education and training for internal medicine residents, which is unrelated to the topic of corticosteroid injections for osteoarthritis.",
+                    "relevance": 0
+                },
+                "5. Intraarticular corticosteroid for treatment of osteoarthritis of the knee.": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper. It evaluates the efficacy and safety of intra-articular corticosteroids for osteoarthritis of the knee, building upon the source paper's meta-analysis.",
+                    "relevance": 2
+                },
+                "6. The effects of exercise following a corticosteroid injection for knee osteoarthritis: a pilot study": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the addition of exercise to corticosteroid injections for knee osteoarthritis, aiming to improve treatment outcomes.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Intraarticular corticosteroid for treatment of osteoarthritis of the knee.": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper. It evaluates the efficacy and safety of intra-articular corticosteroids for osteoarthritis of the knee, building upon the source paper's meta-analysis.",
+                    "relevance": 2
+                },
+                "2. Treatment of knee pain in older adults in primary care: development of an evidence-based model of care.": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it develops a model of care for knee pain in older adults, incorporating intra-articular corticosteroids as a treatment option.",
+                    "relevance": 1
+                },
+                "3. The effects of exercise following a corticosteroid injection for knee osteoarthritis: a pilot study": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the addition of exercise to corticosteroid injections for knee osteoarthritis, aiming to improve treatment outcomes.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2006,
+        "source_paper": {
+            "paperId": "78074838625748081a77da4c71e00a2b79ca7a6a",
+            "title": "Intraarticular corticosteroid for treatment of osteoarthritis of the knee.",
+            "abstract": "BACKGROUND\nOsteoarthritis (OA) is a common joint disorder. In the knee, injections of corticosteroids into the joint (intra-articular (IA)) may relieve inflammation, and reduce pain and disability.\n\n\nOBJECTIVES\nTo evaluate the efficacy and safety of IA corticosteroids in treatment of OA of the knee.\n\n\nSEARCH STRATEGY\nWe searched the Cochrane Central Register of Controlled Trials (CENTRAL) (Issue 2, 2003), MEDLINE, EMBASE, PREMEDLINE (all to July 2003), and Current Contents (Sept 2000). Specialised journals, trial reference lists and review articles were handsearched.\n\n\nSELECTION CRITERIA\nRandomised controlled trials of IA corticosteroids for patients with OA of the knee: single/double blind, placebo-based/comparative studies, reporting at least one core OMERACT III outcome measure.\n\n\nDATA COLLECTION AND ANALYSIS\nMethodological quality of trials was assessed, and data were extracted in duplicate. Fixed effect and random effects models, giving weighted mean differences (WMD), were used for continuous variables. Dichotomous outcomes were analysed by relative risk (RR).\n\n\nMAIN RESULTS\nTwenty-six trials (1721 participants) comparing IA corticosteroid against placebo, against IA hyaluronan/hylan (HA products), against joint lavage, and against other IA corticosteroids, were included.IA corticosteroid was more effective than IA placebo for pain reduction (WMD -17.79; 95% confidence interval (CI) -25.02 to -10.55) and patient global assessment (the RR was 1.44 (95% CI 1.13 to 1.82)) at one week post injection with an NNT of 3 to 4 for both, based on n=185 for pain on 100 mm visual analogue scale (VAS) and n=158 for patient global assessment. Data on function were sparse at one week post injection and neither statistically significant nor clinically important differences were detected. There was evidence of pain reduction between two weeks (the RR was 1.81 (95% CI 1.09 to 3.00)) to three weeks (the RR was 3.11 (95% CI 1.61 to 6.01), but a lack of evidence for efficacy in functional improvement. At four to 24 weeks post injection, there was lack of evidence of effect on pain and function (small studies showed benefits which did not reach statistical or clinical importance, i.e. less than 20% risk difference). For patient global, there were three studies which consistently showed lack of effect longer than one week post injection. However, all were fairly small sample sizes (less than 50 patients per group). This was supported by another study which did not find statistically significant differences, at any time point, on a continuous measure of patient global assessment (100 mm VAS). In comparisons of corticosteroids and HA products, no statistically significant differences were in general detected at one to four weeks post injection. Between five and 13 weeks post injection, HA products were more effective than corticosteroids for one or more of the following variables: WOMAC OA Index, Lequesne Index, pain, range of motion (flexion), and number of responders. One study showed a difference in function between 14 to 26 weeks, but no differences in efficacy were detected at 45 to 52 weeks. In general, the onset of effect was similar with IA corticosteroids, but was less durable than with HA products. Comparisons of IA corticosteroids showed triamcinolone hexacetonide was superior to betamethasone for number of patients reporting pain reduction up to four weeks post injection (the RR was 2.00 (95% CI 1.10 to 3.63). Comparisons between IA corticosteroid and joint lavage showed no differences in any of the efficacy or safety outcome measures.\n\n\nAUTHORS' CONCLUSIONS\nThe short-term benefit of IA corticosteroids in treatment of knee OA is well established, and few side effects have been reported. Longer term benefits have not been confirmed based on the RevMan analysis. The response to HA products appears more durable. In this review, some discrepancies were observed between the RevMan 4.1 analysis and the original publication. These are likely the result of using secondary rather than primary data and the statistical methods available in RevMan 4.1. Future trials should have standardised outcome measures and assessment times, run longer, investigate different patient subgroups, and clinical predictors of response (those associated with inflammation and structural damage).",
+            "year": 2005,
+            "citation_count": 468,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper. It evaluates the efficacy and safety of intra-articular corticosteroids for osteoarthritis of the knee, building upon the source paper's meta-analysis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Osteoarthritis of the Knee \u2013 An Introduction": {
+                    "explanation": "This paper is a review paper that summarizes existing literature on osteoarthritis of the knee, including the use of intra-articular injections of steroids, which is also discussed in the source paper. However, it does not build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "2. Viscosupplementation (Biosupplementation) for Osteoarthritis": {
+                    "explanation": "This paper discusses viscosupplementation for osteoarthritis, which is related to the use of hyaluronic acid products mentioned in the source paper. However, it does not explicitly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "3. An update on osteoarthritis therapeutics": {
+                    "explanation": "This paper discusses recent developments in osteoarthritis therapeutics, including the relative efficacy of intra-articular injections of corticosteroid and hyaluronic acid preparations. This is partially dependent on the findings of the source paper, which compared the efficacy of IA corticosteroids and HA products.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. An update on osteoarthritis therapeutics": {
+                    "explanation": "This paper discusses recent developments in osteoarthritis therapeutics, including the relative efficacy of intra-articular injections of corticosteroid and hyaluronic acid preparations. This is partially dependent on the findings of the source paper, which compared the efficacy of IA corticosteroids and HA products.",
+                    "relevance": 2
+                },
+                "2. Viscosupplementation (Biosupplementation) for Osteoarthritis": {
+                    "explanation": "This paper discusses viscosupplementation for osteoarthritis, which is related to the use of hyaluronic acid products mentioned in the source paper. However, it does not explicitly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2007,
+        "source_paper": {
+            "paperId": "78074838625748081a77da4c71e00a2b79ca7a6a",
+            "title": "Intraarticular corticosteroid for treatment of osteoarthritis of the knee.",
+            "abstract": "BACKGROUND\nOsteoarthritis (OA) is a common joint disorder. In the knee, injections of corticosteroids into the joint (intra-articular (IA)) may relieve inflammation, and reduce pain and disability.\n\n\nOBJECTIVES\nTo evaluate the efficacy and safety of IA corticosteroids in treatment of OA of the knee.\n\n\nSEARCH STRATEGY\nWe searched the Cochrane Central Register of Controlled Trials (CENTRAL) (Issue 2, 2003), MEDLINE, EMBASE, PREMEDLINE (all to July 2003), and Current Contents (Sept 2000). Specialised journals, trial reference lists and review articles were handsearched.\n\n\nSELECTION CRITERIA\nRandomised controlled trials of IA corticosteroids for patients with OA of the knee: single/double blind, placebo-based/comparative studies, reporting at least one core OMERACT III outcome measure.\n\n\nDATA COLLECTION AND ANALYSIS\nMethodological quality of trials was assessed, and data were extracted in duplicate. Fixed effect and random effects models, giving weighted mean differences (WMD), were used for continuous variables. Dichotomous outcomes were analysed by relative risk (RR).\n\n\nMAIN RESULTS\nTwenty-six trials (1721 participants) comparing IA corticosteroid against placebo, against IA hyaluronan/hylan (HA products), against joint lavage, and against other IA corticosteroids, were included.IA corticosteroid was more effective than IA placebo for pain reduction (WMD -17.79; 95% confidence interval (CI) -25.02 to -10.55) and patient global assessment (the RR was 1.44 (95% CI 1.13 to 1.82)) at one week post injection with an NNT of 3 to 4 for both, based on n=185 for pain on 100 mm visual analogue scale (VAS) and n=158 for patient global assessment. Data on function were sparse at one week post injection and neither statistically significant nor clinically important differences were detected. There was evidence of pain reduction between two weeks (the RR was 1.81 (95% CI 1.09 to 3.00)) to three weeks (the RR was 3.11 (95% CI 1.61 to 6.01), but a lack of evidence for efficacy in functional improvement. At four to 24 weeks post injection, there was lack of evidence of effect on pain and function (small studies showed benefits which did not reach statistical or clinical importance, i.e. less than 20% risk difference). For patient global, there were three studies which consistently showed lack of effect longer than one week post injection. However, all were fairly small sample sizes (less than 50 patients per group). This was supported by another study which did not find statistically significant differences, at any time point, on a continuous measure of patient global assessment (100 mm VAS). In comparisons of corticosteroids and HA products, no statistically significant differences were in general detected at one to four weeks post injection. Between five and 13 weeks post injection, HA products were more effective than corticosteroids for one or more of the following variables: WOMAC OA Index, Lequesne Index, pain, range of motion (flexion), and number of responders. One study showed a difference in function between 14 to 26 weeks, but no differences in efficacy were detected at 45 to 52 weeks. In general, the onset of effect was similar with IA corticosteroids, but was less durable than with HA products. Comparisons of IA corticosteroids showed triamcinolone hexacetonide was superior to betamethasone for number of patients reporting pain reduction up to four weeks post injection (the RR was 2.00 (95% CI 1.10 to 3.63). Comparisons between IA corticosteroid and joint lavage showed no differences in any of the efficacy or safety outcome measures.\n\n\nAUTHORS' CONCLUSIONS\nThe short-term benefit of IA corticosteroids in treatment of knee OA is well established, and few side effects have been reported. Longer term benefits have not been confirmed based on the RevMan analysis. The response to HA products appears more durable. In this review, some discrepancies were observed between the RevMan 4.1 analysis and the original publication. These are likely the result of using secondary rather than primary data and the statistical methods available in RevMan 4.1. Future trials should have standardised outcome measures and assessment times, run longer, investigate different patient subgroups, and clinical predictors of response (those associated with inflammation and structural damage).",
+            "year": 2005,
+            "citation_count": 468,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper. It evaluates the efficacy and safety of intra-articular corticosteroids for osteoarthritis of the knee, building upon the source paper's meta-analysis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Osteoarthritis management of the knee--treatment options post the NSAID cardiotoxicity controversy": {
+                    "explanation": "This paper is a review article discussing treatment options for osteoarthritis management of the knee, including the use of intra-articular corticosteroids. It does not present new findings or hypotheses that are directly dependent on the source paper.",
+                    "relevance": 0
+                },
+                "2. Viscosupplementation: Managed Care Issues for Osteoarthritis of the Knee": {
+                    "explanation": "This paper discusses viscosupplementation as a treatment option for osteoarthritis of the knee, which is an alternative to intra-articular corticosteroids. While it does not directly build upon the source paper, it explores a related topic and could be seen as partially dependent on the findings of the source paper regarding the limitations of intra-articular corticosteroids.",
+                    "relevance": 1
+                },
+                "3. Articular cartilage proteoglycan biosynthesis and sulfation": {
+                    "explanation": "This paper investigates the effects of glucosamine sulfate on articular cartilage proteoglycan biosynthesis and sulfation, which is a different topic from the source paper. It does not present new findings or hypotheses that are directly dependent on the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Viscosupplementation: Managed Care Issues for Osteoarthritis of the Knee": {
+                    "explanation": "This paper discusses viscosupplementation as a treatment option for osteoarthritis of the knee, which is an alternative to intra-articular corticosteroids. While it does not directly build upon the source paper, it explores a related topic and could be seen as partially dependent on the findings of the source paper regarding the limitations of intra-articular corticosteroids.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2007,
+        "source_paper": {
+            "paperId": "4a8e5459a229c12cd3cb3a48ab142450e3941f8a",
+            "title": "An update on osteoarthritis therapeutics",
+            "abstract": "Purpose of reviewThis review addresses recent major developments in symptomatic therapy and the principles of disease modification in osteoarthritis. It emphasizes issues that are of importance to the practicing clinician at a time when researchers in the field are trying to improve ways not only to provide symptomatic relief but also to slow disease progression. Recent findingsThe past year has led to a reassessment of the role of cyclo-oxygenase-2 inhibitors in osteoarthritis therapy and has yielded new information on nutriceuticals such as glucosamine. The relative efficacy of intra-articular injections of agents such as corticosteroid and hyaluronic acid preparations has been assessed. In addition, reports on trials of potentially disease-modifying agents for osteoarthritis have been published. SummaryBecause the therapeutic options have been reduced over the past year and the role of nutritional supplements remains unclear, the clinician is faced with a need to reassess osteoarthritis therapy. Although no practical disease-modifying agent for osteoarthritis has been identified, reports such as the recent doxycycline trial reviewed herein provide hope that continued research will soon yield a therapeutic model similar to that used in rheumatoid arthritis, for which some therapeutic agents achieve disease modification and other agents can be added as needed for symptomatic relief.",
+            "year": 2006,
+            "citation_count": 24,
+            "relevance": 2,
+            "explanation": "This paper discusses recent developments in osteoarthritis therapeutics, including the relative efficacy of intra-articular injections of corticosteroid and hyaluronic acid preparations. This is partially dependent on the findings of the source paper, which compared the efficacy of IA corticosteroids and HA products."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Bmc Complementary and Alternative Medicine Comparison of Glucosamine Sulfate and a Polyherbal Supplement for the Relief of Osteoarthritis of the Knee: a Randomized Controlled Trial [isrctn25438351]": {
+                    "explanation": "This paper is relevant to the source paper because it investigates the efficacy of glucosamine sulfate, a nutriceutical mentioned in the source paper, in comparison to a polyherbal supplement for osteoarthritis relief. The hypothesis in this paper is partially dependent on the findings of the source paper, which discussed the role of nutriceuticals such as glucosamine in osteoarthritis therapy.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Bmc Complementary and Alternative Medicine Comparison of Glucosamine Sulfate and a Polyherbal Supplement for the Relief of Osteoarthritis of the Knee: a Randomized Controlled Trial [isrctn25438351]": {
+                    "explanation": "This paper is relevant to the source paper because it investigates the efficacy of glucosamine sulfate, a nutriceutical mentioned in the source paper, in comparison to a polyherbal supplement for osteoarthritis relief. The hypothesis in this paper is partially dependent on the findings of the source paper, which discussed the role of nutriceuticals such as glucosamine in osteoarthritis therapy.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2008,
+        "source_paper": {
+            "paperId": "4a8e5459a229c12cd3cb3a48ab142450e3941f8a",
+            "title": "An update on osteoarthritis therapeutics",
+            "abstract": "Purpose of reviewThis review addresses recent major developments in symptomatic therapy and the principles of disease modification in osteoarthritis. It emphasizes issues that are of importance to the practicing clinician at a time when researchers in the field are trying to improve ways not only to provide symptomatic relief but also to slow disease progression. Recent findingsThe past year has led to a reassessment of the role of cyclo-oxygenase-2 inhibitors in osteoarthritis therapy and has yielded new information on nutriceuticals such as glucosamine. The relative efficacy of intra-articular injections of agents such as corticosteroid and hyaluronic acid preparations has been assessed. In addition, reports on trials of potentially disease-modifying agents for osteoarthritis have been published. SummaryBecause the therapeutic options have been reduced over the past year and the role of nutritional supplements remains unclear, the clinician is faced with a need to reassess osteoarthritis therapy. Although no practical disease-modifying agent for osteoarthritis has been identified, reports such as the recent doxycycline trial reviewed herein provide hope that continued research will soon yield a therapeutic model similar to that used in rheumatoid arthritis, for which some therapeutic agents achieve disease modification and other agents can be added as needed for symptomatic relief.",
+            "year": 2006,
+            "citation_count": 24,
+            "relevance": 2,
+            "explanation": "This paper discusses recent developments in osteoarthritis therapeutics, including the relative efficacy of intra-articular injections of corticosteroid and hyaluronic acid preparations. This is partially dependent on the findings of the source paper, which compared the efficacy of IA corticosteroids and HA products."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Intra-articular depot formulation principles: role in the management of postoperative pain and arthritic disorders.": {
+                    "explanation": "This paper is a review paper that discusses the management of arthritic disorders, including osteoarthritis. Although it touches on the topic of osteoarthritis, it does not directly build upon or depend on the findings of the source paper. Instead, it provides a broader overview of intra-articular depot formulation principles.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2008,
+        "source_paper": {
+            "paperId": "75cbf64ce02b0b2cf8d38a427d304952aaebcea9",
+            "title": "Bmc Complementary and Alternative Medicine Comparison of Glucosamine Sulfate and a Polyherbal Supplement for the Relief of Osteoarthritis of the Knee: a Randomized Controlled Trial [isrctn25438351]",
+            "abstract": "Background: The efficacy and safety of a dietary supplement derived from South American botanicals was compared to glucosamine sulfate in osteoarthritis subjects in a Mumbai-based multi-center, randomized, double-blind study.",
+            "year": 2007,
+            "citation_count": 41,
+            "relevance": 2,
+            "explanation": "This paper is relevant to the source paper because it investigates the efficacy of glucosamine sulfate, a nutriceutical mentioned in the source paper, in comparison to a polyherbal supplement for osteoarthritis relief. The hypothesis in this paper is partially dependent on the findings of the source paper, which discussed the role of nutriceuticals such as glucosamine in osteoarthritis therapy."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1.Evaluation of knowledge base of hospital pharmacists and physicians on herbal medicines in Southwestern Nigeria": {
+                    "explanation": "This paper has no connection with the source paper as it evaluates the knowledge base of hospital pharmacists and physicians on herbal medicines, which is unrelated to the comparison of glucosamine sulfate and a polyherbal supplement for osteoarthritis relief in the source paper.",
+                    "relevance": 0
+                },
+                "2.Conceptual development of a measure to assess pharmacists' knowledge of herbal and dietary supplements": {
+                    "explanation": "This paper has no connection with the source paper as it focuses on the development of a measure to assess pharmacists' knowledge of herbal and dietary supplements, which is unrelated to the comparison of glucosamine sulfate and a polyherbal supplement for osteoarthritis relief in the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2009,
+        "source_paper": {
+            "paperId": "75cbf64ce02b0b2cf8d38a427d304952aaebcea9",
+            "title": "Bmc Complementary and Alternative Medicine Comparison of Glucosamine Sulfate and a Polyherbal Supplement for the Relief of Osteoarthritis of the Knee: a Randomized Controlled Trial [isrctn25438351]",
+            "abstract": "Background: The efficacy and safety of a dietary supplement derived from South American botanicals was compared to glucosamine sulfate in osteoarthritis subjects in a Mumbai-based multi-center, randomized, double-blind study.",
+            "year": 2007,
+            "citation_count": 41,
+            "relevance": 2,
+            "explanation": "This paper is relevant to the source paper because it investigates the efficacy of glucosamine sulfate, a nutriceutical mentioned in the source paper, in comparison to a polyherbal supplement for osteoarthritis relief. The hypothesis in this paper is partially dependent on the findings of the source paper, which discussed the role of nutriceuticals such as glucosamine in osteoarthritis therapy."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Curriculum Resource Use and Relationships With Educational Outcomes in an Online Curriculum": {
+                    "explanation": "This paper is unrelated to the source paper as it discusses online curriculum delivery and educational outcomes, which is not connected to the comparison of glucosamine sulfate and a polyherbal supplement for osteoarthritis relief.",
+                    "relevance": 0
+                },
+                "2. Vitamin C with metabolites reduce oxalate levels compared to ascorbic acid: a preliminary and novel clinical urologic finding": {
+                    "explanation": "Although this paper discusses dietary supplements, it is not related to the source paper's comparison of glucosamine sulfate and a polyherbal supplement for osteoarthritis relief. The focus on vitamin C and oxalate levels is distinct from the source paper's topic.",
+                    "relevance": 0
+                },
+                "3. Practices, Attitudes, and Beliefs Regarding Dietary Supplements Among Florida's Dietitians and Nurses": {
+                    "explanation": "This paper is not directly related to the source paper, but it does discuss dietary supplements, which is a broader topic that encompasses the source paper's focus on glucosamine sulfate and a polyherbal supplement. However, there is no clear connection or inspiration from the source paper's hypothesis or findings.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2009,
+        "source_paper": {
+            "paperId": "75cbf64ce02b0b2cf8d38a427d304952aaebcea9",
+            "title": "Bmc Complementary and Alternative Medicine Comparison of Glucosamine Sulfate and a Polyherbal Supplement for the Relief of Osteoarthritis of the Knee: a Randomized Controlled Trial [isrctn25438351]",
+            "abstract": "Background: The efficacy and safety of a dietary supplement derived from South American botanicals was compared to glucosamine sulfate in osteoarthritis subjects in a Mumbai-based multi-center, randomized, double-blind study.",
+            "year": 2007,
+            "citation_count": 41,
+            "relevance": 2,
+            "explanation": "This paper is relevant to the source paper because it investigates the efficacy of glucosamine sulfate, a nutriceutical mentioned in the source paper, in comparison to a polyherbal supplement for osteoarthritis relief. The hypothesis in this paper is partially dependent on the findings of the source paper, which discussed the role of nutriceuticals such as glucosamine in osteoarthritis therapy."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Curriculum Resource Use and Relationships With Educational Outcomes in an Online Curriculum": {
+                    "explanation": "This paper has no connection with the source paper as it discusses online curriculum delivery and educational outcomes, which is unrelated to the comparison of glucosamine sulfate and a polyherbal supplement for osteoarthritis relief.",
+                    "relevance": 0
+                },
+                "2. Vitamin C with metabolites reduce oxalate levels compared to ascorbic acid: a preliminary and novel clinical urologic finding.": {
+                    "explanation": "This paper has no connection with the source paper as it examines the effects of vitamin C formulations on urine oxalate levels, which is unrelated to the comparison of glucosamine sulfate and a polyherbal supplement for osteoarthritis relief.",
+                    "relevance": 0
+                },
+                "3. Practices, Attitudes, and Beliefs Regarding Dietary Supplements Among Florida's Dietitians and Nurses": {
+                    "explanation": "This paper has no connection with the source paper as it investigates the practices, attitudes, and beliefs of dietitians and nurses regarding dietary supplements, which is unrelated to the comparison of glucosamine sulfate and a polyherbal supplement for osteoarthritis relief.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2014,
+        "source_paper": {
+            "paperId": "75cbf64ce02b0b2cf8d38a427d304952aaebcea9",
+            "title": "Bmc Complementary and Alternative Medicine Comparison of Glucosamine Sulfate and a Polyherbal Supplement for the Relief of Osteoarthritis of the Knee: a Randomized Controlled Trial [isrctn25438351]",
+            "abstract": "Background: The efficacy and safety of a dietary supplement derived from South American botanicals was compared to glucosamine sulfate in osteoarthritis subjects in a Mumbai-based multi-center, randomized, double-blind study.",
+            "year": 2007,
+            "citation_count": 41,
+            "relevance": 2,
+            "explanation": "This paper is relevant to the source paper because it investigates the efficacy of glucosamine sulfate, a nutriceutical mentioned in the source paper, in comparison to a polyherbal supplement for osteoarthritis relief. The hypothesis in this paper is partially dependent on the findings of the source paper, which discussed the role of nutriceuticals such as glucosamine in osteoarthritis therapy."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Dietary Supplement Use among a Population of University Students in Italy: Correlations with BMI, Dietary Habits and Sport Activities": {
+                    "explanation": "This paper has no connection with the source paper, as it investigates the prevalence and characteristics of dietary supplement use among university students in Italy, without referencing the source paper's findings on glucosamine sulfate and polyherbal supplements for osteoarthritis relief.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2014,
+        "source_paper": {
+            "paperId": "75cbf64ce02b0b2cf8d38a427d304952aaebcea9",
+            "title": "Bmc Complementary and Alternative Medicine Comparison of Glucosamine Sulfate and a Polyherbal Supplement for the Relief of Osteoarthritis of the Knee: a Randomized Controlled Trial [isrctn25438351]",
+            "abstract": "Background: The efficacy and safety of a dietary supplement derived from South American botanicals was compared to glucosamine sulfate in osteoarthritis subjects in a Mumbai-based multi-center, randomized, double-blind study.",
+            "year": 2007,
+            "citation_count": 41,
+            "relevance": 2,
+            "explanation": "This paper is relevant to the source paper because it investigates the efficacy of glucosamine sulfate, a nutriceutical mentioned in the source paper, in comparison to a polyherbal supplement for osteoarthritis relief. The hypothesis in this paper is partially dependent on the findings of the source paper, which discussed the role of nutriceuticals such as glucosamine in osteoarthritis therapy."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Dietary Supplement Use among a Population of University Students in Italy: Correlations with BMI, Dietary Habits and Sport Activities": {
+                    "explanation": "This paper has no direct connection to the source paper, as it discusses the prevalence of dietary supplement use among university students in Italy, without any reference to glucosamine sulfate or the specific polyherbal supplement used in the source paper. The focus is on the general use of dietary supplements and their correlation with BMI, dietary habits, and sport activities.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2016,
+        "source_paper": {
+            "paperId": "75cbf64ce02b0b2cf8d38a427d304952aaebcea9",
+            "title": "Bmc Complementary and Alternative Medicine Comparison of Glucosamine Sulfate and a Polyherbal Supplement for the Relief of Osteoarthritis of the Knee: a Randomized Controlled Trial [isrctn25438351]",
+            "abstract": "Background: The efficacy and safety of a dietary supplement derived from South American botanicals was compared to glucosamine sulfate in osteoarthritis subjects in a Mumbai-based multi-center, randomized, double-blind study.",
+            "year": 2007,
+            "citation_count": 41,
+            "relevance": 2,
+            "explanation": "This paper is relevant to the source paper because it investigates the efficacy of glucosamine sulfate, a nutriceutical mentioned in the source paper, in comparison to a polyherbal supplement for osteoarthritis relief. The hypothesis in this paper is partially dependent on the findings of the source paper, which discussed the role of nutriceuticals such as glucosamine in osteoarthritis therapy."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Determining the prevalence of dietary supplement consumption among Ardabil University students and related factors, 2014": {
+                    "explanation": "This paper is unrelated to the source paper as it investigates the prevalence of dietary supplement consumption among university students, whereas the source paper compares the efficacy and safety of a dietary supplement to glucosamine sulfate for osteoarthritis relief. The two papers have different objectives, study populations, and outcomes.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2016,
+        "source_paper": {
+            "paperId": "75cbf64ce02b0b2cf8d38a427d304952aaebcea9",
+            "title": "Bmc Complementary and Alternative Medicine Comparison of Glucosamine Sulfate and a Polyherbal Supplement for the Relief of Osteoarthritis of the Knee: a Randomized Controlled Trial [isrctn25438351]",
+            "abstract": "Background: The efficacy and safety of a dietary supplement derived from South American botanicals was compared to glucosamine sulfate in osteoarthritis subjects in a Mumbai-based multi-center, randomized, double-blind study.",
+            "year": 2007,
+            "citation_count": 41,
+            "relevance": 2,
+            "explanation": "This paper is relevant to the source paper because it investigates the efficacy of glucosamine sulfate, a nutriceutical mentioned in the source paper, in comparison to a polyherbal supplement for osteoarthritis relief. The hypothesis in this paper is partially dependent on the findings of the source paper, which discussed the role of nutriceuticals such as glucosamine in osteoarthritis therapy."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Determining the prevalence of dietary supplement consumption among Ardabil University students and related factors, 2014": {
+                    "explanation": "This paper is unrelated to the source paper as it discusses the prevalence of dietary supplement consumption among university students, whereas the source paper compares the efficacy of glucosamine sulfate and a polyherbal supplement for osteoarthritis relief.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2017,
+        "source_paper": {
+            "paperId": "75cbf64ce02b0b2cf8d38a427d304952aaebcea9",
+            "title": "Bmc Complementary and Alternative Medicine Comparison of Glucosamine Sulfate and a Polyherbal Supplement for the Relief of Osteoarthritis of the Knee: a Randomized Controlled Trial [isrctn25438351]",
+            "abstract": "Background: The efficacy and safety of a dietary supplement derived from South American botanicals was compared to glucosamine sulfate in osteoarthritis subjects in a Mumbai-based multi-center, randomized, double-blind study.",
+            "year": 2007,
+            "citation_count": 41,
+            "relevance": 2,
+            "explanation": "This paper is relevant to the source paper because it investigates the efficacy of glucosamine sulfate, a nutriceutical mentioned in the source paper, in comparison to a polyherbal supplement for osteoarthritis relief. The hypothesis in this paper is partially dependent on the findings of the source paper, which discussed the role of nutriceuticals such as glucosamine in osteoarthritis therapy."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Knowledge, Attitudes, and Usage Related to Dietary Supplements in a Group of Canadian Dental Students: A Pilot Study": {
+                    "explanation": "This paper has no connection with the source paper. It discusses the knowledge, attitudes, and usage of dietary supplements among Canadian dental students, which is unrelated to the comparison of glucosamine sulfate and a polyherbal supplement for osteoarthritis relief in the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2017,
+        "source_paper": {
+            "paperId": "75cbf64ce02b0b2cf8d38a427d304952aaebcea9",
+            "title": "Bmc Complementary and Alternative Medicine Comparison of Glucosamine Sulfate and a Polyherbal Supplement for the Relief of Osteoarthritis of the Knee: a Randomized Controlled Trial [isrctn25438351]",
+            "abstract": "Background: The efficacy and safety of a dietary supplement derived from South American botanicals was compared to glucosamine sulfate in osteoarthritis subjects in a Mumbai-based multi-center, randomized, double-blind study.",
+            "year": 2007,
+            "citation_count": 41,
+            "relevance": 2,
+            "explanation": "This paper is relevant to the source paper because it investigates the efficacy of glucosamine sulfate, a nutriceutical mentioned in the source paper, in comparison to a polyherbal supplement for osteoarthritis relief. The hypothesis in this paper is partially dependent on the findings of the source paper, which discussed the role of nutriceuticals such as glucosamine in osteoarthritis therapy."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Knowledge, Attitudes, and Usage Related to Dietary Supplements in a Group of Canadian Dental Students: A Pilot Study": {
+                    "explanation": "This paper is not connected to the source paper as it discusses dietary supplements in general, specifically in the context of dental students, and does not mention glucosamine sulfate or polyherbal supplements. It does not build upon the findings of the source paper or use its results as a sub-hypothesis.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2018,
+        "source_paper": {
+            "paperId": "75cbf64ce02b0b2cf8d38a427d304952aaebcea9",
+            "title": "Bmc Complementary and Alternative Medicine Comparison of Glucosamine Sulfate and a Polyherbal Supplement for the Relief of Osteoarthritis of the Knee: a Randomized Controlled Trial [isrctn25438351]",
+            "abstract": "Background: The efficacy and safety of a dietary supplement derived from South American botanicals was compared to glucosamine sulfate in osteoarthritis subjects in a Mumbai-based multi-center, randomized, double-blind study.",
+            "year": 2007,
+            "citation_count": 41,
+            "relevance": 2,
+            "explanation": "This paper is relevant to the source paper because it investigates the efficacy of glucosamine sulfate, a nutriceutical mentioned in the source paper, in comparison to a polyherbal supplement for osteoarthritis relief. The hypothesis in this paper is partially dependent on the findings of the source paper, which discussed the role of nutriceuticals such as glucosamine in osteoarthritis therapy."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Eating Disorders in Relationship with Dietary Habits among Pharmacy Students in Romania": {
+                    "explanation": "This paper is unrelated to the source paper, as it explores eating disorders and dietary habits among pharmacy students, while the source paper compares glucosamine sulfate and a polyherbal supplement for osteoarthritis relief.",
+                    "relevance": 0
+                },
+                "2. Prevalence, Knowledge and Attitudes Concerning Dietary Supplements among a Student Population in Croatia": {
+                    "explanation": "This paper is unrelated to the source paper, as it investigates the prevalence, knowledge, and attitudes towards dietary supplements among university students in Croatia, while the source paper focuses on a specific comparison of supplements for osteoarthritis relief.",
+                    "relevance": 0
+                },
+                "3. Nutritional Supplement and Functional Food Use Among Medical Students in India": {
+                    "explanation": "This paper is unrelated to the source paper, as it assesses the pattern of use of nutritional supplements and functional foods among medical students in India, while the source paper compares specific supplements for osteoarthritis relief.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2018,
+        "source_paper": {
+            "paperId": "75cbf64ce02b0b2cf8d38a427d304952aaebcea9",
+            "title": "Bmc Complementary and Alternative Medicine Comparison of Glucosamine Sulfate and a Polyherbal Supplement for the Relief of Osteoarthritis of the Knee: a Randomized Controlled Trial [isrctn25438351]",
+            "abstract": "Background: The efficacy and safety of a dietary supplement derived from South American botanicals was compared to glucosamine sulfate in osteoarthritis subjects in a Mumbai-based multi-center, randomized, double-blind study.",
+            "year": 2007,
+            "citation_count": 41,
+            "relevance": 2,
+            "explanation": "This paper is relevant to the source paper because it investigates the efficacy of glucosamine sulfate, a nutriceutical mentioned in the source paper, in comparison to a polyherbal supplement for osteoarthritis relief. The hypothesis in this paper is partially dependent on the findings of the source paper, which discussed the role of nutriceuticals such as glucosamine in osteoarthritis therapy."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Eating Disorders in Relationship with Dietary Habits among Pharmacy Students in Romania": {
+                    "explanation": "This paper has no connection to the source paper, as it discusses eating disorders and dietary habits among pharmacy students, which is unrelated to the comparison of glucosamine sulfate and a polyherbal supplement for osteoarthritis relief.",
+                    "relevance": 0
+                },
+                "2. Prevalence, Knowledge and Attitudes Concerning Dietary Supplements among a Student Population in Croatia": {
+                    "explanation": "This paper has no connection to the source paper, as it explores the prevalence and attitudes towards dietary supplements among students in Croatia, without any relation to osteoarthritis or the specific supplements mentioned in the source paper.",
+                    "relevance": 0
+                },
+                "3. Nutritional Supplement and Functional Food Use Among Medical Students in India": {
+                    "explanation": "This paper has no connection to the source paper, as it examines the use of nutritional supplements and functional foods among medical students in India, which is not related to the comparison of glucosamine sulfate and a polyherbal supplement for osteoarthritis relief.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2019,
+        "source_paper": {
+            "paperId": "75cbf64ce02b0b2cf8d38a427d304952aaebcea9",
+            "title": "Bmc Complementary and Alternative Medicine Comparison of Glucosamine Sulfate and a Polyherbal Supplement for the Relief of Osteoarthritis of the Knee: a Randomized Controlled Trial [isrctn25438351]",
+            "abstract": "Background: The efficacy and safety of a dietary supplement derived from South American botanicals was compared to glucosamine sulfate in osteoarthritis subjects in a Mumbai-based multi-center, randomized, double-blind study.",
+            "year": 2007,
+            "citation_count": 41,
+            "relevance": 2,
+            "explanation": "This paper is relevant to the source paper because it investigates the efficacy of glucosamine sulfate, a nutriceutical mentioned in the source paper, in comparison to a polyherbal supplement for osteoarthritis relief. The hypothesis in this paper is partially dependent on the findings of the source paper, which discussed the role of nutriceuticals such as glucosamine in osteoarthritis therapy."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Knowledge, attitude, and practices regarding dietary supplements in Saudi Arabia": {
+                    "explanation": "This paper has no connection to the source paper as it discusses the knowledge, attitude, and practices of dietary supplement users in Saudi Arabia, whereas the source paper compares the efficacy and safety of a polyherbal supplement and glucosamine sulfate for osteoarthritis relief. The topic and focus of the two papers are unrelated.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2019,
+        "source_paper": {
+            "paperId": "75cbf64ce02b0b2cf8d38a427d304952aaebcea9",
+            "title": "Bmc Complementary and Alternative Medicine Comparison of Glucosamine Sulfate and a Polyherbal Supplement for the Relief of Osteoarthritis of the Knee: a Randomized Controlled Trial [isrctn25438351]",
+            "abstract": "Background: The efficacy and safety of a dietary supplement derived from South American botanicals was compared to glucosamine sulfate in osteoarthritis subjects in a Mumbai-based multi-center, randomized, double-blind study.",
+            "year": 2007,
+            "citation_count": 41,
+            "relevance": 2,
+            "explanation": "This paper is relevant to the source paper because it investigates the efficacy of glucosamine sulfate, a nutriceutical mentioned in the source paper, in comparison to a polyherbal supplement for osteoarthritis relief. The hypothesis in this paper is partially dependent on the findings of the source paper, which discussed the role of nutriceuticals such as glucosamine in osteoarthritis therapy."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Knowledge, attitude, and practices regarding dietary supplements in Saudi Arabia": {
+                    "explanation": "This paper has no connection with the source paper as it discusses knowledge, attitude, and practices regarding dietary supplements in Saudi Arabia, whereas the source paper compares the efficacy and safety of a dietary supplement derived from South American botanicals with glucosamine sulfate in osteoarthritis subjects.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2021,
+        "source_paper": {
+            "paperId": "75cbf64ce02b0b2cf8d38a427d304952aaebcea9",
+            "title": "Bmc Complementary and Alternative Medicine Comparison of Glucosamine Sulfate and a Polyherbal Supplement for the Relief of Osteoarthritis of the Knee: a Randomized Controlled Trial [isrctn25438351]",
+            "abstract": "Background: The efficacy and safety of a dietary supplement derived from South American botanicals was compared to glucosamine sulfate in osteoarthritis subjects in a Mumbai-based multi-center, randomized, double-blind study.",
+            "year": 2007,
+            "citation_count": 41,
+            "relevance": 2,
+            "explanation": "This paper is relevant to the source paper because it investigates the efficacy of glucosamine sulfate, a nutriceutical mentioned in the source paper, in comparison to a polyherbal supplement for osteoarthritis relief. The hypothesis in this paper is partially dependent on the findings of the source paper, which discussed the role of nutriceuticals such as glucosamine in osteoarthritis therapy."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Oral Dietary Supplements Use among Healthcare Workers during the COVID-19 Pandemic in Malaysia": {
+                    "explanation": "This paper is unrelated to the source paper, as it discusses the use of oral dietary supplements among healthcare workers during the COVID-19 pandemic, which is not relevant to the comparison of glucosamine sulfate and a polyherbal supplement for the relief of osteoarthritis of the knee.",
+                    "relevance": 0
+                },
+                "2. Use of the Depression, Anxiety and Stress Scale (DASS-21) Questionnaire to Assess Levels of Depression, Anxiety, and Stress in Healthcare and Administrative Staff in 5 Oncology Institutions in Bosnia and Herzegovina During the 2020 COVID-19 Pandemic": {
+                    "explanation": "This paper is also unrelated to the source paper, as it focuses on assessing mental health challenges among healthcare workers during the COVID-19 pandemic, which is not relevant to the topic of osteoarthritis relief.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2021,
+        "source_paper": {
+            "paperId": "75cbf64ce02b0b2cf8d38a427d304952aaebcea9",
+            "title": "Bmc Complementary and Alternative Medicine Comparison of Glucosamine Sulfate and a Polyherbal Supplement for the Relief of Osteoarthritis of the Knee: a Randomized Controlled Trial [isrctn25438351]",
+            "abstract": "Background: The efficacy and safety of a dietary supplement derived from South American botanicals was compared to glucosamine sulfate in osteoarthritis subjects in a Mumbai-based multi-center, randomized, double-blind study.",
+            "year": 2007,
+            "citation_count": 41,
+            "relevance": 2,
+            "explanation": "This paper is relevant to the source paper because it investigates the efficacy of glucosamine sulfate, a nutriceutical mentioned in the source paper, in comparison to a polyherbal supplement for osteoarthritis relief. The hypothesis in this paper is partially dependent on the findings of the source paper, which discussed the role of nutriceuticals such as glucosamine in osteoarthritis therapy."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Oral Dietary Supplements Use among Healthcare Workers during the COVID-19 Pandemic in Malaysia": {
+                    "explanation": "This paper has no connection with the source paper, as it focuses on the use of dietary supplements among healthcare workers during the COVID-19 pandemic, whereas the source paper compares the efficacy and safety of a dietary supplement derived from South American botanicals with glucosamine sulfate in osteoarthritis subjects.",
+                    "relevance": 0
+                },
+                "2. Use of the Depression, Anxiety and Stress Scale (DASS-21) Questionnaire to Assess Levels of Depression, Anxiety, and Stress in Healthcare and Administrative Staff in 5 Oncology Institutions in Bosnia and Herzegovina During the 2020 COVID-19 Pandemic": {
+                    "explanation": "This paper has no connection with the source paper, as it aims to evaluate the levels of depression, anxiety, and stress in healthcare and administrative staff in oncology institutions during the COVID-19 pandemic, whereas the source paper is related to osteoarthritis treatment.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2022,
+        "source_paper": {
+            "paperId": "75cbf64ce02b0b2cf8d38a427d304952aaebcea9",
+            "title": "Bmc Complementary and Alternative Medicine Comparison of Glucosamine Sulfate and a Polyherbal Supplement for the Relief of Osteoarthritis of the Knee: a Randomized Controlled Trial [isrctn25438351]",
+            "abstract": "Background: The efficacy and safety of a dietary supplement derived from South American botanicals was compared to glucosamine sulfate in osteoarthritis subjects in a Mumbai-based multi-center, randomized, double-blind study.",
+            "year": 2007,
+            "citation_count": 41,
+            "relevance": 2,
+            "explanation": "This paper is relevant to the source paper because it investigates the efficacy of glucosamine sulfate, a nutriceutical mentioned in the source paper, in comparison to a polyherbal supplement for osteoarthritis relief. The hypothesis in this paper is partially dependent on the findings of the source paper, which discussed the role of nutriceuticals such as glucosamine in osteoarthritis therapy."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Knowledge, Attitudes, and Practices About COVID-19 Among Healthcare Workers in Iran During the First Wave of the Pandemic": {
+                    "explanation": "This paper has no connection with the source paper. The source paper is about the comparison of Glucosamine Sulfate and a Polyherbal Supplement for the relief of osteoarthritis of the knee, whereas this paper is about COVID-19 knowledge, attitudes, and practices among healthcare workers in Iran.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2022,
+        "source_paper": {
+            "paperId": "75cbf64ce02b0b2cf8d38a427d304952aaebcea9",
+            "title": "Bmc Complementary and Alternative Medicine Comparison of Glucosamine Sulfate and a Polyherbal Supplement for the Relief of Osteoarthritis of the Knee: a Randomized Controlled Trial [isrctn25438351]",
+            "abstract": "Background: The efficacy and safety of a dietary supplement derived from South American botanicals was compared to glucosamine sulfate in osteoarthritis subjects in a Mumbai-based multi-center, randomized, double-blind study.",
+            "year": 2007,
+            "citation_count": 41,
+            "relevance": 2,
+            "explanation": "This paper is relevant to the source paper because it investigates the efficacy of glucosamine sulfate, a nutriceutical mentioned in the source paper, in comparison to a polyherbal supplement for osteoarthritis relief. The hypothesis in this paper is partially dependent on the findings of the source paper, which discussed the role of nutriceuticals such as glucosamine in osteoarthritis therapy."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Knowledge, Attitudes, and Practices About COVID-19 Among Healthcare Workers in Iran During the First Wave of the Pandemic": {
+                    "explanation": "This paper is unrelated to the source paper as it deals with COVID-19 and healthcare workers, while the source paper is about the comparison of glucosamine sulfate and a polyherbal supplement for osteoarthritis relief.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2023,
+        "source_paper": {
+            "paperId": "75cbf64ce02b0b2cf8d38a427d304952aaebcea9",
+            "title": "Bmc Complementary and Alternative Medicine Comparison of Glucosamine Sulfate and a Polyherbal Supplement for the Relief of Osteoarthritis of the Knee: a Randomized Controlled Trial [isrctn25438351]",
+            "abstract": "Background: The efficacy and safety of a dietary supplement derived from South American botanicals was compared to glucosamine sulfate in osteoarthritis subjects in a Mumbai-based multi-center, randomized, double-blind study.",
+            "year": 2007,
+            "citation_count": 41,
+            "relevance": 2,
+            "explanation": "This paper is relevant to the source paper because it investigates the efficacy of glucosamine sulfate, a nutriceutical mentioned in the source paper, in comparison to a polyherbal supplement for osteoarthritis relief. The hypothesis in this paper is partially dependent on the findings of the source paper, which discussed the role of nutriceuticals such as glucosamine in osteoarthritis therapy."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Prevalence, attitudes, and practices of dietary supplements among middle-aged and older adults in Asir region, Saudi Arabia: A cross-sectional study": {
+                    "explanation": "This paper has no connection with the source paper. The source paper is a randomized controlled trial comparing glucosamine sulfate and a polyherbal supplement for osteoarthritis relief, while this paper is a cross-sectional study about the prevalence and attitudes towards dietary supplements among middle-aged and older adults.",
+                    "relevance": 0
+                },
+                "2. Knowledge and Attitudes of Health Professionals toward Dietary Supplements and Herbal Foods": {
+                    "explanation": "This paper has no connection with the source paper. The source paper is a randomized controlled trial comparing glucosamine sulfate and a polyherbal supplement for osteoarthritis relief, while this paper is a review of the literature about the knowledge and attitudes of health professionals toward dietary supplements and herbal foods.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2023,
+        "source_paper": {
+            "paperId": "75cbf64ce02b0b2cf8d38a427d304952aaebcea9",
+            "title": "Bmc Complementary and Alternative Medicine Comparison of Glucosamine Sulfate and a Polyherbal Supplement for the Relief of Osteoarthritis of the Knee: a Randomized Controlled Trial [isrctn25438351]",
+            "abstract": "Background: The efficacy and safety of a dietary supplement derived from South American botanicals was compared to glucosamine sulfate in osteoarthritis subjects in a Mumbai-based multi-center, randomized, double-blind study.",
+            "year": 2007,
+            "citation_count": 41,
+            "relevance": 2,
+            "explanation": "This paper is relevant to the source paper because it investigates the efficacy of glucosamine sulfate, a nutriceutical mentioned in the source paper, in comparison to a polyherbal supplement for osteoarthritis relief. The hypothesis in this paper is partially dependent on the findings of the source paper, which discussed the role of nutriceuticals such as glucosamine in osteoarthritis therapy."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Prevalence, attitudes, and practices of dietary supplements among middle-aged and older adults in Asir region, Saudi Arabia: A cross-sectional study": {
+                    "explanation": "This paper is not related to the source paper as it does not investigate the efficacy or safety of a specific dietary supplement, such as glucosamine sulfate or a polyherbal supplement, in osteoarthritis subjects. Instead, it examines the prevalence, attitudes, and practices of dietary supplements among middle-aged and older adults in Saudi Arabia.",
+                    "relevance": 0
+                },
+                "2. Knowledge and Attitudes of Health Professionals toward Dietary Supplements and Herbal Foods": {
+                    "explanation": "This paper is also unrelated to the source paper as it focuses on the knowledge and attitudes of health professionals toward dietary supplements and herbal foods, rather than investigating the efficacy or safety of a specific dietary supplement in osteoarthritis subjects.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    }
+]

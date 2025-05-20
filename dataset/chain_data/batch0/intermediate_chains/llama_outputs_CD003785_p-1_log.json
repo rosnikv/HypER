@@ -1,0 +1,1095 @@
+[
+    {
+        "year": 2008,
+        "source_paper": {
+            "paperId": "a1d63f6934b2067ba4b929198f890297a47edfd2",
+            "pmid": "10622295",
+            "title": "Infliximab (chimeric anti-tumour necrosis factor \u03b1 monoclonal antibody) versus placebo in rheumatoid arthritis patients receiving concomitant methotrexate: a randomised phase III trial",
+            "abstract": null,
+            "year": 1999,
+            "citation_count": 2417
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Assessment of disease activity in Rheumatoid Arthritis using urinary CTx-I levels as a marker of bone destruction and serum IL-6 as a marker of inflammation.": {
+                    "explanation": "This paper does not directly build upon or reference the findings of the source paper, which investigated the efficacy of infliximab in patients with rheumatoid arthritis receiving concomitant methotrexate. The paper focuses on assessing disease activity using different markers.",
+                    "relevance": 0
+                },
+                "2. Targeting DMARD resistance in Rheumatoid Arthritis": {
+                    "explanation": "This paper appears to be a review or a collection of conference proceedings and does not present a novel hypothesis or findings that directly relate to the source paper.",
+                    "relevance": 0
+                },
+                "3. Golimumab, a human antibody to tumour necrosis factor \u03b1 given by monthly subcutaneous injections, in active rheumatoid arthritis despite methotrexate therapy: the GO-FORWARD Study": {
+                    "explanation": "The key hypothesis in this paper is inspired by the hypothesis or findings from the source paper, as it investigates the efficacy of another TNF-\u03b1 inhibitor, golimumab, in patients with active rheumatoid arthritis despite methotrexate therapy.",
+                    "relevance": 1
+                },
+                "4. Systemic Administration of Tolerogenic Dendritic Cells Ameliorates Murine Inflammatory Arthritis": {
+                    "explanation": "This paper explores a different area of research, focusing on the use of tolerogenic dendritic cells in murine inflammatory arthritis, and does not directly build upon or reference the findings of the source paper.",
+                    "relevance": 0
+                },
+                "5. Oxidative stress and left ventricular remodelling after myocardial infarction.": {
+                    "explanation": "This paper is unrelated to the source paper, as it focuses on the relationship between oxidative stress and left ventricular remodeling after myocardial infarction, rather than rheumatoid arthritis or TNF-\u03b1 inhibitors.",
+                    "relevance": 0
+                },
+                "6. Cost-Effectiveness of Sequential Therapy with Tumor Necrosis Factor Antagonists in Early Rheumatoid Arthritis": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the cost-effectiveness of sequential therapy with TNF antagonists, including infliximab, in early rheumatoid arthritis.",
+                    "relevance": 2
+                },
+                "7. Prevention of bone mineral density loss in patients with rheumatoid arthritis treated with anti-TNF\u03b1 therapy": {
+                    "explanation": "The key hypothesis in this paper is inspired by the hypothesis or findings from the source paper, as it reviews the effect of anti-TNF\u03b1 therapy on bone metabolism and bone mineral density in rheumatoid arthritis.",
+                    "relevance": 1
+                },
+                "8. 18F-FDG PET in sarcoidosis: an observational study in 12 patients with infliximab": {
+                    "explanation": "This paper explores the use of infliximab in sarcoidosis, which is a different disease from rheumatoid arthritis, and does not directly build upon or reference the findings of the source paper.",
+                    "relevance": 0
+                },
+                "9. Formation of antibodies against infliximab and adalimumab strongly correlates with functional drug levels and clinical responses in rheumatoid arthritis": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the formation of antibodies against infliximab and adalimumab in patients with rheumatoid arthritis.",
+                    "relevance": 2
+                },
+                "10. Efficacy and safety of certolizumab pegol plus methotrexate in active rheumatoid arthritis: the RAPID 2 study. A randomised controlled trial": {
+                    "explanation": "The key hypothesis in this paper is inspired by the hypothesis or findings from the source paper, as it investigates the efficacy and safety of another TNF-\u03b1 inhibitor, certolizumab pegol, in patients with active rheumatoid arthritis.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Cost-Effectiveness of Sequential Therapy with Tumor Necrosis Factor Antagonists in Early Rheumatoid Arthritis": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the cost-effectiveness of sequential therapy with TNF antagonists, including infliximab, in early rheumatoid arthritis.",
+                    "relevance": 2
+                },
+                "2. Formation of antibodies against infliximab and adalimumab strongly correlates with functional drug levels and clinical responses in rheumatoid arthritis": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the formation of antibodies against infliximab and adalimumab in patients with rheumatoid arthritis.",
+                    "relevance": 2
+                },
+                "3. Golimumab, a human antibody to tumour necrosis factor \u03b1 given by monthly subcutaneous injections, in active rheumatoid arthritis despite methotrexate therapy: the GO-FORWARD Study": {
+                    "explanation": "The key hypothesis in this paper is inspired by the hypothesis or findings from the source paper, as it investigates the efficacy of another TNF-\u03b1 inhibitor, golimumab, in patients with active rheumatoid arthritis despite methotrexate therapy.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2008,
+        "source_paper": {
+            "paperId": "a1d63f6934b2067ba4b929198f890297a47edfd2",
+            "pmid": "10622295",
+            "title": "Infliximab (chimeric anti-tumour necrosis factor \u03b1 monoclonal antibody) versus placebo in rheumatoid arthritis patients receiving concomitant methotrexate: a randomised phase III trial",
+            "abstract": null,
+            "year": 1999,
+            "citation_count": 2417
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Efficacy and safety of certolizumab pegol monotherapy every 4 weeks in patients with rheumatoid arthritis failing previous disease-modifying antirheumatic therapy: the FAST4WARD study": {
+                    "explanation": "This paper is related to the source paper as it investigates another tumor necrosis factor \u03b1 (TNF\u03b1) inhibitor, certolizumab pegol, in patients with rheumatoid arthritis. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "2. Quality appraisal of clinical practice guidelines and consensus statements on the use of biologic agents in rheumatoid arthritis: a systematic review": {
+                    "explanation": "This paper is a review of clinical practice guidelines and consensus statements on the use of biologic agents in rheumatoid arthritis, which includes the source paper's topic. However, it does not directly evaluate or build upon the source paper's findings.",
+                    "relevance": 0
+                },
+                "3. Certolizumab pegol plus methotrexate is significantly more effective than placebo plus methotrexate in active rheumatoid arthritis: findings of a fifty-two-week, phase III, multicenter, randomized, double-blind, placebo-controlled, parallel-group study": {
+                    "explanation": "This paper investigates certolizumab pegol in combination with methotrexate, which is similar to the source paper's investigation of infliximab with methotrexate. The paper's findings are partially dependent on the understanding of TNF\u03b1 inhibitors in rheumatoid arthritis, which includes the source paper's topic.",
+                    "relevance": 2
+                },
+                "4. Efficacy of Biologicals in the Treatment of Rheumatoid Arthritis": {
+                    "explanation": "This paper is a meta-analysis of biological therapies in rheumatoid arthritis, which includes the source paper's topic. However, it does not directly evaluate or build upon the source paper's findings.",
+                    "relevance": 0
+                },
+                "5. Life-table analysis of etanercept with or without methotrexate in patients with psoriatic arthritis": {
+                    "explanation": "This paper investigates etanercept in patients with psoriatic arthritis, which is a different population and condition than the source paper. However, it does relate to the broader topic of TNF\u03b1 inhibitors in arthritis.",
+                    "relevance": 1
+                },
+                "6. Impact of adalimumab on work participation in rheumatoid arthritis: comparison of an open-label extension study and a registry-based control group": {
+                    "explanation": "This paper investigates adalimumab in patients with rheumatoid arthritis, which is related to the source paper's topic. However, it focuses on work participation and does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "7. Improving patient outlook in rheumatoid arthritis: Experience with abatacept": {
+                    "explanation": "This paper discusses abatacept in patients with rheumatoid arthritis, which is a different biological agent than the source paper's topic. However, it does relate to the broader topic of arthritis treatment.",
+                    "relevance": 1
+                },
+                "8. Lewis\u2013Sumner syndrome associated with infliximab therapy in rheumatoid arthritis": {
+                    "explanation": "This paper reports two cases of Lewis-Sumner syndrome associated with infliximab therapy, which is the same drug investigated in the source paper. However, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "9. The value of synovial cytokine expression in predicting the clinical response to TNF antagonist therapy (infliximab)": {
+                    "explanation": "This paper investigates the value of synovial cytokine expression in predicting the clinical response to infliximab, which is the same drug investigated in the source paper. The paper's findings are partially dependent on the understanding of infliximab's mechanism of action, which includes the source paper's topic.",
+                    "relevance": 2
+                },
+                "10. How antirheumatic drugs protect joints from damage in rheumatoid arthritis": {
+                    "explanation": "This paper discusses the mechanisms of antirheumatic drugs in protecting joints from damage in rheumatoid arthritis, which includes the source paper's topic. However, it does not directly evaluate or build upon the source paper's findings.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Certolizumab pegol plus methotrexate is significantly more effective than placebo plus methotrexate in active rheumatoid arthritis: findings of a fifty-two-week, phase III, multicenter, randomized, double-blind, placebo-controlled, parallel-group study": {
+                    "explanation": "This paper investigates certolizumab pegol in combination with methotrexate, which is similar to the source paper's investigation of infliximab with methotrexate. The paper's findings are partially dependent on the understanding of TNF\u03b1 inhibitors in rheumatoid arthritis, which includes the source paper's topic.",
+                    "relevance": 2
+                },
+                "2. The value of synovial cytokine expression in predicting the clinical response to TNF antagonist therapy (infliximab)": {
+                    "explanation": "This paper investigates the value of synovial cytokine expression in predicting the clinical response to infliximab, which is the same drug investigated in the source paper. The paper's findings are partially dependent on the understanding of infliximab's mechanism of action, which includes the source paper's topic.",
+                    "relevance": 2
+                },
+                "3. Efficacy and safety of certolizumab pegol monotherapy every 4 weeks in patients with rheumatoid arthritis failing previous disease-modifying antirheumatic therapy: the FAST4WARD study": {
+                    "explanation": "This paper is related to the source paper as it investigates another tumor necrosis factor \u03b1 (TNF\u03b1) inhibitor, certolizumab pegol, in patients with rheumatoid arthritis. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2008,
+        "source_paper": {
+            "paperId": "a1d63f6934b2067ba4b929198f890297a47edfd2",
+            "pmid": "10622295",
+            "title": "Infliximab (chimeric anti-tumour necrosis factor \u03b1 monoclonal antibody) versus placebo in rheumatoid arthritis patients receiving concomitant methotrexate: a randomised phase III trial",
+            "abstract": null,
+            "year": 1999,
+            "citation_count": 2417
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Immediate type I hypersensitivity response implicated in worsening injection site reactions to adalimumab": {
+                    "explanation": "This paper explores a specific adverse effect of TNF-alpha inhibitors, which is related to the source paper's topic of infliximab, a chimeric anti-tumour necrosis factor \u03b1 monoclonal antibody. However, it does not build upon or depend on the findings of the source paper, so it is not directly connected.",
+                    "relevance": 0
+                },
+                "2. Efficacy, safety and patient-reported outcomes of combination etanercept and sulfasalazine versus etanercept alone in patients with rheumatoid arthritis: a double-blind randomised 2-year study": {
+                    "explanation": "This paper investigates the efficacy and safety of etanercept, another TNF-alpha inhibitor, in combination with sulfasalazine, which is related to the source paper's topic of infliximab and methotrexate. However, it does not build upon or depend on the findings of the source paper, so it is not directly connected.",
+                    "relevance": 0
+                },
+                "3. Listeria monocytogenes infection in patients with rheumatic diseases on TNF-alpha antagonist therapy: the Spanish Study Group experience": {
+                    "explanation": "This paper discusses the risk of infections in patients receiving TNF-alpha antagonists, which is related to the source paper's topic of infliximab. However, it does not build upon or depend on the findings of the source paper, so it is not directly connected.",
+                    "relevance": 0
+                },
+                "4. Bayesian meta-analysis of multiple treatment comparisons: an introduction to mixed treatment comparisons": {
+                    "explanation": "This paper is a review paper that discusses the methodology of meta-analysis and mixed treatment comparisons, which is not directly connected to the source paper.",
+                    "relevance": 0
+                },
+                "5. Adjunctive anakinra in patients with active rheumatoid arthritis despite methotrexate, or leflunomide, or cyclosporin-A monotherapy: a 48-week, comparative, prospective study": {
+                    "explanation": "This paper investigates the efficacy and safety of anakinra, an interleukin-1 receptor antagonist, in combination with methotrexate or other non-biologic DMARDs, which is related to the source paper's topic of infliximab and methotrexate. However, it does not build upon or depend on the findings of the source paper, so it is not directly connected.",
+                    "relevance": 0
+                },
+                "6. The safety of anti-tumour necrosis factor treatments in rheumatoid arthritis: meta and exposure-adjusted pooled analyses of serious adverse events": {
+                    "explanation": "This paper discusses the safety of anti-TNF treatments, including infliximab, which is directly connected to the source paper. However, it does not build upon or depend on the findings of the source paper, so it is not highly relevant.",
+                    "relevance": 1
+                },
+                "7. Inhibition of radiographic progression with combination etanercept and methotrexate in patients with moderately active rheumatoid arthritis previously treated with monotherapy": {
+                    "explanation": "This paper investigates the efficacy of combination etanercept and methotrexate, which is related to the source paper's topic of infliximab and methotrexate. However, it does not build upon or depend on the findings of the source paper, so it is not directly connected.",
+                    "relevance": 0
+                },
+                "8. UK cost-utility analysis of rituximab in patients with rheumatoid arthritis that failed to respond adequately to a biologic disease-modifying antirheumatic drug": {
+                    "explanation": "This paper discusses the cost-utility analysis of rituximab, which is not directly connected to the source paper.",
+                    "relevance": 0
+                },
+                "9. Protein biochip array technology for cytokine profiling predicts etanercept responsiveness in rheumatoid arthritis": {
+                    "explanation": "This paper investigates the use of cytokine profiling to predict etanercept responsiveness, which is related to the source paper's topic of infliximab and TNF-alpha inhibitors. However, it does not build upon or depend on the findings of the source paper, so it is not directly connected.",
+                    "relevance": 0
+                },
+                "10. Tocilizumab: the first interleukin-6-receptor inhibitor": {
+                    "explanation": "This paper discusses the pharmacology and clinical efficacy of tocilizumab, an interleukin-6 receptor inhibitor, which is not directly connected to the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. The safety of anti-tumour necrosis factor treatments in rheumatoid arthritis: meta and exposure-adjusted pooled analyses of serious adverse events": {
+                    "explanation": "This paper discusses the safety of anti-TNF treatments, including infliximab, which is directly connected to the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2008,
+        "source_paper": {
+            "paperId": "a1d63f6934b2067ba4b929198f890297a47edfd2",
+            "pmid": "10622295",
+            "title": "Infliximab (chimeric anti-tumour necrosis factor \u03b1 monoclonal antibody) versus placebo in rheumatoid arthritis patients receiving concomitant methotrexate: a randomised phase III trial",
+            "abstract": null,
+            "year": 1999,
+            "citation_count": 2417
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Advances in the treatment of intermediate and posterior uveitis": {
+                    "explanation": "This paper is a review of new therapeutic options for noninfective intermediate and posterior uveitis, including infliximab, but does not build upon the source paper's hypothesis or findings. It lacks novel hypotheses or findings and is considered a review paper.",
+                    "relevance": 0
+                },
+                "2. Perspectives on the use of gene therapy for chronic joint diseases": {
+                    "explanation": "This paper discusses the use of gene therapy for chronic joint diseases, including rheumatoid arthritis, but does not build upon the source paper's hypothesis or findings. It explores a different therapeutic approach and does not depend on the source paper's results.",
+                    "relevance": 0
+                },
+                "3. Evaluating guidelines on continuation of anti-tumour necrosis factor treatment after 3 months: clinical effectiveness and costs of observed care and different alternative strategies": {
+                    "explanation": "This paper evaluates guidelines for anti-TNF treatment in rheumatoid arthritis patients, which is related to the source paper's topic. However, it does not build upon the source paper's hypothesis or findings, but rather discusses alternative strategies for treatment continuation.",
+                    "relevance": 1
+                },
+                "4. Most tumour necrosis factor inhibitor trials in rheumatology are undeservedly called 'efficacy and safety' trials: a survey of power considerations": {
+                    "explanation": "This paper discusses the labeling of TNF inhibitor trials in rheumatology, highlighting the inadequacy of sample size for identifying harm. While it is related to the source paper's topic, it does not build upon the source paper's hypothesis or findings.",
+                    "relevance": 1
+                },
+                "5. Assessment of anti-TNF-alpha efficacy in rheumatoid arthritis: is 3 months sufficient?": {
+                    "explanation": "This paper investigates the optimal therapeutic trial duration of anti-TNF-alpha therapy, which is related to the source paper's topic. It builds upon the idea of evaluating the efficacy of anti-TNF-alpha treatment, but does not depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "6. Use of rituximab for the treatment of rheumatoid arthritis: the Latin American context": {
+                    "explanation": "This paper discusses the use of rituximab for rheumatoid arthritis treatment in the Latin American context, which is a different therapeutic approach than the source paper's topic. It does not build upon the source paper's hypothesis or findings.",
+                    "relevance": 0
+                },
+                "7. Comment on: Modelling the cost effectiveness of TNF antagonists in the management of rheumatoid arthritis: results from the British Society for Rheumatology Biologics Registry": {
+                    "explanation": "This paper is a comment on a study that models the cost-effectiveness of TNF antagonists in rheumatoid arthritis management. While it is related to the source paper's topic, it does not build upon the source paper's hypothesis or findings.",
+                    "relevance": 1
+                },
+                "8. Clinical and histological features of lupus nephritis induced by anti-TNF\u03b1 therapy": {
+                    "explanation": "This paper reports a case of lupus nephritis induced by anti-TNF\u03b1 therapy, which is a potential side effect of the treatment discussed in the source paper. It builds upon the idea of evaluating the safety of anti-TNF\u03b1 treatment, but does not depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "9. American College of Rheumatology 2008 recommendations for the use of nonbiologic and biologic disease-modifying antirheumatic drugs in rheumatoid arthritis": {
+                    "explanation": "This paper presents guidelines for the use of nonbiologic and biologic disease-modifying antirheumatic drugs in rheumatoid arthritis, which is related to the source paper's topic. However, it does not build upon the source paper's hypothesis or findings, but rather provides recommendations for treatment.",
+                    "relevance": 0
+                },
+                "10. Discontinuation of infliximab in rheumatoid arthritis patients in clinical remission": {
+                    "explanation": "This paper investigates the discontinuation of infliximab in rheumatoid arthritis patients in clinical remission, which is related to the source paper's topic. It builds upon the idea of evaluating the efficacy and safety of infliximab treatment, and partially depends on the source paper's findings regarding the use of infliximab in rheumatoid arthritis patients.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Discontinuation of infliximab in rheumatoid arthritis patients in clinical remission": {
+                    "explanation": "This paper investigates the discontinuation of infliximab in rheumatoid arthritis patients in clinical remission, which is related to the source paper's topic. It builds upon the idea of evaluating the efficacy and safety of infliximab treatment, and partially depends on the source paper's findings regarding the use of infliximab in rheumatoid arthritis patients.",
+                    "relevance": 2
+                },
+                "2. Evaluating guidelines on continuation of anti-tumour necrosis factor treatment after 3 months: clinical effectiveness and costs of observed care and different alternative strategies": {
+                    "explanation": "This paper evaluates guidelines for anti-TNF treatment in rheumatoid arthritis patients, which is related to the source paper's topic. However, it does not build upon the source paper's hypothesis or findings, but rather discusses alternative strategies for treatment continuation.",
+                    "relevance": 1
+                },
+                "3. Assessment of anti-TNF-alpha efficacy in rheumatoid arthritis: is 3 months sufficient?": {
+                    "explanation": "This paper investigates the optimal therapeutic trial duration of anti-TNF-alpha therapy, which is related to the source paper's topic. It builds upon the idea of evaluating the efficacy of anti-TNF-alpha treatment, but does not depend on the source paper's findings.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2008,
+        "source_paper": {
+            "paperId": "a1d63f6934b2067ba4b929198f890297a47edfd2",
+            "pmid": "10622295",
+            "title": "Infliximab (chimeric anti-tumour necrosis factor \u03b1 monoclonal antibody) versus placebo in rheumatoid arthritis patients receiving concomitant methotrexate: a randomised phase III trial",
+            "abstract": null,
+            "year": 1999,
+            "citation_count": 2417
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Role of cytokines in rheumatoid arthritis: an education in pathophysiology and therapeutics": {
+                    "explanation": "This paper is a review paper, providing a broad overview of the role of cytokines in rheumatoid arthritis and the development of biological therapeutics. It does not present novel findings or hypotheses directly related to the source paper.",
+                    "relevance": 0
+                },
+                "2. Messenger ribonucleic acid expression profile in peripheral blood cells from RA patients following treatment with an anti-TNF-alpha monoclonal antibody, infliximab.": {
+                    "explanation": "This paper explores the mRNA expression profiles of peripheral blood cells from RA patients treated with infliximab, which is the same anti-TNF-alpha monoclonal antibody used in the source paper. The findings of this paper are partially dependent on the results of the source paper, as they investigate the effects of infliximab on gene expression.",
+                    "relevance": 2
+                },
+                "3. Rituximab use in everyday clinical practice as a first-line biologic therapy for the treatment of DMARD-resistant rheumatoid arthritis.": {
+                    "explanation": "This paper discusses the use of rituximab, a different biologic therapy, in the treatment of rheumatoid arthritis. While it is related to the same disease area as the source paper, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "4. Effectiveness of infliximab in the treatment of refractory juvenile dermatomyositis with calcinosis.": {
+                    "explanation": "This paper investigates the use of infliximab in the treatment of juvenile dermatomyositis, a different disease area from rheumatoid arthritis. However, it still uses the same anti-TNF-alpha monoclonal antibody as the source paper, and the findings may be relevant to understanding the broader therapeutic potential of infliximab.",
+                    "relevance": 1
+                },
+                "5. Evaluation of the anti-inflammatory effect of infliximab in a mouse model of acute asthma": {
+                    "explanation": "This paper explores the use of infliximab in a mouse model of acute asthma, which is a different disease area from rheumatoid arthritis. The findings of this paper are not directly related to the source paper, but may provide insight into the potential therapeutic applications of infliximab in other inflammatory diseases.",
+                    "relevance": 1
+                },
+                "6. Association between the level of circulating bioactive tumor necrosis factor alpha and the tumor necrosis factor alpha gene polymorphism at -308 in patients with rheumatoid arthritis treated with a tumor necrosis factor alpha inhibitor.": {
+                    "explanation": "This paper investigates the relationship between TNF-alpha gene polymorphism and the response to TNF-alpha inhibitors in rheumatoid arthritis patients. The findings of this paper are partially dependent on the results of the source paper, as they explore the therapeutic implications of TNF-alpha inhibition in rheumatoid arthritis.",
+                    "relevance": 2
+                },
+                "7. TNF: a master switch for inflammation to cancer.": {
+                    "explanation": "This paper is a review paper, providing a broad overview of the role of TNF-alpha in inflammation and cancer. It does not present novel findings or hypotheses directly related to the source paper.",
+                    "relevance": 0
+                },
+                "8. Tumor necrosis factor alpha inhibitors, methotrexate or both? An inquiry into the formal evidence for when they are to be used in rheumatoid arthritis.": {
+                    "explanation": "This paper discusses the use of TNF-alpha inhibitors and methotrexate in the treatment of rheumatoid arthritis, which is the same disease area as the source paper. The findings of this paper are partially dependent on the results of the source paper, as they investigate the therapeutic implications of TNF-alpha inhibition in combination with methotrexate.",
+                    "relevance": 2
+                },
+                "9. Vialinin A, a novel potent inhibitor of TNF-alpha production from RBL-2H3 cells.": {
+                    "explanation": "This paper discusses the discovery of a novel compound that inhibits TNF-alpha production, which is a different therapeutic approach from the use of anti-TNF-alpha monoclonal antibodies like infliximab. The findings of this paper are not directly related to the source paper.",
+                    "relevance": 0
+                },
+                "10. Anti-nuclear antibodies, anti-DNA and C4 complement evolution in rheumatoid arthritis and ankylosing spondylitis treated with TNF-alpha blockers.": {
+                    "explanation": "This paper investigates the effects of TNF-alpha blockers on autoantibody production in rheumatoid arthritis and ankylosing spondylitis patients. The findings of this paper are partially dependent on the results of the source paper, as they explore the therapeutic implications of TNF-alpha inhibition in rheumatoid arthritis.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Messenger ribonucleic acid expression profile in peripheral blood cells from RA patients following treatment with an anti-TNF-alpha monoclonal antibody, infliximab.": {
+                    "explanation": "This paper explores the mRNA expression profiles of peripheral blood cells from RA patients treated with infliximab, which is the same anti-TNF-alpha monoclonal antibody used in the source paper. The findings of this paper are partially dependent on the results of the source paper, as they investigate the effects of infliximab on gene expression.",
+                    "relevance": 2
+                },
+                "2. Association between the level of circulating bioactive tumor necrosis factor alpha and the tumor necrosis factor alpha gene polymorphism at -308 in patients with rheumatoid arthritis treated with a tumor necrosis factor alpha inhibitor.": {
+                    "explanation": "This paper investigates the relationship between TNF-alpha gene polymorphism and the response to TNF-alpha inhibitors in rheumatoid arthritis patients. The findings of this paper are partially dependent on the results of the source paper, as they explore the therapeutic implications of TNF-alpha inhibition in rheumatoid arthritis.",
+                    "relevance": 2
+                },
+                "3. Tumor necrosis factor alpha inhibitors, methotrexate or both? An inquiry into the formal evidence for when they are to be used in rheumatoid arthritis.": {
+                    "explanation": "This paper discusses the use of TNF-alpha inhibitors and methotrexate in the treatment of rheumatoid arthritis, which is the same disease area as the source paper. The findings of this paper are partially dependent on the results of the source paper, as they investigate the therapeutic implications of TNF-alpha inhibition in combination with methotrexate.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2008,
+        "source_paper": {
+            "paperId": "a1d63f6934b2067ba4b929198f890297a47edfd2",
+            "pmid": "10622295",
+            "title": "Infliximab (chimeric anti-tumour necrosis factor \u03b1 monoclonal antibody) versus placebo in rheumatoid arthritis patients receiving concomitant methotrexate: a randomised phase III trial",
+            "abstract": null,
+            "year": 1999,
+            "citation_count": 2417
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. The recombinant humanized anti-IL-6 receptor antibody tocilizumab, an innovative drug for the treatment of rheumatoid arthritis": {
+                    "explanation": "This paper is not directly connected to the source paper as it investigates a different drug (tocilizumab) for the treatment of rheumatoid arthritis, without referencing or building upon the findings of the source paper.",
+                    "relevance": 0
+                },
+                "2. The use of infliximab in ocular inflammation": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it explores the use of infliximab (the same drug investigated in the source paper) in a different context (ocular inflammation), implying that the source paper's findings on infliximab's efficacy and safety are relevant to this new application.",
+                    "relevance": 2
+                },
+                "3. Rates of new-onset psoriasis in patients with rheumatoid arthritis receiving anti-tumour necrosis factor \u03b1 therapy: results from the British Society for Rheumatology Biologics Register": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the incidence of psoriasis in patients with rheumatoid arthritis receiving anti-TNF\u03b1 therapy, which includes infliximab, the drug investigated in the source paper.",
+                    "relevance": 2
+                },
+                "4. Biologic treatments for systemic rheumatic diseases": {
+                    "explanation": "This paper is a review paper and does not present novel findings or hypotheses. It discusses the current state of biologic therapies in rheumatology, including anti-TNF\u03b1 therapy, but does not reference or build upon the findings of the source paper.",
+                    "relevance": 0
+                },
+                "5. Anti-tumor necrosis factor therapy: 6 year experience of a single center in northern Israel and possible impact of health policy on results": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the use of anti-TNF therapy, including infliximab, in a real-world setting, implying that the source paper's findings on infliximab's efficacy and safety are relevant to this discussion.",
+                    "relevance": 2
+                },
+                "6. Safety and Tolerability of Infliximab Therapy: Suggestions and Criticisms Based on Wide Clinical Experience": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the safety and tolerability of infliximab therapy, building upon the source paper's findings on infliximab's efficacy and safety in patients with rheumatoid arthritis.",
+                    "relevance": 2
+                },
+                "7. Tumor Necrosis Factor-Alpha Binding Capacity and Anti-Infliximab Antibodies Measured by Fluid-Phase Radioimmunoassays as Predictors of Clinical Efficacy of Infliximab in Crohn's Disease": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the predictors of clinical efficacy of infliximab in Crohn's disease, building upon the source paper's findings on infliximab's efficacy and safety in patients with rheumatoid arthritis.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. The use of infliximab in ocular inflammation": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it explores the use of infliximab (the same drug investigated in the source paper) in a different context (ocular inflammation), implying that the source paper's findings on infliximab's efficacy and safety are relevant to this new application.",
+                    "relevance": 2
+                },
+                "2. Rates of new-onset psoriasis in patients with rheumatoid arthritis receiving anti-tumour necrosis factor \u03b1 therapy: results from the British Society for Rheumatology Biologics Register": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the incidence of psoriasis in patients with rheumatoid arthritis receiving anti-TNF\u03b1 therapy, which includes infliximab, the drug investigated in the source paper.",
+                    "relevance": 2
+                },
+                "3. Anti-tumor necrosis factor therapy: 6 year experience of a single center in northern Israel and possible impact of health policy on results": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the use of anti-TNF therapy, including infliximab, in a real-world setting, implying that the source paper's findings on infliximab's efficacy and safety are relevant to this discussion.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2009,
+        "source_paper": {
+            "paperId": "42094552032848ab3e96b96fda773fa27f8faac8",
+            "title": "Certolizumab pegol plus methotrexate is significantly more effective than placebo plus methotrexate in active rheumatoid arthritis: findings of a fifty-two-week, phase III, multicenter, randomized, double-blind, placebo-controlled, parallel-group study.",
+            "abstract": "OBJECTIVE\nTo evaluate the efficacy and safety of 2 dosage regimens of lyophilized certolizumab pegol (a novel PEGylated anti-tumor necrosis factor agent) as adjunctive therapy to methotrexate (MTX) in patients with active rheumatoid arthritis (RA) with an inadequate response to MTX therapy alone.\n\n\nMETHODS\nIn this 52-week, phase III, multicenter, randomized, double-blind, placebo-controlled, parallel-group trial, 982 patients were randomized 2:2:1 to receive treatment with subcutaneous certolizumab pegol at an initial dosage of 400 mg given at weeks 0, 2, and 4, with a subsequent dosage of 200 mg or 400 mg given every 2 weeks, plus MTX, or placebo plus MTX. Co-primary end points were the response rate at week 24 according to the American College of Rheumatology 20% criteria for improvement (ACR20) and the mean change from baseline in the modified total Sharp score at week 52.\n\n\nRESULTS\nAt week 24, ACR20 response rates using nonresponder imputation for the certolizumab pegol 200-mg and 400-mg groups were 58.8% and 60.8%, respectively, as compared with 13.6% for the placebo group. Differences in ACR20 response rates versus placebo were significant at week 1 and were sustained to week 52 (P < 0.001). At week 52, mean radiographic progression from baseline was reduced in patients treated with certolizumab pegol 200 mg (0.4 Sharp units) or 400 mg (0.2 Sharp units) as compared with that in placebo-treated patients (2.8 Sharp units) (P < 0.001 by rank analysis). Improvements in all ACR core set of disease activity measures, including physical function, were observed by week 1 with both certolizumab pegol dosage regimens. Most adverse events were mild or moderate.\n\n\nCONCLUSION\nTreatment with certolizumab pegol 200 or 400 mg plus MTX resulted in a rapid and sustained reduction in RA signs and symptoms, inhibited the progression of structural joint damage, and improved physical function as compared with placebo plus MTX treatment in RA patients with an incomplete response to MTX.",
+            "year": 2008,
+            "citation_count": 577,
+            "relevance": 2,
+            "explanation": "This paper investigates certolizumab pegol in combination with methotrexate, which is similar to the source paper's investigation of infliximab with methotrexate. The paper's findings are partially dependent on the understanding of TNF\u03b1 inhibitors in rheumatoid arthritis, which includes the source paper's topic."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Clinical trials: how to cope with medical needs, ethics and timelines": {
+                    "explanation": "This paper does not directly reference or build upon the source paper, but rather provides a general overview of strategies for managing rheumatoid arthritis, including the use of biologic agents like certolizumab pegol.",
+                    "relevance": 0
+                },
+                "2. Bioboosters in the treatment of rheumatic diseases: a comprehensive review of currently available biologics in patients with rheumatoid arthritis, ankylosing spondylitis and psoriatic arthritis": {
+                    "explanation": "This review paper mentions certolizumab pegol as one of the biologic agents used in the treatment of rheumatoid arthritis, but does not specifically reference or build upon the source paper.",
+                    "relevance": 0
+                },
+                "3. Review of Biologic Therapies": {
+                    "explanation": "This review paper provides an overview of available and emerging biologic therapies, including certolizumab pegol, but does not specifically reference or build upon the source paper.",
+                    "relevance": 0
+                },
+                "4. Effect of certolizumab pegol with methotrexate on home and work place productivity and social activities in patients with active rheumatoid arthritis": {
+                    "explanation": "This paper is directly related to the source paper, as it explores the impact of certolizumab pegol on productivity and social activities in patients with rheumatoid arthritis, which is a logical extension of the source paper's findings on the efficacy of certolizumab pegol in treating rheumatoid arthritis.",
+                    "relevance": 2
+                },
+                "5. Acute graft-versus-host disease: new treatment strategies": {
+                    "explanation": "This paper does not reference or build upon the source paper, as it focuses on a different topic (acute graft-versus-host disease) and does not mention certolizumab pegol or rheumatoid arthritis.",
+                    "relevance": 0
+                },
+                "6. Clinically relevant advances in rheumatoid arthritis therapy": {
+                    "explanation": "This paper mentions certolizumab pegol as one of the novel drugs introduced in the therapeutic armamentarium for rheumatoid arthritis, but does not specifically reference or build upon the source paper.",
+                    "relevance": 0
+                },
+                "7. Therapeutic options for rheumatoid arthritis": {
+                    "explanation": "This paper provides an overview of treatment options for rheumatoid arthritis, including biologic agents like certolizumab pegol, but does not specifically reference or build upon the source paper.",
+                    "relevance": 0
+                },
+                "8. Infectious complications of tumor necrosis factor blockade": {
+                    "explanation": "This paper discusses the infectious complications of tumor necrosis factor blockade, including certolizumab pegol, but does not specifically reference or build upon the source paper.",
+                    "relevance": 0
+                },
+                "9. Certolizumab pegol for rheumatoid arthritis: effective in combination with methotrexate or as monotherapy": {
+                    "explanation": "This paper is directly related to the source paper, as it summarizes the published efficacy, safety, and patient-reported health outcome results for certolizumab pegol in the treatment of patients with active rheumatoid arthritis, which is a logical extension of the source paper's findings.",
+                    "relevance": 2
+                },
+                "10. [New biologic and non biologic disease modifying anti-rheumatic drugs for rheumatoid arthritis]": {
+                    "explanation": "This paper mentions certolizumab pegol as one of the new biologic disease-modifying anti-rheumatic drugs for rheumatoid arthritis, but does not specifically reference or build upon the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Effect of certolizumab pegol with methotrexate on home and work place productivity and social activities in patients with active rheumatoid arthritis": {
+                    "explanation": "This paper is directly related to the source paper, as it explores the impact of certolizumab pegol on productivity and social activities in patients with rheumatoid arthritis, which is a logical extension of the source paper's findings on the efficacy of certolizumab pegol in treating rheumatoid arthritis.",
+                    "relevance": 2
+                },
+                "2. Certolizumab pegol for rheumatoid arthritis: effective in combination with methotrexate or as monotherapy": {
+                    "explanation": "This paper is directly related to the source paper, as it summarizes the published efficacy, safety, and patient-reported health outcome results for certolizumab pegol in the treatment of patients with active rheumatoid arthritis, which is a logical extension of the source paper's findings.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2009,
+        "source_paper": {
+            "paperId": "42094552032848ab3e96b96fda773fa27f8faac8",
+            "title": "Certolizumab pegol plus methotrexate is significantly more effective than placebo plus methotrexate in active rheumatoid arthritis: findings of a fifty-two-week, phase III, multicenter, randomized, double-blind, placebo-controlled, parallel-group study.",
+            "abstract": "OBJECTIVE\nTo evaluate the efficacy and safety of 2 dosage regimens of lyophilized certolizumab pegol (a novel PEGylated anti-tumor necrosis factor agent) as adjunctive therapy to methotrexate (MTX) in patients with active rheumatoid arthritis (RA) with an inadequate response to MTX therapy alone.\n\n\nMETHODS\nIn this 52-week, phase III, multicenter, randomized, double-blind, placebo-controlled, parallel-group trial, 982 patients were randomized 2:2:1 to receive treatment with subcutaneous certolizumab pegol at an initial dosage of 400 mg given at weeks 0, 2, and 4, with a subsequent dosage of 200 mg or 400 mg given every 2 weeks, plus MTX, or placebo plus MTX. Co-primary end points were the response rate at week 24 according to the American College of Rheumatology 20% criteria for improvement (ACR20) and the mean change from baseline in the modified total Sharp score at week 52.\n\n\nRESULTS\nAt week 24, ACR20 response rates using nonresponder imputation for the certolizumab pegol 200-mg and 400-mg groups were 58.8% and 60.8%, respectively, as compared with 13.6% for the placebo group. Differences in ACR20 response rates versus placebo were significant at week 1 and were sustained to week 52 (P < 0.001). At week 52, mean radiographic progression from baseline was reduced in patients treated with certolizumab pegol 200 mg (0.4 Sharp units) or 400 mg (0.2 Sharp units) as compared with that in placebo-treated patients (2.8 Sharp units) (P < 0.001 by rank analysis). Improvements in all ACR core set of disease activity measures, including physical function, were observed by week 1 with both certolizumab pegol dosage regimens. Most adverse events were mild or moderate.\n\n\nCONCLUSION\nTreatment with certolizumab pegol 200 or 400 mg plus MTX resulted in a rapid and sustained reduction in RA signs and symptoms, inhibited the progression of structural joint damage, and improved physical function as compared with placebo plus MTX treatment in RA patients with an incomplete response to MTX.",
+            "year": 2008,
+            "citation_count": 577,
+            "relevance": 2,
+            "explanation": "This paper investigates certolizumab pegol in combination with methotrexate, which is similar to the source paper's investigation of infliximab with methotrexate. The paper's findings are partially dependent on the understanding of TNF\u03b1 inhibitors in rheumatoid arthritis, which includes the source paper's topic."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Relative Efficacies: Antimalarials to Abatacept \u2013 The Choice Is Ours": {
+                    "explanation": "This paper does not build upon or extend the findings of the source paper. Instead, it reviews the various treatment options available for rheumatoid arthritis patients. It lacks a direct connection to the source paper and does not provide novel hypotheses or findings.",
+                    "relevance": 0
+                },
+                "2. New tumour necrosis factor inhibitors for rheumatoid arthritis: are there benefits from extending choice?": {
+                    "explanation": "This paper discusses the introduction of new tumor necrosis factor (TNF) inhibitors, including certolizumab pegol, which was investigated in the source paper. The paper explores the benefits and drawbacks of these new inhibitors but does not directly build upon or extend the findings of the source paper.",
+                    "relevance": 1
+                },
+                "3. Recent concepts in the inhibition of radiographic progression with biologics": {
+                    "explanation": "This paper discusses the inhibition of radiographic progression in rheumatoid arthritis patients using biologics. The source paper found that certolizumab pegol inhibited radiographic progression, which is a sub-hypothesis for this paper. However, this paper does not directly extend or build upon the findings of the source paper.",
+                    "relevance": 1
+                },
+                "4. Discussion: DMARDs and biologic therapies in the management of inflammatory joint diseases": {
+                    "explanation": "This paper provides an overview of the various conventional disease-modifying antirheumatic drugs (DMARDs) and biologic therapies used in the treatment of inflammatory joint diseases. The paper does not build upon or extend the findings of the source paper and lacks a direct connection to it.",
+                    "relevance": 0
+                },
+                "5. Infectious Complications Associated with Monoclonal Antibodies and Related Small Molecules": {
+                    "explanation": "This paper reviews the risks of infection and infectious disease-related complications associated with monoclonal antibodies and related small molecules. The paper does not build upon or extend the findings of the source paper and lacks a direct connection to it.",
+                    "relevance": 0
+                },
+                "6. Biological targets in the treatment of rheumatoid arthritis : a comprehensive review of current and in-development biological disease modifying anti-rheumatic drugs": {
+                    "explanation": "This paper provides a comprehensive review of the current and in-development biological disease-modifying antirheumatic drugs (DMARDs) for the treatment of rheumatoid arthritis. The source paper investigated certolizumab pegol, which is one of the biological DMARDs discussed in this paper. However, this paper does not directly build upon or extend the findings of the source paper.",
+                    "relevance": 1
+                },
+                "7. Development of molecular recognition by rational and combinatorial engineering": {
+                    "explanation": "This paper discusses the development of molecular recognition by rational and combinatorial engineering. The paper does not build upon or extend the findings of the source paper and lacks a direct connection to it.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1.New tumour necrosis factor inhibitors for rheumatoid arthritis: are there benefits from extending choice?": {
+                    "explanation": "This paper discusses the introduction of new tumor necrosis factor (TNF) inhibitors, including certolizumab pegol, which was investigated in the source paper. The paper explores the benefits and drawbacks of these new inhibitors but does not directly build upon or extend the findings of the source paper.",
+                    "relevance": 1
+                },
+                "2.Recent concepts in the inhibition of radiographic progression with biologics": {
+                    "explanation": "This paper discusses the inhibition of radiographic progression in rheumatoid arthritis patients using biologics. The source paper found that certolizumab pegol inhibited radiographic progression, which is a sub-hypothesis for this paper. However, this paper does not directly extend or build upon the findings of the source paper.",
+                    "relevance": 1
+                },
+                "3.Biological targets in the treatment of rheumatoid arthritis : a comprehensive review of current and in-development biological disease modifying anti-rheumatic drugs": {
+                    "explanation": "This paper provides a comprehensive review of the current and in-development biological disease-modifying antirheumatic drugs (DMARDs) for the treatment of rheumatoid arthritis. The source paper investigated certolizumab pegol, which is one of the biological DMARDs discussed in this paper. However, this paper does not directly build upon or extend the findings of the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2010,
+        "source_paper": {
+            "paperId": "42094552032848ab3e96b96fda773fa27f8faac8",
+            "title": "Certolizumab pegol plus methotrexate is significantly more effective than placebo plus methotrexate in active rheumatoid arthritis: findings of a fifty-two-week, phase III, multicenter, randomized, double-blind, placebo-controlled, parallel-group study.",
+            "abstract": "OBJECTIVE\nTo evaluate the efficacy and safety of 2 dosage regimens of lyophilized certolizumab pegol (a novel PEGylated anti-tumor necrosis factor agent) as adjunctive therapy to methotrexate (MTX) in patients with active rheumatoid arthritis (RA) with an inadequate response to MTX therapy alone.\n\n\nMETHODS\nIn this 52-week, phase III, multicenter, randomized, double-blind, placebo-controlled, parallel-group trial, 982 patients were randomized 2:2:1 to receive treatment with subcutaneous certolizumab pegol at an initial dosage of 400 mg given at weeks 0, 2, and 4, with a subsequent dosage of 200 mg or 400 mg given every 2 weeks, plus MTX, or placebo plus MTX. Co-primary end points were the response rate at week 24 according to the American College of Rheumatology 20% criteria for improvement (ACR20) and the mean change from baseline in the modified total Sharp score at week 52.\n\n\nRESULTS\nAt week 24, ACR20 response rates using nonresponder imputation for the certolizumab pegol 200-mg and 400-mg groups were 58.8% and 60.8%, respectively, as compared with 13.6% for the placebo group. Differences in ACR20 response rates versus placebo were significant at week 1 and were sustained to week 52 (P < 0.001). At week 52, mean radiographic progression from baseline was reduced in patients treated with certolizumab pegol 200 mg (0.4 Sharp units) or 400 mg (0.2 Sharp units) as compared with that in placebo-treated patients (2.8 Sharp units) (P < 0.001 by rank analysis). Improvements in all ACR core set of disease activity measures, including physical function, were observed by week 1 with both certolizumab pegol dosage regimens. Most adverse events were mild or moderate.\n\n\nCONCLUSION\nTreatment with certolizumab pegol 200 or 400 mg plus MTX resulted in a rapid and sustained reduction in RA signs and symptoms, inhibited the progression of structural joint damage, and improved physical function as compared with placebo plus MTX treatment in RA patients with an incomplete response to MTX.",
+            "year": 2008,
+            "citation_count": 577,
+            "relevance": 2,
+            "explanation": "This paper investigates certolizumab pegol in combination with methotrexate, which is similar to the source paper's investigation of infliximab with methotrexate. The paper's findings are partially dependent on the understanding of TNF\u03b1 inhibitors in rheumatoid arthritis, which includes the source paper's topic."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1.Canadian Variation by Province in Rheumatoid Arthritis Initiating Anti\u2013Tumor Necrosis Factor Therapy: Results from the Optimization of Adalimumab Trial": {
+                    "explanation": "This paper does not have a direct connection with the source paper, as it focuses on variations among Canadian provinces in rheumatoid arthritis initiating anti-tumor necrosis factor therapy.",
+                    "relevance": 0
+                },
+                "2.Indirect comparisons of the efficacy of biological antirheumatic agents in rheumatoid arthritis in patients with an inadequate response to conventional disease-modifying antirheumatic drugs or to an anti-tumour necrosis factor agent: a meta-analysis": {
+                    "explanation": "This paper is a review paper and a meta-analysis of various biological antirheumatic agents, including certolizumab pegol. However, it does not build upon or directly depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "3.Certolizumab pegol: a new biologic targeting rheumatoid arthritis": {
+                    "explanation": "This paper is a review of certolizumab pegol, the same biologic agent studied in the source paper. However, it does not build upon or directly depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "4.State-of-the-art: rheumatoid arthritis": {
+                    "explanation": "This paper is a review of the current state of rheumatoid arthritis treatment and does not have a direct connection with the source paper.",
+                    "relevance": 0
+                },
+                "5.Rheumatoid arthritis therapy: Advances from bench to bedside": {
+                    "explanation": "This paper is a review of the advances in rheumatoid arthritis therapy and does not have a direct connection with the source paper.",
+                    "relevance": 0
+                },
+                "6.Interleukin-6 inhibition for treatment of rheumatoid arthritis: A review of tocilizumab therapy": {
+                    "explanation": "This paper is a review of tocilizumab therapy and does not have a direct connection with the source paper.",
+                    "relevance": 0
+                },
+                "7.Similar effects of disease-modifying antirheumatic drugs, glucocorticoids, and biologic agents on radiographic progression in rheumatoid arthritis: meta-analysis of 70 randomized placebo-controlled or drug-controlled studies, including 112 comparisons.": {
+                    "explanation": "This paper is a meta-analysis of various treatments for rheumatoid arthritis and does not have a direct connection with the source paper.",
+                    "relevance": 0
+                },
+                "8.Abatacept treatment for rheumatoid arthritis": {
+                    "explanation": "This paper is a review of abatacept treatment for rheumatoid arthritis and does not have a direct connection with the source paper.",
+                    "relevance": 0
+                },
+                "9.Certolizumab pegol in the treatment of rheumatoid arthritis: a comprehensive review of its clinical efficacy and safety": {
+                    "explanation": "This paper is a comprehensive review of certolizumab pegol, which is the same biologic agent studied in the source paper. The review includes the results of the RAPID trials, which are likely based on the findings of the source paper. Therefore, the key hypothesis in this paper is at least partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                },
+                "10.RAPID and FAST4WARD trials: certolizumab pegol for rheumatoid arthritis": {
+                    "explanation": "This paper reviews the RAPID and FAST4WARD trials, which are likely based on the findings of the source paper. Therefore, the key hypothesis in this paper is at least partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1.Certolizumab pegol in the treatment of rheumatoid arthritis: a comprehensive review of its clinical efficacy and safety": {
+                    "explanation": "This paper is a comprehensive review of certolizumab pegol, which is the same biologic agent studied in the source paper. The review includes the results of the RAPID trials, which are likely based on the findings of the source paper.",
+                    "relevance": 2
+                },
+                "2.RAPID and FAST4WARD trials: certolizumab pegol for rheumatoid arthritis": {
+                    "explanation": "This paper reviews the RAPID and FAST4WARD trials, which are likely based on the findings of the source paper.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2010,
+        "source_paper": {
+            "paperId": "42094552032848ab3e96b96fda773fa27f8faac8",
+            "title": "Certolizumab pegol plus methotrexate is significantly more effective than placebo plus methotrexate in active rheumatoid arthritis: findings of a fifty-two-week, phase III, multicenter, randomized, double-blind, placebo-controlled, parallel-group study.",
+            "abstract": "OBJECTIVE\nTo evaluate the efficacy and safety of 2 dosage regimens of lyophilized certolizumab pegol (a novel PEGylated anti-tumor necrosis factor agent) as adjunctive therapy to methotrexate (MTX) in patients with active rheumatoid arthritis (RA) with an inadequate response to MTX therapy alone.\n\n\nMETHODS\nIn this 52-week, phase III, multicenter, randomized, double-blind, placebo-controlled, parallel-group trial, 982 patients were randomized 2:2:1 to receive treatment with subcutaneous certolizumab pegol at an initial dosage of 400 mg given at weeks 0, 2, and 4, with a subsequent dosage of 200 mg or 400 mg given every 2 weeks, plus MTX, or placebo plus MTX. Co-primary end points were the response rate at week 24 according to the American College of Rheumatology 20% criteria for improvement (ACR20) and the mean change from baseline in the modified total Sharp score at week 52.\n\n\nRESULTS\nAt week 24, ACR20 response rates using nonresponder imputation for the certolizumab pegol 200-mg and 400-mg groups were 58.8% and 60.8%, respectively, as compared with 13.6% for the placebo group. Differences in ACR20 response rates versus placebo were significant at week 1 and were sustained to week 52 (P < 0.001). At week 52, mean radiographic progression from baseline was reduced in patients treated with certolizumab pegol 200 mg (0.4 Sharp units) or 400 mg (0.2 Sharp units) as compared with that in placebo-treated patients (2.8 Sharp units) (P < 0.001 by rank analysis). Improvements in all ACR core set of disease activity measures, including physical function, were observed by week 1 with both certolizumab pegol dosage regimens. Most adverse events were mild or moderate.\n\n\nCONCLUSION\nTreatment with certolizumab pegol 200 or 400 mg plus MTX resulted in a rapid and sustained reduction in RA signs and symptoms, inhibited the progression of structural joint damage, and improved physical function as compared with placebo plus MTX treatment in RA patients with an incomplete response to MTX.",
+            "year": 2008,
+            "citation_count": 577,
+            "relevance": 2,
+            "explanation": "This paper investigates certolizumab pegol in combination with methotrexate, which is similar to the source paper's investigation of infliximab with methotrexate. The paper's findings are partially dependent on the understanding of TNF\u03b1 inhibitors in rheumatoid arthritis, which includes the source paper's topic."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Underestimation of the efficacy, effectiveness, tolerability, and safety of weekly low-dose methotrexate in information presented to physicians and patients": {
+                    "explanation": "This paper is not directly related to the source paper, as it discusses the underestimation of methotrexate's efficacy, effectiveness, and safety, without referencing certolizumab pegol or the findings of the source paper.",
+                    "relevance": 0
+                },
+                "2. Prefilled certolizumab pegol (Cimzia) syringes for self-use in the treatment of rheumatoid arthritis": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it discusses the use of certolizumab pegol in the treatment of rheumatoid arthritis, which is the same topic as the source paper.",
+                    "relevance": 1
+                },
+                "3. In Vivo Fluorescence Imaging of E-Selectin: Quantitative Detection of Endothelial Activation in Arthritis": {
+                    "explanation": "This paper is not directly related to the source paper, as it discusses a different topic (in vivo fluorescence imaging of E-selectin) without referencing certolizumab pegol or the findings of the source paper.",
+                    "relevance": 0
+                },
+                "4. How tumour necrosis factor blockers interfere with tuberculosis immunity": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it discusses the mechanisms of tumour necrosis factor blockers, including certolizumab pegol, which is the drug studied in the source paper.",
+                    "relevance": 2
+                },
+                "5. Physical function improvements and relief from fatigue and pain are associated with increased productivity at work and at home in rheumatoid arthritis patients treated with certolizumab pegol": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it discusses the effects of certolizumab pegol on physical function, fatigue, and pain in rheumatoid arthritis patients, which is a related topic to the source paper.",
+                    "relevance": 1
+                },
+                "6. Current evidence for the management of rheumatoid arthritis with biological disease-modifying antirheumatic drugs: a systematic literature review informing the EULAR recommendations for the management of RA": {
+                    "explanation": "This paper is a review paper that discusses the current evidence for the management of rheumatoid arthritis with biological disease-modifying antirheumatic drugs, including certolizumab pegol, but does not present new findings or hypotheses that are directly related to the source paper.",
+                    "relevance": 0
+                },
+                "7. Impact of dosing on treatment with TNF inhibitors: managing dose adjustment": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it discusses the dosing of TNF inhibitors, including certolizumab pegol, which is the drug studied in the source paper.",
+                    "relevance": 2
+                },
+                "8. Tumor Necrosis Factor and Anti-Tumor Necrosis Factor Therapies": {
+                    "explanation": "This paper is a review paper that discusses the role of tumor necrosis factor in immune-mediated inflammatory diseases and the currently available anti-TNF-based therapies, including certolizumab pegol, but does not present new findings or hypotheses that are directly related to the source paper.",
+                    "relevance": 0
+                },
+                "9. The importance of the patients' experience of RA compared with clinical measures of disease activity": {
+                    "explanation": "This paper is not directly related to the source paper, as it discusses the importance of patients' experience of RA compared to clinical measures of disease activity, without referencing certolizumab pegol or the findings of the source paper.",
+                    "relevance": 0
+                },
+                "10. The impact of rheumatoid arthritis and treatment on patients' lives": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it discusses the impact of rheumatoid arthritis and treatment on patients' lives, including the use of certolizumab pegol, which is the drug studied in the source paper.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. How tumour necrosis factor blockers interfere with tuberculosis immunity": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it discusses the mechanisms of tumour necrosis factor blockers, including certolizumab pegol, which is the drug studied in the source paper.",
+                    "relevance": 2
+                },
+                "2. Impact of dosing on treatment with TNF inhibitors: managing dose adjustment": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it discusses the dosing of TNF inhibitors, including certolizumab pegol, which is the drug studied in the source paper.",
+                    "relevance": 2
+                },
+                "3. Prefilled certolizumab pegol (Cimzia) syringes for self-use in the treatment of rheumatoid arthritis": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it discusses the use of certolizumab pegol in the treatment of rheumatoid arthritis, which is the same topic as the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2010,
+        "source_paper": {
+            "paperId": "42094552032848ab3e96b96fda773fa27f8faac8",
+            "title": "Certolizumab pegol plus methotrexate is significantly more effective than placebo plus methotrexate in active rheumatoid arthritis: findings of a fifty-two-week, phase III, multicenter, randomized, double-blind, placebo-controlled, parallel-group study.",
+            "abstract": "OBJECTIVE\nTo evaluate the efficacy and safety of 2 dosage regimens of lyophilized certolizumab pegol (a novel PEGylated anti-tumor necrosis factor agent) as adjunctive therapy to methotrexate (MTX) in patients with active rheumatoid arthritis (RA) with an inadequate response to MTX therapy alone.\n\n\nMETHODS\nIn this 52-week, phase III, multicenter, randomized, double-blind, placebo-controlled, parallel-group trial, 982 patients were randomized 2:2:1 to receive treatment with subcutaneous certolizumab pegol at an initial dosage of 400 mg given at weeks 0, 2, and 4, with a subsequent dosage of 200 mg or 400 mg given every 2 weeks, plus MTX, or placebo plus MTX. Co-primary end points were the response rate at week 24 according to the American College of Rheumatology 20% criteria for improvement (ACR20) and the mean change from baseline in the modified total Sharp score at week 52.\n\n\nRESULTS\nAt week 24, ACR20 response rates using nonresponder imputation for the certolizumab pegol 200-mg and 400-mg groups were 58.8% and 60.8%, respectively, as compared with 13.6% for the placebo group. Differences in ACR20 response rates versus placebo were significant at week 1 and were sustained to week 52 (P < 0.001). At week 52, mean radiographic progression from baseline was reduced in patients treated with certolizumab pegol 200 mg (0.4 Sharp units) or 400 mg (0.2 Sharp units) as compared with that in placebo-treated patients (2.8 Sharp units) (P < 0.001 by rank analysis). Improvements in all ACR core set of disease activity measures, including physical function, were observed by week 1 with both certolizumab pegol dosage regimens. Most adverse events were mild or moderate.\n\n\nCONCLUSION\nTreatment with certolizumab pegol 200 or 400 mg plus MTX resulted in a rapid and sustained reduction in RA signs and symptoms, inhibited the progression of structural joint damage, and improved physical function as compared with placebo plus MTX treatment in RA patients with an incomplete response to MTX.",
+            "year": 2008,
+            "citation_count": 577,
+            "relevance": 2,
+            "explanation": "This paper investigates certolizumab pegol in combination with methotrexate, which is similar to the source paper's investigation of infliximab with methotrexate. The paper's findings are partially dependent on the understanding of TNF\u03b1 inhibitors in rheumatoid arthritis, which includes the source paper's topic."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Efficacy of initial methotrexate monotherapy versus combination therapy with a biological agent in early rheumatoid arthritis: a meta-analysis of clinical and radiographic remission": {
+                    "explanation": "This paper is not directly related to the source paper as it discusses the efficacy of methotrexate monotherapy versus combination therapy with a biological agent, but it does not specifically mention certolizumab pegol or its findings. However, it does provide a broader context for the use of biological agents in rheumatoid arthritis treatment.",
+                    "relevance": 0
+                },
+                "2. The clinical efficacy and safety of certolizumab pegol in rheumatoid arthritis": {
+                    "explanation": "This paper is a review of certolizumab pegol's efficacy and safety in rheumatoid arthritis, which is directly related to the source paper. However, as a review paper, it does not present novel findings or hypotheses that build upon the source paper.",
+                    "relevance": 0
+                },
+                "3. Aspects of TNF inhibitor therapy in rheumatoid arthritis": {
+                    "explanation": "This paper discusses the use of TNF inhibitors, including certolizumab pegol, in rheumatoid arthritis treatment. While it does not directly build upon the source paper's findings, it does provide a broader context for the use of certolizumab pegol in TNF inhibitor therapy.",
+                    "relevance": 1
+                },
+                "4. The first decade of biologic TNF antagonists in clinical practice: lessons learned, unresolved issues and future directions": {
+                    "explanation": "This paper provides a broad overview of the use of biologic TNF antagonists in clinical practice, including certolizumab pegol. However, it does not specifically build upon the source paper's findings or present novel hypotheses.",
+                    "relevance": 0
+                },
+                "5. Certolizumab Pegol: A TNF-\u03b1 Antagonist for the Treatment of Moderate-to-Severe Crohn's Disease": {
+                    "explanation": "This paper discusses the use of certolizumab pegol in the treatment of Crohn's disease, which is a different indication than the source paper. However, it does provide some insights into the mechanism of action of certolizumab pegol, which could be relevant to its use in rheumatoid arthritis.",
+                    "relevance": 1
+                },
+                "6. Clinically validated approaches to the treatment of autoimmune diseases": {
+                    "explanation": "This paper provides a broad overview of the treatment of autoimmune diseases, including rheumatoid arthritis. However, it does not specifically discuss certolizumab pegol or build upon the source paper's findings.",
+                    "relevance": 0
+                },
+                "7. Novel TNF antagonists for the treatment of rheumatoid arthritis": {
+                    "explanation": "This paper discusses the use of novel TNF antagonists, including certolizumab pegol, in the treatment of rheumatoid arthritis. While it does not directly build upon the source paper's findings, it does provide some insights into the efficacy and safety of certolizumab pegol in this context.",
+                    "relevance": 1
+                },
+                "8. TNF inhibitors - new and old agents for rheumatoid arthritis": {
+                    "explanation": "This paper discusses the use of TNF inhibitors, including certolizumab pegol, in the treatment of rheumatoid arthritis. While it does not directly build upon the source paper's findings, it does provide some insights into the efficacy and safety of certolizumab pegol in this context.",
+                    "relevance": 1
+                },
+                "9. 2 Challenges in clinical trial design in inflammatory arthritis": {
+                    "explanation": "This paper discusses the challenges of clinical trial design in inflammatory arthritis, which is a broader topic than the source paper. However, it does not specifically discuss certolizumab pegol or build upon the source paper's findings.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Aspects of TNF inhibitor therapy in rheumatoid arthritis": {
+                    "explanation": "This paper discusses the use of TNF inhibitors, including certolizumab pegol, in rheumatoid arthritis treatment. While it does not directly build upon the source paper's findings, it does provide a broader context for the use of certolizumab pegol in TNF inhibitor therapy.",
+                    "relevance": 1
+                },
+                "2. Certolizumab Pegol: A TNF-\u03b1 Antagonist for the Treatment of Moderate-to-Severe Crohn's Disease": {
+                    "explanation": "This paper discusses the use of certolizumab pegol in the treatment of Crohn's disease, which is a different indication than the source paper. However, it does provide some insights into the mechanism of action of certolizumab pegol, which could be relevant to its use in rheumatoid arthritis.",
+                    "relevance": 1
+                },
+                "3. Novel TNF antagonists for the treatment of rheumatoid arthritis": {
+                    "explanation": "This paper discusses the use of novel TNF antagonists, including certolizumab pegol, in the treatment of rheumatoid arthritis. While it does not directly build upon the source paper's findings, it does provide some insights into the efficacy and safety of certolizumab pegol in this context.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2011,
+        "source_paper": {
+            "paperId": "2f988ca31b49cb81060a3ae5cd6e37f6505e78fb",
+            "title": "How tumour necrosis factor blockers interfere with tuberculosis immunity",
+            "abstract": "Tumour necrosis factor (TNF) is a potent inflammatory cytokine that plays an important role in immunity to numerous bacterial infections, including Mycobacterium tuberculosis (Mtb), the causative agent of tuberculosis (TB) in humans. Infliximab, adalimumab, certolizumab pegol and etanercept are anti\u2010TNF agents used to treat a range of inflammatory/autoimmune diseases, such as rheumatoid arthritis. The use of some of these drugs has been linked to reactivation TB. In addition to blocking TNF\u2010mediated immune responses, some anti\u2010TNF drugs have been found to interfere with innate immune responses, such as phagolysosomal maturation and monocyte apoptosis, as well as cell\u2010mediated responses, including interferon\u2010\u03b3 secretion by memory T cells, complement\u2010mediated lysis of Mtb\u2010reactive CD8+ T cells and increased regulatory T cell activity. This review summarizes some of the reported effects of TNF blockers on immune cell responses in the context of the observed clinical data on TB reactivation in patients on anti\u2010TNF therapy.",
+            "year": 2010,
+            "citation_count": 277,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it discusses the mechanisms of tumour necrosis factor blockers, including certolizumab pegol, which is the drug studied in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Reactivation of M. tuberculosis Infection in Trans-Membrane Tumour Necrosis Factor Mice": {
+                    "explanation": "This paper explores the role of TNF in containing persistent M. tuberculosis infection, which is directly related to the source paper's discussion of TNF blockers and their impact on TB reactivation.",
+                    "relevance": 2
+                },
+                "2. Certolizumab pegol therapy of rheumatoid arthritis: Overview": {
+                    "explanation": "Although this paper discusses a specific TNF blocker (certolizumab pegol) and its application in rheumatoid arthritis, it does not directly build upon or depend on the findings of the source paper regarding TNF blockers and TB reactivation.",
+                    "relevance": 0
+                },
+                "3. Tumor necrosis factor\u2010\u03b1 can induce Langhans\u2010type multinucleated giant cell formation derived from myeloid dendritic cells": {
+                    "explanation": "This paper investigates the role of TNF-\u03b1 in the formation of multinucleated giant cells, which is a topic related to the immune response, but it does not directly connect to the source paper's focus on TNF blockers and TB reactivation.",
+                    "relevance": 0
+                },
+                "4. Incidence of Tuberculosis Among Korean Patients with Ankylosing Spondylitis Who Are Taking Tumor Necrosis Factor Blockers": {
+                    "explanation": "This paper examines the incidence of TB in patients with ankylosing spondylitis who are treated with TNF blockers, which is directly related to the source paper's discussion of TNF blockers and their impact on TB reactivation.",
+                    "relevance": 2
+                },
+                "5. Immunomodulation by vitamin D: implications for TB": {
+                    "explanation": "Although this paper discusses the immunomodulatory effects of vitamin D and its implications for TB, it does not directly build upon or depend on the findings of the source paper regarding TNF blockers and TB reactivation.",
+                    "relevance": 0
+                },
+                "6. Autophagy in the immune response to tuberculosis: clinical perspectives": {
+                    "explanation": "This paper explores the role of autophagy in the immune response to TB, which is a topic related to the source paper, but it does not directly connect to the source paper's focus on TNF blockers and TB reactivation.",
+                    "relevance": 0
+                },
+                "7. The death\u2010promoting molecule tumour necrosis factor\u2010related apoptosis inducing ligand (TRAIL) is not required for the development of peripheral lymphopenia or granuloma necrosis during infection with virulent Mycobacterium avium": {
+                    "explanation": "This paper investigates the role of TRAIL in the development of lymphopenia and granuloma necrosis during M. avium infection, which is a topic related to the immune response, but it does not directly connect to the source paper's focus on TNF blockers and TB reactivation.",
+                    "relevance": 0
+                },
+                "8. TNF-\u03b1 converting enzyme-mediated ErbB4 transactivation by TNF promotes colonic epithelial cell survival": {
+                    "explanation": "This paper discusses the role of TNF-\u03b1 in promoting colonic epithelial cell survival, which is a topic related to the immune response, but it does not directly connect to the source paper's focus on TNF blockers and TB reactivation.",
+                    "relevance": 0
+                },
+                "9. The risk of tuberculosis in patients treated with TNF antagonists": {
+                    "explanation": "This paper examines the risk of TB in patients treated with TNF antagonists, which is directly related to the source paper's discussion of TNF blockers and their impact on TB reactivation.",
+                    "relevance": 2
+                },
+                "10. Views of immunology: effector T cells": {
+                    "explanation": "This paper discusses the role of effector T cells in controlling intracellular infections, which is a topic related to the immune response, but it does not directly connect to the source paper's focus on TNF blockers and TB reactivation.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Reactivation of M. tuberculosis Infection in Trans-Membrane Tumour Necrosis Factor Mice": {
+                    "explanation": "This paper explores the role of TNF in containing persistent M. tuberculosis infection, which is directly related to the source paper's discussion of TNF blockers and their impact on TB reactivation.",
+                    "relevance": 2
+                },
+                "2. Incidence of Tuberculosis Among Korean Patients with Ankylosing Spondylitis Who Are Taking Tumor Necrosis Factor Blockers": {
+                    "explanation": "This paper examines the incidence of TB in patients with ankylosing spondylitis who are treated with TNF blockers, which is directly related to the source paper's discussion of TNF blockers and their impact on TB reactivation.",
+                    "relevance": 2
+                },
+                "3. The risk of tuberculosis in patients treated with TNF antagonists": {
+                    "explanation": "This paper examines the risk of TB in patients treated with TNF antagonists, which is directly related to the source paper's discussion of TNF blockers and their impact on TB reactivation.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2011,
+        "source_paper": {
+            "paperId": "2f988ca31b49cb81060a3ae5cd6e37f6505e78fb",
+            "title": "How tumour necrosis factor blockers interfere with tuberculosis immunity",
+            "abstract": "Tumour necrosis factor (TNF) is a potent inflammatory cytokine that plays an important role in immunity to numerous bacterial infections, including Mycobacterium tuberculosis (Mtb), the causative agent of tuberculosis (TB) in humans. Infliximab, adalimumab, certolizumab pegol and etanercept are anti\u2010TNF agents used to treat a range of inflammatory/autoimmune diseases, such as rheumatoid arthritis. The use of some of these drugs has been linked to reactivation TB. In addition to blocking TNF\u2010mediated immune responses, some anti\u2010TNF drugs have been found to interfere with innate immune responses, such as phagolysosomal maturation and monocyte apoptosis, as well as cell\u2010mediated responses, including interferon\u2010\u03b3 secretion by memory T cells, complement\u2010mediated lysis of Mtb\u2010reactive CD8+ T cells and increased regulatory T cell activity. This review summarizes some of the reported effects of TNF blockers on immune cell responses in the context of the observed clinical data on TB reactivation in patients on anti\u2010TNF therapy.",
+            "year": 2010,
+            "citation_count": 277,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it discusses the mechanisms of tumour necrosis factor blockers, including certolizumab pegol, which is the drug studied in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Phosphodiesterase 4 Inhibition Reduces Innate Immunity and Improves Isoniazid Clearance of Mycobacterium tuberculosis in the Lungs of Infected Mice": {
+                    "explanation": "This paper explores the use of phosphodiesterase 4 inhibitors to modulate the host immune response in the context of Mycobacterium tuberculosis infection. Although it does not directly build upon the source paper's findings on TNF blockers, it shares a common theme of investigating the interplay between host immunity and Mtb infection. Therefore, the relevance score is 1.",
+                    "relevance": 1
+                },
+                "2. Autophagy Controls IL-1\u03b2 Secretion by Targeting Pro-IL-1\u03b2 for Degradation": {
+                    "explanation": "This paper discusses the role of autophagy in regulating IL-1\u03b2 secretion, which is a distinct topic from the source paper's focus on TNF blockers and TB immunity. Therefore, the relevance score is 0.",
+                    "relevance": 0
+                },
+                "3. Survival strategies of Mycobacterium tuberculosis inside the human macrophage": {
+                    "explanation": "This paper examines the survival strategies of Mtb inside human macrophages, which is related to the source paper's topic of TB immunity. However, it does not directly build upon the source paper's findings or use them as a sub-hypothesis. Therefore, the relevance score is 1.",
+                    "relevance": 1
+                },
+                "4. Treatment with tumor necrosis factor-alpha antagonists and infections": {
+                    "explanation": "This paper discusses the risks of infections associated with anti-TNF-\u03b1 therapy, which is directly related to the source paper's topic of TNF blockers and TB immunity. The paper's hypothesis is at least partially dependent on the findings of the source paper, as it explores the consequences of blocking TNF-\u03b1 on host defenses against infections. Therefore, the relevance score is 2.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Treatment with tumor necrosis factor-alpha antagonists and infections": {
+                    "explanation": "This paper discusses the risks of infections associated with anti-TNF-\u03b1 therapy, which is directly related to the source paper's topic of TNF blockers and TB immunity. The paper's hypothesis is at least partially dependent on the findings of the source paper, as it explores the consequences of blocking TNF-\u03b1 on host defenses against infections.",
+                    "relevance": 2
+                },
+                "2. Phosphodiesterase 4 Inhibition Reduces Innate Immunity and Improves Isoniazid Clearance of Mycobacterium tuberculosis in the Lungs of Infected Mice": {
+                    "explanation": "This paper explores the use of phosphodiesterase 4 inhibitors to modulate the host immune response in the context of Mycobacterium tuberculosis infection. Although it does not directly build upon the source paper's findings on TNF blockers, it shares a common theme of investigating the interplay between host immunity and Mtb infection.",
+                    "relevance": 1
+                },
+                "3. Survival strategies of Mycobacterium tuberculosis inside the human macrophage": {
+                    "explanation": "This paper examines the survival strategies of Mtb inside human macrophages, which is related to the source paper's topic of TB immunity. However, it does not directly build upon the source paper's findings or use them as a sub-hypothesis.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2012,
+        "source_paper": {
+            "paperId": "2f988ca31b49cb81060a3ae5cd6e37f6505e78fb",
+            "title": "How tumour necrosis factor blockers interfere with tuberculosis immunity",
+            "abstract": "Tumour necrosis factor (TNF) is a potent inflammatory cytokine that plays an important role in immunity to numerous bacterial infections, including Mycobacterium tuberculosis (Mtb), the causative agent of tuberculosis (TB) in humans. Infliximab, adalimumab, certolizumab pegol and etanercept are anti\u2010TNF agents used to treat a range of inflammatory/autoimmune diseases, such as rheumatoid arthritis. The use of some of these drugs has been linked to reactivation TB. In addition to blocking TNF\u2010mediated immune responses, some anti\u2010TNF drugs have been found to interfere with innate immune responses, such as phagolysosomal maturation and monocyte apoptosis, as well as cell\u2010mediated responses, including interferon\u2010\u03b3 secretion by memory T cells, complement\u2010mediated lysis of Mtb\u2010reactive CD8+ T cells and increased regulatory T cell activity. This review summarizes some of the reported effects of TNF blockers on immune cell responses in the context of the observed clinical data on TB reactivation in patients on anti\u2010TNF therapy.",
+            "year": 2010,
+            "citation_count": 277,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it discusses the mechanisms of tumour necrosis factor blockers, including certolizumab pegol, which is the drug studied in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Microbiology of Mycobacterium tuberculosis and a new diagnostic test for TB": {
+                    "explanation": "This paper is not directly related to the source paper. It focuses on the microbiology of Mycobacterium tuberculosis and new diagnostic tests, without mentioning TNF blockers or their effects on immunity.",
+                    "relevance": 0
+                },
+                "2. Broadening the translational immunology landscape": {
+                    "explanation": "This paper is a review of the field of translational immunology and does not specifically address the topic of TNF blockers or tuberculosis immunity.",
+                    "relevance": 0
+                },
+                "3. An update on vaccines for tuberculosis \u2013 there is more to it than just waning of BCG efficacy with time": {
+                    "explanation": "This paper discusses vaccines for tuberculosis, which is related to the source paper's topic of tuberculosis immunity. However, it does not specifically address TNF blockers or their effects on immunity.",
+                    "relevance": 1
+                },
+                "4. Autophagy Regulates IL-23 Secretion and Innate T Cell Responses through Effects on IL-1 Secretion": {
+                    "explanation": "This paper explores the role of autophagy in regulating IL-23 secretion and innate T cell responses, which is related to the source paper's topic of immunity. However, it does not specifically address TNF blockers or their effects on tuberculosis immunity.",
+                    "relevance": 1
+                },
+                "5. The Transcription Factor NFATp Plays a Key Role in Susceptibility to TB in Mice": {
+                    "explanation": "This paper investigates the role of the transcription factor NFATp in susceptibility to tuberculosis in mice, which is related to the source paper's topic of tuberculosis immunity. However, it does not specifically address TNF blockers or their effects on immunity.",
+                    "relevance": 1
+                },
+                "6. Safety of anti-TNF\u03b1 agents in the treatment of psoriasis and psoriatic arthritis": {
+                    "explanation": "This paper discusses the safety of anti-TNF\u03b1 agents in the treatment of psoriasis and psoriatic arthritis, which is directly related to the source paper's topic of TNF blockers and their effects on immunity.",
+                    "relevance": 2
+                },
+                "7. Mycobacterium bovis bacilli Calmette-Guerin regulates leukocyte recruitment by modulating alveolar inflammatory responses": {
+                    "explanation": "This paper explores the mechanisms of Mycobacterium bovis bacilli Calmette-Guerin in regulating leukocyte recruitment, which is related to the source paper's topic of tuberculosis immunity. However, it does not specifically address TNF blockers or their effects on immunity.",
+                    "relevance": 1
+                },
+                "8. Apoptosis as a Mechanism of Action of Tumor Necrosis Factor Antagonists in Rheumatoid Arthritis": {
+                    "explanation": "This paper discusses the mechanism of action of TNF antagonists in rheumatoid arthritis, which is directly related to the source paper's topic of TNF blockers and their effects on immunity.",
+                    "relevance": 2
+                },
+                "9. Immunoregulatory Role of GM-CSF in Pulmonary Tuberculosis": {
+                    "explanation": "This paper explores the immunoregulatory role of GM-CSF in pulmonary tuberculosis, which is related to the source paper's topic of tuberculosis immunity. However, it does not specifically address TNF blockers or their effects on immunity.",
+                    "relevance": 1
+                },
+                "10. Successful Shortening of Tuberculosis Treatment Using Adjuvant Host-Directed Therapy with FDA-Approved Phosphodiesterase Inhibitors in the Mouse Model": {
+                    "explanation": "This paper discusses the use of adjuvant host-directed therapy to shorten tuberculosis treatment, which is related to the source paper's topic of tuberculosis immunity. However, it does not specifically address TNF blockers or their effects on immunity.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Safety of anti-TNF\u03b1 agents in the treatment of psoriasis and psoriatic arthritis": {
+                    "explanation": "This paper discusses the safety of anti-TNF\u03b1 agents in the treatment of psoriasis and psoriatic arthritis, which is directly related to the source paper's topic of TNF blockers and their effects on immunity.",
+                    "relevance": 2
+                },
+                "2. Apoptosis as a Mechanism of Action of Tumor Necrosis Factor Antagonists in Rheumatoid Arthritis": {
+                    "explanation": "This paper discusses the mechanism of action of TNF antagonists in rheumatoid arthritis, which is directly related to the source paper's topic of TNF blockers and their effects on immunity.",
+                    "relevance": 2
+                },
+                "3. An update on vaccines for tuberculosis \u2013 there is more to it than just waning of BCG efficacy with time": {
+                    "explanation": "This paper discusses vaccines for tuberculosis, which is related to the source paper's topic of tuberculosis immunity. However, it does not specifically address TNF blockers or their effects on immunity.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2012,
+        "source_paper": {
+            "paperId": "2f988ca31b49cb81060a3ae5cd6e37f6505e78fb",
+            "title": "How tumour necrosis factor blockers interfere with tuberculosis immunity",
+            "abstract": "Tumour necrosis factor (TNF) is a potent inflammatory cytokine that plays an important role in immunity to numerous bacterial infections, including Mycobacterium tuberculosis (Mtb), the causative agent of tuberculosis (TB) in humans. Infliximab, adalimumab, certolizumab pegol and etanercept are anti\u2010TNF agents used to treat a range of inflammatory/autoimmune diseases, such as rheumatoid arthritis. The use of some of these drugs has been linked to reactivation TB. In addition to blocking TNF\u2010mediated immune responses, some anti\u2010TNF drugs have been found to interfere with innate immune responses, such as phagolysosomal maturation and monocyte apoptosis, as well as cell\u2010mediated responses, including interferon\u2010\u03b3 secretion by memory T cells, complement\u2010mediated lysis of Mtb\u2010reactive CD8+ T cells and increased regulatory T cell activity. This review summarizes some of the reported effects of TNF blockers on immune cell responses in the context of the observed clinical data on TB reactivation in patients on anti\u2010TNF therapy.",
+            "year": 2010,
+            "citation_count": 277,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it discusses the mechanisms of tumour necrosis factor blockers, including certolizumab pegol, which is the drug studied in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Infectious Complications of Anti-Tumour Necrosis Factor-\u03b1 Therapy in Rheumatoid Arthritis": {
+                    "explanation": "This paper explores the infectious complications of anti-TNF-\u03b1 therapy, specifically in the context of rheumatoid arthritis, which is related to the source paper's discussion of TNF blockers and their impact on immunity to Mycobacterium tuberculosis. However, this paper does not directly build upon or use the source paper's findings as a sub-hypothesis. Instead, it seems to be a review of the safety concerns associated with anti-TNF-\u03b1 therapy, including increased risk of infections.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2012,
+        "source_paper": {
+            "paperId": "2f19595a18cef264fcf32322572ea1ad3b635763",
+            "title": "Incidence of Tuberculosis Among Korean Patients with Ankylosing Spondylitis Who Are Taking Tumor Necrosis Factor Blockers",
+            "abstract": "Objective. To assess the incidence and relative risk of new tuberculosis (TB) infections in Korean patients with ankylosing spondylitis (AS) and patients with AS who are undergoing treatment with tumor necrosis factor (TNF) blockers. Methods. New cases of TB were identified by reviewing the medical records of 919 patients with AS not treated with TNF blockers and those of 354 patients with AS treated with adalimumab (n = 66), infliximab (n = 78), or etanercept (n = 210) between 2002 and 2009. Reference data were obtained from the Korean National Tuberculosis Association. Results. The mean incidence rate of TB was 69.8 per 100,000 person-years (PY) in the general population, 308 per 100,000 PY in the TNF blocker-naive AS cohort, and 561 per 100,000 PY in the TNF blocker-exposed AS cohort. The incidence rate of TB in the infliximab-treated AS cohort (540 per 100,000 PY) was higher than that in the adalimumab-treated AS cohort (490 per 100,000 PY). No cases of TB occurred in the etanercept-treated AS cohort. Comparing the relative risks of TB infections between the TNF blocker-exposed AS cohort and the TNF blocker-naive AS cohort, no statistically significant difference was identified (risk ratio 0.53; 95% CI 0.144\u20131.913). Conclusion. The risk of TB was higher in the TNF blocker-naive AS cohort than it was in the general population. However, the risk of TB was not increased in the TNF blocker-exposed AS cohort compared with the TNF blocker-naive AS cohort. Among patients with AS, etanercept is associated with a lower risk of TB compared with monoclonal antibodies.",
+            "year": 2011,
+            "citation_count": 49,
+            "relevance": 2,
+            "explanation": "This paper examines the incidence of TB in patients with ankylosing spondylitis who are treated with TNF blockers, which is directly related to the source paper's discussion of TNF blockers and their impact on TB reactivation."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Corticosteroid-sparing agents: new treatment options": {
+                    "explanation": "This paper has no connection with the source paper. The source paper discusses the incidence of tuberculosis among Korean patients with ankylosing spondylitis who are taking tumor necrosis factor blockers, while this paper reviews corticosteroid-sparing agents for noninfectious uveitis, which is a different topic and does not build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2013,
+        "source_paper": {
+            "paperId": "2f19595a18cef264fcf32322572ea1ad3b635763",
+            "title": "Incidence of Tuberculosis Among Korean Patients with Ankylosing Spondylitis Who Are Taking Tumor Necrosis Factor Blockers",
+            "abstract": "Objective. To assess the incidence and relative risk of new tuberculosis (TB) infections in Korean patients with ankylosing spondylitis (AS) and patients with AS who are undergoing treatment with tumor necrosis factor (TNF) blockers. Methods. New cases of TB were identified by reviewing the medical records of 919 patients with AS not treated with TNF blockers and those of 354 patients with AS treated with adalimumab (n = 66), infliximab (n = 78), or etanercept (n = 210) between 2002 and 2009. Reference data were obtained from the Korean National Tuberculosis Association. Results. The mean incidence rate of TB was 69.8 per 100,000 person-years (PY) in the general population, 308 per 100,000 PY in the TNF blocker-naive AS cohort, and 561 per 100,000 PY in the TNF blocker-exposed AS cohort. The incidence rate of TB in the infliximab-treated AS cohort (540 per 100,000 PY) was higher than that in the adalimumab-treated AS cohort (490 per 100,000 PY). No cases of TB occurred in the etanercept-treated AS cohort. Comparing the relative risks of TB infections between the TNF blocker-exposed AS cohort and the TNF blocker-naive AS cohort, no statistically significant difference was identified (risk ratio 0.53; 95% CI 0.144\u20131.913). Conclusion. The risk of TB was higher in the TNF blocker-naive AS cohort than it was in the general population. However, the risk of TB was not increased in the TNF blocker-exposed AS cohort compared with the TNF blocker-naive AS cohort. Among patients with AS, etanercept is associated with a lower risk of TB compared with monoclonal antibodies.",
+            "year": 2011,
+            "citation_count": 49,
+            "relevance": 2,
+            "explanation": "This paper examines the incidence of TB in patients with ankylosing spondylitis who are treated with TNF blockers, which is directly related to the source paper's discussion of TNF blockers and their impact on TB reactivation."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Risk of tuberculosis with anti-tumor necrosis factor-\u03b1 therapy: substantially higher number of patients at risk in Asia": {
+                    "explanation": "This paper is inspired by the hypothesis of the source paper, as it investigates the potential risk of tuberculosis in patients treated with anti-tumor necrosis factor-alpha agents in Asia, which is a related topic to the source paper's findings on the incidence of tuberculosis among Korean patients with ankylosing spondylitis who are taking tumor necrosis factor blockers.",
+                    "relevance": 1
+                },
+                "2. Updated consensus statement on biological agents for the treatment of rheumatic diseases, 2012": {
+                    "explanation": "This paper is a review paper that summarizes existing literature and does not appear to have a direct connection to the source paper's hypothesis or findings.",
+                    "relevance": 0
+                },
+                "3. Consensus of Chinese Orthopaedic Experts on Diagnosis and Treatment of Ankylosing Spondylitis": {
+                    "explanation": "This paper is not directly related to the source paper's hypothesis or findings, as it focuses on the diagnosis and treatment of ankylosing spondylitis in China, without mentioning tumor necrosis factor blockers or tuberculosis.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Risk of tuberculosis with anti-tumor necrosis factor-\u03b1 therapy: substantially higher number of patients at risk in Asia": {
+                    "explanation": "This paper is inspired by the hypothesis of the source paper, as it investigates the potential risk of tuberculosis in patients treated with anti-tumor necrosis factor-alpha agents in Asia, which is a related topic to the source paper's findings on the incidence of tuberculosis among Korean patients with ankylosing spondylitis who are taking tumor necrosis factor blockers.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2014,
+        "source_paper": {
+            "paperId": "6bdcd9c5d50300f70b8d85ee2cda3fc0bac6cf9d",
+            "title": "Risk of tuberculosis with anti-tumor necrosis factor-\u03b1 therapy: substantially higher number of patients at risk in Asia",
+            "abstract": "To assess the potential risk of tuberculosis (TB) in patients treated with anti\u2010tumor necrosis factor\u2010alpha (TNF\u2010\u03b1) agents in Asia.",
+            "year": 2013,
+            "citation_count": 58,
+            "relevance": 1,
+            "explanation": "This paper is inspired by the hypothesis of the source paper, as it investigates the potential risk of tuberculosis in patients treated with anti-tumor necrosis factor-alpha agents in Asia, which is a related topic to the source paper's findings on the incidence of tuberculosis among Korean patients with ankylosing spondylitis who are taking tumor necrosis factor blockers."
+        },
+        "llama_output": {},
+        "seed": 42
+    },
+    {
+        "year": 2015,
+        "source_paper": {
+            "paperId": "6bdcd9c5d50300f70b8d85ee2cda3fc0bac6cf9d",
+            "title": "Risk of tuberculosis with anti-tumor necrosis factor-\u03b1 therapy: substantially higher number of patients at risk in Asia",
+            "abstract": "To assess the potential risk of tuberculosis (TB) in patients treated with anti\u2010tumor necrosis factor\u2010alpha (TNF\u2010\u03b1) agents in Asia.",
+            "year": 2013,
+            "citation_count": 58,
+            "relevance": 1,
+            "explanation": "This paper is inspired by the hypothesis of the source paper, as it investigates the potential risk of tuberculosis in patients treated with anti-tumor necrosis factor-alpha agents in Asia, which is a related topic to the source paper's findings on the incidence of tuberculosis among Korean patients with ankylosing spondylitis who are taking tumor necrosis factor blockers."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Latent tuberculosis screening tests and active tuberculosis infection rates in Turkish inflammatory bowel disease patients under anti-tumor necrosis factor therapy": {
+                    "explanation": "This paper explores the risk of tuberculosis (TB) in patients treated with anti-tumor necrosis factor-alpha (TNF-\u03b1) agents, specifically in Turkish inflammatory bowel disease patients. The hypothesis is partially dependent on the findings of the source paper, which assessed the potential risk of TB in patients treated with anti-TNF-\u03b1 agents in Asia. The paper uses the source paper's findings as a sub-hypothesis to investigate the rate of active TB infection in IBD patients receiving anti-TNF therapy.",
+                    "relevance": 2
+                },
+                "2. Risks for opportunistic tuberculosis infection in a cohort of 873 patients with inflammatory bowel disease receiving a tumor necrosis factor-\u03b1 inhibitor": {
+                    "explanation": "This paper investigates the risks for and case characteristics of TB in a large cohort of IBD patients treated with TNF-\u03b1 inhibitors in Korea, where TB is endemic. The hypothesis is inspired by the findings of the source paper, which highlighted the risk of TB in patients treated with anti-TNF-\u03b1 agents in Asia. The paper explores a new angle by examining the risks of TB in a specific population and region.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Latent tuberculosis screening tests and active tuberculosis infection rates in Turkish inflammatory bowel disease patients under anti-tumor necrosis factor therapy": {
+                    "explanation": "This paper explores the risk of tuberculosis (TB) in patients treated with anti-tumor necrosis factor-alpha (TNF-\u03b1) agents, specifically in Turkish inflammatory bowel disease patients. The hypothesis is partially dependent on the findings of the source paper, which assessed the potential risk of TB in patients treated with anti-TNF-\u03b1 agents in Asia. The paper uses the source paper's findings as a sub-hypothesis to investigate the rate of active TB infection in IBD patients receiving anti-TNF therapy.",
+                    "relevance": 2
+                },
+                "2. Risks for opportunistic tuberculosis infection in a cohort of 873 patients with inflammatory bowel disease receiving a tumor necrosis factor-\u03b1 inhibitor": {
+                    "explanation": "This paper investigates the risks for and case characteristics of TB in a large cohort of IBD patients treated with TNF-\u03b1 inhibitors in Korea, where TB is endemic. The hypothesis is inspired by the findings of the source paper, which highlighted the risk of TB in patients treated with anti-TNF-\u03b1 agents in Asia. The paper explores a new angle by examining the risks of TB in a specific population and region.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2016,
+        "source_paper": {
+            "paperId": "4ac09da27727b4eb3c7dc929f617594ec4a6de2d",
+            "title": "Latent tuberculosis screening tests and active tuberculosis infection rates in Turkish inflammatory bowel disease patients under anti-tumor necrosis factor therapy",
+            "abstract": "Background Tumor necrosis factor (TNF)-\u03b1 inhibitors increase the risk of tuberculosis (TB). The objective of the present study was to determine the rate of active TB infection in inflammatory bowel disease (IBD) patients receiving anti-TNF therapy and to determine the results of their latent TB infection (LTBI) screening tests during the follow up. Methods This is a retrospective observational study of IBD patients receiving anti-TNF therapy. Tuberculin skin test (TST), interferon-\u03b3 release assay (IGRA), and chest radiography were used to determine LTBI. Active TB infection rate during anti-TNF treatment was determined. Results Seventy-six IBD patients (25 with ulcerative colitis, 51 with Crohn\u2019s disease; 53 male; mean age 42.0\u00b112.4 years) were included. Forty-four (57.9%) patients received infliximab and 32 (42.1%) adalimumab. Their median duration of anti-TNF therapy was 15 months. Forty-five (59.2%) patients had LTBI and received isoniazid (INH) prophylaxis. During the follow-up period, active TB was identified in 3 (4.7%) patients who were not receiving INH prophylaxis. There was a moderate concordance between the TST and the IGRA (kappa coefficient 0.44, 95% CI 0.24-0.76). Patients with or without immunosuppressive therapy did not differ significantly with respect to TST (P=0.318) and IGRA (P=0.157). Conclusion IBD patients receiving anti-TNF therapy and prophylactic INH have a decreased risk of developing active TB infection. However, despite LTBI screening, the risk of developing active TB infection persists.",
+            "year": 2015,
+            "citation_count": 19,
+            "relevance": 2,
+            "explanation": "This paper explores the risk of tuberculosis (TB) in patients treated with anti-tumor necrosis factor-alpha (TNF-\u03b1) agents, specifically in Turkish inflammatory bowel disease patients. The hypothesis is partially dependent on the findings of the source paper, which assessed the potential risk of TB in patients treated with anti-TNF-\u03b1 agents in Asia. The paper uses the source paper's findings as a sub-hypothesis to investigate the rate of active TB infection in IBD patients receiving anti-TNF therapy."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Extra-pulmonary Reactivation of Latent Tuberculosis After Initiation of Anti-tumour Necrosis Factor Therapy for Inflammatory Bowel Disease-Are Current Screening Strategies Adequate?": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper. The source paper's results regarding the rate of active TB infection in IBD patients receiving anti-TNF therapy and the effectiveness of LTBI screening tests are used as a sub-hypothesis to explore the issue of extrapulmonary reactivation of latent tuberculosis despite negative screening test results.",
+                    "relevance": 2
+                },
+                "2. Inflammatory bowel diseases, chronic liver diseases and the lung": {
+                    "explanation": "This paper has no connection with the source paper. It is a review paper that discusses the association of inflammatory bowel diseases and chronic liver disorders with chronic airway diseases, which is not related to the topic of latent tuberculosis screening tests and active tuberculosis infection rates in IBD patients under anti-TNF therapy.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Extra-pulmonary Reactivation of Latent Tuberculosis After Initiation of Anti-tumour Necrosis Factor Therapy for Inflammatory Bowel Disease-Are Current Screening Strategies Adequate?": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper. The source paper's results regarding the rate of active TB infection in IBD patients receiving anti-TNF therapy and the effectiveness of LTBI screening tests are used as a sub-hypothesis to explore the issue of extrapulmonary reactivation of latent tuberculosis despite negative screening test results.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2017,
+        "source_paper": {
+            "paperId": "4ac09da27727b4eb3c7dc929f617594ec4a6de2d",
+            "title": "Latent tuberculosis screening tests and active tuberculosis infection rates in Turkish inflammatory bowel disease patients under anti-tumor necrosis factor therapy",
+            "abstract": "Background Tumor necrosis factor (TNF)-\u03b1 inhibitors increase the risk of tuberculosis (TB). The objective of the present study was to determine the rate of active TB infection in inflammatory bowel disease (IBD) patients receiving anti-TNF therapy and to determine the results of their latent TB infection (LTBI) screening tests during the follow up. Methods This is a retrospective observational study of IBD patients receiving anti-TNF therapy. Tuberculin skin test (TST), interferon-\u03b3 release assay (IGRA), and chest radiography were used to determine LTBI. Active TB infection rate during anti-TNF treatment was determined. Results Seventy-six IBD patients (25 with ulcerative colitis, 51 with Crohn\u2019s disease; 53 male; mean age 42.0\u00b112.4 years) were included. Forty-four (57.9%) patients received infliximab and 32 (42.1%) adalimumab. Their median duration of anti-TNF therapy was 15 months. Forty-five (59.2%) patients had LTBI and received isoniazid (INH) prophylaxis. During the follow-up period, active TB was identified in 3 (4.7%) patients who were not receiving INH prophylaxis. There was a moderate concordance between the TST and the IGRA (kappa coefficient 0.44, 95% CI 0.24-0.76). Patients with or without immunosuppressive therapy did not differ significantly with respect to TST (P=0.318) and IGRA (P=0.157). Conclusion IBD patients receiving anti-TNF therapy and prophylactic INH have a decreased risk of developing active TB infection. However, despite LTBI screening, the risk of developing active TB infection persists.",
+            "year": 2015,
+            "citation_count": 19,
+            "relevance": 2,
+            "explanation": "This paper explores the risk of tuberculosis (TB) in patients treated with anti-tumor necrosis factor-alpha (TNF-\u03b1) agents, specifically in Turkish inflammatory bowel disease patients. The hypothesis is partially dependent on the findings of the source paper, which assessed the potential risk of TB in patients treated with anti-TNF-\u03b1 agents in Asia. The paper uses the source paper's findings as a sub-hypothesis to investigate the rate of active TB infection in IBD patients receiving anti-TNF therapy."
+        },
+        "llama_output": {},
+        "seed": 42
+    }
+]

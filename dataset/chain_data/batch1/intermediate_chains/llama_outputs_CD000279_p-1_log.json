@@ -1,0 +1,83 @@
+[
+    {
+        "year": 1994,
+        "source_paper": {
+            "paperId": "5592617d10184071b812f807b3b1431eb3265a1d",
+            "pmid": "8335197",
+            "title": "Colonoscopic surveillance reduces mortality from colorectal cancer in ulcerative colitis.",
+            "abstract": null,
+            "year": 1993,
+            "citation_count": 357
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Similarity of colorectal cancer in Crohn's disease and ulcerative colitis: implications for carcinogenesis and prevention": {
+                    "explanation": "This paper has no direct connection to the source paper. The source paper discusses the effectiveness of colonoscopic surveillance in reducing mortality from colorectal cancer in ulcerative colitis, whereas this paper compares the clinicopathological features of colorectal cancer in Crohn's disease and ulcerative colitis. Although both papers deal with colorectal cancer in the context of inflammatory bowel disease, they do not build upon or depend on each other's findings.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 1995,
+        "source_paper": {
+            "paperId": "5592617d10184071b812f807b3b1431eb3265a1d",
+            "pmid": "8335197",
+            "title": "Colonoscopic surveillance reduces mortality from colorectal cancer in ulcerative colitis.",
+            "abstract": null,
+            "year": 1993,
+            "citation_count": 357
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. the risks of malignancy from either immuno\u2010suppression or diagnostic radiation in inflammatory bowel disease": {
+                    "explanation": "This paper explores the risks of malignancy in inflammatory bowel disease, but does not directly build upon or depend on the findings of the source paper. It discusses a different aspect of inflammatory bowel disease, and therefore has no connection to the source paper.",
+                    "relevance": 0
+                },
+                "2. Inflammatory bowel disease: a retrospective review of a specialist\u2010based cohort": {
+                    "explanation": "This paper is a retrospective review of inflammatory bowel disease in Australia, and does not directly relate to the source paper's findings on colonoscopic surveillance reducing mortality from colorectal cancer in ulcerative colitis. It does not build upon or depend on the source paper's hypothesis or findings.",
+                    "relevance": 0
+                },
+                "3. Colorectal cancer in patients with ulcerative colitis. A prospective cohort study in Italy": {
+                    "explanation": "This paper investigates the development of dysplasia or cancer in patients with ulcerative colitis and assesses the effectiveness of colonoscopy and biopsy follow-up in colon cancer surveillance. The key hypothesis in this paper is inspired by the findings of the source paper, as it also explores the relationship between ulcerative colitis and colorectal cancer, and the role of colonoscopy in surveillance.",
+                    "relevance": 1
+                },
+                "4. Surveillance in Ulcerative Colitis: Is It Worthwhile? Does It Save Lives?": {
+                    "explanation": "This paper discusses the concept of surveillance in ulcerative colitis, and whether it is worthwhile in detecting precancerous changes and preventing cancer. The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it assumes that colonoscopic surveillance can reduce mortality from colorectal cancer in ulcerative colitis, and explores the implications of this finding.",
+                    "relevance": 2
+                },
+                "5. Prevention of colorectal cancer: guidelines based on new data. WHO Collaborating Center for the Prevention of Colorectal Cancer.": {
+                    "explanation": "This paper is a review of guidelines for the prevention of colorectal cancer, and includes a discussion of surveillance in patients with chronic ulcerative colitis. The paper does not present novel hypotheses or findings, but rather summarizes existing literature, including the source paper. Therefore, it has no connection to the source paper as a original research paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Surveillance in Ulcerative Colitis: Is It Worthwhile? Does It Save Lives?": {
+                    "explanation": "This paper discusses the concept of surveillance in ulcerative colitis, and whether it is worthwhile in detecting precancerous changes and preventing cancer. The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it assumes that colonoscopic surveillance can reduce mortality from colorectal cancer in ulcerative colitis, and explores the implications of this finding.",
+                    "relevance": 2
+                },
+                "2. Colorectal cancer in patients with ulcerative colitis. A prospective cohort study in Italy": {
+                    "explanation": "This paper investigates the development of dysplasia or cancer in patients with ulcerative colitis and assesses the effectiveness of colonoscopy and biopsy follow-up in colon cancer surveillance. The key hypothesis in this paper is inspired by the findings of the source paper, as it also explores the relationship between ulcerative colitis and colorectal cancer, and the role of colonoscopy in surveillance.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 1996,
+        "source_paper": {
+            "paperId": "e62b24a76b2cb0a77cb3cb694326eee54ab7deb3",
+            "title": "Surveillance in Ulcerative Colitis: Is It Worthwhile? Does It Save Lives?",
+            "abstract": "Surveillance means to \u201cwatch over,\u201d usually with the aim of detecting something sinister. Cancer surveillance in colitis should, ideally, be a program of regular investigation to detect precancerous changes so that cancer can be avoided by timely surgery. As a second best result, a surveillance investigation may detect carcinoma, but this should not be the prime aim since invasive malignancy is always dangerous. Using dysplasia as a marker, the ideal of detecting precancerous changes is not possible in all cases but, using a combination of newly available genetic markers, this should be the aim. tial difference is that patients with colitis are seeking medical help for their condition. Surveillance is just one aspect of the total clinical care of such patients. Surveillance is not synonymous with colonoscopy. Regular limited examination of the distal bowel could be used to detect early cancer and/or dysplasia (see below), although recognized as being an incomplete examination of the large intestine.",
+            "year": 1995,
+            "citation_count": 3,
+            "relevance": 2,
+            "explanation": "This paper discusses the concept of surveillance in ulcerative colitis, and whether it is worthwhile in detecting precancerous changes and preventing cancer. The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it assumes that colonoscopic surveillance can reduce mortality from colorectal cancer in ulcerative colitis, and explores the implications of this finding."
+        },
+        "llama_output": {},
+        "seed": 42
+    }
+]

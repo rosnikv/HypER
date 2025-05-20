@@ -1,0 +1,65 @@
+[
+    {
+        "year": 1996,
+        "source_paper": {
+            "paperId": "fda92f4501d1856119cfef7384a747a5d86303f3",
+            "pmid": "7843700",
+            "title": "Interferon and ursodeoxycholic acid combined therapy in the treatmet of chronic viral C hepatitis: Results from a controlled randomized trial in 80 patients",
+            "abstract": "Because 70% to 75% of patients with chronic hepatitis C either do not respond to or relapse after interferon (IFN) therapy, and because ursodeoxycholic acid (UDCA) has been shown to reduce aminotransferase levels in patients with chronic hepatitis, we undertook a prospective controlled randomized trial of IFN (group I) versus IFN plus UDCA (group II) in 80 patients with chronic hepatitis C. IFN was administered in both groups for 6 months (3 to 5 million units [MU] three times a week), and in group II UDCA (10 mg/kg/d) was administered with IFN and then alone for 3 additional months. Response to therapy was defined as the normalization of alanine transaminase (ALT) levels. The results showed that 6 months after cessation of IFN, 59% of responders had relapsed in group I but only 27% had relapsed in group II (P = .03). There was no difference between the two groups for the initial (month 6) and the late (months 15 and 18) response rates to IFN. There was no virological effect or significant histological improvement attributable to the addition of UDCA to IFN treatment. In conclusion, the results of this study show that the addition of UDCA to IFN therapy significantly prolongs the period for which serum ALT remain, within the normal range after discontinuation of IFN. Further studies would be required to determine whether UDCA has any potential for long\u2010term amelioration of the histological severity of liver disease caused by hepatitis C virus (HCV) infection, and therefore, whether it could be advocated as an adjunct to antiviral therapy. (HEPATOLOGY 1995;21:322\u2013327.)",
+            "year": 1995,
+            "citation_count": 70
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Treatment of Chronic Hepatitis B and Chronic Hepatitis C": {
+                    "explanation": "This paper is a review paper that discusses the general treatment goals and endpoints for chronic hepatitis B and C, but does not specifically build upon or reference the findings of the source paper.",
+                    "relevance": 0
+                },
+                "2. Section Review Anti-infectives: Current perspectives on the treatment and prevention of hepatitis C infection": {
+                    "explanation": "This paper is a review paper that discusses current perspectives on the treatment and prevention of hepatitis C infection, but does not specifically build upon or reference the findings of the source paper.",
+                    "relevance": 0
+                },
+                "3. Ursodeoxycholic Acid": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the effect of ursodeoxycholic acid (UDCA) in combination with interferon (IFN) in the treatment of chronic hepatitis C, which was also explored in the source paper.",
+                    "relevance": 2
+                },
+                "4. Combination thymosin alpha 1 and lymphoblastoid interferon treatment in chronic hepatitis C": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it explores alternative combination therapies for chronic hepatitis C, including the use of thymosin alpha 1 and lymphoblastoid interferon.",
+                    "relevance": 1
+                },
+                "5. Factors Affecting Treatment Responses to Interferon-\u03b1 in Chronic Hepatitis C": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates factors that affect treatment responses to interferon-alpha in chronic hepatitis C, which was also explored in the source paper.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Ursodeoxycholic Acid": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the effect of ursodeoxycholic acid (UDCA) in combination with interferon (IFN) in the treatment of chronic hepatitis C, which was also explored in the source paper.",
+                    "relevance": 2
+                },
+                "2. Combination thymosin alpha 1 and lymphoblastoid interferon treatment in chronic hepatitis C": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it explores alternative combination therapies for chronic hepatitis C, including the use of thymosin alpha 1 and lymphoblastoid interferon.",
+                    "relevance": 1
+                },
+                "3. Factors Affecting Treatment Responses to Interferon-\u03b1 in Chronic Hepatitis C": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates factors that affect treatment responses to interferon-alpha in chronic hepatitis C, which was also explored in the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 1997,
+        "source_paper": {
+            "paperId": "fda92f4501d1856119cfef7384a747a5d86303f3",
+            "pmid": "7843700",
+            "title": "Interferon and ursodeoxycholic acid combined therapy in the treatmet of chronic viral C hepatitis: Results from a controlled randomized trial in 80 patients",
+            "abstract": "Because 70% to 75% of patients with chronic hepatitis C either do not respond to or relapse after interferon (IFN) therapy, and because ursodeoxycholic acid (UDCA) has been shown to reduce aminotransferase levels in patients with chronic hepatitis, we undertook a prospective controlled randomized trial of IFN (group I) versus IFN plus UDCA (group II) in 80 patients with chronic hepatitis C. IFN was administered in both groups for 6 months (3 to 5 million units [MU] three times a week), and in group II UDCA (10 mg/kg/d) was administered with IFN and then alone for 3 additional months. Response to therapy was defined as the normalization of alanine transaminase (ALT) levels. The results showed that 6 months after cessation of IFN, 59% of responders had relapsed in group I but only 27% had relapsed in group II (P = .03). There was no difference between the two groups for the initial (month 6) and the late (months 15 and 18) response rates to IFN. There was no virological effect or significant histological improvement attributable to the addition of UDCA to IFN treatment. In conclusion, the results of this study show that the addition of UDCA to IFN therapy significantly prolongs the period for which serum ALT remain, within the normal range after discontinuation of IFN. Further studies would be required to determine whether UDCA has any potential for long\u2010term amelioration of the histological severity of liver disease caused by hepatitis C virus (HCV) infection, and therefore, whether it could be advocated as an adjunct to antiviral therapy. (HEPATOLOGY 1995;21:322\u2013327.)",
+            "year": 1995,
+            "citation_count": 70
+        },
+        "llama_output": {},
+        "seed": 42
+    }
+]

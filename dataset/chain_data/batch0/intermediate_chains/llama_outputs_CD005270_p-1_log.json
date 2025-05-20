@@ -1,0 +1,41 @@
+[
+    {
+        "year": 2005,
+        "source_paper": {
+            "paperId": "a2519c8e62f42023df00c28b19c3507d3229dc05",
+            "pmid": "761734",
+            "title": "Worsening to diabetes in men with impaired glucose tolerance (\u201cborderline diabetes\u201d)",
+            "abstract": null,
+            "year": 2004,
+            "citation_count": 87
+        },
+        "llama_output": {},
+        "seed": 42
+    },
+    {
+        "year": 2006,
+        "source_paper": {
+            "paperId": "a2519c8e62f42023df00c28b19c3507d3229dc05",
+            "pmid": "761734",
+            "title": "Worsening to diabetes in men with impaired glucose tolerance (\u201cborderline diabetes\u201d)",
+            "abstract": null,
+            "year": 2004,
+            "citation_count": 87
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. [Prevention of type 2 diabetes mellitus]": {
+                    "explanation": "This paper is relevant to the source paper as it discusses the prevention of type 2 diabetes mellitus, which is closely related to the worsening of impaired glucose tolerance ('borderline diabetes') investigated in the source paper. The paper explores strategies for preventing the development of diabetes, including lifestyle modifications and pharmacological interventions, which could be seen as building upon the findings of the source paper.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. [Prevention of type 2 diabetes mellitus]": {
+                    "explanation": "This paper is relevant to the source paper as it discusses the prevention of type 2 diabetes mellitus, which is closely related to the worsening of impaired glucose tolerance ('borderline diabetes') investigated in the source paper. The paper explores strategies for preventing the development of diabetes, including lifestyle modifications and pharmacological interventions, which could be seen as building upon the findings of the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    }
+]

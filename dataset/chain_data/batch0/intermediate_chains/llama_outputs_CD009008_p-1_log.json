@@ -1,0 +1,1258 @@
+[
+    {
+        "year": 2012,
+        "source_paper": {
+            "paperId": "e80451042cc8cb35fd2b31305008933cf8fba6d2",
+            "pmid": "21205128",
+            "title": "Liraglutide, a once-daily human glucagon-like peptide 1 analogue, provides sustained improvements in glycaemic control and weight for 2 years as monotherapy compared with glimepiride in patients with type 2 diabetes",
+            "abstract": "Aims: Most treatments for type 2 diabetes fail over time, necessitating combination therapy. We investigated the safety, tolerability and efficacy of liraglutide monotherapy compared with glimepiride monotherapy over 2 years.",
+            "year": 2011,
+            "citation_count": 190
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Dosing Rationale for Liraglutide in Type 2 Diabetes Mellitus: A Pharmacometric Assessment": {
+                    "explanation": "This paper is a pharmacometric assessment of liraglutide, which is the same medication studied in the source paper. The paper provides insights into the use of pharmacometric analyses for regulatory review and focuses on the dosing recommendations for liraglutide.",
+                    "relevance": 1
+                },
+                "2. Pancreatitis: A Potential Complication of Liraglutide?": {
+                    "explanation": "This paper investigates a potential association between liraglutide and pancreatitis, which is a relevant consideration for the safety and efficacy of liraglutide as a treatment for type 2 diabetes.",
+                    "relevance": 1
+                },
+                "3. Current issues in GLP-1 receptor agonist therapy for type 2 diabetes": {
+                    "explanation": "This paper provides an overview of recent evidence and considerations for the use of GLP-1 receptor agonists, including liraglutide, in the treatment of type 2 diabetes.",
+                    "relevance": 1
+                },
+                "4. Recent advances in incretin\u2010based therapies": {
+                    "explanation": "This paper reviews the development and clinical profiles of incretin-based therapies, including liraglutide, and discusses their placement in treatment guidelines.",
+                    "relevance": 1
+                },
+                "5. Patient\u2010reported outcomes in trials of incretin\u2010based therapies in patients with type 2 diabetes mellitus": {
+                    "explanation": "This paper summarizes patient-reported outcomes from clinical trials of incretin-based therapies, including liraglutide, and discusses the implications for treatment satisfaction and quality of life.",
+                    "relevance": 1
+                },
+                "6. Science, clinical outcomes and the popularization of diabetes surgery": {
+                    "explanation": "This paper discusses the role of bariatric surgery in the management of type 2 diabetes and is not directly related to liraglutide or the source paper.",
+                    "relevance": 0
+                },
+                "7. GLP-1 receptor activated insulin secretion from pancreatic \u03b2-cells: mechanism and glucose dependence": {
+                    "explanation": "This paper reviews the mechanisms by which GLP-1 receptor agonists, including liraglutide, promote insulin secretion from pancreatic \u03b2-cells and discusses their glucose-dependent activity.",
+                    "relevance": 1
+                },
+                "8. Diabetes and cardiovascular disease: focus on glucagon-like peptide-1 based therapies": {
+                    "explanation": "This paper discusses the potential cardiovascular benefits of GLP-1 based therapies, including liraglutide, and reviews the available evidence.",
+                    "relevance": 1
+                },
+                "9. Efficacy and Safety of Switching From the DPP-4 Inhibitor Sitagliptin to the Human GLP-1 Analog Liraglutide After 52 Weeks in Metformin-Treated Patients With Type 2 Diabetes": {
+                    "explanation": "This paper presents the results of a clinical trial that investigated the efficacy and safety of switching from sitagliptin to liraglutide in patients with type 2 diabetes, and is directly related to the source paper.",
+                    "relevance": 2
+                },
+                "10. Drug-induced hypoglycaemia in type 2 diabetes": {
+                    "explanation": "This paper reviews the risk of hypoglycaemia associated with commonly prescribed therapies for type 2 diabetes, including GLP-1 agonists like liraglutide, and discusses patient-related risk factors.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Efficacy and Safety of Switching From the DPP-4 Inhibitor Sitagliptin to the Human GLP-1 Analog Liraglutide After 52 Weeks in Metformin-Treated Patients With Type 2 Diabetes": {
+                    "explanation": "This paper presents the results of a clinical trial that investigated the efficacy and safety of switching from sitagliptin to liraglutide in patients with type 2 diabetes, and is directly related to the source paper.",
+                    "relevance": 2
+                },
+                "2. Dosing Rationale for Liraglutide in Type 2 Diabetes Mellitus: A Pharmacometric Assessment": {
+                    "explanation": "This paper is a pharmacometric assessment of liraglutide, which is the same medication studied in the source paper. The paper provides insights into the use of pharmacometric analyses for regulatory review and focuses on the dosing recommendations for liraglutide.",
+                    "relevance": 1
+                },
+                "3. GLP-1 receptor activated insulin secretion from pancreatic \u03b2-cells: mechanism and glucose dependence": {
+                    "explanation": "This paper reviews the mechanisms by which GLP-1 receptor agonists, including liraglutide, promote insulin secretion from pancreatic \u03b2-cells and discusses their glucose-dependent activity.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2012,
+        "source_paper": {
+            "paperId": "e80451042cc8cb35fd2b31305008933cf8fba6d2",
+            "pmid": "21205128",
+            "title": "Liraglutide, a once-daily human glucagon-like peptide 1 analogue, provides sustained improvements in glycaemic control and weight for 2 years as monotherapy compared with glimepiride in patients with type 2 diabetes",
+            "abstract": "Aims: Most treatments for type 2 diabetes fail over time, necessitating combination therapy. We investigated the safety, tolerability and efficacy of liraglutide monotherapy compared with glimepiride monotherapy over 2 years.",
+            "year": 2011,
+            "citation_count": 190
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. A comparison of currently available GLP-1 receptor agonists for the treatment of type 2 diabetes": {
+                    "explanation": "This paper is a review of GLP-1 receptor agonists, including liraglutide, but it does not build upon or depend on the findings of the source paper. It provides a general overview of the clinical profiles of GLP-1 receptor agonists.",
+                    "relevance": 0
+                },
+                "2. Managing Diabetes in the Middle-Aged Patient When Loss of Glycemic Control Occurs": {
+                    "explanation": "This paper discusses the treatment of type 2 diabetes, including the use of GLP-1 receptor agonists like liraglutide, but it does not specifically build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "3. Translational Endocrinology & Metabolism: Metabolic Surgery Update": {
+                    "explanation": "This paper provides a general overview of the treatment of type 2 diabetes, including pharmacologic therapy and metabolic surgery, but it does not specifically mention liraglutide or build upon the findings of the source paper.",
+                    "relevance": 0
+                },
+                "4. GLP-1, exendin-4 and C-peptide regulate pancreatic islet microcirculation, insulin secretion and glucose tolerance in rats": {
+                    "explanation": "This paper investigates the effects of GLP-1 and its mimetics on pancreatic islet microcirculation and insulin secretion, but it does not specifically build upon or depend on the findings of the source paper, which focused on the clinical efficacy of liraglutide in humans.",
+                    "relevance": 0
+                },
+                "5. Predictors and Consequences of Severe Hypoglycemia in Adults with Diabetes - A Systematic Review of the Evidence": {
+                    "explanation": "This paper is a systematic review of the evidence on predictors and consequences of severe hypoglycemia in adults with diabetes, but it does not specifically mention liraglutide or build upon the findings of the source paper.",
+                    "relevance": 0
+                },
+                "6. Design, findings and implications of the liraglutide Phase III clinical trial program": {
+                    "explanation": "This paper provides an overview of the Phase III clinical trial program for liraglutide, which includes the source paper. The paper builds upon the findings of the source paper, discussing the efficacy and safety of liraglutide in a broader context.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Design, findings and implications of the liraglutide Phase III clinical trial program": {
+                    "explanation": "This paper provides an overview of the Phase III clinical trial program for liraglutide, which includes the source paper. The paper builds upon the findings of the source paper, discussing the efficacy and safety of liraglutide in a broader context.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2013,
+        "source_paper": {
+            "paperId": "e80451042cc8cb35fd2b31305008933cf8fba6d2",
+            "pmid": "21205128",
+            "title": "Liraglutide, a once-daily human glucagon-like peptide 1 analogue, provides sustained improvements in glycaemic control and weight for 2 years as monotherapy compared with glimepiride in patients with type 2 diabetes",
+            "abstract": "Aims: Most treatments for type 2 diabetes fail over time, necessitating combination therapy. We investigated the safety, tolerability and efficacy of liraglutide monotherapy compared with glimepiride monotherapy over 2 years.",
+            "year": 2011,
+            "citation_count": 190
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Practical Use of Glucagon-Like Peptide-1 Receptor Agonist Therapy in Primary Care": {
+                    "explanation": "This paper discusses the benefits and limitations of GLP-1 receptor agonist therapy, including liraglutide, but does not directly build upon the findings of the source paper.",
+                    "relevance": 0
+                },
+                "2. Choice of early treatment regimen and impact on \u03b2\u2010cell preservation in type 2 diabetes": {
+                    "explanation": "This paper explores the impact of early treatment regimens on \u03b2-cell preservation in type 2 diabetes and mentions GLP-1 agonists as a potential option, but does not directly build upon the findings of the source paper.",
+                    "relevance": 1
+                },
+                "3. Early use of glucagon-like peptide-1 receptor agonists (GLP-1 RAs) in Type 2 diabetes": {
+                    "explanation": "This paper discusses the efficacy and safety of GLP-1 RAs, including liraglutide, in early treatment of type 2 diabetes, and builds upon the findings of the source paper regarding the potential benefits of liraglutide.",
+                    "relevance": 2
+                },
+                "4. Blood pressure\u2010lowering effects of GLP\u20101 receptor agonists exenatide and liraglutide: a meta\u2010analysis of clinical trials": {
+                    "explanation": "This paper examines the blood pressure-lowering effects of GLP-1 receptor agonists, including liraglutide, but does not directly build upon the findings of the source paper.",
+                    "relevance": 0
+                },
+                "5. GLP-1 receptor agonists: effects on cardiovascular risk reduction": {
+                    "explanation": "This paper reviews the CV-associated effects of GLP-1 receptor agonists, including liraglutide, but does not directly build upon the findings of the source paper.",
+                    "relevance": 0
+                },
+                "6. GLP-1R agonist therapy for diabetes: benefits and potential risks": {
+                    "explanation": "This paper discusses the benefits and potential risks of GLP-1R agonist therapy, including liraglutide, but does not directly build upon the findings of the source paper.",
+                    "relevance": 0
+                },
+                "7. Long\u2010term efficacy and safety comparison of liraglutide, glimepiride and placebo, all in combination with metformin in type 2 diabetes: 2\u2010year results from the LEAD\u20102 study": {
+                    "explanation": "This paper compares the long-term efficacy and safety of liraglutide, glimepiride, and placebo in combination with metformin, and builds upon the findings of the source paper regarding the potential benefits of liraglutide.",
+                    "relevance": 2
+                },
+                "8. Liraglutide for the Treatment of Type 2 Diabetes: A Clinical Update": {
+                    "explanation": "This paper provides a clinical update on liraglutide, including its pharmacology, efficacy, safety, and tolerability, and builds upon the findings of the source paper regarding the potential benefits of liraglutide.",
+                    "relevance": 2
+                },
+                "9. Cardiovascular outcome trials in type 2 diabetes and the sulphonylurea controversy: Rationale for the active-comparator CAROLINA trial": {
+                    "explanation": "This paper discusses the rationale for the CAROLINA trial, which compares the CV outcomes of linagliptin and glimepiride in patients with type 2 diabetes, but does not directly build upon the findings of the source paper.",
+                    "relevance": 0
+                },
+                "10. Combining GLP\u20101 receptor agonists with insulin: therapeutic rationales and clinical findings": {
+                    "explanation": "This paper discusses the therapeutic rationales and clinical findings of combining GLP-1 receptor agonists with insulin, but does not directly build upon the findings of the source paper.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Early use of glucagon-like peptide-1 receptor agonists (GLP-1 RAs) in Type 2 diabetes": {
+                    "explanation": "This paper discusses the efficacy and safety of GLP-1 RAs, including liraglutide, in early treatment of type 2 diabetes, and builds upon the findings of the source paper regarding the potential benefits of liraglutide.",
+                    "relevance": 2
+                },
+                "2. Long\u2010term efficacy and safety comparison of liraglutide, glimepiride and placebo, all in combination with metformin in type 2 diabetes: 2\u2010year results from the LEAD\u20102 study": {
+                    "explanation": "This paper compares the long-term efficacy and safety of liraglutide, glimepiride, and placebo in combination with metformin, and builds upon the findings of the source paper regarding the potential benefits of liraglutide.",
+                    "relevance": 2
+                },
+                "3. Liraglutide for the Treatment of Type 2 Diabetes: A Clinical Update": {
+                    "explanation": "This paper provides a clinical update on liraglutide, including its pharmacology, efficacy, safety, and tolerability, and builds upon the findings of the source paper regarding the potential benefits of liraglutide.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2013,
+        "source_paper": {
+            "paperId": "e80451042cc8cb35fd2b31305008933cf8fba6d2",
+            "pmid": "21205128",
+            "title": "Liraglutide, a once-daily human glucagon-like peptide 1 analogue, provides sustained improvements in glycaemic control and weight for 2 years as monotherapy compared with glimepiride in patients with type 2 diabetes",
+            "abstract": "Aims: Most treatments for type 2 diabetes fail over time, necessitating combination therapy. We investigated the safety, tolerability and efficacy of liraglutide monotherapy compared with glimepiride monotherapy over 2 years.",
+            "year": 2011,
+            "citation_count": 190
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. The use of glucagon-like peptide-1 receptor agonists and bone fractures: A meta-analysis of randomized clinical trials": {
+                    "explanation": "This paper is a meta-analysis that investigates the relationship between GLP-1 receptor agonists and bone fractures. Although it mentions GLP-1, which is related to the source paper's topic of glucagon-like peptide-1 analogues, it does not build upon or depend on the findings of the source paper. The source paper focused on the efficacy and safety of liraglutide monotherapy compared to glimepiride monotherapy, whereas this paper examines the association between GLP-1 receptor agonists and bone fractures.",
+                    "relevance": 0
+                },
+                "2. UvA-DARE ( Digital Academic Repository ) Hypoglycaemia in diabetes": {
+                    "explanation": "This paper appears to be a repository or a collection of information on hypoglycaemia in diabetes, rather than a research paper that builds upon or depends on the findings of the source paper. It does not provide any clear connection to the source paper's topic of liraglutide monotherapy compared to glimepiride monotherapy.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2014,
+        "source_paper": {
+            "paperId": "ac7c4c572e9ea7a8727df4931f35d08ab4c3fc80",
+            "title": "Long\u2010term efficacy and safety comparison of liraglutide, glimepiride and placebo, all in combination with metformin in type 2 diabetes: 2\u2010year results from the LEAD\u20102 study",
+            "abstract": "To investigate efficacy and safety of dual therapy with liraglutide and metformin in comparison to glimepiride and metformin, and metformin monotherapy over 2\u2009years in patients with type 2 diabetes.",
+            "year": 2013,
+            "citation_count": 138,
+            "relevance": 2,
+            "explanation": "This paper compares the long-term efficacy and safety of liraglutide, glimepiride, and placebo in combination with metformin, and builds upon the findings of the source paper regarding the potential benefits of liraglutide."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Effect of Hemodialysis on Plasma Glucose Profile and Plasma Level of Liraglutide in Patients with Type 2 Diabetes Mellitus and End-Stage Renal Disease: A Pilot Study": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the pharmacokinetic parameters of liraglutide in patients with type 2 diabetes and end-stage renal disease, building on the source paper's results regarding liraglutide's efficacy and safety.",
+                    "relevance": 1
+                },
+                "2. Should Sulfonylureas Remain an Acceptable First-Line Add-on to Metformin Therapy in Patients With Type 2 Diabetes? No, It\u2019s Time to Move On!": {
+                    "explanation": "This paper is a review paper discussing the use of sulfonylureas as an add-on to metformin therapy in patients with type 2 diabetes. It does not have a direct connection to the source paper, which investigated the efficacy and safety of liraglutide, glimepiride, and placebo, all in combination with metformin.",
+                    "relevance": 0
+                },
+                "3. Should Sulfonylureas Remain an Acceptable First-Line Add-on to Metformin Therapy in Patients With Type 2 Diabetes? Yes, They Continue to Serve Us Well!": {
+                    "explanation": "This paper is also a review paper discussing the use of sulfonylureas as an add-on to metformin therapy in patients with type 2 diabetes. Similar to paper 2, it does not have a direct connection to the source paper.",
+                    "relevance": 0
+                },
+                "4. Contribution of Liraglutide in the Fixed-Ratio Combination of Insulin Degludec and Liraglutide (IDegLira)": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the contribution of the liraglutide component of IDegLira, a combination of insulin degludec and liraglutide, building on the source paper's results regarding liraglutide's efficacy and safety.",
+                    "relevance": 2
+                },
+                "5. The Evaluation of Clinical and Cost Outcomes Associated with Earlier Initiation of Insulin in Patients with Type 2 Diabetes Mellitus": {
+                    "explanation": "This paper discusses the clinical and cost outcomes associated with earlier initiation of insulin in patients with type 2 diabetes mellitus. While it is related to the management of type 2 diabetes, it does not have a direct connection to the source paper, which investigated the efficacy and safety of liraglutide, glimepiride, and placebo, all in combination with metformin.",
+                    "relevance": 0
+                },
+                "6. Cost-effectiveness of add-on treatments to metformin in a Swedish setting: liraglutide vs sulphonylurea or sitagplitin": {
+                    "explanation": "The key hypothesis in this paper is inspired by the findings of the source paper, as it investigates the cost-effectiveness of liraglutide compared to sulphonylureas or sitagliptin as add-on treatments to metformin in patients with type 2 diabetes, building on the source paper's results regarding liraglutide's efficacy and safety.",
+                    "relevance": 1
+                },
+                "7. Composite endpoints in trials of type\u20102 diabetes": {
+                    "explanation": "This paper reviews the use of composite endpoints in trials of type 2 diabetes, including those involving liraglutide. While it is related to the source paper, it does not have a direct connection, as it is a review paper discussing the use of composite endpoints in general.",
+                    "relevance": 0
+                },
+                "8. Use of glucagon\u2010like peptide\u20101 receptor agonists and bone fractures: A meta\u2010analysis of randomized clinical trials": {
+                    "explanation": "The key hypothesis in this paper is inspired by the findings of the source paper, as it investigates the association between the use of glucagon-like peptide-1 receptor agonists, including liraglutide, and the risk of bone fractures in patients with type 2 diabetes, building on the source paper's results regarding liraglutide's efficacy and safety.",
+                    "relevance": 1
+                },
+                "9. Incretin treatment and risk of pancreatitis in patients with type 2 diabetes mellitus: systematic review and meta-analysis of randomised and non-randomised studies": {
+                    "explanation": "The key hypothesis in this paper is inspired by the findings of the source paper, as it investigates the risk of pancreatitis associated with the use of incretin-based treatments, including liraglutide, in patients with type 2 diabetes, building on the source paper's results regarding liraglutide's efficacy and safety.",
+                    "relevance": 1
+                },
+                "10. Management of Type 2 diabetes with liraglutide": {
+                    "explanation": "This paper is a review paper discussing the management of type 2 diabetes with liraglutide. While it is related to the source paper, it does not have a direct connection, as it is a review paper summarizing the existing literature on liraglutide's use in type 2 diabetes management.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Contribution of Liraglutide in the Fixed-Ratio Combination of Insulin Degludec and Liraglutide (IDegLira)": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the contribution of the liraglutide component of IDegLira, a combination of insulin degludec and liraglutide, building on the source paper's results regarding liraglutide's efficacy and safety.",
+                    "relevance": 2
+                },
+                "2. Effect of Hemodialysis on Plasma Glucose Profile and Plasma Level of Liraglutide in Patients with Type 2 Diabetes Mellitus and End-Stage Renal Disease: A Pilot Study": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the pharmacokinetic parameters of liraglutide in patients with type 2 diabetes and end-stage renal disease, building on the source paper's results regarding liraglutide's efficacy and safety.",
+                    "relevance": 1
+                },
+                "3. Incretin treatment and risk of pancreatitis in patients with type 2 diabetes mellitus: systematic review and meta-analysis of randomised and non-randomised studies": {
+                    "explanation": "The key hypothesis in this paper is inspired by the findings of the source paper, as it investigates the risk of pancreatitis associated with the use of incretin-based treatments, including liraglutide, in patients with type 2 diabetes, building on the source paper's results regarding liraglutide's efficacy and safety.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2014,
+        "source_paper": {
+            "paperId": "ac7c4c572e9ea7a8727df4931f35d08ab4c3fc80",
+            "title": "Long\u2010term efficacy and safety comparison of liraglutide, glimepiride and placebo, all in combination with metformin in type 2 diabetes: 2\u2010year results from the LEAD\u20102 study",
+            "abstract": "To investigate efficacy and safety of dual therapy with liraglutide and metformin in comparison to glimepiride and metformin, and metformin monotherapy over 2\u2009years in patients with type 2 diabetes.",
+            "year": 2013,
+            "citation_count": 138,
+            "relevance": 2,
+            "explanation": "This paper compares the long-term efficacy and safety of liraglutide, glimepiride, and placebo in combination with metformin, and builds upon the findings of the source paper regarding the potential benefits of liraglutide."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Optimizing the Care of Patients With Type 2 Diabetes Using Incretin-Based Therapy: Focus on GLP-1 Receptor Agonists": {
+                    "explanation": "This paper does not directly build upon the findings of the source paper. Instead, it provides a general overview of the use of GLP-1 receptor agonists in type 2 diabetes management, which is a broader topic. The paper does not specifically address liraglutide or the LEAD-2 study, and its focus is more on the clinical application of GLP-1 receptor agonists rather than a direct continuation of the source paper's research.",
+                    "relevance": 0
+                },
+                "2. Pharmacology of the GLP-1 Analog Liraglutide in Healthy Cats": {
+                    "explanation": "This paper is not directly related to the source paper, as it focuses on the pharmacology of liraglutide in healthy cats, whereas the source paper investigated the efficacy and safety of liraglutide in combination with metformin in patients with type 2 diabetes. The paper does not build upon the findings of the source paper or use them as a sub-hypothesis.",
+                    "relevance": 0
+                },
+                "3. Adverse Effects of GLP-1 Receptor Agonists": {
+                    "explanation": "This paper is a review of the adverse effects of GLP-1 receptor agonists, which includes liraglutide. While it does not directly build upon the findings of the source paper, it does discuss the safety profile of GLP-1 receptor agonists, which is related to the source paper's investigation of the safety of liraglutide in combination with metformin. However, the paper's focus is broader and does not specifically address the LEAD-2 study or its findings.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2015,
+        "source_paper": {
+            "paperId": "ac7c4c572e9ea7a8727df4931f35d08ab4c3fc80",
+            "title": "Long\u2010term efficacy and safety comparison of liraglutide, glimepiride and placebo, all in combination with metformin in type 2 diabetes: 2\u2010year results from the LEAD\u20102 study",
+            "abstract": "To investigate efficacy and safety of dual therapy with liraglutide and metformin in comparison to glimepiride and metformin, and metformin monotherapy over 2\u2009years in patients with type 2 diabetes.",
+            "year": 2013,
+            "citation_count": 138,
+            "relevance": 2,
+            "explanation": "This paper compares the long-term efficacy and safety of liraglutide, glimepiride, and placebo in combination with metformin, and builds upon the findings of the source paper regarding the potential benefits of liraglutide."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Effects of sulfonylureas on lipids in type 2 diabetes mellitus: a meta\u2010analysis of randomized controlled trials": {
+                    "explanation": "This paper is a review of existing literature on sulfonylureas and their effects on lipids in type 2 diabetes mellitus. It does not have a direct connection to the source paper, which investigated the efficacy and safety of liraglutide, glimepiride, and placebo in combination with metformin in patients with type 2 diabetes.",
+                    "relevance": 0
+                },
+                "2. Liraglutide is effective and well tolerated in combination with an oral antidiabetic drug in Japanese patients with type 2 diabetes: A randomized, 52\u2010week, open\u2010label, parallel\u2010group trial": {
+                    "explanation": "This paper investigates the efficacy and safety of liraglutide in combination with an oral antidiabetic drug in Japanese patients with type 2 diabetes. The hypothesis in this paper is inspired by the findings of the source paper, which compared the efficacy and safety of liraglutide, glimepiride, and placebo in combination with metformin in patients with type 2 diabetes.",
+                    "relevance": 1
+                },
+                "3. Add-On Treatment with Liraglutide Improves Glycemic Control in Patients with Type 2 Diabetes on Metformin Therapy": {
+                    "explanation": "This paper assesses the efficacy and safety of liraglutide versus glimepiride as adjunct treatments to metformin in achieving glycemic control in Italian patients with type 2 diabetes. The hypothesis in this paper is inspired by the findings of the source paper, which investigated the efficacy and safety of liraglutide, glimepiride, and placebo in combination with metformin in patients with type 2 diabetes.",
+                    "relevance": 1
+                },
+                "4. Liraglutide for Type 2 diabetes and obesity: a 2015 update": {
+                    "explanation": "This paper provides an update on the use of liraglutide for the treatment of type 2 diabetes and obesity. While it mentions the results of the LEAD-2 study, it does not directly build upon the findings of the source paper.",
+                    "relevance": 0
+                },
+                "5. Implications of incretin\u2010based therapies on cardiovascular disease": {
+                    "explanation": "This paper reviews the effects of incretin-based therapies, including liraglutide, on cardiovascular disease risk factors. It does not have a direct connection to the source paper, which investigated the efficacy and safety of liraglutide, glimepiride, and placebo in combination with metformin in patients with type 2 diabetes.",
+                    "relevance": 0
+                },
+                "6. Fixed combination of insulin and a glucagon-like peptide-1 analog for the treatment of type 2 diabetes, exemplified by insulin degludec and liraglutide": {
+                    "explanation": "This paper discusses the potential benefits of a fixed combination of insulin and a glucagon-like peptide-1 analog, such as liraglutide, for the treatment of type 2 diabetes. The hypothesis in this paper is partially dependent on the findings of the source paper, which investigated the efficacy and safety of liraglutide in combination with metformin in patients with type 2 diabetes.",
+                    "relevance": 2
+                },
+                "7. Pharmacologic Treatment of Type 2 Diabetes": {
+                    "explanation": "This paper reviews the oral and injectable pharmacologic treatment options for type 2 diabetes. It does not have a direct connection to the source paper, which investigated the efficacy and safety of liraglutide, glimepiride, and placebo in combination with metformin in patients with type 2 diabetes.",
+                    "relevance": 0
+                },
+                "8. Initial combination therapy with metformin, pioglitazone and exenatide is more effective than sequential add\u2010on therapy in subjects with new\u2010onset diabetes": {
+                    "explanation": "This paper investigates the efficacy of initial combination therapy with metformin, pioglitazone, and exenatide in patients with new-onset diabetes. The hypothesis in this paper is not directly related to the findings of the source paper, which compared the efficacy and safety of liraglutide, glimepiride, and placebo in combination with metformin in patients with type 2 diabetes.",
+                    "relevance": 0
+                },
+                "9. Liraglutide reduces lipogenetic signals in visceral adipose of db/db mice with AMPK activation and Akt suppression": {
+                    "explanation": "This paper investigates the effects of liraglutide on lipogenetic signals in visceral adipose tissue in db/db mice. The hypothesis in this paper is partially dependent on the findings of the source paper, which investigated the efficacy and safety of liraglutide in combination with metformin in patients with type 2 diabetes.",
+                    "relevance": 2
+                },
+                "10. Clinical utility and patient considerations in the use of the sitagliptin\u2013metformin combination in Chinese patients": {
+                    "explanation": "This paper discusses the clinical utility and patient considerations of the sitagliptin-metformin combination in Chinese patients with type 2 diabetes. The hypothesis in this paper is not directly related to the findings of the source paper, which compared the efficacy and safety of liraglutide, glimepiride, and placebo in combination with metformin in patients with type 2 diabetes.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Fixed combination of insulin and a glucagon-like peptide-1 analog for the treatment of type 2 diabetes, exemplified by insulin degludec and liraglutide": {
+                    "explanation": "This paper discusses the potential benefits of a fixed combination of insulin and a glucagon-like peptide-1 analog, such as liraglutide, for the treatment of type 2 diabetes. The hypothesis in this paper is partially dependent on the findings of the source paper, which investigated the efficacy and safety of liraglutide in combination with metformin in patients with type 2 diabetes.",
+                    "relevance": 2
+                },
+                "2. Liraglutide reduces lipogenetic signals in visceral adipose of db/db mice with AMPK activation and Akt suppression": {
+                    "explanation": "This paper investigates the effects of liraglutide on lipogenetic signals in visceral adipose tissue in db/db mice. The hypothesis in this paper is partially dependent on the findings of the source paper, which investigated the efficacy and safety of liraglutide in combination with metformin in patients with type 2 diabetes.",
+                    "relevance": 2
+                },
+                "3. Liraglutide is effective and well tolerated in combination with an oral antidiabetic drug in Japanese patients with type 2 diabetes: A randomized, 52\u2010week, open\u2010label, parallel\u2010group trial": {
+                    "explanation": "This paper investigates the efficacy and safety of liraglutide in combination with an oral antidiabetic drug in Japanese patients with type 2 diabetes. The hypothesis in this paper is inspired by the findings of the source paper, which compared the efficacy and safety of liraglutide, glimepiride, and placebo in combination with metformin in patients with type 2 diabetes.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2015,
+        "source_paper": {
+            "paperId": "ac7c4c572e9ea7a8727df4931f35d08ab4c3fc80",
+            "title": "Long\u2010term efficacy and safety comparison of liraglutide, glimepiride and placebo, all in combination with metformin in type 2 diabetes: 2\u2010year results from the LEAD\u20102 study",
+            "abstract": "To investigate efficacy and safety of dual therapy with liraglutide and metformin in comparison to glimepiride and metformin, and metformin monotherapy over 2\u2009years in patients with type 2 diabetes.",
+            "year": 2013,
+            "citation_count": 138,
+            "relevance": 2,
+            "explanation": "This paper compares the long-term efficacy and safety of liraglutide, glimepiride, and placebo in combination with metformin, and builds upon the findings of the source paper regarding the potential benefits of liraglutide."
+        },
+        "llama_output": {},
+        "seed": 42
+    },
+    {
+        "year": 2015,
+        "source_paper": {
+            "paperId": "5521293f7af38d03e632f78484ea8c4d55d19c70",
+            "title": "Contribution of Liraglutide in the Fixed-Ratio Combination of Insulin Degludec and Liraglutide (IDegLira)",
+            "abstract": "OBJECTIVE Insulin degludec/liraglutide (IDegLira) is a novel combination of insulin degludec (IDeg) and liraglutide. This trial investigated the contribution of the liraglutide component of IDegLira versus IDeg alone on efficacy and safety in patients with type 2 diabetes. RESEARCH DESIGN AND METHODS In a 26-week, double-blind trial, patients with type 2 diabetes (A1C 7.5\u201310.0% [58\u201386 mmol/mol]) on basal insulin (20\u201340 units) and metformin with or without sulfonylurea/glinides were randomized (1:1) to once-daily IDegLira + metformin or IDeg + metformin with titration aiming for fasting plasma glucose between 4 and 5 mmol/L. Maximum allowed doses were 50 dose steps (equal to 50 units IDeg plus 1.8 mg liraglutide) and 50 units for IDeg. The primary end point was change in A1C from baseline. RESULTS A total of 413 patients were randomized (mean A1C 8.8% [73 mmol/mol]; BMI 33.7 kg/m2). IDeg dose, alone or as part of IDegLira, was equivalent (45 units). A1C decreased by 1.9% (21 mmol/mol) with IDegLira and by 0.9% (10 mmol/mol) with IDeg (estimated treatment difference \u22121.1% [95% CI \u22121.3, \u22120.8], \u221212 mmol/mol [95% CI \u221214, \u22129; P < 0.0001). Mean weight reduction with IDegLira was 2.7 kg vs. no weight change with IDeg, P < 0.0001. Hypoglycemia incidence was comparable (24% for IDegLira vs. 25% for IDeg). Overall adverse events were similar, and incidence of nausea was low in both groups (IDegLira 6.5% vs. IDeg 3.5%). CONCLUSIONS IDegLira achieved glycemic control superior to that of IDeg at equivalent insulin doses without higher risk of hypoglycemia and with the benefit of weight loss. These findings establish the efficacy and safety of IDegLira and the distinct contribution of the liraglutide component.",
+            "year": 2014,
+            "citation_count": 234,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the contribution of the liraglutide component of IDegLira, a combination of insulin degludec and liraglutide, building on the source paper's results regarding liraglutide's efficacy and safety."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Preserved pharmacokinetic exposure and distinct glycemic effects of insulin degludec and liraglutide in IDegLira, a fixed\u2010ratio combination therapy": {
+                    "explanation": "This paper explores the pharmacokinetics and pharmacodynamics of IDegLira, which is the fixed-ratio combination therapy studied in the source paper. The findings in this paper are inspired by the hypothesis of the source paper regarding the efficacy and safety of IDegLira.",
+                    "relevance": 1
+                },
+                "2. Insulin degludec/liraglutide (IDegLira) for the treatment of type 2 diabetes": {
+                    "explanation": "This paper discusses the benefits and limitations of IDegLira, which is the combination therapy studied in the source paper. The hypothesis in this paper is inspired by the findings of the source paper regarding the efficacy and safety of IDegLira.",
+                    "relevance": 1
+                },
+                "3. Benefits of combination of insulin degludec and liraglutide are independent of baseline glycated haemoglobin level and duration of type 2 diabetes": {
+                    "explanation": "This paper evaluates the efficacy of IDegLira in patients with type 2 diabetes, regardless of the stage of disease progression. The hypothesis in this paper is partially dependent on the findings of the source paper regarding the efficacy and safety of IDegLira.",
+                    "relevance": 2
+                },
+                "4. Use of oral combination therapy for type 2 diabetes in primary care: Meeting individualized patient goals": {
+                    "explanation": "This paper discusses the use of oral combination therapy for type 2 diabetes, which is not directly related to the source paper. The paper does not mention IDegLira or the combination of insulin degludec and liraglutide.",
+                    "relevance": 0
+                },
+                "5. Long-term safety and efficacy of insulin degludec in the management of type 2 diabetes": {
+                    "explanation": "This paper discusses the long-term safety and efficacy of insulin degludec, which is one component of IDegLira. However, the paper does not specifically study IDegLira or the combination of insulin degludec and liraglutide.",
+                    "relevance": 0
+                },
+                "6. Liraglutide for Type 2 diabetes and obesity: a 2015 update": {
+                    "explanation": "This paper discusses the use of liraglutide for type 2 diabetes and obesity, which is one component of IDegLira. However, the paper does not specifically study IDegLira or the combination of insulin degludec and liraglutide.",
+                    "relevance": 0
+                },
+                "7. Fixed combination of insulin and a glucagon-like peptide-1 analog for the treatment of type 2 diabetes, exemplified by insulin degludec and liraglutide": {
+                    "explanation": "This paper discusses the fixed combination of insulin and a glucagon-like peptide-1 analog, which is the concept studied in the source paper. The hypothesis in this paper is inspired by the findings of the source paper regarding the efficacy and safety of IDegLira.",
+                    "relevance": 1
+                },
+                "8. Glucagon-like polypeptide agonists in type 2 diabetes mellitus: efficacy and tolerability, a balance": {
+                    "explanation": "This paper discusses the use of glucagon-like polypeptide agonists for type 2 diabetes, which includes liraglutide, one component of IDegLira. However, the paper does not specifically study IDegLira or the combination of insulin degludec and liraglutide.",
+                    "relevance": 0
+                },
+                "9. Can a fixed-ratio combination of insulin degludec and liraglutide help Type 2 diabetes patients to optimize glycemic control across the day?": {
+                    "explanation": "This paper discusses the potential benefits of IDegLira in optimizing glycemic control for patients with type 2 diabetes. The hypothesis in this paper is partially dependent on the findings of the source paper regarding the efficacy and safety of IDegLira.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Benefits of combination of insulin degludec and liraglutide are independent of baseline glycated haemoglobin level and duration of type 2 diabetes": {
+                    "explanation": "This paper evaluates the efficacy of IDegLira in patients with type 2 diabetes, regardless of the stage of disease progression. The hypothesis in this paper is partially dependent on the findings of the source paper regarding the efficacy and safety of IDegLira.",
+                    "relevance": 2
+                },
+                "2. Can a fixed-ratio combination of insulin degludec and liraglutide help Type 2 diabetes patients to optimize glycemic control across the day?": {
+                    "explanation": "This paper discusses the potential benefits of IDegLira in optimizing glycemic control for patients with type 2 diabetes. The hypothesis in this paper is partially dependent on the findings of the source paper regarding the efficacy and safety of IDegLira.",
+                    "relevance": 2
+                },
+                "3. Preserved pharmacokinetic exposure and distinct glycemic effects of insulin degludec and liraglutide in IDegLira, a fixed\u2010ratio combination therapy": {
+                    "explanation": "This paper explores the pharmacokinetics and pharmacodynamics of IDegLira, which is the fixed-ratio combination therapy studied in the source paper. The findings in this paper are inspired by the hypothesis of the source paper regarding the efficacy and safety of IDegLira.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2016,
+        "source_paper": {
+            "paperId": "5521293f7af38d03e632f78484ea8c4d55d19c70",
+            "title": "Contribution of Liraglutide in the Fixed-Ratio Combination of Insulin Degludec and Liraglutide (IDegLira)",
+            "abstract": "OBJECTIVE Insulin degludec/liraglutide (IDegLira) is a novel combination of insulin degludec (IDeg) and liraglutide. This trial investigated the contribution of the liraglutide component of IDegLira versus IDeg alone on efficacy and safety in patients with type 2 diabetes. RESEARCH DESIGN AND METHODS In a 26-week, double-blind trial, patients with type 2 diabetes (A1C 7.5\u201310.0% [58\u201386 mmol/mol]) on basal insulin (20\u201340 units) and metformin with or without sulfonylurea/glinides were randomized (1:1) to once-daily IDegLira + metformin or IDeg + metformin with titration aiming for fasting plasma glucose between 4 and 5 mmol/L. Maximum allowed doses were 50 dose steps (equal to 50 units IDeg plus 1.8 mg liraglutide) and 50 units for IDeg. The primary end point was change in A1C from baseline. RESULTS A total of 413 patients were randomized (mean A1C 8.8% [73 mmol/mol]; BMI 33.7 kg/m2). IDeg dose, alone or as part of IDegLira, was equivalent (45 units). A1C decreased by 1.9% (21 mmol/mol) with IDegLira and by 0.9% (10 mmol/mol) with IDeg (estimated treatment difference \u22121.1% [95% CI \u22121.3, \u22120.8], \u221212 mmol/mol [95% CI \u221214, \u22129; P < 0.0001). Mean weight reduction with IDegLira was 2.7 kg vs. no weight change with IDeg, P < 0.0001. Hypoglycemia incidence was comparable (24% for IDegLira vs. 25% for IDeg). Overall adverse events were similar, and incidence of nausea was low in both groups (IDegLira 6.5% vs. IDeg 3.5%). CONCLUSIONS IDegLira achieved glycemic control superior to that of IDeg at equivalent insulin doses without higher risk of hypoglycemia and with the benefit of weight loss. These findings establish the efficacy and safety of IDegLira and the distinct contribution of the liraglutide component.",
+            "year": 2014,
+            "citation_count": 234,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the contribution of the liraglutide component of IDegLira, a combination of insulin degludec and liraglutide, building on the source paper's results regarding liraglutide's efficacy and safety."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. New fixed dose chemical combinations: the way forward for better diabetes type II management?": {
+                    "explanation": "This paper is a review of fixed-dose combinations for type 2 diabetes management, including IDegLira, but does not build upon the source paper's findings or hypothesis.",
+                    "relevance": 0
+                },
+                "2. Safety and efficacy of insulin degludec/liraglutide (IDegLira) added to sulphonylurea alone or to sulphonylurea and metformin in insulin\u2010na\u00efve people with Type 2 diabetes: the DUAL IV trial": {
+                    "explanation": "This paper explores the safety and efficacy of IDegLira in a different patient population, building upon the source paper's findings on the combination's efficacy and safety.",
+                    "relevance": 2
+                },
+                "3. Update on the treatment of type 2 diabetes mellitus": {
+                    "explanation": "This review paper discusses the current state of type 2 diabetes treatment, including combination therapies, but does not specifically build upon the source paper's findings or hypothesis.",
+                    "relevance": 0
+                },
+                "4. Pharmacokinetic evaluation of fixed-ratio combination of insulin degludec and liraglutide in the treatment of type 2 diabetes": {
+                    "explanation": "This paper evaluates the pharmacokinetics of IDegLira, which is a key aspect of the combination's efficacy and safety, building upon the source paper's findings.",
+                    "relevance": 2
+                },
+                "5. Basal Insulin Use With GLP-1 Receptor Agonists": {
+                    "explanation": "This review paper discusses the combination of basal insulin and GLP-1 receptor agonists, including IDegLira, but does not specifically build upon the source paper's findings or hypothesis.",
+                    "relevance": 0
+                },
+                "6. Role of incretin\u2010based therapies and sodium\u2010glucose co\u2010transporter\u20102 inhibitors as adjuncts to insulin therapy in Type 2 diabetes, with special reference to IDegLira": {
+                    "explanation": "This paper explores the role of IDegLira in type 2 diabetes management, building upon the source paper's findings on the combination's efficacy and safety.",
+                    "relevance": 2
+                },
+                "7. Treatment intensification in patients with inadequate glycemic control on basal insulin: rationale and clinical evidence for the use of short\u2010acting and other glucagon\u2010like peptide\u20101 receptor agonists": {
+                    "explanation": "This review paper discusses treatment intensification options for type 2 diabetes, including the use of GLP-1 receptor agonists, but does not specifically build upon the source paper's findings or hypothesis.",
+                    "relevance": 0
+                },
+                "8. Combination therapies in the management of type 2 diabetes: the use of insulin degludec/liraglutide": {
+                    "explanation": "This paper discusses the combination of insulin degludec and liraglutide, building upon the source paper's findings on the combination's efficacy and safety.",
+                    "relevance": 2
+                },
+                "9. A primer on concentrated insulins: what an internist should know": {
+                    "explanation": "This review paper discusses concentrated insulins, but does not specifically build upon the source paper's findings or hypothesis.",
+                    "relevance": 0
+                },
+                "10. Effect of Insulin Glargine Up-titration vs Insulin Degludec/Liraglutide on Glycated Hemoglobin Levels in Patients With Uncontrolled Type 2 Diabetes: The DUAL V Randomized Clinical Trial": {
+                    "explanation": "This paper compares the efficacy of IDegLira to insulin glargine up-titration, building upon the source paper's findings on the combination's efficacy and safety.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Safety and efficacy of insulin degludec/liraglutide (IDegLira) added to sulphonylurea alone or to sulphonylurea and metformin in insulin\u2010na\u00efve people with Type 2 diabetes: the DUAL IV trial": {
+                    "explanation": "This paper explores the safety and efficacy of IDegLira in a different patient population, building upon the source paper's findings on the combination's efficacy and safety.",
+                    "relevance": 2
+                },
+                "2. Pharmacokinetic evaluation of fixed-ratio combination of insulin degludec and liraglutide in the treatment of type 2 diabetes": {
+                    "explanation": "This paper evaluates the pharmacokinetics of IDegLira, which is a key aspect of the combination's efficacy and safety, building upon the source paper's findings.",
+                    "relevance": 2
+                },
+                "3. Combination therapies in the management of type 2 diabetes: the use of insulin degludec/liraglutide": {
+                    "explanation": "This paper discusses the combination of insulin degludec and liraglutide, building upon the source paper's findings on the combination's efficacy and safety.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2016,
+        "source_paper": {
+            "paperId": "5521293f7af38d03e632f78484ea8c4d55d19c70",
+            "title": "Contribution of Liraglutide in the Fixed-Ratio Combination of Insulin Degludec and Liraglutide (IDegLira)",
+            "abstract": "OBJECTIVE Insulin degludec/liraglutide (IDegLira) is a novel combination of insulin degludec (IDeg) and liraglutide. This trial investigated the contribution of the liraglutide component of IDegLira versus IDeg alone on efficacy and safety in patients with type 2 diabetes. RESEARCH DESIGN AND METHODS In a 26-week, double-blind trial, patients with type 2 diabetes (A1C 7.5\u201310.0% [58\u201386 mmol/mol]) on basal insulin (20\u201340 units) and metformin with or without sulfonylurea/glinides were randomized (1:1) to once-daily IDegLira + metformin or IDeg + metformin with titration aiming for fasting plasma glucose between 4 and 5 mmol/L. Maximum allowed doses were 50 dose steps (equal to 50 units IDeg plus 1.8 mg liraglutide) and 50 units for IDeg. The primary end point was change in A1C from baseline. RESULTS A total of 413 patients were randomized (mean A1C 8.8% [73 mmol/mol]; BMI 33.7 kg/m2). IDeg dose, alone or as part of IDegLira, was equivalent (45 units). A1C decreased by 1.9% (21 mmol/mol) with IDegLira and by 0.9% (10 mmol/mol) with IDeg (estimated treatment difference \u22121.1% [95% CI \u22121.3, \u22120.8], \u221212 mmol/mol [95% CI \u221214, \u22129; P < 0.0001). Mean weight reduction with IDegLira was 2.7 kg vs. no weight change with IDeg, P < 0.0001. Hypoglycemia incidence was comparable (24% for IDegLira vs. 25% for IDeg). Overall adverse events were similar, and incidence of nausea was low in both groups (IDegLira 6.5% vs. IDeg 3.5%). CONCLUSIONS IDegLira achieved glycemic control superior to that of IDeg at equivalent insulin doses without higher risk of hypoglycemia and with the benefit of weight loss. These findings establish the efficacy and safety of IDegLira and the distinct contribution of the liraglutide component.",
+            "year": 2014,
+            "citation_count": 234,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the contribution of the liraglutide component of IDegLira, a combination of insulin degludec and liraglutide, building on the source paper's results regarding liraglutide's efficacy and safety."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Durable efficacy of liraglutide in patients with type 2 diabetes and pronounced insulin\u2010associated weight gain: 52\u2010week results from the Effect of Liraglutide on insulin\u2010associated wEight GAiN in patients with Type 2 diabetes' (ELEGANT) randomized controlled trial": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it explores the long-term efficacy of liraglutide in patients with type 2 diabetes, building on the source paper's results regarding the benefits of the liraglutide component in the IDegLira combination.",
+                    "relevance": 2
+                },
+                "2. Treatment potential of the GLP-1 receptor agonists in type 2 diabetes mellitus: a review": {
+                    "explanation": "This paper has no connection with the source paper, as it is a review paper that summarizes existing literature on GLP-1 receptor agonists, including liraglutide, without referencing or building on the specific findings of the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Durable efficacy of liraglutide in patients with type 2 diabetes and pronounced insulin\u2010associated weight gain: 52\u2010week results from the Effect of Liraglutide on insulin\u2010associated wEight GAiN in patients with Type 2 diabetes' (ELEGANT) randomized controlled trial": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it explores the long-term efficacy of liraglutide in patients with type 2 diabetes, building on the source paper's results regarding the benefits of the liraglutide component in the IDegLira combination.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2017,
+        "source_paper": {
+            "paperId": "062951bbede7476d03e87b7b3bdead85eb707296",
+            "title": "Safety and efficacy of insulin degludec/liraglutide (IDegLira) added to sulphonylurea alone or to sulphonylurea and metformin in insulin\u2010na\u00efve people with Type 2 diabetes: the DUAL IV trial",
+            "abstract": "To investigate the safety and efficacy of insulin degludec/liraglutide (IDegLira), a novel combination product, as add\u2010on therapy for people with Type 2 diabetes uncontrolled on sulphonylurea therapy.",
+            "year": 2016,
+            "citation_count": 92,
+            "relevance": 2,
+            "explanation": "This paper explores the safety and efficacy of IDegLira in a different patient population, building upon the source paper's findings on the combination's efficacy and safety."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Comparison between insulin degludec/liraglutide treatment and insulin glargine/lixisenatide treatment in type 2 diabetes: a systematic review and meta-analysis": {
+                    "explanation": "This paper is a systematic review and meta-analysis, which does not build upon the findings of the source paper or propose a new hypothesis based on it.",
+                    "relevance": 0
+                },
+                "2. Insulin degludec/liraglutide (IDegLira) was effective across a range of dysglycaemia and body mass index categories in the DUAL V randomized trial": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it explores the efficacy of IDegLira across different categories of patients with type 2 diabetes.",
+                    "relevance": 1
+                },
+                "3. Fixed-ratio combination therapy with GLP-1 receptor agonist liraglutide and insulin degludec in people with type 2 diabetes": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it discusses the combination therapy of IDegLira, which was investigated in the source paper.",
+                    "relevance": 2
+                },
+                "4. Insulin and Glucagon-Like Peptide 1 Receptor Agonist Combination Therapy in Type 2 Diabetes: A Systematic Review and Meta-analysis of Randomized Controlled Trials": {
+                    "explanation": "This paper is a systematic review and meta-analysis, which does not build upon the findings of the source paper or propose a new hypothesis based on it.",
+                    "relevance": 0
+                },
+                "5. Efficacy and safety of fixed-ratio combination of insulin degludec and liraglutide (IDegLira) for the treatment of type 2 diabetes": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it discusses the efficacy and safety of IDegLira, which was investigated in the source paper.",
+                    "relevance": 1
+                },
+                "6. Formulary Drug Reviews Generic Name: Insulin Degludec/Liraglutide Proprietary Name: Xultophy (Novo Nordisk) Approval Rating: 4S Therapeutic Class: Antidiabetics, Insulins, Glucagon-like Peptide 1 (GLP-1) Receptor Agonists Similar Drugs: Insulin Glargine/Lixisenatide (Soliqua) Sound- or Look-Alike Na": {
+                    "explanation": "This paper appears to be a review or a formulary drug review, which does not propose a new hypothesis or build upon the findings of the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Fixed-ratio combination therapy with GLP-1 receptor agonist liraglutide and insulin degludec in people with type 2 diabetes": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it discusses the combination therapy of IDegLira, which was investigated in the source paper.",
+                    "relevance": 2
+                },
+                "2. Insulin degludec/liraglutide (IDegLira) was effective across a range of dysglycaemia and body mass index categories in the DUAL V randomized trial": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it explores the efficacy of IDegLira across different categories of patients with type 2 diabetes.",
+                    "relevance": 1
+                },
+                "3. Efficacy and safety of fixed-ratio combination of insulin degludec and liraglutide (IDegLira) for the treatment of type 2 diabetes": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it discusses the efficacy and safety of IDegLira, which was investigated in the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2018,
+        "source_paper": {
+            "paperId": "062951bbede7476d03e87b7b3bdead85eb707296",
+            "title": "Safety and efficacy of insulin degludec/liraglutide (IDegLira) added to sulphonylurea alone or to sulphonylurea and metformin in insulin\u2010na\u00efve people with Type 2 diabetes: the DUAL IV trial",
+            "abstract": "To investigate the safety and efficacy of insulin degludec/liraglutide (IDegLira), a novel combination product, as add\u2010on therapy for people with Type 2 diabetes uncontrolled on sulphonylurea therapy.",
+            "year": 2016,
+            "citation_count": 92,
+            "relevance": 2,
+            "explanation": "This paper explores the safety and efficacy of IDegLira in a different patient population, building upon the source paper's findings on the combination's efficacy and safety."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Rationale for a titratable fixed-ratio co-formulation of a basal insulin analog and a glucagon-like peptide 1 receptor agonist in patients with type 2 diabetes": {
+                    "explanation": "This paper is a review of the complementary mechanisms of action of GLP-1 receptor agonists and basal insulin, and discusses the benefits of titratable fixed-ratio co-formulations, including insulin degludec/liraglutide, which was studied in the source paper. However, it does not build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "2. Physicians\u2019 real-world experience with IDegLira: results of a European survey": {
+                    "explanation": "This paper presents the results of a survey of physicians' experiences with IDegLira, which was studied in the source paper. However, it does not build upon or depend on the findings of the source paper, but rather provides additional information on the use of IDegLira in real-world settings.",
+                    "relevance": 0
+                },
+                "3. The Clinical Impact of GLP-1 Receptor Agonists in Type 2 Diabetes: Focus on the Long-Acting Analogs": {
+                    "explanation": "This paper is a review of the clinical impact of GLP-1 receptor agonists, including liraglutide, which was studied in the source paper. However, it does not build upon or depend on the findings of the source paper, but rather provides a broader overview of the class of medications.",
+                    "relevance": 0
+                },
+                "4. Initiating Titratable Fixed-Ratio Combinations of Basal Insulin Analogs and Glucagon-Like Peptide-1 Receptor Agonists: What You Need to Know": {
+                    "explanation": "This paper provides an overview of titratable fixed-ratio combinations, including insulin degludec/liraglutide, which was studied in the source paper. However, it does not build upon or depend on the findings of the source paper, but rather provides general information on the use of these combinations.",
+                    "relevance": 0
+                },
+                "5. Safety and Efficacy of Insulin Degludec/Liraglutide (IDegLira) and Insulin Glargine U100/Lixisenatide (iGlarLixi), Two Novel Co-Formulations of a Basal Insulin and a Glucagon-Like Peptide-1 Receptor Agonist, in Patients With Diabetes Not Adequately Controlled on Oral Antidiabetic Medications": {
+                    "explanation": "This paper discusses the safety and efficacy of IDegLira, which was studied in the source paper, and another co-formulation, iGlarLixi. However, it does not build upon or depend on the findings of the source paper, but rather provides additional information on the use of IDegLira and iGlarLixi in patients with diabetes.",
+                    "relevance": 0
+                },
+                "6. Anticipatory guidance in type 2 diabetes to improve disease management; next steps after basal insulin": {
+                    "explanation": "This paper discusses the importance of anticipatory guidance in type 2 diabetes management, including the use of basal insulin and GLP-1 receptor agonists. However, it does not build upon or depend on the findings of the source paper, but rather provides general information on disease management.",
+                    "relevance": 0
+                },
+                "7. Methodological concerns with the meta-analysis comparing insulin degludec/liraglutide and insulin glargine/lixisenatide": {
+                    "explanation": "This paper discusses methodological concerns with a meta-analysis comparing IDegLira and iGlarLixi, which were both mentioned in the source paper. However, it does not build upon or depend on the findings of the source paper, but rather provides a critique of the meta-analysis.",
+                    "relevance": 0
+                },
+                "8. Efficacy and Safety of IDegLira Versus Basal-Bolus Insulin Therapy in Patients With Type 2 Diabetes Uncontrolled on Metformin and Basal Insulin: The DUAL VII Randomized Clinical Trial": {
+                    "explanation": "This paper presents the results of a randomized clinical trial comparing IDegLira to basal-bolus insulin therapy, which builds upon the findings of the source paper. The source paper studied the safety and efficacy of IDegLira as add-on therapy for patients with type 2 diabetes uncontrolled on sulphonylurea therapy, and this paper extends those findings to patients uncontrolled on metformin and basal insulin.",
+                    "relevance": 2
+                },
+                "9. A review of GLP\u20101 receptor agonists: Evolution and advancement, through the lens of randomised controlled trials": {
+                    "explanation": "This paper is a review of the evolution and advancement of GLP-1 receptor agonists, including liraglutide, which was studied in the source paper. However, it does not build upon or depend on the findings of the source paper, but rather provides a broader overview of the class of medications.",
+                    "relevance": 0
+                },
+                "10. A review of the new GLP-1 receptor agonist/basal insulin fixed-ratio combination products": {
+                    "explanation": "This paper is a review of the new GLP-1 receptor agonist/basal insulin fixed-ratio combination products, including IDegLira, which was studied in the source paper. However, it does not build upon or depend on the findings of the source paper, but rather provides a broader overview of the class of medications.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Efficacy and Safety of IDegLira Versus Basal-Bolus Insulin Therapy in Patients With Type 2 Diabetes Uncontrolled on Metformin and Basal Insulin: The DUAL VII Randomized Clinical Trial": {
+                    "explanation": "This paper presents the results of a randomized clinical trial comparing IDegLira to basal-bolus insulin therapy, which builds upon the findings of the source paper. The source paper studied the safety and efficacy of IDegLira as add-on therapy for patients with type 2 diabetes uncontrolled on sulphonylurea therapy, and this paper extends those findings to patients uncontrolled on metformin and basal insulin.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2018,
+        "source_paper": {
+            "paperId": "062951bbede7476d03e87b7b3bdead85eb707296",
+            "title": "Safety and efficacy of insulin degludec/liraglutide (IDegLira) added to sulphonylurea alone or to sulphonylurea and metformin in insulin\u2010na\u00efve people with Type 2 diabetes: the DUAL IV trial",
+            "abstract": "To investigate the safety and efficacy of insulin degludec/liraglutide (IDegLira), a novel combination product, as add\u2010on therapy for people with Type 2 diabetes uncontrolled on sulphonylurea therapy.",
+            "year": 2016,
+            "citation_count": 92,
+            "relevance": 2,
+            "explanation": "This paper explores the safety and efficacy of IDegLira in a different patient population, building upon the source paper's findings on the combination's efficacy and safety."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Use and effectiveness of a fixed\u2010ratio combination of insulin degludec/liraglutide (IDegLira) in a real\u2010world population with type 2 diabetes: Results from a European, multicentre, retrospective chart review study": {
+                    "explanation": "This paper is inspired by the hypothesis of the source paper, as it investigates the real-world effectiveness of IDegLira, a combination product that was tested in the source paper.",
+                    "relevance": 1
+                },
+                "2. The Clinical Use of a Fixed-Dose Combination of Insulin Degludec and Liraglutide (Xultophy 100/3.6) for the Treatment of Type 2 Diabetes": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it reviews the pharmacology, pharmacokinetics, efficacy, and safety of IDegLira, a combination product that was tested in the source paper.",
+                    "relevance": 2
+                },
+                "3. The Clinical Impact of GLP-1 Receptor Agonists in Type 2 Diabetes : Focus on the Long-Acting Analogs": {
+                    "explanation": "This paper has no direct connection to the source paper, as it provides a general review of GLP-1 receptor agonists, including liraglutide, but does not specifically investigate IDegLira or build upon the findings of the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. The Clinical Use of a Fixed-Dose Combination of Insulin Degludec and Liraglutide (Xultophy 100/3.6) for the Treatment of Type 2 Diabetes": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it reviews the pharmacology, pharmacokinetics, efficacy, and safety of IDegLira, a combination product that was tested in the source paper.",
+                    "relevance": 2
+                },
+                "2. Use and effectiveness of a fixed\u2010ratio combination of insulin degludec/liraglutide (IDegLira) in a real\u2010world population with type 2 diabetes: Results from a European, multicentre, retrospective chart review study": {
+                    "explanation": "This paper is inspired by the hypothesis of the source paper, as it investigates the real-world effectiveness of IDegLira, a combination product that was tested in the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2019,
+        "source_paper": {
+            "paperId": "2f4aa05d880ec5c8d2f797f8354afa737650c2c7",
+            "title": "Efficacy and Safety of IDegLira Versus Basal-Bolus Insulin Therapy in Patients With Type 2 Diabetes Uncontrolled on Metformin and Basal Insulin: The DUAL VII Randomized Clinical Trial",
+            "abstract": "OBJECTIVE In patients with uncontrolled type 2 diabetes on basal insulin, prandial insulin may be initiated. We assessed the efficacy and safety of initiating insulin degludec/liraglutide fixed-ratio combination (IDegLira) versus basal-bolus insulin. RESEARCH DESIGN AND METHODS A phase 3b trial examined patients with uncontrolled type 2 diabetes on insulin glargine (IGlar U100) 20\u201350 units/day and metformin, randomized to IDegLira or IGlar U100 and insulin aspart \u22644 times per day. RESULTS Glycated hemoglobin (HbA1c) decreased from 8.2% (66 mmol/mol) to 6.7% (50 mmol/mol) with IDegLira and from 8.2% (67 mmol/mol) to 6.7% (50 mmol/mol) with basal-bolus (estimated treatment difference [ETD] \u22120.02% [95% CI \u22120.16, 0.12]; \u22120.2 mmol/mol [95% CI \u22121.7, 1.3]), confirming IDegLira noninferiority versus basal-bolus (P < 0.0001). The number of severe or blood glucose\u2013confirmed symptomatic hypoglycemia events was lower with IDegLira versus basal-bolus (risk ratio 0.39 [95% CI 0.29, 0.51]; rate ratio 0.11 [95% CI 0.08, 0.17]). Body weight decreased with IDegLira and increased with basal-bolus (ETD \u22123.6 kg [95% CI \u22124.2, \u22122.9]). Fasting plasma glucose reductions were similar; lunch, dinner, and bedtime self-monitored plasma glucose measurements were significantly lower with basal-bolus. Sixty-six percent of patients on IDegLira vs. 67.0% on basal-bolus achieved HbA1c <7.0% (53 mmol/mol). Total daily insulin dose was lower with IDegLira (40 units) than basal-bolus (84 units total; 52 units basal). CONCLUSIONS In patients with uncontrolled type 2 diabetes on IGlar U100 and metformin, IDegLira treatment elicited HbA1c reductions comparable to basal-bolus, with statistically superior lower hypoglycemia rates and weight loss versus weight gain.",
+            "year": 2018,
+            "citation_count": 149,
+            "relevance": 2,
+            "explanation": "This paper presents the results of a randomized clinical trial comparing IDegLira to basal-bolus insulin therapy, which builds upon the findings of the source paper. The source paper studied the safety and efficacy of IDegLira as add-on therapy for patients with type 2 diabetes uncontrolled on sulphonylurea therapy, and this paper extends those findings to patients uncontrolled on metformin and basal insulin."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1.Evaluation of the Short-Term Cost-Effectiveness of IDegLira Versus Basal Insulin and Basal-Bolus Therapy in Patients with Type 2 Diabetes Based on Attainment of Clinically Relevant Treatment Targets": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the cost-effectiveness of IDegLira compared to basal insulin and basal-bolus therapy, building on the source paper's results regarding IDegLira's efficacy and safety.",
+                    "relevance": 1
+                },
+                "2.Benefits of insulin degludec/liraglutide are maintained even in patients discontinuing sulphonylureas or dipeptidyl peptidase\u20104 inhibitors upon initiation of degludec/liraglutide therapy: A post hoc analysis of the DUAL II and DUAL IX trials": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the benefits of IDegLira in specific patient populations, using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "3.Therapy of Type 2 Diabetes": {
+                    "explanation": "This paper appears to be a review paper, summarizing existing literature on type 2 diabetes therapy, and lacks a novel hypothesis or findings related to the source paper.",
+                    "relevance": 0
+                },
+                "4.Insulin degludec/liraglutide (IDegLira) maintains glycaemic control and improves clinical outcomes, regardless of pre\u2010trial insulin dose, in people with type 2 diabetes that is uncontrolled on basal insulin": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the efficacy of IDegLira in patients with type 2 diabetes, using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "5.Effect of medication adherence on clinical outcomes in type 2 diabetes: analysis of the SIMPLE study": {
+                    "explanation": "The hypothesis in this paper is not directly related to the source paper, as it investigates the effect of medication adherence on clinical outcomes in type 2 diabetes, without referencing IDegLira or the source paper's findings.",
+                    "relevance": 0
+                },
+                "6.Superior HbA1c control with the fixed\u2010ratio combination of insulin degludec and liraglutide (IDegLira) compared with a maximum dose of 50\u2009units of insulin degludec in Japanese individuals with type 2 diabetes in a phase 3, double\u2010blind, randomized trial": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the efficacy of IDegLira compared to insulin degludec in Japanese individuals with type 2 diabetes, building on the source paper's results regarding IDegLira's efficacy and safety.",
+                    "relevance": 1
+                },
+                "7.A randomized trial comparing the efficacy and safety of treating patients with type 2 diabetes and highly elevated HbA1c levels with basal\u2010bolus insulin or a glucagon\u2010like peptide\u20101 receptor agonist plus basal insulin: The SIMPLE study": {
+                    "explanation": "The hypothesis in this paper is not directly related to the source paper, as it investigates the efficacy and safety of different treatment regimens in patients with type 2 diabetes, without referencing IDegLira or the source paper's findings.",
+                    "relevance": 0
+                },
+                "8.IDegLira improves patient\u2010reported outcomes while using a simple regimen with fewer injections and dose adjustments compared with basal\u2013bolus therapy": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the benefits of IDegLira in terms of patient-reported outcomes and treatment regimen simplicity, using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "9.Superior efficacy with a fixed\u2010ratio combination of insulin degludec and liraglutide (IDegLira) compared with insulin degludec and liraglutide in insulin\u2010na\u00efve Japanese patients with type 2 diabetes in a phase 3, open\u2010label, randomized trial": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the efficacy of IDegLira compared to its individual components in Japanese patients with type 2 diabetes, building on the source paper's results regarding IDegLira's efficacy and safety.",
+                    "relevance": 1
+                },
+                "10.Long\u2010term efficacy and safety of combined insulin and glucagon\u2010like peptide\u20101 therapy: Evidence from the LEADER trial": {
+                    "explanation": "The hypothesis in this paper is not directly related to the source paper, as it investigates the long-term efficacy and safety of combined insulin and GLP-1 therapy, without referencing IDegLira or the source paper's findings.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1.Benefits of insulin degludec/liraglutide are maintained even in patients discontinuing sulphonylureas or dipeptidyl peptidase\u20104 inhibitors upon initiation of degludec/liraglutide therapy: A post hoc analysis of the DUAL II and DUAL IX trials": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the benefits of IDegLira in specific patient populations, using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "2.Insulin degludec/liraglutide (IDegLira) maintains glycaemic control and improves clinical outcomes, regardless of pre\u2010trial insulin dose, in people with type 2 diabetes that is uncontrolled on basal insulin": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the efficacy of IDegLira in patients with type 2 diabetes, using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "3.IDegLira improves patient\u2010reported outcomes while using a simple regimen with fewer injections and dose adjustments compared with basal\u2013bolus therapy": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the benefits of IDegLira in terms of patient-reported outcomes and treatment regimen simplicity, using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2019,
+        "source_paper": {
+            "paperId": "2f4aa05d880ec5c8d2f797f8354afa737650c2c7",
+            "title": "Efficacy and Safety of IDegLira Versus Basal-Bolus Insulin Therapy in Patients With Type 2 Diabetes Uncontrolled on Metformin and Basal Insulin: The DUAL VII Randomized Clinical Trial",
+            "abstract": "OBJECTIVE In patients with uncontrolled type 2 diabetes on basal insulin, prandial insulin may be initiated. We assessed the efficacy and safety of initiating insulin degludec/liraglutide fixed-ratio combination (IDegLira) versus basal-bolus insulin. RESEARCH DESIGN AND METHODS A phase 3b trial examined patients with uncontrolled type 2 diabetes on insulin glargine (IGlar U100) 20\u201350 units/day and metformin, randomized to IDegLira or IGlar U100 and insulin aspart \u22644 times per day. RESULTS Glycated hemoglobin (HbA1c) decreased from 8.2% (66 mmol/mol) to 6.7% (50 mmol/mol) with IDegLira and from 8.2% (67 mmol/mol) to 6.7% (50 mmol/mol) with basal-bolus (estimated treatment difference [ETD] \u22120.02% [95% CI \u22120.16, 0.12]; \u22120.2 mmol/mol [95% CI \u22121.7, 1.3]), confirming IDegLira noninferiority versus basal-bolus (P < 0.0001). The number of severe or blood glucose\u2013confirmed symptomatic hypoglycemia events was lower with IDegLira versus basal-bolus (risk ratio 0.39 [95% CI 0.29, 0.51]; rate ratio 0.11 [95% CI 0.08, 0.17]). Body weight decreased with IDegLira and increased with basal-bolus (ETD \u22123.6 kg [95% CI \u22124.2, \u22122.9]). Fasting plasma glucose reductions were similar; lunch, dinner, and bedtime self-monitored plasma glucose measurements were significantly lower with basal-bolus. Sixty-six percent of patients on IDegLira vs. 67.0% on basal-bolus achieved HbA1c <7.0% (53 mmol/mol). Total daily insulin dose was lower with IDegLira (40 units) than basal-bolus (84 units total; 52 units basal). CONCLUSIONS In patients with uncontrolled type 2 diabetes on IGlar U100 and metformin, IDegLira treatment elicited HbA1c reductions comparable to basal-bolus, with statistically superior lower hypoglycemia rates and weight loss versus weight gain.",
+            "year": 2018,
+            "citation_count": 149,
+            "relevance": 2,
+            "explanation": "This paper presents the results of a randomized clinical trial comparing IDegLira to basal-bolus insulin therapy, which builds upon the findings of the source paper. The source paper studied the safety and efficacy of IDegLira as add-on therapy for patients with type 2 diabetes uncontrolled on sulphonylurea therapy, and this paper extends those findings to patients uncontrolled on metformin and basal insulin."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Reference\u2010based sensitivity analysis for time\u2010to\u2010event data": {
+                    "explanation": "This paper has no connection with the source paper. It discusses a statistical method for time-to-event data, which is unrelated to the source paper's topic of IDegLira versus basal-bolus insulin therapy in patients with type 2 diabetes.",
+                    "relevance": 0
+                },
+                "2. Fixed\u2010ratio combination of insulin degludec and liraglutide (IDegLira) improves cardiovascular risk markers in patients with type 2 diabetes uncontrolled on basal insulin": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effects of IDegLira on cardiovascular risk markers, building on the source paper's results regarding IDegLira's efficacy and safety.",
+                    "relevance": 1
+                },
+                "3. Superior efficacy of insulin degludec/liraglutide versus insulin glargine U100 as add\u2010on to sodium\u2010glucose co\u2010transporter\u20102 inhibitor therapy: A randomized clinical trial in people with uncontrolled type 2 diabetes": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the efficacy of IDegLira as add-on to sodium-glucose co-transporter-2 inhibitor therapy, building on the source paper's results regarding IDegLira's efficacy and safety.",
+                    "relevance": 1
+                },
+                "4. Lower rates of cardiovascular events and mortality associated with liraglutide use in patients treated with basal insulin: A DEVOTE subanalysis (DEVOTE 10)": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the associations between concomitant liraglutide use and cardiovascular events and mortality, using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "5. Cost of achieving HbA1c and weight loss treatment targets with IDegLira vs insulin glargine U100 plus insulin aspart in the USA": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it evaluates the cost per patient achieving treatment targets with IDegLira versus insulin glargine U100 plus insulin aspart, building on the source paper's results regarding IDegLira's efficacy and safety.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Lower rates of cardiovascular events and mortality associated with liraglutide use in patients treated with basal insulin: A DEVOTE subanalysis (DEVOTE 10)": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the associations between concomitant liraglutide use and cardiovascular events and mortality, using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "2. Fixed\u2010ratio combination of insulin degludec and liraglutide (IDegLira) improves cardiovascular risk markers in patients with type 2 diabetes uncontrolled on basal insulin": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effects of IDegLira on cardiovascular risk markers, building on the source paper's results regarding IDegLira's efficacy and safety.",
+                    "relevance": 1
+                },
+                "3. Superior efficacy of insulin degludec/liraglutide versus insulin glargine U100 as add\u2010on to sodium\u2010glucose co\u2010transporter\u20102 inhibitor therapy: A randomized clinical trial in people with uncontrolled type 2 diabetes": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the efficacy of IDegLira as add-on to sodium-glucose co-transporter-2 inhibitor therapy, building on the source paper's results regarding IDegLira's efficacy and safety.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2020,
+        "source_paper": {
+            "paperId": "2f4aa05d880ec5c8d2f797f8354afa737650c2c7",
+            "title": "Efficacy and Safety of IDegLira Versus Basal-Bolus Insulin Therapy in Patients With Type 2 Diabetes Uncontrolled on Metformin and Basal Insulin: The DUAL VII Randomized Clinical Trial",
+            "abstract": "OBJECTIVE In patients with uncontrolled type 2 diabetes on basal insulin, prandial insulin may be initiated. We assessed the efficacy and safety of initiating insulin degludec/liraglutide fixed-ratio combination (IDegLira) versus basal-bolus insulin. RESEARCH DESIGN AND METHODS A phase 3b trial examined patients with uncontrolled type 2 diabetes on insulin glargine (IGlar U100) 20\u201350 units/day and metformin, randomized to IDegLira or IGlar U100 and insulin aspart \u22644 times per day. RESULTS Glycated hemoglobin (HbA1c) decreased from 8.2% (66 mmol/mol) to 6.7% (50 mmol/mol) with IDegLira and from 8.2% (67 mmol/mol) to 6.7% (50 mmol/mol) with basal-bolus (estimated treatment difference [ETD] \u22120.02% [95% CI \u22120.16, 0.12]; \u22120.2 mmol/mol [95% CI \u22121.7, 1.3]), confirming IDegLira noninferiority versus basal-bolus (P < 0.0001). The number of severe or blood glucose\u2013confirmed symptomatic hypoglycemia events was lower with IDegLira versus basal-bolus (risk ratio 0.39 [95% CI 0.29, 0.51]; rate ratio 0.11 [95% CI 0.08, 0.17]). Body weight decreased with IDegLira and increased with basal-bolus (ETD \u22123.6 kg [95% CI \u22124.2, \u22122.9]). Fasting plasma glucose reductions were similar; lunch, dinner, and bedtime self-monitored plasma glucose measurements were significantly lower with basal-bolus. Sixty-six percent of patients on IDegLira vs. 67.0% on basal-bolus achieved HbA1c <7.0% (53 mmol/mol). Total daily insulin dose was lower with IDegLira (40 units) than basal-bolus (84 units total; 52 units basal). CONCLUSIONS In patients with uncontrolled type 2 diabetes on IGlar U100 and metformin, IDegLira treatment elicited HbA1c reductions comparable to basal-bolus, with statistically superior lower hypoglycemia rates and weight loss versus weight gain.",
+            "year": 2018,
+            "citation_count": 149,
+            "relevance": 2,
+            "explanation": "This paper presents the results of a randomized clinical trial comparing IDegLira to basal-bolus insulin therapy, which builds upon the findings of the source paper. The source paper studied the safety and efficacy of IDegLira as add-on therapy for patients with type 2 diabetes uncontrolled on sulphonylurea therapy, and this paper extends those findings to patients uncontrolled on metformin and basal insulin."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Do GLP-1 Receptor Agonists Increase the Risk of Breast Cancer? A Systematic Review and Meta-Analysis": {
+                    "explanation": "This paper is a systematic review and meta-analysis, and it does not have a direct connection with the source paper. It is a review paper that does not present novel hypotheses or findings related to the source paper.",
+                    "relevance": 0
+                },
+                "2. Comparison of insulin degludec (IDeg)/insulin Aspart (IAsp) co\u2010formulation therapy twice\u2010daily with free combination of GLP\u20101 receptor agonist liraglutide plus insulin degludec in Tochigi: IDEAL Trial": {
+                    "explanation": "This paper is inspired by the findings of the source paper, as it compares different treatment combinations involving insulin degludec and GLP-1 receptor agonist liraglutide, which are also used in the source paper.",
+                    "relevance": 1
+                },
+                "3. The Administration of Xultophy for Diabetic Patients on Hemodialysis": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the use of Xultophy (a combination of insulin degludec and liraglutide) in a specific patient population, building on the source paper's results regarding the efficacy and safety of IDegLira.",
+                    "relevance": 2
+                },
+                "4. Various Evidence-Based Effects of Insulin Degludec/Liraglutide (Ideglira) for Type 2 Diabetes Mellitus": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the clinical application of IDegLira, which is the same combination of insulin degludec and liraglutide used in the source paper.",
+                    "relevance": 2
+                },
+                "5. IDegLira fixed-ratio combination in the real world: a retrospective observational single-center Italian experience.": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the real-world effectiveness of IDegLira, which is the same combination of insulin degludec and liraglutide used in the source paper.",
+                    "relevance": 2
+                },
+                "6. Gastrointestinal adverse events with insulin glargine/lixisenatide fixed\u2010ratio combination versus glucagon\u2010like peptide\u20101 receptor agonists in people with type 2 diabetes mellitus: A network meta\u2010analysis": {
+                    "explanation": "This paper does not have a direct connection with the source paper, as it investigates a different combination of insulin glargine and lixisenatide, and it is a network meta-analysis that does not present novel hypotheses or findings related to the source paper.",
+                    "relevance": 0
+                },
+                "7. Co-Formulations as the First Injectable in Type 2 Diabetes: A Review of Efficacy, Safety, and Implications in Clinical Practice": {
+                    "explanation": "This paper is a review paper that discusses co-formulations of insulin and GLP-1 receptor agonists, including IDegLira, but it does not present novel hypotheses or findings related to the source paper.",
+                    "relevance": 0
+                },
+                "8. Insulin glargine/lixisenatide fixed\u2010ratio combination (iGlarLixi) compared with premix or addition of meal\u2010time insulin to basal insulin in people with type 2 diabetes: A systematic review and Bayesian network meta\u2010analysis": {
+                    "explanation": "This paper does not have a direct connection with the source paper, as it investigates a different combination of insulin glargine and lixisenatide, and it is a systematic review and meta-analysis that does not present novel hypotheses or findings related to the source paper.",
+                    "relevance": 0
+                },
+                "9. An emerging new concept for the management of type 2 diabetes with a paradigm shift from the glucose-centric to beta cell-centric concept of diabetes - an Asian perspective": {
+                    "explanation": "This paper does not have a direct connection with the source paper, as it discusses a new concept for the management of type 2 diabetes, but it does not investigate IDegLira or present novel hypotheses or findings related to the source paper.",
+                    "relevance": 0
+                },
+                "10. How Effective Is the Fixed-Ratio Combination of Insulin Degludec and Liraglutide (IDegLira) in Different Patient Populations, and When Should It Be Used in Clinical Practice?": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the efficacy and safety of IDegLira in different patient populations, building on the source paper's results regarding the efficacy and safety of IDegLira.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. The Administration of Xultophy for Diabetic Patients on Hemodialysis": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the use of Xultophy (a combination of insulin degludec and liraglutide) in a specific patient population, building on the source paper's results regarding the efficacy and safety of IDegLira.",
+                    "relevance": 2
+                },
+                "2. Various Evidence-Based Effects of Insulin Degludec/Liraglutide (Ideglira) for Type 2 Diabetes Mellitus": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the clinical application of IDegLira, which is the same combination of insulin degludec and liraglutide used in the source paper.",
+                    "relevance": 2
+                },
+                "3. IDegLira fixed-ratio combination in the real world: a retrospective observational single-center Italian experience.": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the real-world effectiveness of IDegLira, which is the same combination of insulin degludec and liraglutide used in the source paper.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2020,
+        "source_paper": {
+            "paperId": "2f4aa05d880ec5c8d2f797f8354afa737650c2c7",
+            "title": "Efficacy and Safety of IDegLira Versus Basal-Bolus Insulin Therapy in Patients With Type 2 Diabetes Uncontrolled on Metformin and Basal Insulin: The DUAL VII Randomized Clinical Trial",
+            "abstract": "OBJECTIVE In patients with uncontrolled type 2 diabetes on basal insulin, prandial insulin may be initiated. We assessed the efficacy and safety of initiating insulin degludec/liraglutide fixed-ratio combination (IDegLira) versus basal-bolus insulin. RESEARCH DESIGN AND METHODS A phase 3b trial examined patients with uncontrolled type 2 diabetes on insulin glargine (IGlar U100) 20\u201350 units/day and metformin, randomized to IDegLira or IGlar U100 and insulin aspart \u22644 times per day. RESULTS Glycated hemoglobin (HbA1c) decreased from 8.2% (66 mmol/mol) to 6.7% (50 mmol/mol) with IDegLira and from 8.2% (67 mmol/mol) to 6.7% (50 mmol/mol) with basal-bolus (estimated treatment difference [ETD] \u22120.02% [95% CI \u22120.16, 0.12]; \u22120.2 mmol/mol [95% CI \u22121.7, 1.3]), confirming IDegLira noninferiority versus basal-bolus (P < 0.0001). The number of severe or blood glucose\u2013confirmed symptomatic hypoglycemia events was lower with IDegLira versus basal-bolus (risk ratio 0.39 [95% CI 0.29, 0.51]; rate ratio 0.11 [95% CI 0.08, 0.17]). Body weight decreased with IDegLira and increased with basal-bolus (ETD \u22123.6 kg [95% CI \u22124.2, \u22122.9]). Fasting plasma glucose reductions were similar; lunch, dinner, and bedtime self-monitored plasma glucose measurements were significantly lower with basal-bolus. Sixty-six percent of patients on IDegLira vs. 67.0% on basal-bolus achieved HbA1c <7.0% (53 mmol/mol). Total daily insulin dose was lower with IDegLira (40 units) than basal-bolus (84 units total; 52 units basal). CONCLUSIONS In patients with uncontrolled type 2 diabetes on IGlar U100 and metformin, IDegLira treatment elicited HbA1c reductions comparable to basal-bolus, with statistically superior lower hypoglycemia rates and weight loss versus weight gain.",
+            "year": 2018,
+            "citation_count": 149,
+            "relevance": 2,
+            "explanation": "This paper presents the results of a randomized clinical trial comparing IDegLira to basal-bolus insulin therapy, which builds upon the findings of the source paper. The source paper studied the safety and efficacy of IDegLira as add-on therapy for patients with type 2 diabetes uncontrolled on sulphonylurea therapy, and this paper extends those findings to patients uncontrolled on metformin and basal insulin."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Sensitivity analysis for clinical trials with missing continuous outcome data using controlled multiple imputation: A practical guide": {
+                    "explanation": "This paper discusses sensitivity analysis for clinical trials with missing data, which is a general topic in clinical trials and does not have a direct connection to the source paper on IDegLira versus basal-bolus insulin therapy in patients with type 2 diabetes.",
+                    "relevance": 0
+                },
+                "2. The Benefit of Insulin Degludec/Liraglutide (IDegLira) Compared With Basal-Bolus Insulin Therapy is Consistent Across Participant Subgroups With Type 2 Diabetes in the DUAL VII Randomized Trial": {
+                    "explanation": "This paper is a direct follow-up to the source paper, as it assesses the effect of IDegLira compared with basal-bolus therapy across participant subgroups in the DUAL VII trial.",
+                    "relevance": 2
+                },
+                "3. Diabetes-Related Distress and Associated Characteristics in Patients With Type 2 Diabetes in an Urban Primary Care Setting in Greece": {
+                    "explanation": "This paper discusses diabetes-related distress in patients with type 2 diabetes, which is a related topic but does not directly build upon the findings of the source paper.",
+                    "relevance": 0
+                },
+                "4. Clinical Use of IDegLira: Initiation to Titration After Basal Insulin": {
+                    "explanation": "This paper provides clinical guidance on the use of IDegLira, which is a direct application of the findings from the source paper.",
+                    "relevance": 1
+                },
+                "5. Swiss Recommendations of the Society for Endocrinology and Diabetes (SGED/SSED) for the Treatment of Type 2 Diabetes": {
+                    "explanation": "This paper presents recommendations for the treatment of type 2 diabetes, which may be informed by the findings of the source paper but does not directly build upon them.",
+                    "relevance": 0
+                },
+                "6. Biosynthetic Human Insulin and Insulin Analogs": {
+                    "explanation": "This paper provides a general overview of biosynthetic human insulins and analogs, which is a related topic but does not directly build upon the findings of the source paper.",
+                    "relevance": 0
+                },
+                "7. New era for useful add-on therapy (AOT) to diabetes by combined agents of insulin and glucagon-like peptide-1 receptor agonist (GLP-1RA)": {
+                    "explanation": "This paper discusses the use of combined agents of insulin and GLP-1RA, which includes IDegLira, and builds upon the findings of the source paper.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. The Benefit of Insulin Degludec/Liraglutide (IDegLira) Compared With Basal-Bolus Insulin Therapy is Consistent Across Participant Subgroups With Type 2 Diabetes in the DUAL VII Randomized Trial": {
+                    "explanation": "This paper is a direct follow-up to the source paper, as it assesses the effect of IDegLira compared with basal-bolus therapy across participant subgroups in the DUAL VII trial.",
+                    "relevance": 2
+                },
+                "2. Clinical Use of IDegLira: Initiation to Titration After Basal Insulin": {
+                    "explanation": "This paper provides clinical guidance on the use of IDegLira, which is a direct application of the findings from the source paper.",
+                    "relevance": 1
+                },
+                "3. New era for useful add-on therapy (AOT) to diabetes by combined agents of insulin and glucagon-like peptide-1 receptor agonist (GLP-1RA)": {
+                    "explanation": "This paper discusses the use of combined agents of insulin and GLP-1RA, which includes IDegLira, and builds upon the findings of the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2020,
+        "source_paper": {
+            "paperId": "df9d78649320c2327e8fabc3a92758cac29b82e5",
+            "title": "Lower rates of cardiovascular events and mortality associated with liraglutide use in patients treated with basal insulin: A DEVOTE subanalysis (DEVOTE 10)",
+            "abstract": "To compare the associations between concomitant liraglutide use versus no liraglutide use and the risk of major adverse cardiovascular events (MACE) and all\u2010cause mortality among patients receiving basal insulin (either insulin degludec [degludec] or insulin glargine 100 units/mL [glargine U100]) in the Trial Comparing Cardiovascular Safety of Insulin Degludec versus Insulin Glargine in Patients with Type 2 Diabetes at High Risk of Cardiovascular Events (DEVOTE).",
+            "year": 2019,
+            "citation_count": 12,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the associations between concomitant liraglutide use and cardiovascular events and mortality, using the source paper's findings as a sub-hypothesis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Co-Formulations as the First Injectable in Type 2 Diabetes: A Review of Efficacy, Safety, and Implications in Clinical Practice": {
+                    "explanation": "This paper is a review of the evidence on co-formulations in type 2 diabetes management and does not build on the hypothesis or findings of the source paper. It lacks novel hypotheses or findings and primarily summarizes existing literature.",
+                    "relevance": 0
+                },
+                "2. How Effective Is the Fixed-Ratio Combination of Insulin Degludec and Liraglutide (IDegLira) in Different Patient Populations, and When Should It Be Used in Clinical Practice?": {
+                    "explanation": "The key hypothesis in this paper is inspired by the findings of the source paper, as it explores the efficacy and safety of the fixed-ratio combination of insulin degludec and liraglutide (IDegLira) in different patient populations, which is related to the source paper's investigation of liraglutide use in patients treated with basal insulin.",
+                    "relevance": 1
+                },
+                "3. Clinical Use of IDegLira: Initiation to Titration After Basal Insulin": {
+                    "explanation": "The key hypothesis in this paper is partially dependent on the findings of the source paper, as it discusses the clinical use of IDegLira, a combination of insulin degludec and liraglutide, in patients previously receiving basal insulin, building on the source paper's results regarding liraglutide's cardiovascular benefits in patients with type 2 diabetes.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Clinical Use of IDegLira: Initiation to Titration After Basal Insulin": {
+                    "explanation": "The key hypothesis in this paper is partially dependent on the findings of the source paper, as it discusses the clinical use of IDegLira, a combination of insulin degludec and liraglutide, in patients previously receiving basal insulin, building on the source paper's results regarding liraglutide's cardiovascular benefits in patients with type 2 diabetes.",
+                    "relevance": 2
+                },
+                "2. How Effective Is the Fixed-Ratio Combination of Insulin Degludec and Liraglutide (IDegLira) in Different Patient Populations, and When Should It Be Used in Clinical Practice?": {
+                    "explanation": "The key hypothesis in this paper is inspired by the findings of the source paper, as it explores the efficacy and safety of the fixed-ratio combination of insulin degludec and liraglutide (IDegLira) in different patient populations, which is related to the source paper's investigation of liraglutide use in patients treated with basal insulin.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2021,
+        "source_paper": {
+            "paperId": "df9d78649320c2327e8fabc3a92758cac29b82e5",
+            "title": "Lower rates of cardiovascular events and mortality associated with liraglutide use in patients treated with basal insulin: A DEVOTE subanalysis (DEVOTE 10)",
+            "abstract": "To compare the associations between concomitant liraglutide use versus no liraglutide use and the risk of major adverse cardiovascular events (MACE) and all\u2010cause mortality among patients receiving basal insulin (either insulin degludec [degludec] or insulin glargine 100 units/mL [glargine U100]) in the Trial Comparing Cardiovascular Safety of Insulin Degludec versus Insulin Glargine in Patients with Type 2 Diabetes at High Risk of Cardiovascular Events (DEVOTE).",
+            "year": 2019,
+            "citation_count": 12,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the associations between concomitant liraglutide use and cardiovascular events and mortality, using the source paper's findings as a sub-hypothesis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Trends in basal insulin prescribing in older adults with chronic kidney disease in Ontario, Canada: A population\u2010based analysis from 2010 to 2020": {
+                    "explanation": "This paper explores trends in basal insulin prescribing, which is a related topic to the source paper that investigated the associations between concomitant liraglutide use and the risk of major adverse cardiovascular events in patients receiving basal insulin. However, this paper does not directly build upon or use the findings of the source paper as a sub-hypothesis, so its relevance is low.",
+                    "relevance": 1
+                },
+                "2. Dipeptidyl peptidase-4 inhibitors, glucagon-like peptide 1 receptor agonists and sodium-glucose co-transporter-2 inhibitors for people with cardiovascular disease: a network meta-analysis": {
+                    "explanation": "This paper investigates the benefits and harms of GLP-1RA, which is the same class of drugs as liraglutide, the focus of the source paper. The findings of this paper are at least partially dependent on the previous findings regarding GLP-1RA's effects, thus using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Dipeptidyl peptidase-4 inhibitors, glucagon-like peptide 1 receptor agonists and sodium-glucose co-transporter-2 inhibitors for people with cardiovascular disease: a network meta-analysis": {
+                    "explanation": "This paper investigates the benefits and harms of GLP-1RA, which is the same class of drugs as liraglutide, the focus of the source paper. The findings of this paper are at least partially dependent on the previous findings regarding GLP-1RA's effects, thus using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "2. Trends in basal insulin prescribing in older adults with chronic kidney disease in Ontario, Canada: A population\u2010based analysis from 2010 to 2020": {
+                    "explanation": "This paper explores trends in basal insulin prescribing, which is a related topic to the source paper that investigated the associations between concomitant liraglutide use and the risk of major adverse cardiovascular events in patients receiving basal insulin. However, this paper does not directly build upon or use the findings of the source paper as a sub-hypothesis, so its relevance is low.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2022,
+        "source_paper": {
+            "paperId": "53fa96ec95e25ac4f04bad29f24cd4aff4d34280",
+            "title": "Dipeptidyl peptidase-4 inhibitors, glucagon-like peptide 1 receptor agonists and sodium-glucose co-transporter-2 inhibitors for people with cardiovascular disease: a network meta-analysis.",
+            "abstract": "BACKGROUND\nCardiovascular disease (CVD) is a leading cause of death globally. Recently, dipeptidyl peptidase-4 inhibitors (DPP4i), glucagon-like peptide-1 receptor agonists (GLP-1RA) and sodium-glucose co-transporter-2 inhibitors (SGLT2i) were approved for treating people with type 2 diabetes mellitus. Although metformin remains the first-line pharmacotherapy for people with type 2 diabetes mellitus, a body of evidence has recently emerged indicating that DPP4i, GLP-1RA and SGLT2i may exert positive effects on patients with known CVD.\n\n\nOBJECTIVES\nTo systematically review the available evidence on the benefits and harms of DPP4i, GLP-1RA, and SGLT2i in people with established CVD, using network meta-analysis.\n\n\nSEARCH METHODS\nWe searched CENTRAL, MEDLINE, Embase, and the Conference Proceedings Citation Index on 16 July 2020. We also searched clinical trials registers on 22 August 2020. We did not restrict by language or publication status.\n\n\nSELECTION CRITERIA\nWe searched for randomised controlled trials (RCTs) investigating DPP4i, GLP-1RA, or SGLT2i that included participants with established CVD. Outcome measures of interest were CVD mortality, fatal and non-fatal myocardial infarction, fatal and non-fatal stroke, all-cause mortality, hospitalisation for heart failure (HF), and safety outcomes.\n\n\nDATA COLLECTION AND ANALYSIS\nThree review authors independently screened the results of searches to identify eligible studies and extracted study data. We used the GRADE approach to assess the certainty of the evidence. We conducted standard pairwise meta-analyses and network meta-analyses by pooling studies that we assessed to be of substantial homogeneity; subgroup and sensitivity analyses were also pursued to explore how study characteristics and potential effect modifiers could affect the robustness of our review findings. We analysed study data using the odds ratios (ORs) and log odds ratios (LORs) with their respective 95% confidence intervals (CIs) and credible intervals (Crls), where appropriate. We also performed narrative synthesis for included studies that were of substantial heterogeneity and that did not report quantitative data in a usable format, in order to discuss their individual findings and relevance to our review scope.\n\n\nMAIN RESULTS\nWe included 31 studies (287 records), of which we pooled data from 20 studies (129,465 participants) for our meta-analysis. The majority of the included studies were at low risk of bias, using Cochrane's tool for assessing risk of bias. Among the 20 pooled studies, six investigated DPP4i, seven studied GLP-1RA, and the remaining seven trials evaluated SGLT2i. All outcome data described below were reported at the longest follow-up duration. 1. DPP4i versus placebo Our review suggests that DPP4i do not reduce any risk of efficacy outcomes: CVD mortality (OR 1.00, 95% CI 0.91 to 1.09; high-certainty evidence), myocardial infarction (OR 0.97, 95% CI 0.88 to 1.08; high-certainty evidence), stroke (OR 1.00, 95% CI 0.87 to 1.14; high-certainty evidence), and all-cause mortality (OR 1.03, 95% CI 0.96 to 1.11; high-certainty evidence). DPP4i probably do not reduce hospitalisation for HF (OR 0.99, 95% CI 0.80 to 1.23; moderate-certainty evidence). DPP4i may not increase the likelihood of worsening renal function (OR 1.08, 95% CI 0.88 to 1.33; low-certainty evidence) and probably do not increase the risk of bone fracture (OR 1.00, 95% CI 0.83 to 1.19; moderate-certainty evidence) or hypoglycaemia (OR 1.11, 95% CI 0.95 to 1.29; moderate-certainty evidence). They are likely to increase the risk of pancreatitis (OR 1.63, 95% CI 1.12 to 2.37; moderate-certainty evidence). 2. GLP-1RA versus placebo Our findings indicate that GLP-1RA reduce the risk of CV mortality (OR 0.87, 95% CI 0.79 to 0.95; high-certainty evidence), all-cause mortality (OR 0.88, 95% CI 0.82 to 0.95; high-certainty evidence), and stroke (OR 0.87, 95% CI 0.77 to 0.98; high-certainty evidence). GLP-1RA probably do not reduce the risk of myocardial infarction (OR 0.89, 95% CI 0.78 to 1.01; moderate-certainty evidence), and hospitalisation for HF (OR 0.95, 95% CI 0.85 to 1.06; high-certainty evidence). GLP-1RA may reduce the risk of worsening renal function (OR 0.61, 95% CI 0.44 to 0.84; low-certainty evidence), but may have no impact on pancreatitis (OR 0.96, 95% CI 0.68 to 1.35; low-certainty evidence). We are uncertain about the effect of GLP-1RA on hypoglycaemia and bone fractures. 3. SGLT2i versus placebo This review shows that SGLT2i probably reduce the risk of CV mortality (OR 0.82, 95% CI 0.70 to 0.95; moderate-certainty evidence), all-cause mortality (OR 0.84, 95% CI 0.74 to 0.96; moderate-certainty evidence), and reduce the risk of HF hospitalisation (OR 0.65, 95% CI 0.59 to 0.71; high-certainty evidence); they do not reduce the risk of myocardial infarction (OR 0.97, 95% CI 0.84 to 1.12; high-certainty evidence) and probably do not reduce the risk of stroke (OR 1.12, 95% CI 0.92 to 1.36; moderate-certainty evidence). In terms of treatment safety, SGLT2i probably reduce the incidence of worsening renal function (OR 0.59, 95% CI 0.43 to 0.82; moderate-certainty evidence), and probably have no effect on hypoglycaemia (OR 0.90, 95% CI 0.75 to 1.07; moderate-certainty evidence) or bone fracture (OR 1.02, 95% CI 0.88 to 1.18; high-certainty evidence), and may have no impact on pancreatitis (OR 0.85, 95% CI 0.39 to 1.86; low-certainty evidence). 4. Network meta-analysis Because we failed to identify direct comparisons between each class of the agents, findings from our network meta-analysis provided limited novel insights. Almost all findings from our network meta-analysis agree with those from the standard meta-analysis. GLP-1RA may not reduce the risk of stroke compared with placebo (OR 0.87, 95% CrI 0.75 to 1.0; moderate-certainty evidence), which showed similar odds estimates and wider 95% Crl compared with standard pairwise meta-analysis. Indirect estimates also supported comparison across all three classes. SGLT2i was ranked the best for CVD and all-cause mortality.\n\n\nAUTHORS' CONCLUSIONS\nFindings from both standard and network meta-analyses of moderate- to high-certainty evidence suggest that GLP-1RA and SGLT2i are likely to reduce the risk of CVD mortality and all-cause mortality in people with established CVD; high-certainty evidence demonstrates that treatment with SGLT2i reduce the risk of hospitalisation for HF, while moderate-certainty evidence likely supports the use of GLP-1RA to reduce fatal and non-fatal stroke. Future studies conducted in the non-diabetic CVD population will reveal the mechanisms behind how these agents improve clinical outcomes irrespective of their glucose-lowering effects.",
+            "year": 2021,
+            "citation_count": 8,
+            "relevance": 2,
+            "explanation": "This paper investigates the benefits and harms of GLP-1RA, which is the same class of drugs as liraglutide, the focus of the source paper. The findings of this paper are at least partially dependent on the previous findings regarding GLP-1RA's effects, thus using the source paper's findings as a sub-hypothesis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Analysis of acute pancreatitis associated with SGLT-2 inhibitors and predictive factors of the death risk: Based on food and drug administration adverse event report system database": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it explores the association of SGLT-2 inhibitors with acute pancreatitis, a potential side effect mentioned in the source paper.",
+                    "relevance": 2
+                },
+                "2. Online searches for SGLT-2 inhibitors and GLP-1 receptor agonists correlate with prescription rates in the United States: An infodemiological study": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the utilization trends of cardiometabolic drugs, including SGLT-2 inhibitors and GLP-1 receptor agonists, which were found to have cardiovascular benefits in the source paper.",
+                    "relevance": 1
+                },
+                "3. The Extraglycemic Effect of SGLT-2is on Mineral and Bone Metabolism and Bone Fracture": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it explores the extraglycemic effects of SGLT-2 inhibitors on bone and mineral metabolism, which is related to the cardiovascular benefits mentioned in the source paper.",
+                    "relevance": 2
+                },
+                "4. Health Effects of Metabolic Risks in the United States From 1990 to 2019": {
+                    "explanation": "This paper has no connection with the source paper, as it investigates the burden attributable to metabolic risks in the US, which is a different topic from the cardiovascular benefits of SGLT-2 inhibitors and GLP-1 receptor agonists.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Analysis of acute pancreatitis associated with SGLT-2 inhibitors and predictive factors of the death risk: Based on food and drug administration adverse event report system database": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it explores the association of SGLT-2 inhibitors with acute pancreatitis, a potential side effect mentioned in the source paper.",
+                    "relevance": 2
+                },
+                "2. The Extraglycemic Effect of SGLT-2is on Mineral and Bone Metabolism and Bone Fracture": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it explores the extraglycemic effects of SGLT-2 inhibitors on bone and mineral metabolism, which is related to the cardiovascular benefits mentioned in the source paper.",
+                    "relevance": 2
+                },
+                "3. Online searches for SGLT-2 inhibitors and GLP-1 receptor agonists correlate with prescription rates in the United States: An infodemiological study": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the utilization trends of cardiometabolic drugs, including SGLT-2 inhibitors and GLP-1 receptor agonists, which were found to have cardiovascular benefits in the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2023,
+        "source_paper": {
+            "paperId": "53fa96ec95e25ac4f04bad29f24cd4aff4d34280",
+            "title": "Dipeptidyl peptidase-4 inhibitors, glucagon-like peptide 1 receptor agonists and sodium-glucose co-transporter-2 inhibitors for people with cardiovascular disease: a network meta-analysis.",
+            "abstract": "BACKGROUND\nCardiovascular disease (CVD) is a leading cause of death globally. Recently, dipeptidyl peptidase-4 inhibitors (DPP4i), glucagon-like peptide-1 receptor agonists (GLP-1RA) and sodium-glucose co-transporter-2 inhibitors (SGLT2i) were approved for treating people with type 2 diabetes mellitus. Although metformin remains the first-line pharmacotherapy for people with type 2 diabetes mellitus, a body of evidence has recently emerged indicating that DPP4i, GLP-1RA and SGLT2i may exert positive effects on patients with known CVD.\n\n\nOBJECTIVES\nTo systematically review the available evidence on the benefits and harms of DPP4i, GLP-1RA, and SGLT2i in people with established CVD, using network meta-analysis.\n\n\nSEARCH METHODS\nWe searched CENTRAL, MEDLINE, Embase, and the Conference Proceedings Citation Index on 16 July 2020. We also searched clinical trials registers on 22 August 2020. We did not restrict by language or publication status.\n\n\nSELECTION CRITERIA\nWe searched for randomised controlled trials (RCTs) investigating DPP4i, GLP-1RA, or SGLT2i that included participants with established CVD. Outcome measures of interest were CVD mortality, fatal and non-fatal myocardial infarction, fatal and non-fatal stroke, all-cause mortality, hospitalisation for heart failure (HF), and safety outcomes.\n\n\nDATA COLLECTION AND ANALYSIS\nThree review authors independently screened the results of searches to identify eligible studies and extracted study data. We used the GRADE approach to assess the certainty of the evidence. We conducted standard pairwise meta-analyses and network meta-analyses by pooling studies that we assessed to be of substantial homogeneity; subgroup and sensitivity analyses were also pursued to explore how study characteristics and potential effect modifiers could affect the robustness of our review findings. We analysed study data using the odds ratios (ORs) and log odds ratios (LORs) with their respective 95% confidence intervals (CIs) and credible intervals (Crls), where appropriate. We also performed narrative synthesis for included studies that were of substantial heterogeneity and that did not report quantitative data in a usable format, in order to discuss their individual findings and relevance to our review scope.\n\n\nMAIN RESULTS\nWe included 31 studies (287 records), of which we pooled data from 20 studies (129,465 participants) for our meta-analysis. The majority of the included studies were at low risk of bias, using Cochrane's tool for assessing risk of bias. Among the 20 pooled studies, six investigated DPP4i, seven studied GLP-1RA, and the remaining seven trials evaluated SGLT2i. All outcome data described below were reported at the longest follow-up duration. 1. DPP4i versus placebo Our review suggests that DPP4i do not reduce any risk of efficacy outcomes: CVD mortality (OR 1.00, 95% CI 0.91 to 1.09; high-certainty evidence), myocardial infarction (OR 0.97, 95% CI 0.88 to 1.08; high-certainty evidence), stroke (OR 1.00, 95% CI 0.87 to 1.14; high-certainty evidence), and all-cause mortality (OR 1.03, 95% CI 0.96 to 1.11; high-certainty evidence). DPP4i probably do not reduce hospitalisation for HF (OR 0.99, 95% CI 0.80 to 1.23; moderate-certainty evidence). DPP4i may not increase the likelihood of worsening renal function (OR 1.08, 95% CI 0.88 to 1.33; low-certainty evidence) and probably do not increase the risk of bone fracture (OR 1.00, 95% CI 0.83 to 1.19; moderate-certainty evidence) or hypoglycaemia (OR 1.11, 95% CI 0.95 to 1.29; moderate-certainty evidence). They are likely to increase the risk of pancreatitis (OR 1.63, 95% CI 1.12 to 2.37; moderate-certainty evidence). 2. GLP-1RA versus placebo Our findings indicate that GLP-1RA reduce the risk of CV mortality (OR 0.87, 95% CI 0.79 to 0.95; high-certainty evidence), all-cause mortality (OR 0.88, 95% CI 0.82 to 0.95; high-certainty evidence), and stroke (OR 0.87, 95% CI 0.77 to 0.98; high-certainty evidence). GLP-1RA probably do not reduce the risk of myocardial infarction (OR 0.89, 95% CI 0.78 to 1.01; moderate-certainty evidence), and hospitalisation for HF (OR 0.95, 95% CI 0.85 to 1.06; high-certainty evidence). GLP-1RA may reduce the risk of worsening renal function (OR 0.61, 95% CI 0.44 to 0.84; low-certainty evidence), but may have no impact on pancreatitis (OR 0.96, 95% CI 0.68 to 1.35; low-certainty evidence). We are uncertain about the effect of GLP-1RA on hypoglycaemia and bone fractures. 3. SGLT2i versus placebo This review shows that SGLT2i probably reduce the risk of CV mortality (OR 0.82, 95% CI 0.70 to 0.95; moderate-certainty evidence), all-cause mortality (OR 0.84, 95% CI 0.74 to 0.96; moderate-certainty evidence), and reduce the risk of HF hospitalisation (OR 0.65, 95% CI 0.59 to 0.71; high-certainty evidence); they do not reduce the risk of myocardial infarction (OR 0.97, 95% CI 0.84 to 1.12; high-certainty evidence) and probably do not reduce the risk of stroke (OR 1.12, 95% CI 0.92 to 1.36; moderate-certainty evidence). In terms of treatment safety, SGLT2i probably reduce the incidence of worsening renal function (OR 0.59, 95% CI 0.43 to 0.82; moderate-certainty evidence), and probably have no effect on hypoglycaemia (OR 0.90, 95% CI 0.75 to 1.07; moderate-certainty evidence) or bone fracture (OR 1.02, 95% CI 0.88 to 1.18; high-certainty evidence), and may have no impact on pancreatitis (OR 0.85, 95% CI 0.39 to 1.86; low-certainty evidence). 4. Network meta-analysis Because we failed to identify direct comparisons between each class of the agents, findings from our network meta-analysis provided limited novel insights. Almost all findings from our network meta-analysis agree with those from the standard meta-analysis. GLP-1RA may not reduce the risk of stroke compared with placebo (OR 0.87, 95% CrI 0.75 to 1.0; moderate-certainty evidence), which showed similar odds estimates and wider 95% Crl compared with standard pairwise meta-analysis. Indirect estimates also supported comparison across all three classes. SGLT2i was ranked the best for CVD and all-cause mortality.\n\n\nAUTHORS' CONCLUSIONS\nFindings from both standard and network meta-analyses of moderate- to high-certainty evidence suggest that GLP-1RA and SGLT2i are likely to reduce the risk of CVD mortality and all-cause mortality in people with established CVD; high-certainty evidence demonstrates that treatment with SGLT2i reduce the risk of hospitalisation for HF, while moderate-certainty evidence likely supports the use of GLP-1RA to reduce fatal and non-fatal stroke. Future studies conducted in the non-diabetic CVD population will reveal the mechanisms behind how these agents improve clinical outcomes irrespective of their glucose-lowering effects.",
+            "year": 2021,
+            "citation_count": 8,
+            "relevance": 2,
+            "explanation": "This paper investigates the benefits and harms of GLP-1RA, which is the same class of drugs as liraglutide, the focus of the source paper. The findings of this paper are at least partially dependent on the previous findings regarding GLP-1RA's effects, thus using the source paper's findings as a sub-hypothesis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Risk factors for drug-related acute pancreatitis: an analysis of the FDA adverse event reporting system (FAERS)": {
+                    "explanation": "This paper has no connection to the source paper, as it focuses on identifying risk factors for drug-related acute pancreatitis using the FDA adverse event reporting system, whereas the source paper is a network meta-analysis of the benefits and harms of DPP4i, GLP-1RA, and SGLT2i in people with established CVD.",
+                    "relevance": 0
+                },
+                "2. Role of Glucagon-Like Peptide-1 (GLP-1) Receptor Agonists in Cardiovascular Risk Management in Patients With Type 2 Diabetes Mellitus: A Systematic Review": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it explores the cardiovascular effects of GLP-1 receptor agonists in patients with type 2 diabetes mellitus, which is one of the classes of agents investigated in the source paper.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Role of Glucagon-Like Peptide-1 (GLP-1) Receptor Agonists in Cardiovascular Risk Management in Patients With Type 2 Diabetes Mellitus: A Systematic Review": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it explores the cardiovascular effects of GLP-1 receptor agonists in patients with type 2 diabetes mellitus, which is one of the classes of agents investigated in the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2023,
+        "source_paper": {
+            "paperId": "b49fe23c6c92b5f37afa3c1c10eca56c6c301b93",
+            "title": "The Extraglycemic Effect of SGLT-2is on Mineral and Bone Metabolism and Bone Fracture",
+            "abstract": "Type 2 diabetes mellitus (T2DM) is a risk factor for osteoporosis. The effects of T2DM and anti-diabetic agents on bone and mineral metabolism have been observed. Sodium\u2013glucose co-transporter 2 inhibitors (SGLT-2is) promote urinary glucose excretion, reduce blood glucose level, and improve the cardiovascular and diabetic nephropathy outcomes. In this review, we focused on the extraglycemic effect and physiological regulation of SGLT-2is on bone and mineral metabolism. SGLT-2is affect the bone turnover, microarchitecture, and bone strength indirectly. Clinical evidence of a meta-analysis showed that SGLT-2is might not increase the risk of bone fracture. The effect of SGLT-2is on bone fracture is controversial, and further investigation from a real-world study is needed. Based on its significant benefit on cardiovascular and chronic kidney disease (CKD) outcomes, SGLT-2is are an outstanding choice. Bone mineral density (BMD) and fracture risk evaluation should be considered for patients with a high risk of bone fracture.",
+            "year": 2022,
+            "citation_count": 19,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it explores the extraglycemic effects of SGLT-2 inhibitors on bone and mineral metabolism, which is related to the cardiovascular benefits mentioned in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Improved Glycaemic Control and Nephroprotective Effects of Empagliflozin and Paricalcitol Co-Therapy in Mice with Type 2 Diabetes Mellitus": {
+                    "explanation": "This paper explores the antidiabetic and nephroprotective effects of SGLT2i (empagliflozin) in combination with paricalcitol, which is partially dependent on the previous findings regarding SGLT2i's effects on bone and mineral metabolism, thus using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "2. Effect of Antidiabetic Drugs on Bone Health in Patients with Normal Renal Function and in Chronic Kidney Disease (CKD): Insight into Clinical Challenges in the Treatment of Type 2 Diabetes": {
+                    "explanation": "The paper reviews the effects of antidiabetic drugs, including SGLT2is, on bone health, which is related to the source paper's topic of the extraglycemic effect of SGLT2is on mineral and bone metabolism.",
+                    "relevance": 1
+                },
+                "3. Effect of sodium-glucose transporter 2 inhibitors on bone": {
+                    "explanation": "This paper discusses the effect of SGLT2 inhibitors on bone health, which is directly related to the source paper's topic of the extraglycemic effect of SGLT2is on mineral and bone metabolism.",
+                    "relevance": 1
+                },
+                "4. Evaluation of the Effect of Sodium\u2010Glucose Cotransporter 2 Inhibition on Fracture Risk: Evidence From Mendelian Randomization and Genetic Association Study": {
+                    "explanation": "This paper investigates the causal effect of SGLT2 inhibition on bone mineral density, osteoporosis, and fracture risk using genetics, which is related to the source paper's topic of the extraglycemic effect of SGLT2is on mineral and bone metabolism.",
+                    "relevance": 1
+                },
+                "5. SGLT-2 Inhibitors for Non-Alcoholic Fatty Liver Disease: A Review": {
+                    "explanation": "This paper reviews the potential beneficial role of SGLT2 inhibitors in the treatment of non-alcoholic fatty liver disease, which is not directly related to the source paper's topic of the extraglycemic effect of SGLT2is on mineral and bone metabolism.",
+                    "relevance": 0
+                },
+                "6. Mouse Models with SGLT2 Mutations: Toward Understanding the Role of SGLT2 beyond Glucose Reabsorption": {
+                    "explanation": "This paper discusses the role of SGLT2 in mouse models, including its potential effects on bone metabolism, which is related to the source paper's topic of the extraglycemic effect of SGLT2is on mineral and bone metabolism.",
+                    "relevance": 1
+                },
+                "7. Cardiovascular-renal protective effect and molecular mechanism of finerenone in type 2 diabetic mellitus": {
+                    "explanation": "This paper reviews the cardiovascular-renal protective effect of finerenone, a mineralocorticoid receptor antagonist, in type 2 diabetes mellitus, which is not directly related to the source paper's topic of the extraglycemic effect of SGLT2is on mineral and bone metabolism.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Improved Glycaemic Control and Nephroprotective Effects of Empagliflozin and Paricalcitol Co-Therapy in Mice with Type 2 Diabetes Mellitus": {
+                    "explanation": "This paper explores the antidiabetic and nephroprotective effects of SGLT2i (empagliflozin) in combination with paricalcitol, which is partially dependent on the previous findings regarding SGLT2i's effects on bone and mineral metabolism, thus using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "2. Effect of sodium-glucose transporter 2 inhibitors on bone": {
+                    "explanation": "This paper discusses the effect of SGLT2 inhibitors on bone health, which is directly related to the source paper's topic of the extraglycemic effect of SGLT2is on mineral and bone metabolism.",
+                    "relevance": 1
+                },
+                "3. Evaluation of the Effect of Sodium\u2010Glucose Cotransporter 2 Inhibition on Fracture Risk: Evidence From Mendelian Randomization and Genetic Association Study": {
+                    "explanation": "This paper investigates the causal effect of SGLT2 inhibition on bone mineral density, osteoporosis, and fracture risk using genetics, which is related to the source paper's topic of the extraglycemic effect of SGLT2is on mineral and bone metabolism.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2024,
+        "source_paper": {
+            "paperId": "b49fe23c6c92b5f37afa3c1c10eca56c6c301b93",
+            "title": "The Extraglycemic Effect of SGLT-2is on Mineral and Bone Metabolism and Bone Fracture",
+            "abstract": "Type 2 diabetes mellitus (T2DM) is a risk factor for osteoporosis. The effects of T2DM and anti-diabetic agents on bone and mineral metabolism have been observed. Sodium\u2013glucose co-transporter 2 inhibitors (SGLT-2is) promote urinary glucose excretion, reduce blood glucose level, and improve the cardiovascular and diabetic nephropathy outcomes. In this review, we focused on the extraglycemic effect and physiological regulation of SGLT-2is on bone and mineral metabolism. SGLT-2is affect the bone turnover, microarchitecture, and bone strength indirectly. Clinical evidence of a meta-analysis showed that SGLT-2is might not increase the risk of bone fracture. The effect of SGLT-2is on bone fracture is controversial, and further investigation from a real-world study is needed. Based on its significant benefit on cardiovascular and chronic kidney disease (CKD) outcomes, SGLT-2is are an outstanding choice. Bone mineral density (BMD) and fracture risk evaluation should be considered for patients with a high risk of bone fracture.",
+            "year": 2022,
+            "citation_count": 19,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it explores the extraglycemic effects of SGLT-2 inhibitors on bone and mineral metabolism, which is related to the cardiovascular benefits mentioned in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Enhanced hepatoprotective effects of empagliflozin and vitamin D dual therapy against metabolic dysfunction-associated steatohepatitis in mice by boosted modulation of metabolic, oxidative stress, and inflammatory pathways.": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the effects of SGLT2 inhibitors (SGLT2i) on metabolic dysfunction-associated steatohepatitis, building on the source paper's discussion of the extraglycemic effects of SGLT2i on mineral and bone metabolism.",
+                    "relevance": 2
+                },
+                "2. Impact of Sodium Glucose Cotransporter 2 Inhibitors (SGLT2i) Therapy on Dementia and Cognitive Decline": {
+                    "explanation": "This paper is a review paper that discusses the potential neuroprotective effects of SGLT2i, which is not directly related to the source paper's focus on the extraglycemic effects of SGLT2i on mineral and bone metabolism. However, it does explore a new angle of SGLT2i's effects, making it partially dependent on the source paper's findings.",
+                    "relevance": 1
+                },
+                "3. SGLT2i improves kidney senescence by down\u2010regulating the expression of LTBP2 in SAMP8 mice": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the effects of SGLT2 inhibitors (SGLT2i) on kidney senescence, building on the source paper's discussion of the extraglycemic effects of SGLT2i on mineral and bone metabolism.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Enhanced hepatoprotective effects of empagliflozin and vitamin D dual therapy against metabolic dysfunction-associated steatohepatitis in mice by boosted modulation of metabolic, oxidative stress, and inflammatory pathways.": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the effects of SGLT2 inhibitors (SGLT2i) on metabolic dysfunction-associated steatohepatitis, building on the source paper's discussion of the extraglycemic effects of SGLT2i on mineral and bone metabolism.",
+                    "relevance": 2
+                },
+                "2. SGLT2i improves kidney senescence by down\u2010regulating the expression of LTBP2 in SAMP8 mice": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the effects of SGLT2 inhibitors (SGLT2i) on kidney senescence, building on the source paper's discussion of the extraglycemic effects of SGLT2i on mineral and bone metabolism.",
+                    "relevance": 2
+                },
+                "3. Impact of Sodium Glucose Cotransporter 2 Inhibitors (SGLT2i) Therapy on Dementia and Cognitive Decline": {
+                    "explanation": "This paper is a review paper that discusses the potential neuroprotective effects of SGLT2i, which is not directly related to the source paper's focus on the extraglycemic effects of SGLT2i on mineral and bone metabolism. However, it does explore a new angle of SGLT2i's effects, making it partially dependent on the source paper's findings.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2024,
+        "source_paper": {
+            "paperId": "47ce1bb92580c63bfacef7d956b34ec9c1301e0b",
+            "title": "Improved Glycaemic Control and Nephroprotective Effects of Empagliflozin and Paricalcitol Co-Therapy in Mice with Type 2 Diabetes Mellitus",
+            "abstract": "Herein, we measured the antidiabetic and nephroprotective effects of the sodium\u2013glucose cotransporter-2 inhibitor (empagliflozin; SGLT2i) and synthetic active vitamin D (paricalcitol; Pcal) mono- and co-therapy against diabetic nephropathy (DN). Fifty mice were assigned into negative (NC) and positive (PC) control, SGLT2i, Pcal, and SGLT2i+Pcal groups. Following establishment of DN, SGLT2i (5.1 mg/kg/day) and/or Pcal (0.5 \u00b5g/kg/day) were used in the designated groups (5 times/week/day). DN was affirmed in the PC group by hyperglycaemia, dyslipidaemia, polyuria, proteinuria, elevated urine protein/creatinine ratio, and abnormal renal biochemical parameters. Renal SREBP-1 lipogenic molecule, adipokines (leptin/resistin), pro-oxidant (MDA/H2O2), pro-inflammatory (IL1\u03b2/IL6/TNF-\u03b1), tissue damage (iNOS/TGF-\u03b21/NGAL/KIM-1), and apoptosis (TUNEL/Caspase-3) markers also increased in the PC group. In contrast, renal lipolytic (PPAR\u03b1/PPAR\u03b3), adiponectin, antioxidant (GSH/GPx1/SOD1/CAT), and anti-inflammatory (IL10) molecules decreased in the PC group. Both monotherapies increased insulin levels and mitigated hyperglycaemia, dyslipidaemia, renal and urine biochemical profiles alongside renal lipid regulatory molecules, inflammation, and oxidative stress. While SGLT2i monotherapy showed superior effects to Pcal, their combination demonstrated enhanced remedial actions related to metabolic control alongside renal oxidative stress, inflammation, and apoptosis. In conclusion, SGLT2i was better than Pcal monotherapy against DN, and their combination revealed better nephroprotection, plausibly by enhanced glycaemic control with boosted renal antioxidative and anti-inflammatory mechanisms.",
+            "year": 2023,
+            "citation_count": 1,
+            "relevance": 2,
+            "explanation": "This paper explores the antidiabetic and nephroprotective effects of SGLT2i (empagliflozin) in combination with paricalcitol, which is partially dependent on the previous findings regarding SGLT2i's effects on bone and mineral metabolism, thus using the source paper's findings as a sub-hypothesis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Enhanced hepatoprotective effects of empagliflozin and vitamin D dual therapy against metabolic dysfunction-associated steatohepatitis in mice by boosted modulation of metabolic, oxidative stress, and inflammatory pathways.": {
+                    "explanation": "This paper explores the hepatoprotective effects of empagliflozin and vitamin D dual therapy, which is partially dependent on the findings of the source paper regarding the antidiabetic and nephroprotective effects of empagliflozin and paricalcitol co-therapy. Although the disease model has changed from diabetic nephropathy to metabolic dysfunction-associated steatohepatitis, the underlying mechanisms and the use of empagliflozin as a therapeutic agent create a connection between the two studies.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Enhanced hepatoprotective effects of empagliflozin and vitamin D dual therapy against metabolic dysfunction-associated steatohepatitis in mice by boosted modulation of metabolic, oxidative stress, and inflammatory pathways.": {
+                    "explanation": "This paper explores the hepatoprotective effects of empagliflozin and vitamin D dual therapy, which is partially dependent on the findings of the source paper regarding the antidiabetic and nephroprotective effects of empagliflozin and paricalcitol co-therapy. Although the disease model has changed from diabetic nephropathy to metabolic dysfunction-associated steatohepatitis, the underlying mechanisms and the use of empagliflozin as a therapeutic agent create a connection between the two studies.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    }
+]

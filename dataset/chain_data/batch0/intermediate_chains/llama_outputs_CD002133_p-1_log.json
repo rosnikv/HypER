@@ -1,0 +1,1367 @@
+[
+    {
+        "year": 2000,
+        "source_paper": {
+            "paperId": "6ab5812b3814a07bf0d4a42ef94e337ec3d8a178",
+            "pmid": "9834303",
+            "title": "A clinical trial comparing three antithrombotic-drug regimens after coronary-artery stenting. Stent Anticoagulation Restenosis Study Investigators.",
+            "abstract": "BACKGROUND\nAntithrombotic drugs are used after coronary-artery stenting to prevent stent thrombosis. We compared the efficacy and safety of three antithrombotic-drug regimens - aspirin alone, aspirin and warfarin, and aspirin and ticlopidine - after coronary stenting.\n\n\nMETHODS\nOf 1965 patients who underwent coronary stenting at 50 centers, 1653 (84.1 percent) met angiographic criteria for successful placement of the stent and were randomly assigned to one of three regimens: aspirin alone (557 patients), aspirin and warfarin (550 patients), or aspirin and ticlopidine (546 patients). All clinical events reflecting stent thrombosis were included in the prespecified primary end point: death, revascularization of the target lesion, angiographically evident thrombosis, or myocardial infarction within 30 days.\n\n\nRESULTS\nThe primary end point was observed in 38 patients: 20 (3.6 percent) assigned to receive aspirin alone, 15 (2.7 percent) assigned to receive aspirin and warfarin, and 3 (0.5 percent) assigned to receive aspirin and ticlopidine (P=0.001 for the comparison of all three groups). Hemorrhagic complications occurred in 10 patients (1.8 percent) who received aspirin alone, 34 (6.2 percent) who received aspirin and warfarin, and 30 (5.5 percent) who received aspirin and ticlopidine (P<0.001 for the comparison of all three groups); the incidence of vascular surgical complications was 0.4 percent (2 patients), 2.0 percent (11 patients), and 2.0 percent (11 patients), respectively (P=0.01). There were no significant differences in the incidence of neutropenia or thrombocytopenia (overall incidence, 0.3 percent) among the three treatment groups.\n\n\nCONCLUSIONS\nAs compared with aspirin alone and a combination of aspirin and warfarin, treatment with aspirin and ticlopidine resulted in a lower rate of stent thrombosis, although there were more hemorrhagic complications than with aspirin alone. After coronary stenting, aspirin and ticlopidine should be considered for the prevention of the serious complication of stent thrombosis.",
+            "year": 1999,
+            "citation_count": 620
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Hematologic dyscrasia associated with ticlopidine therapy: evidence for causality": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the hematologic dyscrasia associated with ticlopidine therapy, which was one of the treatments compared in the source paper.",
+                    "relevance": 2
+                },
+                "2. Coronary stent implantation: a panacea for the interventional cardiologist?": {
+                    "explanation": "This paper is a review of coronary stent implantation and does not directly build upon the source paper's findings. It provides an overview of the technique and its applications, but does not present new research that is directly connected to the source paper.",
+                    "relevance": 0
+                },
+                "3. Trials comparing coronary artery bypass grafting with percutaneous transluminal coronary angioplasty and primary stent implantation in patients with multivessel coronary artery disease": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it compares different revascularization strategies, including stenting, which was investigated in the source paper.",
+                    "relevance": 1
+                },
+                "4. Revascularization interventions for ischemic heart disease": {
+                    "explanation": "This paper is a review of revascularization interventions and does not directly build upon the source paper's findings. It provides an overview of the different techniques and their applications, but does not present new research that is directly connected to the source paper.",
+                    "relevance": 0
+                },
+                "5. Immediate stent implantation versus conventional techniques for the treatment of abrupt vessel closure or symptomatic dissections after coronary balloon angioplasty": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the use of stenting in a specific clinical scenario, which was also investigated in the source paper.",
+                    "relevance": 2
+                },
+                "6. Aspirin in the Treatment and Prevention of Cardiovascular Disease": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the use of aspirin in the prevention of cardiovascular disease, which was one of the treatments compared in the source paper.",
+                    "relevance": 1
+                },
+                "7. Current Knowledge of the Platelet Glycoprotein IIb/IIIa Receptor Antagonists for the Treatment of Coronary Artery Disease": {
+                    "explanation": "This paper is a review of platelet glycoprotein IIb/IIIa receptor antagonists and does not directly build upon the source paper's findings. It provides an overview of the different medications and their applications, but does not present new research that is directly connected to the source paper.",
+                    "relevance": 0
+                },
+                "8. Prevention of coronary restenosis : the evolving evidence base for radiation therapy": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the prevention of coronary restenosis, which was a concern in the source paper.",
+                    "relevance": 2
+                },
+                "9. Antiplatelet agents, carotid endarterectomy, and perioperative complications": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the use of antiplatelet agents in a specific clinical scenario, which was also investigated in the source paper.",
+                    "relevance": 1
+                },
+                "10. CORONARY DISEASE Intervention in coronary artery disease": {
+                    "explanation": "This paper is a review of coronary disease interventions and does not directly build upon the source paper's findings. It provides an overview of the different techniques and their applications, but does not present new research that is directly connected to the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Hematologic dyscrasia associated with ticlopidine therapy: evidence for causality": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the hematologic dyscrasia associated with ticlopidine therapy, which was one of the treatments compared in the source paper.",
+                    "relevance": 2
+                },
+                "2. Immediate stent implantation versus conventional techniques for the treatment of abrupt vessel closure or symptomatic dissections after coronary balloon angioplasty": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the use of stenting in a specific clinical scenario, which was also investigated in the source paper.",
+                    "relevance": 2
+                },
+                "3. Prevention of coronary restenosis : the evolving evidence base for radiation therapy": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the prevention of coronary restenosis, which was a concern in the source paper.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2000,
+        "source_paper": {
+            "paperId": "6ab5812b3814a07bf0d4a42ef94e337ec3d8a178",
+            "pmid": "9834303",
+            "title": "A clinical trial comparing three antithrombotic-drug regimens after coronary-artery stenting. Stent Anticoagulation Restenosis Study Investigators.",
+            "abstract": "BACKGROUND\nAntithrombotic drugs are used after coronary-artery stenting to prevent stent thrombosis. We compared the efficacy and safety of three antithrombotic-drug regimens - aspirin alone, aspirin and warfarin, and aspirin and ticlopidine - after coronary stenting.\n\n\nMETHODS\nOf 1965 patients who underwent coronary stenting at 50 centers, 1653 (84.1 percent) met angiographic criteria for successful placement of the stent and were randomly assigned to one of three regimens: aspirin alone (557 patients), aspirin and warfarin (550 patients), or aspirin and ticlopidine (546 patients). All clinical events reflecting stent thrombosis were included in the prespecified primary end point: death, revascularization of the target lesion, angiographically evident thrombosis, or myocardial infarction within 30 days.\n\n\nRESULTS\nThe primary end point was observed in 38 patients: 20 (3.6 percent) assigned to receive aspirin alone, 15 (2.7 percent) assigned to receive aspirin and warfarin, and 3 (0.5 percent) assigned to receive aspirin and ticlopidine (P=0.001 for the comparison of all three groups). Hemorrhagic complications occurred in 10 patients (1.8 percent) who received aspirin alone, 34 (6.2 percent) who received aspirin and warfarin, and 30 (5.5 percent) who received aspirin and ticlopidine (P<0.001 for the comparison of all three groups); the incidence of vascular surgical complications was 0.4 percent (2 patients), 2.0 percent (11 patients), and 2.0 percent (11 patients), respectively (P=0.01). There were no significant differences in the incidence of neutropenia or thrombocytopenia (overall incidence, 0.3 percent) among the three treatment groups.\n\n\nCONCLUSIONS\nAs compared with aspirin alone and a combination of aspirin and warfarin, treatment with aspirin and ticlopidine resulted in a lower rate of stent thrombosis, although there were more hemorrhagic complications than with aspirin alone. After coronary stenting, aspirin and ticlopidine should be considered for the prevention of the serious complication of stent thrombosis.",
+            "year": 1999,
+            "citation_count": 620
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Management of acute coronary syndromes: acute coronary syndromes without persistent ST segment elevation; recommendations of the Task Force of the European Society of Cardiology.": {
+                    "explanation": "This paper appears to be a review or guideline document, as it provides recommendations from the European Society of Cardiology and lacks novel hypotheses or findings. It does not seem to be directly connected to the source paper, which focused on a specific clinical trial comparing antithrombotic-drug regimens after coronary-artery stenting.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2001,
+        "source_paper": {
+            "paperId": "6ab5812b3814a07bf0d4a42ef94e337ec3d8a178",
+            "pmid": "9834303",
+            "title": "A clinical trial comparing three antithrombotic-drug regimens after coronary-artery stenting. Stent Anticoagulation Restenosis Study Investigators.",
+            "abstract": "BACKGROUND\nAntithrombotic drugs are used after coronary-artery stenting to prevent stent thrombosis. We compared the efficacy and safety of three antithrombotic-drug regimens - aspirin alone, aspirin and warfarin, and aspirin and ticlopidine - after coronary stenting.\n\n\nMETHODS\nOf 1965 patients who underwent coronary stenting at 50 centers, 1653 (84.1 percent) met angiographic criteria for successful placement of the stent and were randomly assigned to one of three regimens: aspirin alone (557 patients), aspirin and warfarin (550 patients), or aspirin and ticlopidine (546 patients). All clinical events reflecting stent thrombosis were included in the prespecified primary end point: death, revascularization of the target lesion, angiographically evident thrombosis, or myocardial infarction within 30 days.\n\n\nRESULTS\nThe primary end point was observed in 38 patients: 20 (3.6 percent) assigned to receive aspirin alone, 15 (2.7 percent) assigned to receive aspirin and warfarin, and 3 (0.5 percent) assigned to receive aspirin and ticlopidine (P=0.001 for the comparison of all three groups). Hemorrhagic complications occurred in 10 patients (1.8 percent) who received aspirin alone, 34 (6.2 percent) who received aspirin and warfarin, and 30 (5.5 percent) who received aspirin and ticlopidine (P<0.001 for the comparison of all three groups); the incidence of vascular surgical complications was 0.4 percent (2 patients), 2.0 percent (11 patients), and 2.0 percent (11 patients), respectively (P=0.01). There were no significant differences in the incidence of neutropenia or thrombocytopenia (overall incidence, 0.3 percent) among the three treatment groups.\n\n\nCONCLUSIONS\nAs compared with aspirin alone and a combination of aspirin and warfarin, treatment with aspirin and ticlopidine resulted in a lower rate of stent thrombosis, although there were more hemorrhagic complications than with aspirin alone. After coronary stenting, aspirin and ticlopidine should be considered for the prevention of the serious complication of stent thrombosis.",
+            "year": 1999,
+            "citation_count": 620
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. A Comparison of Clinical Outcomes and Risks for Major Adverse Cardiac Events between the Pre- and Post-Stent Period": {
+                    "explanation": "This paper explores the comparison of clinical outcomes and risks between the pre- and post-stent period, but does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "2. Predictors of length of stay after coronary stenting": {
+                    "explanation": "This paper investigates predictors of length of stay after coronary stenting, which is related to the topic of coronary stenting in the source paper, but does not directly build upon or depend on its findings.",
+                    "relevance": 0
+                },
+                "3. Evaluation of Intravascular Stents": {
+                    "explanation": "This paper is a review of intravascular stents, which includes the types of stents and their pathologic analysis, but does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "4. Percutaneous coronary intervention: current perspective": {
+                    "explanation": "This paper provides an overview of the current perspective on percutaneous coronary intervention, including the use of stents, but does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "5. Treatment of traumatic aneurysms and arteriovenous fistulas of the skull base by using endovascular stents": {
+                    "explanation": "This paper explores the use of endovascular stents in treating traumatic aneurysms and arteriovenous fistulas, which is a different application of stents than in the source paper, but does not directly build upon or depend on its findings.",
+                    "relevance": 0
+                },
+                "6. Bench to bedside: the development of rapamycin and its application to stent restenosis": {
+                    "explanation": "This paper discusses the development of rapamycin and its application to stent restenosis, which is related to the topic of stent thrombosis in the source paper, and partially depends on the findings of the source paper.",
+                    "relevance": 2
+                },
+                "7. Multivessel coronary artery disease: current revascularization strategies": {
+                    "explanation": "This paper reviews current revascularization strategies for multivessel coronary artery disease, which includes the use of stents, but does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "8. Every piece is important to build a puzzle. What can we learn from early experiences with balloon PTCA?": {
+                    "explanation": "This paper reflects on early experiences with balloon PTCA and what can be learned from them, but does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "9. Late stent thrombosis in the absence of prior intracoronary brachytherapy": {
+                    "explanation": "This paper investigates late stent thrombosis in the absence of prior intracoronary brachytherapy, which is related to the topic of stent thrombosis in the source paper, and partially depends on the findings of the source paper.",
+                    "relevance": 2
+                },
+                "10. Platelet Function Inhibitors in the Year 2000": {
+                    "explanation": "This paper discusses platelet function inhibitors, which are relevant to the topic of antiplatelet therapy in the source paper, and is inspired by the findings of the source paper.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Bench to bedside: the development of rapamycin and its application to stent restenosis": {
+                    "explanation": "This paper discusses the development of rapamycin and its application to stent restenosis, which is related to the topic of stent thrombosis in the source paper, and partially depends on the findings of the source paper.",
+                    "relevance": 2
+                },
+                "2. Late stent thrombosis in the absence of prior intracoronary brachytherapy": {
+                    "explanation": "This paper investigates late stent thrombosis in the absence of prior intracoronary brachytherapy, which is related to the topic of stent thrombosis in the source paper, and partially depends on the findings of the source paper.",
+                    "relevance": 2
+                },
+                "3. Platelet Function Inhibitors in the Year 2000": {
+                    "explanation": "This paper discusses platelet function inhibitors, which are relevant to the topic of antiplatelet therapy in the source paper, and is inspired by the findings of the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2001,
+        "source_paper": {
+            "paperId": "6ab5812b3814a07bf0d4a42ef94e337ec3d8a178",
+            "pmid": "9834303",
+            "title": "A clinical trial comparing three antithrombotic-drug regimens after coronary-artery stenting. Stent Anticoagulation Restenosis Study Investigators.",
+            "abstract": "BACKGROUND\nAntithrombotic drugs are used after coronary-artery stenting to prevent stent thrombosis. We compared the efficacy and safety of three antithrombotic-drug regimens - aspirin alone, aspirin and warfarin, and aspirin and ticlopidine - after coronary stenting.\n\n\nMETHODS\nOf 1965 patients who underwent coronary stenting at 50 centers, 1653 (84.1 percent) met angiographic criteria for successful placement of the stent and were randomly assigned to one of three regimens: aspirin alone (557 patients), aspirin and warfarin (550 patients), or aspirin and ticlopidine (546 patients). All clinical events reflecting stent thrombosis were included in the prespecified primary end point: death, revascularization of the target lesion, angiographically evident thrombosis, or myocardial infarction within 30 days.\n\n\nRESULTS\nThe primary end point was observed in 38 patients: 20 (3.6 percent) assigned to receive aspirin alone, 15 (2.7 percent) assigned to receive aspirin and warfarin, and 3 (0.5 percent) assigned to receive aspirin and ticlopidine (P=0.001 for the comparison of all three groups). Hemorrhagic complications occurred in 10 patients (1.8 percent) who received aspirin alone, 34 (6.2 percent) who received aspirin and warfarin, and 30 (5.5 percent) who received aspirin and ticlopidine (P<0.001 for the comparison of all three groups); the incidence of vascular surgical complications was 0.4 percent (2 patients), 2.0 percent (11 patients), and 2.0 percent (11 patients), respectively (P=0.01). There were no significant differences in the incidence of neutropenia or thrombocytopenia (overall incidence, 0.3 percent) among the three treatment groups.\n\n\nCONCLUSIONS\nAs compared with aspirin alone and a combination of aspirin and warfarin, treatment with aspirin and ticlopidine resulted in a lower rate of stent thrombosis, although there were more hemorrhagic complications than with aspirin alone. After coronary stenting, aspirin and ticlopidine should be considered for the prevention of the serious complication of stent thrombosis.",
+            "year": 1999,
+            "citation_count": 620
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Preoperative interventional cardiology in noncardiac surgery: benefit or risk?": {
+                    "explanation": "This paper discusses the benefits and risks of coronary artery stenting in noncardiac surgery, but it does not directly build upon or depend on the findings of the source paper, which compared three antithrombotic-drug regimens after coronary-artery stenting.",
+                    "relevance": 0
+                },
+                "2. Coronary stenting and platelet glycoprotein IIb/IIIa receptor blockade in acute myocardial infarction": {
+                    "explanation": "This paper reviews the effectiveness of primary angioplasty, stenting, and platelet glycoprotein IIb/IIIa receptor blockade in patients with acute myocardial infarction. Although it discusses stenting, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "3. Superiority of Clopidogrel Versus Aspirin in Patients With Prior Cardiac Surgery": {
+                    "explanation": "This paper compares the effectiveness of clopidogrel and aspirin in patients with prior cardiac surgery. The source paper found that treatment with aspirin and ticlopidine resulted in a lower rate of stent thrombosis, and this paper builds upon that finding by comparing another antiplatelet agent, clopidogrel, to aspirin. Therefore, the hypothesis in this paper is at least partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                },
+                "4. Critical Review of the ACC/AHA Algorithm for Stratifying Cardiac Patients for Noncardiac Surgery": {
+                    "explanation": "This paper is a review of the ACC/AHA algorithm for stratifying cardiac patients for noncardiac surgery. It does not present new research or findings and does not build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Superiority of Clopidogrel Versus Aspirin in Patients With Prior Cardiac Surgery": {
+                    "explanation": "This paper compares the effectiveness of clopidogrel and aspirin in patients with prior cardiac surgery. The source paper found that treatment with aspirin and ticlopidine resulted in a lower rate of stent thrombosis, and this paper builds upon that finding by comparing another antiplatelet agent, clopidogrel, to aspirin. Therefore, the hypothesis in this paper is at least partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2002,
+        "source_paper": {
+            "paperId": "3b60ef7d2282e0b9157e3360abd0cca2c87e3e74",
+            "title": "Bench to bedside: the development of rapamycin and its application to stent restenosis.",
+            "abstract": "In response to physiological stimuli (eg, wound healing), normally quiescent smooth muscle cells (SMCs) within the vessel wall can be activated to migrate and proliferate to produce new blood vessels. In addition to this physiological response, pathological migration and proliferation within the vessel wall can occur in disease states. Examples of such disease states include tumor growth and metastasis, diabetic retinopathy, arthritis, accelerated arteriopathy after cardiac transplantation, and neointimal proliferation after balloon angioplasty (PTCA) and stent placement. An important limitation of PTCA is restenosis, which is due in large part to luminal narrowing; restenosis occurs in 20% to 40% of patients within the first few months after a successful intervention.1,2 The percentage of patients that develop early restenosis after PTCA can be reduced by stent implantation. However, stents actually increase the amount of late luminal narrowing due to intimal hyperplasia,3 and the overall rate of stent restenosis remains unacceptably high (\u224830%).\n\nNumerous pharmacological agents, including antiplatelet agents, anticoagulants, ACE inhibitors, and cytotoxic agents, have failed to adequately reduce restenosis after PTCA and stenting. Novel therapeutic approaches based on understanding the molecular mechanisms that cause intimal hyperplasia are needed to reduce the high incidence of stent restenosis. Arterial injury is associated with SMC activation and re-entry into the cell cycle. Multiple approaches to inhibiting SMC proliferation have been and are being evaluated. Gene delivery systems aimed at blocking SMC proliferation after PTCA have been tested4,5; however, the low efficiency and/or potential hazards of this approach may limit its usefulness. Radiation therapy has been evaluated in numerous studies and has shown considerable promise as a nonpharmacological, antiproliferative approach for the reduction of restenosis. However, significant side effects, including late stent thrombosis, may also limit its usefulness.6\u20138 The unusually late stent thrombosis seen in the patients treated with \u2026",
+            "year": 2001,
+            "citation_count": 481,
+            "relevance": 2,
+            "explanation": "This paper discusses the development of rapamycin and its application to stent restenosis, which is related to the topic of stent thrombosis in the source paper, and partially depends on the findings of the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Systemic drug therapy for restenosis: \"d\u00e9j\u00e0 vu all over again\"": {
+                    "explanation": "This paper is a review paper discussing the current state of restenosis treatment and mentioning the development of drug-eluting stents, but it does not build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "2. Angiographic Findings of the Multicenter Randomized Study With the Sirolimus-Eluting Bx Velocity Balloon-Expandable Stent (RAVEL): Sirolimus-Eluting Stents Inhibit Restenosis Irrespective of the Vessel Size": {
+                    "explanation": "This paper investigates the effectiveness of sirolimus-eluting stents in preventing restenosis, which is partially dependent on the findings of the source paper regarding the use of rapamycin in stent restenosis.",
+                    "relevance": 2
+                },
+                "3. The Long-Term Clinical Effects of Heparin-Coated Coronary Stent": {
+                    "explanation": "This paper explores the use of heparin-coated stents, which is not directly related to the source paper's findings on rapamycin and its application to stent restenosis.",
+                    "relevance": 0
+                },
+                "4. Intravascular Ultrasound Findings in the Multicenter, Randomized, Double-Blind RAVEL (RAndomized study with the sirolimus-eluting VElocity balloon-expandable stent in the treatment of patients with de novo native coronary artery Lesions) Trial": {
+                    "explanation": "This paper presents findings from the RAVEL trial, which is closely related to the source paper's discussion of sirolimus-eluting stents and their effectiveness in preventing restenosis.",
+                    "relevance": 2
+                },
+                "5. A randomized comparison of a sirolimus-eluting stent with a standard stent for coronary revascularization": {
+                    "explanation": "This paper compares the effectiveness of sirolimus-eluting stents with standard stents, building upon the findings of the source paper regarding the use of rapamycin in stent restenosis.",
+                    "relevance": 2
+                },
+                "6. Oral hypoglycemic agents and the pregnant diabetic: \"from bench to bedside\"": {
+                    "explanation": "This paper is unrelated to the source paper's topic of stent restenosis and rapamycin.",
+                    "relevance": 0
+                },
+                "7. Hemodialysis vascular access dysfunction from basic biology to clinical intervention": {
+                    "explanation": "This paper discusses hemodialysis vascular access dysfunction, which is not directly related to the source paper's findings on rapamycin and its application to stent restenosis.",
+                    "relevance": 0
+                },
+                "8. Coronary angiography using 4 French catheters with power injection: a randomized comparison with 6 French catheters": {
+                    "explanation": "This paper explores the use of 4 French catheters in coronary angiography, which is not related to the source paper's topic of stent restenosis and rapamycin.",
+                    "relevance": 0
+                },
+                "9. Takayasu's arteritis revisited": {
+                    "explanation": "This paper discusses Takayasu's arteritis, which is not directly related to the source paper's findings on rapamycin and its application to stent restenosis.",
+                    "relevance": 0
+                },
+                "10. Coating stents with antirestenotic drugs: the blunderbuss or the magic bullet?": {
+                    "explanation": "This paper discusses the use of antirestenotic drugs in stent coating, which is partially dependent on the findings of the source paper regarding the use of rapamycin in stent restenosis.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Angiographic Findings of the Multicenter Randomized Study With the Sirolimus-Eluting Bx Velocity Balloon-Expandable Stent (RAVEL): Sirolimus-Eluting Stents Inhibit Restenosis Irrespective of the Vessel Size": {
+                    "explanation": "This paper investigates the effectiveness of sirolimus-eluting stents in preventing restenosis, which is partially dependent on the findings of the source paper regarding the use of rapamycin in stent restenosis.",
+                    "relevance": 2
+                },
+                "2. Intravascular Ultrasound Findings in the Multicenter, Randomized, Double-Blind RAVEL (RAndomized study with the sirolimus-eluting VElocity balloon-expandable stent in the treatment of patients with de novo native coronary artery Lesions) Trial": {
+                    "explanation": "This paper presents findings from the RAVEL trial, which is closely related to the source paper's discussion of sirolimus-eluting stents and their effectiveness in preventing restenosis.",
+                    "relevance": 2
+                },
+                "3. A randomized comparison of a sirolimus-eluting stent with a standard stent for coronary revascularization": {
+                    "explanation": "This paper compares the effectiveness of sirolimus-eluting stents with standard stents, building upon the findings of the source paper regarding the use of rapamycin in stent restenosis.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2002,
+        "source_paper": {
+            "paperId": "3b60ef7d2282e0b9157e3360abd0cca2c87e3e74",
+            "title": "Bench to bedside: the development of rapamycin and its application to stent restenosis.",
+            "abstract": "In response to physiological stimuli (eg, wound healing), normally quiescent smooth muscle cells (SMCs) within the vessel wall can be activated to migrate and proliferate to produce new blood vessels. In addition to this physiological response, pathological migration and proliferation within the vessel wall can occur in disease states. Examples of such disease states include tumor growth and metastasis, diabetic retinopathy, arthritis, accelerated arteriopathy after cardiac transplantation, and neointimal proliferation after balloon angioplasty (PTCA) and stent placement. An important limitation of PTCA is restenosis, which is due in large part to luminal narrowing; restenosis occurs in 20% to 40% of patients within the first few months after a successful intervention.1,2 The percentage of patients that develop early restenosis after PTCA can be reduced by stent implantation. However, stents actually increase the amount of late luminal narrowing due to intimal hyperplasia,3 and the overall rate of stent restenosis remains unacceptably high (\u224830%).\n\nNumerous pharmacological agents, including antiplatelet agents, anticoagulants, ACE inhibitors, and cytotoxic agents, have failed to adequately reduce restenosis after PTCA and stenting. Novel therapeutic approaches based on understanding the molecular mechanisms that cause intimal hyperplasia are needed to reduce the high incidence of stent restenosis. Arterial injury is associated with SMC activation and re-entry into the cell cycle. Multiple approaches to inhibiting SMC proliferation have been and are being evaluated. Gene delivery systems aimed at blocking SMC proliferation after PTCA have been tested4,5; however, the low efficiency and/or potential hazards of this approach may limit its usefulness. Radiation therapy has been evaluated in numerous studies and has shown considerable promise as a nonpharmacological, antiproliferative approach for the reduction of restenosis. However, significant side effects, including late stent thrombosis, may also limit its usefulness.6\u20138 The unusually late stent thrombosis seen in the patients treated with \u2026",
+            "year": 2001,
+            "citation_count": 481,
+            "relevance": 2,
+            "explanation": "This paper discusses the development of rapamycin and its application to stent restenosis, which is related to the topic of stent thrombosis in the source paper, and partially depends on the findings of the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Ubiquitin, proteasome, and restenosis: a brave new world for cardiovascular research.": {
+                    "explanation": "Although this paper explores a new target for the treatment of restenosis, it does not directly build upon or utilize the findings of the source paper regarding rapamycin and its application to stent restenosis. Instead, it introduces a different approach to reducing restenosis.",
+                    "relevance": 0
+                },
+                "2. Systemic Drug Therapy for Restenosis": {
+                    "explanation": "This paper does not directly build upon the source paper, but rather discusses the general problem of restenosis and various treatments, including drug-eluting stents. It does not specifically utilize or expand on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "3. A RANDOMIZED COMPARISON OF A SIROLIMUS-ELUTING STENT WITH A STANDARD STENT FOR CORONARY REVASCULARIZATION": {
+                    "explanation": "The hypothesis in this paper is directly dependent on the findings of the source paper, as it utilizes sirolimus (rapamycin) in a stent to prevent restenosis, which is a direct application of the source paper's research.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. A RANDOMIZED COMPARISON OF A SIROLIMUS-ELUTING STENT WITH A STANDARD STENT FOR CORONARY REVASCULARIZATION": {
+                    "explanation": "The hypothesis in this paper is directly dependent on the findings of the source paper, as it utilizes sirolimus (rapamycin) in a stent to prevent restenosis, which is a direct application of the source paper's research.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2003,
+        "source_paper": {
+            "paperId": "3b60ef7d2282e0b9157e3360abd0cca2c87e3e74",
+            "title": "Bench to bedside: the development of rapamycin and its application to stent restenosis.",
+            "abstract": "In response to physiological stimuli (eg, wound healing), normally quiescent smooth muscle cells (SMCs) within the vessel wall can be activated to migrate and proliferate to produce new blood vessels. In addition to this physiological response, pathological migration and proliferation within the vessel wall can occur in disease states. Examples of such disease states include tumor growth and metastasis, diabetic retinopathy, arthritis, accelerated arteriopathy after cardiac transplantation, and neointimal proliferation after balloon angioplasty (PTCA) and stent placement. An important limitation of PTCA is restenosis, which is due in large part to luminal narrowing; restenosis occurs in 20% to 40% of patients within the first few months after a successful intervention.1,2 The percentage of patients that develop early restenosis after PTCA can be reduced by stent implantation. However, stents actually increase the amount of late luminal narrowing due to intimal hyperplasia,3 and the overall rate of stent restenosis remains unacceptably high (\u224830%).\n\nNumerous pharmacological agents, including antiplatelet agents, anticoagulants, ACE inhibitors, and cytotoxic agents, have failed to adequately reduce restenosis after PTCA and stenting. Novel therapeutic approaches based on understanding the molecular mechanisms that cause intimal hyperplasia are needed to reduce the high incidence of stent restenosis. Arterial injury is associated with SMC activation and re-entry into the cell cycle. Multiple approaches to inhibiting SMC proliferation have been and are being evaluated. Gene delivery systems aimed at blocking SMC proliferation after PTCA have been tested4,5; however, the low efficiency and/or potential hazards of this approach may limit its usefulness. Radiation therapy has been evaluated in numerous studies and has shown considerable promise as a nonpharmacological, antiproliferative approach for the reduction of restenosis. However, significant side effects, including late stent thrombosis, may also limit its usefulness.6\u20138 The unusually late stent thrombosis seen in the patients treated with \u2026",
+            "year": 2001,
+            "citation_count": 481,
+            "relevance": 2,
+            "explanation": "This paper discusses the development of rapamycin and its application to stent restenosis, which is related to the topic of stent thrombosis in the source paper, and partially depends on the findings of the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Antirestenotic Effects of a Locally Delivered Caspase Inhibitor in a Balloon Injury Model": {
+                    "explanation": "This paper explores the use of a caspase inhibitor to prevent restenosis, which is a related concept to the source paper's focus on preventing stent restenosis. However, the approach and methodology are distinct, and the paper does not directly build upon the source paper's findings.",
+                    "relevance": 1
+                },
+                "2. Sirolimus-eluting stents versus standard stents in patients with stenosis in a native coronary artery": {
+                    "explanation": "This paper investigates the use of sirolimus-eluting stents, which is directly related to the source paper's discussion of rapamycin and its application to stent restenosis. The paper's findings on the efficacy of sirolimus-eluting stents in reducing restenosis are partially dependent on the source paper's findings on rapamycin.",
+                    "relevance": 2
+                },
+                "3. Use of Rapamycin Slows Progression of Cardiac Transplantation Vasculopathy": {
+                    "explanation": "This paper examines the use of rapamycin in preventing cardiac transplantation vasculopathy, which is a related concept to the source paper's focus on preventing stent restenosis. The paper's findings on the efficacy of rapamycin in slowing disease progression are partially dependent on the source paper's findings on rapamycin.",
+                    "relevance": 2
+                },
+                "4. Rapamycin for Cardiac Transplant Rejection and Vasculopathy One Stone, Two Birds?": {
+                    "explanation": "This paper is a review article that discusses the use of rapamycin in preventing cardiac transplant rejection and vasculopathy. While it mentions the source paper's findings on rapamycin, it does not present new research or findings that are directly dependent on the source paper.",
+                    "relevance": 0
+                },
+                "5. Novel sulfur-containing rapamycin analogs prepared by precursor-directed biosynthesis": {
+                    "explanation": "This paper presents new research on the synthesis of novel rapamycin analogs, but it does not directly build upon the source paper's findings or investigate the use of rapamycin in preventing stent restenosis.",
+                    "relevance": 1
+                },
+                "6. Phosphatidylinositol 3-Kinase and Calcium-Activated Transcription Pathways Are Required for VLDL-Induced Smooth Muscle Cell Proliferation": {
+                    "explanation": "This paper explores the molecular mechanisms of VLDL-induced smooth muscle cell proliferation, which is a related concept to the source paper's focus on preventing stent restenosis. However, the approach and methodology are distinct, and the paper does not directly build upon the source paper's findings.",
+                    "relevance": 1
+                },
+                "7. Pilot Trial of Oral Rapamycin for Recalcitrant Restenosis": {
+                    "explanation": "This paper investigates the use of oral rapamycin in preventing restenosis, which is directly related to the source paper's discussion of rapamycin and its application to stent restenosis. However, the paper's findings are not directly dependent on the source paper's findings, and the approach and methodology are distinct.",
+                    "relevance": 1
+                },
+                "8. Monocyte\u2010Derived CD1a+ Dendritic Cells Generated in Two Different Culture Systems: Immunophenotypic and Functional Comparison": {
+                    "explanation": "This paper presents new research on the generation and comparison of CD1a+ dendritic cells, but it does not directly build upon the source paper's findings or investigate the use of rapamycin in preventing stent restenosis.",
+                    "relevance": 0
+                },
+                "9. Mevastatin Can Cause G1 Arrest and Induce Apoptosis in Pulmonary Artery Smooth Muscle Cells Through a p27Kip1-Independent Pathway": {
+                    "explanation": "This paper explores the molecular mechanisms of mevastatin-induced G1 arrest and apoptosis in pulmonary artery smooth muscle cells, which is a related concept to the source paper's focus on preventing stent restenosis. However, the approach and methodology are distinct, and the paper does not directly build upon the source paper's findings.",
+                    "relevance": 1
+                },
+                "10. Drug-eluting stents: potential applications for peripheral arterial occlusive disease": {
+                    "explanation": "This paper is a review article that discusses the potential applications of drug-eluting stents in preventing peripheral arterial occlusive disease. While it mentions the source paper's findings on rapamycin, it does not present new research or findings that are directly dependent on the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Sirolimus-eluting stents versus standard stents in patients with stenosis in a native coronary artery": {
+                    "explanation": "This paper investigates the use of sirolimus-eluting stents, which is directly related to the source paper's discussion of rapamycin and its application to stent restenosis. The paper's findings on the efficacy of sirolimus-eluting stents in reducing restenosis are partially dependent on the source paper's findings on rapamycin.",
+                    "relevance": 2
+                },
+                "2. Use of Rapamycin Slows Progression of Cardiac Transplantation Vasculopathy": {
+                    "explanation": "This paper examines the use of rapamycin in preventing cardiac transplantation vasculopathy, which is a related concept to the source paper's focus on preventing stent restenosis. The paper's findings on the efficacy of rapamycin in slowing disease progression are partially dependent on the source paper's findings on rapamycin.",
+                    "relevance": 2
+                },
+                "3. Antirestenotic Effects of a Locally Delivered Caspase Inhibitor in a Balloon Injury Model": {
+                    "explanation": "This paper explores the use of a caspase inhibitor to prevent restenosis, which is a related concept to the source paper's focus on preventing stent restenosis. However, the approach and methodology are distinct, and the paper does not directly build upon the source paper's findings.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2003,
+        "source_paper": {
+            "paperId": "3b60ef7d2282e0b9157e3360abd0cca2c87e3e74",
+            "title": "Bench to bedside: the development of rapamycin and its application to stent restenosis.",
+            "abstract": "In response to physiological stimuli (eg, wound healing), normally quiescent smooth muscle cells (SMCs) within the vessel wall can be activated to migrate and proliferate to produce new blood vessels. In addition to this physiological response, pathological migration and proliferation within the vessel wall can occur in disease states. Examples of such disease states include tumor growth and metastasis, diabetic retinopathy, arthritis, accelerated arteriopathy after cardiac transplantation, and neointimal proliferation after balloon angioplasty (PTCA) and stent placement. An important limitation of PTCA is restenosis, which is due in large part to luminal narrowing; restenosis occurs in 20% to 40% of patients within the first few months after a successful intervention.1,2 The percentage of patients that develop early restenosis after PTCA can be reduced by stent implantation. However, stents actually increase the amount of late luminal narrowing due to intimal hyperplasia,3 and the overall rate of stent restenosis remains unacceptably high (\u224830%).\n\nNumerous pharmacological agents, including antiplatelet agents, anticoagulants, ACE inhibitors, and cytotoxic agents, have failed to adequately reduce restenosis after PTCA and stenting. Novel therapeutic approaches based on understanding the molecular mechanisms that cause intimal hyperplasia are needed to reduce the high incidence of stent restenosis. Arterial injury is associated with SMC activation and re-entry into the cell cycle. Multiple approaches to inhibiting SMC proliferation have been and are being evaluated. Gene delivery systems aimed at blocking SMC proliferation after PTCA have been tested4,5; however, the low efficiency and/or potential hazards of this approach may limit its usefulness. Radiation therapy has been evaluated in numerous studies and has shown considerable promise as a nonpharmacological, antiproliferative approach for the reduction of restenosis. However, significant side effects, including late stent thrombosis, may also limit its usefulness.6\u20138 The unusually late stent thrombosis seen in the patients treated with \u2026",
+            "year": 2001,
+            "citation_count": 481,
+            "relevance": 2,
+            "explanation": "This paper discusses the development of rapamycin and its application to stent restenosis, which is related to the topic of stent thrombosis in the source paper, and partially depends on the findings of the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Rapamycin Induces Heme Oxygenase-1 in Human Pulmonary Vascular Cells: Implications in the Antiproliferative Response to Rapamycin": {
+                    "explanation": "This paper explores the molecular mechanisms of rapamycin's antiproliferative effects, which is closely related to the source paper's discussion of rapamycin's application to stent restenosis.",
+                    "relevance": 2
+                },
+                "2. Drug eluting stents: maximising benefit and minimising cost": {
+                    "explanation": "This paper discusses the use of drug-eluting stents, which is a relevant topic to the source paper's discussion of stent restenosis, but it does not build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "3. Hemodialysis Vascular Access Dysfunction: From Pathophysiology to Novel Therapies": {
+                    "explanation": "This paper is a review paper that discusses the pathophysiology and novel therapies for hemodialysis vascular access dysfunction, which is not directly related to the source paper's topic of stent restenosis.",
+                    "relevance": 0
+                },
+                "4. The Tor Pathway Regulates Gene Expression by Linking Nutrient Sensing to Histone Acetylation": {
+                    "explanation": "This paper discusses the Tor pathway's regulation of gene expression, which is related to the source paper's mention of the Tor pathway's role in cell growth and proliferation, but it does not build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "5. Phosphatidylinositol 3-Kinase and Calcium-Activated Transcription Pathways Are": {
+                    "explanation": "This paper discusses the molecular mechanisms of atherogenicity of triglyceride-rich lipoproteins, which is not directly related to the source paper's topic of stent restenosis.",
+                    "relevance": 0
+                },
+                "6. Restenosis In Percutaneous Coronary Intervention \u2013 Is Drug-Eluting Stent the Answer?": {
+                    "explanation": "This paper discusses the use of drug-eluting stents in percutaneous coronary intervention, which is a relevant topic to the source paper's discussion of stent restenosis, and it builds upon the findings of the source paper regarding the limitations of current treatments for restenosis.",
+                    "relevance": 2
+                },
+                "7. Rapamycin-induced G1 arrest in cycling B-CLL cells is associated with reduced expression of cyclin D3, cyclin E, cyclin A, and survivin.": {
+                    "explanation": "This paper discusses the effects of rapamycin on cell cycle progression in B-CLL cells, which is related to the source paper's discussion of rapamycin's antiproliferative effects, but it does not build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Rapamycin Induces Heme Oxygenase-1 in Human Pulmonary Vascular Cells: Implications in the Antiproliferative Response to Rapamycin": {
+                    "explanation": "This paper explores the molecular mechanisms of rapamycin's antiproliferative effects, which is closely related to the source paper's discussion of rapamycin's application to stent restenosis.",
+                    "relevance": 2
+                },
+                "2. Restenosis In Percutaneous Coronary Intervention \u2013 Is Drug-Eluting Stent the Answer?": {
+                    "explanation": "This paper discusses the use of drug-eluting stents in percutaneous coronary intervention, which is a relevant topic to the source paper's discussion of stent restenosis, and it builds upon the findings of the source paper regarding the limitations of current treatments for restenosis.",
+                    "relevance": 2
+                },
+                "3. Drug eluting stents: maximising benefit and minimising cost": {
+                    "explanation": "This paper discusses the use of drug-eluting stents, which is a relevant topic to the source paper's discussion of stent restenosis, but it does not build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2013,
+        "source_paper": {
+            "paperId": "b51e6bf2f9dc38f76c55ea2caa185b11833901ee",
+            "title": "Sirolimus-eluting stents versus standard stents in patients with stenosis in a native coronary artery.",
+            "abstract": "BACKGROUND\nPreliminary reports of studies involving simple coronary lesions indicate that a sirolimus-eluting stent significantly reduces the risk of restenosis after percutaneous coronary revascularization.\n\n\nMETHODS\nWe conducted a randomized, double-blind trial comparing a sirolimus-eluting stent with a standard stent in 1058 patients at 53 centers in the United States who had a newly diagnosed lesion in a native coronary artery. The coronary disease in these patients was complex because of the frequent presence of diabetes (in 26 percent of patients), the high percentage of patients with longer lesions (mean, 14.4 mm), and small vessels (mean, 2.80 mm). The primary end point was failure of the target vessel (a composite of death from cardiac causes, myocardial infarction, and repeated percutaneous or surgical revascularization of the target vessel) within 270 days.\n\n\nRESULTS\nThe rate of failure of the target vessel was reduced from 21.0 percent with a standard stent to 8.6 percent with a sirolimus-eluting stent (P<0.001)--a reduction that was driven largely by a decrease in the frequency of the need for revascularization of the target lesion (16.6 percent in the standard-stent group vs. 4.1 percent in the sirolimus-stent group, P<0.001). The frequency of neointimal hyperplasia within the stent was also decreased in the group that received sirolimus-eluting stents, as assessed by both angiography and intravascular ultrasonography. Subgroup analyses revealed a reduction in the rates of angiographic restenosis and target-lesion revascularization in all subgroups examined.\n\n\nCONCLUSIONS\nIn this randomized clinical trial involving patients with complex coronary lesions, the use of a sirolimus-eluting stent had a consistent treatment effect, reducing the rates of restenosis and associated clinical events in all subgroups analyzed.",
+            "year": 2003,
+            "citation_count": 4433,
+            "relevance": 2,
+            "explanation": "This paper investigates the use of sirolimus-eluting stents, which is directly related to the source paper's discussion of rapamycin and its application to stent restenosis. The paper's findings on the efficacy of sirolimus-eluting stents in reducing restenosis are partially dependent on the source paper's findings on rapamycin."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Optical Coherence Tomography and Coronary Plaque Characterization": {
+                    "explanation": "This paper is not directly connected to the source paper. It discusses optical coherence tomography and coronary plaque characterization, which is not related to sirolimus-eluting stents.",
+                    "relevance": 0
+                },
+                "2. Short\u2010term safety and efficacy of the biodegradable iron stent in mini\u2010swine coronary arteries": {
+                    "explanation": "This paper explores the safety and efficacy of biodegradable iron stents, which is not directly related to sirolimus-eluting stents. However, it does touch on the topic of stents, making it somewhat relevant.",
+                    "relevance": 1
+                },
+                "3. Inhibition of Orai1-mediated Ca(2+) entry is a key mechanism of the antiproliferative action of sirolimus in human arterial smooth muscle": {
+                    "explanation": "This paper investigates the molecular mechanism of sirolimus, which is the same drug used in the source paper. It provides insight into how sirolimus works, making it relevant to the source paper.",
+                    "relevance": 2
+                },
+                "4. Long\u2010term efficacy and safety of zotarolimus\u2010eluting stent in patients with diabetes mellitus: Pooled 5\u2010year results from the ENDEAVOR III and IV trials": {
+                    "explanation": "This paper discusses the long-term efficacy and safety of zotarolimus-eluting stents, which is a different type of drug-eluting stent. While it is related to stents, it is not directly connected to sirolimus-eluting stents.",
+                    "relevance": 1
+                },
+                "5. Adventitial Nab-Rapamycin Injection Reduces Porcine Femoral Artery Luminal Stenosis Induced by Balloon Angioplasty via Inhibition of Medial Proliferation and Adventitial Inflammation": {
+                    "explanation": "This paper investigates the use of rapamycin (also known as sirolimus) in reducing luminal stenosis. It is directly related to the source paper, as it explores a different application of sirolimus.",
+                    "relevance": 2
+                },
+                "6. Long-term clinical outcomes of drug-eluting stents vs. bare-metal stents in Chinese geriatric patients": {
+                    "explanation": "This paper compares the outcomes of drug-eluting stents and bare-metal stents in geriatric patients. While it is related to stents, it is not directly connected to sirolimus-eluting stents.",
+                    "relevance": 1
+                },
+                "7. Comparison of coronary DES and BMS in octogenarians: A systematic review and meta-analysis": {
+                    "explanation": "This paper is a review of drug-eluting stents and bare-metal stents in octogenarians. It is not directly connected to sirolimus-eluting stents, and it is a review paper.",
+                    "relevance": 0
+                },
+                "8. Evidence-based cardiology in hemodialysis patients": {
+                    "explanation": "This paper discusses evidence-based cardiology in hemodialysis patients, which is not directly related to sirolimus-eluting stents.",
+                    "relevance": 0
+                },
+                "9. A randomized, controlled, multicenter trial to evaluate the safety and efficacy of Zotarolimus\u2010 vs. Paclitaxel\u2010eluting stents in de novo occlusive lesions in coronary arteries: Five\u2010year results from the ZOMAXX I trial": {
+                    "explanation": "This paper discusses the safety and efficacy of zotarolimus-eluting stents, which is a different type of drug-eluting stent. While it is related to stents, it is not directly connected to sirolimus-eluting stents.",
+                    "relevance": 1
+                },
+                "10. Long term follow\u2010up of drug eluting versus bare metal stents in the treatment of saphenous vein graft lesions": {
+                    "explanation": "This paper compares the outcomes of drug-eluting stents and bare-metal stents in the treatment of saphenous vein graft lesions. While it is related to stents, it is not directly connected to sirolimus-eluting stents.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Inhibition of Orai1-mediated Ca(2+) entry is a key mechanism of the antiproliferative action of sirolimus in human arterial smooth muscle": {
+                    "explanation": "This paper investigates the molecular mechanism of sirolimus, which is the same drug used in the source paper. It provides insight into how sirolimus works, making it relevant to the source paper.",
+                    "relevance": 2
+                },
+                "2. Adventitial Nab-Rapamycin Injection Reduces Porcine Femoral Artery Luminal Stenosis Induced by Balloon Angioplasty via Inhibition of Medial Proliferation and Adventitial Inflammation": {
+                    "explanation": "This paper investigates the use of rapamycin (also known as sirolimus) in reducing luminal stenosis. It is directly related to the source paper, as it explores a different application of sirolimus.",
+                    "relevance": 2
+                },
+                "3. Short\u2010term safety and efficacy of the biodegradable iron stent in mini\u2010swine coronary arteries": {
+                    "explanation": "This paper explores the safety and efficacy of biodegradable iron stents, which is not directly related to sirolimus-eluting stents. However, it does touch on the topic of stents, making it somewhat relevant.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2013,
+        "source_paper": {
+            "paperId": "b51e6bf2f9dc38f76c55ea2caa185b11833901ee",
+            "title": "Sirolimus-eluting stents versus standard stents in patients with stenosis in a native coronary artery.",
+            "abstract": "BACKGROUND\nPreliminary reports of studies involving simple coronary lesions indicate that a sirolimus-eluting stent significantly reduces the risk of restenosis after percutaneous coronary revascularization.\n\n\nMETHODS\nWe conducted a randomized, double-blind trial comparing a sirolimus-eluting stent with a standard stent in 1058 patients at 53 centers in the United States who had a newly diagnosed lesion in a native coronary artery. The coronary disease in these patients was complex because of the frequent presence of diabetes (in 26 percent of patients), the high percentage of patients with longer lesions (mean, 14.4 mm), and small vessels (mean, 2.80 mm). The primary end point was failure of the target vessel (a composite of death from cardiac causes, myocardial infarction, and repeated percutaneous or surgical revascularization of the target vessel) within 270 days.\n\n\nRESULTS\nThe rate of failure of the target vessel was reduced from 21.0 percent with a standard stent to 8.6 percent with a sirolimus-eluting stent (P<0.001)--a reduction that was driven largely by a decrease in the frequency of the need for revascularization of the target lesion (16.6 percent in the standard-stent group vs. 4.1 percent in the sirolimus-stent group, P<0.001). The frequency of neointimal hyperplasia within the stent was also decreased in the group that received sirolimus-eluting stents, as assessed by both angiography and intravascular ultrasonography. Subgroup analyses revealed a reduction in the rates of angiographic restenosis and target-lesion revascularization in all subgroups examined.\n\n\nCONCLUSIONS\nIn this randomized clinical trial involving patients with complex coronary lesions, the use of a sirolimus-eluting stent had a consistent treatment effect, reducing the rates of restenosis and associated clinical events in all subgroups analyzed.",
+            "year": 2003,
+            "citation_count": 4433,
+            "relevance": 2,
+            "explanation": "This paper investigates the use of sirolimus-eluting stents, which is directly related to the source paper's discussion of rapamycin and its application to stent restenosis. The paper's findings on the efficacy of sirolimus-eluting stents in reducing restenosis are partially dependent on the source paper's findings on rapamycin."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. The current status of drug-coated balloons in percutaneous coronary and peripheral interventions": {
+                    "explanation": "This paper has no direct connection to the source paper, as it discusses drug-coated balloons, a different technology from sirolimus-eluting stents. It is a review paper, summarizing existing literature and presenting future perspectives.",
+                    "relevance": 0
+                },
+                "2. Optimal treatment of recurrent restenosis lesions after drug-eluting stent implantation for in-stent restenosis lesions": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it explores the treatment of in-stent restenosis, a complication that can occur after the use of drug-eluting stents like the sirolimus-eluting stent studied in the source paper.",
+                    "relevance": 2
+                },
+                "3. Inhibition of intimal hyperplasia by local perivascular application of rapamycin and imatinib mesilate after carotid balloon injury": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the effects of rapamycin, the same drug used in the sirolimus-eluting stent, on intimal hyperplasia in a different context.",
+                    "relevance": 2
+                },
+                "4. An Evolutionary Appraisal of the Efficacy of Coronary Artery Stents relevant to the Treatment of Coronary Heart Diseases": {
+                    "explanation": "This paper has no direct connection to the source paper, as it is a review paper discussing the evolution of coronary artery stents in general, without focusing on sirolimus-eluting stents or building upon the findings of the source paper.",
+                    "relevance": 0
+                },
+                "5. In\u2010stent restenosis is inhibited in a bare metal stent implanted distal to a sirolimus\u2010eluting stent to treat a long de novo coronary lesion with small distal vessel diameter": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it explores the effects of sirolimus-eluting stents on in-stent restenosis in a specific clinical scenario.",
+                    "relevance": 2
+                },
+                "6. Bare metal stents, durable polymer drug eluting stents, and biodegradable polymer drug eluting stents for coronary artery disease: mixed treatment comparison meta-analysis": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it compares the efficacy and safety of different types of stents, including sirolimus-eluting stents, in the treatment of coronary artery disease.",
+                    "relevance": 2
+                },
+                "7. Pathologic Findings of Coronary Stents: A Comparison of Sudden Coronary Death Versus Non\u2010cardiac Death": {
+                    "explanation": "This paper has no direct connection to the source paper, as it presents a histologic study of coronary stents found at autopsy, without building upon the findings of the source paper or exploring the use of sirolimus-eluting stents.",
+                    "relevance": 0
+                },
+                "8. Five-year follow-up of drug-eluting stents implantation vs minimally invasive direct coronary artery bypass for left anterior descending artery disease: a propensity score analysis": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it compares the long-term outcomes of drug-eluting stent implantation, including sirolimus-eluting stents, with minimally invasive direct coronary artery bypass in the treatment of left anterior descending artery disease.",
+                    "relevance": 2
+                },
+                "9. Finite element analysis of balloon\u2010expandable coronary stent deployment: Influence of angioplasty balloon configuration": {
+                    "explanation": "This paper has no direct connection to the source paper, as it presents a finite element analysis of balloon-expandable coronary stent deployment, without focusing on sirolimus-eluting stents or building upon the findings of the source paper.",
+                    "relevance": 0
+                },
+                "10. Primary Stenting of Totally Occluded Native Coronary Arteries III (PRISON III): a randomised comparison of sirolimus-eluting stent implantation with zotarolimus-eluting stent implantation for the treatment of total coronary occlusions": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it compares the efficacy of sirolimus-eluting stents with zotarolimus-eluting stents in the treatment of total coronary occlusions.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Optimal treatment of recurrent restenosis lesions after drug-eluting stent implantation for in-stent restenosis lesions": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it explores the treatment of in-stent restenosis, a complication that can occur after the use of drug-eluting stents like the sirolimus-eluting stent studied in the source paper.",
+                    "relevance": 2
+                },
+                "2. Inhibition of intimal hyperplasia by local perivascular application of rapamycin and imatinib mesilate after carotid balloon injury": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the effects of rapamycin, the same drug used in the sirolimus-eluting stent, on intimal hyperplasia in a different context.",
+                    "relevance": 2
+                },
+                "3. Bare metal stents, durable polymer drug eluting stents, and biodegradable polymer drug eluting stents for coronary artery disease: mixed treatment comparison meta-analysis": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it compares the efficacy and safety of different types of stents, including sirolimus-eluting stents, in the treatment of coronary artery disease.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2013,
+        "source_paper": {
+            "paperId": "b51e6bf2f9dc38f76c55ea2caa185b11833901ee",
+            "title": "Sirolimus-eluting stents versus standard stents in patients with stenosis in a native coronary artery.",
+            "abstract": "BACKGROUND\nPreliminary reports of studies involving simple coronary lesions indicate that a sirolimus-eluting stent significantly reduces the risk of restenosis after percutaneous coronary revascularization.\n\n\nMETHODS\nWe conducted a randomized, double-blind trial comparing a sirolimus-eluting stent with a standard stent in 1058 patients at 53 centers in the United States who had a newly diagnosed lesion in a native coronary artery. The coronary disease in these patients was complex because of the frequent presence of diabetes (in 26 percent of patients), the high percentage of patients with longer lesions (mean, 14.4 mm), and small vessels (mean, 2.80 mm). The primary end point was failure of the target vessel (a composite of death from cardiac causes, myocardial infarction, and repeated percutaneous or surgical revascularization of the target vessel) within 270 days.\n\n\nRESULTS\nThe rate of failure of the target vessel was reduced from 21.0 percent with a standard stent to 8.6 percent with a sirolimus-eluting stent (P<0.001)--a reduction that was driven largely by a decrease in the frequency of the need for revascularization of the target lesion (16.6 percent in the standard-stent group vs. 4.1 percent in the sirolimus-stent group, P<0.001). The frequency of neointimal hyperplasia within the stent was also decreased in the group that received sirolimus-eluting stents, as assessed by both angiography and intravascular ultrasonography. Subgroup analyses revealed a reduction in the rates of angiographic restenosis and target-lesion revascularization in all subgroups examined.\n\n\nCONCLUSIONS\nIn this randomized clinical trial involving patients with complex coronary lesions, the use of a sirolimus-eluting stent had a consistent treatment effect, reducing the rates of restenosis and associated clinical events in all subgroups analyzed.",
+            "year": 2003,
+            "citation_count": 4433,
+            "relevance": 2,
+            "explanation": "This paper investigates the use of sirolimus-eluting stents, which is directly related to the source paper's discussion of rapamycin and its application to stent restenosis. The paper's findings on the efficacy of sirolimus-eluting stents in reducing restenosis are partially dependent on the source paper's findings on rapamycin."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Assessment of mechanical integrity for drug-eluting renal stent with micro-sized drug reservoirs": {
+                    "explanation": "This paper is not directly connected to the source paper, as it discusses a different type of stent and its application in renal indications. The source paper focuses on sirolimus-eluting stents in coronary arteries.",
+                    "relevance": 0
+                },
+                "2. FK506-binding protein 12 ligands: a patent review": {
+                    "explanation": "This paper is a review of FK506-binding protein 12 ligands and does not directly relate to the source paper, which discusses sirolimus-eluting stents in coronary arteries.",
+                    "relevance": 0
+                },
+                "3. Fabrication of a novel polymer-free nanostructured drug-eluting coating for cardiovascular stents": {
+                    "explanation": "This paper is not directly connected to the source paper, as it discusses a novel polymer-free coating for drug-eluting stents, while the source paper focuses on sirolimus-eluting stents.",
+                    "relevance": 0
+                },
+                "4. Intracranial Stenting Using a Drug-Eluting Stent for Moyamoya Disease Involving Supraclinoid Internal Carotid Artery: A Case Report": {
+                    "explanation": "This paper is a case report on the use of a drug-eluting stent in an intracranial application, which is not directly related to the source paper, which discusses sirolimus-eluting stents in coronary arteries.",
+                    "relevance": 0
+                },
+                "5. One\u2010year head to head comparison of the neointimal response between sirolimus eluting stent with reservoir technology and everolimus eluting stent": {
+                    "explanation": "This paper compares the neointimal response between sirolimus-eluting stents and everolimus-eluting stents, building on the findings of the source paper, which discusses the efficacy of sirolimus-eluting stents in reducing restenosis.",
+                    "relevance": 2
+                },
+                "6. Sirolimus Stimulates Vascular Stem/Progenitor Cell Migration and Differentiation Into Smooth Muscle Cells via Epidermal Growth Factor Receptor/Extracellular Signal\u2013Regulated Kinase/&bgr;-Catenin Signaling Pathway": {
+                    "explanation": "This paper investigates the molecular mechanisms of sirolimus-eluting stents, which is inspired by the findings of the source paper, which discusses the efficacy of sirolimus-eluting stents in reducing restenosis.",
+                    "relevance": 1
+                },
+                "7. Long-term safety of drug-eluting stents": {
+                    "explanation": "This paper is a review of the long-term safety of drug-eluting stents, which is not directly connected to the source paper, which discusses the efficacy of sirolimus-eluting stents in reducing restenosis.",
+                    "relevance": 0
+                },
+                "8. Differences in tissue characterization of restenotic neointima between sirolimus-eluting stent and bare-metal stent: integrated backscatter intravascular ultrasound analysis for in-stent restenosis": {
+                    "explanation": "This paper compares the tissue characterization of restenotic neointima between sirolimus-eluting stents and bare-metal stents, building on the findings of the source paper, which discusses the efficacy of sirolimus-eluting stents in reducing restenosis.",
+                    "relevance": 2
+                },
+                "9. Event detection using population-based health care databases in randomized clinical trials: a novel research tool in interventional cardiology": {
+                    "explanation": "This paper discusses a novel research tool in interventional cardiology, which is not directly connected to the source paper, which discusses the efficacy of sirolimus-eluting stents in reducing restenosis.",
+                    "relevance": 0
+                },
+                "10. The Association of Diabetes Mellitus with Clinical Outcomes after Coronary Stenting: A Meta-Analysis": {
+                    "explanation": "This paper is a meta-analysis of the association between diabetes mellitus and clinical outcomes after coronary stenting, which is not directly connected to the source paper, which discusses the efficacy of sirolimus-eluting stents in reducing restenosis.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. One\u2010year head to head comparison of the neointimal response between sirolimus eluting stent with reservoir technology and everolimus eluting stent": {
+                    "explanation": "This paper compares the neointimal response between sirolimus-eluting stents and everolimus-eluting stents, building on the findings of the source paper, which discusses the efficacy of sirolimus-eluting stents in reducing restenosis.",
+                    "relevance": 2
+                },
+                "2. Differences in tissue characterization of restenotic neointima between sirolimus-eluting stent and bare-metal stent: integrated backscatter intravascular ultrasound analysis for in-stent restenosis": {
+                    "explanation": "This paper compares the tissue characterization of restenotic neointima between sirolimus-eluting stents and bare-metal stents, building on the findings of the source paper, which discusses the efficacy of sirolimus-eluting stents in reducing restenosis.",
+                    "relevance": 2
+                },
+                "3. Sirolimus Stimulates Vascular Stem/Progenitor Cell Migration and Differentiation Into Smooth Muscle Cells via Epidermal Growth Factor Receptor/Extracellular Signal\u2013Regulated Kinase/&bgr;-Catenin Signaling Pathway": {
+                    "explanation": "This paper investigates the molecular mechanisms of sirolimus-eluting stents, which is inspired by the findings of the source paper, which discusses the efficacy of sirolimus-eluting stents in reducing restenosis.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2013,
+        "source_paper": {
+            "paperId": "b51e6bf2f9dc38f76c55ea2caa185b11833901ee",
+            "title": "Sirolimus-eluting stents versus standard stents in patients with stenosis in a native coronary artery.",
+            "abstract": "BACKGROUND\nPreliminary reports of studies involving simple coronary lesions indicate that a sirolimus-eluting stent significantly reduces the risk of restenosis after percutaneous coronary revascularization.\n\n\nMETHODS\nWe conducted a randomized, double-blind trial comparing a sirolimus-eluting stent with a standard stent in 1058 patients at 53 centers in the United States who had a newly diagnosed lesion in a native coronary artery. The coronary disease in these patients was complex because of the frequent presence of diabetes (in 26 percent of patients), the high percentage of patients with longer lesions (mean, 14.4 mm), and small vessels (mean, 2.80 mm). The primary end point was failure of the target vessel (a composite of death from cardiac causes, myocardial infarction, and repeated percutaneous or surgical revascularization of the target vessel) within 270 days.\n\n\nRESULTS\nThe rate of failure of the target vessel was reduced from 21.0 percent with a standard stent to 8.6 percent with a sirolimus-eluting stent (P<0.001)--a reduction that was driven largely by a decrease in the frequency of the need for revascularization of the target lesion (16.6 percent in the standard-stent group vs. 4.1 percent in the sirolimus-stent group, P<0.001). The frequency of neointimal hyperplasia within the stent was also decreased in the group that received sirolimus-eluting stents, as assessed by both angiography and intravascular ultrasonography. Subgroup analyses revealed a reduction in the rates of angiographic restenosis and target-lesion revascularization in all subgroups examined.\n\n\nCONCLUSIONS\nIn this randomized clinical trial involving patients with complex coronary lesions, the use of a sirolimus-eluting stent had a consistent treatment effect, reducing the rates of restenosis and associated clinical events in all subgroups analyzed.",
+            "year": 2003,
+            "citation_count": 4433,
+            "relevance": 2,
+            "explanation": "This paper investigates the use of sirolimus-eluting stents, which is directly related to the source paper's discussion of rapamycin and its application to stent restenosis. The paper's findings on the efficacy of sirolimus-eluting stents in reducing restenosis are partially dependent on the source paper's findings on rapamycin."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Local insulin application on the carotid artery inhibits neointima formation": {
+                    "explanation": "Although the paper explores the effect of insulin on neointima formation, which is related to restenosis, it does not directly build upon or depend on the findings of the source paper regarding sirolimus-eluting stents. Hence, the connection is weak.",
+                    "relevance": 0
+                },
+                "2. In-stent restenosis of drug-eluting stents": {
+                    "explanation": "This paper is a review of in-stent restenosis of drug-eluting stents and does not present new findings or hypotheses. It does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "3. Electrophoretic coating of amphiphilic chitosan colloids on regulating cellular behaviour": {
+                    "explanation": "This paper explores the effect of surface coating on cellular behavior, which is relevant to stent design, but it does not directly build upon or depend on the findings of the source paper regarding sirolimus-eluting stents.",
+                    "relevance": 0
+                },
+                "4. Application of rotational atherectomy in the drug-eluting stent era": {
+                    "explanation": "This paper discusses the application of rotational atherectomy in the context of drug-eluting stents, but it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "5. Processed B-type natriuretic peptide is a biomarker of postinterventional restenosis in ischemic heart disease": {
+                    "explanation": "This paper explores the role of processed B-type natriuretic peptide as a biomarker for restenosis, which is related to the topic of the source paper, but it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "6. Current treatment and outcome of coronary in-stent restenosis in Sweden: a report from the Swedish Coronary Angiography and Angioplasty Registry (SCAAR)": {
+                    "explanation": "This paper discusses the treatment and outcome of coronary in-stent restenosis, which is related to the topic of the source paper, but it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "7. Real-World Safety and Effectiveness Outcomes of a Zotarolimus-Eluting Stent: Final 3-Year Report of the RESOLUTE International Study": {
+                    "explanation": "This paper presents the results of a study on the safety and effectiveness of a zotarolimus-eluting stent, which is a different type of drug-eluting stent than the one studied in the source paper. However, the paper's findings on the performance of drug-eluting stents in real-world clinical practice are relevant to the topic of the source paper.",
+                    "relevance": 1
+                },
+                "8. First-in-human evaluation of the novel BioMime sirolimus-eluting coronary stent with bioabsorbable polymer for the treatment of single de novo lesions located in native coronary vessels - results from the meriT-1 trial": {
+                    "explanation": "This paper presents the results of a study on a novel sirolimus-eluting stent with a bioabsorbable polymer, which is a similar type of stent to the one studied in the source paper. The paper's findings on the performance of this stent in treating de novo lesions are relevant to the topic of the source paper.",
+                    "relevance": 1
+                },
+                "9. Development of Hydrophobized Alginate Hydrogels for the Vessel-Simulating Flow-Through Cell and Their Usage for Biorelevant Drug-Eluting Stent Testing": {
+                    "explanation": "This paper discusses the development of hydrophobized alginate hydrogels for testing drug-eluting stents, which is related to the topic of the source paper, but it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "10. Real polymer-free sirolimus- and probucol-eluting versus biodegradable polymer sirolimus-eluting stents for obstructive coronary artery disease: DKPLUS-Wave 1, a multicenter, randomized, prospective trial": {
+                    "explanation": "This paper presents the results of a study comparing the performance of two types of sirolimus-eluting stents, one with a biodegradable polymer and one without. The paper's findings on the performance of these stents in treating obstructive coronary artery disease are relevant to the topic of the source paper.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. First-in-human evaluation of the novel BioMime sirolimus-eluting coronary stent with bioabsorbable polymer for the treatment of single de novo lesions located in native coronary vessels - results from the meriT-1 trial": {
+                    "explanation": "This paper presents the results of a study on a novel sirolimus-eluting stent with a bioabsorbable polymer, which is a similar type of stent to the one studied in the source paper. The paper's findings on the performance of this stent in treating de novo lesions are relevant to the topic of the source paper.",
+                    "relevance": 1
+                },
+                "2. Real-World Safety and Effectiveness Outcomes of a Zotarolimus-Eluting Stent: Final 3-Year Report of the RESOLUTE International Study": {
+                    "explanation": "This paper presents the results of a study on the safety and effectiveness of a zotarolimus-eluting stent, which is a different type of drug-eluting stent than the one studied in the source paper. However, the paper's findings on the performance of drug-eluting stents in real-world clinical practice are relevant to the topic of the source paper.",
+                    "relevance": 1
+                },
+                "3. Real polymer-free sirolimus- and probucol-eluting versus biodegradable polymer sirolimus-eluting stents for obstructive coronary artery disease: DKPLUS-Wave 1, a multicenter, randomized, prospective trial": {
+                    "explanation": "This paper presents the results of a study comparing the performance of two types of sirolimus-eluting stents, one with a biodegradable polymer and one without. The paper's findings on the performance of these stents in treating obstructive coronary artery disease are relevant to the topic of the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2013,
+        "source_paper": {
+            "paperId": "b51e6bf2f9dc38f76c55ea2caa185b11833901ee",
+            "title": "Sirolimus-eluting stents versus standard stents in patients with stenosis in a native coronary artery.",
+            "abstract": "BACKGROUND\nPreliminary reports of studies involving simple coronary lesions indicate that a sirolimus-eluting stent significantly reduces the risk of restenosis after percutaneous coronary revascularization.\n\n\nMETHODS\nWe conducted a randomized, double-blind trial comparing a sirolimus-eluting stent with a standard stent in 1058 patients at 53 centers in the United States who had a newly diagnosed lesion in a native coronary artery. The coronary disease in these patients was complex because of the frequent presence of diabetes (in 26 percent of patients), the high percentage of patients with longer lesions (mean, 14.4 mm), and small vessels (mean, 2.80 mm). The primary end point was failure of the target vessel (a composite of death from cardiac causes, myocardial infarction, and repeated percutaneous or surgical revascularization of the target vessel) within 270 days.\n\n\nRESULTS\nThe rate of failure of the target vessel was reduced from 21.0 percent with a standard stent to 8.6 percent with a sirolimus-eluting stent (P<0.001)--a reduction that was driven largely by a decrease in the frequency of the need for revascularization of the target lesion (16.6 percent in the standard-stent group vs. 4.1 percent in the sirolimus-stent group, P<0.001). The frequency of neointimal hyperplasia within the stent was also decreased in the group that received sirolimus-eluting stents, as assessed by both angiography and intravascular ultrasonography. Subgroup analyses revealed a reduction in the rates of angiographic restenosis and target-lesion revascularization in all subgroups examined.\n\n\nCONCLUSIONS\nIn this randomized clinical trial involving patients with complex coronary lesions, the use of a sirolimus-eluting stent had a consistent treatment effect, reducing the rates of restenosis and associated clinical events in all subgroups analyzed.",
+            "year": 2003,
+            "citation_count": 4433,
+            "relevance": 2,
+            "explanation": "This paper investigates the use of sirolimus-eluting stents, which is directly related to the source paper's discussion of rapamycin and its application to stent restenosis. The paper's findings on the efficacy of sirolimus-eluting stents in reducing restenosis are partially dependent on the source paper's findings on rapamycin."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Six-year clinical outcomes of first-generation drug-eluting stents: a propensity-matched analysis": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the long-term outcomes of drug-eluting stents, which is related to the source paper's results regarding sirolimus-eluting stents.",
+                    "relevance": 1
+                },
+                "2. Association of baseline high-density lipoprotein levels with restenosis after coronary stenting: a meta-analysis": {
+                    "explanation": "This paper is a meta-analysis that does not build upon the source paper's hypothesis or findings. It explores a different aspect of coronary stenting.",
+                    "relevance": 0
+                },
+                "3. Patient preferences for coronary artery bypass graft surgery or percutaneous intervention in multivessel coronary artery disease": {
+                    "explanation": "This paper focuses on patient preferences and does not build upon the source paper's hypothesis or findings regarding sirolimus-eluting stents.",
+                    "relevance": 0
+                },
+                "4. Clinical outcomes following percutaneous coronary intervention with drug-eluting stents versus bare metal stents in patients on chronic hemodialysis": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it compares the outcomes of drug-eluting stents (including sirolimus-eluting stents) with bare metal stents in a specific patient population.",
+                    "relevance": 2
+                },
+                "5. Nanomedicine in diagnostics and therapy of cardiovascular diseases: beyond atherosclerotic plaque imaging": {
+                    "explanation": "This paper is a review that discusses the potential of nanomedicine in cardiovascular diseases, but it does not build upon the source paper's hypothesis or findings regarding sirolimus-eluting stents.",
+                    "relevance": 0
+                },
+                "6. Stent Evaluation with Optical Coherence Tomography": {
+                    "explanation": "This paper discusses the use of optical coherence tomography for stent evaluation, but it does not build upon the source paper's hypothesis or findings regarding sirolimus-eluting stents.",
+                    "relevance": 0
+                },
+                "7. Treatment of left anterior descending coronary artery stenosis: stent or surgery": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it compares the outcomes of drug-eluting stents with coronary artery bypass graft surgery for a specific lesion location.",
+                    "relevance": 2
+                },
+                "8. Stent thrombosis with second- versus first-generation drug-eluting stents in real-world percutaneous coronary intervention: analysis of 3806 consecutive procedures from a large-volume single-center prospective registry": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it compares the outcomes of first-generation drug-eluting stents (including sirolimus-eluting stents) with second-generation stents.",
+                    "relevance": 2
+                },
+                "9. Detailed analysis of polymer response to delivery balloon expansion of drug-eluting stents versus bare metal stents": {
+                    "explanation": "This paper discusses the polymer response to balloon expansion in drug-eluting stents, but it does not build upon the source paper's hypothesis or findings regarding sirolimus-eluting stents.",
+                    "relevance": 0
+                },
+                "10. Importance of Plaque Modification Before Coronary Artery Stenting": {
+                    "explanation": "This paper discusses the importance of plaque modification before stenting, but it does not build upon the source paper's hypothesis or findings regarding sirolimus-eluting stents.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Clinical outcomes following percutaneous coronary intervention with drug-eluting stents versus bare metal stents in patients on chronic hemodialysis": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it compares the outcomes of drug-eluting stents (including sirolimus-eluting stents) with bare metal stents in a specific patient population.",
+                    "relevance": 2
+                },
+                "2. Treatment of left anterior descending coronary artery stenosis: stent or surgery": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it compares the outcomes of drug-eluting stents with coronary artery bypass graft surgery for a specific lesion location.",
+                    "relevance": 2
+                },
+                "3. Stent thrombosis with second- versus first-generation drug-eluting stents in real-world percutaneous coronary intervention: analysis of 3806 consecutive procedures from a large-volume single-center prospective registry": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it compares the outcomes of first-generation drug-eluting stents (including sirolimus-eluting stents) with second-generation stents.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2013,
+        "source_paper": {
+            "paperId": "b51e6bf2f9dc38f76c55ea2caa185b11833901ee",
+            "title": "Sirolimus-eluting stents versus standard stents in patients with stenosis in a native coronary artery.",
+            "abstract": "BACKGROUND\nPreliminary reports of studies involving simple coronary lesions indicate that a sirolimus-eluting stent significantly reduces the risk of restenosis after percutaneous coronary revascularization.\n\n\nMETHODS\nWe conducted a randomized, double-blind trial comparing a sirolimus-eluting stent with a standard stent in 1058 patients at 53 centers in the United States who had a newly diagnosed lesion in a native coronary artery. The coronary disease in these patients was complex because of the frequent presence of diabetes (in 26 percent of patients), the high percentage of patients with longer lesions (mean, 14.4 mm), and small vessels (mean, 2.80 mm). The primary end point was failure of the target vessel (a composite of death from cardiac causes, myocardial infarction, and repeated percutaneous or surgical revascularization of the target vessel) within 270 days.\n\n\nRESULTS\nThe rate of failure of the target vessel was reduced from 21.0 percent with a standard stent to 8.6 percent with a sirolimus-eluting stent (P<0.001)--a reduction that was driven largely by a decrease in the frequency of the need for revascularization of the target lesion (16.6 percent in the standard-stent group vs. 4.1 percent in the sirolimus-stent group, P<0.001). The frequency of neointimal hyperplasia within the stent was also decreased in the group that received sirolimus-eluting stents, as assessed by both angiography and intravascular ultrasonography. Subgroup analyses revealed a reduction in the rates of angiographic restenosis and target-lesion revascularization in all subgroups examined.\n\n\nCONCLUSIONS\nIn this randomized clinical trial involving patients with complex coronary lesions, the use of a sirolimus-eluting stent had a consistent treatment effect, reducing the rates of restenosis and associated clinical events in all subgroups analyzed.",
+            "year": 2003,
+            "citation_count": 4433,
+            "relevance": 2,
+            "explanation": "This paper investigates the use of sirolimus-eluting stents, which is directly related to the source paper's discussion of rapamycin and its application to stent restenosis. The paper's findings on the efficacy of sirolimus-eluting stents in reducing restenosis are partially dependent on the source paper's findings on rapamycin."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Clinical outcomes after zotarolimus and everolimus drug eluting stent implantation in coronary artery bifurcation lesions: insights from the RESOLUTE All Comers Trial": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the clinical outcomes of different types of drug-eluting stents in a specific patient population, building on the source paper's results regarding sirolimus-eluting stents.",
+                    "relevance": 2
+                },
+                "2. Angioscopic Assessment of Early Phase Arterial Repair After Paclitaxel-Coated Nitinol Drug-Eluting Stent Implantation in the Superficial Femoral Artery": {
+                    "explanation": "This paper is not directly related to the source paper, as it focuses on a different type of stent and a different vascular location.",
+                    "relevance": 0
+                },
+                "3. Late catch-up in lumen diameter at five-year angiography in MACE-free patients treated with sirolimus-eluting stents in the Primary Stenting of Totally Occluded Native Coronary Arteries: a randomised comparison of bare metal stent implantation with sirolimus-eluting stent implantation for the treatm": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the long-term outcomes of sirolimus-eluting stents in a specific patient population, building on the source paper's results regarding sirolimus-eluting stents.",
+                    "relevance": 2
+                },
+                "4. Comparison of the Neointima Inhibition Between Paclitaxel- and Sirolimus-Eluting Expanded Polytetrafluoroethylene Hemodialysis Grafts in a Porcine Model": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the efficacy of sirolimus-eluting grafts in a different vascular location, building on the source paper's results regarding sirolimus-eluting stents.",
+                    "relevance": 1
+                },
+                "5. Minimizing complications following stent implantation: outcomes and follow-up": {
+                    "explanation": "This paper is a review paper that summarizes existing literature on stent implantation complications, and does not provide new findings or hypotheses.",
+                    "relevance": 0
+                },
+                "6. Rationale, design and baseline characteristics of a study to evaluate effects of candesartan on cardiovascular events after drug-eluting stent implantation in patients with ischemic heart disease": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the effects of a specific medication on cardiovascular events after drug-eluting stent implantation, building on the source paper's results regarding sirolimus-eluting stents.",
+                    "relevance": 1
+                },
+                "7. Outcome and Predictors of Stent Thrombosis in the First Romanian Registry of Drug Eluting Stent (RODESINO EXTENSION)": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the predictors of stent thrombosis in a real-world registry, building on the source paper's results regarding sirolimus-eluting stents.",
+                    "relevance": 1
+                },
+                "8. Early clinical outcomes of primary percutaneous coronary intervention in bharatpur, Nepal": {
+                    "explanation": "This paper is not directly related to the source paper, as it focuses on a different aspect of coronary intervention and does not investigate drug-eluting stents.",
+                    "relevance": 0
+                },
+                "9. Coronary stents: historical development, current status and future directions": {
+                    "explanation": "This paper is a review paper that summarizes existing literature on coronary stents, and does not provide new findings or hypotheses.",
+                    "relevance": 0
+                },
+                "10. Long-term clinical follow-up after drug-eluting stent implantation for bare metal in-stent restenosis": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the long-term outcomes of drug-eluting stent implantation for bare metal in-stent restenosis, building on the source paper's results regarding sirolimus-eluting stents.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Late catch-up in lumen diameter at five-year angiography in MACE-free patients treated with sirolimus-eluting stents in the Primary Stenting of Totally Occluded Native Coronary Arteries: a randomised comparison of bare metal stent implantation with sirolimus-eluting stent implantation for the treatm": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the long-term outcomes of sirolimus-eluting stents in a specific patient population, building on the source paper's results regarding sirolimus-eluting stents.",
+                    "relevance": 2
+                },
+                "2. Clinical outcomes after zotarolimus and everolimus drug eluting stent implantation in coronary artery bifurcation lesions: insights from the RESOLUTE All Comers Trial": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the clinical outcomes of different types of drug-eluting stents in a specific patient population, building on the source paper's results regarding sirolimus-eluting stents.",
+                    "relevance": 2
+                },
+                "3. Long-term clinical follow-up after drug-eluting stent implantation for bare metal in-stent restenosis": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the long-term outcomes of drug-eluting stent implantation for bare metal in-stent restenosis, building on the source paper's results regarding sirolimus-eluting stents.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2013,
+        "source_paper": {
+            "paperId": "b51e6bf2f9dc38f76c55ea2caa185b11833901ee",
+            "title": "Sirolimus-eluting stents versus standard stents in patients with stenosis in a native coronary artery.",
+            "abstract": "BACKGROUND\nPreliminary reports of studies involving simple coronary lesions indicate that a sirolimus-eluting stent significantly reduces the risk of restenosis after percutaneous coronary revascularization.\n\n\nMETHODS\nWe conducted a randomized, double-blind trial comparing a sirolimus-eluting stent with a standard stent in 1058 patients at 53 centers in the United States who had a newly diagnosed lesion in a native coronary artery. The coronary disease in these patients was complex because of the frequent presence of diabetes (in 26 percent of patients), the high percentage of patients with longer lesions (mean, 14.4 mm), and small vessels (mean, 2.80 mm). The primary end point was failure of the target vessel (a composite of death from cardiac causes, myocardial infarction, and repeated percutaneous or surgical revascularization of the target vessel) within 270 days.\n\n\nRESULTS\nThe rate of failure of the target vessel was reduced from 21.0 percent with a standard stent to 8.6 percent with a sirolimus-eluting stent (P<0.001)--a reduction that was driven largely by a decrease in the frequency of the need for revascularization of the target lesion (16.6 percent in the standard-stent group vs. 4.1 percent in the sirolimus-stent group, P<0.001). The frequency of neointimal hyperplasia within the stent was also decreased in the group that received sirolimus-eluting stents, as assessed by both angiography and intravascular ultrasonography. Subgroup analyses revealed a reduction in the rates of angiographic restenosis and target-lesion revascularization in all subgroups examined.\n\n\nCONCLUSIONS\nIn this randomized clinical trial involving patients with complex coronary lesions, the use of a sirolimus-eluting stent had a consistent treatment effect, reducing the rates of restenosis and associated clinical events in all subgroups analyzed.",
+            "year": 2003,
+            "citation_count": 4433,
+            "relevance": 2,
+            "explanation": "This paper investigates the use of sirolimus-eluting stents, which is directly related to the source paper's discussion of rapamycin and its application to stent restenosis. The paper's findings on the efficacy of sirolimus-eluting stents in reducing restenosis are partially dependent on the source paper's findings on rapamycin."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Everolimus\u2010eluting stents and zotarolimus\u2010eluting stents for percutaneous coronary interventions": {
+                    "explanation": "The hypothesis in this paper is not directly dependent on the source paper, but it explores a similar topic of drug-eluting stents, comparing everolimus-eluting stents and zotarolimus-eluting stents. The source paper's findings on sirolimus-eluting stents may have inspired this comparison.",
+                    "relevance": 1
+                },
+                "2. Clinical outcome after surgical or percutaneous revascularization in coronary bypass graft failure": {
+                    "explanation": "This paper has no connection with the source paper, as it focuses on the outcome of surgical or percutaneous revascularization in coronary bypass graft failure, which is a different topic from the source paper's focus on sirolimus-eluting stents.",
+                    "relevance": 0
+                },
+                "3. External adjustment sensitivity analysis for unmeasured confounding: an application to coronary stent outcomes, Pennsylvania 2004-2008": {
+                    "explanation": "This paper has no connection with the source paper, as it is a methodological study focused on sensitivity analysis for unmeasured confounding in coronary stent outcomes, and does not directly build upon or reference the source paper's findings.",
+                    "relevance": 0
+                },
+                "4. Xiongshao for restenosis after percutaneous coronary intervention in patients with coronary heart disease": {
+                    "explanation": "This paper has no connection with the source paper, as it is a review paper focused on the efficacy and safety of Xiongshao capsule in preventing restenosis after percutaneous coronary intervention, which is a different topic from the source paper's focus on sirolimus-eluting stents.",
+                    "relevance": 0
+                },
+                "5. Combined antiplatelet therapy: still a sweeping combination in cardiology": {
+                    "explanation": "This paper has no connection with the source paper, as it is a review paper focused on combined antiplatelet therapy, which is a different topic from the source paper's focus on sirolimus-eluting stents.",
+                    "relevance": 0
+                },
+                "6. First-in-human evaluation of a sirolimus-eluting coronary stent on an integrated delivery system: the DIRECT study": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it evaluates a new sirolimus-eluting coronary stent on an integrated delivery system, building upon the source paper's results on sirolimus-eluting stents.",
+                    "relevance": 2
+                },
+                "7. A randomised comparison of a novel abluminal groove-filled biodegradable polymer sirolimus-eluting stent with a durable polymer everolimus-eluting stent: clinical and angiographic follow-up of the TARGET I trial": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it compares a novel biodegradable polymer sirolimus-eluting stent with a durable polymer everolimus-eluting stent, building upon the source paper's results on sirolimus-eluting stents.",
+                    "relevance": 2
+                },
+                "8. Oral everolimus inhibits intimal proliferation in injured carotid artery in rats": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effect of everolimus, a derivative of sirolimus, on intimal proliferation in injured carotid arteries in rats.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. First-in-human evaluation of a sirolimus-eluting coronary stent on an integrated delivery system: the DIRECT study": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it evaluates a new sirolimus-eluting coronary stent on an integrated delivery system, building upon the source paper's results on sirolimus-eluting stents.",
+                    "relevance": 2
+                },
+                "2. A randomised comparison of a novel abluminal groove-filled biodegradable polymer sirolimus-eluting stent with a durable polymer everolimus-eluting stent: clinical and angiographic follow-up of the TARGET I trial": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it compares a novel biodegradable polymer sirolimus-eluting stent with a durable polymer everolimus-eluting stent, building upon the source paper's results on sirolimus-eluting stents.",
+                    "relevance": 2
+                },
+                "3. Oral everolimus inhibits intimal proliferation in injured carotid artery in rats": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effect of everolimus, a derivative of sirolimus, on intimal proliferation in injured carotid arteries in rats.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2014,
+        "source_paper": {
+            "paperId": "2d7d4a892d3ca3f89209fbf56bcb41e57ee2e75b",
+            "title": "Bare metal stents, durable polymer drug eluting stents, and biodegradable polymer drug eluting stents for coronary artery disease: mixed treatment comparison meta-analysis",
+            "abstract": "Objective To compare the efficacy and safety of biodegradable polymer drug eluting stents with those of bare metal stents and durable polymer drug eluting stents. Design Mixed treatment comparison meta-analysis of 258\u2009544 patient years of follow-up from randomized trials. Data sources and study selection PubMed, Embase, and Central were searched for randomized trials comparing any of the Food and Drug Administration approved durable polymer drug eluting stents (sirolimus eluting, paclitaxel eluting, cobalt chromium everolimus eluting, platinum chromium everolimus eluting, zotarolimus eluting-Endeavor, and zotarolimus eluting-Resolute) or biodegradable polymer drug eluting stents, with each other or against bare metal stents. Outcomes Long term efficacy (target vessel revascularization, target lesion revascularization) and safety (death, myocardial infarction, stent thrombosis). Landmark analysis at more than one year was evaluated to assess the potential late benefit of biodegradable polymer drug eluting stents. Results From 126 randomized trials and 258\u2009544 patient years of follow-up, for long term efficacy (target vessel revascularization), biodegradable polymer drug eluting stents were superior to paclitaxel eluting stents (rate ratio 0.66, 95% credibility interval 0.57 to 0.78) and zotarolimus eluting stent-Endeavor (0.69, 0.56 to 0.84) but not to newer generation durable polymer drug eluting stents (for example: 1.03, 0.89 to 1.21 versus cobalt chromium everolimus eluting stents). Similarly, biodegradable polymer drug eluting stents were superior to paclitaxel eluting stents (rate ratio 0.61, 0.37 to 0.89) but inferior to cobalt chromium everolimus eluting stents (2.04, 1.27 to 3.35) for long term safety (definite stent thrombosis). In the landmark analysis after one year, biodegradable polymer drug eluting stents were superior to sirolimus eluting stents for definite stent thrombosis (rate ratio 0.29, 0.10 to 0.82) but were associated with increased mortality compared with cobalt chromium everolimus eluting stents (1.52, 1.02 to 2.22). Overall, among all stent types, the newer generation durable polymer drug eluting stents (zotarolimus eluting stent-Resolute, cobalt chromium everolimus eluting stents, and platinum chromium everolimus eluting stents) were the most efficacious (lowest target vessel revascularization rate) stents, and cobalt chromium everolimus eluting stents were the safest with significant reductions in definite stent thrombosis (rate ratio 0.35, 0.21 to 0.53), myocardial infarction (0.65, 0.55 to 0.75), and death (0.72, 0.58 to 0.90) compared with bare metal stents. Conclusions Biodegradable polymer drug eluting stents are superior to first generation durable polymer drug eluting stents but not to newer generation durable polymer stents in reducing target vessel revascularization. Newer generation durable polymer stents, and especially cobalt chromium everolimus eluting stents, have the best combination of efficacy and safety. The utility of biodegradable polymer stents in the context of excellent clinical outcomes with newer generation durable polymer stents needs to be proven.",
+            "year": 2013,
+            "citation_count": 286,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it compares the efficacy and safety of different types of stents, including sirolimus-eluting stents, in the treatment of coronary artery disease."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. The everolimus-eluting Xience stent in small vessel disease: bench, clinical, and pathology view": {
+                    "explanation": "This paper explores the performance of cobalt-chromium everolimus-eluting stents (CoCr-EES) in small vessel coronary artery disease, which is related to the source paper's findings on the efficacy and safety of biodegradable polymer drug-eluting stents and durable polymer drug-eluting stents.",
+                    "relevance": 2
+                },
+                "2. Stent selection to minimize the risk of stent thrombosis": {
+                    "explanation": "This paper discusses the safety profile of different types of stents, including cobalt-chromium everolimus-eluting stents (CoCr-EES), which is related to the source paper's findings on the efficacy and safety of biodegradable polymer drug-eluting stents and durable polymer drug-eluting stents.",
+                    "relevance": 2
+                },
+                "3. Coronary Artery Stents: Advances in Technology": {
+                    "explanation": "This paper reviews the advances in coronary artery stent technology, including the development of biodegradable polymer drug-eluting stents and durable polymer drug-eluting stents, which is related to the source paper's findings on the efficacy and safety of these stents.",
+                    "relevance": 1
+                },
+                "4. Response to letter regarding article, \"Outcomes with coronary artery bypass graft surgery versus percutaneous coronary intervention for patients with diabetes mellitus: can newer generation drug-eluting stents bridge the gap?\"": {
+                    "explanation": "This paper is a response to a letter regarding an article on the outcomes of coronary artery bypass graft surgery versus percutaneous coronary intervention for patients with diabetes mellitus, which is not directly related to the source paper's findings.",
+                    "relevance": 0
+                },
+                "5. Drug-eluting stent technology: progress beyond the polymer": {
+                    "explanation": "This paper discusses the advances in drug-eluting stent technology beyond the polymer, including the development of biodegradable polymer drug-eluting stents and durable polymer drug-eluting stents, which is related to the source paper's findings on the efficacy and safety of these stents.",
+                    "relevance": 1
+                },
+                "6. Long-term risk of late and very late stent thrombosis in patients treated with everolimus against paclitaxel-eluting stents: an updated meta-analysis": {
+                    "explanation": "This paper presents an updated meta-analysis on the long-term risk of late and very late stent thrombosis in patients treated with everolimus-eluting stents versus paclitaxel-eluting stents, which is related to the source paper's findings on the efficacy and safety of biodegradable polymer drug-eluting stents and durable polymer drug-eluting stents.",
+                    "relevance": 2
+                },
+                "7. Outcomes With Coronary Artery Bypass Graft Surgery Versus Percutaneous Coronary Intervention for Patients With Diabetes Mellitus: Can Newer Generation Drug-Eluting Stents Bridge the Gap?": {
+                    "explanation": "This paper explores the outcomes of coronary artery bypass graft surgery versus percutaneous coronary intervention for patients with diabetes mellitus, which is not directly related to the source paper's findings.",
+                    "relevance": 0
+                },
+                "8. Coronary Stent Evolution \u2013 From Pathology to Clinic": {
+                    "explanation": "This paper reviews the evolution of coronary stent technology, including the development of biodegradable polymer drug-eluting stents and durable polymer drug-eluting stents, which is related to the source paper's findings on the efficacy and safety of these stents.",
+                    "relevance": 1
+                },
+                "9. Safety and Efficacy of Biodegradable Drug-Eluting vs. Bare Metal Stents: A Meta-Analysis from Randomized Trials": {
+                    "explanation": "This paper presents a meta-analysis on the safety and efficacy of biodegradable polymer drug-eluting stents versus bare metal stents, which is related to the source paper's findings on the efficacy and safety of biodegradable polymer drug-eluting stents and durable polymer drug-eluting stents.",
+                    "relevance": 2
+                },
+                "10. Nine\u2010month angiographic and two\u2010year clinical follow\u2010up of polymer\u2010free sirolimus\u2010eluting stent versus durable\u2010polymer sirolimus\u2010eluting stent for coronary artery disease: the Nano randomized trial": {
+                    "explanation": "This paper presents the results of a randomized trial comparing the safety and efficacy of polymer-free sirolimus-eluting stents versus durable-polymer sirolimus-eluting stents, which is related to the source paper's findings on the efficacy and safety of biodegradable polymer drug-eluting stents and durable polymer drug-eluting stents.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. The everolimus-eluting Xience stent in small vessel disease: bench, clinical, and pathology view": {
+                    "explanation": "This paper explores the performance of cobalt-chromium everolimus-eluting stents (CoCr-EES) in small vessel coronary artery disease, which is related to the source paper's findings on the efficacy and safety of biodegradable polymer drug-eluting stents and durable polymer drug-eluting stents.",
+                    "relevance": 2
+                },
+                "2. Long-term risk of late and very late stent thrombosis in patients treated with everolimus against paclitaxel-eluting stents: an updated meta-analysis": {
+                    "explanation": "This paper presents an updated meta-analysis on the long-term risk of late and very late stent thrombosis in patients treated with everolimus-eluting stents versus paclitaxel-eluting stents, which is related to the source paper's findings on the efficacy and safety of biodegradable polymer drug-eluting stents and durable polymer drug-eluting stents.",
+                    "relevance": 2
+                },
+                "3. Safety and Efficacy of Biodegradable Drug-Eluting vs. Bare Metal Stents: A Meta-Analysis from Randomized Trials": {
+                    "explanation": "This paper presents a meta-analysis on the safety and efficacy of biodegradable polymer drug-eluting stents versus bare metal stents, which is related to the source paper's findings on the efficacy and safety of biodegradable polymer drug-eluting stents and durable polymer drug-eluting stents.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2014,
+        "source_paper": {
+            "paperId": "2d7d4a892d3ca3f89209fbf56bcb41e57ee2e75b",
+            "title": "Bare metal stents, durable polymer drug eluting stents, and biodegradable polymer drug eluting stents for coronary artery disease: mixed treatment comparison meta-analysis",
+            "abstract": "Objective To compare the efficacy and safety of biodegradable polymer drug eluting stents with those of bare metal stents and durable polymer drug eluting stents. Design Mixed treatment comparison meta-analysis of 258\u2009544 patient years of follow-up from randomized trials. Data sources and study selection PubMed, Embase, and Central were searched for randomized trials comparing any of the Food and Drug Administration approved durable polymer drug eluting stents (sirolimus eluting, paclitaxel eluting, cobalt chromium everolimus eluting, platinum chromium everolimus eluting, zotarolimus eluting-Endeavor, and zotarolimus eluting-Resolute) or biodegradable polymer drug eluting stents, with each other or against bare metal stents. Outcomes Long term efficacy (target vessel revascularization, target lesion revascularization) and safety (death, myocardial infarction, stent thrombosis). Landmark analysis at more than one year was evaluated to assess the potential late benefit of biodegradable polymer drug eluting stents. Results From 126 randomized trials and 258\u2009544 patient years of follow-up, for long term efficacy (target vessel revascularization), biodegradable polymer drug eluting stents were superior to paclitaxel eluting stents (rate ratio 0.66, 95% credibility interval 0.57 to 0.78) and zotarolimus eluting stent-Endeavor (0.69, 0.56 to 0.84) but not to newer generation durable polymer drug eluting stents (for example: 1.03, 0.89 to 1.21 versus cobalt chromium everolimus eluting stents). Similarly, biodegradable polymer drug eluting stents were superior to paclitaxel eluting stents (rate ratio 0.61, 0.37 to 0.89) but inferior to cobalt chromium everolimus eluting stents (2.04, 1.27 to 3.35) for long term safety (definite stent thrombosis). In the landmark analysis after one year, biodegradable polymer drug eluting stents were superior to sirolimus eluting stents for definite stent thrombosis (rate ratio 0.29, 0.10 to 0.82) but were associated with increased mortality compared with cobalt chromium everolimus eluting stents (1.52, 1.02 to 2.22). Overall, among all stent types, the newer generation durable polymer drug eluting stents (zotarolimus eluting stent-Resolute, cobalt chromium everolimus eluting stents, and platinum chromium everolimus eluting stents) were the most efficacious (lowest target vessel revascularization rate) stents, and cobalt chromium everolimus eluting stents were the safest with significant reductions in definite stent thrombosis (rate ratio 0.35, 0.21 to 0.53), myocardial infarction (0.65, 0.55 to 0.75), and death (0.72, 0.58 to 0.90) compared with bare metal stents. Conclusions Biodegradable polymer drug eluting stents are superior to first generation durable polymer drug eluting stents but not to newer generation durable polymer stents in reducing target vessel revascularization. Newer generation durable polymer stents, and especially cobalt chromium everolimus eluting stents, have the best combination of efficacy and safety. The utility of biodegradable polymer stents in the context of excellent clinical outcomes with newer generation durable polymer stents needs to be proven.",
+            "year": 2013,
+            "citation_count": 286,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it compares the efficacy and safety of different types of stents, including sirolimus-eluting stents, in the treatment of coronary artery disease."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Two-year outcome of a randomized trial comparing second-generation drug-eluting stents using biodegradable or durable polymer": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it compares the efficacy and safety of biodegradable polymer drug-eluting stents with those of durable polymer drug-eluting stents, building on the source paper's results regarding the comparison of biodegradable polymer drug-eluting stents with bare metal stents and durable polymer drug-eluting stents.",
+                    "relevance": 1
+                },
+                "2. Surveillance for recurrence of colorectal cancer--reply": {
+                    "explanation": "This paper has no connection with the source paper as it discusses the surveillance for recurrence of colorectal cancer, which is unrelated to the topic of coronary artery disease and drug-eluting stents.",
+                    "relevance": 0
+                },
+                "3. Meta\u2010analysis of bioabsorbable versus durable polymer drug\u2010eluting stents in 20,005 patients with coronary artery disease: An update": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it updates the meta-analysis comparing biodegradable polymer drug-eluting stents with durable polymer drug-eluting stents, using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "4. Polymer\u2010free stents in diabetic patients\u2014not so sweet after all!": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it discusses the safety and efficacy of polymer-free stents in diabetic patients, building on the source paper's results regarding the comparison of biodegradable polymer drug-eluting stents with durable polymer drug-eluting stents.",
+                    "relevance": 1
+                },
+                "5. Six-month versus 24-month dual antiplatelet therapy after implantation of drug eluting stents in patients nonresistant to aspirin : ITALIC, a randomized multicenter trial": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the optimal duration of dual antiplatelet therapy after implantation of drug-eluting stents, building on the source paper's results regarding the safety and efficacy of biodegradable polymer drug-eluting stents.",
+                    "relevance": 1
+                },
+                "6. The Task Force on Myocardial Revascularization of the European Society of Cardiology (ESC) and the European Association for Cardio-Thoracic Surgery (EACTS) Developedwiththespecial contribution of theEuropeanAssociationof Percutaneous Cardiovascular Interventions (EAPCI)": {
+                    "explanation": "This paper is a review paper and has no connection with the source paper as it discusses the guidelines for myocardial revascularization, which is unrelated to the topic of the source paper.",
+                    "relevance": 0
+                },
+                "7. Six-month versus 24-month dual antiplatelet therapy after implantation of drug eluting stents in patients non-resistant to aspirin: ITALIC, a randomized multicenter trial": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the optimal duration of dual antiplatelet therapy after implantation of drug-eluting stents, building on the source paper's results regarding the safety and efficacy of biodegradable polymer drug-eluting stents.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Meta\u2010analysis of bioabsorbable versus durable polymer drug\u2010eluting stents in 20,005 patients with coronary artery disease: An update": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it updates the meta-analysis comparing biodegradable polymer drug-eluting stents with durable polymer drug-eluting stents, using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "2. Two-year outcome of a randomized trial comparing second-generation drug-eluting stents using biodegradable or durable polymer": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it compares the efficacy and safety of biodegradable polymer drug-eluting stents with those of durable polymer drug-eluting stents, building on the source paper's results regarding the comparison of biodegradable polymer drug-eluting stents with bare metal stents and durable polymer drug-eluting stents.",
+                    "relevance": 1
+                },
+                "3. Polymer\u2010free stents in diabetic patients\u2014not so sweet after all!": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it discusses the safety and efficacy of polymer-free stents in diabetic patients, building on the source paper's results regarding the comparison of biodegradable polymer drug-eluting stents with durable polymer drug-eluting stents.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2015,
+        "source_paper": {
+            "paperId": "2d7d4a892d3ca3f89209fbf56bcb41e57ee2e75b",
+            "title": "Bare metal stents, durable polymer drug eluting stents, and biodegradable polymer drug eluting stents for coronary artery disease: mixed treatment comparison meta-analysis",
+            "abstract": "Objective To compare the efficacy and safety of biodegradable polymer drug eluting stents with those of bare metal stents and durable polymer drug eluting stents. Design Mixed treatment comparison meta-analysis of 258\u2009544 patient years of follow-up from randomized trials. Data sources and study selection PubMed, Embase, and Central were searched for randomized trials comparing any of the Food and Drug Administration approved durable polymer drug eluting stents (sirolimus eluting, paclitaxel eluting, cobalt chromium everolimus eluting, platinum chromium everolimus eluting, zotarolimus eluting-Endeavor, and zotarolimus eluting-Resolute) or biodegradable polymer drug eluting stents, with each other or against bare metal stents. Outcomes Long term efficacy (target vessel revascularization, target lesion revascularization) and safety (death, myocardial infarction, stent thrombosis). Landmark analysis at more than one year was evaluated to assess the potential late benefit of biodegradable polymer drug eluting stents. Results From 126 randomized trials and 258\u2009544 patient years of follow-up, for long term efficacy (target vessel revascularization), biodegradable polymer drug eluting stents were superior to paclitaxel eluting stents (rate ratio 0.66, 95% credibility interval 0.57 to 0.78) and zotarolimus eluting stent-Endeavor (0.69, 0.56 to 0.84) but not to newer generation durable polymer drug eluting stents (for example: 1.03, 0.89 to 1.21 versus cobalt chromium everolimus eluting stents). Similarly, biodegradable polymer drug eluting stents were superior to paclitaxel eluting stents (rate ratio 0.61, 0.37 to 0.89) but inferior to cobalt chromium everolimus eluting stents (2.04, 1.27 to 3.35) for long term safety (definite stent thrombosis). In the landmark analysis after one year, biodegradable polymer drug eluting stents were superior to sirolimus eluting stents for definite stent thrombosis (rate ratio 0.29, 0.10 to 0.82) but were associated with increased mortality compared with cobalt chromium everolimus eluting stents (1.52, 1.02 to 2.22). Overall, among all stent types, the newer generation durable polymer drug eluting stents (zotarolimus eluting stent-Resolute, cobalt chromium everolimus eluting stents, and platinum chromium everolimus eluting stents) were the most efficacious (lowest target vessel revascularization rate) stents, and cobalt chromium everolimus eluting stents were the safest with significant reductions in definite stent thrombosis (rate ratio 0.35, 0.21 to 0.53), myocardial infarction (0.65, 0.55 to 0.75), and death (0.72, 0.58 to 0.90) compared with bare metal stents. Conclusions Biodegradable polymer drug eluting stents are superior to first generation durable polymer drug eluting stents but not to newer generation durable polymer stents in reducing target vessel revascularization. Newer generation durable polymer stents, and especially cobalt chromium everolimus eluting stents, have the best combination of efficacy and safety. The utility of biodegradable polymer stents in the context of excellent clinical outcomes with newer generation durable polymer stents needs to be proven.",
+            "year": 2013,
+            "citation_count": 286,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it compares the efficacy and safety of different types of stents, including sirolimus-eluting stents, in the treatment of coronary artery disease."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1.Experimental and computational study of mechanical and transport properties of a polymer coating for drug-eluting stents": {
+                    "explanation": "This paper discusses the properties of polymer coatings for drug-eluting stents, which is related to the source paper's comparison of biodegradable polymer drug-eluting stents with durable polymer drug-eluting stents. However, it does not directly build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "2.Triple therapy for atrial fibrillation and percutaneous coronary intervention": {
+                    "explanation": "This review paper discusses the management of patients with atrial fibrillation undergoing percutaneous coronary intervention, which is a different topic from the source paper's focus on stent types. It does not directly build upon or use the findings of the source paper.",
+                    "relevance": 0
+                },
+                "3.Efficacy of Various Percutaneous Interventions for In-Stent Restenosis: Comprehensive Network Meta-Analysis of Randomized Controlled Trials": {
+                    "explanation": "This paper compares the efficacy of different percutaneous interventions for in-stent restenosis, including drug-eluting stents, which is related to the source paper's comparison of stent types. However, it does not directly build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "4.In situ Endothelialization: Bioengineering Considerations to Translation": {
+                    "explanation": "This review paper discusses the concept of in situ endothelialization, which is not directly related to the source paper's comparison of stent types. It does not directly build upon or use the findings of the source paper.",
+                    "relevance": 0
+                },
+                "5.Final 3-Year Outcome of a Randomized Trial Comparing Second-Generation Drug-Eluting Stents Using Either Biodegradable Polymer or Durable Polymer: NOBORI Biolimus-Eluting Versus XIENCE/PROMUS Everolimus-Eluting Stent Trial": {
+                    "explanation": "This paper compares the outcomes of biodegradable polymer drug-eluting stents with durable polymer drug-eluting stents, which is directly related to the source paper's comparison of stent types. The findings of this paper are at least partially dependent on the source paper's results.",
+                    "relevance": 2
+                },
+                "6.Everolimus Eluting Stents Versus Coronary Artery Bypass Graft Surgery for Patients With Diabetes Mellitus and Multivessel Disease": {
+                    "explanation": "This paper compares the outcomes of everolimus-eluting stents with coronary artery bypass graft surgery in patients with diabetes mellitus and multivessel disease, which is a different topic from the source paper's focus on stent types. However, it does mention the use of everolimus-eluting stents, which is one of the stent types compared in the source paper.",
+                    "relevance": 1
+                },
+                "7.Randomised study of a bioabsorbable polymer-coated sirolimus-eluting stent: results of the DESSOLVE II trial": {
+                    "explanation": "This paper discusses the results of a trial comparing a bioabsorbable polymer-coated sirolimus-eluting stent with a zotarolimus-eluting stent, which is related to the source paper's comparison of biodegradable polymer drug-eluting stents with durable polymer drug-eluting stents. However, it does not directly build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "8.Everolimus-eluting stents or bypass surgery for multivessel coronary disease": {
+                    "explanation": "This paper compares the outcomes of everolimus-eluting stents with coronary artery bypass graft surgery in patients with multivessel coronary disease, which is a different topic from the source paper's focus on stent types. However, it does mention the use of everolimus-eluting stents, which is one of the stent types compared in the source paper.",
+                    "relevance": 1
+                },
+                "9.Left main revascularization: reality versus the real world": {
+                    "explanation": "This review paper discusses the management of left main coronary artery disease, which is a different topic from the source paper's focus on stent types. It does not directly build upon or use the findings of the source paper.",
+                    "relevance": 0
+                },
+                "10.Rationale and study design of the RESERVOIR trial: A randomized trial comparing reservoir\u2010based polymer\u2010free amphilimus\u2010eluting stents versus everolimus\u2010eluting stents with durable polymer in patients with diabetes mellitus": {
+                    "explanation": "This paper discusses the design of a trial comparing reservoir-based polymer-free amphilimus-eluting stents with everolimus-eluting stents in patients with diabetes mellitus, which is related to the source paper's comparison of biodegradable polymer drug-eluting stents with durable polymer drug-eluting stents. However, it does not directly build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1.Final 3-Year Outcome of a Randomized Trial Comparing Second-Generation Drug-Eluting Stents Using Either Biodegradable Polymer or Durable Polymer: NOBORI Biolimus-Eluting Versus XIENCE/PROMUS Everolimus-Eluting Stent Trial": {
+                    "explanation": "This paper compares the outcomes of biodegradable polymer drug-eluting stents with durable polymer drug-eluting stents, which is directly related to the source paper's comparison of stent types. The findings of this paper are at least partially dependent on the source paper's results.",
+                    "relevance": 2
+                },
+                "2.Experimental and computational study of mechanical and transport properties of a polymer coating for drug-eluting stents": {
+                    "explanation": "This paper discusses the properties of polymer coatings for drug-eluting stents, which is related to the source paper's comparison of biodegradable polymer drug-eluting stents with durable polymer drug-eluting stents. However, it does not directly build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "3.Efficacy of Various Percutaneous Interventions for In-Stent Restenosis: Comprehensive Network Meta-Analysis of Randomized Controlled Trials": {
+                    "explanation": "This paper compares the efficacy of different percutaneous interventions for in-stent restenosis, including drug-eluting stents, which is related to the source paper's comparison of stent types. However, it does not directly build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2015,
+        "source_paper": {
+            "paperId": "2d7d4a892d3ca3f89209fbf56bcb41e57ee2e75b",
+            "title": "Bare metal stents, durable polymer drug eluting stents, and biodegradable polymer drug eluting stents for coronary artery disease: mixed treatment comparison meta-analysis",
+            "abstract": "Objective To compare the efficacy and safety of biodegradable polymer drug eluting stents with those of bare metal stents and durable polymer drug eluting stents. Design Mixed treatment comparison meta-analysis of 258\u2009544 patient years of follow-up from randomized trials. Data sources and study selection PubMed, Embase, and Central were searched for randomized trials comparing any of the Food and Drug Administration approved durable polymer drug eluting stents (sirolimus eluting, paclitaxel eluting, cobalt chromium everolimus eluting, platinum chromium everolimus eluting, zotarolimus eluting-Endeavor, and zotarolimus eluting-Resolute) or biodegradable polymer drug eluting stents, with each other or against bare metal stents. Outcomes Long term efficacy (target vessel revascularization, target lesion revascularization) and safety (death, myocardial infarction, stent thrombosis). Landmark analysis at more than one year was evaluated to assess the potential late benefit of biodegradable polymer drug eluting stents. Results From 126 randomized trials and 258\u2009544 patient years of follow-up, for long term efficacy (target vessel revascularization), biodegradable polymer drug eluting stents were superior to paclitaxel eluting stents (rate ratio 0.66, 95% credibility interval 0.57 to 0.78) and zotarolimus eluting stent-Endeavor (0.69, 0.56 to 0.84) but not to newer generation durable polymer drug eluting stents (for example: 1.03, 0.89 to 1.21 versus cobalt chromium everolimus eluting stents). Similarly, biodegradable polymer drug eluting stents were superior to paclitaxel eluting stents (rate ratio 0.61, 0.37 to 0.89) but inferior to cobalt chromium everolimus eluting stents (2.04, 1.27 to 3.35) for long term safety (definite stent thrombosis). In the landmark analysis after one year, biodegradable polymer drug eluting stents were superior to sirolimus eluting stents for definite stent thrombosis (rate ratio 0.29, 0.10 to 0.82) but were associated with increased mortality compared with cobalt chromium everolimus eluting stents (1.52, 1.02 to 2.22). Overall, among all stent types, the newer generation durable polymer drug eluting stents (zotarolimus eluting stent-Resolute, cobalt chromium everolimus eluting stents, and platinum chromium everolimus eluting stents) were the most efficacious (lowest target vessel revascularization rate) stents, and cobalt chromium everolimus eluting stents were the safest with significant reductions in definite stent thrombosis (rate ratio 0.35, 0.21 to 0.53), myocardial infarction (0.65, 0.55 to 0.75), and death (0.72, 0.58 to 0.90) compared with bare metal stents. Conclusions Biodegradable polymer drug eluting stents are superior to first generation durable polymer drug eluting stents but not to newer generation durable polymer stents in reducing target vessel revascularization. Newer generation durable polymer stents, and especially cobalt chromium everolimus eluting stents, have the best combination of efficacy and safety. The utility of biodegradable polymer stents in the context of excellent clinical outcomes with newer generation durable polymer stents needs to be proven.",
+            "year": 2013,
+            "citation_count": 286,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it compares the efficacy and safety of different types of stents, including sirolimus-eluting stents, in the treatment of coronary artery disease."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Stent Thrombosis with Biodegradable Polymer Drug-Eluting Stents versus Durable Polymer Sirolimus-Eluting Stents: An Update Meta-Analysis": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it compares biodegradable polymer drug-eluting stents with durable polymer sirolimus-eluting stents, which is a continuation of the source paper's comparison of biodegradable polymer drug-eluting stents with bare metal stents and durable polymer drug-eluting stents.",
+                    "relevance": 2
+                },
+                "2. Thienopyridine derivatives as risk factors for bleeding following high risk endoscopic treatments: Safe Treatment on Antiplatelets (STRAP) study": {
+                    "explanation": "This paper has no connection with the source paper, as it deals with the safety of continuing aspirin treatment during high-risk endoscopic procedures, which is unrelated to the source paper's topic of comparing different types of stents for coronary artery disease.",
+                    "relevance": 0
+                },
+                "3. Prognostic role of restenosis in 10 004 patients undergoing routine control angiography after coronary stenting": {
+                    "explanation": "This paper is inspired by the hypothesis or findings from the source paper, as it investigates the prognostic role of restenosis after coronary stenting, which is a potential outcome of the stenting procedures compared in the source paper.",
+                    "relevance": 1
+                },
+                "4. Long-term efficacy and safety of biodegradable-polymer biolimus-eluting stents: main results of the Basel Stent Kosten-Effektivit\u00e4ts Trial-PROspective Validation Examination II (BASKET-PROVE II), a randomized, controlled noninferiority 2-year outcome trial": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it evaluates the long-term efficacy and safety of biodegradable-polymer biolimus-eluting stents, which is a type of stent compared in the source paper.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Stent Thrombosis with Biodegradable Polymer Drug-Eluting Stents versus Durable Polymer Sirolimus-Eluting Stents: An Update Meta-Analysis": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it compares biodegradable polymer drug-eluting stents with durable polymer sirolimus-eluting stents, which is a continuation of the source paper's comparison of biodegradable polymer drug-eluting stents with bare metal stents and durable polymer drug-eluting stents.",
+                    "relevance": 2
+                },
+                "2. Long-term efficacy and safety of biodegradable-polymer biolimus-eluting stents: main results of the Basel Stent Kosten-Effektivit\u00e4ts Trial-PROspective Validation Examination II (BASKET-PROVE II), a randomized, controlled noninferiority 2-year outcome trial": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it evaluates the long-term efficacy and safety of biodegradable-polymer biolimus-eluting stents, which is a type of stent compared in the source paper.",
+                    "relevance": 2
+                },
+                "3. Prognostic role of restenosis in 10 004 patients undergoing routine control angiography after coronary stenting": {
+                    "explanation": "This paper is inspired by the hypothesis or findings from the source paper, as it investigates the prognostic role of restenosis after coronary stenting, which is a potential outcome of the stenting procedures compared in the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2016,
+        "source_paper": {
+            "paperId": "ff8a992edc922be8679e2ec2e1c6472eca16e17d",
+            "title": "Long-term efficacy and safety of biodegradable-polymer biolimus-eluting stents: main results of the Basel Stent Kosten-Effektivit\u00e4ts Trial-PROspective Validation Examination II (BASKET-PROVE II), a randomized, controlled noninferiority 2-year outcome trial.",
+            "abstract": "BACKGROUND\nBiodegradable-polymer drug-eluting stents (BP-DES) were developed to be as effective as second-generation durable-polymer drug-eluting stents (DP-DES) and as safe >1 year as bare-metal stents (BMS). Thus, very late stent thrombosis (VLST) attributable to durable polymers should no longer appear.\n\n\nMETHODS AND RESULTS\nTo address these early and late aspects, 2291 patients presenting with acute or stable coronary disease needing stents \u22653.0 mm in diameter between April 2010 and May 2012 were randomly assigned to biolimus-A9-eluting BP-DES, second-generation everolimus-eluting DP-DES, or thin-strut silicon-carbide-coated BMS in 8 European centers. All patients were treated with aspirin and risk-adjusted doses of prasugrel. The primary end point was combined cardiac death, myocardial infarction, and clinically indicated target-vessel revascularization within 2 years. The combined secondary safety end point was a composite of VLST, myocardial infarction, and cardiac death. The cumulative incidence of the primary end point was 7.6% with BP-DES, 6.8% with DP-DES, and 12.7% with BMS. By intention-to-treat BP-DES were noninferior (predefined margin, 3.80%) compared with DP-DES (absolute risk difference, 0.78%; -1.93% to 3.50%; P for noninferiority 0.042; per protocol P=0.09) and superior to BMS (absolute risk difference, -5.16; -8.32 to -2.01; P=0.0011). The 3 stent groups did not differ in the combined safety end point, with no decrease in events >1 year, particularly VLST with BP-DES.\n\n\nCONCLUSIONS\nIn large vessel stenting, BP-DES appeared barely noninferior compared with DP-DES and more effective than thin-strut BMS, but without evidence for better safety nor lower VLST rates >1 year. Findings challenge the concept that durable polymers are key in VLST formation.\n\n\nCLINICAL TRIAL REGISTRATION URL\nhttp://www.clinicaltrials.gov. Unique identifier: NCT01166685.",
+            "year": 2015,
+            "citation_count": 86,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it evaluates the long-term efficacy and safety of biodegradable-polymer biolimus-eluting stents, which is a type of stent compared in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Is it time to take bare metal stents off the catheter laboratory shelf?": {
+                    "explanation": "This paper does not have a direct connection to the source paper, as it is a review of the history of stents and their development, and does not mention biodegradable-polymer biolimus-eluting stents specifically.",
+                    "relevance": 0
+                },
+                "2. Five-year clinical performance of a biodegradable polymer-coated biolimus-eluting stent in unselected patients": {
+                    "explanation": "This paper is directly related to the source paper, as it evaluates the long-term performance of biodegradable polymer-coated biolimus-eluting stents, which is the same type of stent studied in the source paper.",
+                    "relevance": 2
+                },
+                "3. Stent Polymers: Do They Make a Difference?": {
+                    "explanation": "This paper is related to the source paper, as it discusses the role of polymers in drug-eluting stents, including biodegradable polymers, and their impact on stent performance and safety.",
+                    "relevance": 1
+                },
+                "4. Two\u2010Year Safety and Efficacy of Biodegradable Polymer Drug\u2010Eluting Stent Versus Second\u2010Generation Durable Polymer Drug\u2010Eluting Stent in Patients With Acute Myocardial Infarction: Data from the Korea Acute Myocardial Infarction Registry (KAMIR)": {
+                    "explanation": "This paper is directly related to the source paper, as it compares the safety and efficacy of biodegradable polymer drug-eluting stents with second-generation durable polymer drug-eluting stents, which is similar to the comparison made in the source paper.",
+                    "relevance": 2
+                },
+                "5. Reviewing hybrid coronary revascularization: challenges, controversies and opportunities": {
+                    "explanation": "This paper does not have a direct connection to the source paper, as it discusses hybrid coronary revascularization, which is a different topic from biodegradable-polymer biolimus-eluting stents.",
+                    "relevance": 0
+                },
+                "6. Biodegradable-Polymer Biolimus-Eluting Stents versus Durable-Polymer Everolimus-Eluting Stents at One-Year Follow-Up: A Registry-Based Cohort Study.": {
+                    "explanation": "This paper is directly related to the source paper, as it compares the performance of biodegradable-polymer biolimus-eluting stents with durable-polymer everolimus-eluting stents, which is similar to the comparison made in the source paper.",
+                    "relevance": 2
+                },
+                "7. Percutaneous Coronary Intervention: 2015 in Review.": {
+                    "explanation": "This paper is a review of percutaneous coronary intervention and does not have a direct connection to the source paper.",
+                    "relevance": 0
+                },
+                "8. The year in cardiology 2015: coronary intervention.": {
+                    "explanation": "This paper is a review of coronary intervention and does not have a direct connection to the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Five-year clinical performance of a biodegradable polymer-coated biolimus-eluting stent in unselected patients": {
+                    "explanation": "This paper is directly related to the source paper, as it evaluates the long-term performance of biodegradable polymer-coated biolimus-eluting stents, which is the same type of stent studied in the source paper.",
+                    "relevance": 2
+                },
+                "2. Two\u2010Year Safety and Efficacy of Biodegradable Polymer Drug\u2010Eluting Stent Versus Second\u2010Generation Durable Polymer Drug\u2010Eluting Stent in Patients With Acute Myocardial Infarction: Data from the Korea Acute Myocardial Infarction Registry (KAMIR)": {
+                    "explanation": "This paper is directly related to the source paper, as it compares the safety and efficacy of biodegradable polymer drug-eluting stents with second-generation durable polymer drug-eluting stents, which is similar to the comparison made in the source paper.",
+                    "relevance": 2
+                },
+                "3. Biodegradable-Polymer Biolimus-Eluting Stents versus Durable-Polymer Everolimus-Eluting Stents at One-Year Follow-Up: A Registry-Based Cohort Study.": {
+                    "explanation": "This paper is directly related to the source paper, as it compares the performance of biodegradable-polymer biolimus-eluting stents with durable-polymer everolimus-eluting stents, which is similar to the comparison made in the source paper.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2017,
+        "source_paper": {
+            "paperId": "ff8a992edc922be8679e2ec2e1c6472eca16e17d",
+            "title": "Long-term efficacy and safety of biodegradable-polymer biolimus-eluting stents: main results of the Basel Stent Kosten-Effektivit\u00e4ts Trial-PROspective Validation Examination II (BASKET-PROVE II), a randomized, controlled noninferiority 2-year outcome trial.",
+            "abstract": "BACKGROUND\nBiodegradable-polymer drug-eluting stents (BP-DES) were developed to be as effective as second-generation durable-polymer drug-eluting stents (DP-DES) and as safe >1 year as bare-metal stents (BMS). Thus, very late stent thrombosis (VLST) attributable to durable polymers should no longer appear.\n\n\nMETHODS AND RESULTS\nTo address these early and late aspects, 2291 patients presenting with acute or stable coronary disease needing stents \u22653.0 mm in diameter between April 2010 and May 2012 were randomly assigned to biolimus-A9-eluting BP-DES, second-generation everolimus-eluting DP-DES, or thin-strut silicon-carbide-coated BMS in 8 European centers. All patients were treated with aspirin and risk-adjusted doses of prasugrel. The primary end point was combined cardiac death, myocardial infarction, and clinically indicated target-vessel revascularization within 2 years. The combined secondary safety end point was a composite of VLST, myocardial infarction, and cardiac death. The cumulative incidence of the primary end point was 7.6% with BP-DES, 6.8% with DP-DES, and 12.7% with BMS. By intention-to-treat BP-DES were noninferior (predefined margin, 3.80%) compared with DP-DES (absolute risk difference, 0.78%; -1.93% to 3.50%; P for noninferiority 0.042; per protocol P=0.09) and superior to BMS (absolute risk difference, -5.16; -8.32 to -2.01; P=0.0011). The 3 stent groups did not differ in the combined safety end point, with no decrease in events >1 year, particularly VLST with BP-DES.\n\n\nCONCLUSIONS\nIn large vessel stenting, BP-DES appeared barely noninferior compared with DP-DES and more effective than thin-strut BMS, but without evidence for better safety nor lower VLST rates >1 year. Findings challenge the concept that durable polymers are key in VLST formation.\n\n\nCLINICAL TRIAL REGISTRATION URL\nhttp://www.clinicaltrials.gov. Unique identifier: NCT01166685.",
+            "year": 2015,
+            "citation_count": 86,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it evaluates the long-term efficacy and safety of biodegradable-polymer biolimus-eluting stents, which is a type of stent compared in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Long-term outcomes in patients with rheumatologic disorders undergoing percutaneous coronary intervention: a BAsel Stent Kosten-Effektivit\u00e4ts Trial-PROspective Validation Examination (BASKET-PROVE) sub-study": {
+                    "explanation": "This paper is a sub-study of the BASKET-PROVE trial, which is closely related to the source paper BASKET-PROVE II. The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the long-term outcomes of patients with rheumatologic disorders undergoing percutaneous coronary intervention.",
+                    "relevance": 1
+                },
+                "2. From bare metal to barely anything: an update on coronary stenting": {
+                    "explanation": "This paper is a review paper that provides an overview of contemporary coronary devices, including biodegradable-polymer drug-eluting stents (BP-DES) discussed in the source paper. However, it does not build upon the findings of the source paper, and its content is not dependent on the source paper's results.",
+                    "relevance": 0
+                },
+                "3. Mid-term outcome of biolimus-eluting stents with biodegradable polymer: results from a multinational prospective \u2018all-comers\u2019 registry": {
+                    "explanation": "This paper investigates the efficacy and safety of biolimus-eluting stents with biodegradable polymer, which is the same type of stent discussed in the source paper. The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it builds upon the results of the BASKET-PROVE II trial.",
+                    "relevance": 2
+                },
+                "4. Outcomes of Acute Myocardial Infarction Patients Implanted With Biodegradable Polymer Biolimus-Eluting Stents Versus New-Generation Durable Polymer Drug-Eluting Stents: A Retrospective Analysis": {
+                    "explanation": "This paper compares the outcomes of patients implanted with biodegradable polymer biolimus-eluting stents (BP-BES) versus new-generation durable polymer drug-eluting stents (DP-DES). The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the efficacy and safety of BP-BES in patients with acute myocardial infarction.",
+                    "relevance": 1
+                },
+                "5. Drug-eluting stents versus bare-metal stents for acute coronary syndrome": {
+                    "explanation": "This paper is a systematic review that compares the effects of drug-eluting stents versus bare-metal stents for acute coronary syndrome. It does not build upon the findings of the source paper, and its content is not dependent on the source paper's results.",
+                    "relevance": 0
+                },
+                "6. Extracting information from free-text electronic patient records to identify practice-based evidence of the performance of coronary stents": {
+                    "explanation": "This paper discusses the extraction of clinical information from free-text records to evaluate the performance of various types of coronary stents. The hypothesis in this paper is not directly related to the source paper, and its content is not dependent on the source paper's results.",
+                    "relevance": 0
+                },
+                "7. Current State of Bioabsorbable Polymer-Coated Drug-Eluting Stents": {
+                    "explanation": "This paper is a review that discusses the current state of bioabsorbable polymer-coated drug-eluting stents. It does not build upon the findings of the source paper, and its content is not dependent on the source paper's results.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Mid-term outcome of biolimus-eluting stents with biodegradable polymer: results from a multinational prospective \u2018all-comers\u2019 registry": {
+                    "explanation": "This paper investigates the efficacy and safety of biolimus-eluting stents with biodegradable polymer, which is the same type of stent discussed in the source paper. The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it builds upon the results of the BASKET-PROVE II trial.",
+                    "relevance": 2
+                },
+                "2. Long-term outcomes in patients with rheumatologic disorders undergoing percutaneous coronary intervention: a BAsel Stent Kosten-Effektivit\u00e4ts Trial-PROspective Validation Examination (BASKET-PROVE) sub-study": {
+                    "explanation": "This paper is a sub-study of the BASKET-PROVE trial, which is closely related to the source paper BASKET-PROVE II. The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the long-term outcomes of patients with rheumatologic disorders undergoing percutaneous coronary intervention.",
+                    "relevance": 1
+                },
+                "3. Outcomes of Acute Myocardial Infarction Patients Implanted With Biodegradable Polymer Biolimus-Eluting Stents Versus New-Generation Durable Polymer Drug-Eluting Stents: A Retrospective Analysis": {
+                    "explanation": "This paper compares the outcomes of patients implanted with biodegradable polymer biolimus-eluting stents (BP-BES) versus new-generation durable polymer drug-eluting stents (DP-DES). The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the efficacy and safety of BP-BES in patients with acute myocardial infarction.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2017,
+        "source_paper": {
+            "paperId": "f6856d640e81b7b9014cfd246769c20d21abc398",
+            "title": "Five-year clinical performance of a biodegradable polymer-coated biolimus-eluting stent in unselected patients",
+            "abstract": "Objective To evaluate the long-term follow-up of the unrestricted use of a biodegradable polymer-coated drug-eluting stent in patients undergoing percutaneous coronary intervention (PCI). Methods The Nobori 2 study was a prospective, multicentre, observational registry evaluating the safety and the efficacy of the biodegradable polymer biolimus-eluting stent (BP-BES) among 3067 patients recruited at 125 international sites. The primary combined endpoint was a composite of cardiac death, myocardial infarction and target-lesion revascularisation (TLR). Results Five-year follow-up was available in 2738 (89.3%) patients. The combined endpoint occurred in 268 patients (10%, 95% CIs 8.9% to 11.3%) at 5 years, with 3.9% of events during the first year and 6.2% during years 1\u20135 of follow-up. Cumulative rates of TLR and definite/probable stent thrombosis were 5.3% (95% CI 4.5% to 6.3%) and 1.1% (95% CI 0.8% to 1.6%), respectively. Between 1 and 5\u2005years, TLR and very late stent thrombosis rates were 3.5% (95% CI 2.8% to 4.4%) and 0.6% (95% CI 0.3% to 1.1%), respectively. Previous PCI (HR, 2.05, 95% CI 1.68 to 2.50), moderate-to-severe renal disease (HR, 1.89, 95% CI 1.30 to 2.74) and peripheral vascular disease (HR, 1.86, 95% CI 1.38 to 2.52) were the three most powerful independent predictors of the combined endpoint at 5 years. Conclusions The final 5-year follow-up of the Nobori 2 registry demonstrates the safety and effectiveness of the BP-BES in an unselected, broadly inclusive cohort of PCI patients, highlighting the excellent performance of this coronary stent technology after polymer biodegradation. Trial registration number ISRCTN81649913; Results.",
+            "year": 2016,
+            "citation_count": 11,
+            "relevance": 2,
+            "explanation": "This paper is directly related to the source paper, as it evaluates the long-term performance of biodegradable polymer-coated biolimus-eluting stents, which is the same type of stent studied in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Long-term (8\u201310\u2005years) outcomes after biodegradable polymer-coated biolimus-eluting stent implantation": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper. The source paper evaluated the long-term follow-up of the unrestricted use of a biodegradable polymer-coated drug-eluting stent in patients undergoing percutaneous coronary intervention (PCI) for 5 years. This paper extends the follow-up period to 8-10 years, building on the source paper's results and exploring the long-term clinical and angiographic outcomes after BP-BES implantation.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Long-term (8\u201310\u2005years) outcomes after biodegradable polymer-coated biolimus-eluting stent implantation": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper. The source paper evaluated the long-term follow-up of the unrestricted use of a biodegradable polymer-coated drug-eluting stent in patients undergoing percutaneous coronary intervention (PCI) for 5 years. This paper extends the follow-up period to 8-10 years, building on the source paper's results and exploring the long-term clinical and angiographic outcomes after BP-BES implantation.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2023,
+        "source_paper": {
+            "paperId": "d744d9ec05d7841ce76ef27eede53b1d7821c254",
+            "title": "Long-term (8\u201310\u2005years) outcomes after biodegradable polymer-coated biolimus-eluting stent implantation",
+            "abstract": "Objective Efficacy and safety data on biodegradable polymer-coated biolimus-eluting stent (BP-BES) are currently limited to 5\u2005years. We evaluated longer term (8\u201310\u2005years) clinical and angiographic outcomes after BP-BES implantation. Methods Between 2005 and 2008, 243 patients (301 lesions) underwent BP-BES implantation. The primary clinical outcome measure was defined as any target lesion revascularisation (TLR). Absolute serial angiographic studies without any concomitant TLR within 2\u2005years after the procedure were performed in 55 patients (65 lesions) at postprocedure, mid-term (within 1\u2005year), late term (between 1 and 2\u2005years) and very late term (beyond 2\u2005years). Results The median follow-up duration was 9.4\u2005years (IQR 8.2\u201310.2\u2005years). The 8-year cumulative incidence of any TLR was 20.3%. The increase rate was approximately 7% per year in the first 2\u2005years, but decelerated to approximately 1.2% per year beyond 2\u2005years after the procedure. The minimal lumen diameter significantly decreased from postprocedure (2.63\u00b10.44\u2005mm) to mid-term (2.43\u00b10.59\u2005mm, p=0.002) and from late term (2.27\u00b10.63\u2005mm) to very late term (1.98\u00b10.73\u2005mm, p=0.002). The 8-year cumulative incidences of definite or probable stent thrombosis (ST) and major bleeding (Bleeding Academic Research Consortium (BARC) \u22653) were 0.5% and 12.0%, respectively. Definite ST was none within 10\u2005years in the entire cohort. Conclusions The long-term clinical outcomes after BP-BES implantation were favourable, although angiographic late progression of luminal narrowing did not reach a plateau. The incidence of ST remained notably low, whereas that of major bleeding gradually increased.",
+            "year": 2017,
+            "citation_count": 3,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper. The source paper evaluated the long-term follow-up of the unrestricted use of a biodegradable polymer-coated drug-eluting stent in patients undergoing percutaneous coronary intervention (PCI) for 5 years. This paper extends the follow-up period to 8-10 years, building on the source paper's results and exploring the long-term clinical and angiographic outcomes after BP-BES implantation."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Five-Year Clinical Outcomes After XIENCE PRIME Everolimus Elution Coronary Stent System (EECSS) Implantation": {
+                    "explanation": "This paper has no direct connection to the source paper, as it investigates a different type of stent system (XIENCE PRIME EECSS) and its 5-year outcomes, whereas the source paper focused on the long-term outcomes of biodegradable polymer-coated biolimus-eluting stent implantation.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2023,
+        "source_paper": {
+            "paperId": "d744d9ec05d7841ce76ef27eede53b1d7821c254",
+            "title": "Long-term (8\u201310\u2005years) outcomes after biodegradable polymer-coated biolimus-eluting stent implantation",
+            "abstract": "Objective Efficacy and safety data on biodegradable polymer-coated biolimus-eluting stent (BP-BES) are currently limited to 5\u2005years. We evaluated longer term (8\u201310\u2005years) clinical and angiographic outcomes after BP-BES implantation. Methods Between 2005 and 2008, 243 patients (301 lesions) underwent BP-BES implantation. The primary clinical outcome measure was defined as any target lesion revascularisation (TLR). Absolute serial angiographic studies without any concomitant TLR within 2\u2005years after the procedure were performed in 55 patients (65 lesions) at postprocedure, mid-term (within 1\u2005year), late term (between 1 and 2\u2005years) and very late term (beyond 2\u2005years). Results The median follow-up duration was 9.4\u2005years (IQR 8.2\u201310.2\u2005years). The 8-year cumulative incidence of any TLR was 20.3%. The increase rate was approximately 7% per year in the first 2\u2005years, but decelerated to approximately 1.2% per year beyond 2\u2005years after the procedure. The minimal lumen diameter significantly decreased from postprocedure (2.63\u00b10.44\u2005mm) to mid-term (2.43\u00b10.59\u2005mm, p=0.002) and from late term (2.27\u00b10.63\u2005mm) to very late term (1.98\u00b10.73\u2005mm, p=0.002). The 8-year cumulative incidences of definite or probable stent thrombosis (ST) and major bleeding (Bleeding Academic Research Consortium (BARC) \u22653) were 0.5% and 12.0%, respectively. Definite ST was none within 10\u2005years in the entire cohort. Conclusions The long-term clinical outcomes after BP-BES implantation were favourable, although angiographic late progression of luminal narrowing did not reach a plateau. The incidence of ST remained notably low, whereas that of major bleeding gradually increased.",
+            "year": 2017,
+            "citation_count": 3,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper. The source paper evaluated the long-term follow-up of the unrestricted use of a biodegradable polymer-coated drug-eluting stent in patients undergoing percutaneous coronary intervention (PCI) for 5 years. This paper extends the follow-up period to 8-10 years, building on the source paper's results and exploring the long-term clinical and angiographic outcomes after BP-BES implantation."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Five-Year Clinical Outcomes After XIENCE PRIME Everolimus Elution Coronary Stent System (EECSS) Implantation": {
+                    "explanation": "This paper evaluates the 5-year clinical outcomes of the XIENCE PRIME Everolimus Elution Coronary Stent System (EECSS) implantation. Although it explores a different type of stent (EECSS) compared to the source paper (BP-BES), the study's focus on long-term clinical outcomes after stent implantation is similar. However, it does not directly build upon or use the findings of the source paper as a sub-hypothesis. Therefore, the relevance score is 0.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    }
+]

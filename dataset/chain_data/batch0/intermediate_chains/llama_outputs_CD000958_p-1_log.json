@@ -1,0 +1,184 @@
+[
+    {
+        "year": 2008,
+        "source_paper": {
+            "paperId": "a0bf2276027f541799b8bc6d3126827f75154000",
+            "pmid": "8549091",
+            "title": "A double-blind controlled study comparing sulphasalazine with placebo in rheumatoid factor (RF)-negative rheumatoid arthritis",
+            "abstract": null,
+            "year": 1995,
+            "citation_count": 8
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. American College of Rheumatology 2008 recommendations for the use of nonbiologic and biologic disease-modifying antirheumatic drugs in rheumatoid arthritis": {
+                    "explanation": "This paper is a review of guidelines and recommendations for the use of disease-modifying antirheumatic drugs in rheumatoid arthritis. It does not present a novel hypothesis or findings that are directly connected to the source paper. The source paper investigated the use of sulphasalazine in RF-negative rheumatoid arthritis, but this paper provides general recommendations and does not specifically address sulphasalazine or RF-negative rheumatoid arthritis.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2008,
+        "source_paper": {
+            "paperId": "a0bf2276027f541799b8bc6d3126827f75154000",
+            "pmid": "8549091",
+            "title": "A double-blind controlled study comparing sulphasalazine with placebo in rheumatoid factor (RF)-negative rheumatoid arthritis",
+            "abstract": null,
+            "year": 1995,
+            "citation_count": 8
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. American College of Rheumatology 2008 recommendations for the use of nonbiologic and biologic disease-modifying antirheumatic drugs in rheumatoid arthritis": {
+                    "explanation": "This paper is a review paper, as indicated by its title, and provides guidelines for the use of disease-modifying antirheumatic drugs in rheumatoid arthritis. It does not appear to have a direct connection with the source paper or present novel findings.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2009,
+        "source_paper": {
+            "paperId": "a0bf2276027f541799b8bc6d3126827f75154000",
+            "pmid": "8549091",
+            "title": "A double-blind controlled study comparing sulphasalazine with placebo in rheumatoid factor (RF)-negative rheumatoid arthritis",
+            "abstract": null,
+            "year": 1995,
+            "citation_count": 8
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Methotrexate therapy in rheumatoid arthritis after failure to sulphasalazine: to switch or to add?": {
+                    "explanation": "This paper explores the treatment options for rheumatoid arthritis patients after sulphasalazine failure, which is related to the source paper that compared sulphasalazine with placebo in rheumatoid factor-negative rheumatoid arthritis. The key hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the effectiveness of sulphasalazine in combination with methotrexate.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Methotrexate therapy in rheumatoid arthritis after failure to sulphasalazine: to switch or to add?": {
+                    "explanation": "This paper explores the treatment options for rheumatoid arthritis patients after sulphasalazine failure, which is related to the source paper that compared sulphasalazine with placebo in rheumatoid factor-negative rheumatoid arthritis. The key hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the effectiveness of sulphasalazine in combination with methotrexate.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2010,
+        "source_paper": {
+            "paperId": "67b2bf1418718011f501f278740aebad8409673b",
+            "title": "Methotrexate therapy in rheumatoid arthritis after failure to sulphasalazine: to switch or to add?",
+            "abstract": "OBJECTIVES\nMTX, either alone or in combination with SSZ, is effective in the treatment of RA. Trials have shown that, after SSZ failure, the addition of MTX to SSZ is more effective than a switch to MTX. Whether this is also the case in daily practice has not been analysed yet. In this study, we compared the efficacy of a switch to MTX monotherapy with that of the addition of MTX to SSZ in the daily clinical practice of RA patients who had failed SSZ monotherapy in the Nijmegen RA Inception Cohort.\n\n\nMETHODS\nFor this study, 230 patients who failed to SSZ monotherapy were followed for up to 52 weeks. A total of 124 underwent a switch to MTX alone, whereas 106 patients received the combination of MTX and SSZ. The primary outcome measure was the mean change in the disease activity score (DAS28) after 24 weeks.\n\n\nRESULTS\nBoth treatment groups showed a significant decrease in DAS28 after 24 weeks, which was similar in both groups. Drug survival analysis showed that the chance to stop with a DMARD within 52 weeks was higher in the MTX-SSZ group (P <0.01).\n\n\nCONCLUSIONS\nIn RA patients who failed to SSZ the clinical efficacy of a switch to MTX monotherapy was similar to that of the addition of MTX, suggesting that in daily clinical practice a switch to MTX is a good option for patients with an inadequate response to SSZ.",
+            "year": 2009,
+            "citation_count": 6,
+            "relevance": 2,
+            "explanation": "This paper explores the treatment options for rheumatoid arthritis patients after sulphasalazine failure, which is related to the source paper that compared sulphasalazine with placebo in rheumatoid factor-negative rheumatoid arthritis. The key hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the effectiveness of sulphasalazine in combination with methotrexate."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. EULAR recommendations for the management of rheumatoid arthritis with synthetic and biological disease-modifying antirheumatic drugs: 2016 update": {
+                    "explanation": "This paper is a review paper and does not have a direct connection to the source paper. It provides EULAR recommendations for the management of rheumatoid arthritis, which is a broader topic than the source paper.",
+                    "relevance": 0
+                },
+                "2. EULAR recommendations for the management of rheumatoid arthritis with synthetic and biological disease-modifying antirheumatic drugs": {
+                    "explanation": "This paper is also a review paper and does not have a direct connection to the source paper. It provides EULAR recommendations for the management of rheumatoid arthritis, which is a broader topic than the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2012,
+        "source_paper": {
+            "paperId": "67b2bf1418718011f501f278740aebad8409673b",
+            "title": "Methotrexate therapy in rheumatoid arthritis after failure to sulphasalazine: to switch or to add?",
+            "abstract": "OBJECTIVES\nMTX, either alone or in combination with SSZ, is effective in the treatment of RA. Trials have shown that, after SSZ failure, the addition of MTX to SSZ is more effective than a switch to MTX. Whether this is also the case in daily practice has not been analysed yet. In this study, we compared the efficacy of a switch to MTX monotherapy with that of the addition of MTX to SSZ in the daily clinical practice of RA patients who had failed SSZ monotherapy in the Nijmegen RA Inception Cohort.\n\n\nMETHODS\nFor this study, 230 patients who failed to SSZ monotherapy were followed for up to 52 weeks. A total of 124 underwent a switch to MTX alone, whereas 106 patients received the combination of MTX and SSZ. The primary outcome measure was the mean change in the disease activity score (DAS28) after 24 weeks.\n\n\nRESULTS\nBoth treatment groups showed a significant decrease in DAS28 after 24 weeks, which was similar in both groups. Drug survival analysis showed that the chance to stop with a DMARD within 52 weeks was higher in the MTX-SSZ group (P <0.01).\n\n\nCONCLUSIONS\nIn RA patients who failed to SSZ the clinical efficacy of a switch to MTX monotherapy was similar to that of the addition of MTX, suggesting that in daily clinical practice a switch to MTX is a good option for patients with an inadequate response to SSZ.",
+            "year": 2009,
+            "citation_count": 6,
+            "relevance": 2,
+            "explanation": "This paper explores the treatment options for rheumatoid arthritis patients after sulphasalazine failure, which is related to the source paper that compared sulphasalazine with placebo in rheumatoid factor-negative rheumatoid arthritis. The key hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the effectiveness of sulphasalazine in combination with methotrexate."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Summary of AHRQ\u2019s Comparative Effectiveness Review of Drug Therapy for Rheumatoid Arthritis (RA) in Adults \u2013 An Update": {
+                    "explanation": "This paper is a review paper that summarizes existing literature on the comparative effectiveness of disease-modifying anti-rheumatic drugs (DMARDs) used to treat adults with rheumatoid arthritis (RA). It does not present novel findings or hypotheses related to the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2012,
+        "source_paper": {
+            "paperId": "67b2bf1418718011f501f278740aebad8409673b",
+            "title": "Methotrexate therapy in rheumatoid arthritis after failure to sulphasalazine: to switch or to add?",
+            "abstract": "OBJECTIVES\nMTX, either alone or in combination with SSZ, is effective in the treatment of RA. Trials have shown that, after SSZ failure, the addition of MTX to SSZ is more effective than a switch to MTX. Whether this is also the case in daily practice has not been analysed yet. In this study, we compared the efficacy of a switch to MTX monotherapy with that of the addition of MTX to SSZ in the daily clinical practice of RA patients who had failed SSZ monotherapy in the Nijmegen RA Inception Cohort.\n\n\nMETHODS\nFor this study, 230 patients who failed to SSZ monotherapy were followed for up to 52 weeks. A total of 124 underwent a switch to MTX alone, whereas 106 patients received the combination of MTX and SSZ. The primary outcome measure was the mean change in the disease activity score (DAS28) after 24 weeks.\n\n\nRESULTS\nBoth treatment groups showed a significant decrease in DAS28 after 24 weeks, which was similar in both groups. Drug survival analysis showed that the chance to stop with a DMARD within 52 weeks was higher in the MTX-SSZ group (P <0.01).\n\n\nCONCLUSIONS\nIn RA patients who failed to SSZ the clinical efficacy of a switch to MTX monotherapy was similar to that of the addition of MTX, suggesting that in daily clinical practice a switch to MTX is a good option for patients with an inadequate response to SSZ.",
+            "year": 2009,
+            "citation_count": 6,
+            "relevance": 2,
+            "explanation": "This paper explores the treatment options for rheumatoid arthritis patients after sulphasalazine failure, which is related to the source paper that compared sulphasalazine with placebo in rheumatoid factor-negative rheumatoid arthritis. The key hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the effectiveness of sulphasalazine in combination with methotrexate."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Summary of AHRQ\u2019s Comparative Effectiveness Review of Drug Therapy for Rheumatoid Arthritis (RA) in Adults \u2013 An Update": {
+                    "explanation": "This paper is a review of existing literature, summarizing and integrating available data on the comparative effectiveness of disease-modifying anti-rheumatic drugs (DMARDs) used to treat adults with rheumatoid arthritis (RA). It does not build upon or use the source paper's findings as a sub-hypothesis, but rather provides a broad overview of the current state of research in the field.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2014,
+        "source_paper": {
+            "paperId": "67b2bf1418718011f501f278740aebad8409673b",
+            "title": "Methotrexate therapy in rheumatoid arthritis after failure to sulphasalazine: to switch or to add?",
+            "abstract": "OBJECTIVES\nMTX, either alone or in combination with SSZ, is effective in the treatment of RA. Trials have shown that, after SSZ failure, the addition of MTX to SSZ is more effective than a switch to MTX. Whether this is also the case in daily practice has not been analysed yet. In this study, we compared the efficacy of a switch to MTX monotherapy with that of the addition of MTX to SSZ in the daily clinical practice of RA patients who had failed SSZ monotherapy in the Nijmegen RA Inception Cohort.\n\n\nMETHODS\nFor this study, 230 patients who failed to SSZ monotherapy were followed for up to 52 weeks. A total of 124 underwent a switch to MTX alone, whereas 106 patients received the combination of MTX and SSZ. The primary outcome measure was the mean change in the disease activity score (DAS28) after 24 weeks.\n\n\nRESULTS\nBoth treatment groups showed a significant decrease in DAS28 after 24 weeks, which was similar in both groups. Drug survival analysis showed that the chance to stop with a DMARD within 52 weeks was higher in the MTX-SSZ group (P <0.01).\n\n\nCONCLUSIONS\nIn RA patients who failed to SSZ the clinical efficacy of a switch to MTX monotherapy was similar to that of the addition of MTX, suggesting that in daily clinical practice a switch to MTX is a good option for patients with an inadequate response to SSZ.",
+            "year": 2009,
+            "citation_count": 6,
+            "relevance": 2,
+            "explanation": "This paper explores the treatment options for rheumatoid arthritis patients after sulphasalazine failure, which is related to the source paper that compared sulphasalazine with placebo in rheumatoid factor-negative rheumatoid arthritis. The key hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the effectiveness of sulphasalazine in combination with methotrexate."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Efficacy of conventional synthetic disease-modifying antirheumatic drugs, glucocorticoids and tofacitinib: a systematic literature review informing the 2013 update of the EULAR recommendations for management of rheumatoid arthritis": {
+                    "explanation": "This paper is a systematic literature review and does not build upon or test the hypothesis presented in the source paper. Instead, it summarizes existing literature and lacks novel hypotheses or findings.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2014,
+        "source_paper": {
+            "paperId": "67b2bf1418718011f501f278740aebad8409673b",
+            "title": "Methotrexate therapy in rheumatoid arthritis after failure to sulphasalazine: to switch or to add?",
+            "abstract": "OBJECTIVES\nMTX, either alone or in combination with SSZ, is effective in the treatment of RA. Trials have shown that, after SSZ failure, the addition of MTX to SSZ is more effective than a switch to MTX. Whether this is also the case in daily practice has not been analysed yet. In this study, we compared the efficacy of a switch to MTX monotherapy with that of the addition of MTX to SSZ in the daily clinical practice of RA patients who had failed SSZ monotherapy in the Nijmegen RA Inception Cohort.\n\n\nMETHODS\nFor this study, 230 patients who failed to SSZ monotherapy were followed for up to 52 weeks. A total of 124 underwent a switch to MTX alone, whereas 106 patients received the combination of MTX and SSZ. The primary outcome measure was the mean change in the disease activity score (DAS28) after 24 weeks.\n\n\nRESULTS\nBoth treatment groups showed a significant decrease in DAS28 after 24 weeks, which was similar in both groups. Drug survival analysis showed that the chance to stop with a DMARD within 52 weeks was higher in the MTX-SSZ group (P <0.01).\n\n\nCONCLUSIONS\nIn RA patients who failed to SSZ the clinical efficacy of a switch to MTX monotherapy was similar to that of the addition of MTX, suggesting that in daily clinical practice a switch to MTX is a good option for patients with an inadequate response to SSZ.",
+            "year": 2009,
+            "citation_count": 6,
+            "relevance": 2,
+            "explanation": "This paper explores the treatment options for rheumatoid arthritis patients after sulphasalazine failure, which is related to the source paper that compared sulphasalazine with placebo in rheumatoid factor-negative rheumatoid arthritis. The key hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the effectiveness of sulphasalazine in combination with methotrexate."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Efficacy of conventional synthetic disease-modifying antirheumatic drugs, glucocorticoids and tofacitinib: a systematic literature review informing the 2013 update of the EULAR recommendations for management of rheumatoid arthritis": {
+                    "explanation": "This paper is a systematic literature review and does not present any novel hypothesis or findings. It summarizes existing literature, including the efficacy of methotrexate (MTX) in rheumatoid arthritis (RA), but does not build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    }
+]

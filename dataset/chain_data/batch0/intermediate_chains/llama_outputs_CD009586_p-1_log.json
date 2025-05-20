@@ -1,0 +1,406 @@
+[
+    {
+        "year": 2009,
+        "source_paper": {
+            "paperId": "ef32ba9194108fd2ddb62817e095725db40bcd55",
+            "pmid": "17673732",
+            "title": "Screening versus routine practice in detection of atrial fibrillation in patients aged 65 or over: cluster randomised controlled trial",
+            "abstract": "Objectives To assess whether screening improves the detection of atrial fibrillation (cluster randomisation) and to compare systematic and opportunistic screening. Design Multicentred cluster randomised controlled trial, with subsidiary trial embedded within the intervention arm. Setting 50 primary care centres in England, with further individual randomisation of patients in the intervention practices. Participants 14\u2009802 patients aged 65 or over in 25 intervention and 25 control practices. Interventions Patients in intervention practices were randomly allocated to systematic screening (invitation for electrocardiography) or opportunistic screening (pulse taking and invitation for electrocardiography if the pulse was irregular). Screening took place over 12 months in each practice from October 2001 to February 2003. No active screening took place in control practices. Main outcome measure Newly identified atrial fibrillation. Results The detection rate of new cases of atrial fibrillation was 1.63% a year in the intervention practices and 1.04% in control practices (difference 0.59%, 95% confidence interval 0.20% to 0.98%). Systematic and opportunistic screening detected similar numbers of new cases (1.62% v 1.64%, difference 0.02%, \u22120.5% to 0.5%). Conclusion Active screening for atrial fibrillation detects additional cases over current practice. The preferred method of screening in patients aged 65 or over in primary care is opportunistic pulse taking with follow-up electrocardiography. Trial registration Current Controlled Trials ISRCTN19633732.",
+            "year": 2007,
+            "citation_count": 115
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Anticoagulant Management in Patients with Atrial Fibrillation": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it discusses the management of atrial fibrillation, which was the focus of the source paper's screening and detection methods.",
+                    "relevance": 2
+                },
+                "2. Geriatric assessment: periodic examination of elderly patients according to evidence based guidelines": {
+                    "explanation": "This paper is a review paper and does not have a direct connection to the source paper. It discusses geriatric assessment in general and does not specifically address atrial fibrillation or the findings of the source paper.",
+                    "relevance": 0
+                },
+                "3. Prevention of Atrial Fibrillation: Report From a National Heart, Lung, and Blood Institute Workshop": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it discusses the prevention of atrial fibrillation, which was the focus of the source paper's screening and detection methods.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Anticoagulant Management in Patients with Atrial Fibrillation": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it discusses the management of atrial fibrillation, which was the focus of the source paper's screening and detection methods.",
+                    "relevance": 2
+                },
+                "2. Prevention of Atrial Fibrillation: Report From a National Heart, Lung, and Blood Institute Workshop": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it discusses the prevention of atrial fibrillation, which was the focus of the source paper's screening and detection methods.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2012,
+        "source_paper": {
+            "paperId": "70e9b280fc04b1d8eda151b20734e5ce69a163fb",
+            "title": "Anticoagulant management in patients with atrial fibrillation.",
+            "abstract": "Atrial fibrillation (AF) is the most common cardiac arrhythmia and is associated with a high risk of embolic stroke (cause in 15% of all strokes and 30% of strokes in those >75 years of age). Anticoagulation with warfarin will reduce stroke risk by about two thirds. The main risks of anticoagulation, namely bleeding, can be minimized by maintaining anticoagulation control within the international normalized range range of 2.0 to 3.0 (target: 2.5). To have a public health impact, patients with AF need efficient and correct identification, with appropriate treatment directed at those patients at most risk from the condition.",
+            "year": 2009,
+            "citation_count": 3,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it discusses the management of atrial fibrillation, which was the focus of the source paper's screening and detection methods."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Stroke and atrial fibrillation": {
+                    "explanation": "This paper is a review article discussing the relationship between atrial fibrillation and stroke, which is a topic related to the source paper. However, it does not present any new findings or hypotheses that build upon or depend on the source paper.",
+                    "relevance": 0
+                },
+                "2. Anticoagulant use and its effect on bleeding and complications in total knee arthroplasty": {
+                    "explanation": "This paper investigates the effect of anticoagulants, including warfarin, on total knee arthroplasty. Although warfarin is mentioned in the source paper as an anticoagulant used to reduce stroke risk in patients with atrial fibrillation, this paper's hypothesis is not inspired by or dependent on the source paper's findings. Instead, it explores a different application of anticoagulants.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2012,
+        "source_paper": {
+            "paperId": "70e9b280fc04b1d8eda151b20734e5ce69a163fb",
+            "title": "Anticoagulant management in patients with atrial fibrillation.",
+            "abstract": "Atrial fibrillation (AF) is the most common cardiac arrhythmia and is associated with a high risk of embolic stroke (cause in 15% of all strokes and 30% of strokes in those >75 years of age). Anticoagulation with warfarin will reduce stroke risk by about two thirds. The main risks of anticoagulation, namely bleeding, can be minimized by maintaining anticoagulation control within the international normalized range range of 2.0 to 3.0 (target: 2.5). To have a public health impact, patients with AF need efficient and correct identification, with appropriate treatment directed at those patients at most risk from the condition.",
+            "year": 2009,
+            "citation_count": 3,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it discusses the management of atrial fibrillation, which was the focus of the source paper's screening and detection methods."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Stroke and atrial fibrillation": {
+                    "explanation": "This paper is a review paper and does not have any direct connection with the source paper. It discusses the relationship between atrial fibrillation and stroke, but it does not build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 0
+                },
+                "2. Anticoagulant use and its effect on bleeding and complications in total knee arthroplasty": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the effect of warfarin, an anticoagulant mentioned in the source paper, on total knee arthroplasty. However, the focus of the paper is on a different medical condition, and the source paper's findings on atrial fibrillation are not directly used as a sub-hypothesis.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Anticoagulant use and its effect on bleeding and complications in total knee arthroplasty": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the effect of warfarin, an anticoagulant mentioned in the source paper, on total knee arthroplasty. However, the focus of the paper is on a different medical condition, and the source paper's findings on atrial fibrillation are not directly used as a sub-hypothesis.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2013,
+        "source_paper": {
+            "paperId": "259ff968972670c3751de9090abff63dda4fd9cf",
+            "title": "Anticoagulant use and its effect on bleeding and complications in total knee arthroplasty.",
+            "abstract": "Currently, there is very limited literature on the effect of long-term anticoagulants on total knee arthroplasty. The primary purpose of this study was to determine the effect of warfarin and clopidogrel on the transfusion rate, intra-operative blood loss, and postoperative blood loss for total knee arthroplasty. The secondary purpose was to determine their effect on post operative wound complications and length of stay. Data was collected retrospectively from medical charts between 2003-2008 and case matched to a control group. The patients on warfarin had a higher rate of blood transfusion, blood loss, and length of hospital stay compared to the clopidogrel and control groups.",
+            "year": 2012,
+            "citation_count": 13,
+            "relevance": 1,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the effect of warfarin, an anticoagulant mentioned in the source paper, on total knee arthroplasty. However, the focus of the paper is on a different medical condition, and the source paper's findings on atrial fibrillation are not directly used as a sub-hypothesis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. The Approach to Patients with Bleeding Disorders Who Do Not Accept Blood-Derived Products": {
+                    "explanation": "This paper is not directly related to the source paper, as it focuses on managing patients with bleeding disorders who refuse blood-derived products, whereas the source paper explores the effect of anticoagulants on total knee arthroplasty. The paper discusses bloodless medicine and surgery, which is a broader concept that does not specifically build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "2. COMPARISON OF FLOSEAL \u00ae AND ELECTROCAUTERY IN HEMOSTASIS AFTER TOTAL KNEE ARTHROPLASTY": {
+                    "explanation": "This paper is related to the source paper, as it investigates hemostasis in total knee arthroplasty, which is also the context of the source paper. However, the paper explores a different aspect (comparing Floseal and electrocautery) and does not directly build upon or depend on the findings of the source paper regarding anticoagulants.",
+                    "relevance": 1
+                },
+                "3. Comparison of Floseal(r) and electrocautery in hemostasis after total knee arthroplasty": {
+                    "explanation": "This paper is a duplicate of paper 2 and has the same relevance score.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. COMPARISON OF FLOSEAL \u00ae AND ELECTROCAUTERY IN HEMOSTASIS AFTER TOTAL KNEE ARTHROPLASTY": {
+                    "explanation": "This paper is related to the source paper, as it investigates hemostasis in total knee arthroplasty, which is also the context of the source paper. However, the paper explores a different aspect (comparing Floseal and electrocautery) and does not directly build upon or depend on the findings of the source paper regarding anticoagulants.",
+                    "relevance": 1
+                },
+                "2. Comparison of Floseal(r) and electrocautery in hemostasis after total knee arthroplasty": {
+                    "explanation": "This paper is a duplicate of paper 1 and has the same relevance score.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2014,
+        "source_paper": {
+            "paperId": "259ff968972670c3751de9090abff63dda4fd9cf",
+            "title": "Anticoagulant use and its effect on bleeding and complications in total knee arthroplasty.",
+            "abstract": "Currently, there is very limited literature on the effect of long-term anticoagulants on total knee arthroplasty. The primary purpose of this study was to determine the effect of warfarin and clopidogrel on the transfusion rate, intra-operative blood loss, and postoperative blood loss for total knee arthroplasty. The secondary purpose was to determine their effect on post operative wound complications and length of stay. Data was collected retrospectively from medical charts between 2003-2008 and case matched to a control group. The patients on warfarin had a higher rate of blood transfusion, blood loss, and length of hospital stay compared to the clopidogrel and control groups.",
+            "year": 2012,
+            "citation_count": 13,
+            "relevance": 1,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the effect of warfarin, an anticoagulant mentioned in the source paper, on total knee arthroplasty. However, the focus of the paper is on a different medical condition, and the source paper's findings on atrial fibrillation are not directly used as a sub-hypothesis."
+        },
+        "llama_output": {},
+        "seed": 42
+    },
+    {
+        "year": 2015,
+        "source_paper": {
+            "paperId": "eac29c32d086beace60829aeae6eb5daa2a2e27c",
+            "title": "Comparison of Floseal(r) and electrocautery in hemostasis after total knee arthroplasty",
+            "abstract": "Objective To evaluate whether hemostasis with eletrocauterization in comparison with Floseal(r) leads to different bleeding rates during total knee arthroplasty. Methods A comparative study was performed between two groups: group with ten consecutive total knee arthroplasties with Floseal(r) used as hemostatic method and control group with ten consecutive total knee arthroplasties with eletrocauterization as hemostatic method. Bleeding parameters such as debit of the drain, liquid infusion and blood transfusion rate were recorded. Results Floseal(r) group received less blood transfusion, less liquid infusion and lower drainage in absolute numbers compared to the control group. However, no parameter was statistically significant. Conclusion Hemostasis with Floseal(r) is as effective as hemostasis with eletrocauterization, what makes it a viable alternative to patients with contraindication to electric scalpel use. Level of Evidence II, Prospective Comparative Study.",
+            "year": 2013,
+            "citation_count": 6,
+            "relevance": 1,
+            "explanation": "This paper is related to the source paper, as it investigates hemostasis in total knee arthroplasty, which is also the context of the source paper. However, the paper explores a different aspect (comparing Floseal and electrocautery) and does not directly build upon or depend on the findings of the source paper regarding anticoagulants."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Similar patient outcomes yet different hospital costs between flowable hemostatic agents": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it compares the effectiveness and cost of different hemostatic agents, including FLOSEAL, which was used in the source paper. However, it does not directly build upon the source paper's findings or use them as a sub-hypothesis.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Similar patient outcomes yet different hospital costs between flowable hemostatic agents": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it compares the effectiveness and cost of different hemostatic agents, including FLOSEAL, which was used in the source paper. However, it does not directly build upon the source paper's findings or use them as a sub-hypothesis.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2016,
+        "source_paper": {
+            "paperId": "53fbb00d2fe20b7018f5d1c4619c9a43721f125d",
+            "title": "Similar patient outcomes yet different hospital costs between flowable hemostatic agents",
+            "abstract": "Abstract Introduction: SURGIFLO\u2122 and FLOSEAL\u00ae are absorbable gelatin-based products that form hemostatic matrices. These products are indicated as adjuncts to hemostasis when control of bleeding by conventional surgical techniques (such as suture, ligature or cautery) is ineffective or impractical. This study analyzed the effect of surgery time and the choice of product on cost to the hospital and patient outcomes. Methods: The data source was the Premier Hospital database from January 1, 2010\u2013June 30, 2012. Eligible patients were \u226518 years of age with a spinal fusion or refusion surgery with either SURGIFLO\u2122 (Ethicon Inc.) or FLOSEAL\u00ae (Baxter International Inc.). The hospital Charge Master was used to identify the amount of flowable product, whether it included Thrombin, and the cost. Multivariable models were performed on overall cost and likelihood of surgical complications. All models were adjusted for patient demographics and severity as well as hospital, and surgical characteristics. Results: A total of 24,882 patient records from 121 hospitals were analysed, which included 15,088 FLOSEAL\u00ae records and 9794 SURGIFLO\u2122 records, with 1498 SURGIFLO\u2122 with Thrombin patients. Little or no differences in surgical complications were found between surgeries with SURGIFLO\u2122 vs surgery with FLOSEAL\u00ae. Regression models showed a reduction in cost of $65 associated with use of SURGIFLO\u2122 with Thrombin and an additional $21 reduction in hospital cost for each additional hour of surgery. Modeling which accounts for hospital fixed effects suggest that, in addition to a gap of \u223c$300 favoring SURGIFLO\u2122 with Thrombin, every additional hour of surgery was associated with an additional reduction in hospital costs of \u223c$26. Conclusions: While the choice of flowable product had no effect on clinical outcomes, use of SURGIFLO\u2122 was associated with hospital cost savings for flowable product. These savings increased with the length of surgery, even when controlling for the amount of flowable product (mL) used.",
+            "year": 2015,
+            "citation_count": 21,
+            "relevance": 1,
+            "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it compares the effectiveness and cost of different hemostatic agents, including FLOSEAL, which was used in the source paper. However, it does not directly build upon the source paper's findings or use them as a sub-hypothesis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. A hospital cost analysis of a fibrin sealant patch in soft tissue and hepatic surgical bleeding": {
+                    "explanation": "This paper explores the cost-effectiveness of a different hemostatic agent (fibrin sealant patch) compared to standard of care. Although it does not directly build upon the source paper, it shares a similar goal of evaluating the cost-effectiveness of hemostatic agents. The hypothesis in this paper is partially dependent on the understanding of hemostatic agents and their cost implications, which is a related concept to the source paper.",
+                    "relevance": 1
+                },
+                "2. A Retrospective Analysis of the Hemostatic Effect of FloSeal in Patients Undergoing Robot-Assisted Laparoscopic Radical Prostatectomy": {
+                    "explanation": "This paper specifically examines the hemostatic effect of FloSeal, which is one of the products compared in the source paper. The hypothesis in this paper is partially dependent on the understanding of FloSeal's properties and effectiveness, which is a sub-hypothesis of the source paper.",
+                    "relevance": 2
+                },
+                "3. Topical Hemostatic Agents : A Review of the Literature": {
+                    "explanation": "This paper is a review of the literature on topical hemostatic agents. As a review paper, it does not present novel findings or hypotheses, and therefore has no direct connection to the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. A Retrospective Analysis of the Hemostatic Effect of FloSeal in Patients Undergoing Robot-Assisted Laparoscopic Radical Prostatectomy": {
+                    "explanation": "This paper specifically examines the hemostatic effect of FloSeal, which is one of the products compared in the source paper. The hypothesis in this paper is partially dependent on the understanding of FloSeal's properties and effectiveness, which is a sub-hypothesis of the source paper.",
+                    "relevance": 2
+                },
+                "2. A hospital cost analysis of a fibrin sealant patch in soft tissue and hepatic surgical bleeding": {
+                    "explanation": "This paper explores the cost-effectiveness of a different hemostatic agent (fibrin sealant patch) compared to standard of care. Although it does not directly build upon the source paper, it shares a similar goal of evaluating the cost-effectiveness of hemostatic agents. The hypothesis in this paper is partially dependent on the understanding of hemostatic agents and their cost implications, which is a related concept to the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2017,
+        "source_paper": {
+            "paperId": "53fbb00d2fe20b7018f5d1c4619c9a43721f125d",
+            "title": "Similar patient outcomes yet different hospital costs between flowable hemostatic agents",
+            "abstract": "Abstract Introduction: SURGIFLO\u2122 and FLOSEAL\u00ae are absorbable gelatin-based products that form hemostatic matrices. These products are indicated as adjuncts to hemostasis when control of bleeding by conventional surgical techniques (such as suture, ligature or cautery) is ineffective or impractical. This study analyzed the effect of surgery time and the choice of product on cost to the hospital and patient outcomes. Methods: The data source was the Premier Hospital database from January 1, 2010\u2013June 30, 2012. Eligible patients were \u226518 years of age with a spinal fusion or refusion surgery with either SURGIFLO\u2122 (Ethicon Inc.) or FLOSEAL\u00ae (Baxter International Inc.). The hospital Charge Master was used to identify the amount of flowable product, whether it included Thrombin, and the cost. Multivariable models were performed on overall cost and likelihood of surgical complications. All models were adjusted for patient demographics and severity as well as hospital, and surgical characteristics. Results: A total of 24,882 patient records from 121 hospitals were analysed, which included 15,088 FLOSEAL\u00ae records and 9794 SURGIFLO\u2122 records, with 1498 SURGIFLO\u2122 with Thrombin patients. Little or no differences in surgical complications were found between surgeries with SURGIFLO\u2122 vs surgery with FLOSEAL\u00ae. Regression models showed a reduction in cost of $65 associated with use of SURGIFLO\u2122 with Thrombin and an additional $21 reduction in hospital cost for each additional hour of surgery. Modeling which accounts for hospital fixed effects suggest that, in addition to a gap of \u223c$300 favoring SURGIFLO\u2122 with Thrombin, every additional hour of surgery was associated with an additional reduction in hospital costs of \u223c$26. Conclusions: While the choice of flowable product had no effect on clinical outcomes, use of SURGIFLO\u2122 was associated with hospital cost savings for flowable product. These savings increased with the length of surgery, even when controlling for the amount of flowable product (mL) used.",
+            "year": 2015,
+            "citation_count": 21,
+            "relevance": 1,
+            "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it compares the effectiveness and cost of different hemostatic agents, including FLOSEAL, which was used in the source paper. However, it does not directly build upon the source paper's findings or use them as a sub-hypothesis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Cost-consequence analysis of two different active flowable hemostatic matrices in spine surgery patients": {
+                    "explanation": "This paper directly contradicts the source paper's findings, suggesting that FLOSEAL may be more cost-effective than SURGIFLO in spine surgery patients. However, the key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it builds upon the comparison between FLOSEAL and SURGIFLO.",
+                    "relevance": 2
+                },
+                "2. Cost-consequence analysis of different active flowable hemostatic matrices in cardiac surgical procedures": {
+                    "explanation": "Similar to the first paper, this study also explores the cost-effectiveness of FLOSEAL versus SURGIFLO, but in cardiac surgical procedures. The hypothesis in this paper is also at least partially dependent on the findings of the source paper, as it extends the comparison to a different surgical context.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Cost-consequence analysis of two different active flowable hemostatic matrices in spine surgery patients": {
+                    "explanation": "This paper directly contradicts the source paper's findings, suggesting that FLOSEAL may be more cost-effective than SURGIFLO in spine surgery patients. However, the key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it builds upon the comparison between FLOSEAL and SURGIFLO.",
+                    "relevance": 2
+                },
+                "2. Cost-consequence analysis of different active flowable hemostatic matrices in cardiac surgical procedures": {
+                    "explanation": "Similar to the first paper, this study also explores the cost-effectiveness of FLOSEAL versus SURGIFLO, but in cardiac surgical procedures. The hypothesis in this paper is also at least partially dependent on the findings of the source paper, as it extends the comparison to a different surgical context.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2018,
+        "source_paper": {
+            "paperId": "9a81e51b398a95e081da74e2c23cee07e9de2cd3",
+            "title": "Cost-consequence analysis of two different active flowable hemostatic matrices in spine surgery patients",
+            "abstract": "Abstract Objectives: A recently published retrospective analysis comparing two different active flowable hemostatic matrices (FLOSEAL and SURGIFLO Kit with Thrombin) showed significantly increased resource use and complications (surgery time, risk of blood product transfusion, and amount of matrix used) with SURGIFLO use compared to FLOSEAL in major spine surgery, and also significantly increased surgical time with SURGIFLO use in severe spine surgery. This analysis was developed as a follow-up to this prior analysis, to evaluate the cost-consequence of using FLOSEAL vs SURGIFLO in major and severe spine surgery. Methods: A cost consequence model was constructed from a US hospital provider perspective. Model parameters combined clinical inputs from the published retrospective analysis with supplemental analyses on annual spine surgery volume using the 2012 National Inpatient Sample (NIS) database. Cost of hemostatic matrices, blood product transfusion, and operating room time were identified from published literature. Various one-way and probabilistic sensitivity analyses were performed. Results: The base case for a medium volume hospital showed that, compared to SURGIFLO, patients receiving FLOSEAL required three fewer blood product transfusions and saved 27\u2009h of OR time, resulting in annual savings of $151 per major and $574 per severe spine surgery. Additional scenarios for high and low volume hospitals supported cost savings in the base case. Probabilistic sensitivity analysis revealed FLOSEAL was cost-saving in 76% of simulations in major spine and 97% of iterations in severe spine surgery. Conclusions: This economic analysis indicates that use of FLOSEAL instead of SURGIFLO hemostatic matrices to induce hemostasis in both major and severe spine surgery could potentially lead to sizable cost savings in US hospitals, regardless of spinal surgery case-mix.",
+            "year": 2017,
+            "citation_count": 16,
+            "relevance": 2,
+            "explanation": "This paper directly contradicts the source paper's findings, suggesting that FLOSEAL may be more cost-effective than SURGIFLO in spine surgery patients. However, the key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it builds upon the comparison between FLOSEAL and SURGIFLO."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Cost\u2013consequence analysis of a hemostatic matrix alone or in combination for spine surgery patients": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it also evaluates the cost-consequence of using different hemostatic matrices in spine surgery. The source paper's findings on the cost-effectiveness of FLOSEAL vs SURGIFLO are used as a basis for this paper's analysis of FLOSEAL alone vs in combination with gelatin/thrombin.",
+                    "relevance": 2
+                },
+                "2. Clinical effectiveness and versatility of a sealing hemostatic patch (HEMOPATCH) in multiple surgical specialties": {
+                    "explanation": "This paper is a review paper that discusses the clinical effectiveness and versatility of a different hemostatic agent (HEMOPATCH) in various surgical specialties. It does not have a direct connection to the source paper, which focuses on the cost-consequence analysis of FLOSEAL and SURGIFLO in spine surgery.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Cost\u2013consequence analysis of a hemostatic matrix alone or in combination for spine surgery patients": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it also evaluates the cost-consequence of using different hemostatic matrices in spine surgery. The source paper's findings on the cost-effectiveness of FLOSEAL vs SURGIFLO are used as a basis for this paper's analysis of FLOSEAL alone vs in combination with gelatin/thrombin.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2019,
+        "source_paper": {
+            "paperId": "9a81e51b398a95e081da74e2c23cee07e9de2cd3",
+            "title": "Cost-consequence analysis of two different active flowable hemostatic matrices in spine surgery patients",
+            "abstract": "Abstract Objectives: A recently published retrospective analysis comparing two different active flowable hemostatic matrices (FLOSEAL and SURGIFLO Kit with Thrombin) showed significantly increased resource use and complications (surgery time, risk of blood product transfusion, and amount of matrix used) with SURGIFLO use compared to FLOSEAL in major spine surgery, and also significantly increased surgical time with SURGIFLO use in severe spine surgery. This analysis was developed as a follow-up to this prior analysis, to evaluate the cost-consequence of using FLOSEAL vs SURGIFLO in major and severe spine surgery. Methods: A cost consequence model was constructed from a US hospital provider perspective. Model parameters combined clinical inputs from the published retrospective analysis with supplemental analyses on annual spine surgery volume using the 2012 National Inpatient Sample (NIS) database. Cost of hemostatic matrices, blood product transfusion, and operating room time were identified from published literature. Various one-way and probabilistic sensitivity analyses were performed. Results: The base case for a medium volume hospital showed that, compared to SURGIFLO, patients receiving FLOSEAL required three fewer blood product transfusions and saved 27\u2009h of OR time, resulting in annual savings of $151 per major and $574 per severe spine surgery. Additional scenarios for high and low volume hospitals supported cost savings in the base case. Probabilistic sensitivity analysis revealed FLOSEAL was cost-saving in 76% of simulations in major spine and 97% of iterations in severe spine surgery. Conclusions: This economic analysis indicates that use of FLOSEAL instead of SURGIFLO hemostatic matrices to induce hemostasis in both major and severe spine surgery could potentially lead to sizable cost savings in US hospitals, regardless of spinal surgery case-mix.",
+            "year": 2017,
+            "citation_count": 16,
+            "relevance": 2,
+            "explanation": "This paper directly contradicts the source paper's findings, suggesting that FLOSEAL may be more cost-effective than SURGIFLO in spine surgery patients. However, the key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it builds upon the comparison between FLOSEAL and SURGIFLO."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. 20 Years of Floseal Hemostatic Agent Use in Neurology and Spinal Surgery": {
+                    "explanation": "This paper is a review paper that discusses the benefits of FLOSEAL, including its efficacy in achieving hemostasis and reducing blood loss. Although it shares a connection with the source paper in terms of the product being discussed, it lacks novel hypotheses or findings and does not directly build upon the source paper's results. Therefore, it is assigned a relevance score of 0.",
+                    "relevance": 0
+                },
+                "2. Efficacy of Topical Hemostatic Agents: A Comparative Evaluation of Two Gelatin/Thrombin-Based Hemostatic Matrices in a Porcine Kidney Surgical Model": {
+                    "explanation": "This paper explores the efficacy of two different gelatin-thrombin-based hemostatic matrices in a porcine kidney surgical model. While it does not directly build upon the source paper's findings, it investigates a related topic in the field of hemostatic agents. Therefore, it is assigned a relevance score of 1.",
+                    "relevance": 1
+                },
+                "3. [Local hemostatic agent - fluid active hemostatic matrix]": {
+                    "explanation": "This paper reviews the use of a fluid active hemostatic matrix as a local hemostatic agent. Although it discusses the benefits of this type of agent, it does not provide any new insights or findings that directly build upon the source paper's results. However, it does touch upon the topic of hemostatic agents, which is related to the source paper. Therefore, it is assigned a relevance score of 1.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Efficacy of Topical Hemostatic Agents: A Comparative Evaluation of Two Gelatin/Thrombin-Based Hemostatic Matrices in a Porcine Kidney Surgical Model": {
+                    "explanation": "This paper explores the efficacy of two different gelatin-thrombin-based hemostatic matrices in a porcine kidney surgical model. While it does not directly build upon the source paper's findings, it investigates a related topic in the field of hemostatic agents. Therefore, it is assigned a relevance score of 1.",
+                    "relevance": 1
+                },
+                "2. [Local hemostatic agent - fluid active hemostatic matrix]": {
+                    "explanation": "This paper reviews the use of a fluid active hemostatic matrix as a local hemostatic agent. Although it discusses the benefits of this type of agent, it does not provide any new insights or findings that directly build upon the source paper's results. However, it does touch upon the topic of hemostatic agents, which is related to the source paper. Therefore, it is assigned a relevance score of 1.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2019,
+        "source_paper": {
+            "paperId": "7b062e7c27e86459ebdfbf64fe0a16870e1d2d45",
+            "title": "Cost\u2013consequence analysis of a hemostatic matrix alone or in combination for spine surgery patients",
+            "abstract": "Abstract Background: A five-year retrospective database analysis comparing the use of Floseal1 flowable topical hemostat alone (F) and in combination with gelatin/thrombin (F\u2009+\u2009G/T) to achieve hemostasis and control surgical bleeding showed higher resource utilization for F\u2009+\u2009G/T cases relative to F matched pairs during spinal surgery. Lower resource use in the F group was characterized by shorter hospital length of stay and surgical time as well as fewer blood transfusions and less hemostat agent used per surgery. Objective: To evaluate the cost\u2013consequence of using F compared to F\u2009+\u2009G/T in minor, major and severe spinal surgery from the US hospital perspective. Methods: A cost\u2013consequence model was developed using the US hospital perspective. Model inputs include clinical inputs from the literature, cost inputs (hemostatic matrices, blood product transfusion, hospital stay and operating room time) from the literature, and an analysis of annual spine surgery volume (minor, major and severe) using the 2012 National Inpatient Sample (NIS) database. Costs are reported in 2017\u2009US dollars. One-way and probabilistic sensitivity analyses address sources of variability in the results. Results: A medium-volume hospital (130 spine surgeries per year) using F versus F\u2009+\u2009G/T for spine surgeries is expected to require 85 less hours of surgical time, 58 fewer hospital days and 7 fewer blood transfusions in addition to hemostat volume savings (F: 1\u2009mL, thrombin: 1994\u2009mL). The cost savings associated with the hospital resources for a medium-volume hospital are expected to be $317,959 (surgical hours\u2009=\u2009$154,746, hospital days\u2009=\u2009$125,237, blood transfusions\u2009=\u2009$19,023, hemostatic agents\u2009=\u2009$18,953) or $2445 per spine surgery. Conclusions: The use of F versus F\u2009+\u2009G/T could lead to annual cost savings for US hospitals performing a low to high volume of spinal surgeries per year.",
+            "year": 2018,
+            "citation_count": 10,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it also evaluates the cost-consequence of using different hemostatic matrices in spine surgery. The source paper's findings on the cost-effectiveness of FLOSEAL vs SURGIFLO are used as a basis for this paper's analysis of FLOSEAL alone vs in combination with gelatin/thrombin."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. 20 Years of Floseal Hemostatic Agent Use in Neurology and Spinal Surgery": {
+                    "explanation": "This paper is a review paper that summarizes existing literature, including the use of Floseal in spinal surgery, but does not provide novel hypotheses or findings that are directly connected to the source paper's hypothesis.",
+                    "relevance": 0
+                },
+                "2. [Local hemostatic agent - fluid active hemostatic matrix]": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it discusses the use of fluid active hemostatic matrix, which is related to the Floseal hemostatic matrix used in the source paper. The paper also explores the economic benefits of reduced blood loss, which is in line with the cost-consequence analysis in the source paper.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. [Local hemostatic agent - fluid active hemostatic matrix]": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it discusses the use of fluid active hemostatic matrix, which is related to the Floseal hemostatic matrix used in the source paper. The paper also explores the economic benefits of reduced blood loss, which is in line with the cost-consequence analysis in the source paper.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2020,
+        "source_paper": {
+            "paperId": "7b062e7c27e86459ebdfbf64fe0a16870e1d2d45",
+            "title": "Cost\u2013consequence analysis of a hemostatic matrix alone or in combination for spine surgery patients",
+            "abstract": "Abstract Background: A five-year retrospective database analysis comparing the use of Floseal1 flowable topical hemostat alone (F) and in combination with gelatin/thrombin (F\u2009+\u2009G/T) to achieve hemostasis and control surgical bleeding showed higher resource utilization for F\u2009+\u2009G/T cases relative to F matched pairs during spinal surgery. Lower resource use in the F group was characterized by shorter hospital length of stay and surgical time as well as fewer blood transfusions and less hemostat agent used per surgery. Objective: To evaluate the cost\u2013consequence of using F compared to F\u2009+\u2009G/T in minor, major and severe spinal surgery from the US hospital perspective. Methods: A cost\u2013consequence model was developed using the US hospital perspective. Model inputs include clinical inputs from the literature, cost inputs (hemostatic matrices, blood product transfusion, hospital stay and operating room time) from the literature, and an analysis of annual spine surgery volume (minor, major and severe) using the 2012 National Inpatient Sample (NIS) database. Costs are reported in 2017\u2009US dollars. One-way and probabilistic sensitivity analyses address sources of variability in the results. Results: A medium-volume hospital (130 spine surgeries per year) using F versus F\u2009+\u2009G/T for spine surgeries is expected to require 85 less hours of surgical time, 58 fewer hospital days and 7 fewer blood transfusions in addition to hemostat volume savings (F: 1\u2009mL, thrombin: 1994\u2009mL). The cost savings associated with the hospital resources for a medium-volume hospital are expected to be $317,959 (surgical hours\u2009=\u2009$154,746, hospital days\u2009=\u2009$125,237, blood transfusions\u2009=\u2009$19,023, hemostatic agents\u2009=\u2009$18,953) or $2445 per spine surgery. Conclusions: The use of F versus F\u2009+\u2009G/T could lead to annual cost savings for US hospitals performing a low to high volume of spinal surgeries per year.",
+            "year": 2018,
+            "citation_count": 10,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it also evaluates the cost-consequence of using different hemostatic matrices in spine surgery. The source paper's findings on the cost-effectiveness of FLOSEAL vs SURGIFLO are used as a basis for this paper's analysis of FLOSEAL alone vs in combination with gelatin/thrombin."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Efficacy of a topical gelatin-thrombin hemostatic matrix, FLOSEAL\u00ae, in intracranial tumor resection": {
+                    "explanation": "This paper explores the efficacy of FLOSEAL, a topical hemostatic agent, in brain tumor resections, which is related to the source paper's topic of hemostatic matrices in spine surgery. However, the source paper focuses on the cost-consequence analysis of Floseal alone or in combination with gelatin/thrombin, whereas this paper investigates the efficacy of FLOSEAL in a different surgical context. Therefore, the key hypothesis in this paper is inspired by the hypothesis or findings from the source paper.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Efficacy of a topical gelatin-thrombin hemostatic matrix, FLOSEAL\u00ae, in intracranial tumor resection": {
+                    "explanation": "This paper explores the efficacy of FLOSEAL, a topical hemostatic agent, in brain tumor resections, which is related to the source paper's topic of hemostatic matrices in spine surgery. However, the source paper focuses on the cost-consequence analysis of Floseal alone or in combination with gelatin/thrombin, whereas this paper investigates the efficacy of FLOSEAL in a different surgical context. Therefore, the key hypothesis in this paper is inspired by the hypothesis or findings from the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2023,
+        "source_paper": {
+            "paperId": "10452ba8214d2ca25a979283c5dd4cf741295631",
+            "title": "[Local hemostatic agent - fluid active hemostatic matrix].",
+            "abstract": "Uncontrolled surgical bleeding can have significant clinical and economic consequences including advanced medical expenses and impairment of the outcomes. Effective and safe local hemostatic agents based on a fluid active hemostatic matrix are reviewed in the article. The use of this agent is followed by reduced hospital-stay, number of redo interventions for bleeding, reduced time of surgery, intra- and postoperative complication rate and high economic efficiency.",
+            "year": 2019,
+            "citation_count": 6,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it discusses the use of fluid active hemostatic matrix, which is related to the Floseal hemostatic matrix used in the source paper. The paper also explores the economic benefits of reduced blood loss, which is in line with the cost-consequence analysis in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Comparative analysis of efficacy of the new local hemostatic agents": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it explores the efficacy of new local hemostatic agents, which is in line with the source paper's discussion on the use of fluid active hemostatic matrix. However, the source paper's findings are not directly used as a sub-hypothesis, but rather as a starting point for investigating new types of hemostatic agents.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Comparative analysis of efficacy of the new local hemostatic agents": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it explores the efficacy of new local hemostatic agents, which is in line with the source paper's discussion on the use of fluid active hemostatic matrix. However, the source paper's findings are not directly used as a sub-hypothesis, but rather as a starting point for investigating new types of hemostatic agents.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    }
+]

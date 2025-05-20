@@ -1,0 +1,564 @@
+[
+    {
+        "year": 2007,
+        "source_paper": {
+            "paperId": "3ec90e64759ebf0834b7c442a33d50637f341357",
+            "pmid": "17059514",
+            "title": "Effectiveness of an \u2018half elemental diet\u2019 as maintenance therapy for Crohn's disease: a randomized\u2010controlled trial",
+            "abstract": "Although thiopurines have a proven role in maintenance therapy for Crohn's disease, an alternative therapy is needed for patients intolerant or resistant to thiopurines.",
+            "year": 2006,
+            "citation_count": 280
+        },
+        "llama_output": {
+            "paper_list": {
+                "1.Impacts of long\u2010term enteral nutrition on clinical and endoscopic disease activities and mucosal cytokines during remission in patients with Crohn's disease: A prospective study": {
+                    "explanation": "This paper investigates the impacts of long-term enteral nutrition on clinical and endoscopic disease activities and mucosal tissue cytokines in patients with quiescent Crohn's disease, which is partially dependent on the findings of the source paper regarding the effectiveness of an 'half elemental diet' as maintenance therapy for Crohn's disease.",
+                    "relevance": 2
+                },
+                "2.Systematic review: nutritional therapy in paediatric Crohn\u2019s disease": {
+                    "explanation": "This is a review paper that summarizes existing literature on nutritional therapy in pediatric Crohn's disease, but does not present novel findings or hypotheses.",
+                    "relevance": 0
+                },
+                "3.Recent advances in the medical therapy of Crohn's disease in childhood": {
+                    "explanation": "This paper discusses recent advances in medical therapy for Crohn's disease in children, including enteral nutrition, but does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "4.Enteral nutrition for maintenance of remission in Crohn's disease": {
+                    "explanation": "This systematic review evaluates the efficacy of enteral nutrition for the maintenance of remission in Crohn's disease, which is partially dependent on the findings of the source paper regarding the effectiveness of an 'half elemental diet' as maintenance therapy for Crohn's disease.",
+                    "relevance": 2
+                },
+                "5.Enteral nutritional therapy for induction of remission in Crohn's disease": {
+                    "explanation": "This meta-analysis compares the effectiveness of enteral nutrition with corticosteroids for inducing remission in active Crohn's disease, which is related to but does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1.Impacts of long\u2010term enteral nutrition on clinical and endoscopic disease activities and mucosal cytokines during remission in patients with Crohn's disease: A prospective study": {
+                    "explanation": "This paper investigates the impacts of long-term enteral nutrition on clinical and endoscopic disease activities and mucosal tissue cytokines in patients with quiescent Crohn's disease, which is partially dependent on the findings of the source paper regarding the effectiveness of an 'half elemental diet' as maintenance therapy for Crohn's disease.",
+                    "relevance": 2
+                },
+                "2.Enteral nutrition for maintenance of remission in Crohn's disease": {
+                    "explanation": "This systematic review evaluates the efficacy of enteral nutrition for the maintenance of remission in Crohn's disease, which is partially dependent on the findings of the source paper regarding the effectiveness of an 'half elemental diet' as maintenance therapy for Crohn's disease.",
+                    "relevance": 2
+                },
+                "3.Recent advances in the medical therapy of Crohn's disease in childhood": {
+                    "explanation": "This paper discusses recent advances in medical therapy for Crohn's disease in children, including enteral nutrition, but does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2008,
+        "source_paper": {
+            "paperId": "3ec90e64759ebf0834b7c442a33d50637f341357",
+            "pmid": "17059514",
+            "title": "Effectiveness of an \u2018half elemental diet\u2019 as maintenance therapy for Crohn's disease: a randomized\u2010controlled trial",
+            "abstract": "Although thiopurines have a proven role in maintenance therapy for Crohn's disease, an alternative therapy is needed for patients intolerant or resistant to thiopurines.",
+            "year": 2006,
+            "citation_count": 280
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Enteral nutrition in adult Crohn's disease: present status and perspectives.": {
+                    "explanation": "The paper discusses the use of enteral nutrition in adult Crohn's disease patients, including its potential interest in maintenance therapy in selected patient groups. This is related to the source paper's investigation of an 'half elemental diet' as maintenance therapy for Crohn's disease, suggesting that the paper is at least partially dependent on the previous findings regarding enteral nutrition's effects on Crohn's disease.",
+                    "relevance": 2
+                },
+                "2. Crohn\u2019s disease: current treatment options": {
+                    "explanation": "The paper provides an overview of the evidence base of current medical treatments for Crohn's disease, including enteral nutrition. While it mentions the potential of long-term enteral nutritional supplementation for the maintenance of remission in CD, it does not directly build upon or depend on the source paper's findings. Therefore, the connection is weaker.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Enteral nutrition in adult Crohn's disease: present status and perspectives.": {
+                    "explanation": "The paper discusses the use of enteral nutrition in adult Crohn's disease patients, including its potential interest in maintenance therapy in selected patient groups. This is related to the source paper's investigation of an 'half elemental diet' as maintenance therapy for Crohn's disease, suggesting that the paper is at least partially dependent on the previous findings regarding enteral nutrition's effects on Crohn's disease.",
+                    "relevance": 2
+                },
+                "2. Crohn\u2019s disease: current treatment options": {
+                    "explanation": "The paper provides an overview of the evidence base of current medical treatments for Crohn's disease, including enteral nutrition. While it mentions the potential of long-term enteral nutritional supplementation for the maintenance of remission in CD, it does not directly build upon or depend on the source paper's findings. Therefore, the connection is weaker.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2008,
+        "source_paper": {
+            "paperId": "3250a0f5f298803d28587fd39b5ca16aa07aeefe",
+            "title": "Impacts of long\u2010term enteral nutrition on clinical and endoscopic disease activities and mucosal cytokines during remission in patients with Crohn's disease: A prospective study",
+            "abstract": "Background: Long\u2010term enteral nutrition may maintain clinical and endoscopic remission in patients with Crohn's disease (CD). The aim of this prospective study was to investigate the impacts of long\u2010term enteral nutrition on clinical and endoscopic disease activities and mucosal tissue cytokines in patients with quiescent CD. Methods: Forty patients with CD who achieved clinical remission were included. Of these, 20 received continuous elemental diet (Elental) infusion during the nighttime and a low\u2010fat diet during the daytime (EN group) and 20 received neither nutritional therapy nor food restriction (non\u2010EN group). With these regimens, all 40 patients were monitored for 1 year. Further, ileocolonoscopy was performed at entry, at 6 and 12 months, and mucosal biopsies were taken for cytokine assays. Results: On an intention\u2010to\u2010treat basis, 5 patients (25%) in the EN group and 13 (65%) in the non\u2010EN group had a clinical relapse during the 1\u2010year observation (P = 0.03). The mean endoscopic inflammation (EI) scores were not significantly different between the groups at both entry and 6 months, but at 12 months EI scores were significantly higher in the non\u2010EN group than in the EN group (P = 0.04). Additionally, the mucosal tissue interleukin (IL)\u20101&bgr;, IL\u20106, and tumor necrosis factor (TNF)\u2010&agr; levels significantly increased with time in the non\u2010EN group (entry versus 12 months, IL\u20101&bgr;, P = 0.02; IL\u20106, P = 0.002; TNF\u2010&agr;, P = 0.001). In the EN group these cytokines did not show a significant increase. Conclusions: Long\u2010term enteral nutrition in patients with quiescent CD has a clear suppressive effect on clinical and endoscopic disease activities and the mucosal inflammatory cytokine levels. (Inflamm Bowel Dis 2007)",
+            "year": 2007,
+            "citation_count": 126,
+            "relevance": 2,
+            "explanation": "This paper investigates the impacts of long-term enteral nutrition on clinical and endoscopic disease activities and mucosal tissue cytokines in patients with quiescent Crohn's disease, which is partially dependent on the findings of the source paper regarding the effectiveness of an 'half elemental diet' as maintenance therapy for Crohn's disease."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1.Enteral nutrition in adult Crohn's disease: present status and perspectives": {
+                    "explanation": "This paper discusses the current status and future directions of enteral nutrition in adult Crohn's disease, which is partially dependent on the findings of the source paper regarding the impacts of long-term enteral nutrition on clinical and endoscopic disease activities and mucosal cytokines in patients with Crohn's disease.",
+                    "relevance": 2
+                },
+                "2.Is there a role for bowel rest in nutrition management of Crohn's disease?": {
+                    "explanation": "This paper is a review article that discusses the role of bowel rest in nutrition management of Crohn's disease, but it does not build upon or use the findings of the source paper as a sub-hypothesis. It provides a historical context and summarizes existing literature, lacking a novel hypothesis or findings.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1.Enteral nutrition in adult Crohn's disease: present status and perspectives": {
+                    "explanation": "This paper discusses the current status and future directions of enteral nutrition in adult Crohn's disease, which is partially dependent on the findings of the source paper regarding the impacts of long-term enteral nutrition on clinical and endoscopic disease activities and mucosal cytokines in patients with Crohn's disease.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2009,
+        "source_paper": {
+            "paperId": "3250a0f5f298803d28587fd39b5ca16aa07aeefe",
+            "title": "Impacts of long\u2010term enteral nutrition on clinical and endoscopic disease activities and mucosal cytokines during remission in patients with Crohn's disease: A prospective study",
+            "abstract": "Background: Long\u2010term enteral nutrition may maintain clinical and endoscopic remission in patients with Crohn's disease (CD). The aim of this prospective study was to investigate the impacts of long\u2010term enteral nutrition on clinical and endoscopic disease activities and mucosal tissue cytokines in patients with quiescent CD. Methods: Forty patients with CD who achieved clinical remission were included. Of these, 20 received continuous elemental diet (Elental) infusion during the nighttime and a low\u2010fat diet during the daytime (EN group) and 20 received neither nutritional therapy nor food restriction (non\u2010EN group). With these regimens, all 40 patients were monitored for 1 year. Further, ileocolonoscopy was performed at entry, at 6 and 12 months, and mucosal biopsies were taken for cytokine assays. Results: On an intention\u2010to\u2010treat basis, 5 patients (25%) in the EN group and 13 (65%) in the non\u2010EN group had a clinical relapse during the 1\u2010year observation (P = 0.03). The mean endoscopic inflammation (EI) scores were not significantly different between the groups at both entry and 6 months, but at 12 months EI scores were significantly higher in the non\u2010EN group than in the EN group (P = 0.04). Additionally, the mucosal tissue interleukin (IL)\u20101&bgr;, IL\u20106, and tumor necrosis factor (TNF)\u2010&agr; levels significantly increased with time in the non\u2010EN group (entry versus 12 months, IL\u20101&bgr;, P = 0.02; IL\u20106, P = 0.002; TNF\u2010&agr;, P = 0.001). In the EN group these cytokines did not show a significant increase. Conclusions: Long\u2010term enteral nutrition in patients with quiescent CD has a clear suppressive effect on clinical and endoscopic disease activities and the mucosal inflammatory cytokine levels. (Inflamm Bowel Dis 2007)",
+            "year": 2007,
+            "citation_count": 126,
+            "relevance": 2,
+            "explanation": "This paper investigates the impacts of long-term enteral nutrition on clinical and endoscopic disease activities and mucosal tissue cytokines in patients with quiescent Crohn's disease, which is partially dependent on the findings of the source paper regarding the effectiveness of an 'half elemental diet' as maintenance therapy for Crohn's disease."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Review article: diet and inflammatory bowel disease \u2013 epidemiology and treatment": {
+                    "explanation": "This paper is a review article, and while it discusses the topic of inflammatory bowel disease, it does not build upon the source paper's findings or hypothesis.",
+                    "relevance": 0
+                },
+                "2. Session 3: Joint Nutrition Society and Irish Nutrition and Dietetic Institute Symposium on \u2018Nutrition and autoimmune disease\u2019 Nutrition in Crohn's disease": {
+                    "explanation": "This paper is a review of nutrition in Crohn's disease and does not directly build upon the source paper's hypothesis or findings. However, it does discuss the role of enteral nutrition in managing Crohn's disease, which is related to the source paper's topic.",
+                    "relevance": 1
+                },
+                "3. Enteral nutrition as a primary therapy of Crohn's disease: the pediatric perspective": {
+                    "explanation": "This paper discusses the role of enteral nutrition in managing Crohn's disease in children, which is related to the source paper's topic. However, it does not directly build upon the source paper's hypothesis or findings.",
+                    "relevance": 1
+                },
+                "4. Nutritional aspects and gut microbiota in paediatric inflammatory bowel disease": {
+                    "explanation": "This paper investigates the effect of enteral nutrition on gut microbiota and nutritional status in pediatric patients with Crohn's disease, which is directly related to the source paper's hypothesis and findings. The paper builds upon the source paper's results by exploring the mechanisms of action of enteral nutrition in more detail.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Nutritional aspects and gut microbiota in paediatric inflammatory bowel disease": {
+                    "explanation": "This paper investigates the effect of enteral nutrition on gut microbiota and nutritional status in pediatric patients with Crohn's disease, which is directly related to the source paper's hypothesis and findings.",
+                    "relevance": 2
+                },
+                "2. Session 3: Joint Nutrition Society and Irish Nutrition and Dietetic Institute Symposium on \u2018Nutrition and autoimmune disease\u2019 Nutrition in Crohn's disease": {
+                    "explanation": "This paper is a review of nutrition in Crohn's disease and does not directly build upon the source paper's hypothesis or findings. However, it does discuss the role of enteral nutrition in managing Crohn's disease, which is related to the source paper's topic.",
+                    "relevance": 1
+                },
+                "3. Enteral nutrition as a primary therapy of Crohn's disease: the pediatric perspective": {
+                    "explanation": "This paper discusses the role of enteral nutrition in managing Crohn's disease in children, which is related to the source paper's topic. However, it does not directly build upon the source paper's hypothesis or findings.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2009,
+        "source_paper": {
+            "paperId": "71fe7c318406d6608e68123dfe674a1fe3f811fc",
+            "title": "Enteral nutrition in adult Crohn's disease: present status and perspectives.",
+            "abstract": "Enteral nutrition has long been a therapeutic alternative often used in adult Crohn's disease patients to obtain remission or clinical response, especially in those not responding to conventional therapy such as corticosteroids. However, the increasing use of immunosuppressors (6-mercaptopurine and azathioprine, methotrexate, etc.), and the advent of biotherapies (especially anti-tumor necrosis factor-alpha (TNF-alpha) antibodies), decreased its use in adult Crohn's disease. Nevertheless, enteral nutrition remains of interest in patients presenting concomitant malnutrition (in particular in nonobstructed patients needing surgery), or in those intolerant or who failed to other therapeutics. In addition, recent studies provide data indicating its potential interest in maintenance therapy in selected patients groups. Finally, future research (in particular in the field of immuno- or pharmaconutrition) could lead to enteral formula's improvement, with better tolerance and acceptability, as well as increased efficacy.",
+            "year": 2008,
+            "citation_count": 26,
+            "relevance": 2,
+            "explanation": "This paper discusses the current status and future directions of enteral nutrition in adult Crohn's disease, which is partially dependent on the findings of the source paper regarding the impacts of long-term enteral nutrition on clinical and endoscopic disease activities and mucosal cytokines in patients with Crohn's disease."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Review article: diet and inflammatory bowel disease \u2013 epidemiology and treatment": {
+                    "explanation": "This paper is a review article that summarizes existing literature on the relationship between diet and inflammatory bowel disease, including treatment options. It does not present new findings or hypotheses that are directly connected to the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2010,
+        "source_paper": {
+            "paperId": "71fe7c318406d6608e68123dfe674a1fe3f811fc",
+            "title": "Enteral nutrition in adult Crohn's disease: present status and perspectives.",
+            "abstract": "Enteral nutrition has long been a therapeutic alternative often used in adult Crohn's disease patients to obtain remission or clinical response, especially in those not responding to conventional therapy such as corticosteroids. However, the increasing use of immunosuppressors (6-mercaptopurine and azathioprine, methotrexate, etc.), and the advent of biotherapies (especially anti-tumor necrosis factor-alpha (TNF-alpha) antibodies), decreased its use in adult Crohn's disease. Nevertheless, enteral nutrition remains of interest in patients presenting concomitant malnutrition (in particular in nonobstructed patients needing surgery), or in those intolerant or who failed to other therapeutics. In addition, recent studies provide data indicating its potential interest in maintenance therapy in selected patients groups. Finally, future research (in particular in the field of immuno- or pharmaconutrition) could lead to enteral formula's improvement, with better tolerance and acceptability, as well as increased efficacy.",
+            "year": 2008,
+            "citation_count": 26,
+            "relevance": 2,
+            "explanation": "This paper discusses the current status and future directions of enteral nutrition in adult Crohn's disease, which is partially dependent on the findings of the source paper regarding the impacts of long-term enteral nutrition on clinical and endoscopic disease activities and mucosal cytokines in patients with Crohn's disease."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1.Enteral nutrition decreases hospitalization rate in patients with Crohn's disease": {
+                    "explanation": "This paper explores the effectiveness of enteral nutrition in maintaining remission and avoiding hospitalization in Crohn's disease patients, which is inspired by the source paper's discussion on the potential interest of enteral nutrition in maintenance therapy.",
+                    "relevance": 1
+                },
+                "2.Maintenance treatment of Crohn\u2019s disease with a polymeric feed rich in TGF-\u03b2": {
+                    "explanation": "This paper investigates the use of a specific polymeric feed rich in TGF-\u03b2 for maintaining remission in Crohn's disease patients, building on the source paper's mention of the potential interest of enteral nutrition in selected patient groups.",
+                    "relevance": 2
+                },
+                "3.Does evidence exist to include dietary therapy in the treatment of Crohn\u2019s disease?": {
+                    "explanation": "This paper discusses the potential benefits of dietary therapy in Crohn's disease treatment, which is a broader topic related to the source paper's focus on enteral nutrition. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1.Maintenance treatment of Crohn\u2019s disease with a polymeric feed rich in TGF-\u03b2": {
+                    "explanation": "This paper investigates the use of a specific polymeric feed rich in TGF-\u03b2 for maintaining remission in Crohn's disease patients, building on the source paper's mention of the potential interest of enteral nutrition in selected patient groups.",
+                    "relevance": 2
+                },
+                "2.Enteral nutrition decreases hospitalization rate in patients with Crohn's disease": {
+                    "explanation": "This paper explores the effectiveness of enteral nutrition in maintaining remission and avoiding hospitalization in Crohn's disease patients, which is inspired by the source paper's discussion on the potential interest of enteral nutrition in maintenance therapy.",
+                    "relevance": 1
+                },
+                "3.Does evidence exist to include dietary therapy in the treatment of Crohn\u2019s disease?": {
+                    "explanation": "This paper discusses the potential benefits of dietary therapy in Crohn's disease treatment, which is a broader topic related to the source paper's focus on enteral nutrition. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2015,
+        "source_paper": {
+            "paperId": "38c6a9252b4df94d8089b81a1db6ea9737d9dab5",
+            "title": "Maintenance treatment of Crohn\u2019s disease with a polymeric feed rich in TGF-\u03b2",
+            "abstract": "Rationale: Dietetic intervention with polymeric diet rich in transforming growth factor-\u03b22 (TGF-\u03b22) represents a relatively satisfactory therapeutic modality in adult patients with mild to moderately active Crohn\u2019s disease. However, there is no information concerning long-term results of this special diet. The aim of this study was to compare the results of the administration of a special diet (Modulen IBD) rich in TGF-\u03b22 with those of the administration of mesalamine, in maintaining remission in patients with Crohn\u2019s disease. Methods: Of the 83 patients initially included in the study, 76 (91.5%) [36 in the Modulen and 30 in the mesalamine arm] completed the trial. Patients were randomly assigned to receive either two meals (2X50g) of Modulen IBD plus two regular meals per day (43 patients) or mesalamine (800mg three times a day) (40 patients) for six months. Patients were assessed at sixth months after initiation of the trial. Relapse was defined as a Crohn\u2019s Disease Activity Index of greater than 150 points or at least 60 points over baseline. Various anthropometric parameters and serum estimations including ESR, CRP, platelets, albumin, vitamin B12 and folic acid were carried out at the beginning of the trial and after six months. Results: Twenty-five patients in the Modulen arm (69%) continued to be in remission after six months compared with 18(60%) receiving mesalamine (no significant differences). Among patients with relapse the mean time to relapse was 103 days for those treated with mesalamine and 123 days for those treated with Modulen (no significant differences). Conclusion:Modulen-IBD treatment reduced relapse rate to a better degree compared with mesalamine treatment, although statistical significance was not achieved.",
+            "year": 2010,
+            "citation_count": 21,
+            "relevance": 2,
+            "explanation": "This paper investigates the use of a specific polymeric feed rich in TGF-\u03b2 for maintaining remission in Crohn's disease patients, building on the source paper's mention of the potential interest of enteral nutrition in selected patient groups."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. The Role of Enteral Nutrition in Patients with Inflammatory Bowel Disease: Current Aspects": {
+                    "explanation": "This paper is a review paper and does not present a novel hypothesis or findings. It provides an update on the role of enteral nutrition in patients with inflammatory bowel disease, which is a broader topic than the source paper. The source paper focuses on the maintenance treatment of Crohn\u2019s disease with a polymeric feed rich in TGF-\u03b2, whereas this paper discusses the general importance of enteral nutrition in patients with IBD.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2015,
+        "source_paper": {
+            "paperId": "38c6a9252b4df94d8089b81a1db6ea9737d9dab5",
+            "title": "Maintenance treatment of Crohn\u2019s disease with a polymeric feed rich in TGF-\u03b2",
+            "abstract": "Rationale: Dietetic intervention with polymeric diet rich in transforming growth factor-\u03b22 (TGF-\u03b22) represents a relatively satisfactory therapeutic modality in adult patients with mild to moderately active Crohn\u2019s disease. However, there is no information concerning long-term results of this special diet. The aim of this study was to compare the results of the administration of a special diet (Modulen IBD) rich in TGF-\u03b22 with those of the administration of mesalamine, in maintaining remission in patients with Crohn\u2019s disease. Methods: Of the 83 patients initially included in the study, 76 (91.5%) [36 in the Modulen and 30 in the mesalamine arm] completed the trial. Patients were randomly assigned to receive either two meals (2X50g) of Modulen IBD plus two regular meals per day (43 patients) or mesalamine (800mg three times a day) (40 patients) for six months. Patients were assessed at sixth months after initiation of the trial. Relapse was defined as a Crohn\u2019s Disease Activity Index of greater than 150 points or at least 60 points over baseline. Various anthropometric parameters and serum estimations including ESR, CRP, platelets, albumin, vitamin B12 and folic acid were carried out at the beginning of the trial and after six months. Results: Twenty-five patients in the Modulen arm (69%) continued to be in remission after six months compared with 18(60%) receiving mesalamine (no significant differences). Among patients with relapse the mean time to relapse was 103 days for those treated with mesalamine and 123 days for those treated with Modulen (no significant differences). Conclusion:Modulen-IBD treatment reduced relapse rate to a better degree compared with mesalamine treatment, although statistical significance was not achieved.",
+            "year": 2010,
+            "citation_count": 21,
+            "relevance": 2,
+            "explanation": "This paper investigates the use of a specific polymeric feed rich in TGF-\u03b2 for maintaining remission in Crohn's disease patients, building on the source paper's mention of the potential interest of enteral nutrition in selected patient groups."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. The Role of Enteral Nutrition in Patients with Inflammatory Bowel Disease: Current Aspects": {
+                    "explanation": "This paper is a review paper that discusses the role of enteral nutrition in patients with inflammatory bowel disease. It does not present a novel hypothesis or findings that are directly related to the source paper, which investigated the maintenance treatment of Crohn's disease with a polymeric feed rich in TGF-\u03b2.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2016,
+        "source_paper": {
+            "paperId": "38c6a9252b4df94d8089b81a1db6ea9737d9dab5",
+            "title": "Maintenance treatment of Crohn\u2019s disease with a polymeric feed rich in TGF-\u03b2",
+            "abstract": "Rationale: Dietetic intervention with polymeric diet rich in transforming growth factor-\u03b22 (TGF-\u03b22) represents a relatively satisfactory therapeutic modality in adult patients with mild to moderately active Crohn\u2019s disease. However, there is no information concerning long-term results of this special diet. The aim of this study was to compare the results of the administration of a special diet (Modulen IBD) rich in TGF-\u03b22 with those of the administration of mesalamine, in maintaining remission in patients with Crohn\u2019s disease. Methods: Of the 83 patients initially included in the study, 76 (91.5%) [36 in the Modulen and 30 in the mesalamine arm] completed the trial. Patients were randomly assigned to receive either two meals (2X50g) of Modulen IBD plus two regular meals per day (43 patients) or mesalamine (800mg three times a day) (40 patients) for six months. Patients were assessed at sixth months after initiation of the trial. Relapse was defined as a Crohn\u2019s Disease Activity Index of greater than 150 points or at least 60 points over baseline. Various anthropometric parameters and serum estimations including ESR, CRP, platelets, albumin, vitamin B12 and folic acid were carried out at the beginning of the trial and after six months. Results: Twenty-five patients in the Modulen arm (69%) continued to be in remission after six months compared with 18(60%) receiving mesalamine (no significant differences). Among patients with relapse the mean time to relapse was 103 days for those treated with mesalamine and 123 days for those treated with Modulen (no significant differences). Conclusion:Modulen-IBD treatment reduced relapse rate to a better degree compared with mesalamine treatment, although statistical significance was not achieved.",
+            "year": 2010,
+            "citation_count": 21,
+            "relevance": 2,
+            "explanation": "This paper investigates the use of a specific polymeric feed rich in TGF-\u03b2 for maintaining remission in Crohn's disease patients, building on the source paper's mention of the potential interest of enteral nutrition in selected patient groups."
+        },
+        "llama_output": {},
+        "seed": 42
+    },
+    {
+        "year": 2016,
+        "source_paper": {
+            "paperId": "38c6a9252b4df94d8089b81a1db6ea9737d9dab5",
+            "title": "Maintenance treatment of Crohn\u2019s disease with a polymeric feed rich in TGF-\u03b2",
+            "abstract": "Rationale: Dietetic intervention with polymeric diet rich in transforming growth factor-\u03b22 (TGF-\u03b22) represents a relatively satisfactory therapeutic modality in adult patients with mild to moderately active Crohn\u2019s disease. However, there is no information concerning long-term results of this special diet. The aim of this study was to compare the results of the administration of a special diet (Modulen IBD) rich in TGF-\u03b22 with those of the administration of mesalamine, in maintaining remission in patients with Crohn\u2019s disease. Methods: Of the 83 patients initially included in the study, 76 (91.5%) [36 in the Modulen and 30 in the mesalamine arm] completed the trial. Patients were randomly assigned to receive either two meals (2X50g) of Modulen IBD plus two regular meals per day (43 patients) or mesalamine (800mg three times a day) (40 patients) for six months. Patients were assessed at sixth months after initiation of the trial. Relapse was defined as a Crohn\u2019s Disease Activity Index of greater than 150 points or at least 60 points over baseline. Various anthropometric parameters and serum estimations including ESR, CRP, platelets, albumin, vitamin B12 and folic acid were carried out at the beginning of the trial and after six months. Results: Twenty-five patients in the Modulen arm (69%) continued to be in remission after six months compared with 18(60%) receiving mesalamine (no significant differences). Among patients with relapse the mean time to relapse was 103 days for those treated with mesalamine and 123 days for those treated with Modulen (no significant differences). Conclusion:Modulen-IBD treatment reduced relapse rate to a better degree compared with mesalamine treatment, although statistical significance was not achieved.",
+            "year": 2010,
+            "citation_count": 21,
+            "relevance": 2,
+            "explanation": "This paper investigates the use of a specific polymeric feed rich in TGF-\u03b2 for maintaining remission in Crohn's disease patients, building on the source paper's mention of the potential interest of enteral nutrition in selected patient groups."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Aminosalicylates for induction of remission or response in Crohn's disease": {
+                    "explanation": "This paper is a systematic review that summarizes existing literature on the efficacy of aminosalicylates, including mesalamine, for the treatment of mildly to moderately active Crohn's disease. While the source paper investigates the effect of a polymeric diet rich in TGF-\u03b22, this review does not directly build upon or depend on the source paper's findings. Therefore, it is considered a review paper with no direct connection to the source paper.",
+                    "relevance": 0
+                },
+                "2. Comparative activities of milk components in reversing chronic colitis": {
+                    "explanation": "This paper explores the therapeutic effects of various milk components, including Modulen IBD, in a mouse model of colitis. The source paper investigates the effect of Modulen IBD on maintaining remission in patients with Crohn's disease. Although both papers involve Modulen IBD, the current paper does not directly build upon or depend on the source paper's findings. Instead, it investigates a different aspect of Modulen IBD's effects in a different context. Therefore, it is considered partially dependent on the source paper's findings, but the connection is not direct.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Comparative activities of milk components in reversing chronic colitis": {
+                    "explanation": "This paper explores the therapeutic effects of various milk components, including Modulen IBD, in a mouse model of colitis. The source paper investigates the effect of Modulen IBD on maintaining remission in patients with Crohn's disease. Although both papers involve Modulen IBD, the current paper does not directly build upon or depend on the source paper's findings. Instead, it investigates a different aspect of Modulen IBD's effects in a different context. Therefore, it is considered partially dependent on the source paper's findings, but the connection is not direct.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2017,
+        "source_paper": {
+            "paperId": "38c6a9252b4df94d8089b81a1db6ea9737d9dab5",
+            "title": "Maintenance treatment of Crohn\u2019s disease with a polymeric feed rich in TGF-\u03b2",
+            "abstract": "Rationale: Dietetic intervention with polymeric diet rich in transforming growth factor-\u03b22 (TGF-\u03b22) represents a relatively satisfactory therapeutic modality in adult patients with mild to moderately active Crohn\u2019s disease. However, there is no information concerning long-term results of this special diet. The aim of this study was to compare the results of the administration of a special diet (Modulen IBD) rich in TGF-\u03b22 with those of the administration of mesalamine, in maintaining remission in patients with Crohn\u2019s disease. Methods: Of the 83 patients initially included in the study, 76 (91.5%) [36 in the Modulen and 30 in the mesalamine arm] completed the trial. Patients were randomly assigned to receive either two meals (2X50g) of Modulen IBD plus two regular meals per day (43 patients) or mesalamine (800mg three times a day) (40 patients) for six months. Patients were assessed at sixth months after initiation of the trial. Relapse was defined as a Crohn\u2019s Disease Activity Index of greater than 150 points or at least 60 points over baseline. Various anthropometric parameters and serum estimations including ESR, CRP, platelets, albumin, vitamin B12 and folic acid were carried out at the beginning of the trial and after six months. Results: Twenty-five patients in the Modulen arm (69%) continued to be in remission after six months compared with 18(60%) receiving mesalamine (no significant differences). Among patients with relapse the mean time to relapse was 103 days for those treated with mesalamine and 123 days for those treated with Modulen (no significant differences). Conclusion:Modulen-IBD treatment reduced relapse rate to a better degree compared with mesalamine treatment, although statistical significance was not achieved.",
+            "year": 2010,
+            "citation_count": 21,
+            "relevance": 2,
+            "explanation": "This paper investigates the use of a specific polymeric feed rich in TGF-\u03b2 for maintaining remission in Crohn's disease patients, building on the source paper's mention of the potential interest of enteral nutrition in selected patient groups."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Research Gaps in Diet and Nutrition in Inflammatory Bowel Disease. A Topical Review by D-ECCO Working Group [Dietitians of ECCO]": {
+                    "explanation": "This paper is a review of the current state of knowledge on diet and nutrition in inflammatory bowel disease, and it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "2. The Emerging Therapeutic Role of Medical Foods for Gastrointestinal Disorders": {
+                    "explanation": "This paper discusses the use of medical foods, including Modulen IBD, in the management of gastrointestinal disorders. However, it does not directly build upon or depend on the findings of the source paper, which investigated the efficacy of Modulen IBD in maintaining remission in patients with Crohn's disease. Instead, it provides a broader overview of medical foods and their applications.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. The Emerging Therapeutic Role of Medical Foods for Gastrointestinal Disorders": {
+                    "explanation": "This paper discusses the use of medical foods, including Modulen IBD, in the management of gastrointestinal disorders. However, it does not directly build upon or depend on the findings of the source paper, which investigated the efficacy of Modulen IBD in maintaining remission in patients with Crohn's disease. Instead, it provides a broader overview of medical foods and their applications.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2017,
+        "source_paper": {
+            "paperId": "6f36708e41ea2d879c8f23f69256e95e32fab3ce",
+            "title": "Comparative activities of milk components in reversing chronic colitis.",
+            "abstract": "Inflammatory bowel disease (IBD) is a poorly understood chronic immune disorder for which there is no medical cure. Milk and colostrum are rich sources of bioactives with immunomodulatory properties. Here we compared the therapeutic effects of oral delivery of bovine milk-derived iron-saturated lactoferrin (Fe-bLF), angiogenin, osteopontin (OPN), colostrum whey protein, Modulen IBD (Nestle Healthsciences, Rhodes, Australia), and cis-9,trans-11 conjugated linoleic acid (CLA)-enriched milk fat in a mouse model of dextran sulfate-induced colitis. The CLA-enriched milk fat significantly increased mouse body weights after 24d of treatment, reduced epithelium damage, and downregulated the expression of proinflammatory cytokines and nitrous oxide. Modulen IBD most effectively decreased the clinical score at d 12, and Modulen IBD and OPN most effectively lowered the inflammatory score. Myeloperoxidase activity that denotes neutrophil infiltration was significantly lower in mice fed Modulen IBD, OPN, angiogenin, and Fe-bLF. A significant decrease in the numbers of T cells, natural killer cells, dendritic cells, and a significant decrease in cytokine expression were observed in mice fed the treatment diets compared with dextran sulfate administered mice. The Fe-bLF, CLA-enriched milk fat, and Modulen IBD inhibited intestinal angiogenesis. In summary, each of the milk components attenuated IBD in mice, but with differing effectiveness against specific disease parameters.",
+            "year": 2016,
+            "citation_count": 30,
+            "relevance": 1,
+            "explanation": "This paper explores the therapeutic effects of various milk components, including Modulen IBD, in a mouse model of colitis. The source paper investigates the effect of Modulen IBD on maintaining remission in patients with Crohn's disease. Although both papers involve Modulen IBD, the current paper does not directly build upon or depend on the source paper's findings. Instead, it investigates a different aspect of Modulen IBD's effects in a different context. Therefore, it is considered partially dependent on the source paper's findings, but the connection is not direct."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Intestinal anti-inflammatory effects of goat whey on DNBS-induced colitis in mice": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it explores the anti-inflammatory effects of goat whey in a mouse model of colitis, similar to the source paper's investigation of milk components in reversing chronic colitis.",
+                    "relevance": 1
+                },
+                "2. Osteopontin (OPN) Gene Polymorphisms and Autoimmune Diseases": {
+                    "explanation": "While this paper discusses the role of osteopontin (OPN) in autoimmune diseases, it does not directly build upon or depend on the findings of the source paper, which investigated the therapeutic effects of OPN in a mouse model of colitis.",
+                    "relevance": 0
+                },
+                "3. The Emerging Therapeutic Role of Medical Foods for Gastrointestinal Disorders": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it discusses the therapeutic role of medical foods, including Modulen IBD, which was investigated in the source paper as a treatment for chronic colitis.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. The Emerging Therapeutic Role of Medical Foods for Gastrointestinal Disorders": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it discusses the therapeutic role of medical foods, including Modulen IBD, which was investigated in the source paper as a treatment for chronic colitis.",
+                    "relevance": 2
+                },
+                "2. Intestinal anti-inflammatory effects of goat whey on DNBS-induced colitis in mice": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it explores the anti-inflammatory effects of goat whey in a mouse model of colitis, similar to the source paper's investigation of milk components in reversing chronic colitis.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2018,
+        "source_paper": {
+            "paperId": "6f36708e41ea2d879c8f23f69256e95e32fab3ce",
+            "title": "Comparative activities of milk components in reversing chronic colitis.",
+            "abstract": "Inflammatory bowel disease (IBD) is a poorly understood chronic immune disorder for which there is no medical cure. Milk and colostrum are rich sources of bioactives with immunomodulatory properties. Here we compared the therapeutic effects of oral delivery of bovine milk-derived iron-saturated lactoferrin (Fe-bLF), angiogenin, osteopontin (OPN), colostrum whey protein, Modulen IBD (Nestle Healthsciences, Rhodes, Australia), and cis-9,trans-11 conjugated linoleic acid (CLA)-enriched milk fat in a mouse model of dextran sulfate-induced colitis. The CLA-enriched milk fat significantly increased mouse body weights after 24d of treatment, reduced epithelium damage, and downregulated the expression of proinflammatory cytokines and nitrous oxide. Modulen IBD most effectively decreased the clinical score at d 12, and Modulen IBD and OPN most effectively lowered the inflammatory score. Myeloperoxidase activity that denotes neutrophil infiltration was significantly lower in mice fed Modulen IBD, OPN, angiogenin, and Fe-bLF. A significant decrease in the numbers of T cells, natural killer cells, dendritic cells, and a significant decrease in cytokine expression were observed in mice fed the treatment diets compared with dextran sulfate administered mice. The Fe-bLF, CLA-enriched milk fat, and Modulen IBD inhibited intestinal angiogenesis. In summary, each of the milk components attenuated IBD in mice, but with differing effectiveness against specific disease parameters.",
+            "year": 2016,
+            "citation_count": 30,
+            "relevance": 1,
+            "explanation": "This paper explores the therapeutic effects of various milk components, including Modulen IBD, in a mouse model of colitis. The source paper investigates the effect of Modulen IBD on maintaining remission in patients with Crohn's disease. Although both papers involve Modulen IBD, the current paper does not directly build upon or depend on the source paper's findings. Instead, it investigates a different aspect of Modulen IBD's effects in a different context. Therefore, it is considered partially dependent on the source paper's findings, but the connection is not direct."
+        },
+        "llama_output": {},
+        "seed": 42
+    },
+    {
+        "year": 2018,
+        "source_paper": {
+            "paperId": "65ff9b56aeb118f6cea1a3b0322cd4beb94ed0c6",
+            "title": "The Emerging Therapeutic Role of Medical Foods for Gastrointestinal Disorders.",
+            "abstract": "In addition to drugs approved by the US Food and Drug Administration (FDA) that treat, cure, or mitigate disease, medical foods are a tool to help manage chronic conditions and diseases. A medical food, according to the FDA, is a food that is developed to be eaten or administered enterally under the guidance of a physician and that is meant for the specific dietary management of a condition or disease for which distinctive nutritional requirements, based upon known scientific principles, are established by medical evaluation. A variety of medical foods exist to help manage a wide range of medical conditions, from Alzheimer disease to HIV-associated enteropathy. EnteraGam contains serum-derived bovine immunoglobulin/protein isolate, which has been studied extensively in diarrhea-predominant irritable bowel syndrome, inflammatory bowel disease (IBD), and HIV-associated enteropathy. VSL#3 is a probiotic that is used in pouchitis for patients with ulcerative colitis as well as irritable bowel syndrome. Modulen IBD is a whole-protein, sole-nutrition formulation used to manage the active phase of Crohn's disease. Vivonex is an elemental diet that is used in a variety of diseases associated with severe gastrointestinal dysfunction. Medical foods are safe and must have proven efficacy in helping to manage a variety of gastrointestinal conditions and diseases. These therapies represent tools that can be used prior or in addition to traditional medical therapies. This article discusses the history and development of medical foods under the FDA and concentrates specifically on medical foods used to help manage diseases of the gastrointestinal tract.",
+            "year": 2017,
+            "citation_count": 13,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it discusses the therapeutic role of medical foods, including Modulen IBD, which was investigated in the source paper as a treatment for chronic colitis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. FOR CLINICAL NUTRITION IN INFLAMMATORY BOWEL DISEASE *": {
+                    "explanation": "This paper appears to be a review paper or a guideline for clinical nutrition in inflammatory bowel disease. The abstract does not mention any novel hypotheses or findings that are directly related to or dependent on the source paper. Therefore, it is assigned a relevance score of 0.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2019,
+        "source_paper": {
+            "paperId": "65ff9b56aeb118f6cea1a3b0322cd4beb94ed0c6",
+            "title": "The Emerging Therapeutic Role of Medical Foods for Gastrointestinal Disorders.",
+            "abstract": "In addition to drugs approved by the US Food and Drug Administration (FDA) that treat, cure, or mitigate disease, medical foods are a tool to help manage chronic conditions and diseases. A medical food, according to the FDA, is a food that is developed to be eaten or administered enterally under the guidance of a physician and that is meant for the specific dietary management of a condition or disease for which distinctive nutritional requirements, based upon known scientific principles, are established by medical evaluation. A variety of medical foods exist to help manage a wide range of medical conditions, from Alzheimer disease to HIV-associated enteropathy. EnteraGam contains serum-derived bovine immunoglobulin/protein isolate, which has been studied extensively in diarrhea-predominant irritable bowel syndrome, inflammatory bowel disease (IBD), and HIV-associated enteropathy. VSL#3 is a probiotic that is used in pouchitis for patients with ulcerative colitis as well as irritable bowel syndrome. Modulen IBD is a whole-protein, sole-nutrition formulation used to manage the active phase of Crohn's disease. Vivonex is an elemental diet that is used in a variety of diseases associated with severe gastrointestinal dysfunction. Medical foods are safe and must have proven efficacy in helping to manage a variety of gastrointestinal conditions and diseases. These therapies represent tools that can be used prior or in addition to traditional medical therapies. This article discusses the history and development of medical foods under the FDA and concentrates specifically on medical foods used to help manage diseases of the gastrointestinal tract.",
+            "year": 2017,
+            "citation_count": 13,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it discusses the therapeutic role of medical foods, including Modulen IBD, which was investigated in the source paper as a treatment for chronic colitis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Clinical nutrition for the gastroenterologist: bedside strategies for feeding the hospitalized patient": {
+                    "explanation": "This paper discusses the optimal nutrition regimen for hospitalized patients, focusing on enteral nutrition. Although it does not directly build upon or use the findings of the source paper, it shares a common theme of managing gastrointestinal conditions through nutritional therapy. However, the connection is indirect, and the paper does not explicitly use the source paper's findings as a sub-hypothesis.",
+                    "relevance": 0
+                },
+                "2. Non-pharmacological Approach in the Management of Functional Dyspepsia": {
+                    "explanation": "This paper explores non-pharmacological approaches for managing functional dyspepsia, including medical foods. It mentions medical foods as a potential therapy, which is related to the source paper's discussion of medical foods for gastrointestinal disorders. However, the paper does not directly build upon or use the findings of the source paper, but rather mentions medical foods as one of several non-pharmacological approaches.",
+                    "relevance": 1
+                },
+                "3. Does Irritable Bowel Syndrome Exist? Identifiable and Treatable Causes of Associated Symptoms Suggest It May Not": {
+                    "explanation": "This paper questions the existence of irritable bowel syndrome (IBS) as a distinct disease entity, suggesting that it may be an umbrella diagnosis for various underlying causes. Although the paper touches on gastrointestinal disorders, it does not directly relate to the source paper's discussion of medical foods for gastrointestinal disorders. The connection is too indirect, and the paper does not use the source paper's findings as a sub-hypothesis.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Non-pharmacological Approach in the Management of Functional Dyspepsia": {
+                    "explanation": "This paper explores non-pharmacological approaches for managing functional dyspepsia, including medical foods. It mentions medical foods as a potential therapy, which is related to the source paper's discussion of medical foods for gastrointestinal disorders.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2020,
+        "source_paper": {
+            "paperId": "1b00337a0a4cfcffea7f6bd0205a7b961f3332c7",
+            "title": "Non-pharmacological Approach in the Management of Functional Dyspepsia",
+            "abstract": "Functional dyspepsia (FD) is a common functional gastrointestinal disease which bears a significant burden on society and individuals. Despite the high prevalence of FD, its pathophysiology remains poorly understood and the treatment options are limited and unsatisfactory. In the absence of effective pharmacological treatments for FD, non-pharmacological approaches, including: reassurance, lifestyle modification, psychotherapy, dietary interventions, medical food, acupuncture, and electrical stimulation and modulation are sought after by many physicians and FD patients. In this article, we review clinical studies which investigate non-pharmacological therapies for FD. We will also discuss potential mechanisms involved in the therapeutic effects of these non-pharmacological approaches. Though the evidences to support the routine use of the non-pharmacological management is still lacking, the non-invasive nature and potentially minimal side-effects of these therapies may be attractive in the FD management. In order to confirm the clinical effectiveness of these non-pharmacological approaches, more well-conducted, methodologically rigorous, and large-scaled clinical trials are required.",
+            "year": 2019,
+            "citation_count": 15,
+            "relevance": 1,
+            "explanation": "This paper explores non-pharmacological approaches for managing functional dyspepsia, including medical foods. It mentions medical foods as a potential therapy, which is related to the source paper's discussion of medical foods for gastrointestinal disorders."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Functional Dyspepsia: A Narrative Review With a Focus on Sex-Gender Differences": {
+                    "explanation": "This paper is a review paper that discusses sex-gender differences in functional dyspepsia, but it does not build upon or use the findings of the source paper as a sub-hypothesis. The source paper focuses on non-pharmacological approaches in the management of functional dyspepsia, whereas this paper explores a different aspect of the disease.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2021,
+        "source_paper": {
+            "paperId": "1b00337a0a4cfcffea7f6bd0205a7b961f3332c7",
+            "title": "Non-pharmacological Approach in the Management of Functional Dyspepsia",
+            "abstract": "Functional dyspepsia (FD) is a common functional gastrointestinal disease which bears a significant burden on society and individuals. Despite the high prevalence of FD, its pathophysiology remains poorly understood and the treatment options are limited and unsatisfactory. In the absence of effective pharmacological treatments for FD, non-pharmacological approaches, including: reassurance, lifestyle modification, psychotherapy, dietary interventions, medical food, acupuncture, and electrical stimulation and modulation are sought after by many physicians and FD patients. In this article, we review clinical studies which investigate non-pharmacological therapies for FD. We will also discuss potential mechanisms involved in the therapeutic effects of these non-pharmacological approaches. Though the evidences to support the routine use of the non-pharmacological management is still lacking, the non-invasive nature and potentially minimal side-effects of these therapies may be attractive in the FD management. In order to confirm the clinical effectiveness of these non-pharmacological approaches, more well-conducted, methodologically rigorous, and large-scaled clinical trials are required.",
+            "year": 2019,
+            "citation_count": 15,
+            "relevance": 1,
+            "explanation": "This paper explores non-pharmacological approaches for managing functional dyspepsia, including medical foods. It mentions medical foods as a potential therapy, which is related to the source paper's discussion of medical foods for gastrointestinal disorders."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1.[Functional dyspepsia: a multifaceted problem in gastroenterology]": {
+                    "explanation": "This paper discusses the diagnosis and treatment of functional dyspepsia, but it does not explicitly build upon the source paper's findings or hypotheses. It appears to be a review of the current state of functional dyspepsia management, rather than a study that depends on the source paper's results.",
+                    "relevance": 0
+                },
+                "2.An Open-label, Multicenter Study to Assess the Efficacy and Safety of a Novel Probiotic Blend in Patients With Functional Gastrointestinal Symptoms": {
+                    "explanation": "This paper investigates the efficacy of a novel probiotic blend in patients with functional gastrointestinal symptoms, which is a related topic to the source paper's discussion of non-pharmacological approaches for functional dyspepsia. However, it does not directly build upon the source paper's findings or hypotheses, and instead presents a new study on a specific intervention.",
+                    "relevance": 1
+                },
+                "3.Efficacy evaluation of acupuncture combined with Liujunzi Decoction in the treatment of functional dyspepsia": {
+                    "explanation": "This paper evaluates the efficacy of acupuncture combined with Liujunzi Decoction in the treatment of functional dyspepsia, which is a non-pharmacological approach discussed in the source paper. The study appears to be partially dependent on the source paper's findings, as it investigates a specific combination of therapies that may be effective for functional dyspepsia, a topic that the source paper highlights as being in need of further research.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1.Efficacy evaluation of acupuncture combined with Liujunzi Decoction in the treatment of functional dyspepsia": {
+                    "explanation": "This paper evaluates the efficacy of acupuncture combined with Liujunzi Decoction in the treatment of functional dyspepsia, which is a non-pharmacological approach discussed in the source paper. The study appears to be partially dependent on the source paper's findings, as it investigates a specific combination of therapies that may be effective for functional dyspepsia, a topic that the source paper highlights as being in need of further research.",
+                    "relevance": 2
+                },
+                "2.An Open-label, Multicenter Study to Assess the Efficacy and Safety of a Novel Probiotic Blend in Patients With Functional Gastrointestinal Symptoms": {
+                    "explanation": "This paper investigates the efficacy of a novel probiotic blend in patients with functional gastrointestinal symptoms, which is a related topic to the source paper's discussion of non-pharmacological approaches for functional dyspepsia. However, it does not directly build upon the source paper's findings or hypotheses, and instead presents a new study on a specific intervention.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2023,
+        "source_paper": {
+            "paperId": "34c81c77f4f77bf303d35308db9ec39558c1b362",
+            "title": "Efficacy evaluation of acupuncture combined with Liujunzi Decoction in the treatment of functional dyspepsia",
+            "abstract": "Abstract Background: Functional dyspepsia (FD) is a common and frequently-occurring disease in internal medicine. It is known that Liujunzi decoction and acupuncture are widely used in the treatment of FD, but there are few studies on the combination of Liujunzi decoction and acupuncture in the treatment of FD, and its safety and efficacy are still controversial. Therefore, the purpose of this study is to evaluate the efficacy and safety of acupuncture combined with Liujunzi decoction in the treatment of FD. Methods: We designed a prospective randomized controlled trial. The study protocol was approved by the Clinical Research Ethics Committee of our hospital. Patients with FD were randomly assigned to the treatment group of acupuncture combined with Liujunzi Decoction (the experimental group) and the treatment group of Liujunzi Decoction (the control group) in a ratio of 1:1. Outcome indicators were Nepean Dyspepsia Index, the MOS item short from health survey, and adverse reactions. Finally, SPSS 18.0 software would be used for statistical analysis of the data. Discussion: This study will evaluate the efficacy and safety of acupuncture combined with Liujunzi Decoction in the treatment of FD and provide clinical basis for the use of acupuncture combined with Liujunzi Decoction in the treatment of FD. OSF Registration number: DOI 10.17605/OSF.IO/67GKN",
+            "year": 2021,
+            "citation_count": 1,
+            "relevance": 2,
+            "explanation": "This paper evaluates the efficacy of acupuncture combined with Liujunzi Decoction in the treatment of functional dyspepsia, which is a non-pharmacological approach discussed in the source paper. The study appears to be partially dependent on the source paper's findings, as it investigates a specific combination of therapies that may be effective for functional dyspepsia, a topic that the source paper highlights as being in need of further research."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Research progress of treatment of functional dyspepsia with traditional Chinese medicine compound based on cell signal pathway": {
+                    "explanation": "This paper has no direct connection with the source paper as it is a review paper that discusses the mechanisms of traditional Chinese medicine in treating functional dyspepsia, without referencing the source paper's findings on acupuncture combined with Liujunzi Decoction.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2023,
+        "source_paper": {
+            "paperId": "34c81c77f4f77bf303d35308db9ec39558c1b362",
+            "title": "Efficacy evaluation of acupuncture combined with Liujunzi Decoction in the treatment of functional dyspepsia",
+            "abstract": "Abstract Background: Functional dyspepsia (FD) is a common and frequently-occurring disease in internal medicine. It is known that Liujunzi decoction and acupuncture are widely used in the treatment of FD, but there are few studies on the combination of Liujunzi decoction and acupuncture in the treatment of FD, and its safety and efficacy are still controversial. Therefore, the purpose of this study is to evaluate the efficacy and safety of acupuncture combined with Liujunzi decoction in the treatment of FD. Methods: We designed a prospective randomized controlled trial. The study protocol was approved by the Clinical Research Ethics Committee of our hospital. Patients with FD were randomly assigned to the treatment group of acupuncture combined with Liujunzi Decoction (the experimental group) and the treatment group of Liujunzi Decoction (the control group) in a ratio of 1:1. Outcome indicators were Nepean Dyspepsia Index, the MOS item short from health survey, and adverse reactions. Finally, SPSS 18.0 software would be used for statistical analysis of the data. Discussion: This study will evaluate the efficacy and safety of acupuncture combined with Liujunzi Decoction in the treatment of FD and provide clinical basis for the use of acupuncture combined with Liujunzi Decoction in the treatment of FD. OSF Registration number: DOI 10.17605/OSF.IO/67GKN",
+            "year": 2021,
+            "citation_count": 1,
+            "relevance": 2,
+            "explanation": "This paper evaluates the efficacy of acupuncture combined with Liujunzi Decoction in the treatment of functional dyspepsia, which is a non-pharmacological approach discussed in the source paper. The study appears to be partially dependent on the source paper's findings, as it investigates a specific combination of therapies that may be effective for functional dyspepsia, a topic that the source paper highlights as being in need of further research."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Research progress of treatment of functional dyspepsia with traditional Chinese medicine compound based on cell signal pathway": {
+                    "explanation": "This paper is a review of the relevant literature on the mechanisms of traditional Chinese medicine in the treatment of functional dyspepsia, including the cell signal pathways involved. It does not directly build upon or reference the source paper, which evaluated the efficacy and safety of acupuncture combined with Liujunzi Decoction in the treatment of functional dyspepsia.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    }
+]

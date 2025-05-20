@@ -1,0 +1,53 @@
+[
+    {
+        "year": 2013,
+        "source_paper": {
+            "paperId": "23411843599a3bf98a3b0e77c31a1cf4ddd42d6f",
+            "pmid": "21905270",
+            "title": "A multi\u2010center controlled trial of growth hormone treatment in children with cystic fibrosis",
+            "abstract": "We evaluated safety and efficacy of recombinant human growth hormone (rhGH) for improving growth, lean body mass (LBM), pulmonary function, and exercise tolerance in children with cystic fibrosis (CF) and growth restriction.",
+            "year": 2012,
+            "citation_count": 34
+        },
+        "llama_output": {
+            "paper_list": {
+                "1.From pipeline to patient: new developments in cystic fibrosis therapeutics": {
+                    "explanation": "This paper is a review of recent developments in cystic fibrosis therapeutics, including new drugs and treatments. While it discusses cystic fibrosis, which is the same condition as in the source paper, it does not build upon or use the findings of the source paper as a sub-hypothesis. It appears to be a general review of the field rather than a research paper that tests a specific hypothesis.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2014,
+        "source_paper": {
+            "paperId": "23411843599a3bf98a3b0e77c31a1cf4ddd42d6f",
+            "pmid": "21905270",
+            "title": "A multi\u2010center controlled trial of growth hormone treatment in children with cystic fibrosis",
+            "abstract": "We evaluated safety and efficacy of recombinant human growth hormone (rhGH) for improving growth, lean body mass (LBM), pulmonary function, and exercise tolerance in children with cystic fibrosis (CF) and growth restriction.",
+            "year": 2012,
+            "citation_count": 34
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Appetite stimulants for people with cystic fibrosis": {
+                    "explanation": "This paper is a review of existing literature on appetite stimulants in cystic fibrosis patients, which is a different topic from the source paper's focus on growth hormone treatment. Therefore, it has no connection to the source paper.",
+                    "relevance": 0
+                },
+                "2. Nutrition and growth in chronic diseases": {
+                    "explanation": "Although this paper discusses nutrition and growth in chronic diseases, including cystic fibrosis, it does not specifically address growth hormone treatment or build upon the findings of the source paper. However, it does share some common themes and context, so it can be considered partially relevant.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Nutrition and growth in chronic diseases": {
+                    "explanation": "Although this paper discusses nutrition and growth in chronic diseases, including cystic fibrosis, it does not specifically address growth hormone treatment or build upon the findings of the source paper. However, it does share some common themes and context, so it can be considered partially relevant.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    }
+]

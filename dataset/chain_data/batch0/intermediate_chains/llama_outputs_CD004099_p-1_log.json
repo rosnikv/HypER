@@ -1,0 +1,63 @@
+[
+    {
+        "year": 2006,
+        "source_paper": {
+            "paperId": "056bc3a94cc7d885043a9a856ca4093d31ed2db9",
+            "pmid": "15012565",
+            "title": "An ambulatory stabilisation program for children with newly diagnosed type 1\u00a0diabetes",
+            "abstract": "Objectives: (i) To evaluate the benefits and adverse effects of a Diabetes Day Care Program (DDCP); and (ii) to compare outcomes in two cohorts diagnosed before and after implementing the DDCP (\u201cpre\u2010DDCP\u201d and \u201cpost\u2010DDCP\u201d).",
+            "year": 2004,
+            "citation_count": 18
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. A randomized controlled trial of telephone calls to young patients with poorly controlled type 1 diabetes": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates alternative methods of supporting children with type 1 diabetes, building on the source paper's results regarding the benefits of a Diabetes Day Care Program (DDCP).",
+                    "relevance": 1
+                },
+                "2. Psycho\u2010educational interventions for children and young people with Type 1 diabetes": {
+                    "explanation": "This paper is a review of the literature on psycho-educational interventions for children and young people with Type 1 diabetes. Although it may touch on some aspects related to the source paper, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. A randomized controlled trial of telephone calls to young patients with poorly controlled type 1 diabetes": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates alternative methods of supporting children with type 1 diabetes, building on the source paper's results regarding the benefits of a Diabetes Day Care Program (DDCP).",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2008,
+        "source_paper": {
+            "paperId": "03b2a907b398e8e8c43244fd45c6e841eb2450d3",
+            "title": "A randomized controlled trial of telephone calls to young patients with poorly controlled type 1 diabetes",
+            "abstract": "Objective:\u2002 To determine if scheduled telephone calls from a pediatric diabetes educator to children who have type 1 diabetes improve hemoglobin A1c (HbA1c) level, hospital admissions, diabetes knowledge, compliance, and psychological well\u2010being.",
+            "year": 2006,
+            "citation_count": 59,
+            "relevance": 1,
+            "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates alternative methods of supporting children with type 1 diabetes, building on the source paper's results regarding the benefits of a Diabetes Day Care Program (DDCP)."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Diabetes education for children with type 1 diabetes mellitus and their families": {
+                    "explanation": "This paper is a review paper that examines the effectiveness of diabetes education for children with type 1 diabetes and their families. While the topic is related to the source paper, it does not build upon the findings of the source paper, nor does it use the source paper as a sub-hypothesis. Therefore, it is considered a review paper with no direct connection to the source paper.",
+                    "relevance": 0
+                },
+                "2. Education for Teenagers with Type 1 Diabetes": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effectiveness of education for teenagers with type 1 diabetes, building on the source paper's results regarding the impact of telephone calls on diabetes management.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Education for Teenagers with Type 1 Diabetes": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effectiveness of education for teenagers with type 1 diabetes, building on the source paper's results regarding the impact of telephone calls on diabetes management.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    }
+]

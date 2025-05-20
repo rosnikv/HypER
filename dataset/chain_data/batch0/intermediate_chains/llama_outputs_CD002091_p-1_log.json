@@ -1,0 +1,837 @@
+[
+    {
+        "year": 2008,
+        "source_paper": {
+            "paperId": "e6a031105b8858c5050ff7b569f284d182cf9d78",
+            "pmid": "17931979",
+            "title": "Fast assessment of stroke and transient ischaemic attack to prevent early recurrence (FASTER): a randomised controlled pilot trial",
+            "abstract": null,
+            "year": 2007,
+            "citation_count": 522
+        },
+        "llama_output": {
+            "paper_list": {
+                "1.Transient Ischaemic Attack is an Emergency: Think about Best Current Stroke Prevention Options": {
+                    "explanation": "This paper is inspired by the findings of the source paper, as it emphasizes the importance of immediate action to prevent severe disability or death after a transient ischemic attack (TIA), which is in line with the FASTER trial's focus on early assessment and prevention of stroke recurrence.",
+                    "relevance": 1
+                },
+                "2.Randomized Clinical Stroke Trials in 2007": {
+                    "explanation": "This paper is a review of randomized control trials in stroke and does not have a direct connection to the source paper. It does not build upon or use the findings of the FASTER trial as a sub-hypothesis.",
+                    "relevance": 0
+                },
+                "3.Stroke Treatment": {
+                    "explanation": "This paper discusses the treatment of acute stroke patients and does not have a direct connection to the source paper. It does not build upon or use the findings of the FASTER trial as a sub-hypothesis.",
+                    "relevance": 0
+                },
+                "4.Coagulopathy and inhospital deaths in patients with acute subdural hematoma": {
+                    "explanation": "This paper investigates the relationship between coagulopathy and inhospital deaths in patients with acute subdural hematoma, which is not directly related to the source paper's focus on transient ischemic attack and stroke prevention.",
+                    "relevance": 0
+                },
+                "5.Review: Recurrent stroke: where do we stand with the secondary prevention of noncardioembolic ischaemic strokes?": {
+                    "explanation": "This paper is a review of secondary prevention strategies for non-cardioembolic ischemic strokes and does not have a direct connection to the source paper. It does not build upon or use the findings of the FASTER trial as a sub-hypothesis.",
+                    "relevance": 0
+                },
+                "6.Recurrent Events in Transient Ischemic Attack and Minor Stroke: What Events Are Happening and to Which Patients?": {
+                    "explanation": "This paper investigates the type of recurrent events in transient ischemic attack and minor stroke patients, which is related to the source paper's focus on early assessment and prevention of stroke recurrence. However, it does not directly build upon or use the findings of the FASTER trial as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "7.A Randomised Controlled Trial of Triple Antiplatelet Therapy (Aspirin, Clopidogrel and Dipyridamole) in the Secondary Prevention of Stroke: Safety, Tolerability and Feasibility": {
+                    "explanation": "This paper investigates the safety and tolerability of triple antiplatelet therapy in the secondary prevention of stroke, which is related to the source paper's focus on stroke prevention. However, it does not directly build upon or use the findings of the FASTER trial as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "8.Stroke and atherothrombosis: An Update on the Role of Antiplatelet Therapy": {
+                    "explanation": "This paper discusses the role of antiplatelet therapy in the prevention of atherothrombotic events, including stroke, which is related to the source paper's focus on stroke prevention. However, it does not directly build upon or use the findings of the FASTER trial as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "9.Early neurological deterioration in acute ischaemic stroke: predictors, mechanisms and management": {
+                    "explanation": "This paper discusses the predictors, mechanisms, and management of early neurological deterioration in acute ischemic stroke, which is related to the source paper's focus on early assessment and prevention of stroke recurrence. However, it does not directly build upon or use the findings of the FASTER trial as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "10.The risk of stroke within a week of minor stroke or transient ischemic attack": {
+                    "explanation": "This paper investigates the risk of stroke within a week of minor stroke or transient ischemic attack, which is directly related to the source paper's focus on early assessment and prevention of stroke recurrence. The paper builds upon the findings of the FASTER trial, which highlighted the importance of early intervention in preventing stroke recurrence.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1.The risk of stroke within a week of minor stroke or transient ischemic attack": {
+                    "explanation": "This paper investigates the risk of stroke within a week of minor stroke or transient ischemic attack, which is directly related to the source paper's focus on early assessment and prevention of stroke recurrence. The paper builds upon the findings of the FASTER trial, which highlighted the importance of early intervention in preventing stroke recurrence.",
+                    "relevance": 2
+                },
+                "2.Transient Ischaemic Attack is an Emergency: Think about Best Current Stroke Prevention Options": {
+                    "explanation": "This paper is inspired by the findings of the source paper, as it emphasizes the importance of immediate action to prevent severe disability or death after a transient ischemic attack (TIA), which is in line with the FASTER trial's focus on early assessment and prevention of stroke recurrence.",
+                    "relevance": 1
+                },
+                "3.Recurrent Events in Transient Ischemic Attack and Minor Stroke: What Events Are Happening and to Which Patients?": {
+                    "explanation": "This paper investigates the type of recurrent events in transient ischemic attack and minor stroke patients, which is related to the source paper's focus on early assessment and prevention of stroke recurrence. However, it does not directly build upon or use the findings of the FASTER trial as a sub-hypothesis.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2008,
+        "source_paper": {
+            "paperId": "e6a031105b8858c5050ff7b569f284d182cf9d78",
+            "pmid": "17931979",
+            "title": "Fast assessment of stroke and transient ischaemic attack to prevent early recurrence (FASTER): a randomised controlled pilot trial",
+            "abstract": null,
+            "year": 2007,
+            "citation_count": 522
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Outcomes of patients with transient ischaemic attack after hospital admission or discharge from the emergency department": {
+                    "explanation": "This paper investigates the outcomes of patients with transient ischaemic attack, which is related to the topic of stroke prevention in the source paper. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "2. Clopidogrel in secondary ischemic stroke prevention": {
+                    "explanation": "This paper discusses the use of clopidogrel in secondary ischemic stroke prevention, which is a relevant topic to the source paper. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "3. Driving after a transient ischaemic attack or minor stroke": {
+                    "explanation": "This paper investigates the driving habits of patients after a transient ischaemic attack or minor stroke, which is a related topic to the source paper. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "4. Antiplatelet therapy for secondary prevention of noncardioembolic ischemic stroke: a critical review": {
+                    "explanation": "This paper reviews antiplatelet therapy for secondary prevention of noncardioembolic ischemic stroke, which is a relevant topic to the source paper. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "5. The ideal antiplatelet drug for stroke prevention--still elusive": {
+                    "explanation": "This paper discusses the ideal antiplatelet drug for stroke prevention, which is a relevant topic to the source paper. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "6. Progress in secondary stroke prevention": {
+                    "explanation": "This paper discusses progress in secondary stroke prevention, which is a relevant topic to the source paper. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "7. Clopidogrel and Aspirin versus Aspirin Alone for the Prevention of Stroke in Patients with a History of Atrial Fibrillation: Subgroup Analysis of the CHARISMA Randomized Trial": {
+                    "explanation": "This paper investigates the use of clopidogrel and aspirin versus aspirin alone for stroke prevention in patients with a history of atrial fibrillation, which is a relevant topic to the source paper. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "8. Advances in prevention and health services delivery 2007": {
+                    "explanation": "This paper discusses advances in prevention and health services delivery, including stroke prevention, which is a relevant topic to the source paper. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "9. An Improved Scoring System for Identifying Patients at High Early Risk of Stroke and Functional Impairment after an Acute Transient Ischemic Attack or Minor Stroke": {
+                    "explanation": "This paper proposes an improved scoring system for identifying patients at high early risk of stroke and functional impairment after an acute transient ischaemic attack or minor stroke, which is a relevant topic to the source paper. The paper builds upon the idea of early assessment and prevention of stroke, which is also discussed in the source paper.",
+                    "relevance": 2
+                },
+                "10. Role of transcranial Doppler ultrasonography in acute stroke": {
+                    "explanation": "This paper discusses the role of transcranial Doppler ultrasonography in acute stroke, which is a relevant topic to the source paper. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. An Improved Scoring System for Identifying Patients at High Early Risk of Stroke and Functional Impairment after an Acute Transient Ischemic Attack or Minor Stroke": {
+                    "explanation": "This paper proposes an improved scoring system for identifying patients at high early risk of stroke and functional impairment after an acute transient ischaemic attack or minor stroke, which is a relevant topic to the source paper. The paper builds upon the idea of early assessment and prevention of stroke, which is also discussed in the source paper.",
+                    "relevance": 2
+                },
+                "2. Outcomes of patients with transient ischaemic attack after hospital admission or discharge from the emergency department": {
+                    "explanation": "This paper investigates the outcomes of patients with transient ischaemic attack, which is related to the topic of stroke prevention in the source paper. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "3. Clopidogrel in secondary ischemic stroke prevention": {
+                    "explanation": "This paper discusses the use of clopidogrel in secondary ischemic stroke prevention, which is a relevant topic to the source paper. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2009,
+        "source_paper": {
+            "paperId": "e6a031105b8858c5050ff7b569f284d182cf9d78",
+            "pmid": "17931979",
+            "title": "Fast assessment of stroke and transient ischaemic attack to prevent early recurrence (FASTER): a randomised controlled pilot trial",
+            "abstract": null,
+            "year": 2007,
+            "citation_count": 522
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Symptom Progression or Fluctuation in Transient Ischemic Attack Patients Predicts Subsequent Stroke": {
+                    "explanation": "This paper explores the relationship between TIA symptoms and subsequent stroke, which is related to the source paper's focus on preventing early recurrence of stroke and TIA. However, the hypothesis in this paper is not directly inspired by or dependent on the source paper's findings.",
+                    "relevance": 1
+                },
+                "2. Thienopyridine Derivatives Versus Aspirin for Preventing Stroke and Other Serious Vascular Events in High Vascular Risk Patients": {
+                    "explanation": "This paper is a review of thienopyridine derivatives versus aspirin for preventing stroke and other serious vascular events. It does not directly build upon or utilize the findings of the source paper, and its focus is more on comparing different treatments rather than exploring a new hypothesis inspired by the source paper.",
+                    "relevance": 0
+                },
+                "3. Predicting recurrent stroke after minor stroke and transient ischemic attack": {
+                    "explanation": "This paper reviews predictors of recurrent stroke, including the ABCD2 score, brain imaging, and stroke mechanism. While it is related to the source paper's focus on preventing early recurrence of stroke and TIA, the hypothesis in this paper is not directly inspired by or dependent on the source paper's findings.",
+                    "relevance": 1
+                },
+                "4. Transient ischaemic attack: diagnosis and treatment": {
+                    "explanation": "This paper provides an overview of TIA diagnosis and treatment. It does not directly build upon or utilize the findings of the source paper, and its focus is more on general information rather than exploring a new hypothesis inspired by the source paper.",
+                    "relevance": 0
+                },
+                "5. Antithrombotic medication for stroke prevention": {
+                    "explanation": "This paper provides an overview of antithrombotic stroke-prevention strategies. It does not directly build upon or utilize the findings of the source paper, and its focus is more on general information rather than exploring a new hypothesis inspired by the source paper.",
+                    "relevance": 0
+                },
+                "6. Statin use before and after acute ischemic stroke onset improves neurological outcome": {
+                    "explanation": "This paper explores the relationship between statin use and neurological outcome after acute ischemic stroke. While it is related to the source paper's focus on preventing early recurrence of stroke and TIA, the hypothesis in this paper is not directly inspired by or dependent on the source paper's findings.",
+                    "relevance": 1
+                },
+                "7. Secondary prevention of stroke": {
+                    "explanation": "This paper reviews conventional approaches to vascular risk-factor management and more specific interventions for secondary stroke prevention. It does not directly build upon or utilize the findings of the source paper, and its focus is more on general information rather than exploring a new hypothesis inspired by the source paper.",
+                    "relevance": 0
+                },
+                "8. Impact of Hyperlipidemia and Statins on Ischemic Stroke Outcomes after Intra-Arterial Fibrinolysis and Percutaneous Mechanical Embolectomy": {
+                    "explanation": "This paper explores the relationship between hyperlipidemia, statins, and ischemic stroke outcomes after endovascular procedures. While it is related to the source paper's focus on preventing early recurrence of stroke and TIA, the hypothesis in this paper is not directly inspired by or dependent on the source paper's findings.",
+                    "relevance": 1
+                },
+                "9. The SCAN rule: a clinical rule to reduce CT misdiagnosis of intracerebral haemorrhage in minor stroke": {
+                    "explanation": "This paper develops a clinical rule to identify patients with minor stroke who are likely to have intracerebral haemorrhage. While it is related to the source paper's focus on preventing early recurrence of stroke and TIA, the hypothesis in this paper is not directly inspired by or dependent on the source paper's findings.",
+                    "relevance": 1
+                },
+                "10. High Risk of Early Neurological Recurrence in Symptomatic Carotid Stenosis": {
+                    "explanation": "This paper explores the risk of early neurological recurrence in patients with symptomatic carotid stenosis. While it is related to the source paper's focus on preventing early recurrence of stroke and TIA, the hypothesis in this paper is not directly inspired by or dependent on the source paper's findings.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Symptom Progression or Fluctuation in Transient Ischemic Attack Patients Predicts Subsequent Stroke": {
+                    "explanation": "This paper explores the relationship between TIA symptoms and subsequent stroke, which is related to the source paper's focus on preventing early recurrence of stroke and TIA.",
+                    "relevance": 1
+                },
+                "2. Predicting recurrent stroke after minor stroke and transient ischemic attack": {
+                    "explanation": "This paper reviews predictors of recurrent stroke, including the ABCD2 score, brain imaging, and stroke mechanism. While it is related to the source paper's focus on preventing early recurrence of stroke and TIA, the hypothesis in this paper is not directly inspired by or dependent on the source paper's findings.",
+                    "relevance": 1
+                },
+                "3. Statin use before and after acute ischemic stroke onset improves neurological outcome": {
+                    "explanation": "This paper explores the relationship between statin use and neurological outcome after acute ischemic stroke. While it is related to the source paper's focus on preventing early recurrence of stroke and TIA, the hypothesis in this paper is not directly inspired by or dependent on the source paper's findings.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2009,
+        "source_paper": {
+            "paperId": "e6a031105b8858c5050ff7b569f284d182cf9d78",
+            "pmid": "17931979",
+            "title": "Fast assessment of stroke and transient ischaemic attack to prevent early recurrence (FASTER): a randomised controlled pilot trial",
+            "abstract": null,
+            "year": 2007,
+            "citation_count": 522
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. The Acute (Cerebro)Vascular Effects of Statins": {
+                    "explanation": "The paper discusses the effects of statins on cerebrovascular disease, which is relevant to the source paper's focus on preventing early recurrence of stroke and transient ischaemic attack. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "2. Targeting eNOS and beyond: emerging heterogeneity of the role of endothelial Rho proteins in stroke protection": {
+                    "explanation": "The paper explores the role of endothelial Rho proteins in stroke protection, which is related to the source paper's topic of stroke prevention. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "3. Initial management of suspected transient cerebral ischaemia and stroke in primary care: implications of recent research": {
+                    "explanation": "The paper discusses the initial management of suspected transient cerebral ischaemia and stroke in primary care, which is relevant to the source paper's focus on preventing early recurrence of stroke and transient ischaemic attack. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "4. High-Dose Lovastatin for Acute Ischemic Stroke: Results of the Phase I Dose Escalation Neuroprotection with Statin Therapy for Acute Recovery Trial (NeuSTART)": {
+                    "explanation": "The paper discusses the use of high-dose lovastatin for acute ischemic stroke, which is related to the source paper's topic of stroke prevention. The paper's hypothesis is partially dependent on the previous findings regarding statins' effects on stroke prevention.",
+                    "relevance": 2
+                },
+                "5. Interventions in the Management of Serum Lipids for Preventing Stroke Recurrence": {
+                    "explanation": "This is a review paper that summarizes the existing literature on interventions for managing serum lipids to prevent stroke recurrence. It does not present new findings or hypotheses.",
+                    "relevance": 0
+                },
+                "6. Review of current and emerging therapies in acute ischemic stroke": {
+                    "explanation": "This is a review paper that summarizes the existing literature on current and emerging therapies for acute ischemic stroke. It does not present new findings or hypotheses.",
+                    "relevance": 0
+                },
+                "7. Population-based study of risk and predictors of stroke in the first few hours after a TIA": {
+                    "explanation": "The paper discusses the risk and predictors of stroke in the first few hours after a TIA, which is relevant to the source paper's focus on preventing early recurrence of stroke and transient ischaemic attack. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "8. Antithrombotic Agents in the Prevention of Ischemic Stroke": {
+                    "explanation": "The paper discusses the role of antithrombotic agents in preventing ischemic stroke, which is related to the source paper's topic of stroke prevention. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "9. Pre-Stroke Use of Antihypertensives, Antiplatelets, or Statins and Early Ischemic Stroke Outcomes": {
+                    "explanation": "The paper discusses the effect of pre-stroke use of antihypertensives, antiplatelets, or statins on early ischemic stroke outcomes, which is relevant to the source paper's focus on preventing early recurrence of stroke and transient ischaemic attack. The paper's hypothesis is partially dependent on the previous findings regarding the effects of these medications on stroke prevention.",
+                    "relevance": 2
+                },
+                "10. Transient Ischemic Attack and Stroke: Diagnosis, Investigation and Management": {
+                    "explanation": "This is a review paper that summarizes the existing literature on the diagnosis, investigation, and management of transient ischemic attack and stroke. It does not present new findings or hypotheses.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. High-Dose Lovastatin for Acute Ischemic Stroke: Results of the Phase I Dose Escalation Neuroprotection with Statin Therapy for Acute Recovery Trial (NeuSTART)": {
+                    "explanation": "The paper discusses the use of high-dose lovastatin for acute ischemic stroke, which is related to the source paper's topic of stroke prevention. The paper's hypothesis is partially dependent on the previous findings regarding statins' effects on stroke prevention.",
+                    "relevance": 2
+                },
+                "2. Pre-Stroke Use of Antihypertensives, Antiplatelets, or Statins and Early Ischemic Stroke Outcomes": {
+                    "explanation": "The paper discusses the effect of pre-stroke use of antihypertensives, antiplatelets, or statins on early ischemic stroke outcomes, which is relevant to the source paper's focus on preventing early recurrence of stroke and transient ischaemic attack. The paper's hypothesis is partially dependent on the previous findings regarding the effects of these medications on stroke prevention.",
+                    "relevance": 2
+                },
+                "3. The Acute (Cerebro)Vascular Effects of Statins": {
+                    "explanation": "The paper discusses the effects of statins on cerebrovascular disease, which is relevant to the source paper's focus on preventing early recurrence of stroke and transient ischaemic attack. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2009,
+        "source_paper": {
+            "paperId": "e6a031105b8858c5050ff7b569f284d182cf9d78",
+            "pmid": "17931979",
+            "title": "Fast assessment of stroke and transient ischaemic attack to prevent early recurrence (FASTER): a randomised controlled pilot trial",
+            "abstract": null,
+            "year": 2007,
+            "citation_count": 522
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Recurrent events in transient ischemic attack and minor stroke.": {
+                    "explanation": "This paper discusses the rate of recurrent events after a first minor stroke or transient ischemic attack and the potential use of MRI to stratify patients at higher risk for recurrence. Although it does not directly build upon the source paper's findings, it explores a related topic and could be considered tangentially connected.",
+                    "relevance": 1
+                },
+                "2. Transient ischaemic attack: clinical relevance, risk prediction and urgency of secondary prevention": {
+                    "explanation": "This paper reviews recent evidence on the burden of transient ischemic attack and prediction and prevention of stroke in the acute phase. The source paper's focus on fast assessment of stroke and transient ischemic attack to prevent early recurrence is closely related to this paper's discussion of risk prediction and secondary prevention, suggesting that the source paper's findings could be a sub-hypothesis for this paper's key hypothesis.",
+                    "relevance": 2
+                },
+                "3. Evaluation and management of stroke.": {
+                    "explanation": "This paper reviews the diagnostic approach to stroke, prognostic and treatment implications of specific stroke mechanisms, and the role of antiplatelet and anticoagulant therapy in secondary stroke prevention. Although it provides a comprehensive overview of stroke management, it does not appear to directly build upon or depend on the source paper's findings, and its connection to the source paper is therefore limited.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Transient ischaemic attack: clinical relevance, risk prediction and urgency of secondary prevention": {
+                    "explanation": "This paper reviews recent evidence on the burden of transient ischemic attack and prediction and prevention of stroke in the acute phase. The source paper's focus on fast assessment of stroke and transient ischemic attack to prevent early recurrence is closely related to this paper's discussion of risk prediction and secondary prevention, suggesting that the source paper's findings could be a sub-hypothesis for this paper's key hypothesis.",
+                    "relevance": 2
+                },
+                "2. Recurrent events in transient ischemic attack and minor stroke.": {
+                    "explanation": "This paper discusses the rate of recurrent events after a first minor stroke or transient ischemic attack and the potential use of MRI to stratify patients at higher risk for recurrence. Although it does not directly build upon the source paper's findings, it explores a related topic and could be considered tangentially connected.",
+                    "relevance": 1
+                },
+                "3. Evaluation and management of stroke.": {
+                    "explanation": "This paper reviews the diagnostic approach to stroke, prognostic and treatment implications of specific stroke mechanisms, and the role of antiplatelet and anticoagulant therapy in secondary stroke prevention. Although it provides a comprehensive overview of stroke management, it does not appear to directly build upon or depend on the source paper's findings, and its connection to the source paper is therefore limited.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2009,
+        "source_paper": {
+            "paperId": "3cb54f4bc62c9d97504511520a5d5e32f8c8e126",
+            "title": "An Improved Scoring System for Identifying Patients at High Early Risk of Stroke and Functional Impairment after an Acute Transient Ischemic Attack or Minor Stroke",
+            "abstract": "Background Risk of a subsequent stroke following an acute transient ischemic attack (TIA) or minor stroke is high. The ABCD2 tool was proposed as a method to triage these patients using five clinical factors. Modern imaging of the brain was not included. The present study quantified the added value of magnetic resonance imaging (MRI) factors to the ABCD2 tool. Methods Patients with TIA or minor stroke were examined within 12 h and had a brain MRI within 24 h of symptom onset. Primary outcomes were recurrent stroke and functional impairment at 90 days. A new tool, ABCD2+ MRI, was created by adding diffusion-weighted imaging lesion and vessel occlusion status to the ABCD2 tool. The predictive accuracy of both tools was quantified by the area under the curve (AUC). Results One hundred and eighty patients were enrolled and 11\u00b71% had a recurrent stroke within 90 days. The predictive accuracy of the ABCD2+MRI was significantly higher than ABCD2 (AUC of 0\u00b788 vs. 0\u00b778, P = 0\u00b701). Those with a high score (7\u20139) had a 90-day recurrent stroke risk of 32\u00b71%, moderate score (5\u20136) risk of 5\u00b74%, and low score (0-4) risk of 0\u00b70%. The ABCD2 tool did not predict risk of functional impairment at 90 days (P = 0\u00b733), unlike the ABCD2+MRI (P = 0\u00b702): high score (22\u00b79%), moderate (7\u00b75%), low (7\u00b77%). Conclusions Risk of recurrent stroke and functional impairment after a TIA or minor stroke can be accurately predicted by a scoring system that utilizes both clinical and MRI information. The ABCD2+MRI score is simple and its components are commonly available during the time of admission.",
+            "year": 2008,
+            "citation_count": 124,
+            "relevance": 2,
+            "explanation": "This paper proposes an improved scoring system for identifying patients at high early risk of stroke and functional impairment after an acute transient ischaemic attack or minor stroke, which is a relevant topic to the source paper. The paper builds upon the idea of early assessment and prevention of stroke, which is also discussed in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Significance of Large Vessel Intracranial Occlusion Causing Acute Ischemic Stroke and TIA": {
+                    "explanation": "This paper explores the impact of large vessel intracranial occlusion on acute ischemic stroke and TIA, which is related to the source paper's topic of stroke and TIA risk assessment. However, the paper does not directly build upon or depend on the source paper's findings, so it is not scored as 1 or 2.",
+                    "relevance": 0
+                },
+                "2. Computed Tomography and Computed Tomography Angiography Findings Predict Functional Impairment in Patients with Minor Stroke and Transient Ischaemic Attack": {
+                    "explanation": "This paper investigates the use of computed tomography and computed tomography angiography findings to predict functional impairment in patients with minor stroke and TIA. The paper is partially dependent on the source paper's findings, as it also explores the use of imaging modalities to predict outcomes in stroke and TIA patients.",
+                    "relevance": 2
+                },
+                "3. Imaging the future of stroke: I. Ischemia": {
+                    "explanation": "This paper is a review article that discusses the future of stroke imaging, including the use of multimodal imaging techniques to diagnose and treat ischemic stroke. The paper does not directly build upon or depend on the source paper's findings, so it is not scored as 1 or 2.",
+                    "relevance": 0
+                },
+                "4. Predicting recurrent stroke after minor stroke and transient ischemic attack": {
+                    "explanation": "This paper reviews predictors of recurrent stroke after minor stroke and TIA, including the ABCD2 score and brain imaging. The paper is inspired by the source paper's findings on the use of the ABCD2 score and MRI to predict recurrent stroke and functional impairment.",
+                    "relevance": 1
+                },
+                "5. Early Diffusion Weighted MRI as a Negative Predictor for Disabling Stroke After ABCD2 Score Risk Categorization in Transient Ischemic Attack Patients": {
+                    "explanation": "This paper investigates the use of early diffusion-weighted MRI to predict disabling stroke in TIA patients after risk stratification using the ABCD2 score. The paper is partially dependent on the source paper's findings, as it also explores the use of the ABCD2 score and MRI to predict outcomes in TIA patients.",
+                    "relevance": 2
+                },
+                "6. Validation and Refinement of the ABCD2 Score: A Population-Based Analysis": {
+                    "explanation": "This paper validates and refines the ABCD2 score using a population-based cohort. The paper is partially dependent on the source paper's findings, as it also explores the use of the ABCD2 score to predict outcomes in TIA patients.",
+                    "relevance": 2
+                },
+                "7. National survey of management of transient ischaemic attack in Australia: Take Immediate Action": {
+                    "explanation": "This paper reports on a national survey of TIA management in Australia, which is not directly related to the source paper's findings on stroke and TIA risk assessment.",
+                    "relevance": 0
+                },
+                "8. Update of secondary stroke prevention": {
+                    "explanation": "This paper reviews secondary stroke prevention strategies, which is not directly related to the source paper's findings on stroke and TIA risk assessment.",
+                    "relevance": 0
+                },
+                "9. Acute stroke and transient ischaemic attack management \u2013 time to act fast": {
+                    "explanation": "This paper discusses the importance of timely management of acute stroke and TIA, which is not directly related to the source paper's findings on stroke and TIA risk assessment.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Computed Tomography and Computed Tomography Angiography Findings Predict Functional Impairment in Patients with Minor Stroke and Transient Ischaemic Attack": {
+                    "explanation": "This paper investigates the use of computed tomography and computed tomography angiography findings to predict functional impairment in patients with minor stroke and TIA. The paper is partially dependent on the source paper's findings, as it also explores the use of imaging modalities to predict outcomes in stroke and TIA patients.",
+                    "relevance": 2
+                },
+                "2. Early Diffusion Weighted MRI as a Negative Predictor for Disabling Stroke After ABCD2 Score Risk Categorization in Transient Ischemic Attack Patients": {
+                    "explanation": "This paper investigates the use of early diffusion-weighted MRI to predict disabling stroke in TIA patients after risk stratification using the ABCD2 score. The paper is partially dependent on the source paper's findings, as it also explores the use of the ABCD2 score and MRI to predict outcomes in TIA patients.",
+                    "relevance": 2
+                },
+                "3. Validation and Refinement of the ABCD2 Score: A Population-Based Analysis": {
+                    "explanation": "This paper validates and refines the ABCD2 score using a population-based cohort. The paper is partially dependent on the source paper's findings, as it also explores the use of the ABCD2 score to predict outcomes in TIA patients.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2010,
+        "source_paper": {
+            "paperId": "3cb54f4bc62c9d97504511520a5d5e32f8c8e126",
+            "title": "An Improved Scoring System for Identifying Patients at High Early Risk of Stroke and Functional Impairment after an Acute Transient Ischemic Attack or Minor Stroke",
+            "abstract": "Background Risk of a subsequent stroke following an acute transient ischemic attack (TIA) or minor stroke is high. The ABCD2 tool was proposed as a method to triage these patients using five clinical factors. Modern imaging of the brain was not included. The present study quantified the added value of magnetic resonance imaging (MRI) factors to the ABCD2 tool. Methods Patients with TIA or minor stroke were examined within 12 h and had a brain MRI within 24 h of symptom onset. Primary outcomes were recurrent stroke and functional impairment at 90 days. A new tool, ABCD2+ MRI, was created by adding diffusion-weighted imaging lesion and vessel occlusion status to the ABCD2 tool. The predictive accuracy of both tools was quantified by the area under the curve (AUC). Results One hundred and eighty patients were enrolled and 11\u00b71% had a recurrent stroke within 90 days. The predictive accuracy of the ABCD2+MRI was significantly higher than ABCD2 (AUC of 0\u00b788 vs. 0\u00b778, P = 0\u00b701). Those with a high score (7\u20139) had a 90-day recurrent stroke risk of 32\u00b71%, moderate score (5\u20136) risk of 5\u00b74%, and low score (0-4) risk of 0\u00b70%. The ABCD2 tool did not predict risk of functional impairment at 90 days (P = 0\u00b733), unlike the ABCD2+MRI (P = 0\u00b702): high score (22\u00b79%), moderate (7\u00b75%), low (7\u00b77%). Conclusions Risk of recurrent stroke and functional impairment after a TIA or minor stroke can be accurately predicted by a scoring system that utilizes both clinical and MRI information. The ABCD2+MRI score is simple and its components are commonly available during the time of admission.",
+            "year": 2008,
+            "citation_count": 124,
+            "relevance": 2,
+            "explanation": "This paper proposes an improved scoring system for identifying patients at high early risk of stroke and functional impairment after an acute transient ischaemic attack or minor stroke, which is a relevant topic to the source paper. The paper builds upon the idea of early assessment and prevention of stroke, which is also discussed in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Pro: intravenous tissue plasminogen activator in stroke patients with rapid, complete recovery during evaluation (transient ischemic attack) and evidence of middle cerebral artery occlusion.": {
+                    "explanation": "This paper is not directly related to the source paper, as it discusses the use of intravenous tissue plasminogen activator in stroke patients, whereas the source paper focuses on the development of a scoring system for identifying patients at high risk of stroke and functional impairment after a transient ischemic attack or minor stroke.",
+                    "relevance": 0
+                },
+                "2. Addition of Brain Infarction to the ABCD2 Score (ABCD2I): A Collaborative Analysis of Unpublished Data on 4574 Patients": {
+                    "explanation": "This paper is directly related to the source paper, as it builds upon the ABCD2 score by incorporating brain infarction on imaging to improve the predictive accuracy of the score. The findings of this paper are partially dependent on the source paper's results, which established the ABCD2 score as a useful tool for predicting stroke risk.",
+                    "relevance": 2
+                },
+                "3. A new technique to stratify stroke risk in transient ischemic attack patients?": {
+                    "explanation": "This paper is not directly related to the source paper, as it discusses the use of transcranial Doppler (TCD) to stratify stroke risk in TIA patients, whereas the source paper focuses on the development of a scoring system that utilizes both clinical and MRI information.",
+                    "relevance": 0
+                },
+                "4. Validation of the ABCD2 Score to Identify the Patients With High Risk of Late Stroke After a Transient Ischemic Attack or Minor Ischemic Stroke": {
+                    "explanation": "This paper is directly related to the source paper, as it validates the ABCD2 score for predicting long-term stroke risk after a transient ischemic attack or minor ischemic stroke. The findings of this paper are partially dependent on the source paper's results, which established the ABCD2 score as a useful tool for predicting stroke risk.",
+                    "relevance": 2
+                },
+                "5. Population-Based Study of ABCD2 Score, Carotid Stenosis, and Atrial Fibrillation for Early Stroke Prediction After Transient Ischemic Attack: The North Dublin TIA Study": {
+                    "explanation": "This paper is directly related to the source paper, as it investigates the external validity of the ABCD2 score, carotid stenosis, and atrial fibrillation for predicting early recurrent stroke after TIA. The findings of this paper are partially dependent on the source paper's results, which established the ABCD2 score as a useful tool for predicting stroke risk.",
+                    "relevance": 2
+                },
+                "6. Potential and failure of the ABCD2 score in stroke risk prediction after transient ischemic attack.": {
+                    "explanation": "This paper is directly related to the source paper, as it discusses the limitations and potential failures of the ABCD2 score in predicting stroke risk after a transient ischemic attack. The findings of this paper are partially dependent on the source paper's results, which established the ABCD2 score as a useful tool for predicting stroke risk.",
+                    "relevance": 2
+                },
+                "7. Multicenter external validation of the ABCD2 score in triaging TIA patients": {
+                    "explanation": "This paper is directly related to the source paper, as it externally validates the ABCD2 score in a multicenter case series study. The findings of this paper are partially dependent on the source paper's results, which established the ABCD2 score as a useful tool for predicting stroke risk.",
+                    "relevance": 2
+                },
+                "8. Acute Corticospinal Tract Wallerian Degeneration Is Associated With Stroke Outcome": {
+                    "explanation": "This paper is not directly related to the source paper, as it discusses the association between acute corticospinal tract Wallerian degeneration and stroke outcome, whereas the source paper focuses on the development of a scoring system for identifying patients at high risk of stroke and functional impairment after a transient ischemic attack or minor stroke.",
+                    "relevance": 0
+                },
+                "9. Systematic Review and Pooled Analysis of Published and Unpublished Validations of the ABCD and ABCD2 Transient Ischemic Attack Risk Scores": {
+                    "explanation": "This paper is directly related to the source paper, as it systematically reviews and analyzes the predictive value of the ABCD and ABCD2 scores in various clinical settings. The findings of this paper are partially dependent on the source paper's results, which established the ABCD2 score as a useful tool for predicting stroke risk.",
+                    "relevance": 2
+                },
+                "10. Contributions Population-Based Study of ABCD 2 Score, Carotid Stenosis, and Atrial Fibrillation for Early Stroke Prediction After Transient Ischemic Attack The North Dublin TIA Study": {
+                    "explanation": "This paper is directly related to the source paper, as it investigates the external validity of the ABCD2 score, carotid stenosis, and atrial fibrillation for predicting early recurrent stroke after TIA. The findings of this paper are partially dependent on the source paper's results, which established the ABCD2 score as a useful tool for predicting stroke risk.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Addition of Brain Infarction to the ABCD2 Score (ABCD2I): A Collaborative Analysis of Unpublished Data on 4574 Patients": {
+                    "explanation": "This paper is directly related to the source paper, as it builds upon the ABCD2 score by incorporating brain infarction on imaging to improve the predictive accuracy of the score. The findings of this paper are partially dependent on the source paper's results, which established the ABCD2 score as a useful tool for predicting stroke risk.",
+                    "relevance": 2
+                },
+                "2. Validation of the ABCD2 Score to Identify the Patients With High Risk of Late Stroke After a Transient Ischemic Attack or Minor Ischemic Stroke": {
+                    "explanation": "This paper is directly related to the source paper, as it validates the ABCD2 score for predicting long-term stroke risk after a transient ischemic attack or minor ischemic stroke. The findings of this paper are partially dependent on the source paper's results, which established the ABCD2 score as a useful tool for predicting stroke risk.",
+                    "relevance": 2
+                },
+                "3. Population-Based Study of ABCD2 Score, Carotid Stenosis, and Atrial Fibrillation for Early Stroke Prediction After Transient Ischemic Attack: The North Dublin TIA Study": {
+                    "explanation": "This paper is directly related to the source paper, as it investigates the external validity of the ABCD2 score, carotid stenosis, and atrial fibrillation for predicting early recurrent stroke after TIA. The findings of this paper are partially dependent on the source paper's results, which established the ABCD2 score as a useful tool for predicting stroke risk.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2010,
+        "source_paper": {
+            "paperId": "3cb54f4bc62c9d97504511520a5d5e32f8c8e126",
+            "title": "An Improved Scoring System for Identifying Patients at High Early Risk of Stroke and Functional Impairment after an Acute Transient Ischemic Attack or Minor Stroke",
+            "abstract": "Background Risk of a subsequent stroke following an acute transient ischemic attack (TIA) or minor stroke is high. The ABCD2 tool was proposed as a method to triage these patients using five clinical factors. Modern imaging of the brain was not included. The present study quantified the added value of magnetic resonance imaging (MRI) factors to the ABCD2 tool. Methods Patients with TIA or minor stroke were examined within 12 h and had a brain MRI within 24 h of symptom onset. Primary outcomes were recurrent stroke and functional impairment at 90 days. A new tool, ABCD2+ MRI, was created by adding diffusion-weighted imaging lesion and vessel occlusion status to the ABCD2 tool. The predictive accuracy of both tools was quantified by the area under the curve (AUC). Results One hundred and eighty patients were enrolled and 11\u00b71% had a recurrent stroke within 90 days. The predictive accuracy of the ABCD2+MRI was significantly higher than ABCD2 (AUC of 0\u00b788 vs. 0\u00b778, P = 0\u00b701). Those with a high score (7\u20139) had a 90-day recurrent stroke risk of 32\u00b71%, moderate score (5\u20136) risk of 5\u00b74%, and low score (0-4) risk of 0\u00b70%. The ABCD2 tool did not predict risk of functional impairment at 90 days (P = 0\u00b733), unlike the ABCD2+MRI (P = 0\u00b702): high score (22\u00b79%), moderate (7\u00b75%), low (7\u00b77%). Conclusions Risk of recurrent stroke and functional impairment after a TIA or minor stroke can be accurately predicted by a scoring system that utilizes both clinical and MRI information. The ABCD2+MRI score is simple and its components are commonly available during the time of admission.",
+            "year": 2008,
+            "citation_count": 124,
+            "relevance": 2,
+            "explanation": "This paper proposes an improved scoring system for identifying patients at high early risk of stroke and functional impairment after an acute transient ischaemic attack or minor stroke, which is a relevant topic to the source paper. The paper builds upon the idea of early assessment and prevention of stroke, which is also discussed in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Population-Based Study of ABCD 2 Score, Carotid Stenosis, and Atrial Fibrillation for Early Stroke Prediction After Transient Ischemic Attack": {
+                    "explanation": "This paper builds on the ABCD2 tool, which was also used in the source paper. However, it does not directly build on the findings of the source paper, which introduced the ABCD2+MRI tool. Instead, it explores the external validity of the ABCD2 score in a population-based cohort and examines the predictive value of carotid stenosis and atrial fibrillation for early stroke risk. Therefore, the relevance score is 1, indicating that the hypothesis in this paper is inspired by the hypothesis or findings of the source paper.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Population-Based Study of ABCD 2 Score, Carotid Stenosis, and Atrial Fibrillation for Early Stroke Prediction After Transient Ischemic Attack": {
+                    "explanation": "This paper builds on the ABCD2 tool, which was also used in the source paper. However, it does not directly build on the findings of the source paper, which introduced the ABCD2+MRI tool. Instead, it explores the external validity of the ABCD2 score in a population-based cohort and examines the predictive value of carotid stenosis and atrial fibrillation for early stroke risk.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2011,
+        "source_paper": {
+            "paperId": "c6810b2ba8de3032c6eb042553ee684d64055fe8",
+            "title": "Addition of Brain Infarction to the ABCD2 Score (ABCD2I): A Collaborative Analysis of Unpublished Data on 4574 Patients",
+            "abstract": "Background and Purpose\u2014 The ABCD system was developed to predict early stroke risk after transient ischemic attack. Incorporation of brain imaging findings has been suggested, but reports have used inconsistent methods and been underpowered. We therefore performed an international, multicenter collaborative study of the prognostic performance of the ABCD2 score and brain infarction on imaging to determine the optimal weighting of infarction in the score (ABCD2I). Methods\u2014 Twelve centers provided unpublished data on ABCD2 scores, presence of brain infarction on either diffusion-weighted imaging or CT, and follow-up in cohorts of patients with transient ischemic attack diagnosed by World Health Organization criteria. Optimal weighting of infarction in the ABCD2I score was determined using area under the receiver operating characteristic curve analyses and random effects meta-analysis. Results\u2014 Among 4574 patients with TIA, acute infarction was present in 884 (27.6%) of 3206 imaged with diffusion-weighted imaging and new or old infarction was present in 327 (23.9%) of 1368 imaged with CT. ABCD2 score and presence of infarction on diffusion-weighted imaging or CT were both independently predictive of stroke (n=145) at 7 days (after adjustment for ABCD2 score, OR for infarction=6.2, 95% CI=4.2 to 9.0, overall; 14.9, 7.4 to 30.2, for diffusion-weighted imaging; 4.2, 2.6 to 6.9, for CT; all P<0.001). Incorporation of infarction in the ABCD2I score improved predictive power with an optimal weighting of 3 points for infarction on CT or diffusion-weighted imaging. Pooled areas under the curve increased from 0.66 (0.53 to 0.78) for the ABCD2 score to 0.78 (0.72 to 0.85) for the ABCD2I score. Conclusions\u2014 In secondary care, incorporation of brain infarction into the ABCD system (ABCD2I score) improves prediction of stroke in the acute phase after transient ischemic attack.",
+            "year": 2010,
+            "citation_count": 174,
+            "relevance": 2,
+            "explanation": "This paper is directly related to the source paper, as it builds upon the ABCD2 score by incorporating brain infarction on imaging to improve the predictive accuracy of the score. The findings of this paper are partially dependent on the source paper's results, which established the ABCD2 score as a useful tool for predicting stroke risk."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Should TIA patients be hospitalized or referred to a same-day clinic?": {
+                    "explanation": "This paper is not directly connected to the source paper as it discusses the cost-effectiveness of hospitalization vs urgent clinic evaluation following TIA, without referencing the ABCD2I score or the concept of incorporating brain infarction into the ABCD system.",
+                    "relevance": 0
+                },
+                "2. Stroke Prediction after Transient Ischemic Attacks in Patients Admitted to a Stroke Unit": {
+                    "explanation": "This paper is not directly connected to the source paper as it discusses the risk of stroke after TIA in a stroke unit setting, without referencing the ABCD2I score or the concept of incorporating brain infarction into the ABCD system.",
+                    "relevance": 0
+                },
+                "3. Redefinition of Transient Ischemic Attack Improves Prognosis of Transient Ischemic Attack and Ischemic Stroke: An Example of the Will Rogers Phenomenon": {
+                    "explanation": "This paper is not directly connected to the source paper as it discusses the redefinition of TIA and its impact on prognosis, without referencing the ABCD2I score or the concept of incorporating brain infarction into the ABCD system.",
+                    "relevance": 0
+                },
+                "4. Early stroke risk and ABCD2 score performance in tissue- vs time-defined TIA": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the performance of the ABCD2 score in tissue-defined TIA, building on the source paper's results regarding the incorporation of brain infarction into the ABCD system.",
+                    "relevance": 1
+                },
+                "5. Prediction of Early Stroke Risk in Transient Symptoms With Infarction: Relevance to the New Tissue-Based Definition": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the prediction of early stroke risk in transient symptoms with infarction, building on the source paper's results regarding the incorporation of brain infarction into the ABCD system.",
+                    "relevance": 1
+                },
+                "6. Severity of leukoaraiosis determines clinical phenotype after brain infarction": {
+                    "explanation": "This paper is not directly connected to the source paper as it discusses the relationship between leukoaraiosis and clinical phenotype after brain infarction, without referencing the ABCD2I score or the concept of incorporating brain infarction into the ABCD system.",
+                    "relevance": 0
+                },
+                "7. TWO ACES: Transient Ischemic Attack Work-Up as Outpatient Assessment of Clinical Evaluation and Safety": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the use of the ABCD2 score in combination with early imaging for TIA triage, building on the source paper's results regarding the incorporation of brain infarction into the ABCD system.",
+                    "relevance": 2
+                },
+                "8. Validation of the ABCD2-I score to predict stroke risk after transient ischemic attack": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the predictive value of the ABCD2-I score, which incorporates brain infarction into the ABCD system, as proposed by the source paper.",
+                    "relevance": 2
+                },
+                "9. National stroke association recommendations for systems of care for transient ischemic attack": {
+                    "explanation": "This paper is not directly connected to the source paper as it discusses recommendations for systems of care for TIA, without referencing the ABCD2I score or the concept of incorporating brain infarction into the ABCD system.",
+                    "relevance": 0
+                },
+                "10. Poor Performance of Current Prognostic Scores for Early Risk of Recurrence After Minor Stroke": {
+                    "explanation": "This paper is not directly connected to the source paper as it discusses the performance of current prognostic scores for early risk of recurrence after minor stroke, without referencing the ABCD2I score or the concept of incorporating brain infarction into the ABCD system.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Validation of the ABCD2-I score to predict stroke risk after transient ischemic attack": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the predictive value of the ABCD2-I score, which incorporates brain infarction into the ABCD system, as proposed by the source paper.",
+                    "relevance": 2
+                },
+                "2. TWO ACES: Transient Ischemic Attack Work-Up as Outpatient Assessment of Clinical Evaluation and Safety": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the use of the ABCD2 score in combination with early imaging for TIA triage, building on the source paper's results regarding the incorporation of brain infarction into the ABCD system.",
+                    "relevance": 2
+                },
+                "3. Early stroke risk and ABCD2 score performance in tissue- vs time-defined TIA": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the performance of the ABCD2 score in tissue-defined TIA, building on the source paper's results regarding the incorporation of brain infarction into the ABCD system.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2011,
+        "source_paper": {
+            "paperId": "c6810b2ba8de3032c6eb042553ee684d64055fe8",
+            "title": "Addition of Brain Infarction to the ABCD2 Score (ABCD2I): A Collaborative Analysis of Unpublished Data on 4574 Patients",
+            "abstract": "Background and Purpose\u2014 The ABCD system was developed to predict early stroke risk after transient ischemic attack. Incorporation of brain imaging findings has been suggested, but reports have used inconsistent methods and been underpowered. We therefore performed an international, multicenter collaborative study of the prognostic performance of the ABCD2 score and brain infarction on imaging to determine the optimal weighting of infarction in the score (ABCD2I). Methods\u2014 Twelve centers provided unpublished data on ABCD2 scores, presence of brain infarction on either diffusion-weighted imaging or CT, and follow-up in cohorts of patients with transient ischemic attack diagnosed by World Health Organization criteria. Optimal weighting of infarction in the ABCD2I score was determined using area under the receiver operating characteristic curve analyses and random effects meta-analysis. Results\u2014 Among 4574 patients with TIA, acute infarction was present in 884 (27.6%) of 3206 imaged with diffusion-weighted imaging and new or old infarction was present in 327 (23.9%) of 1368 imaged with CT. ABCD2 score and presence of infarction on diffusion-weighted imaging or CT were both independently predictive of stroke (n=145) at 7 days (after adjustment for ABCD2 score, OR for infarction=6.2, 95% CI=4.2 to 9.0, overall; 14.9, 7.4 to 30.2, for diffusion-weighted imaging; 4.2, 2.6 to 6.9, for CT; all P<0.001). Incorporation of infarction in the ABCD2I score improved predictive power with an optimal weighting of 3 points for infarction on CT or diffusion-weighted imaging. Pooled areas under the curve increased from 0.66 (0.53 to 0.78) for the ABCD2 score to 0.78 (0.72 to 0.85) for the ABCD2I score. Conclusions\u2014 In secondary care, incorporation of brain infarction into the ABCD system (ABCD2I score) improves prediction of stroke in the acute phase after transient ischemic attack.",
+            "year": 2010,
+            "citation_count": 174,
+            "relevance": 2,
+            "explanation": "This paper is directly related to the source paper, as it builds upon the ABCD2 score by incorporating brain infarction on imaging to improve the predictive accuracy of the score. The findings of this paper are partially dependent on the source paper's results, which established the ABCD2 score as a useful tool for predicting stroke risk."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Diffusion-perfusion MRI for triaging transient ischemic attack and acute cerebrovascular syndromes": {
+                    "explanation": "This paper discusses the use of diffusion-perfusion MRI for triaging transient ischemic attack and acute cerebrovascular syndromes. While it does not directly build upon the source paper, it explores a related topic in the field of transient ischemic attack diagnosis and management. However, it does not explicitly reference or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "2. Transient ischaemic attack clinics and management of transient ischaemic attacks": {
+                    "explanation": "This paper reviews transient ischaemic attack clinics and management of transient ischaemic attacks. It mentions the ABCD2 score, which is also discussed in the source paper. However, it does not directly build upon the source paper's findings or use them as a sub-hypothesis. Instead, it provides a general overview of TIA management and risk stratification.",
+                    "relevance": 1
+                },
+                "3. Initial evaluation and management of transient ischemic attack and minor stroke": {
+                    "explanation": "This paper discusses the initial evaluation and management of transient ischemic attack and minor stroke. While it touches on the definition and diagnosis of TIA, it does not directly reference or build upon the source paper's findings. The paper focuses on the clinical approach to TIA and minor stroke, rather than the specific topic of incorporating brain infarction into the ABCD system.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Transient ischaemic attack clinics and management of transient ischaemic attacks": {
+                    "explanation": "This paper reviews transient ischaemic attack clinics and management of transient ischaemic attacks. It mentions the ABCD2 score, which is also discussed in the source paper. However, it does not directly build upon the source paper's findings or use them as a sub-hypothesis. Instead, it provides a general overview of TIA management and risk stratification.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2012,
+        "source_paper": {
+            "paperId": "c6810b2ba8de3032c6eb042553ee684d64055fe8",
+            "title": "Addition of Brain Infarction to the ABCD2 Score (ABCD2I): A Collaborative Analysis of Unpublished Data on 4574 Patients",
+            "abstract": "Background and Purpose\u2014 The ABCD system was developed to predict early stroke risk after transient ischemic attack. Incorporation of brain imaging findings has been suggested, but reports have used inconsistent methods and been underpowered. We therefore performed an international, multicenter collaborative study of the prognostic performance of the ABCD2 score and brain infarction on imaging to determine the optimal weighting of infarction in the score (ABCD2I). Methods\u2014 Twelve centers provided unpublished data on ABCD2 scores, presence of brain infarction on either diffusion-weighted imaging or CT, and follow-up in cohorts of patients with transient ischemic attack diagnosed by World Health Organization criteria. Optimal weighting of infarction in the ABCD2I score was determined using area under the receiver operating characteristic curve analyses and random effects meta-analysis. Results\u2014 Among 4574 patients with TIA, acute infarction was present in 884 (27.6%) of 3206 imaged with diffusion-weighted imaging and new or old infarction was present in 327 (23.9%) of 1368 imaged with CT. ABCD2 score and presence of infarction on diffusion-weighted imaging or CT were both independently predictive of stroke (n=145) at 7 days (after adjustment for ABCD2 score, OR for infarction=6.2, 95% CI=4.2 to 9.0, overall; 14.9, 7.4 to 30.2, for diffusion-weighted imaging; 4.2, 2.6 to 6.9, for CT; all P<0.001). Incorporation of infarction in the ABCD2I score improved predictive power with an optimal weighting of 3 points for infarction on CT or diffusion-weighted imaging. Pooled areas under the curve increased from 0.66 (0.53 to 0.78) for the ABCD2 score to 0.78 (0.72 to 0.85) for the ABCD2I score. Conclusions\u2014 In secondary care, incorporation of brain infarction into the ABCD system (ABCD2I score) improves prediction of stroke in the acute phase after transient ischemic attack.",
+            "year": 2010,
+            "citation_count": 174,
+            "relevance": 2,
+            "explanation": "This paper is directly related to the source paper, as it builds upon the ABCD2 score by incorporating brain infarction on imaging to improve the predictive accuracy of the score. The findings of this paper are partially dependent on the source paper's results, which established the ABCD2 score as a useful tool for predicting stroke risk."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Varying uses of the ABCD2 scoring system in primary and secondary care: a qualitative study": {
+                    "explanation": "This paper discusses the usage of the ABCD2 risk stratification score by general practitioners and hospital staff, which is related to the source paper's topic of ABCD2 score. However, it does not directly build upon or depend on the findings of the source paper, so its relevance score is 1.",
+                    "relevance": 1
+                },
+                "2. The role of MRI as a prognostic tool in ischemic stroke": {
+                    "explanation": "This paper reviews the role of MRI in estimating final tissue outcome in ischemic stroke, which is related to the source paper's topic of brain infarction on imaging. However, it does not directly build upon or depend on the findings of the source paper, so its relevance score is 0.",
+                    "relevance": 0
+                },
+                "3. Arterial Spin Labeling Imaging Findings in Transient Ischemic Attack Patients: Comparison with Diffusion- and Bolus Perfusion-Weighted Imaging": {
+                    "explanation": "This paper explores the use of Arterial Spin Labeling (ASL) imaging in TIA patients, which is related to the source paper's topic of brain infarction on imaging. However, it does not directly build upon or depend on the findings of the source paper, so its relevance score is 0.",
+                    "relevance": 0
+                },
+                "4. Catching strokes before they happen: the importance of early neuroimaging findings in TIA and minor ischemic stroke": {
+                    "explanation": "This paper discusses the importance of early neuroimaging findings in TIA and minor ischemic stroke, which is related to the source paper's topic of brain infarction on imaging. However, it does not directly build upon or depend on the findings of the source paper, so its relevance score is 0.",
+                    "relevance": 0
+                },
+                "5. ABCD2 as a Screening Tool for Cerebral Infarction on Stroke MRI?": {
+                    "explanation": "This paper explores the use of ABCD2 score as a screening tool for cerebral infarction on stroke MRI, which is directly related to the source paper's topic of ABCD2 score and brain infarction on imaging. The key hypothesis in this paper is at least partially dependent on the findings of the source paper, so its relevance score is 2.",
+                    "relevance": 2
+                },
+                "6. Evolution of Reperfusion Therapies for Acute Brain and Acute Myocardial Ischemia: A Systematic, Comparative Analysis": {
+                    "explanation": "This paper reviews the evolution of reperfusion therapies for acute brain and acute myocardial ischemia, which is not directly related to the source paper's topic of ABCD2 score and brain infarction on imaging. So, its relevance score is 0.",
+                    "relevance": 0
+                },
+                "7. Improved Outcome Prediction Using CT Angiography in Addition to Standard Ischemic Stroke Assessment: Results from the STOPStroke Study": {
+                    "explanation": "This paper discusses the use of CT angiography in addition to standard ischemic stroke assessment, which is related to the source paper's topic of brain infarction on imaging. However, it does not directly build upon or depend on the findings of the source paper, so its relevance score is 0.",
+                    "relevance": 0
+                },
+                "8. Prediction of Early Stroke Recurrence in Transient Ischemic Attack Patients from the PROMAPA Study: A Comparison of Prognostic Risk Scores": {
+                    "explanation": "This paper compares the predictive accuracy of different clinical scores, including ABCD2 score, in TIA patients, which is directly related to the source paper's topic of ABCD2 score. The key hypothesis in this paper is at least partially dependent on the findings of the source paper, so its relevance score is 2.",
+                    "relevance": 2
+                },
+                "9. Optimizing the risk estimation after a transient ischaemic attack \u2013 the ABCDE\u2295 score": {
+                    "explanation": "This paper proposes a new score, ABCDE+ score, by adding the variables 'etiology' and 'DWI-positivity' to the ABCD-score, which is directly related to the source paper's topic of ABCD2 score and brain infarction on imaging. The key hypothesis in this paper is at least partially dependent on the findings of the source paper, so its relevance score is 2.",
+                    "relevance": 2
+                },
+                "10. Club : Early stroke risk and ABCD 2 score performance in tissue vs time-defined TIA": {
+                    "explanation": "This paper evaluates the performance of the ABCD2 score in tissue vs time-defined TIA, which is directly related to the source paper's topic of ABCD2 score. The key hypothesis in this paper is at least partially dependent on the findings of the source paper, so its relevance score is 2.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. ABCD2 as a Screening Tool for Cerebral Infarction on Stroke MRI?": {
+                    "explanation": "This paper explores the use of ABCD2 score as a screening tool for cerebral infarction on stroke MRI, which is directly related to the source paper's topic of ABCD2 score and brain infarction on imaging. The key hypothesis in this paper is at least partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                },
+                "2. Prediction of Early Stroke Recurrence in Transient Ischemic Attack Patients from the PROMAPA Study: A Comparison of Prognostic Risk Scores": {
+                    "explanation": "This paper compares the predictive accuracy of different clinical scores, including ABCD2 score, in TIA patients, which is directly related to the source paper's topic of ABCD2 score. The key hypothesis in this paper is at least partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                },
+                "3. Optimizing the risk estimation after a transient ischaemic attack \u2013 the ABCDE\u2295 score": {
+                    "explanation": "This paper proposes a new score, ABCDE+ score, by adding the variables 'etiology' and 'DWI-positivity' to the ABCD-score, which is directly related to the source paper's topic of ABCD2 score and brain infarction on imaging. The key hypothesis in this paper is at least partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2012,
+        "source_paper": {
+            "paperId": "5421366925b3c5cf3a7467fd2c8628c331dd0d0d",
+            "title": "TWO ACES: Transient Ischemic Attack Work-Up as Outpatient Assessment of Clinical Evaluation and Safety",
+            "abstract": "Background and Purpose\u2014 To evaluate a novel emergency department-based TIA triage system. Methods\u2014 We developed an approach to TIA triage and management based on risk assessment using the ABCD2 score in combination with early cervical and intracranial vessel imaging. It was anticipated that this triage system would avoid hospitalization for the majority of TIA patients and result in a low rate of recurrent stroke. We hypothesized that the subsequent stroke rate among consecutively encountered patients managed with this approach would be lower than predicted based on their ABCD2 scores. Results\u2014 From June 2007 to December 2009, 224 consecutive patients evaluated in the Stanford emergency department for a possible TIA were enrolled in the study. One hundred fifty-seven were discharged to complete their evaluation at the outpatient TIA clinic; 67 patients were hospitalized. One hundred sixteen patients had a final diagnosis of TIA/minor stroke or possible TIA. The stroke rates at 7, 30, and 90 days were 0.6% (0.1%\u20133.5%) for patients referred to the TIA clinic and 1.5% (0.3%\u20138.0%) for the hospitalized patients. Combining both groups, the overall stroke rate was 0.9% (0.3%\u20133.2%), which is significantly less than expected based on ABCD2 scores (P=0.034 at 7 days and P=0.001 at 90 days). Conclusions\u2014 This emergency department-based inpatient versus outpatient TIA triage system led to a low rate of hospitalization (30%). Recurrent stroke rates were low for both the hospitalized and outpatient subgroups.",
+            "year": 2011,
+            "citation_count": 74,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the use of the ABCD2 score in combination with early imaging for TIA triage, building on the source paper's results regarding the incorporation of brain infarction into the ABCD system."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Monash Transient Ischemic Attack Triaging Treatment: Safety of a Transient Ischemic Attack Mechanism-Based Outpatient Model of Care": {
+                    "explanation": "This paper is inspired by the hypothesis of the source paper, as it also explores the safety of outpatient TIA triage systems, although it presents a different model of care and focuses on the M3T model.",
+                    "relevance": 1
+                },
+                "2. Transient ischemic attack: Part I. Diagnosis and evaluation": {
+                    "explanation": "This paper is a review of TIA diagnosis and evaluation, which is not directly related to the hypothesis or findings of the source paper, thus it lacks novel hypotheses or findings.",
+                    "relevance": 0
+                },
+                "3. Automated Perfusion Imaging for the Evaluation of Transient Ischemic Attack": {
+                    "explanation": "While this paper explores a new imaging technique for TIA evaluation, it is partially dependent on the previous findings regarding TIA triage and management, thus using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "4. Not all patients should be admitted to the hospital for observation after a transient ischemic attack": {
+                    "explanation": "This paper is inspired by the findings of the source paper, as it also emphasizes the importance of urgent evaluation and treatment of TIA patients, although it presents a different approach to triage and management.",
+                    "relevance": 1
+                },
+                "5. Patients With Transient Ischemic Attack With ABCD2 <4 Can Have Similar 90-Day Stroke Risk as Patients With Transient Ischemic Attack With ABCD2 \u22654": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it explores the relationship between ABCD2 scores and stroke risk, thus using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Automated Perfusion Imaging for the Evaluation of Transient Ischemic Attack": {
+                    "explanation": "While this paper explores a new imaging technique for TIA evaluation, it is partially dependent on the previous findings regarding TIA triage and management, thus using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "2. Patients With Transient Ischemic Attack With ABCD2 <4 Can Have Similar 90-Day Stroke Risk as Patients With Transient Ischemic Attack With ABCD2 \u22654": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it explores the relationship between ABCD2 scores and stroke risk, thus using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "3. Monash Transient Ischemic Attack Triaging Treatment: Safety of a Transient Ischemic Attack Mechanism-Based Outpatient Model of Care": {
+                    "explanation": "This paper is inspired by the hypothesis of the source paper, as it also explores the safety of outpatient TIA triage systems, although it presents a different model of care and focuses on the M3T model.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2013,
+        "source_paper": {
+            "paperId": "5421366925b3c5cf3a7467fd2c8628c331dd0d0d",
+            "title": "TWO ACES: Transient Ischemic Attack Work-Up as Outpatient Assessment of Clinical Evaluation and Safety",
+            "abstract": "Background and Purpose\u2014 To evaluate a novel emergency department-based TIA triage system. Methods\u2014 We developed an approach to TIA triage and management based on risk assessment using the ABCD2 score in combination with early cervical and intracranial vessel imaging. It was anticipated that this triage system would avoid hospitalization for the majority of TIA patients and result in a low rate of recurrent stroke. We hypothesized that the subsequent stroke rate among consecutively encountered patients managed with this approach would be lower than predicted based on their ABCD2 scores. Results\u2014 From June 2007 to December 2009, 224 consecutive patients evaluated in the Stanford emergency department for a possible TIA were enrolled in the study. One hundred fifty-seven were discharged to complete their evaluation at the outpatient TIA clinic; 67 patients were hospitalized. One hundred sixteen patients had a final diagnosis of TIA/minor stroke or possible TIA. The stroke rates at 7, 30, and 90 days were 0.6% (0.1%\u20133.5%) for patients referred to the TIA clinic and 1.5% (0.3%\u20138.0%) for the hospitalized patients. Combining both groups, the overall stroke rate was 0.9% (0.3%\u20133.2%), which is significantly less than expected based on ABCD2 scores (P=0.034 at 7 days and P=0.001 at 90 days). Conclusions\u2014 This emergency department-based inpatient versus outpatient TIA triage system led to a low rate of hospitalization (30%). Recurrent stroke rates were low for both the hospitalized and outpatient subgroups.",
+            "year": 2011,
+            "citation_count": 74,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the use of the ABCD2 score in combination with early imaging for TIA triage, building on the source paper's results regarding the incorporation of brain infarction into the ABCD system."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. ABCD2 score and BNP level in patients with TIA and cerebral stroke": {
+                    "explanation": "The paper explores the ABCD2 score and its relation to BNP levels in patients with TIA and cerebral stroke. The source paper uses the ABCD2 score for risk assessment in combination with early cervical and intracranial vessel imaging. This paper is partially dependent on the findings of the source paper regarding the ABCD2 score.",
+                    "relevance": 2
+                },
+                "2. Reduction in Early Stroke Risk in Carotid Stenosis With Transient Ischemic Attack Associated With Statin Treatment": {
+                    "explanation": "The paper investigates the effect of statin treatment on early stroke risk in patients with carotid stenosis and TIA. The source paper evaluates a novel emergency department-based TIA triage system, and this paper explores a new aspect (statin treatment) of TIA management, which is partially dependent on the previous findings regarding TIA management.",
+                    "relevance": 2
+                },
+                "3. Recent advances in the management of transient ischaemic attack: a clinical review": {
+                    "explanation": "The paper provides a review of recent advances in the management of TIA, including investigations, management, and organization of services. This paper is a review paper and lacks novel hypotheses or findings directly related to the source paper.",
+                    "relevance": 0
+                },
+                "4. Transient ischaemic attacks clinics provide equivalent and more efficient care than early in\u2010hospital assessment": {
+                    "explanation": "The paper compares the care process, recurrence rates, and economic impact of TIA clinics with early in-hospital assessment. The source paper evaluates a novel emergency department-based TIA triage system, and this paper explores a new aspect (TIA clinics) of TIA management, which is partially dependent on the previous findings regarding TIA management.",
+                    "relevance": 2
+                },
+                "5. Transient ischemic attack: an evidence-based update": {
+                    "explanation": "The paper provides an evidence-based update on TIA, including diagnosis, risk criteria, and secondary prevention strategies. This paper is a review paper and lacks novel hypotheses or findings directly related to the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. ABCD2 score and BNP level in patients with TIA and cerebral stroke": {
+                    "explanation": "The paper explores the ABCD2 score and its relation to BNP levels in patients with TIA and cerebral stroke. The source paper uses the ABCD2 score for risk assessment in combination with early cervical and intracranial vessel imaging. This paper is partially dependent on the findings of the source paper regarding the ABCD2 score.",
+                    "relevance": 2
+                },
+                "2. Reduction in Early Stroke Risk in Carotid Stenosis With Transient Ischemic Attack Associated With Statin Treatment": {
+                    "explanation": "The paper investigates the effect of statin treatment on early stroke risk in patients with carotid stenosis and TIA. The source paper evaluates a novel emergency department-based TIA triage system, and this paper explores a new aspect (statin treatment) of TIA management, which is partially dependent on the previous findings regarding TIA management.",
+                    "relevance": 2
+                },
+                "3. Transient ischaemic attacks clinics provide equivalent and more efficient care than early in\u2010hospital assessment": {
+                    "explanation": "The paper compares the care process, recurrence rates, and economic impact of TIA clinics with early in-hospital assessment. The source paper evaluates a novel emergency department-based TIA triage system, and this paper explores a new aspect (TIA clinics) of TIA management, which is partially dependent on the previous findings regarding TIA management.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2014,
+        "source_paper": {
+            "paperId": "b673a801da0707a059616fe36dab9b3e34aad517",
+            "title": "Reduction in Early Stroke Risk in Carotid Stenosis With Transient Ischemic Attack Associated With Statin Treatment",
+            "abstract": "Background and Purpose\u2014 Statins reduce stroke risk when initiated months after transient ischemic attack (TIA)/stroke and reduce early vascular events in acute coronary syndromes, possibly via pleiotropic plaque stabilization. Few data exist on acute statin use in TIA. We aimed to determine whether statin pretreatment at TIA onset modified early stroke risk in carotid stenosis. Methods\u2014 We analyzed data from 2770 patients with TIA from 11 centers, 387 with ipsilateral carotid stenosis. ABCD2 score, abnormal diffusion weighted imaging, medication pretreatment, and early stroke were recorded. Results\u2014 In patients with carotid stenosis, 7-day stroke risk was 8.3% (95% confidence interval [CI], 5.7\u201311.1) compared with 2.7% (CI, 2.0%\u20133.4%) without stenosis (P<0.0001; 90-day risks 17.8% and 5.7% [P<0.0001]). Among carotid stenosis patients, nonprocedural 7-day stroke risk was 3.8% (CI, 1.2%\u20139.7%) with statin treatment at TIA onset, compared with 13.2% (CI, 8.5%\u201319.8%) in those not statin pretreated (P=0.01; 90-day risks 8.9% versus 20.8% [P=0.01]). Statin pretreatment was associated with reduced stroke risk in patients with carotid stenosis (odds ratio for 90-day stroke, 0.37; CI, 0.17\u20130.82) but not nonstenosis patients (odds ratio, 1.3; CI, 0.8\u20132.24; P for interaction, 0.008). On multivariable logistic regression, the association remained after adjustment for ABCD2 score, smoking, antiplatelet treatment, recent TIA, and diffusion weighted imaging hyperintensity (adjusted P for interaction, 0.054). Conclusions\u2014 In acute symptomatic carotid stenosis, statin pretreatment was associated with reduced stroke risk, consistent with findings from randomized trials in acute coronary syndromes. These data support the hypothesis that statins started acutely after TIA symptom onset may also be beneficial to prevent early stroke. Randomized trials addressing this question are required.",
+            "year": 2013,
+            "citation_count": 86,
+            "relevance": 2,
+            "explanation": "The paper investigates the effect of statin treatment on early stroke risk in patients with carotid stenosis and TIA. The source paper evaluates a novel emergency department-based TIA triage system, and this paper explores a new aspect (statin treatment) of TIA management, which is partially dependent on the previous findings regarding TIA management."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Posterior circulation ischaemic stroke": {
+                    "explanation": "This paper discusses the recognition and treatment of posterior circulation stroke, which is a different topic from the source paper. There is no connection between the two papers.",
+                    "relevance": 0
+                },
+                "2. Serum lipids associated with inflammation-related PET-FDG uptake in symptomatic carotid plaque": {
+                    "explanation": "This paper investigates the relationship between serum lipids and inflammation in carotid plaque, which is related to the topic of carotid stenosis in the source paper. However, the key hypothesis in this paper is not directly dependent on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "3. Targeted therapy in antiphospholipid syndrome": {
+                    "explanation": "This paper reviews novel therapeutic targets for antiphospholipid syndrome, which is a different topic from the source paper. There is no connection between the two papers.",
+                    "relevance": 0
+                },
+                "4. You may delay, but time will not!": {
+                    "explanation": "This paper discusses the risk of recurrent stroke in patients with carotid stenosis, which is related to the topic of the source paper. However, the key hypothesis in this paper is not directly dependent on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "5. Evaluation and Treatment of Carotid Artery Stenosis": {
+                    "explanation": "This paper discusses the evaluation and treatment of carotid artery stenosis, which is the same topic as the source paper. The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it discusses the importance of identifying and managing carotid disease.",
+                    "relevance": 2
+                },
+                "6. Transient ischemic attacks: predictability of future ischemic stroke or transient ischemic attack events": {
+                    "explanation": "This paper reviews risk prediction scores for transient ischemic attacks, which is related to the topic of carotid stenosis in the source paper. However, the key hypothesis in this paper is not directly dependent on the findings of the source paper.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1.Evaluation and Treatment of Carotid Artery Stenosis": {
+                    "explanation": "This paper discusses the evaluation and treatment of carotid artery stenosis, which is the same topic as the source paper. The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it discusses the importance of identifying and managing carotid disease.",
+                    "relevance": 2
+                },
+                "2.Serum lipids associated with inflammation-related PET-FDG uptake in symptomatic carotid plaque": {
+                    "explanation": "This paper investigates the relationship between serum lipids and inflammation in carotid plaque, which is related to the topic of carotid stenosis in the source paper. However, the key hypothesis in this paper is not directly dependent on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "3.Transient ischemic attacks: predictability of future ischemic stroke or transient ischemic attack events": {
+                    "explanation": "This paper reviews risk prediction scores for transient ischemic attacks, which is related to the topic of carotid stenosis in the source paper. However, the key hypothesis in this paper is not directly dependent on the findings of the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2015,
+        "source_paper": {
+            "paperId": "b673a801da0707a059616fe36dab9b3e34aad517",
+            "title": "Reduction in Early Stroke Risk in Carotid Stenosis With Transient Ischemic Attack Associated With Statin Treatment",
+            "abstract": "Background and Purpose\u2014 Statins reduce stroke risk when initiated months after transient ischemic attack (TIA)/stroke and reduce early vascular events in acute coronary syndromes, possibly via pleiotropic plaque stabilization. Few data exist on acute statin use in TIA. We aimed to determine whether statin pretreatment at TIA onset modified early stroke risk in carotid stenosis. Methods\u2014 We analyzed data from 2770 patients with TIA from 11 centers, 387 with ipsilateral carotid stenosis. ABCD2 score, abnormal diffusion weighted imaging, medication pretreatment, and early stroke were recorded. Results\u2014 In patients with carotid stenosis, 7-day stroke risk was 8.3% (95% confidence interval [CI], 5.7\u201311.1) compared with 2.7% (CI, 2.0%\u20133.4%) without stenosis (P<0.0001; 90-day risks 17.8% and 5.7% [P<0.0001]). Among carotid stenosis patients, nonprocedural 7-day stroke risk was 3.8% (CI, 1.2%\u20139.7%) with statin treatment at TIA onset, compared with 13.2% (CI, 8.5%\u201319.8%) in those not statin pretreated (P=0.01; 90-day risks 8.9% versus 20.8% [P=0.01]). Statin pretreatment was associated with reduced stroke risk in patients with carotid stenosis (odds ratio for 90-day stroke, 0.37; CI, 0.17\u20130.82) but not nonstenosis patients (odds ratio, 1.3; CI, 0.8\u20132.24; P for interaction, 0.008). On multivariable logistic regression, the association remained after adjustment for ABCD2 score, smoking, antiplatelet treatment, recent TIA, and diffusion weighted imaging hyperintensity (adjusted P for interaction, 0.054). Conclusions\u2014 In acute symptomatic carotid stenosis, statin pretreatment was associated with reduced stroke risk, consistent with findings from randomized trials in acute coronary syndromes. These data support the hypothesis that statins started acutely after TIA symptom onset may also be beneficial to prevent early stroke. Randomized trials addressing this question are required.",
+            "year": 2013,
+            "citation_count": 86,
+            "relevance": 2,
+            "explanation": "The paper investigates the effect of statin treatment on early stroke risk in patients with carotid stenosis and TIA. The source paper evaluates a novel emergency department-based TIA triage system, and this paper explores a new aspect (statin treatment) of TIA management, which is partially dependent on the previous findings regarding TIA management."
+        },
+        "llama_output": {},
+        "seed": 42
+    }
+]

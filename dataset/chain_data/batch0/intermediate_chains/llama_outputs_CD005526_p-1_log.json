@@ -1,0 +1,1209 @@
+[
+    {
+        "year": 1994,
+        "source_paper": {
+            "paperId": "85895a02c285d2eb866f7c55cc70a29fcf6b3a50",
+            "pmid": "8425695",
+            "title": "Cyclosporin A treatment in primary biliary cirrhosis: results of a long-term placebo controlled trial.",
+            "abstract": null,
+            "year": 1993,
+            "citation_count": 144
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Ursodiol for the long-term treatment of primary biliary cirrhosis. The UDCA-PBC Study Group.": {
+                    "explanation": "This paper is related to the source paper as it also investigates the treatment of primary biliary cirrhosis, but with a different medication (ursodiol) and does not directly build upon or use the findings of the source paper as a sub-hypothesis. However, the paper explores a similar research question, making it somewhat relevant.",
+                    "relevance": 1
+                },
+                "2. Informative Drop\u2010Out in Longitudinal Data Analysis": {
+                    "explanation": "This paper has no connection to the source paper as it discusses a statistical model for longitudinal data analysis, which is unrelated to the topic of primary biliary cirrhosis or its treatment.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Ursodiol for the long-term treatment of primary biliary cirrhosis. The UDCA-PBC Study Group.": {
+                    "explanation": "This paper is related to the source paper as it also investigates the treatment of primary biliary cirrhosis, but with a different medication (ursodiol) and does not directly build upon or use the findings of the source paper as a sub-hypothesis. However, the paper explores a similar research question, making it somewhat relevant.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 1995,
+        "source_paper": {
+            "paperId": "85895a02c285d2eb866f7c55cc70a29fcf6b3a50",
+            "pmid": "8425695",
+            "title": "Cyclosporin A treatment in primary biliary cirrhosis: results of a long-term placebo controlled trial.",
+            "abstract": null,
+            "year": 1993,
+            "citation_count": 144
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. The combination of ursodeoxycholic acid and methotrexate for patients with primary biliary cirrhosis: The results of a pilot study": {
+                    "explanation": "This paper explores alternative treatments for primary biliary cirrhosis (PBC), but does not directly build upon or depend on the findings of the source paper, which investigated Cyclosporin A treatment in PBC. The paper presents a new combination of treatments (ursodeoxycholic acid and methotrexate) and its results, without referencing or relying on the source paper's results.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 1995,
+        "source_paper": {
+            "paperId": "ff372b99e1e9472b9e82b4f222254d165f3a5a4b",
+            "title": "Ursodiol for the long-term treatment of primary biliary cirrhosis. The UDCA-PBC Study Group.",
+            "abstract": "BACKGROUND\nUrsodiol (ursodeoxycholic acid) therapy leads to major improvements in patients with primary biliary cirrhosis. The benefit of long-term treatment is uncertain.\n\n\nMETHODS\nWe randomly assigned 145 patients with biopsy-proved primary biliary cirrhosis to receive ursodiol (13 to 15 mg per kilogram of body weight per day) (72 patients) or placebo (73 patients). After two years of follow-up, because of the benefit from ursodiol, all patients completing the study received ursodiol in an open trial and were monitored for two more years. The end points in the assessment of efficacy were as follows: progression of disease, as defined by the presence of hyperbilirubinemia, variceal bleeding, ascites, or encephalopathy; liver transplantation or a referral for that procedure; and liver transplantation (or a referral) or death.\n\n\nRESULTS\nDisease progressed significantly less frequently in the ursodiol group than in the placebo group (P < 0.002; relative risk, 0.28; 95 percent confidence interval, 0.12 to 0.63). The probability of liver transplantation or a referral for that procedure and the probability of transplantation or death were significantly lower in the group assigned to ursodiol than in the group assigned to placebo (for transplantation alone, P = 0.003; relative risk, 0.21; 95 percent confidence interval, 0.07 to 0.66; for transplantation or death, P = 0.005; relative risk, 0.32; 95 percent confidence interval, 0.14 to 0.74). High bilirubin levels and, to a lesser extent, signs of cirrhosis at entry into the trial were predictive of disease progression, liver transplantation or a referral, and transplantation or death.\n\n\nCONCLUSIONS\nLong-term ursodiol therapy slows the progression of primary biliary cirrhosis and reduces the need for liver transplantation.",
+            "year": 1994,
+            "citation_count": 480,
+            "relevance": 1,
+            "explanation": "This paper is related to the source paper as it also investigates the treatment of primary biliary cirrhosis, but with a different medication (ursodiol) and does not directly build upon or use the findings of the source paper as a sub-hypothesis. However, the paper explores a similar research question, making it somewhat relevant."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. The combination of ursodeoxycholic acid and methotrexate for patients with primary biliary cirrhosis: The results of a pilot study": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the combination of ursodeoxycholic acid (UDCA) with methotrexate for patients with primary biliary cirrhosis, building on the source paper's results regarding UDCA's role in treating primary biliary cirrhosis.",
+                    "relevance": 1
+                },
+                "2. Hepatic lymph nodes as follow-up factor in primary biliary cirrhosis. An ultrasound study.": {
+                    "explanation": "While this paper explores a new angle (hepatic lymph nodes as a follow-up factor) of primary biliary cirrhosis, it is partially dependent on the previous findings regarding UDCA's effects on primary biliary cirrhosis, thus using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "3. The ursodeoxycholic acid story in primary biliary cirrhosis.": {
+                    "explanation": "This paper is a review paper, summarizing existing literature on UDCA's use in primary biliary cirrhosis, and lacks novel hypotheses or findings.",
+                    "relevance": 0
+                },
+                "4. N\u2010ethyl\u2010tauroursodeoxycholic acid, a novel deconjugation\u2010resistant bile salt analogue: Effects of acute feeding in the rat": {
+                    "explanation": "This paper has no connection with the source paper, as it investigates a novel bile salt analogue in rats, which is not related to UDCA's use in primary biliary cirrhosis.",
+                    "relevance": 0
+                },
+                "5. Bone disease in primary biliary cirrhosis: Does ursodeoxycholic acid make a difference?": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effects of UDCA on metabolic bone disease in patients with primary biliary cirrhosis, building on the source paper's results regarding UDCA's role in treating primary biliary cirrhosis.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Hepatic lymph nodes as follow-up factor in primary biliary cirrhosis. An ultrasound study.": {
+                    "explanation": "While this paper explores a new angle (hepatic lymph nodes as a follow-up factor) of primary biliary cirrhosis, it is partially dependent on the previous findings regarding UDCA's effects on primary biliary cirrhosis, thus using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "2. The combination of ursodeoxycholic acid and methotrexate for patients with primary biliary cirrhosis: The results of a pilot study": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the combination of ursodeoxycholic acid (UDCA) with methotrexate for patients with primary biliary cirrhosis, building on the source paper's results regarding UDCA's role in treating primary biliary cirrhosis.",
+                    "relevance": 1
+                },
+                "3. Bone disease in primary biliary cirrhosis: Does ursodeoxycholic acid make a difference?": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effects of UDCA on metabolic bone disease in patients with primary biliary cirrhosis, building on the source paper's results regarding UDCA's role in treating primary biliary cirrhosis.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 1996,
+        "source_paper": {
+            "paperId": "ff372b99e1e9472b9e82b4f222254d165f3a5a4b",
+            "title": "Ursodiol for the long-term treatment of primary biliary cirrhosis. The UDCA-PBC Study Group.",
+            "abstract": "BACKGROUND\nUrsodiol (ursodeoxycholic acid) therapy leads to major improvements in patients with primary biliary cirrhosis. The benefit of long-term treatment is uncertain.\n\n\nMETHODS\nWe randomly assigned 145 patients with biopsy-proved primary biliary cirrhosis to receive ursodiol (13 to 15 mg per kilogram of body weight per day) (72 patients) or placebo (73 patients). After two years of follow-up, because of the benefit from ursodiol, all patients completing the study received ursodiol in an open trial and were monitored for two more years. The end points in the assessment of efficacy were as follows: progression of disease, as defined by the presence of hyperbilirubinemia, variceal bleeding, ascites, or encephalopathy; liver transplantation or a referral for that procedure; and liver transplantation (or a referral) or death.\n\n\nRESULTS\nDisease progressed significantly less frequently in the ursodiol group than in the placebo group (P < 0.002; relative risk, 0.28; 95 percent confidence interval, 0.12 to 0.63). The probability of liver transplantation or a referral for that procedure and the probability of transplantation or death were significantly lower in the group assigned to ursodiol than in the group assigned to placebo (for transplantation alone, P = 0.003; relative risk, 0.21; 95 percent confidence interval, 0.07 to 0.66; for transplantation or death, P = 0.005; relative risk, 0.32; 95 percent confidence interval, 0.14 to 0.74). High bilirubin levels and, to a lesser extent, signs of cirrhosis at entry into the trial were predictive of disease progression, liver transplantation or a referral, and transplantation or death.\n\n\nCONCLUSIONS\nLong-term ursodiol therapy slows the progression of primary biliary cirrhosis and reduces the need for liver transplantation.",
+            "year": 1994,
+            "citation_count": 480,
+            "relevance": 1,
+            "explanation": "This paper is related to the source paper as it also investigates the treatment of primary biliary cirrhosis, but with a different medication (ursodiol) and does not directly build upon or use the findings of the source paper as a sub-hypothesis. However, the paper explores a similar research question, making it somewhat relevant."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Evidence that ursodeoxycholic acid prevents steroid-resistant rejection in adult liver transplantation": {
+                    "explanation": "This paper investigates a new application of ursodeoxycholic acid (UDCA), which is the main treatment discussed in the source paper. However, the hypothesis in this paper is not directly dependent on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "2. A randomized trial comparing colchicine and ursodeoxycholic acid combination to ursodeoxycholic acid in primary biliary cirrhosis": {
+                    "explanation": "This paper builds upon the findings of the source paper, which discusses the efficacy of UDCA in treating primary biliary cirrhosis. The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the combination of UDCA with another treatment.",
+                    "relevance": 2
+                },
+                "3. Increased gall bladder volume in primary sclerosing cholangitis": {
+                    "explanation": "This paper discusses a different disease (primary sclerosing cholangitis) and does not mention UDCA or primary biliary cirrhosis. It appears to be unrelated to the source paper.",
+                    "relevance": 0
+                },
+                "4. Effect of deoxycholic acid and ursodeoxycholic acid on lipid peroxidation in cultured macrophages": {
+                    "explanation": "This paper discusses the effects of UDCA on lipid peroxidation, which is not directly related to the hypothesis of the source paper. However, it does mention UDCA, which is the main treatment discussed in the source paper.",
+                    "relevance": 1
+                },
+                "5. Cytokine mRNA expression in the liver of patients with primary biliary cirrhosis (PBC) and chronic hepatitis B (CHB)": {
+                    "explanation": "This paper discusses the cytokine mRNA expression in the liver of patients with primary biliary cirrhosis, which is the disease discussed in the source paper. However, the hypothesis in this paper is not directly dependent on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "6. Is the Mayo model for predicting survival useful after the introduction of ursodeoxycholic acid treatment for primary biliary cirrhosis?": {
+                    "explanation": "This paper discusses the efficacy of UDCA in treating primary biliary cirrhosis, which is the main topic of the source paper. The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the long-term effects of UDCA treatment.",
+                    "relevance": 2
+                },
+                "7. Increase of sulfated ursodeoxycholic acid in the serum and urine of patients with chronic liver disease after ursodeoxycholic acid therapy": {
+                    "explanation": "This paper discusses the metabolism of UDCA in patients with chronic liver disease, which is not directly related to the hypothesis of the source paper. However, it does mention UDCA, which is the main treatment discussed in the source paper.",
+                    "relevance": 1
+                },
+                "8. Metabolism of orally administered tauroursodeoxycholic acid in patients with primary biliary cirrhosis": {
+                    "explanation": "This paper discusses the metabolism of tauroursodeoxycholic acid in patients with primary biliary cirrhosis, which is the disease discussed in the source paper. However, the hypothesis in this paper is not directly dependent on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "9. Primary biliary cirrhosis clinical research single-topic conference": {
+                    "explanation": "This paper appears to be a conference summary and does not present a specific hypothesis or findings. It is unrelated to the source paper.",
+                    "relevance": 0
+                },
+                "10. Primary biliary cirrhosis": {
+                    "explanation": "This paper appears to be a review or summary of primary biliary cirrhosis and does not present a specific hypothesis or findings. It is unrelated to the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. A randomized trial comparing colchicine and ursodeoxycholic acid combination to ursodeoxycholic acid in primary biliary cirrhosis": {
+                    "explanation": "This paper builds upon the findings of the source paper, which discusses the efficacy of UDCA in treating primary biliary cirrhosis. The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the combination of UDCA with another treatment.",
+                    "relevance": 2
+                },
+                "2. Is the Mayo model for predicting survival useful after the introduction of ursodeoxycholic acid treatment for primary biliary cirrhosis?": {
+                    "explanation": "This paper discusses the efficacy of UDCA in treating primary biliary cirrhosis, which is the main topic of the source paper. The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the long-term effects of UDCA treatment.",
+                    "relevance": 2
+                },
+                "3. Evidence that ursodeoxycholic acid prevents steroid-resistant rejection in adult liver transplantation": {
+                    "explanation": "This paper investigates a new application of ursodeoxycholic acid (UDCA), which is the main treatment discussed in the source paper. However, the hypothesis in this paper is not directly dependent on the findings of the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 1997,
+        "source_paper": {
+            "paperId": "c260e82c3e76756dee6458b7ab4045cdde2fa6d8",
+            "title": "Is the Mayo model for predicting survival useful after the introduction of ursodeoxycholic acid treatment for primary biliary cirrhosis?",
+            "abstract": "Treatment of patients with primary biliary cirrhosis (PBC) using ursodeoxycholic acid (UDCA) leads to a reduction in serum bilirubin. The first objective of this study was to assess the performance of certain prognostic indicators for PBC after the introduction of treatment with UDCA. Serum bilirubin is an important prognostic indicator for PBC and an important component of the Mayo model for grading patients into risk categories. In an analysis of patients enrolled in the Canadian multicenter trial, the Mayo score was calculated before and after treatment with UDCA. After treatment, the Mayo score continued to divide patients with PBC into groups with varying risk. In addition, the serum bilirubin alone was shown to do the same even after the introduction of treatment with UDCA. A second objective was to establish whether UDCA had an effect on long\u2010term (2\u2010 to 6\u2010year) survival in patients with PBC.",
+            "year": 1996,
+            "citation_count": 97,
+            "relevance": 2,
+            "explanation": "This paper discusses the efficacy of UDCA in treating primary biliary cirrhosis, which is the main topic of the source paper. The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the long-term effects of UDCA treatment."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Minimal criteria for placement of adults on the liver transplant waiting list: a report of a national conference organized by the American Society of Transplant Physicians and the American Association for the Study of Liver Diseases.": {
+                    "explanation": "This paper does not have a direct connection to the source paper. It discusses the criteria for placement on the liver transplant waiting list, which is a different topic from the source paper's focus on the Mayo model and ursodeoxycholic acid treatment for primary biliary cirrhosis.",
+                    "relevance": 0
+                },
+                "2. Ursodeoxycholic Acid in Primary Biliary Cirrhosis": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it discusses the effects of ursodeoxycholic acid on primary biliary cirrhosis, which is the same topic as the source paper. However, it does not build upon the source paper's findings or use them as a sub-hypothesis.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Ursodeoxycholic Acid in Primary Biliary Cirrhosis": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it discusses the effects of ursodeoxycholic acid on primary biliary cirrhosis, which is the same topic as the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 1998,
+        "source_paper": {
+            "paperId": "c260e82c3e76756dee6458b7ab4045cdde2fa6d8",
+            "title": "Is the Mayo model for predicting survival useful after the introduction of ursodeoxycholic acid treatment for primary biliary cirrhosis?",
+            "abstract": "Treatment of patients with primary biliary cirrhosis (PBC) using ursodeoxycholic acid (UDCA) leads to a reduction in serum bilirubin. The first objective of this study was to assess the performance of certain prognostic indicators for PBC after the introduction of treatment with UDCA. Serum bilirubin is an important prognostic indicator for PBC and an important component of the Mayo model for grading patients into risk categories. In an analysis of patients enrolled in the Canadian multicenter trial, the Mayo score was calculated before and after treatment with UDCA. After treatment, the Mayo score continued to divide patients with PBC into groups with varying risk. In addition, the serum bilirubin alone was shown to do the same even after the introduction of treatment with UDCA. A second objective was to establish whether UDCA had an effect on long\u2010term (2\u2010 to 6\u2010year) survival in patients with PBC.",
+            "year": 1996,
+            "citation_count": 97,
+            "relevance": 2,
+            "explanation": "This paper discusses the efficacy of UDCA in treating primary biliary cirrhosis, which is the main topic of the source paper. The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the long-term effects of UDCA treatment."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Cholestatic liver diseases in adults": {
+                    "explanation": "This paper discusses cholestatic liver diseases, which is a broader category that includes primary biliary cirrhosis (PBC) studied in the source paper. However, the paper does not build upon or depend on the findings of the source paper, and instead provides a general review of diagnostic and therapeutic strategies for cholestatic disorders.",
+                    "relevance": 0
+                },
+                "2. Diagnosing Marfan syndrome is still based on clinical characteristics": {
+                    "explanation": "This paper is unrelated to the source paper, as it discusses Marfan syndrome, a genetic disorder that is not connected to primary biliary cirrhosis or the Mayo model.",
+                    "relevance": 0
+                },
+                "3. Primary biliary cirrhosis": {
+                    "explanation": "This paper provides an overview of primary biliary cirrhosis (PBC), including its natural history, presentation, and progression. While it does not directly build upon the source paper, it discusses the same disease and its characteristics, making it partially dependent on the knowledge established by the source paper.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Primary biliary cirrhosis": {
+                    "explanation": "This paper provides an overview of primary biliary cirrhosis (PBC), including its natural history, presentation, and progression. While it does not directly build upon the source paper, it discusses the same disease and its characteristics, making it partially dependent on the knowledge established by the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2013,
+        "source_paper": {
+            "paperId": "d743e075412a75df257b4004eb8044362c5e7077",
+            "title": "Primary biliary cirrhosis",
+            "abstract": null,
+            "year": 1998,
+            "citation_count": 2225,
+            "relevance": 1,
+            "explanation": "This paper provides an overview of primary biliary cirrhosis (PBC), including its natural history, presentation, and progression. While it does not directly build upon the source paper, it discusses the same disease and its characteristics, making it partially dependent on the knowledge established by the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Immunosuppressive Therapy in Immune-Mediated Liver Disease in the Non-Transplanted Patient": {
+                    "explanation": "Although this paper reviews the current literature on immunosuppressive therapy for autoimmune liver diseases, including primary biliary cirrhosis, it does not directly build upon or depend on the findings of the source paper. Therefore, it is considered a review paper with no direct connection.",
+                    "relevance": 0
+                },
+                "2. Liver physiology and liver diseases in the elderly": {
+                    "explanation": "This paper discusses changes in liver physiology and liver diseases in the elderly, but it does not specifically address primary biliary cirrhosis or build upon the findings of the source paper.",
+                    "relevance": 0
+                },
+                "3. Ursodeoxycholic Acid but Not Tauroursodeoxycholic Acid Inhibits Proliferation and Differentiation of Human Subcutaneous Adipocytes": {
+                    "explanation": "This paper investigates the effects of ursodeoxycholic acid on human adipose cells, which is a treatment used for primary biliary cirrhosis. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "4. AASLD clinical practice guidelines: A critical review of scientific evidence and evolving recommendations": {
+                    "explanation": "This paper reviews the evolution of recommendations from AASLD guidelines, including those related to primary biliary cirrhosis. However, it is a review paper and does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "5. Distal renal tubular acidosis associated with Sjogren syndrome": {
+                    "explanation": "This paper discusses a case of distal renal tubular acidosis associated with Sjogren syndrome, but it does not specifically address primary biliary cirrhosis or build upon the findings of the source paper.",
+                    "relevance": 0
+                },
+                "6. Alteration of energy metabolism in the pathogenesis of bile duct lesions in primary biliary cirrhosis": {
+                    "explanation": "This paper investigates the alteration of energy metabolism in the pathogenesis of bile duct lesions in primary biliary cirrhosis, which is directly related to the source paper. The findings of this paper depend on the understanding of primary biliary cirrhosis, making it partially dependent on the source paper.",
+                    "relevance": 2
+                },
+                "7. Severe cholestatic jaundice secondary to hyperthyroidism": {
+                    "explanation": "This paper discusses a case of severe cholestatic jaundice secondary to hyperthyroidism, but it does not specifically address primary biliary cirrhosis or build upon the findings of the source paper.",
+                    "relevance": 0
+                },
+                "8. From Single Nucleotide Polymorphisms to Constant Immunosuppression: Mesenchymal Stem Cell Therapy for Autoimmune Diseases": {
+                    "explanation": "This paper discusses the potential of mesenchymal stem cell therapy for autoimmune diseases, including primary biliary cirrhosis. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "9. Management of liver cirrhosis in patients with hepatocellular carcinoma": {
+                    "explanation": "This paper discusses the management of liver cirrhosis in patients with hepatocellular carcinoma, but it does not specifically address primary biliary cirrhosis or build upon the findings of the source paper.",
+                    "relevance": 0
+                },
+                "10. Potential role of Helicobacter pylori infection in nonalcoholic fatty liver disease": {
+                    "explanation": "This paper discusses the potential role of Helicobacter pylori infection in nonalcoholic fatty liver disease, but it does not specifically address primary biliary cirrhosis or build upon the findings of the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Alteration of energy metabolism in the pathogenesis of bile duct lesions in primary biliary cirrhosis": {
+                    "explanation": "This paper investigates the alteration of energy metabolism in the pathogenesis of bile duct lesions in primary biliary cirrhosis, which is directly related to the source paper. The findings of this paper depend on the understanding of primary biliary cirrhosis, making it partially dependent on the source paper.",
+                    "relevance": 2
+                },
+                "2. From Single Nucleotide Polymorphisms to Constant Immunosuppression: Mesenchymal Stem Cell Therapy for Autoimmune Diseases": {
+                    "explanation": "This paper discusses the potential of mesenchymal stem cell therapy for autoimmune diseases, including primary biliary cirrhosis. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "3. Ursodeoxycholic Acid but Not Tauroursodeoxycholic Acid Inhibits Proliferation and Differentiation of Human Subcutaneous Adipocytes": {
+                    "explanation": "This paper investigates the effects of ursodeoxycholic acid on human adipose cells, which is a treatment used for primary biliary cirrhosis. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2013,
+        "source_paper": {
+            "paperId": "d743e075412a75df257b4004eb8044362c5e7077",
+            "title": "Primary biliary cirrhosis",
+            "abstract": null,
+            "year": 1998,
+            "citation_count": 2225,
+            "relevance": 1,
+            "explanation": "This paper provides an overview of primary biliary cirrhosis (PBC), including its natural history, presentation, and progression. While it does not directly build upon the source paper, it discusses the same disease and its characteristics, making it partially dependent on the knowledge established by the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Surveillance for hepatocellular carcinoma in chronic liver disease: evidence and controversies": {
+                    "explanation": "This paper is not directly related to primary biliary cirrhosis, but rather discusses the broader topic of chronic liver disease. While primary biliary cirrhosis is mentioned as one of the conditions that can increase the risk of hepatocellular carcinoma, the paper does not build upon the findings of the source paper or use it as a sub-hypothesis.",
+                    "relevance": 0
+                },
+                "2. Indoleamine 2,3-Dioxygenase: Expressing Cells in Inflammatory Bowel Disease\u2014A Cross-Sectional Study": {
+                    "explanation": "This paper is unrelated to the source paper, as it focuses on inflammatory bowel disease rather than primary biliary cirrhosis.",
+                    "relevance": 0
+                },
+                "3. Primary biliary cirrhosis in HBV and HCV patients: Clinical characteristics and outcome": {
+                    "explanation": "This paper explores the clinical characteristics and outcomes of patients with primary biliary cirrhosis who also have HBV or HCV infections. The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it builds upon the understanding of primary biliary cirrhosis.",
+                    "relevance": 2
+                },
+                "4. Presence of disease specific autoantibodies against liver sinusoidal cells in primary biliary cirrhosis": {
+                    "explanation": "This paper investigates the presence of autoantibodies against liver sinusoidal cells in primary biliary cirrhosis. The key hypothesis in this paper is inspired by the hypothesis or findings from the source paper, as it explores a specific aspect of primary biliary cirrhosis.",
+                    "relevance": 1
+                },
+                "5. Role of AE2 for pHi regulation in biliary epithelial cells": {
+                    "explanation": "This paper discusses the role of AE2 in regulating intracellular pH in biliary epithelial cells, which is relevant to the pathophysiology of primary biliary cirrhosis. The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it builds upon the understanding of primary biliary cirrhosis.",
+                    "relevance": 2
+                },
+                "6. T Helper 17 Cells in Autoimmune Liver Diseases": {
+                    "explanation": "This paper reviews the role of Th17 cells in autoimmune liver diseases, including primary biliary cirrhosis. While the paper mentions primary biliary cirrhosis, it does not build upon the findings of the source paper or use it as a sub-hypothesis.",
+                    "relevance": 0
+                },
+                "7. Biochemical criteria at 1 year are not robust indicators of response to ursodeoxycholic acid in early primary biliary cirrhosis: results from a 29-year cohort study": {
+                    "explanation": "This paper investigates the response to ursodeoxycholic acid in early primary biliary cirrhosis. The key hypothesis in this paper is inspired by the hypothesis or findings from the source paper, as it explores a specific aspect of primary biliary cirrhosis treatment.",
+                    "relevance": 1
+                },
+                "8. Clinical significance of the fluctuation of primary biliary cirrhosis-related autoantibodies during the course of the disease": {
+                    "explanation": "This paper evaluates the clinical significance of autoantibody fluctuations in primary biliary cirrhosis. The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it builds upon the understanding of primary biliary cirrhosis.",
+                    "relevance": 2
+                },
+                "9. Cost and health consequences of treatment of primary biliary cirrhosis with ursodeoxycholic acid": {
+                    "explanation": "This paper discusses the cost-effectiveness of ursodeoxycholic acid treatment in primary biliary cirrhosis. While the paper is related to primary biliary cirrhosis, it does not build upon the findings of the source paper or use it as a sub-hypothesis.",
+                    "relevance": 0
+                },
+                "10. Aberrant TGF-\u03b21 signaling contributes to the development of primary biliary cirrhosis in murine model": {
+                    "explanation": "This paper investigates the role of TGF-\u03b21 signaling in the development of primary biliary cirrhosis using a murine model. The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it builds upon the understanding of primary biliary cirrhosis.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Primary biliary cirrhosis in HBV and HCV patients: Clinical characteristics and outcome": {
+                    "explanation": "This paper explores the clinical characteristics and outcomes of patients with primary biliary cirrhosis who also have HBV or HCV infections. The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it builds upon the understanding of primary biliary cirrhosis.",
+                    "relevance": 2
+                },
+                "2. Clinical significance of the fluctuation of primary biliary cirrhosis-related autoantibodies during the course of the disease": {
+                    "explanation": "This paper evaluates the clinical significance of autoantibody fluctuations in primary biliary cirrhosis. The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it builds upon the understanding of primary biliary cirrhosis.",
+                    "relevance": 2
+                },
+                "3. Aberrant TGF-\u03b21 signaling contributes to the development of primary biliary cirrhosis in murine model": {
+                    "explanation": "This paper investigates the role of TGF-\u03b21 signaling in the development of primary biliary cirrhosis using a murine model. The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it builds upon the understanding of primary biliary cirrhosis.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2013,
+        "source_paper": {
+            "paperId": "d743e075412a75df257b4004eb8044362c5e7077",
+            "title": "Primary biliary cirrhosis",
+            "abstract": null,
+            "year": 1998,
+            "citation_count": 2225,
+            "relevance": 1,
+            "explanation": "This paper provides an overview of primary biliary cirrhosis (PBC), including its natural history, presentation, and progression. While it does not directly build upon the source paper, it discusses the same disease and its characteristics, making it partially dependent on the knowledge established by the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Primary Biliary Cirrhosis-Specific Antimitochondrial Antibodies in Neonatal Haemochromatosis": {
+                    "explanation": "This paper explores the presence of primary biliary cirrhosis (PBC)-specific antimitochondrial antibodies in neonatal hemochromatosis, which is related to the topic of the source paper. However, the connection is not direct, and the paper does not build upon the source paper's findings.",
+                    "relevance": 1
+                },
+                "2. Clonality, activated antigen\u2010specific CD8+ T cells, and development of autoimmune cholangitis in dnTGF\u03b2RII mice": {
+                    "explanation": "This paper investigates the development of autoimmune cholangitis in a mouse model, which is relevant to the topic of primary biliary cirrhosis. The paper is partially dependent on the understanding of PBC, but it does not directly build upon the source paper's findings.",
+                    "relevance": 1
+                },
+                "3. Antimitochondrial Antibody Recognition and Structural Integrity of the Inner Lipoyl Domain of the E2 Subunit of Pyruvate Dehydrogenase Complex": {
+                    "explanation": "This paper studies the antimitochondrial antibodies in primary biliary cirrhosis, which is directly related to the topic of the source paper. The paper explores the structural integrity of the inner lipoyl domain, which is a key aspect of PBC.",
+                    "relevance": 2
+                },
+                "4. Case of idiopathic portal hypertension complicated with autoimmune hepatitis": {
+                    "explanation": "This paper reports a case of idiopathic portal hypertension complicated with autoimmune hepatitis, which is not directly related to the topic of primary biliary cirrhosis. The connection is minimal, and the paper does not build upon the source paper's findings.",
+                    "relevance": 0
+                },
+                "5. Overlap Syndromes of Autoimmune Liver Disease": {
+                    "explanation": "This paper discusses the overlap syndromes of autoimmune liver diseases, including primary biliary cirrhosis. The paper is relevant to the topic, but it does not directly build upon the source paper's findings.",
+                    "relevance": 1
+                },
+                "6. Connective tissue diseases in primary biliary cirrhosis: a population-based cohort study.": {
+                    "explanation": "This paper investigates the frequency and clinical features of connective tissue diseases in primary biliary cirrhosis, which is directly related to the topic of the source paper. The paper provides new insights into the clinical features of PBC.",
+                    "relevance": 2
+                },
+                "7. Antimitochondrial antibodies may be insufficiently specific to define primary biliary cirrhosis\u2010like disease in mouse models": {
+                    "explanation": "This paper discusses the specificity of antimitochondrial antibodies in defining primary biliary cirrhosis-like disease in mouse models. The paper is relevant to the topic, but it does not directly build upon the source paper's findings.",
+                    "relevance": 1
+                },
+                "8. Old age and steatohepatitis: A dangerous liaison?": {
+                    "explanation": "This paper is not directly related to the topic of primary biliary cirrhosis. The connection is minimal, and the paper does not build upon the source paper's findings.",
+                    "relevance": 0
+                },
+                "9. Association between cytotoxic T\u2010lymphocyte antigen 4 gene polymorphisms and primary biliary cirrhosis in Chinese population: data from a multicenter study": {
+                    "explanation": "This paper investigates the association between cytotoxic T-lymphocyte antigen 4 gene polymorphisms and primary biliary cirrhosis in the Chinese population. The paper is relevant to the topic, but it does not directly build upon the source paper's findings.",
+                    "relevance": 1
+                },
+                "10. Ursodeoxycholic Acid Improves Bilirubin but Not Albumin in Primary Biliary Cirrhosis: Further Evidence for Nonefficacy": {
+                    "explanation": "This paper discusses the efficacy of ursodeoxycholic acid in primary biliary cirrhosis, which is directly related to the topic of the source paper. The paper provides new insights into the treatment of PBC.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Antimitochondrial Antibody Recognition and Structural Integrity of the Inner Lipoyl Domain of the E2 Subunit of Pyruvate Dehydrogenase Complex": {
+                    "explanation": "This paper studies the antimitochondrial antibodies in primary biliary cirrhosis, which is directly related to the topic of the source paper. The paper explores the structural integrity of the inner lipoyl domain, which is a key aspect of PBC.",
+                    "relevance": 2
+                },
+                "2. Connective tissue diseases in primary biliary cirrhosis: a population-based cohort study.": {
+                    "explanation": "This paper investigates the frequency and clinical features of connective tissue diseases in primary biliary cirrhosis, which is directly related to the topic of the source paper. The paper provides new insights into the clinical features of PBC.",
+                    "relevance": 2
+                },
+                "3. Ursodeoxycholic Acid Improves Bilirubin but Not Albumin in Primary Biliary Cirrhosis: Further Evidence for Nonefficacy": {
+                    "explanation": "This paper discusses the efficacy of ursodeoxycholic acid in primary biliary cirrhosis, which is directly related to the topic of the source paper. The paper provides new insights into the treatment of PBC.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2013,
+        "source_paper": {
+            "paperId": "d743e075412a75df257b4004eb8044362c5e7077",
+            "title": "Primary biliary cirrhosis",
+            "abstract": null,
+            "year": 1998,
+            "citation_count": 2225,
+            "relevance": 1,
+            "explanation": "This paper provides an overview of primary biliary cirrhosis (PBC), including its natural history, presentation, and progression. While it does not directly build upon the source paper, it discusses the same disease and its characteristics, making it partially dependent on the knowledge established by the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. DETECTION OF ANTI-SP100 ANTIBODIES IN PRIMARY BILIARY CIRRHOSIS. COMPARISON OF ELISA AND IMMUNOFLUORESCENCE": {
+                    "explanation": "The paper discusses the detection of anti-Sp100 antibodies in primary biliary cirrhosis, which is related to the topic of the source paper. However, it does not build upon or use the findings of the source paper as a sub-hypothesis, so it is considered inspired by the hypothesis or findings of the source paper.",
+                    "relevance": 1
+                },
+                "2. A pilot study of umbilical cord\u2010derived mesenchymal stem cell transfusion in patients with primary biliary cirrhosis": {
+                    "explanation": "This paper investigates the safety and efficacy of umbilical cord-derived mesenchymal stem cell transfusion in patients with primary biliary cirrhosis. The study uses the findings of the source paper as a sub-hypothesis, as it aims to find new therapeutic approaches for patients with PBC, which is the topic of the source paper.",
+                    "relevance": 2
+                },
+                "3. Reply": {
+                    "explanation": "This paper appears to be a response to a previous paper and does not contain original research or findings related to primary biliary cirrhosis. It is therefore not considered relevant to the source paper.",
+                    "relevance": 0
+                },
+                "4. Early biochemical response to ursodeoxycholic acid and long\u2010term prognosis of primary biliary cirrhosis: Results of a 14\u2010year cohort study": {
+                    "explanation": "This paper discusses the biochemical response to ursodeoxycholic acid in primary biliary cirrhosis and its relation to long-term prognosis. The study uses the findings of the source paper as a sub-hypothesis, as it aims to find predictors of treatment outcome in PBC patients.",
+                    "relevance": 2
+                },
+                "5. Therapeutic Equivalence of Ursodeoxycholic Acid Tablets and Ursodeoxycholic Acid Capsules for the Treatment of Primary Biliary Cirrhosis": {
+                    "explanation": "This paper compares the therapeutic efficacy of ursodeoxycholic acid tablets and capsules in patients with primary biliary cirrhosis. The study is related to the topic of the source paper but does not build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "6. Impact of primary biliary cirrhosis on perceived quality of life: The UK\u2010PBC national study": {
+                    "explanation": "This paper discusses the impact of primary biliary cirrhosis on perceived quality of life. The study is related to the topic of the source paper but does not build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "7. Red blood cell distribution width is a potential prognostic index for liver disease": {
+                    "explanation": "This paper discusses the potential of red blood cell distribution width as a prognostic index for liver disease. The study is related to liver disease but not specifically to primary biliary cirrhosis, and it does not build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 0
+                },
+                "8. Regulation of DDAH1 as a Potential Therapeutic Target for Treating Cardiovascular Diseases": {
+                    "explanation": "This paper discusses the regulation of DDAH1 as a potential therapeutic target for treating cardiovascular diseases. The study is related to cardiovascular diseases and not specifically to primary biliary cirrhosis, and it does not build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 0
+                },
+                "9. Diagnostic value of anti-gp210 antibodies in primary biliary cirrhosis: a case-based review": {
+                    "explanation": "This paper discusses the diagnostic value of anti-gp210 antibodies in primary biliary cirrhosis. The study is related to the topic of the source paper but does not build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "10. Distinct MicroRNAs Expression Profile in Primary Biliary Cirrhosis and Evaluation of miR 505-3p and miR197-3p as Novel Biomarkers": {
+                    "explanation": "This paper discusses the expression profile of microRNAs in primary biliary cirrhosis and evaluates miR 505-3p and miR197-3p as novel biomarkers. The study is related to the topic of the source paper but does not build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. A pilot study of umbilical cord\u2010derived mesenchymal stem cell transfusion in patients with primary biliary cirrhosis": {
+                    "explanation": "This paper investigates the safety and efficacy of umbilical cord-derived mesenchymal stem cell transfusion in patients with primary biliary cirrhosis. The study uses the findings of the source paper as a sub-hypothesis, as it aims to find new therapeutic approaches for patients with PBC, which is the topic of the source paper.",
+                    "relevance": 2
+                },
+                "2. Early biochemical response to ursodeoxycholic acid and long\u2010term prognosis of primary biliary cirrhosis: Results of a 14\u2010year cohort study": {
+                    "explanation": "This paper discusses the biochemical response to ursodeoxycholic acid in primary biliary cirrhosis and its relation to long-term prognosis. The study uses the findings of the source paper as a sub-hypothesis, as it aims to find predictors of treatment outcome in PBC patients.",
+                    "relevance": 2
+                },
+                "3. DETECTION OF ANTI-SP100 ANTIBODIES IN PRIMARY BILIARY CIRRHOSIS. COMPARISON OF ELISA AND IMMUNOFLUORESCENCE": {
+                    "explanation": "The paper discusses the detection of anti-Sp100 antibodies in primary biliary cirrhosis, which is related to the topic of the source paper. However, it does not build upon or use the findings of the source paper as a sub-hypothesis, so it is considered inspired by the hypothesis or findings of the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2013,
+        "source_paper": {
+            "paperId": "d743e075412a75df257b4004eb8044362c5e7077",
+            "title": "Primary biliary cirrhosis",
+            "abstract": null,
+            "year": 1998,
+            "citation_count": 2225,
+            "relevance": 1,
+            "explanation": "This paper provides an overview of primary biliary cirrhosis (PBC), including its natural history, presentation, and progression. While it does not directly build upon the source paper, it discusses the same disease and its characteristics, making it partially dependent on the knowledge established by the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. The association of Helicobacter pylori infection with Hashimoto's thyroiditis": {
+                    "explanation": "This paper has no connection with the source paper. The source paper is about primary biliary cirrhosis, while this paper investigates the association between Helicobacter pylori infection and Hashimoto's thyroiditis.",
+                    "relevance": 0
+                },
+                "2. BAFF promotes regulatory T-cell apoptosis and blocks cytokine production by activating B cells in primary biliary cirrhosis": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper. This paper explores the role of BAFF in primary biliary cirrhosis, which is the topic of the source paper.",
+                    "relevance": 2
+                },
+                "3. Incidence of and risk factors for hepatocellular carcinoma in primary biliary cirrhosis: National data from Japan": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper. This paper investigates the incidence of and risk factors for hepatocellular carcinoma in primary biliary cirrhosis, which is related to the topic of the source paper.",
+                    "relevance": 2
+                },
+                "4. TGR5 in cholangiocytes": {
+                    "explanation": "This paper has a connection with the source paper, but it is a review paper. The paper discusses the function of TGR5 in cholangiocytes and its potential role in biliary diseases, including primary biliary cirrhosis.",
+                    "relevance": 0
+                },
+                "5. Disease recurrence plays a minor role as a cause for retransplantation after living\u2010donor liver transplantation for primary biliary cirrhosis: A multicenter study in Japan": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper. This paper investigates the role of disease recurrence in retransplantation after living-donor liver transplantation for primary biliary cirrhosis.",
+                    "relevance": 2
+                },
+                "6. Differential Binding of Pyruvate Dehydrogenase Complex-E2 Epitopes by DRB1*08:01 and DRB1*11:01 Is Predicted by Their Structural Motifs and Correlates with Disease Risk": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper. This paper explores the relationship between HLA alleles and primary biliary cirrhosis, which is related to the topic of the source paper.",
+                    "relevance": 2
+                },
+                "7. The unfolded protein response and chemical chaperones reduce protein misfolding and colitis in mice": {
+                    "explanation": "This paper has no connection with the source paper. The source paper is about primary biliary cirrhosis, while this paper investigates the unfolded protein response and chemical chaperones in mice with colitis.",
+                    "relevance": 0
+                },
+                "8. Anticholestatic effects of bezafibrate in patients with primary biliary cirrhosis treated with ursodeoxycholic acid": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper. This paper explores the anticholestatic effects of bezafibrate in patients with primary biliary cirrhosis.",
+                    "relevance": 2
+                },
+                "9. TRAF1-C5 Affects Quality of Life in Patients with Primary Biliary Cirrhosis": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper. This paper investigates the relationship between TRAF1-C5 gene polymorphisms and quality of life in patients with primary biliary cirrhosis.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. BAFF promotes regulatory T-cell apoptosis and blocks cytokine production by activating B cells in primary biliary cirrhosis": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper. This paper explores the role of BAFF in primary biliary cirrhosis, which is the topic of the source paper.",
+                    "relevance": 2
+                },
+                "2. Incidence of and risk factors for hepatocellular carcinoma in primary biliary cirrhosis: National data from Japan": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper. This paper investigates the incidence of and risk factors for hepatocellular carcinoma in primary biliary cirrhosis, which is related to the topic of the source paper.",
+                    "relevance": 2
+                },
+                "3. Disease recurrence plays a minor role as a cause for retransplantation after living\u2010donor liver transplantation for primary biliary cirrhosis: A multicenter study in Japan": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper. This paper investigates the role of disease recurrence in retransplantation after living-donor liver transplantation for primary biliary cirrhosis.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2014,
+        "source_paper": {
+            "paperId": "c80de8bb83ff6ab9b01bc1868a5068c45cfebabf",
+            "title": "A pilot study of umbilical cord\u2010derived mesenchymal stem cell transfusion in patients with primary biliary cirrhosis",
+            "abstract": "BACKGROUND AND AIM\nUrsodeoxycholic acid (UDCA) treatment is an effective medical therapy for patients with primary biliary cirrhosis (PBC); however, 40% of PBC patients show an incomplete response to the UDCA therapy. This study aimed to investigate the safety and efficacy of umbilical cord-derived mesenchymal stem cell (UC-MSC) transfusion in PBC patients with an incomplete response to UDCA.\n\n\nMETHODS\nWe conducted a single-arm trial that included seven PBC patients with a suboptimal response to UDCA treatment. UC-MSCs were first cultured, and then 0.5 \u00d7 10(6) cells/kg body weights were infused through a peripheral vein. UC-MSCs were given three times at 4-week intervals, and patients were followed up for 48 weeks. Primary outcomes were to evaluate the safety and feasibility of UC-MSC treatment, and secondary outcomes were to evaluate liver functions and patient's quality of life.\n\n\nRESULTS\nNo obvious side-effects were found in the patients treated with UC-MSCs. Symptoms such as fatigue and pruritus were obviously alleviated in most patients after UC-MSC treatment. There was a significant decrease in serum alkaline phosphatase and \u03b3-glutamyltransferase levels at the end of the follow-up period as compared with baseline. No significant changes were observed in serum alanine aminotransferase, aspartate aminotransferase, total bilirubin, albumin, prothrombin time activity, international normalized ratio, or immunoglobulin M levels. The Mayo risk score, a prognostic index, was also stable during the treatment and follow-up period.\n\n\nCONCLUSIONS\nUC-MSC transfusion is feasible and well tolerated in patients with PBC who respond only partially to UDCA treatment, thus representing a novel therapeutic approach for patients in this subgroup. A larger, randomized controlled cohort study is warranted to confirm the clinical efficacy of UC-MSC transfusion.",
+            "year": 2013,
+            "citation_count": 166,
+            "relevance": 2,
+            "explanation": "This paper investigates the safety and efficacy of umbilical cord-derived mesenchymal stem cell transfusion in patients with primary biliary cirrhosis. The study uses the findings of the source paper as a sub-hypothesis, as it aims to find new therapeutic approaches for patients with PBC, which is the topic of the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Immunological basis of stem cell therapy in liver diseases": {
+                    "explanation": "This paper is a review that discusses the immunomodulatory properties of mesenchymal stem cells, which is related to the source paper's topic of UC-MSC transfusion in PBC patients. However, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 0
+                },
+                "2. Randomized trial of autologous bone marrow mesenchymal stem cells transplantation for hepatitis B virus cirrhosis: Regulation of Treg/Th17 cells": {
+                    "explanation": "This paper investigates the use of autologous bone marrow mesenchymal stem cells in patients with hepatitis B virus cirrhosis, which is a different disease from primary biliary cirrhosis (PBC). Although both papers deal with liver diseases and mesenchymal stem cells, they do not have a direct connection.",
+                    "relevance": 0
+                },
+                "3. Breach of Tolerance: Primary Biliary Cirrhosis": {
+                    "explanation": "This paper discusses the pathogenesis of primary biliary cirrhosis (PBC), which is the same disease studied in the source paper. However, it does not directly build upon or depend on the source paper's findings on UC-MSC transfusion.",
+                    "relevance": 0
+                },
+                "4. Umbilical cord-derived mesenchymal stem cells: Their advantages and potential clinical utility": {
+                    "explanation": "This paper reviews the advantages and potential clinical utility of UC-MSCs, which is directly related to the source paper's topic of UC-MSC transfusion in PBC patients. The key hypothesis in this paper is inspired by the hypothesis or findings from the source paper.",
+                    "relevance": 1
+                },
+                "5. Adipose Tissue-derived Mesenchymal Stem Cells in Regenerative Medicine Treatment for Liver Cirrhosis - Focused on Efficacy and Safety in Preclinical and Clinical": {
+                    "explanation": "This paper reviews the efficacy and safety of adipose tissue-derived mesenchymal stem cells in treating liver cirrhosis, which is a different type of mesenchymal stem cell from UC-MSCs. Although both papers deal with liver diseases and mesenchymal stem cells, they do not have a direct connection.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Umbilical cord-derived mesenchymal stem cells: Their advantages and potential clinical utility": {
+                    "explanation": "This paper reviews the advantages and potential clinical utility of UC-MSCs, which is directly related to the source paper's topic of UC-MSC transfusion in PBC patients. The key hypothesis in this paper is inspired by the hypothesis or findings from the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2015,
+        "source_paper": {
+            "paperId": "c80de8bb83ff6ab9b01bc1868a5068c45cfebabf",
+            "title": "A pilot study of umbilical cord\u2010derived mesenchymal stem cell transfusion in patients with primary biliary cirrhosis",
+            "abstract": "BACKGROUND AND AIM\nUrsodeoxycholic acid (UDCA) treatment is an effective medical therapy for patients with primary biliary cirrhosis (PBC); however, 40% of PBC patients show an incomplete response to the UDCA therapy. This study aimed to investigate the safety and efficacy of umbilical cord-derived mesenchymal stem cell (UC-MSC) transfusion in PBC patients with an incomplete response to UDCA.\n\n\nMETHODS\nWe conducted a single-arm trial that included seven PBC patients with a suboptimal response to UDCA treatment. UC-MSCs were first cultured, and then 0.5 \u00d7 10(6) cells/kg body weights were infused through a peripheral vein. UC-MSCs were given three times at 4-week intervals, and patients were followed up for 48 weeks. Primary outcomes were to evaluate the safety and feasibility of UC-MSC treatment, and secondary outcomes were to evaluate liver functions and patient's quality of life.\n\n\nRESULTS\nNo obvious side-effects were found in the patients treated with UC-MSCs. Symptoms such as fatigue and pruritus were obviously alleviated in most patients after UC-MSC treatment. There was a significant decrease in serum alkaline phosphatase and \u03b3-glutamyltransferase levels at the end of the follow-up period as compared with baseline. No significant changes were observed in serum alanine aminotransferase, aspartate aminotransferase, total bilirubin, albumin, prothrombin time activity, international normalized ratio, or immunoglobulin M levels. The Mayo risk score, a prognostic index, was also stable during the treatment and follow-up period.\n\n\nCONCLUSIONS\nUC-MSC transfusion is feasible and well tolerated in patients with PBC who respond only partially to UDCA treatment, thus representing a novel therapeutic approach for patients in this subgroup. A larger, randomized controlled cohort study is warranted to confirm the clinical efficacy of UC-MSC transfusion.",
+            "year": 2013,
+            "citation_count": 166,
+            "relevance": 2,
+            "explanation": "This paper investigates the safety and efficacy of umbilical cord-derived mesenchymal stem cell transfusion in patients with primary biliary cirrhosis. The study uses the findings of the source paper as a sub-hypothesis, as it aims to find new therapeutic approaches for patients with PBC, which is the topic of the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1.Stem cell-based regenerative opportunities for the liver: State of the art and beyond": {
+                    "explanation": "This is a review paper that discusses the state-of-the-art in stem cell-based therapies for liver diseases. It does not build upon the source paper's findings or hypothesis, but rather provides a broader overview of the field.",
+                    "relevance": 0
+                },
+                "2.Mesenchymal stem cell therapy for cirrhosis: Present and future perspectives": {
+                    "explanation": "This paper discusses the potential therapeutic mechanisms of mesenchymal stem cells (MSCs) in liver regenerative medicine. While it does not directly build upon the source paper's findings, it explores a related area of research and provides context for the use of MSCs in treating liver diseases.",
+                    "relevance": 1
+                },
+                "3.Therapeutic Effects of Mesenchymal Stem Cells for Patients with Chronic Liver Diseases: Systematic Review and Meta-analysis": {
+                    "explanation": "This paper presents a systematic review and meta-analysis of the literature on the therapeutic effects of MSCs in patients with chronic liver disease. It does not build upon the source paper's findings, but rather provides a comprehensive overview of the existing evidence on MSC therapy for liver diseases.",
+                    "relevance": 0
+                },
+                "4.Human umbilical cord mesenchymal stem cells: an overview of their potential in cell-based therapy": {
+                    "explanation": "This paper provides an overview of the potential of human umbilical cord mesenchymal stem cells (HUC-MSCs) in cell-based therapy, including their use in treating liver diseases. It does not directly build upon the source paper's findings, but rather discusses the broader potential of HUC-MSCs in regenerative medicine.",
+                    "relevance": 1
+                },
+                "5.Stem Cells and Regenerative Medicine: Myth or Reality of the 21th Century": {
+                    "explanation": "This is a review paper that discusses the potential of stem cells in regenerative medicine, including their use in treating liver diseases. It does not build upon the source paper's findings or hypothesis, but rather provides a broader overview of the field.",
+                    "relevance": 0
+                },
+                "6.Umbilical Cord Tissue-Derived Cells as Therapeutic Agents": {
+                    "explanation": "This paper discusses the potential therapeutic applications of umbilical cord tissue-derived cells, including their use in treating liver diseases. It does not directly build upon the source paper's findings, but rather explores a related area of research and provides context for the use of these cells in regenerative medicine.",
+                    "relevance": 1
+                },
+                "7.Mesenchymal Stromal Cell Therapy: Different Sources Exhibit Different Immunobiological Properties": {
+                    "explanation": "This paper discusses the immunobiological properties of mesenchymal stromal cells (MSCs) derived from different sources, including their potential therapeutic applications in liver diseases. It does not directly build upon the source paper's findings, but rather provides context for the use of MSCs in regenerative medicine.",
+                    "relevance": 1
+                },
+                "8.Human Amnion-Derived Mesenchymal Stem Cell Transplantation Ameliorates Liver Fibrosis in Rats": {
+                    "explanation": "This paper presents a study on the therapeutic effects of human amnion-derived mesenchymal stem cells (hAMSCs) in a rat model of liver fibrosis. While it does not directly build upon the source paper's findings, it explores a related area of research and provides evidence for the potential therapeutic applications of hAMSCs in treating liver diseases.",
+                    "relevance": 2
+                },
+                "9.Primary biliary cirrhosis-associated hepatocellular carcinoma in Chinese patients: incidence and risk factors": {
+                    "explanation": "This paper presents a study on the incidence and risk factors for hepatocellular carcinoma (HCC) in Chinese patients with primary biliary cirrhosis (PBC). It does not build upon the source paper's findings or hypothesis, but rather provides epidemiological data on the association between PBC and HCC.",
+                    "relevance": 0
+                },
+                "10.Early to Phase II drugs currently under investigation for the treatment of liver fibrosis": {
+                    "explanation": "This paper discusses the current state of drug development for the treatment of liver fibrosis, including molecular targeted agents and antifibrotic therapies. It does not directly build upon the source paper's findings, but rather provides context for the potential therapeutic applications of these agents in treating liver diseases.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1.Human Amnion-Derived Mesenchymal Stem Cell Transplantation Ameliorates Liver Fibrosis in Rats": {
+                    "explanation": "This paper presents a study on the therapeutic effects of human amnion-derived mesenchymal stem cells (hAMSCs) in a rat model of liver fibrosis. While it does not directly build upon the source paper's findings, it explores a related area of research and provides evidence for the potential therapeutic applications of hAMSCs in treating liver diseases.",
+                    "relevance": 2
+                },
+                "2.Mesenchymal stem cell therapy for cirrhosis: Present and future perspectives": {
+                    "explanation": "This paper discusses the potential therapeutic mechanisms of mesenchymal stem cells (MSCs) in liver regenerative medicine. While it does not directly build upon the source paper's findings, it explores a related area of research and provides context for the use of MSCs in treating liver diseases.",
+                    "relevance": 1
+                },
+                "3.Human umbilical cord mesenchymal stem cells: an overview of their potential in cell-based therapy": {
+                    "explanation": "This paper provides an overview of the potential of human umbilical cord mesenchymal stem cells (HUC-MSCs) in cell-based therapy, including their use in treating liver diseases. It does not directly build upon the source paper's findings, but rather discusses the broader potential of HUC-MSCs in regenerative medicine.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2015,
+        "source_paper": {
+            "paperId": "c80de8bb83ff6ab9b01bc1868a5068c45cfebabf",
+            "title": "A pilot study of umbilical cord\u2010derived mesenchymal stem cell transfusion in patients with primary biliary cirrhosis",
+            "abstract": "BACKGROUND AND AIM\nUrsodeoxycholic acid (UDCA) treatment is an effective medical therapy for patients with primary biliary cirrhosis (PBC); however, 40% of PBC patients show an incomplete response to the UDCA therapy. This study aimed to investigate the safety and efficacy of umbilical cord-derived mesenchymal stem cell (UC-MSC) transfusion in PBC patients with an incomplete response to UDCA.\n\n\nMETHODS\nWe conducted a single-arm trial that included seven PBC patients with a suboptimal response to UDCA treatment. UC-MSCs were first cultured, and then 0.5 \u00d7 10(6) cells/kg body weights were infused through a peripheral vein. UC-MSCs were given three times at 4-week intervals, and patients were followed up for 48 weeks. Primary outcomes were to evaluate the safety and feasibility of UC-MSC treatment, and secondary outcomes were to evaluate liver functions and patient's quality of life.\n\n\nRESULTS\nNo obvious side-effects were found in the patients treated with UC-MSCs. Symptoms such as fatigue and pruritus were obviously alleviated in most patients after UC-MSC treatment. There was a significant decrease in serum alkaline phosphatase and \u03b3-glutamyltransferase levels at the end of the follow-up period as compared with baseline. No significant changes were observed in serum alanine aminotransferase, aspartate aminotransferase, total bilirubin, albumin, prothrombin time activity, international normalized ratio, or immunoglobulin M levels. The Mayo risk score, a prognostic index, was also stable during the treatment and follow-up period.\n\n\nCONCLUSIONS\nUC-MSC transfusion is feasible and well tolerated in patients with PBC who respond only partially to UDCA treatment, thus representing a novel therapeutic approach for patients in this subgroup. A larger, randomized controlled cohort study is warranted to confirm the clinical efficacy of UC-MSC transfusion.",
+            "year": 2013,
+            "citation_count": 166,
+            "relevance": 2,
+            "explanation": "This paper investigates the safety and efficacy of umbilical cord-derived mesenchymal stem cell transfusion in patients with primary biliary cirrhosis. The study uses the findings of the source paper as a sub-hypothesis, as it aims to find new therapeutic approaches for patients with PBC, which is the topic of the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Use of mesenchymal stem cells to treat liver fibrosis: current situation and future prospects.": {
+                    "explanation": "This paper is a review of the current state of mesenchymal stem cell-based therapy for liver fibrosis. Although it discusses the use of mesenchymal stem cells, which is related to the source paper's topic, it does not build upon or depend on the findings of the source paper. It is a general review of the field and lacks novel hypotheses or findings related to the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2017,
+        "source_paper": {
+            "paperId": "1ceefbcb4af55e41e7b5337bd8f2a5023111708b",
+            "title": "Human Amnion-Derived Mesenchymal Stem Cell Transplantation Ameliorates Liver Fibrosis in Rats",
+            "abstract": "Background Mesenchymal stem cells (MSCs) are a valuable cell source in regenerative medicine. Recently, several studies have shown that MSCs can be easily isolated from human amnion. In this study, we investigated the therapeutic effect of transplantation of human amnion-derived MSCs (hAMSCs) in rats with liver fibrosis. Methods Liver fibrosis was induced by an intraperitoneal injection of 2 mL/kg of 50% carbon tetrachloride twice a week for 6 weeks. At 3 weeks, hAMSCs (1 \u00d7 106 cells) were transplanted intravenously. Rats were sacrificed at 7 weeks, and histological analyses and quantitative reverse-transcription polymerase chain reaction were performed. In vitro experiments were conducted to investigate the effect of hAMSCs on the activation of Kupffer cells. Results Transplantation of hAMSCs significantly reduced the fibrotic area, deposition of type-I collagen, the number of &agr;-smooth muscle actin\u2013positive hepatic stellate cells, and CD68-positive Kupffer cells in the livers. messenger RNA expression of &agr;-smooth muscle actin and tissue inhibitor of metalloproteinase-1 was significantly decreased and the expression of matrix metalloproteinase-9 and hepatocyte growth factor was significantly increased in the liver of hAMSC-treated rats. Transplantation of hAMSCs at 3 weeks plus 5 weeks did not have an additive effect. In vitro experiments demonstrated that Kupffer cell activation induced by lipopolysaccharide was significantly decreased by culturing with conditioned medium obtained from hAMSCs. Conclusions Transplantation of hAMSCs provided significant improvement in a rat model of liver fibrosis, possibly through the inhibition of Kupffer cell and hepatic stellate cell activation. hAMSCs may be a potential new treatment for liver fibrosis.",
+            "year": 2015,
+            "citation_count": 38,
+            "relevance": 2,
+            "explanation": "This paper presents a study on the therapeutic effects of human amnion-derived mesenchymal stem cells (hAMSCs) in a rat model of liver fibrosis. While it does not directly build upon the source paper's findings, it explores a related area of research and provides evidence for the potential therapeutic applications of hAMSCs in treating liver diseases."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Effect of human amniotic epithelial cells on pro\u2010fibrogenic resident hepatic cells in a rat model of liver fibrosis": {
+                    "explanation": "Although this paper investigates human amniotic epithelial cells (hAEC) instead of human amnion-derived mesenchymal stem cells (hAMSCs), it shares a similar context and therapeutic goal with the source paper. Both papers explore the potential of cells derived from the amniotic membrane to treat liver fibrosis. However, the source paper's findings on hAMSCs are not directly built upon in this paper.",
+                    "relevance": 1
+                },
+                "2. P53 Mutation and Epigenetic Imprinted IGF2/H19 Gene Analysis in Mesenchymal Stem Cells Derived from Amniotic Fluid, Amnion, Endometrium, and Wharton's Jelly": {
+                    "explanation": "This paper is a review of genomic and epigenomic alterations in mesenchymal stem cells (MSC) derived from various sources, including the amnion. It does not directly build upon or reference the source paper's findings on hAMSCs in liver fibrosis.",
+                    "relevance": 0
+                },
+                "3. Therapeutic effects of human amnion-derived mesenchymal stem cell transplantation and conditioned medium enema in rats with trinitrobenzene sulfonic acid-induced colitis": {
+                    "explanation": "This paper investigates the therapeutic effects of hAMSCs in a rat model of colitis, which is a different disease context than liver fibrosis. However, the paper's use of hAMSCs and its exploration of their therapeutic potential is partially dependent on the source paper's findings on the safety and efficacy of hAMSCs.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Therapeutic effects of human amnion-derived mesenchymal stem cell transplantation and conditioned medium enema in rats with trinitrobenzene sulfonic acid-induced colitis": {
+                    "explanation": "This paper investigates the therapeutic effects of hAMSCs in a rat model of colitis, which is a different disease context than liver fibrosis. However, the paper's use of hAMSCs and its exploration of their therapeutic potential is partially dependent on the source paper's findings on the safety and efficacy of hAMSCs.",
+                    "relevance": 2
+                },
+                "2. Effect of human amniotic epithelial cells on pro\u2010fibrogenic resident hepatic cells in a rat model of liver fibrosis": {
+                    "explanation": "Although this paper investigates human amniotic epithelial cells (hAEC) instead of human amnion-derived mesenchymal stem cells (hAMSCs), it shares a similar context and therapeutic goal with the source paper. Both papers explore the potential of cells derived from the amniotic membrane to treat liver fibrosis. However, the source paper's findings on hAMSCs are not directly built upon in this paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2018,
+        "source_paper": {
+            "paperId": "bb986850e017ea4e351aac4b75686baae904118b",
+            "title": "Therapeutic effects of human amnion-derived mesenchymal stem cell transplantation and conditioned medium enema in rats with trinitrobenzene sulfonic acid-induced colitis.",
+            "abstract": "Cell therapy with mesenchymal stem cells (MSCs) is expected to provide a new strategy for the treatment of inflammatory bowel disease (IBD). Large amounts of MSCs can be obtained from human amnion. Therefore, we investigated the effect of transplantation of human amnion-derived MSCs (hAMSCs) or enema of conditioned medium (CM) from hAMSCs into rats with 2,4,6-trinitrobenzene sulfonic acid (TNBS)-induced colitis. In the first experiment, 10-week-old male Sprague-Dawley rats were intravenously injected with hAMSCs (1 \u00d7 106 cells) 3 h after rectal administration of TNBS (45 mg/kg). In the second experiment, rats with TNBS-induced colitis received CM by enema into the colon for 3 days. Colitis was investigated by endoscopy, histology, immunohistochemistry, and by measuring mRNA expression of inflammatory mediators. Administration of hAMSCs or CM enema significantly improved the endoscopic score. In addition, these two interventions resulted in significantly decreased infiltration of neutrophils and monocytes/macrophages and decreased expression levels of TNF-\u03b1, CXCL1, and CCL2. In conclusion, transplantation of hAMSCs and CM enema provided significant improvement in rats with TNBS-induced colitis. CM from hAMSCs and hAMSCs may be new strategies for the treatment of IBD.",
+            "year": 2017,
+            "citation_count": 36,
+            "relevance": 2,
+            "explanation": "This paper investigates the therapeutic effects of hAMSCs in a rat model of colitis, which is a different disease context than liver fibrosis. However, the paper's use of hAMSCs and its exploration of their therapeutic potential is partially dependent on the source paper's findings on the safety and efficacy of hAMSCs."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Systematic Exposition of Mesenchymal Stem Cell for Inflammatory Bowel Disease and Its Associated Colorectal Cancer": {
+                    "explanation": "This paper is a review paper that summarizes existing literature on the use of mesenchymal stem cells for inflammatory bowel disease. It does not present new findings or hypotheses that are directly related to the source paper.",
+                    "relevance": 0
+                },
+                "2. Extracellular Vesicles from Amnion-Derived Mesenchymal Stem Cells Ameliorate Hepatic Inflammation and Fibrosis in Rats": {
+                    "explanation": "This paper explores the therapeutic effects of extracellular vesicles from amnion-derived mesenchymal stem cells, which is a new angle that builds upon the source paper's findings on the use of human amnion-derived mesenchymal stem cells for treating inflammatory bowel disease.",
+                    "relevance": 1
+                },
+                "3. Conditioned Medium from Human Amnion-Derived Mesenchymal Stem Cells Regulates Activation of Primary Hepatic Stellate Cells": {
+                    "explanation": "This paper investigates the effects of conditioned medium from human amnion-derived mesenchymal stem cells on primary hepatic stellate cells, which is partially dependent on the source paper's findings on the use of conditioned medium from human amnion-derived mesenchymal stem cells for treating inflammatory bowel disease.",
+                    "relevance": 2
+                },
+                "4. Effects of human amnion-derived mesenchymal stem cells and conditioned medium in rats with sclerosing cholangitis": {
+                    "explanation": "This paper explores the therapeutic effects of human amnion-derived mesenchymal stem cells and conditioned medium in rats with sclerosing cholangitis, which is partially dependent on the source paper's findings on the use of human amnion-derived mesenchymal stem cells for treating inflammatory bowel disease.",
+                    "relevance": 2
+                },
+                "5. Evaluation of amnion-derived mesenchymal stem cells for treatment-resistant moderate Crohn\u2019s disease: study protocol for a phase I/II, dual-centre, open-label, uncontrolled, dose\u2013response trial": {
+                    "explanation": "This paper presents a study protocol for evaluating the safety and efficacy of amnion-derived mesenchymal stem cells for treating treatment-resistant moderate Crohn's disease, which is inspired by the source paper's findings on the use of human amnion-derived mesenchymal stem cells for treating inflammatory bowel disease.",
+                    "relevance": 1
+                },
+                "6. Comparative studies on the activities of collagenases from Grimontia hollisae and Clostridium hystoliticum in the hydrolysis of synthetic substrates": {
+                    "explanation": "This paper presents comparative studies on the activities of collagenases from Grimontia hollisae and Clostridium hystoliticum, which is not directly related to the source paper's findings on the use of human amnion-derived mesenchymal stem cells for treating inflammatory bowel disease.",
+                    "relevance": 0
+                },
+                "7. Preventive effect of mesenchymal stem cell culture supernatant on luminal stricture after endoscopic submucosal dissection in the rectum of pigs": {
+                    "explanation": "This paper explores the preventive effect of mesenchymal stem cell culture supernatant on luminal stricture after endoscopic submucosal dissection in the rectum of pigs, which is partially dependent on the source paper's findings on the use of conditioned medium from human amnion-derived mesenchymal stem cells for treating inflammatory bowel disease.",
+                    "relevance": 2
+                },
+                "8. Conditioned Medium Obtained from Amnion-Derived Mesenchymal Stem Cell Culture Prevents Activation of Keloid Fibroblasts": {
+                    "explanation": "This paper investigates the effects of conditioned medium obtained from amnion-derived mesenchymal stem cell culture on keloid fibroblasts, which is partially dependent on the source paper's findings on the use of conditioned medium from human amnion-derived mesenchymal stem cells for treating inflammatory bowel disease.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Conditioned Medium from Human Amnion-Derived Mesenchymal Stem Cells Regulates Activation of Primary Hepatic Stellate Cells": {
+                    "explanation": "This paper investigates the effects of conditioned medium from human amnion-derived mesenchymal stem cells on primary hepatic stellate cells, which is partially dependent on the source paper's findings on the use of conditioned medium from human amnion-derived mesenchymal stem cells for treating inflammatory bowel disease.",
+                    "relevance": 2
+                },
+                "2. Effects of human amnion-derived mesenchymal stem cells and conditioned medium in rats with sclerosing cholangitis": {
+                    "explanation": "This paper explores the therapeutic effects of human amnion-derived mesenchymal stem cells and conditioned medium in rats with sclerosing cholangitis, which is partially dependent on the source paper's findings on the use of human amnion-derived mesenchymal stem cells for treating inflammatory bowel disease.",
+                    "relevance": 2
+                },
+                "3. Preventive effect of mesenchymal stem cell culture supernatant on luminal stricture after endoscopic submucosal dissection in the rectum of pigs": {
+                    "explanation": "This paper explores the preventive effect of mesenchymal stem cell culture supernatant on luminal stricture after endoscopic submucosal dissection in the rectum of pigs, which is partially dependent on the source paper's findings on the use of conditioned medium from human amnion-derived mesenchymal stem cells for treating inflammatory bowel disease.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2019,
+        "source_paper": {
+            "paperId": "bb986850e017ea4e351aac4b75686baae904118b",
+            "title": "Therapeutic effects of human amnion-derived mesenchymal stem cell transplantation and conditioned medium enema in rats with trinitrobenzene sulfonic acid-induced colitis.",
+            "abstract": "Cell therapy with mesenchymal stem cells (MSCs) is expected to provide a new strategy for the treatment of inflammatory bowel disease (IBD). Large amounts of MSCs can be obtained from human amnion. Therefore, we investigated the effect of transplantation of human amnion-derived MSCs (hAMSCs) or enema of conditioned medium (CM) from hAMSCs into rats with 2,4,6-trinitrobenzene sulfonic acid (TNBS)-induced colitis. In the first experiment, 10-week-old male Sprague-Dawley rats were intravenously injected with hAMSCs (1 \u00d7 106 cells) 3 h after rectal administration of TNBS (45 mg/kg). In the second experiment, rats with TNBS-induced colitis received CM by enema into the colon for 3 days. Colitis was investigated by endoscopy, histology, immunohistochemistry, and by measuring mRNA expression of inflammatory mediators. Administration of hAMSCs or CM enema significantly improved the endoscopic score. In addition, these two interventions resulted in significantly decreased infiltration of neutrophils and monocytes/macrophages and decreased expression levels of TNF-\u03b1, CXCL1, and CCL2. In conclusion, transplantation of hAMSCs and CM enema provided significant improvement in rats with TNBS-induced colitis. CM from hAMSCs and hAMSCs may be new strategies for the treatment of IBD.",
+            "year": 2017,
+            "citation_count": 36,
+            "relevance": 2,
+            "explanation": "This paper investigates the therapeutic effects of hAMSCs in a rat model of colitis, which is a different disease context than liver fibrosis. However, the paper's use of hAMSCs and its exploration of their therapeutic potential is partially dependent on the source paper's findings on the safety and efficacy of hAMSCs."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. The efficacy of conditioned medium released by tonsil-derived mesenchymal stem cells in a chronic murine colitis model": {
+                    "explanation": "This paper explores the therapeutic effect of conditioned medium released by tonsil-derived mesenchymal stem cells in a chronic murine colitis model, which is related to the source paper's topic of mesenchymal stem cell transplantation and conditioned medium enema in rats with colitis. However, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "2. Safety and efficacy of amnion-derived mesenchymal stem cells (AM01) in patients with steroid-refractory acute graft-versus-host disease after allogeneic haematopoietic stem cell transplantation: a study protocol for a phase I/II Japanese trial": {
+                    "explanation": "This paper is a study protocol for a clinical trial on the safety and efficacy of amnion-derived mesenchymal stem cells in patients with steroid-refractory acute graft-versus-host disease. While it involves amnion-derived mesenchymal stem cells, which are also used in the source paper, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "3. Immunosuppressive Effect of Exosomes from Mesenchymal Stromal Cells in Defined Medium on Experimental Colitis": {
+                    "explanation": "This paper investigates the immunosuppressive effect of exosomes from mesenchymal stromal cells in defined medium on experimental colitis. Although it shares some similarities with the source paper, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "4. Potential Therapeutic Features of Human Amniotic Mesenchymal Stem Cells in Multiple Sclerosis: Immunomodulation, Inflammation Suppression, Angiogenesis Promotion, Oxidative Stress Inhibition, Neurogenesis Induction, MMPs Regulation, and Remyelination Stimulation": {
+                    "explanation": "This paper discusses the potential therapeutic features of human amniotic mesenchymal stem cells in multiple sclerosis. While it involves human amniotic mesenchymal stem cells, which are also used in the source paper, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "5. Human amnion\u2010derived mesenchymal stem cells ameliorate imiquimod\u2010induced psoriasiform dermatitis in mice": {
+                    "explanation": "This paper explores the therapeutic effect of human amnion-derived mesenchymal stem cells in a mouse model of psoriasiform dermatitis. Although it involves human amnion-derived mesenchymal stem cells, which are also used in the source paper, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. The efficacy of conditioned medium released by tonsil-derived mesenchymal stem cells in a chronic murine colitis model": {
+                    "explanation": "This paper explores the therapeutic effect of conditioned medium released by tonsil-derived mesenchymal stem cells in a chronic murine colitis model, which is related to the source paper's topic of mesenchymal stem cell transplantation and conditioned medium enema in rats with colitis.",
+                    "relevance": 1
+                },
+                "2. Safety and efficacy of amnion-derived mesenchymal stem cells (AM01) in patients with steroid-refractory acute graft-versus-host disease after allogeneic haematopoietic stem cell transplantation: a study protocol for a phase I/II Japanese trial": {
+                    "explanation": "This paper is a study protocol for a clinical trial on the safety and efficacy of amnion-derived mesenchymal stem cells in patients with steroid-refractory acute graft-versus-host disease. While it involves amnion-derived mesenchymal stem cells, which are also used in the source paper, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "3. Immunosuppressive Effect of Exosomes from Mesenchymal Stromal Cells in Defined Medium on Experimental Colitis": {
+                    "explanation": "This paper investigates the immunosuppressive effect of exosomes from mesenchymal stromal cells in defined medium on experimental colitis. Although it shares some similarities with the source paper, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2019,
+        "source_paper": {
+            "paperId": "a92e509fe30e6a002b11c90a52e755578ed777e8",
+            "title": "Conditioned Medium from Human Amnion-Derived Mesenchymal Stem Cells Regulates Activation of Primary Hepatic Stellate Cells",
+            "abstract": "Mesenchymal stem cells (MSCs), or multipotent mesenchymal stromal cells, are present in almost all organs and tissues, including the amnion. Human amnion-derived mesenchymal stem cell (hAMSC) transplantation has been reported to ameliorate liver fibrosis in animal models. However, the mechanism for the prevention of liver fibrosis is poorly understood. In this study, we investigated the effects, and underlying mechanisms, of a conditioned medium obtained from hAMSC cultures (hAMSC-CM) on a primary culture of rat hepatic stellate cells (HSCs). We observed that in routine culture, hAMSC-CM in HSCs significantly inhibited the expression of alpha-smooth muscle actin (\u03b1-SMA), an activation marker of HSCs, and the production of collagen type 1 (COL1), a dominant component of the extracellular matrix (ECM) in the culture medium. In addition, hAMSC-CM upregulated the expression of ECM degradation-related genes, such as metalloproteinase- (Mmp-) 2, Mmp-9, Mmp-13, and tissue inhibitor of metalloproteinase- (Timp-) 1; however, it did not affect the expression of collagen type 1\u03b11 (Col1a1). These regulatory effects on HSCs were concentration-dependent. A cell proliferation assay indicated that hAMSC-CM significantly suppressed HSC proliferation and downregulated the expression of cyclin B (Ccnb), a proliferation-related gene. Transforming growth factor-beta (TGF-\u03b2) treatment further activated HSCs and hAMSC-CM significantly inhibited the upregulation of \u03b1-Sma and Col1a1 induced by TGF-\u03b2. These findings demonstrated that hAMSC-CM can modulate HSC function via secretory factors and provide a plausible explanation for the protective role of hAMSCs in liver fibrosis.",
+            "year": 2018,
+            "citation_count": 22,
+            "relevance": 2,
+            "explanation": "This paper investigates the effects of conditioned medium from human amnion-derived mesenchymal stem cells on primary hepatic stellate cells, which is partially dependent on the source paper's findings on the use of conditioned medium from human amnion-derived mesenchymal stem cells for treating inflammatory bowel disease."
+        },
+        "llama_output": {},
+        "seed": 42
+    },
+    {
+        "year": 2020,
+        "source_paper": {
+            "paperId": "a92e509fe30e6a002b11c90a52e755578ed777e8",
+            "title": "Conditioned Medium from Human Amnion-Derived Mesenchymal Stem Cells Regulates Activation of Primary Hepatic Stellate Cells",
+            "abstract": "Mesenchymal stem cells (MSCs), or multipotent mesenchymal stromal cells, are present in almost all organs and tissues, including the amnion. Human amnion-derived mesenchymal stem cell (hAMSC) transplantation has been reported to ameliorate liver fibrosis in animal models. However, the mechanism for the prevention of liver fibrosis is poorly understood. In this study, we investigated the effects, and underlying mechanisms, of a conditioned medium obtained from hAMSC cultures (hAMSC-CM) on a primary culture of rat hepatic stellate cells (HSCs). We observed that in routine culture, hAMSC-CM in HSCs significantly inhibited the expression of alpha-smooth muscle actin (\u03b1-SMA), an activation marker of HSCs, and the production of collagen type 1 (COL1), a dominant component of the extracellular matrix (ECM) in the culture medium. In addition, hAMSC-CM upregulated the expression of ECM degradation-related genes, such as metalloproteinase- (Mmp-) 2, Mmp-9, Mmp-13, and tissue inhibitor of metalloproteinase- (Timp-) 1; however, it did not affect the expression of collagen type 1\u03b11 (Col1a1). These regulatory effects on HSCs were concentration-dependent. A cell proliferation assay indicated that hAMSC-CM significantly suppressed HSC proliferation and downregulated the expression of cyclin B (Ccnb), a proliferation-related gene. Transforming growth factor-beta (TGF-\u03b2) treatment further activated HSCs and hAMSC-CM significantly inhibited the upregulation of \u03b1-Sma and Col1a1 induced by TGF-\u03b2. These findings demonstrated that hAMSC-CM can modulate HSC function via secretory factors and provide a plausible explanation for the protective role of hAMSCs in liver fibrosis.",
+            "year": 2018,
+            "citation_count": 22,
+            "relevance": 2,
+            "explanation": "This paper investigates the effects of conditioned medium from human amnion-derived mesenchymal stem cells on primary hepatic stellate cells, which is partially dependent on the source paper's findings on the use of conditioned medium from human amnion-derived mesenchymal stem cells for treating inflammatory bowel disease."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Molecular Pathways Modulated by Mesenchymal Stromal Cells and Their Extracellular Vesicles in Experimental Models of Liver Fibrosis": {
+                    "explanation": "This paper is a review of the current literature on mesenchymal stromal cells (MSCs) and their extracellular vesicles (EVs) in the context of liver fibrosis. While it does not directly build upon the source paper, it discusses the therapeutic potential of MSCs in liver fibrosis, which is related to the source paper's findings on the effects of human amnion-derived mesenchymal stem cells (hAMSCs) on liver fibrosis.",
+                    "relevance": 1
+                },
+                "2. Mesenchymal Stromal Cell-Produced Components of Extracellular Matrix Potentiate Multipotent Stem Cell Response to Differentiation Stimuli": {
+                    "explanation": "This paper investigates the role of mesenchymal stem/stromal cell (MSC)-produced extracellular matrix (ECM) components in regulating the behavior of multipotent stem cells. Although it does not directly reference the source paper, it explores the interaction between MSCs and ECM, which is relevant to the source paper's findings on the effects of hAMSC-conditioned medium on hepatic stellate cells.",
+                    "relevance": 1
+                },
+                "3. Human Umbilical Cord Mesenchymal Stem Cell Differentiation Into Odontoblast-Like Cells and Endothelial Cells: A Potential Cell Source for Dental Pulp Tissue Engineering": {
+                    "explanation": "This paper explores the potential of human umbilical cord mesenchymal stem cells (hUCMSCs) as a cell source for dental pulp tissue engineering. It does not directly reference the source paper and focuses on a different application of mesenchymal stem cells.",
+                    "relevance": 0
+                },
+                "4. Effect of Acellular Amnion With Increased TGF-\u03b2 and bFGF Levels on the Biological Behavior of Tenocytes": {
+                    "explanation": "This paper investigates the effects of acellular amnion on the biological behavior of tenocytes. While it does not directly reference the source paper, it explores the use of amnion-derived materials in tissue engineering, which is related to the source paper's findings on the effects of hAMSCs on liver fibrosis.",
+                    "relevance": 1
+                },
+                "5. Three-dimensional silk fibroin scaffolds enhance the bone formation and angiogenic differentiation of human amniotic mesenchymal stem cells: a biocompatibility analysis": {
+                    "explanation": "This paper investigates the effects of three-dimensional silk fibroin scaffolds on the bone formation and angiogenic differentiation of human amniotic mesenchymal stem cells (hAMSCs). Although it does not directly reference the source paper, it explores the use of hAMSCs in tissue engineering, which is related to the source paper's findings on the effects of hAMSC-conditioned medium on hepatic stellate cells.",
+                    "relevance": 1
+                },
+                "6. Regulation of ERK1/2 and SMAD2/3 Pathways by Using Multi-Layered Electrospun PCL\u2013Amnion Nanofibrous Membranes for the Prevention of Post-Surgical Tendon Adhesion": {
+                    "explanation": "This paper investigates the effects of multi-layered electrospun PCL-amnion nanofibrous membranes on the prevention of post-surgical tendon adhesion. While it does not directly reference the source paper, it explores the use of amnion-derived materials in tissue engineering, which is related to the source paper's findings on the effects of hAMSCs on liver fibrosis.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Molecular Pathways Modulated by Mesenchymal Stromal Cells and Their Extracellular Vesicles in Experimental Models of Liver Fibrosis": {
+                    "explanation": "This paper is a review of the current literature on mesenchymal stromal cells (MSCs) and their extracellular vesicles (EVs) in the context of liver fibrosis. While it does not directly build upon the source paper, it discusses the therapeutic potential of MSCs in liver fibrosis, which is related to the source paper's findings on the effects of human amnion-derived mesenchymal stem cells (hAMSCs) on liver fibrosis.",
+                    "relevance": 1
+                },
+                "2. Mesenchymal Stromal Cell-Produced Components of Extracellular Matrix Potentiate Multipotent Stem Cell Response to Differentiation Stimuli": {
+                    "explanation": "This paper investigates the role of mesenchymal stem/stromal cell (MSC)-produced extracellular matrix (ECM) components in regulating the behavior of multipotent stem cells. Although it does not directly reference the source paper, it explores the interaction between MSCs and ECM, which is relevant to the source paper's findings on the effects of hAMSC-conditioned medium on hepatic stellate cells.",
+                    "relevance": 1
+                },
+                "3. Three-dimensional silk fibroin scaffolds enhance the bone formation and angiogenic differentiation of human amniotic mesenchymal stem cells: a biocompatibility analysis": {
+                    "explanation": "This paper investigates the effects of three-dimensional silk fibroin scaffolds on the bone formation and angiogenic differentiation of human amniotic mesenchymal stem cells (hAMSCs). Although it does not directly reference the source paper, it explores the use of hAMSCs in tissue engineering, which is related to the source paper's findings on the effects of hAMSC-conditioned medium on hepatic stellate cells.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2021,
+        "source_paper": {
+            "paperId": "d7fc8e901d7684e1a8fa9946ee832fe2a71a4438",
+            "title": "Mesenchymal Stromal Cell-Produced Components of Extracellular Matrix Potentiate Multipotent Stem Cell Response to Differentiation Stimuli",
+            "abstract": "Extracellular matrix (ECM) provides both structural support and dynamic microenvironment for cells regulating their behavior and fate. As a critical component of stem cell niche ECM maintains stem cells and activates their proliferation and differentiation under specific stimuli. Mesenchymal stem/stromal cells (MSCs) regulate tissue-specific stem cell functions locating in their immediate microenvironment and producing various bioactive factors, including ECM components. We evaluated the ability of MSC-produced ECM to restore stem and progenitor cell microenvironment in vitro and analyzed the possible mechanisms of its effects. Human MSC cell sheets were decellularized by different agents (detergents, enzymes, and apoptosis inductors) to select the optimized combination (CHAPS and DNAse I) based on the conservation of decellularized ECM (dECM) structure and effectiveness of DNA removal. Prepared dECM was non-immunogenic, supported MSC proliferation and formation of larger colonies in colony-forming unit-assay. Decellularized ECM effectively promoted MSC trilineage differentiation (adipogenic, osteogenic, and chondrogenic) compared to plastic or plastic covered by selected ECM components (collagen, fibronectin, laminin). Interestingly, dECM produced by human fibroblasts could not enhance MSC differentiation like MSC-produced dECM, indicating cell-specific functionality of dECM. We demonstrated the significant integrin contribution in dECM-cell interaction by blocking the stimulatory effects of dECM with RGD peptide and suggested the involvement of key intracellular signaling pathways activation (pERK/ERK and pFAK/FAK axes, pYAP/YAP and beta-catenin) in the observed processes based on the results of inhibitory analysis. Taken together, we suppose that MSC-produced dECM may mimic stem cell niche components in vitro and maintain multipotent progenitor cells to insure their effective response to external differentiating stimuli upon activation. The obtained data provide more insights into the possible role of MSC-produced ECM in stem and progenitor cell regulation within their niches. Our results are also useful for the developing of dECM-based cell-free products for regenerative medicine.",
+            "year": 2020,
+            "citation_count": 60,
+            "relevance": 1,
+            "explanation": "This paper investigates the role of mesenchymal stem/stromal cell (MSC)-produced extracellular matrix (ECM) components in regulating the behavior of multipotent stem cells. Although it does not directly reference the source paper, it explores the interaction between MSCs and ECM, which is relevant to the source paper's findings on the effects of hAMSC-conditioned medium on hepatic stellate cells."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Single-cell dissection of obesity-exercise axis in adipose-muscle tissues": {
+                    "explanation": "This paper explores the effects of exercise on obesity, focusing on the role of mesenchymal stem cells (MSCs) in mediating tissue-specific and multi-tissue effects. Although it does not directly build upon or depend on the source paper's findings, it does mention MSCs, which are the main subject of the source paper. However, the connection is too indirect to be considered relevant, so the score is 0.",
+                    "relevance": 0
+                },
+                "2. Impact of Donor Age on the Osteogenic Supportive Capacity of Mesenchymal Stromal Cell-Derived Extracellular Matrix": {
+                    "explanation": "This paper investigates the impact of donor age on the osteogenic potential of mesenchymal stromal cell (MSC)-derived extracellular matrix (ECM). The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it builds upon the idea that MSC-produced ECM can regulate stem and progenitor cell behavior. The source paper's findings on the role of MSC-produced ECM in stem cell regulation are used as a sub-hypothesis to explore the effects of donor age on ECM's osteogenic supportive capacity.",
+                    "relevance": 2
+                },
+                "3. Self-Organization Provides Cell Fate Commitment in MSC Sheet Condensed Areas via ROCK-Dependent Mechanism": {
+                    "explanation": "This paper explores the role of self-organization in mesenchymal stem/stromal cell (MSC) sheet condensed areas and its impact on cell fate commitment. The key hypothesis in this paper is inspired by the findings of the source paper, as it investigates the mechanisms of MSC self-organization and its effects on cell behavior, which is related to the source paper's findings on MSC-produced ECM's role in regulating stem and progenitor cell behavior.",
+                    "relevance": 1
+                },
+                "4. Human Periodontal Ligament Stem Cells Response to Titanium Implant Surface: Extracellular Matrix Deposition": {
+                    "explanation": "This paper investigates the response of human periodontal ligament stem cells (hPDLSCs) to titanium implant surfaces and the deposition of extracellular matrix (ECM) components. The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it builds upon the idea that ECM components play a crucial role in regulating stem and progenitor cell behavior. The source paper's findings on the role of MSC-produced ECM in stem cell regulation are used as a sub-hypothesis to explore the effects of titanium implant surfaces on ECM deposition and cell behavior.",
+                    "relevance": 2
+                },
+                "5. Decreased Insulin Sensitivity in Telomerase-Immortalized Mesenchymal Stem Cells Affects Efficacy and Outcome of Adipogenic Differentiation in vitro": {
+                    "explanation": "This paper explores the effects of telomerase immortalization on mesenchymal stem/stromal cells (MSCs) and their adipogenic differentiation potential. Although it mentions MSCs, which are the main subject of the source paper, the connection is too indirect to be considered relevant, as it does not build upon or depend on the source paper's findings.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1.Impact of Donor Age on the Osteogenic Supportive Capacity of Mesenchymal Stromal Cell-Derived Extracellular Matrix": {
+                    "explanation": "This paper investigates the impact of donor age on the osteogenic potential of mesenchymal stromal cell (MSC)-derived extracellular matrix (ECM). The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it builds upon the idea that MSC-produced ECM can regulate stem and progenitor cell behavior.",
+                    "relevance": 2
+                },
+                "2.Human Periodontal Ligament Stem Cells Response to Titanium Implant Surface: Extracellular Matrix Deposition": {
+                    "explanation": "This paper investigates the response of human periodontal ligament stem cells (hPDLSCs) to titanium implant surfaces and the deposition of extracellular matrix (ECM) components. The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it builds upon the idea that ECM components play a crucial role in regulating stem and progenitor cell behavior.",
+                    "relevance": 2
+                },
+                "3.Self-Organization Provides Cell Fate Commitment in MSC Sheet Condensed Areas via ROCK-Dependent Mechanism": {
+                    "explanation": "This paper explores the role of self-organization in mesenchymal stem/stromal cell (MSC) sheet condensed areas and its impact on cell fate commitment. The key hypothesis in this paper is inspired by the findings of the source paper, as it investigates the mechanisms of MSC self-organization and its effects on cell behavior.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2022,
+        "source_paper": {
+            "paperId": "d7fc8e901d7684e1a8fa9946ee832fe2a71a4438",
+            "title": "Mesenchymal Stromal Cell-Produced Components of Extracellular Matrix Potentiate Multipotent Stem Cell Response to Differentiation Stimuli",
+            "abstract": "Extracellular matrix (ECM) provides both structural support and dynamic microenvironment for cells regulating their behavior and fate. As a critical component of stem cell niche ECM maintains stem cells and activates their proliferation and differentiation under specific stimuli. Mesenchymal stem/stromal cells (MSCs) regulate tissue-specific stem cell functions locating in their immediate microenvironment and producing various bioactive factors, including ECM components. We evaluated the ability of MSC-produced ECM to restore stem and progenitor cell microenvironment in vitro and analyzed the possible mechanisms of its effects. Human MSC cell sheets were decellularized by different agents (detergents, enzymes, and apoptosis inductors) to select the optimized combination (CHAPS and DNAse I) based on the conservation of decellularized ECM (dECM) structure and effectiveness of DNA removal. Prepared dECM was non-immunogenic, supported MSC proliferation and formation of larger colonies in colony-forming unit-assay. Decellularized ECM effectively promoted MSC trilineage differentiation (adipogenic, osteogenic, and chondrogenic) compared to plastic or plastic covered by selected ECM components (collagen, fibronectin, laminin). Interestingly, dECM produced by human fibroblasts could not enhance MSC differentiation like MSC-produced dECM, indicating cell-specific functionality of dECM. We demonstrated the significant integrin contribution in dECM-cell interaction by blocking the stimulatory effects of dECM with RGD peptide and suggested the involvement of key intracellular signaling pathways activation (pERK/ERK and pFAK/FAK axes, pYAP/YAP and beta-catenin) in the observed processes based on the results of inhibitory analysis. Taken together, we suppose that MSC-produced dECM may mimic stem cell niche components in vitro and maintain multipotent progenitor cells to insure their effective response to external differentiating stimuli upon activation. The obtained data provide more insights into the possible role of MSC-produced ECM in stem and progenitor cell regulation within their niches. Our results are also useful for the developing of dECM-based cell-free products for regenerative medicine.",
+            "year": 2020,
+            "citation_count": 60,
+            "relevance": 1,
+            "explanation": "This paper investigates the role of mesenchymal stem/stromal cell (MSC)-produced extracellular matrix (ECM) components in regulating the behavior of multipotent stem cells. Although it does not directly reference the source paper, it explores the interaction between MSCs and ECM, which is relevant to the source paper's findings on the effects of hAMSC-conditioned medium on hepatic stellate cells."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Fibrotic remodeling and tissue regeneration mechanisms define the therapeutic potential of human muscular progenitors": {
+                    "explanation": "This paper explores the role of muscle precursor cells (MPCs) in regulating fibrosis and tissue regeneration, which is not directly related to the source paper's focus on mesenchymal stromal cell-produced extracellular matrix and its effects on multipotent stem cells.",
+                    "relevance": 0
+                },
+                "2. Current Insights Into the Maintenance of Structure and Function of Intervertebral Disc: A Review of the Regulatory Role of Growth and Differentiation Factor-5": {
+                    "explanation": "This review paper discusses the role of growth and differentiation factor-5 (GDF-5) in maintaining the structure and function of intervertebral discs, which is not directly related to the source paper's focus on mesenchymal stromal cell-produced extracellular matrix and its effects on multipotent stem cells.",
+                    "relevance": 0
+                },
+                "3. Decellularized Extracellular Matrix for Tissue Engineering (Review)": {
+                    "explanation": "This review paper discusses the use of decellularized extracellular matrix for tissue engineering, which is related to the source paper's focus on mesenchymal stromal cell-produced extracellular matrix. However, it does not build upon the source paper's findings or use them as a sub-hypothesis.",
+                    "relevance": 0
+                },
+                "4. Preliminary study on the antigen-removal from extracellular matrix via different decellularization": {
+                    "explanation": "This paper investigates the effects of different decellularization methods on the removal of antigenic components from extracellular matrix, which is related to the source paper's focus on mesenchymal stromal cell-produced extracellular matrix. The paper's hypothesis is partially dependent on the source paper's findings regarding the importance of extracellular matrix in regulating stem cell behavior.",
+                    "relevance": 2
+                },
+                "5. Mesenchymal stem cells support human vascular endothelial cells to form vascular sprouts in human platelet lysate-based matrices": {
+                    "explanation": "This paper explores the role of mesenchymal stem cells in supporting the formation of vascular sprouts in human platelet lysate-based matrices, which is related to the source paper's focus on mesenchymal stromal cell-produced extracellular matrix. However, it does not build upon the source paper's findings or use them as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "6. Decellularization for the retention of tissue niches": {
+                    "explanation": "This review paper discusses the use of decellularization for retaining tissue niches, which is related to the source paper's focus on mesenchymal stromal cell-produced extracellular matrix. However, it does not build upon the source paper's findings or use them as a sub-hypothesis.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Preliminary study on the antigen-removal from extracellular matrix via different decellularization": {
+                    "explanation": "This paper investigates the effects of different decellularization methods on the removal of antigenic components from extracellular matrix, which is related to the source paper's focus on mesenchymal stromal cell-produced extracellular matrix. The paper's hypothesis is partially dependent on the source paper's findings regarding the importance of extracellular matrix in regulating stem cell behavior.",
+                    "relevance": 2
+                },
+                "2. Mesenchymal stem cells support human vascular endothelial cells to form vascular sprouts in human platelet lysate-based matrices": {
+                    "explanation": "This paper explores the role of mesenchymal stem cells in supporting the formation of vascular sprouts in human platelet lysate-based matrices, which is related to the source paper's focus on mesenchymal stromal cell-produced extracellular matrix. However, it does not build upon the source paper's findings or use them as a sub-hypothesis.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2022,
+        "source_paper": {
+            "paperId": "c8bce2c8b53e2a20cbf2fc14d525194f4352443a",
+            "title": "Impact of Donor Age on the Osteogenic Supportive Capacity of Mesenchymal Stromal Cell-Derived Extracellular Matrix",
+            "abstract": "Mesenchymal stromal cells (MSC) have been proposed as an emerging cell-based therapeutic option for regenerative medicine applications as these cells can promote tissue and organ repair. In particular, MSC have been applied for the treatment of bone fractures. However, the healing capacity of these fractures is often compromised by patient\u2019s age. Therefore, considering the use of autologous MSC, we evaluated the impact of donor age on the osteogenic potential of bone marrow (BM)-derived MSC. MSC from older patients (60 and 80 years old) demonstrated impaired proliferative and osteogenic capacities compared to MSC isolated from younger patients (30 and 45 years old), suggesting that aging potentially changes the quantity and quality of MSC. Moreover, in this study, we investigated the capacity of the microenvironment [i.e., extracellular matrix (ECM)] to rescue the impaired proliferative and osteogenic potential of aged MSC. In this context, we aimed to understand if BM MSC features could be modulated by exposure to an ECM derived from cells obtained from young or old donors. When aged MSC were cultured on decellularized ECM derived from young MSC, their in vitro proliferative and osteogenic capacities were enhanced, which did not happen when cultured on old ECM. Our results suggest that the microenvironment, specifically the ECM, plays a crucial role in the quality (assessed in terms of osteogenic differentiation capacity) and quantity of MSC. Specifically, the aging of ECM is determinant of osteogenic differentiation of MSC. In fact, old MSC maintained on a young ECM produced higher amounts of extracellularly deposited calcium (9.10 \u00b1 0.22 vs. 4.69 \u00b1 1.41 \u03bcg.\u03bcl\u20131.10\u20137 cells for young ECM and old ECM, respectively) and up-regulated the expression of osteogenic gene markers such as Runx2 and OPN. Cell rejuvenation by exposure to a functional ECM might be a valuable clinical strategy to overcome the age-related decline in the osteogenic potential of MSC by recapitulating a younger microenvironment, attenuating the effects of aging on the stem cell niche. Overall, this study provides new insights on the osteogenic potential of MSC during aging and opens new possibilities for developing clinical strategies for elderly patients with limited bone formation capacity who currently lack effective treatments.",
+            "year": 2021,
+            "citation_count": 29,
+            "relevance": 2,
+            "explanation": "This paper investigates the impact of donor age on the osteogenic potential of mesenchymal stromal cell (MSC)-derived extracellular matrix (ECM). The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it builds upon the idea that MSC-produced ECM can regulate stem and progenitor cell behavior."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Long-term stimulation with alternating electric fields modulates the differentiation and mineralization of human pre-osteoblasts": {
+                    "explanation": "The paper explores the effects of alternating electric fields on osteoblast differentiation, which is related to the osteogenic potential of mesenchymal stromal cells discussed in the source paper. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "2. Comprehensive Analysis of Novel Genes and Pathways Associated with Osteogenic Differentiation of Adipose Stem Cells": {
+                    "explanation": "The paper investigates the genetic and molecular mechanisms underlying osteogenic differentiation of adipose-derived stem cells, which is related to the osteogenic potential of mesenchymal stromal cells discussed in the source paper. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "3. Universal or Personalized Mesenchymal Stem Cell Therapies: Impact of Age, Sex, and Biological Source": {
+                    "explanation": "The paper reviews the impact of age, sex, and biological source on mesenchymal stem cell therapies, which is related to the source paper's discussion of the impact of donor age on the osteogenic potential of mesenchymal stromal cells. The paper builds upon the idea that age can affect the osteogenic potential of MSCs, but it does not directly depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "4. Importance of Matrix Cues on Intervertebral Disc Development, Degeneration, and Regeneration": {
+                    "explanation": "The paper discusses the role of matrix cues in intervertebral disc development and degeneration, which is related to the source paper's discussion of the microenvironment's impact on the osteogenic potential of mesenchymal stromal cells. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "5. One of the Primary Functions of Tissue-Resident Pluripotent Pericytes Cells May Be to Regulate Normal Organ Growth and Maturation: Implications for Attempts to Repair Tissues Later in Life": {
+                    "explanation": "The paper discusses the role of pericytes in regulating organ growth and maturation, which is related to the source paper's discussion of the impact of aging on the osteogenic potential of mesenchymal stromal cells. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "6. Recent Advances in Enhancement Strategies for Osteogenic Differentiation of Mesenchymal Stem Cells in Bone Tissue Engineering": {
+                    "explanation": "The paper reviews recent advances in enhancement strategies for osteogenic differentiation of mesenchymal stem cells, which is related to the source paper's discussion of the osteogenic potential of mesenchymal stromal cells. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "7. Stem Cell Transplantation and Cell-Free Treatment for Periodontal Regeneration": {
+                    "explanation": "The paper reviews the efficacy of stem cell transplantation for periodontal regeneration, which is related to the source paper's discussion of mesenchymal stromal cells in regenerative medicine. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Long-term stimulation with alternating electric fields modulates the differentiation and mineralization of human pre-osteoblasts": {
+                    "explanation": "The paper explores the effects of alternating electric fields on osteoblast differentiation, which is related to the osteogenic potential of mesenchymal stromal cells discussed in the source paper.",
+                    "relevance": 1
+                },
+                "2. Comprehensive Analysis of Novel Genes and Pathways Associated with Osteogenic Differentiation of Adipose Stem Cells": {
+                    "explanation": "The paper investigates the genetic and molecular mechanisms underlying osteogenic differentiation of adipose-derived stem cells, which is related to the osteogenic potential of mesenchymal stromal cells discussed in the source paper.",
+                    "relevance": 1
+                },
+                "3. Universal or Personalized Mesenchymal Stem Cell Therapies: Impact of Age, Sex, and Biological Source": {
+                    "explanation": "The paper reviews the impact of age, sex, and biological source on mesenchymal stem cell therapies, which is related to the source paper's discussion of the impact of donor age on the osteogenic potential of mesenchymal stromal cells.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2023,
+        "source_paper": {
+            "paperId": "c8bce2c8b53e2a20cbf2fc14d525194f4352443a",
+            "title": "Impact of Donor Age on the Osteogenic Supportive Capacity of Mesenchymal Stromal Cell-Derived Extracellular Matrix",
+            "abstract": "Mesenchymal stromal cells (MSC) have been proposed as an emerging cell-based therapeutic option for regenerative medicine applications as these cells can promote tissue and organ repair. In particular, MSC have been applied for the treatment of bone fractures. However, the healing capacity of these fractures is often compromised by patient\u2019s age. Therefore, considering the use of autologous MSC, we evaluated the impact of donor age on the osteogenic potential of bone marrow (BM)-derived MSC. MSC from older patients (60 and 80 years old) demonstrated impaired proliferative and osteogenic capacities compared to MSC isolated from younger patients (30 and 45 years old), suggesting that aging potentially changes the quantity and quality of MSC. Moreover, in this study, we investigated the capacity of the microenvironment [i.e., extracellular matrix (ECM)] to rescue the impaired proliferative and osteogenic potential of aged MSC. In this context, we aimed to understand if BM MSC features could be modulated by exposure to an ECM derived from cells obtained from young or old donors. When aged MSC were cultured on decellularized ECM derived from young MSC, their in vitro proliferative and osteogenic capacities were enhanced, which did not happen when cultured on old ECM. Our results suggest that the microenvironment, specifically the ECM, plays a crucial role in the quality (assessed in terms of osteogenic differentiation capacity) and quantity of MSC. Specifically, the aging of ECM is determinant of osteogenic differentiation of MSC. In fact, old MSC maintained on a young ECM produced higher amounts of extracellularly deposited calcium (9.10 \u00b1 0.22 vs. 4.69 \u00b1 1.41 \u03bcg.\u03bcl\u20131.10\u20137 cells for young ECM and old ECM, respectively) and up-regulated the expression of osteogenic gene markers such as Runx2 and OPN. Cell rejuvenation by exposure to a functional ECM might be a valuable clinical strategy to overcome the age-related decline in the osteogenic potential of MSC by recapitulating a younger microenvironment, attenuating the effects of aging on the stem cell niche. Overall, this study provides new insights on the osteogenic potential of MSC during aging and opens new possibilities for developing clinical strategies for elderly patients with limited bone formation capacity who currently lack effective treatments.",
+            "year": 2021,
+            "citation_count": 29,
+            "relevance": 2,
+            "explanation": "This paper investigates the impact of donor age on the osteogenic potential of mesenchymal stromal cell (MSC)-derived extracellular matrix (ECM). The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it builds upon the idea that MSC-produced ECM can regulate stem and progenitor cell behavior."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Cell Therapy of Vascular and Neuropathic Complications of Diabetes: Can We Avoid Limb Amputation?": {
+                    "explanation": "This paper discusses the potential of cell therapy in treating vascular and neuropathic complications of diabetes, but it does not build upon the source paper's findings or hypothesis regarding the impact of donor age on the osteogenic supportive capacity of mesenchymal stromal cell-derived extracellular matrix.",
+                    "relevance": 0
+                },
+                "2. Potential and Limitations of Induced Pluripotent Stem Cells-Derived Mesenchymal Stem Cells in Musculoskeletal Disorders Treatment": {
+                    "explanation": "This paper reviews the therapeutic potential of induced pluripotent stem cells-derived mesenchymal stem cells in treating musculoskeletal disorders, which is related to the source paper's topic of mesenchymal stromal cells, but it does not directly build upon the source paper's findings or hypothesis.",
+                    "relevance": 1
+                },
+                "3. Hydroxyapatite-filled osteoinductive and piezoelectric nanofibers for bone tissue engineering": {
+                    "explanation": "This paper presents a novel biomaterial for bone tissue engineering, which is related to the source paper's topic of osteogenic supportive capacity, but it does not directly build upon the source paper's findings or hypothesis.",
+                    "relevance": 1
+                },
+                "4. Engineering of extracellular matrix from human iPSC-mesenchymal progenitors to enhance osteogenic capacity of human bone marrow stromal cells independent of their age": {
+                    "explanation": "This paper investigates the use of extracellular matrix from human iPSC-mesenchymal progenitors to enhance the osteogenic capacity of human bone marrow stromal cells, which is closely related to the source paper's hypothesis regarding the impact of donor age on the osteogenic supportive capacity of mesenchymal stromal cell-derived extracellular matrix.",
+                    "relevance": 2
+                },
+                "5. Enhanced Proliferative and Osteogenic Potential of Periodontal Ligament Stromal Cells": {
+                    "explanation": "This paper characterizes the osteogenic potential of periodontal ligament stromal cells, which is related to the source paper's topic of osteogenic supportive capacity, but it does not directly build upon the source paper's findings or hypothesis.",
+                    "relevance": 1
+                },
+                "6. Cell-derived ECM loaded electrospun Polycaprolactone/Chitosan nanofibrous scaffolds for periodontal regeneration": {
+                    "explanation": "This paper presents a novel biomaterial for periodontal regeneration, which is related to the source paper's topic of osteogenic supportive capacity, but it does not directly build upon the source paper's findings or hypothesis.",
+                    "relevance": 1
+                },
+                "7. Mesenchymal Stromal Cells as a Driver of Inflammaging": {
+                    "explanation": "This paper reviews the role of mesenchymal stromal cells in inflammaging, which is related to the source paper's topic of mesenchymal stromal cells, but it does not directly build upon the source paper's findings or hypothesis.",
+                    "relevance": 1
+                },
+                "8. Rejuvenation of Mesenchymal Stem Cells to Ameliorate Skeletal Aging": {
+                    "explanation": "This paper reviews the concept of rejuvenating mesenchymal stem cells to ameliorate skeletal aging, which is closely related to the source paper's hypothesis regarding the impact of donor age on the osteogenic supportive capacity of mesenchymal stromal cell-derived extracellular matrix.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Engineering of extracellular matrix from human iPSC-mesenchymal progenitors to enhance osteogenic capacity of human bone marrow stromal cells independent of their age": {
+                    "explanation": "This paper investigates the use of extracellular matrix from human iPSC-mesenchymal progenitors to enhance the osteogenic capacity of human bone marrow stromal cells, which is closely related to the source paper's hypothesis regarding the impact of donor age on the osteogenic supportive capacity of mesenchymal stromal cell-derived extracellular matrix.",
+                    "relevance": 2
+                },
+                "2. Rejuvenation of Mesenchymal Stem Cells to Ameliorate Skeletal Aging": {
+                    "explanation": "This paper reviews the concept of rejuvenating mesenchymal stem cells to ameliorate skeletal aging, which is closely related to the source paper's hypothesis regarding the impact of donor age on the osteogenic supportive capacity of mesenchymal stromal cell-derived extracellular matrix.",
+                    "relevance": 2
+                },
+                "3. Potential and Limitations of Induced Pluripotent Stem Cells-Derived Mesenchymal Stem Cells in Musculoskeletal Disorders Treatment": {
+                    "explanation": "This paper reviews the therapeutic potential of induced pluripotent stem cells-derived mesenchymal stem cells in treating musculoskeletal disorders, which is related to the source paper's topic of mesenchymal stromal cells, but it does not directly build upon the source paper's findings or hypothesis.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2024,
+        "source_paper": {
+            "paperId": "584af9fc5025f596a98415edd1445c450ea73ba6",
+            "title": "Rejuvenation of Mesenchymal Stem Cells to Ameliorate Skeletal Aging",
+            "abstract": "Advanced age is a shared risk factor for many chronic and debilitating skeletal diseases including osteoporosis and periodontitis. Mesenchymal stem cells develop various aging phenotypes including the onset of senescence, intrinsic loss of regenerative potential and exacerbation of inflammatory microenvironment via secretory factors. This review elaborates on the emerging concepts on the molecular and epigenetic mechanisms of MSC senescence, such as the accumulation of oxidative stress, DNA damage and mitochondrial dysfunction. Senescent MSCs aggravate local inflammation, disrupt bone remodeling and bone-fat balance, thereby contributing to the progression of age-related bone diseases. Various rejuvenation strategies to target senescent MSCs could present a promising paradigm to restore skeletal aging.",
+            "year": 2023,
+            "citation_count": 7,
+            "relevance": 2,
+            "explanation": "This paper reviews the concept of rejuvenating mesenchymal stem cells to ameliorate skeletal aging, which is closely related to the source paper's hypothesis regarding the impact of donor age on the osteogenic supportive capacity of mesenchymal stromal cell-derived extracellular matrix."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Simultaneous generation of osteoblasts and adipocytes by a bivalent differentiation medium from bone marrow stromal/stem cells (BMSCs)": {
+                    "explanation": "This paper explores a new method for differentiating bone marrow stromal/stem cells into osteoblasts and adipocytes, but does not directly build upon or reference the source paper's findings on mesenchymal stem cell rejuvenation and skeletal aging.",
+                    "relevance": 0
+                },
+                "2. Glutaminase-1 inhibition alleviates senescence of Wharton\u2019s jelly-derived mesenchymal stem cells via senolysis": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates a specific mechanism (GLS1 inhibition) to alleviate senescence in mesenchymal stem cells, which is a key concept explored in the source paper.",
+                    "relevance": 2
+                },
+                "3. Rejuvenating aged stem cells: therapeutic strategies to extend health and lifespan": {
+                    "explanation": "This paper is a review of therapeutic strategies to rejuvenate aged stem cells, which is a broader topic that encompasses the source paper's focus on mesenchymal stem cell rejuvenation and skeletal aging. However, it does not directly build upon or reference the source paper's findings.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Glutaminase-1 inhibition alleviates senescence of Wharton\u2019s jelly-derived mesenchymal stem cells via senolysis": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates a specific mechanism (GLS1 inhibition) to alleviate senescence in mesenchymal stem cells, which is a key concept explored in the source paper.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    }
+]

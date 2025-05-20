@@ -1,0 +1,153 @@
+[
+    {
+        "year": 1997,
+        "source_paper": {
+            "paperId": "cc772b802b96811ff94075446a998cf2ccedf061",
+            "pmid": "7833518",
+            "title": "The use of absorbable clips in laparoscopic cholecystectomy.",
+            "abstract": "A prospective randomized controlled study was conducted to evaluate the use of absorbable clips in elective laparoscopic cholecystectomy. Fifty consecutive patients, 36 females and 14 males, were randomized into two groups. Group 1 patients had metal clips, and group 2 patients had absorbable clips applied on the cystic duct and cystic artery. These patients were followed for 3 months postoperatively. There was no difference between the two groups with regard to operative time, hospital stay, and postoperative complications. The absorbable clips were as effective as the metal clips in providing hemostasis and securing on the cystic duct stump.",
+            "year": 1994,
+            "citation_count": 18
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Initial experience with an absorbable laparoscopic ligation clip": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it evaluates the efficacy of an absorbable ligation clip, which was previously shown to be effective in laparoscopic cholecystectomy in the source paper.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Initial experience with an absorbable laparoscopic ligation clip": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it evaluates the efficacy of an absorbable ligation clip, which was previously shown to be effective in laparoscopic cholecystectomy in the source paper.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2003,
+        "source_paper": {
+            "paperId": "daaacdd3b7f916da65d95bba4353575339b044bc",
+            "title": "Initial experience with an absorbable laparoscopic ligation clip",
+            "abstract": "Background Laparoscopic surgery requires secure and safe methods of ligation and haemostasis. This study evaluated the efficacy of an absorbable ligation clip with a novel compression closure mechanism.",
+            "year": 1997,
+            "citation_count": 11,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it evaluates the efficacy of an absorbable ligation clip, which was previously shown to be effective in laparoscopic cholecystectomy in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Laparoscopic cholecystectomy: retrospective comparative evaluation of titanium versus absorbable clips.": {
+                    "explanation": "This paper builds upon the source paper by evaluating the efficacy of absorbable clips, which is the same type of clip discussed in the source paper. The paper explores the comparison between absorbable clips and titanium clips in laparoscopic cholecystectomy, and its hypothesis is inspired by the findings of the source paper regarding the novel compression closure mechanism of absorbable ligation clips.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Laparoscopic cholecystectomy: retrospective comparative evaluation of titanium versus absorbable clips.": {
+                    "explanation": "This paper builds upon the source paper by evaluating the efficacy of absorbable clips, which is the same type of clip discussed in the source paper. The paper explores the comparison between absorbable clips and titanium clips in laparoscopic cholecystectomy, and its hypothesis is inspired by the findings of the source paper regarding the novel compression closure mechanism of absorbable ligation clips.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2010,
+        "source_paper": {
+            "paperId": "05f04f4d3b49232b9352877d9e53a5f35506d98b",
+            "title": "Laparoscopic cholecystectomy: retrospective comparative evaluation of titanium versus absorbable clips.",
+            "abstract": "We present a retrospective study of the use of titanium and absorbable clips during laparoscopic cholecystectomy. The aim was to determine any differences in outcome and costs. From January 1999 to February 2002, 690 patients who had successfully undergone a laparoscopic cholecystectomy were reviewed. According to the type of clip, we retrospectively identified two groups of patients: 199 in whom the surgeons had used absorbable clips (absorbable clip group, ACG) and 491 in whom the surgeons had used titanium nonabsorbable clips (titanium clip group, TCG). Data about demographics, operation, results, complications, and follow-up were collected and matched in the two groups. Demographics, concomitant surgery, and the American Society of Anesthesiologists (ASA) status were comparable between the two groups. Although the proportions of cases requiring urgent operation, intraoperative cholangiography, use of a fourth trocar, and use of drainage suction were similar, the difficulty score of the operation was lower (6.3 vs. 7.0, P =.03) and the operative time was shorter (44 vs. 61 minutes, P <.0001) in the ACG than in the TCG. Complications, hospital stay, and long-term results were satisfactory and comparable between the two groups. No correlation was found between clip type and the incidence of biliary tree injuries, bleeding, wound infection, or readmission. The cost of the two types of clips varied slightly (90 euros for each procedure). Despite the fact that absorbable clips are theoretically less likely to cause complications than metallic ones, we were not able to demonstrate any clinical advantage during laparoscopic cholecystectomy in this retrospective study. Furthermore, the results suggest that absorbable clips are preferred when the cholecystectomy presents fewer difficulties.",
+            "year": 2003,
+            "citation_count": 20,
+            "relevance": 1,
+            "explanation": "This paper builds upon the source paper by evaluating the efficacy of absorbable clips, which is the same type of clip discussed in the source paper. The paper explores the comparison between absorbable clips and titanium clips in laparoscopic cholecystectomy, and its hypothesis is inspired by the findings of the source paper regarding the novel compression closure mechanism of absorbable ligation clips."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Effectiveness of Laparoscopic Surgery for Gallstones and Common Bile Duct Lithiasis: a Systematic Overview": {
+                    "explanation": "This paper is a systematic review of the literature, summarizing existing evidence on laparoscopic surgery for gallstones and common bile duct lithiasis. While it discusses laparoscopic cholecystectomy, it does not build upon or depend on the findings of the source paper, and instead provides a broader overview of the topic.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2010,
+        "source_paper": {
+            "paperId": "05f04f4d3b49232b9352877d9e53a5f35506d98b",
+            "title": "Laparoscopic cholecystectomy: retrospective comparative evaluation of titanium versus absorbable clips.",
+            "abstract": "We present a retrospective study of the use of titanium and absorbable clips during laparoscopic cholecystectomy. The aim was to determine any differences in outcome and costs. From January 1999 to February 2002, 690 patients who had successfully undergone a laparoscopic cholecystectomy were reviewed. According to the type of clip, we retrospectively identified two groups of patients: 199 in whom the surgeons had used absorbable clips (absorbable clip group, ACG) and 491 in whom the surgeons had used titanium nonabsorbable clips (titanium clip group, TCG). Data about demographics, operation, results, complications, and follow-up were collected and matched in the two groups. Demographics, concomitant surgery, and the American Society of Anesthesiologists (ASA) status were comparable between the two groups. Although the proportions of cases requiring urgent operation, intraoperative cholangiography, use of a fourth trocar, and use of drainage suction were similar, the difficulty score of the operation was lower (6.3 vs. 7.0, P =.03) and the operative time was shorter (44 vs. 61 minutes, P <.0001) in the ACG than in the TCG. Complications, hospital stay, and long-term results were satisfactory and comparable between the two groups. No correlation was found between clip type and the incidence of biliary tree injuries, bleeding, wound infection, or readmission. The cost of the two types of clips varied slightly (90 euros for each procedure). Despite the fact that absorbable clips are theoretically less likely to cause complications than metallic ones, we were not able to demonstrate any clinical advantage during laparoscopic cholecystectomy in this retrospective study. Furthermore, the results suggest that absorbable clips are preferred when the cholecystectomy presents fewer difficulties.",
+            "year": 2003,
+            "citation_count": 20,
+            "relevance": 1,
+            "explanation": "This paper builds upon the source paper by evaluating the efficacy of absorbable clips, which is the same type of clip discussed in the source paper. The paper explores the comparison between absorbable clips and titanium clips in laparoscopic cholecystectomy, and its hypothesis is inspired by the findings of the source paper regarding the novel compression closure mechanism of absorbable ligation clips."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Effectiveness of Laparoscopic Surgery for Gallstones and Common Bile Duct Lithiasis: a Systematic Overview": {
+                    "explanation": "This paper is a systematic review of laparoscopic surgery for gallstones and common bile duct lithiasis, which includes a broad topic of laparoscopic cholecystectomy discussed in the source paper. However, it is a review paper and does not present any novel findings or hypotheses inspired by or dependent on the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2012,
+        "source_paper": {
+            "paperId": "05f04f4d3b49232b9352877d9e53a5f35506d98b",
+            "title": "Laparoscopic cholecystectomy: retrospective comparative evaluation of titanium versus absorbable clips.",
+            "abstract": "We present a retrospective study of the use of titanium and absorbable clips during laparoscopic cholecystectomy. The aim was to determine any differences in outcome and costs. From January 1999 to February 2002, 690 patients who had successfully undergone a laparoscopic cholecystectomy were reviewed. According to the type of clip, we retrospectively identified two groups of patients: 199 in whom the surgeons had used absorbable clips (absorbable clip group, ACG) and 491 in whom the surgeons had used titanium nonabsorbable clips (titanium clip group, TCG). Data about demographics, operation, results, complications, and follow-up were collected and matched in the two groups. Demographics, concomitant surgery, and the American Society of Anesthesiologists (ASA) status were comparable between the two groups. Although the proportions of cases requiring urgent operation, intraoperative cholangiography, use of a fourth trocar, and use of drainage suction were similar, the difficulty score of the operation was lower (6.3 vs. 7.0, P =.03) and the operative time was shorter (44 vs. 61 minutes, P <.0001) in the ACG than in the TCG. Complications, hospital stay, and long-term results were satisfactory and comparable between the two groups. No correlation was found between clip type and the incidence of biliary tree injuries, bleeding, wound infection, or readmission. The cost of the two types of clips varied slightly (90 euros for each procedure). Despite the fact that absorbable clips are theoretically less likely to cause complications than metallic ones, we were not able to demonstrate any clinical advantage during laparoscopic cholecystectomy in this retrospective study. Furthermore, the results suggest that absorbable clips are preferred when the cholecystectomy presents fewer difficulties.",
+            "year": 2003,
+            "citation_count": 20,
+            "relevance": 1,
+            "explanation": "This paper builds upon the source paper by evaluating the efficacy of absorbable clips, which is the same type of clip discussed in the source paper. The paper explores the comparison between absorbable clips and titanium clips in laparoscopic cholecystectomy, and its hypothesis is inspired by the findings of the source paper regarding the novel compression closure mechanism of absorbable ligation clips."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Thoracic empyema due to migrated endoclips after laparoscopic cholecystectomy": {
+                    "explanation": "This paper is relevant to the source paper as it discusses a complication related to the use of endoclips in laparoscopic cholecystectomy. The source paper compared the use of titanium and absorbable clips during the same procedure. The hypothesis in this paper is partially dependent on the findings of the source paper, as it highlights a potential risk associated with the use of metal clips, which were also used in the source paper.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Thoracic empyema due to migrated endoclips after laparoscopic cholecystectomy": {
+                    "explanation": "This paper is relevant to the source paper as it discusses a complication related to the use of endoclips in laparoscopic cholecystectomy. The source paper compared the use of titanium and absorbable clips during the same procedure. The hypothesis in this paper is partially dependent on the findings of the source paper, as it highlights a potential risk associated with the use of metal clips, which were also used in the source paper.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2016,
+        "source_paper": {
+            "paperId": "0dd7e981eef4ca87c5e59523ca6a2dc869bf3141",
+            "title": "Thoracic empyema due to migrated endoclips after laparoscopic cholecystectomy",
+            "abstract": "We describe the case of a patient who developed right thoracic empyema 1 year after laparoscopic cholecystectomy. The patient experienced right chest pain and swelling; radiography and CT showed an intrathoracic abscess penetrating the extrathoracic space and the presence of metal clips over the diaphragm. After drainage of the subcutaneous abscess, fluid accumulation decreased; bacterial examination showed no positive findings. Another year later, the patient's condition relapsed. We thought that the empyema may have been caused by endoclips that had migrated. We performed thoracoplasty and retrieved three endoclips from the intrathoracic empyema cavity. The patient showed good recovery after the operation.",
+            "year": 2012,
+            "citation_count": 5,
+            "relevance": 2,
+            "explanation": "This paper is relevant to the source paper as it discusses a complication related to the use of endoclips in laparoscopic cholecystectomy. The source paper compared the use of titanium and absorbable clips during the same procedure. The hypothesis in this paper is partially dependent on the findings of the source paper, as it highlights a potential risk associated with the use of metal clips, which were also used in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Pull-off characteristics of double-shanked compared to single-shanked ligation clips: an animal study": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the safety and efficacy of surgical ligation clips, which were implicated in the source paper as a potential cause of thoracic empyema due to migration.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Pull-off characteristics of double-shanked compared to single-shanked ligation clips: an animal study": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the safety and efficacy of surgical ligation clips, which were implicated in the source paper as a potential cause of thoracic empyema due to migration.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    }
+]

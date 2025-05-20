@@ -1,0 +1,53 @@
+[
+    {
+        "year": 2005,
+        "source_paper": {
+            "paperId": "8533df6b01100a8c9d092ef31f874c7917a860df",
+            "pmid": "15479169",
+            "title": "Efficacy of Bofu\u2010tsusho\u2010san, an oriental herbal medicine, in obese Japanese women with impaired glucose tolerance",
+            "abstract": "1.\u2002In the present study, we conducted the first randomized, double\u2010blind, placebo\u2010controlled study of bofu\u2010tsusho\u2010san (BF), an oriental herbal medicine (24 mg/day ephedrine in Ephedrae Herba and an efficacy equivalent of 280 mg caffeine, judging from the phosphodiesterase\u2010inhibitory effect of Glycyrrhizae Radix, Forsythiae Fructus and Schizonepetae Spica and another 14 crude drugs) in obese women with impaired glucose tolerance (IGT).",
+            "year": 2004,
+            "citation_count": 90
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Bofutsushosan, a traditional Chinese formulation, prevents intimal thickening and vascular smooth muscle cell proliferation induced by balloon endothelial denudation in rats.": {
+                    "explanation": "This paper investigates the preventive effect of Bofutsushosan on intimal thickening, which is a different aspect from the source paper's focus on impaired glucose tolerance in obese women. However, it is related to the source paper as both studies examine the effects of Bofutsushosan, suggesting a relevance score of 1.",
+                    "relevance": 1
+                },
+                "2. Usefulness of a Japanese herbal medicine, 'Bofu-tsusho-san' with tailor-made diet therapy in subjects with metabolic syndrome": {
+                    "explanation": "This paper appears to be directly related to the source paper as it also investigates the effects of Bofu-tsusho-san, but with a focus on metabolic syndrome. The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as both studies examine the efficacy of Bofu-tsusho-san in different contexts.",
+                    "relevance": 2
+                },
+                "3. Pathophysiology and diagnostic value of urinary trypsin inhibitors": {
+                    "explanation": "This paper does not appear to be related to the source paper, as it discusses urinary trypsin inhibitors and their role in inflammation, which is a different topic from the source paper's focus on Bofu-tsusho-san and impaired glucose tolerance.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Usefulness of a Japanese herbal medicine, 'Bofu-tsusho-san' with tailor-made diet therapy in subjects with metabolic syndrome": {
+                    "explanation": "This paper appears to be directly related to the source paper as it also investigates the effects of Bofu-tsusho-san, but with a focus on metabolic syndrome. The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as both studies examine the efficacy of Bofu-tsusho-san in different contexts.",
+                    "relevance": 2
+                },
+                "2. Bofutsushosan, a traditional Chinese formulation, prevents intimal thickening and vascular smooth muscle cell proliferation induced by balloon endothelial denudation in rats.": {
+                    "explanation": "This paper investigates the preventive effect of Bofutsushosan on intimal thickening, which is a different aspect from the source paper's focus on impaired glucose tolerance in obese women. However, it is related to the source paper as both studies examine the effects of Bofutsushosan, suggesting a relevance score of 1.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2006,
+        "source_paper": {
+            "paperId": "8533df6b01100a8c9d092ef31f874c7917a860df",
+            "pmid": "15479169",
+            "title": "Efficacy of Bofu\u2010tsusho\u2010san, an oriental herbal medicine, in obese Japanese women with impaired glucose tolerance",
+            "abstract": "1.\u2002In the present study, we conducted the first randomized, double\u2010blind, placebo\u2010controlled study of bofu\u2010tsusho\u2010san (BF), an oriental herbal medicine (24 mg/day ephedrine in Ephedrae Herba and an efficacy equivalent of 280 mg caffeine, judging from the phosphodiesterase\u2010inhibitory effect of Glycyrrhizae Radix, Forsythiae Fructus and Schizonepetae Spica and another 14 crude drugs) in obese women with impaired glucose tolerance (IGT).",
+            "year": 2004,
+            "citation_count": 90
+        },
+        "llama_output": {},
+        "seed": 42
+    }
+]

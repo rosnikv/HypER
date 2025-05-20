@@ -1,0 +1,49 @@
+[
+    {
+        "year": 1983,
+        "source_paper": {
+            "paperId": "7c7a83f49909e15704bdc92901f924bc4d2e9cd6",
+            "pmid": "7074797",
+            "title": "Treadmill test responses to an early exercise program after myocardial infarction: a randomized study.",
+            "abstract": "The effects of an exercise program started early after myocardial infraction and the added effects of an outpatient teaching-counseling program were studied. At random, 84 patients were allocated to a control group (A), 88 patients to an exercise group (B1) and 86 patients to an exercise and teaching-counseling group (B2). The same exercise program was prescribed for patients in groups B1 and B2 and was started about 4.5 days after myocardial infarction and continued for 3 months. The outpatient teaching-counseling program consisted of eight group sessions pertaining to risk factor reduction and psychosocial adjustment to myocardial infraction. A low-level treadmill test and an exercise test were performed at 3 months and the exercise test was repeated at 6 months. The clinical, hemodynamic and electrocardiographic responses to these tests were not different among the three groups. However, by the end of 3 months, patients in group B1 and B2 reported walking greater distances than patients in group A. The incidence of morbidity and mortality was not different between the groups. No deleterious or beneficial physiologic effects of an exercise program either by itself or combined with a teaching-counseling program were demonstrated. Routine medical care and our interventions were equally effective in permitting the spontaneous hemodynamics improvements after myocardial infraction. More than 3 months after myocardial infarction, the group as a whole manifested spontaneous recovery in the form of a significant decrease in resting heart rate (p less than 0.001) and a significant increase in systolic and diastolic blood pressure at rest and with submaximal exercise (p less than 0.001). No further improvements were observed between 3 and 6 months.",
+            "year": 1982,
+            "citation_count": 56
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Exercise testing and cardiac rehabilitation in patients with coronary artery disease": {
+                    "explanation": "This paper discusses the use of exercise testing in cardiac rehabilitation for patients with coronary artery disease, which is a related topic to the source paper's focus on exercise programs after myocardial infarction. However, the paper does not specifically build upon or use the findings of the source paper as a sub-hypothesis. The connection is more general, as both papers deal with exercise and cardiac health.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Exercise testing and cardiac rehabilitation in patients with coronary artery disease": {
+                    "explanation": "This paper discusses the use of exercise testing in cardiac rehabilitation for patients with coronary artery disease, which is a related topic to the source paper's focus on exercise programs after myocardial infarction. However, the paper does not specifically build upon or use the findings of the source paper as a sub-hypothesis. The connection is more general, as both papers deal with exercise and cardiac health.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 1984,
+        "source_paper": {
+            "paperId": "7c7a83f49909e15704bdc92901f924bc4d2e9cd6",
+            "pmid": "7074797",
+            "title": "Treadmill test responses to an early exercise program after myocardial infarction: a randomized study.",
+            "abstract": "The effects of an exercise program started early after myocardial infraction and the added effects of an outpatient teaching-counseling program were studied. At random, 84 patients were allocated to a control group (A), 88 patients to an exercise group (B1) and 86 patients to an exercise and teaching-counseling group (B2). The same exercise program was prescribed for patients in groups B1 and B2 and was started about 4.5 days after myocardial infarction and continued for 3 months. The outpatient teaching-counseling program consisted of eight group sessions pertaining to risk factor reduction and psychosocial adjustment to myocardial infraction. A low-level treadmill test and an exercise test were performed at 3 months and the exercise test was repeated at 6 months. The clinical, hemodynamic and electrocardiographic responses to these tests were not different among the three groups. However, by the end of 3 months, patients in group B1 and B2 reported walking greater distances than patients in group A. The incidence of morbidity and mortality was not different between the groups. No deleterious or beneficial physiologic effects of an exercise program either by itself or combined with a teaching-counseling program were demonstrated. Routine medical care and our interventions were equally effective in permitting the spontaneous hemodynamics improvements after myocardial infraction. More than 3 months after myocardial infarction, the group as a whole manifested spontaneous recovery in the form of a significant decrease in resting heart rate (p less than 0.001) and a significant increase in systolic and diastolic blood pressure at rest and with submaximal exercise (p less than 0.001). No further improvements were observed between 3 and 6 months.",
+            "year": 1982,
+            "citation_count": 56
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Rehabilitation of the MI survivor. Management options to maximize posthospital outcome.": {
+                    "explanation": "This paper discusses the rehabilitation of myocardial infarction survivors, which is a related topic to the source paper. However, it does not build upon or use the findings of the source paper as a sub-hypothesis. Instead, it presents a general overview of rehabilitation goals and management options, making it not directly connected to the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    }
+]

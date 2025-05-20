@@ -1,0 +1,113 @@
+[
+    {
+        "year": 2000,
+        "source_paper": {
+            "paperId": "0da78bc01a90ee89e50fa417f94f9bcc35e8b38b",
+            "pmid": "9037222",
+            "title": "A double-blind study of perioperative steroid requirements in secondary adrenal insufficiency.",
+            "abstract": null,
+            "year": 1997,
+            "citation_count": 138
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Perioperative Management of Selected Endocrine Disorders": {
+                    "explanation": "This paper is a review paper that discusses the perioperative management of endocrine disorders, but it does not specifically address the topic of secondary adrenal insufficiency or perioperative steroid requirements, which are the main focus of the source paper.",
+                    "relevance": 0
+                },
+                "2. Role of biochemical assessment in management of corticosteroid withdrawal": {
+                    "explanation": "This paper is a review paper that discusses the role of biochemical assessment in managing corticosteroid withdrawal, which is related to the topic of secondary adrenal insufficiency and perioperative steroid requirements. However, it does not specifically build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2000,
+        "source_paper": {
+            "paperId": "0da78bc01a90ee89e50fa417f94f9bcc35e8b38b",
+            "pmid": "9037222",
+            "title": "A double-blind study of perioperative steroid requirements in secondary adrenal insufficiency.",
+            "abstract": null,
+            "year": 1997,
+            "citation_count": 138
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Perioperative Management of Selected Endocrine Disorders": {
+                    "explanation": "This paper is a review paper that discusses the perioperative management of endocrine disorders, including secondary adrenal insufficiency. However, it does not specifically build upon or reference the source paper's findings.",
+                    "relevance": 0
+                },
+                "2. Role of biochemical assessment in management of corticosteroid withdrawal": {
+                    "explanation": "This paper is a review paper that examines the role of biochemical tests in managing steroid withdrawal. Although it is related to the topic of secondary adrenal insufficiency, it does not specifically build upon or reference the source paper's findings.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2001,
+        "source_paper": {
+            "paperId": "0da78bc01a90ee89e50fa417f94f9bcc35e8b38b",
+            "pmid": "9037222",
+            "title": "A double-blind study of perioperative steroid requirements in secondary adrenal insufficiency.",
+            "abstract": null,
+            "year": 1997,
+            "citation_count": 138
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Supplemental corticosteroids for dental patients with adrenal insufficiency: reconsideration of the problem": {
+                    "explanation": "This paper is a review of existing literature, and it does not build upon the source paper's findings. The source paper is about perioperative steroid requirements in secondary adrenal insufficiency, while this paper focuses on supplemental corticosteroids for dental patients with adrenal insufficiency.",
+                    "relevance": 0
+                },
+                "2. Adrenal insufficiency in critically ill patients": {
+                    "explanation": "This paper discusses adrenal insufficiency in critically ill patients, which is a different context from the source paper's focus on perioperative steroid requirements in secondary adrenal insufficiency. However, the paper does not explicitly build upon or reference the source paper's findings.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Adrenal insufficiency in critically ill patients": {
+                    "explanation": "This paper discusses adrenal insufficiency in critically ill patients, which is a different context from the source paper's focus on perioperative steroid requirements in secondary adrenal insufficiency. However, the paper does not explicitly build upon or reference the source paper's findings.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2019,
+        "source_paper": {
+            "paperId": "a358b22baa7b8679bfddcb8b3d84baf66ad9bd4d",
+            "title": "Adrenal Insufficiency In Critically Ill Patients",
+            "abstract": "Adrenal insufficiency means hypo function of the adrenal cortex, usually resulting in low glucocorticoid level and it may be associated with low mineralocorticoid, rarely low adrenal androgen level. It can be categorized into two types: primary and secondary. Primary adrenal insufficiency or Addison's disease is associated with low cortisol and high ACTH level. Secondary/tertiary adrenal insufficiency is due to pituitary or hypothalamic disorders and is associated with both low cortisol and ACTH level. Among critically ill patients (CIP) adrenal insufficiency is not uncommon. The reported incidence of adrenal insufficiency varies greatly depending on the population of critically ill patients studied, the type of test, cut off levels used, and the severity of illness. Several studies have shown increased mortality in patients with very low or very high baseline cortisol levels. Manifestations of adrenal insufficiency in the critically ill patient are numerous and nonspecific, so clinicians are urged to have a high index of suspicion while taking history and doing physical examination and be alert to important diagnostic clues, such as hyponatremia, hyperkalemia, and hypotension, that are refractory to fluids and vasopressor without any clear causation. In current literature there is no consensus level of cortisol (basal/random/stimulated) in critically ill subjects. But it is shown that both high and low cortisol level is associated with increased mortality. In one study Basal Serum Cortisol 696 nmol/L is shown as indicative of higher risk among critically ill patients. Even with Septicemia or ARDS all subjects don\u0092t suffer from adrenal insufficiency often termed relative adrenal insufficiency or critical illness associated adrenal insufficiency. It has been observed that short term low dose IV hydrocortisone may be beneficial in selective group of patients in intensive care unit (ICU) with critical illness. Diagnosis of adrenal insufficiency associated with critical illness is still challenging for physicians working in ICU. Treatment should be started without delay in emergency situation with Injection Hydrocortisone intravenously or even intramuscularly. Since the condition appears to be common in patients with septic shock, clinicians should have a high index of suspicion for its occurrence in critically ill patients with persistent hypotension despite adequate fluid resuscitation and/or poor hemodynamic response to vasopressor. Adrenal insufficiency associated with other illnesses in ICU are attributed to previous primary or secondary adrenal insufficiency. Treatment with physiologic doses of corticosteroids should be started as soon as possible since short-term treatment carries very few risks and has been shown to decrease both morbidity and mortality. Only suspected cases should be evaluated and could be treated with 100-200 mg Hydrocortisone in divided doses for 5-7 days. Glucocorticoid cannot be recommended as a routine adjuvant therapy in all cases of septic shock or ARDS. But glucocorticoid earned its position among other rescue strategies in subgroups of ICU patients with the highest mortality risk. Steroid use is an art and needs to be used by experienced physician. Otherwise it may do more harm than benefit. Bangladesh Crit Care J March 2015; 3 (1): 27-30",
+            "year": 2015,
+            "citation_count": 15,
+            "relevance": 1,
+            "explanation": "This paper discusses adrenal insufficiency in critically ill patients, which is a different context from the source paper's focus on perioperative steroid requirements in secondary adrenal insufficiency. However, the paper does not explicitly build upon or reference the source paper's findings."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Adrenal Insufficiency in Severe Falciparum Malaria: Its Outcome and Prediction by Discriminant Score": {
+                    "explanation": "This paper explores adrenal insufficiency in a specific context (severe falciparum malaria), which is related to the topic of the source paper (adrenal insufficiency in critically ill patients). However, the key hypothesis of this paper is not directly dependent on the findings of the source paper, but rather it is inspired by the general concept of adrenal insufficiency.",
+                    "relevance": 1
+                },
+                "2. The prevalence and clinical profile of adrenocortical deficiency among HIV infected persons in Northern Nigeria": {
+                    "explanation": "This paper investigates the prevalence of adrenocortical deficiency in HIV-infected individuals, which is a different population from the critically ill patients discussed in the source paper. The key hypothesis of this paper is not directly related to the source paper, and it does not build upon the findings of the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Adrenal Insufficiency in Severe Falciparum Malaria: Its Outcome and Prediction by Discriminant Score": {
+                    "explanation": "This paper explores adrenal insufficiency in a specific context (severe falciparum malaria), which is related to the topic of the source paper (adrenal insufficiency in critically ill patients). However, the key hypothesis of this paper is not directly dependent on the findings of the source paper, but rather it is inspired by the general concept of adrenal insufficiency.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    }
+]

@@ -1,0 +1,1337 @@
+[
+    {
+        "year": 2007,
+        "source_paper": {
+            "paperId": "5647d8e103cda18c65e09a3ba38e1638035094c0",
+            "pmid": "16933235",
+            "title": "Monoclonal antibody HCV\u2010AbXTL68 in patients undergoing liver transplantation for HCV: Results of a phase 2 randomized study",
+            "abstract": "A randomized, double\u2010blind, dose\u2010escalation study evaluated the safety and efficacy of hepatitis C virus (HCV)\u2010AbXTL68, a neutralizing, high\u2010affinity, fully human, anti\u2010E2 monoclonal antibody, in 24 HCV\u2010positive patients undergoing liver transplantation. HCV\u2010AbXTL68 or placebo was administered at doses from 20\u2010240 mg as 2\u20104 infusions during the first 24 hours after transplantation, followed by daily infusions for 6 days, weekly infusions for 3 weeks, and either 2 or 4 weekly infusions for 8 weeks. Serum concentrations of total anti\u2010E2 obtained during daily infusions of 120\u2010240 mg HCV\u2010AbXTL68 were 50\u2010200 \u03bcg/mL above concentrations in the placebo group. Median serum concentration of HCV RNA dropped below baseline in all groups immediately after transplantation. On day 2, median change from baseline in HCV RNA was \u22121.8 and \u22122.4 log in the 120\u2010mg and 240\u2010mg groups, respectively, compared with \u22121.5 log with placebo. The difference was lost after day 7 when the dosing frequency was reduced. The coincidence of increases in anti\u2010E2 with decreases in HCV RNA concentration indicate that the dose\u2010related changes in HCV RNA concentration were a result of HCV\u2010AbXTL68 administration in the 120\u2010 and 240\u2010mg groups. The overall incidence of nonfatal serious adverse events was higher with placebo (60%) vs. all active treatments combined (42%). In conclusion, HCV\u2010AbXTL68 may decrease serum concentrations of HCV RNA in patients after liver transplantation. Studies evaluating more frequent daily dosing at doses >120 mg are necessary to investigate sustained viral suppression in this population. Liver Transpl 12:1381\u20131389. 2006. \u00a9 2006 AASLD.",
+            "year": 2006,
+            "citation_count": 124
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Endogenous Cytotoxic T-Cell Response Contributes to the Long-Term Antiretroviral Protection Induced by a Short Period of Antibody-Based Immunotherapy of Neonatally Infected Mice": {
+                    "explanation": "This paper discusses the effects of neutralizing monoclonal antibodies in a different context (retrovirus infection in mice) and does not build upon or utilize the findings of the source paper, which focused on HCV-AbXTL68 in patients undergoing liver transplantation for HCV.",
+                    "relevance": 0
+                },
+                "2. Identification of a Broadly Cross-Reacting and Neutralizing Human Monoclonal Antibody Directed against the Hepatitis C Virus E2 Protein": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it also investigates the properties of a neutralizing monoclonal antibody (Fab e137) directed against the HCV E2 protein, which is similar to the HCV-AbXTL68 antibody in the source paper.",
+                    "relevance": 1
+                },
+                "3. Monoclonal antibodies for prophylaxis and therapy of infectious diseases": {
+                    "explanation": "This paper is a review of monoclonal antibodies for infectious diseases and does not build upon or utilize the specific findings of the source paper, which focused on HCV-AbXTL68 in patients undergoing liver transplantation for HCV.",
+                    "relevance": 0
+                },
+                "4. Hepatitis C virus epitope-specific neutralizing antibodies in Igs prepared from human plasma": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it also investigates the properties of neutralizing antibodies against the HCV E2 protein, but focuses on the interaction between neutralizing and nonneutralizing antibodies in Igs prepared from human plasma.",
+                    "relevance": 2
+                },
+                "5. The hepatitis C virus life cycle as a target for new antiviral therapies": {
+                    "explanation": "This paper discusses the HCV life cycle as a target for new antiviral therapies, but does not build upon or utilize the specific findings of the source paper, which focused on HCV-AbXTL68 in patients undergoing liver transplantation for HCV.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Hepatitis C virus epitope-specific neutralizing antibodies in Igs prepared from human plasma": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it also investigates the properties of neutralizing antibodies against the HCV E2 protein, but focuses on the interaction between neutralizing and nonneutralizing antibodies in Igs prepared from human plasma.",
+                    "relevance": 2
+                },
+                "2. Identification of a Broadly Cross-Reacting and Neutralizing Human Monoclonal Antibody Directed against the Hepatitis C Virus E2 Protein": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it also investigates the properties of a neutralizing monoclonal antibody (Fab e137) directed against the HCV E2 protein, which is similar to the HCV-AbXTL68 antibody in the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2008,
+        "source_paper": {
+            "paperId": "5647d8e103cda18c65e09a3ba38e1638035094c0",
+            "pmid": "16933235",
+            "title": "Monoclonal antibody HCV\u2010AbXTL68 in patients undergoing liver transplantation for HCV: Results of a phase 2 randomized study",
+            "abstract": "A randomized, double\u2010blind, dose\u2010escalation study evaluated the safety and efficacy of hepatitis C virus (HCV)\u2010AbXTL68, a neutralizing, high\u2010affinity, fully human, anti\u2010E2 monoclonal antibody, in 24 HCV\u2010positive patients undergoing liver transplantation. HCV\u2010AbXTL68 or placebo was administered at doses from 20\u2010240 mg as 2\u20104 infusions during the first 24 hours after transplantation, followed by daily infusions for 6 days, weekly infusions for 3 weeks, and either 2 or 4 weekly infusions for 8 weeks. Serum concentrations of total anti\u2010E2 obtained during daily infusions of 120\u2010240 mg HCV\u2010AbXTL68 were 50\u2010200 \u03bcg/mL above concentrations in the placebo group. Median serum concentration of HCV RNA dropped below baseline in all groups immediately after transplantation. On day 2, median change from baseline in HCV RNA was \u22121.8 and \u22122.4 log in the 120\u2010mg and 240\u2010mg groups, respectively, compared with \u22121.5 log with placebo. The difference was lost after day 7 when the dosing frequency was reduced. The coincidence of increases in anti\u2010E2 with decreases in HCV RNA concentration indicate that the dose\u2010related changes in HCV RNA concentration were a result of HCV\u2010AbXTL68 administration in the 120\u2010 and 240\u2010mg groups. The overall incidence of nonfatal serious adverse events was higher with placebo (60%) vs. all active treatments combined (42%). In conclusion, HCV\u2010AbXTL68 may decrease serum concentrations of HCV RNA in patients after liver transplantation. Studies evaluating more frequent daily dosing at doses >120 mg are necessary to investigate sustained viral suppression in this population. Liver Transpl 12:1381\u20131389. 2006. \u00a9 2006 AASLD.",
+            "year": 2006,
+            "citation_count": 124
+        },
+        "llama_output": {},
+        "seed": 42
+    },
+    {
+        "year": 2008,
+        "source_paper": {
+            "paperId": "cd2f7b65ca0bfc53d47a7bfdbf01ef2e5f22286b",
+            "title": "Hepatitis C virus epitope-specific neutralizing antibodies in Igs prepared from human plasma",
+            "abstract": "Neutralizing antibodies directed against hepatitis C virus (HCV) are present in Igs made from anti-HCV-positive plasma. However, these HCV-specific Igs are largely ineffective in vivo. The mechanism for the poor effectiveness is currently unknown. We hypothesize that the presence of nonneutralizing antibodies in HCV-specific Igs interferes with the function of neutralizing antibodies, resulting in the reduction or blockage of their effect. In the present study, we identified at least two epitopes at amino acid residues 412\u2013419 (epitope I) and 434\u2013446 (epitope II), located downstream of the hypervariable region I within the HCV E2 protein. We demonstrated that epitope I, but not epitope II, was implicated in HCV neutralization and that binding of a nonneutralizing antibody to epitope II completely disrupted virus neutralization mediated by antibody binding at epitope I. The dynamic interaction between nonneutralizing and neutralizing antibodies may thus play a key role in determining the outcomes of HCV infection. Further exploration of this interplay should lead to a better understanding of the mechanisms of neutralization and immune escape and may indicate pathways for the manufacture of an effective HCV-specific Ig product for immune prophylaxis of HCV infection.",
+            "year": 2007,
+            "citation_count": 147,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it also investigates the properties of neutralizing antibodies against the HCV E2 protein, but focuses on the interaction between neutralizing and nonneutralizing antibodies in Igs prepared from human plasma."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. In vitro selection of a neutralization-resistant hepatitis C virus escape mutant": {
+                    "explanation": "This paper explores the mechanisms of neutralization and immune escape in HCV infection, which is a direct continuation of the source paper's findings regarding the dynamic interaction between nonneutralizing and neutralizing antibodies. The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the structure of the HCV envelope glycoproteins and how they interact with neutralizing antibodies.",
+                    "relevance": 2
+                },
+                "2. Contribution of Redox Status to Hepatitis C Virus E2 Envelope Protein Function and Antigenicity*": {
+                    "explanation": "This paper examines the effect of disulfide bonding on E2 antigenicity, which is related to the source paper's findings regarding the role of neutralizing antibodies in HCV infection. However, the key hypothesis in this paper is not directly dependent on the findings of the source paper, but rather explores a new aspect of HCV infection.",
+                    "relevance": 1
+                },
+                "3. Host neutralizing responses and pathogenesis of hepatitis C virus infection": {
+                    "explanation": "This paper is a review paper that summarizes the current understanding of host neutralizing responses during the course of HCV infection. It does not present a novel hypothesis or findings, but rather provides an overview of existing literature.",
+                    "relevance": 0
+                },
+                "4. Adaptive immune responses to hepatitis C virus: from viral immunobiology to a vaccine": {
+                    "explanation": "This paper discusses the role of the cellular immune response in determining the outcome of HCV infection, which is a different aspect of HCV infection than the one explored in the source paper. The key hypothesis in this paper is not directly related to the findings of the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. In vitro selection of a neutralization-resistant hepatitis C virus escape mutant": {
+                    "explanation": "This paper explores the mechanisms of neutralization and immune escape in HCV infection, which is a direct continuation of the source paper's findings regarding the dynamic interaction between nonneutralizing and neutralizing antibodies. The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the structure of the HCV envelope glycoproteins and how they interact with neutralizing antibodies.",
+                    "relevance": 2
+                },
+                "2. Contribution of Redox Status to Hepatitis C Virus E2 Envelope Protein Function and Antigenicity*": {
+                    "explanation": "This paper examines the effect of disulfide bonding on E2 antigenicity, which is related to the source paper's findings regarding the role of neutralizing antibodies in HCV infection. However, the key hypothesis in this paper is not directly dependent on the findings of the source paper, but rather explores a new aspect of HCV infection.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2009,
+        "source_paper": {
+            "paperId": "cd2f7b65ca0bfc53d47a7bfdbf01ef2e5f22286b",
+            "title": "Hepatitis C virus epitope-specific neutralizing antibodies in Igs prepared from human plasma",
+            "abstract": "Neutralizing antibodies directed against hepatitis C virus (HCV) are present in Igs made from anti-HCV-positive plasma. However, these HCV-specific Igs are largely ineffective in vivo. The mechanism for the poor effectiveness is currently unknown. We hypothesize that the presence of nonneutralizing antibodies in HCV-specific Igs interferes with the function of neutralizing antibodies, resulting in the reduction or blockage of their effect. In the present study, we identified at least two epitopes at amino acid residues 412\u2013419 (epitope I) and 434\u2013446 (epitope II), located downstream of the hypervariable region I within the HCV E2 protein. We demonstrated that epitope I, but not epitope II, was implicated in HCV neutralization and that binding of a nonneutralizing antibody to epitope II completely disrupted virus neutralization mediated by antibody binding at epitope I. The dynamic interaction between nonneutralizing and neutralizing antibodies may thus play a key role in determining the outcomes of HCV infection. Further exploration of this interplay should lead to a better understanding of the mechanisms of neutralization and immune escape and may indicate pathways for the manufacture of an effective HCV-specific Ig product for immune prophylaxis of HCV infection.",
+            "year": 2007,
+            "citation_count": 147,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it also investigates the properties of neutralizing antibodies against the HCV E2 protein, but focuses on the interaction between neutralizing and nonneutralizing antibodies in Igs prepared from human plasma."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Managing hepatitis C in liver transplant patients with recurrent infection": {
+                    "explanation": "This paper discusses the management of hepatitis C in liver transplant patients and does not directly relate to the source paper's findings on neutralizing antibodies and their interference with HCV infection.",
+                    "relevance": 0
+                },
+                "2. Adaptive Immunity to Hepatitis C Virus": {
+                    "explanation": "This review paper discusses the role of adaptive immune responses in HCV infection but does not directly build upon the source paper's hypothesis or findings.",
+                    "relevance": 0
+                },
+                "3. Prophylactic and Therapeutic Vaccination against Hepatitis C Virus (HCV): Developments and Future Perspectives": {
+                    "explanation": "This review paper discusses vaccination strategies against HCV and mentions the importance of neutralizing antibodies, but it does not directly relate to the source paper's findings on epitope-specific neutralizing antibodies.",
+                    "relevance": 0
+                },
+                "4. HCV entry and neutralizing antibodies: lessons from viral variants": {
+                    "explanation": "This paper discusses the mechanisms of HCV entry and neutralization, but it does not directly build upon the source paper's hypothesis or findings on epitope-specific neutralizing antibodies.",
+                    "relevance": 1
+                },
+                "5. Depletion of interfering antibodies in chronic hepatitis C patients and vaccinated chimpanzees reveals broad cross-genotype neutralizing activity": {
+                    "explanation": "This paper directly builds upon the source paper's findings on epitope-specific neutralizing antibodies and their interference with HCV infection, and explores the depletion of interfering antibodies to reveal broad cross-genotype neutralizing activity.",
+                    "relevance": 2
+                },
+                "6. Development of hepatitis C virus vaccines: challenges and progress": {
+                    "explanation": "This review paper discusses the challenges and progress in developing HCV vaccines, but it does not directly relate to the source paper's findings on epitope-specific neutralizing antibodies.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Depletion of interfering antibodies in chronic hepatitis C patients and vaccinated chimpanzees reveals broad cross-genotype neutralizing activity": {
+                    "explanation": "This paper directly builds upon the source paper's findings on epitope-specific neutralizing antibodies and their interference with HCV infection, and explores the depletion of interfering antibodies to reveal broad cross-genotype neutralizing activity.",
+                    "relevance": 2
+                },
+                "2. HCV entry and neutralizing antibodies: lessons from viral variants": {
+                    "explanation": "This paper discusses the mechanisms of HCV entry and neutralization, but it does not directly build upon the source paper's hypothesis or findings on epitope-specific neutralizing antibodies.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2010,
+        "source_paper": {
+            "paperId": "afea5046294a0ed79152467452ff3058d15ee87b",
+            "title": "Depletion of interfering antibodies in chronic hepatitis C patients and vaccinated chimpanzees reveals broad cross-genotype neutralizing activity",
+            "abstract": "Using human immune globulins made from antihepatitis C virus (HCV)-positive plasma, we recently identified two antibody epitopes in the E2 protein at residues 412\u2013426 (epitope I) and 434\u2013446 (epitope II). Whereas epitope I is highly conserved among genotypes, epitope II varies. We discovered that epitope I was implicated in HCV neutralization whereas the binding of non-neutralizing antibody to epitope II disrupted virus neutralization mediated by antibody binding at epitope I. These findings suggested that, if this interfering mechanism operates in vivo during HCV infection, a neutralizing antibody against epitope I can be restrained by an interfering antibody, which may account for the persistence of HCV even in the presence of an abundance of neutralizing antibodies. We tested this hypothesis by affinity depletion and peptide-blocking of epitope-II-specific antibodies in plasma of a chronically HCV-infected patient and recombinant E1E2 vaccinated chimpanzees. We demonstrate that, by removing the restraints imposed by the interfering antibodies to epitope-II, neutralizing activity can be revealed in plasma that previously failed to neutralize viral stock in cell culture. Further, cross-genotype neutralization could be generated from monospecific plasma. Our studies contribute to understanding the mechanisms of antibody-mediated neutralization and interference and provide a practical approach to the development of more potent and broadly reactive hepatitis C immune globulins.",
+            "year": 2009,
+            "citation_count": 138,
+            "relevance": 2,
+            "explanation": "This paper directly builds upon the source paper's findings on epitope-specific neutralizing antibodies and their interference with HCV infection, and explores the depletion of interfering antibodies to reveal broad cross-genotype neutralizing activity."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Vaccines to prevent infections by oncoviruses": {
+                    "explanation": "This paper discusses the development of vaccines against various viruses, including HCV, but does not directly build upon or reference the findings of the source paper. It is a review paper that lacks novel hypotheses or findings related to the source paper.",
+                    "relevance": 0
+                },
+                "2. Characterization of antibodies induced by vaccination with Hepatitis C virus envelope glycoproteins": {
+                    "explanation": "The key hypothesis in this paper is inspired by the findings of the source paper, as it investigates the neutralization activity of antibodies induced by vaccination with HCV envelope glycoproteins, which is related to the source paper's findings on neutralizing antibodies and interfering antibodies.",
+                    "relevance": 1
+                },
+                "3. Role of N-Linked Glycans in the Functions of Hepatitis C Virus Envelope Proteins Incorporated into Infectious Virions": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the role of N-linked glycans in HCV envelope proteins, which is related to the source paper's findings on the mechanisms of antibody-mediated neutralization and interference.",
+                    "relevance": 2
+                },
+                "4. Viral entry and escape from antibody-mediated neutralization influence hepatitis C virus reinfection in liver transplantation": {
+                    "explanation": "The key hypothesis in this paper is inspired by the findings of the source paper, as it investigates the mechanisms of viral evasion from host immunity, which is related to the source paper's findings on neutralizing antibodies and interfering antibodies.",
+                    "relevance": 1
+                },
+                "5. A New Insight into Hepatitis C Vaccine Development": {
+                    "explanation": "This paper discusses the development of HCV vaccines, but does not directly build upon or reference the findings of the source paper. It is a review paper that lacks novel hypotheses or findings related to the source paper.",
+                    "relevance": 0
+                },
+                "6. Clinical relevance of genetic heterogeneity in HCV": {
+                    "explanation": "This paper discusses the genetic heterogeneity of HCV, but does not directly build upon or reference the findings of the source paper. It is a review paper that lacks novel hypotheses or findings related to the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Role of N-Linked Glycans in the Functions of Hepatitis C Virus Envelope Proteins Incorporated into Infectious Virions": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the role of N-linked glycans in HCV envelope proteins, which is related to the source paper's findings on the mechanisms of antibody-mediated neutralization and interference.",
+                    "relevance": 2
+                },
+                "2. Characterization of antibodies induced by vaccination with Hepatitis C virus envelope glycoproteins": {
+                    "explanation": "The key hypothesis in this paper is inspired by the findings of the source paper, as it investigates the neutralization activity of antibodies induced by vaccination with HCV envelope glycoproteins, which is related to the source paper's findings on neutralizing antibodies and interfering antibodies.",
+                    "relevance": 1
+                },
+                "3. Viral entry and escape from antibody-mediated neutralization influence hepatitis C virus reinfection in liver transplantation": {
+                    "explanation": "The key hypothesis in this paper is inspired by the findings of the source paper, as it investigates the mechanisms of viral evasion from host immunity, which is related to the source paper's findings on neutralizing antibodies and interfering antibodies.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2011,
+        "source_paper": {
+            "paperId": "afea5046294a0ed79152467452ff3058d15ee87b",
+            "title": "Depletion of interfering antibodies in chronic hepatitis C patients and vaccinated chimpanzees reveals broad cross-genotype neutralizing activity",
+            "abstract": "Using human immune globulins made from antihepatitis C virus (HCV)-positive plasma, we recently identified two antibody epitopes in the E2 protein at residues 412\u2013426 (epitope I) and 434\u2013446 (epitope II). Whereas epitope I is highly conserved among genotypes, epitope II varies. We discovered that epitope I was implicated in HCV neutralization whereas the binding of non-neutralizing antibody to epitope II disrupted virus neutralization mediated by antibody binding at epitope I. These findings suggested that, if this interfering mechanism operates in vivo during HCV infection, a neutralizing antibody against epitope I can be restrained by an interfering antibody, which may account for the persistence of HCV even in the presence of an abundance of neutralizing antibodies. We tested this hypothesis by affinity depletion and peptide-blocking of epitope-II-specific antibodies in plasma of a chronically HCV-infected patient and recombinant E1E2 vaccinated chimpanzees. We demonstrate that, by removing the restraints imposed by the interfering antibodies to epitope-II, neutralizing activity can be revealed in plasma that previously failed to neutralize viral stock in cell culture. Further, cross-genotype neutralization could be generated from monospecific plasma. Our studies contribute to understanding the mechanisms of antibody-mediated neutralization and interference and provide a practical approach to the development of more potent and broadly reactive hepatitis C immune globulins.",
+            "year": 2009,
+            "citation_count": 138,
+            "relevance": 2,
+            "explanation": "This paper directly builds upon the source paper's findings on epitope-specific neutralizing antibodies and their interference with HCV infection, and explores the depletion of interfering antibodies to reveal broad cross-genotype neutralizing activity."
+        },
+        "llama_output": {},
+        "seed": 42
+    },
+    {
+        "year": 2011,
+        "source_paper": {
+            "paperId": "afea5046294a0ed79152467452ff3058d15ee87b",
+            "title": "Depletion of interfering antibodies in chronic hepatitis C patients and vaccinated chimpanzees reveals broad cross-genotype neutralizing activity",
+            "abstract": "Using human immune globulins made from antihepatitis C virus (HCV)-positive plasma, we recently identified two antibody epitopes in the E2 protein at residues 412\u2013426 (epitope I) and 434\u2013446 (epitope II). Whereas epitope I is highly conserved among genotypes, epitope II varies. We discovered that epitope I was implicated in HCV neutralization whereas the binding of non-neutralizing antibody to epitope II disrupted virus neutralization mediated by antibody binding at epitope I. These findings suggested that, if this interfering mechanism operates in vivo during HCV infection, a neutralizing antibody against epitope I can be restrained by an interfering antibody, which may account for the persistence of HCV even in the presence of an abundance of neutralizing antibodies. We tested this hypothesis by affinity depletion and peptide-blocking of epitope-II-specific antibodies in plasma of a chronically HCV-infected patient and recombinant E1E2 vaccinated chimpanzees. We demonstrate that, by removing the restraints imposed by the interfering antibodies to epitope-II, neutralizing activity can be revealed in plasma that previously failed to neutralize viral stock in cell culture. Further, cross-genotype neutralization could be generated from monospecific plasma. Our studies contribute to understanding the mechanisms of antibody-mediated neutralization and interference and provide a practical approach to the development of more potent and broadly reactive hepatitis C immune globulins.",
+            "year": 2009,
+            "citation_count": 138,
+            "relevance": 2,
+            "explanation": "This paper directly builds upon the source paper's findings on epitope-specific neutralizing antibodies and their interference with HCV infection, and explores the depletion of interfering antibodies to reveal broad cross-genotype neutralizing activity."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Prospects for prophylactic and therapeutic vaccines against the hepatitis C viruses": {
+                    "explanation": "This paper explores the development of vaccines against hepatitis C viruses, which is related to the source paper's findings on the mechanisms of antibody-mediated neutralization and interference. However, the hypothesis in this paper is not directly inspired by or dependent on the findings of the source paper, but rather builds on the general understanding of HCV.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Prospects for prophylactic and therapeutic vaccines against the hepatitis C viruses": {
+                    "explanation": "This paper explores the development of vaccines against hepatitis C viruses, which is related to the source paper's findings on the mechanisms of antibody-mediated neutralization and interference. However, the hypothesis in this paper is not directly inspired by or dependent on the findings of the source paper, but rather builds on the general understanding of HCV.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2011,
+        "source_paper": {
+            "paperId": "ec4e34b48a487d6c27704d71e68472cdaebe0213",
+            "title": "Role of N-Linked Glycans in the Functions of Hepatitis C Virus Envelope Proteins Incorporated into Infectious Virions",
+            "abstract": "ABSTRACT Hepatitis C virus (HCV) envelope glycoproteins are highly glycosylated, with generally 4 and 11 N-linked glycans on E1 and E2, respectively. Studies using mutated recombinant HCV envelope glycoproteins incorporated into retroviral pseudoparticles (HCVpp) suggest that some glycans play a role in protein folding, virus entry, and protection against neutralization. The development of a cell culture system producing infectious particles (HCVcc) in hepatoma cells provides an opportunity to characterize the role of these glycans in the context of authentic infectious virions. Here, we used HCVcc in which point mutations were engineered at N-linked glycosylation sites to determine the role of these glycans in the functions of HCV envelope proteins. The mutants were characterized for their effects on virus replication and envelope protein expression as well as on viral particle secretion, infectivity, and sensitivity to neutralizing antibodies. Our results indicate that several glycans play an important role in HCVcc assembly and/or infectivity. Furthermore, our data demonstrate that at least five glycans on E2 (denoted E2N1, E2N2, E2N4, E2N6, and E2N11) strongly reduce the sensitivity of HCVcc to antibody neutralization, with four of them surrounding the CD81 binding site. Altogether, these data indicate that the glycans associated with HCV envelope glycoproteins play roles at different steps of the viral life cycle. They also highlight differences in the effects of glycosylation mutations between the HCVpp and HCVcc systems. Furthermore, these carbohydrates form a \u201cglycan shield\u201d at the surface of the virion, which contributes to the evasion of HCV from the humoral immune response.",
+            "year": 2010,
+            "citation_count": 202,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the role of N-linked glycans in HCV envelope proteins, which is related to the source paper's findings on the mechanisms of antibody-mediated neutralization and interference."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Hepatitis C virus entry into the hepatocyte": {
+                    "explanation": "This paper is a review of the current knowledge on HCV entry into the hepatocyte, and does not build upon the findings of the source paper.",
+                    "relevance": 0
+                },
+                "2. Neutralizing Antibody Response to Hepatitis C Virus": {
+                    "explanation": "This paper is a review of the current knowledge on the immunogenic determinants on the E2 glycoprotein mediating virus neutralization, and does not build upon the findings of the source paper.",
+                    "relevance": 0
+                },
+                "3. Hepatitis C Virus Evasion Mechanisms from Neutralizing Antibodies": {
+                    "explanation": "This paper is a review of the current knowledge on the mechanisms used by HCV to evade host neutralizing antibodies, and does not build upon the findings of the source paper.",
+                    "relevance": 0
+                },
+                "4. Antibody Evasion by a Gammaherpesvirus O-Glycan Shield": {
+                    "explanation": "This paper investigates the mechanisms of antibody evasion by a gammaherpesvirus, and does not build upon the findings of the source paper, which focuses on HCV.",
+                    "relevance": 0
+                },
+                "5. The Hepatitis C Virus Glycan Shield and Evasion of the Humoral Immune Response": {
+                    "explanation": "This paper reviews the current knowledge on the HCV glycan shield and its role in evading the humoral immune response, and builds upon the findings of the source paper, which describes the glycan shield's role in HCV infection.",
+                    "relevance": 1
+                },
+                "6. Trafficking of Hepatitis C Virus Core Protein during Virus Particle Assembly": {
+                    "explanation": "This paper investigates the trafficking of HCV core protein during virus particle assembly, and does not directly build upon the findings of the source paper, which focuses on the role of N-linked glycans in HCV infection.",
+                    "relevance": 1
+                },
+                "7. Griffithsin Has Antiviral Activity against Hepatitis C Virus": {
+                    "explanation": "This paper investigates the antiviral activity of griffithsin against HCV, and builds upon the findings of the source paper, which describes the role of N-linked glycans in HCV infection.",
+                    "relevance": 2
+                },
+                "8. Neutralizing Monoclonal Antibodies against Hepatitis C Virus E2 Protein Bind Discontinuous Epitopes and Inhibit Infection at a Postattachment Step": {
+                    "explanation": "This paper investigates the mechanisms of neutralizing monoclonal antibodies against HCV E2 protein, and builds upon the findings of the source paper, which describes the role of N-linked glycans in HCV infection.",
+                    "relevance": 2
+                },
+                "9. Immunotherapeutic potential of neutralizing antibodies targeting conserved regions of the HCV envelope glycoprotein E2": {
+                    "explanation": "This paper reviews the current knowledge on the immunotherapeutic potential of neutralizing antibodies targeting conserved regions of the HCV envelope glycoprotein E2, and builds upon the findings of the source paper, which describes the role of N-linked glycans in HCV infection.",
+                    "relevance": 1
+                },
+                "10. Hepatitis c virus and host cell lipids: An intimate connection": {
+                    "explanation": "This paper reviews the current knowledge on the connection between HCV and host cell lipids, and does not directly build upon the findings of the source paper, which focuses on the role of N-linked glycans in HCV infection.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Griffithsin Has Antiviral Activity against Hepatitis C Virus": {
+                    "explanation": "This paper investigates the antiviral activity of griffithsin against HCV, and builds upon the findings of the source paper, which describes the role of N-linked glycans in HCV infection.",
+                    "relevance": 2
+                },
+                "2. Neutralizing Monoclonal Antibodies against Hepatitis C Virus E2 Protein Bind Discontinuous Epitopes and Inhibit Infection at a Postattachment Step": {
+                    "explanation": "This paper investigates the mechanisms of neutralizing monoclonal antibodies against HCV E2 protein, and builds upon the findings of the source paper, which describes the role of N-linked glycans in HCV infection.",
+                    "relevance": 2
+                },
+                "3. The Hepatitis C Virus Glycan Shield and Evasion of the Humoral Immune Response": {
+                    "explanation": "This paper reviews the current knowledge on the HCV glycan shield and its role in evading the humoral immune response, and builds upon the findings of the source paper, which describes the glycan shield's role in HCV infection.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2011,
+        "source_paper": {
+            "paperId": "ec4e34b48a487d6c27704d71e68472cdaebe0213",
+            "title": "Role of N-Linked Glycans in the Functions of Hepatitis C Virus Envelope Proteins Incorporated into Infectious Virions",
+            "abstract": "ABSTRACT Hepatitis C virus (HCV) envelope glycoproteins are highly glycosylated, with generally 4 and 11 N-linked glycans on E1 and E2, respectively. Studies using mutated recombinant HCV envelope glycoproteins incorporated into retroviral pseudoparticles (HCVpp) suggest that some glycans play a role in protein folding, virus entry, and protection against neutralization. The development of a cell culture system producing infectious particles (HCVcc) in hepatoma cells provides an opportunity to characterize the role of these glycans in the context of authentic infectious virions. Here, we used HCVcc in which point mutations were engineered at N-linked glycosylation sites to determine the role of these glycans in the functions of HCV envelope proteins. The mutants were characterized for their effects on virus replication and envelope protein expression as well as on viral particle secretion, infectivity, and sensitivity to neutralizing antibodies. Our results indicate that several glycans play an important role in HCVcc assembly and/or infectivity. Furthermore, our data demonstrate that at least five glycans on E2 (denoted E2N1, E2N2, E2N4, E2N6, and E2N11) strongly reduce the sensitivity of HCVcc to antibody neutralization, with four of them surrounding the CD81 binding site. Altogether, these data indicate that the glycans associated with HCV envelope glycoproteins play roles at different steps of the viral life cycle. They also highlight differences in the effects of glycosylation mutations between the HCVpp and HCVcc systems. Furthermore, these carbohydrates form a \u201cglycan shield\u201d at the surface of the virion, which contributes to the evasion of HCV from the humoral immune response.",
+            "year": 2010,
+            "citation_count": 202,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the role of N-linked glycans in HCV envelope proteins, which is related to the source paper's findings on the mechanisms of antibody-mediated neutralization and interference."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Grif\ufb01thsin Has Antiviral Activity against Hepatitis C Virus": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper. The source paper highlights the role of N-linked glycans in the functions of HCV envelope proteins, and this paper explores a novel strategy to prevent HCV infection using a lectin that specifically binds N-linked high-mannose oligosaccharides present on the viral envelope.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Grif\ufb01thsin Has Antiviral Activity against Hepatitis C Virus": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper. The source paper highlights the role of N-linked glycans in the functions of HCV envelope proteins, and this paper explores a novel strategy to prevent HCV infection using a lectin that specifically binds N-linked high-mannose oligosaccharides present on the viral envelope.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2012,
+        "source_paper": {
+            "paperId": "ec4e34b48a487d6c27704d71e68472cdaebe0213",
+            "title": "Role of N-Linked Glycans in the Functions of Hepatitis C Virus Envelope Proteins Incorporated into Infectious Virions",
+            "abstract": "ABSTRACT Hepatitis C virus (HCV) envelope glycoproteins are highly glycosylated, with generally 4 and 11 N-linked glycans on E1 and E2, respectively. Studies using mutated recombinant HCV envelope glycoproteins incorporated into retroviral pseudoparticles (HCVpp) suggest that some glycans play a role in protein folding, virus entry, and protection against neutralization. The development of a cell culture system producing infectious particles (HCVcc) in hepatoma cells provides an opportunity to characterize the role of these glycans in the context of authentic infectious virions. Here, we used HCVcc in which point mutations were engineered at N-linked glycosylation sites to determine the role of these glycans in the functions of HCV envelope proteins. The mutants were characterized for their effects on virus replication and envelope protein expression as well as on viral particle secretion, infectivity, and sensitivity to neutralizing antibodies. Our results indicate that several glycans play an important role in HCVcc assembly and/or infectivity. Furthermore, our data demonstrate that at least five glycans on E2 (denoted E2N1, E2N2, E2N4, E2N6, and E2N11) strongly reduce the sensitivity of HCVcc to antibody neutralization, with four of them surrounding the CD81 binding site. Altogether, these data indicate that the glycans associated with HCV envelope glycoproteins play roles at different steps of the viral life cycle. They also highlight differences in the effects of glycosylation mutations between the HCVpp and HCVcc systems. Furthermore, these carbohydrates form a \u201cglycan shield\u201d at the surface of the virion, which contributes to the evasion of HCV from the humoral immune response.",
+            "year": 2010,
+            "citation_count": 202,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the role of N-linked glycans in HCV envelope proteins, which is related to the source paper's findings on the mechanisms of antibody-mediated neutralization and interference."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1.Cooperativity in Virus Neutralization by Human Monoclonal Antibodies to Two Adjacent Regions Located at the Amino Terminus of Hepatitis C Virus E2 Glycoprotein": {
+                    "explanation": "This paper explores the neutralization of HCV by human monoclonal antibodies, which is related to the source paper's findings on the role of glycans in HCV envelope proteins. However, it does not directly build upon or depend on the source paper's findings, so its relevance is scored as 1.",
+                    "relevance": 1
+                },
+                "2.Neutralizing Antibodies and Pathogenesis of Hepatitis C Virus Infection": {
+                    "explanation": "This paper is a review that discusses the role of neutralizing antibodies in HCV infection, which is related to the source paper's topic but does not directly build upon or depend on its findings. Furthermore, it is a review paper that summarizes existing literature, so its relevance is scored as 0.",
+                    "relevance": 0
+                },
+                "3.Identification of Hepatitis C Virus Inhibitors Targeting Different Aspects of Infection Using a Cell-Based Assay": {
+                    "explanation": "This paper identifies inhibitors targeting different aspects of HCV infection, which is related to the source paper's topic but does not directly build upon or depend on its findings. However, it explores a new angle of HCV treatment, so its relevance is scored as 1.",
+                    "relevance": 1
+                },
+                "4.Human Monoclonal Antibody HCV1 Effectively Prevents and Treats HCV Infection in Chimpanzees": {
+                    "explanation": "This paper explores the use of a human monoclonal antibody in preventing and treating HCV infection, which is related to the source paper's findings on the role of glycans in HCV envelope proteins. However, it does not directly build upon or depend on the source paper's findings, so its relevance is scored as 1.",
+                    "relevance": 1
+                },
+                "5.Hepatitis C virus entry: beyond receptors": {
+                    "explanation": "This paper is a review that discusses HCV entry mechanisms, which is related to the source paper's topic but does not directly build upon or depend on its findings. Furthermore, it is a review paper that summarizes existing literature, so its relevance is scored as 0.",
+                    "relevance": 0
+                },
+                "6.New advances in the molecular biology of hepatitis C virus infection: towards the identification of new treatment targets": {
+                    "explanation": "This paper is a review that discusses new advances in HCV molecular biology, which is related to the source paper's topic but does not directly build upon or depend on its findings. Furthermore, it is a review paper that summarizes existing literature, so its relevance is scored as 0.",
+                    "relevance": 0
+                },
+                "7.Human Monoclonal Antibodies to a Novel Cluster of Conformational Epitopes on HCV E2 with Resistance to Neutralization Escape in a Genotype 2a Isolate": {
+                    "explanation": "This paper explores the use of human monoclonal antibodies in neutralizing HCV, which is related to the source paper's findings on the role of glycans in HCV envelope proteins. It also identifies a novel cluster of conformational epitopes on HCV E2, which is partially dependent on the source paper's findings, so its relevance is scored as 2.",
+                    "relevance": 2
+                },
+                "8.Morphogenesis of Infectious Hepatitis C Virus Particles": {
+                    "explanation": "This paper discusses the morphogenesis of infectious HCV particles, which is related to the source paper's topic but does not directly build upon or depend on its findings. However, it explores a new angle of HCV biology, so its relevance is scored as 1.",
+                    "relevance": 1
+                },
+                "9.A point mutation at Asn\u2010534 that disrupts a conserved N\u2010glycosylation motif of the E2 glycoprotein of hepatitis C virus markedly enhances the sensitivity to antibody neutralization": {
+                    "explanation": "This paper explores the effect of a point mutation on the sensitivity of HCV to antibody neutralization, which is related to the source paper's findings on the role of glycans in HCV envelope proteins. It also identifies a conserved N-glycosylation motif on HCV E2, which is partially dependent on the source paper's findings, so its relevance is scored as 2.",
+                    "relevance": 2
+                },
+                "10.The role of neutralizing antibodies in hepatitis C virus infection": {
+                    "explanation": "This paper is a review that discusses the role of neutralizing antibodies in HCV infection, which is related to the source paper's topic but does not directly build upon or depend on its findings. Furthermore, it is a review paper that summarizes existing literature, so its relevance is scored as 0.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1.Human Monoclonal Antibodies to a Novel Cluster of Conformational Epitopes on HCV E2 with Resistance to Neutralization Escape in a Genotype 2a Isolate": {
+                    "explanation": "This paper explores the use of human monoclonal antibodies in neutralizing HCV, which is related to the source paper's findings on the role of glycans in HCV envelope proteins. It also identifies a novel cluster of conformational epitopes on HCV E2, which is partially dependent on the source paper's findings.",
+                    "relevance": 2
+                },
+                "2.A point mutation at Asn\u2010534 that disrupts a conserved N\u2010glycosylation motif of the E2 glycoprotein of hepatitis C virus markedly enhances the sensitivity to antibody neutralization": {
+                    "explanation": "This paper explores the effect of a point mutation on the sensitivity of HCV to antibody neutralization, which is related to the source paper's findings on the role of glycans in HCV envelope proteins. It also identifies a conserved N-glycosylation motif on HCV E2, which is partially dependent on the source paper's findings.",
+                    "relevance": 2
+                },
+                "3.Cooperativity in Virus Neutralization by Human Monoclonal Antibodies to Two Adjacent Regions Located at the Amino Terminus of Hepatitis C Virus E2 Glycoprotein": {
+                    "explanation": "This paper explores the neutralization of HCV by human monoclonal antibodies, which is related to the source paper's findings on the role of glycans in HCV envelope proteins.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2013,
+        "source_paper": {
+            "paperId": "481340eb326ee30e6de7f9ba88beeaed1bc9674a",
+            "title": "Human Monoclonal Antibodies to a Novel Cluster of Conformational Epitopes on HCV E2 with Resistance to Neutralization Escape in a Genotype 2a Isolate",
+            "abstract": "The majority of broadly neutralizing antibodies to hepatitis C virus (HCV) are against conformational epitopes on the E2 glycoprotein. Many of them recognize overlapping epitopes in a cluster, designated as antigenic domain B, that contains residues G530 and D535. To gain information on other regions that will be relevant for vaccine design, we employed yeast surface display of antibodies that bound to genotype 1a H77C E2 mutant proteins containing a substitution either at Y632A (to avoid selecting non-neutralizing antibodies) or D535A. A panel of nine human monoclonal antibodies (HMAbs) was isolated and designated as HC-84-related antibodies. Each HMAb neutralized cell culture infectious HCV (HCVcc) with genotypes 1\u20136 envelope proteins with varying profiles, and each inhibited E2 binding to the viral receptor CD81. Five of these antibodies neutralized representative genotypes 1\u20136 HCVcc. Epitope mapping identified a cluster of overlapping epitopes that included nine contact residues in two E2 regions encompassing aa418\u2013446 and aa611\u2013616. Effect on virus entry was measured using H77C HCV retroviral pseudoparticles, HCVpp, bearing an alanine substitution at each of the contact residues. Seven of ten mutant HCVpp showed over 90% reduction compared to wild-type HCVpp and two others showed approximately 80% reduction. Interestingly, four of these antibodies bound to a linear E2 synthetic peptide encompassing aa434\u2013446. This region on E2 has been proposed to elicit non-neutralizing antibodies in humans that interfere with neutralizing antibodies directed at an adjacent E2 region from aa410\u2013425. The isolation of four HC-84 HMAbs binding to the peptide, aa434\u2013446, proves that some antibodies to this region are to highly conserved epitopes mediating broad virus neutralization. Indeed, when HCVcc were passaged in the presence of each of these antibodies, virus escape was not observed. Thus, the cluster of HC-84 epitopes, designated as antigenic domain D, is relevant for vaccine design for this highly diverse virus.",
+            "year": 2012,
+            "citation_count": 210,
+            "relevance": 2,
+            "explanation": "This paper explores the use of human monoclonal antibodies in neutralizing HCV, which is related to the source paper's findings on the role of glycans in HCV envelope proteins. It also identifies a novel cluster of conformational epitopes on HCV E2, which is partially dependent on the source paper's findings."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Hepatitis C Virus E2 Envelope Glycoprotein Core Structure": {
+                    "explanation": "This paper explores the structure of the E2 envelope glycoprotein, which is related to the source paper's findings on the epitopes of the E2 glycoprotein. However, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "2. Neutralization resistance of hepatitis C virus can be overcome by recombinant human monoclonal antibodies": {
+                    "explanation": "This paper discusses the neutralization resistance of HCV and how it can be overcome by recombinant human monoclonal antibodies. It is partially dependent on the source paper's findings on the epitopes of the E2 glycoprotein and the use of human monoclonal antibodies.",
+                    "relevance": 2
+                },
+                "3. Analysis of Serine Codon Conservation Reveals Diverse Phenotypic Constraints on Hepatitis C Virus Glycoprotein Evolution": {
+                    "explanation": "This paper analyzes the conservation of serine codons in HCV glycoproteins, which is not directly related to the source paper's findings on the epitopes of the E2 glycoprotein.",
+                    "relevance": 0
+                },
+                "4. Sequence and Functional Analysis of the Envelope Glycoproteins of Hepatitis C Virus Variants Selectively Transmitted to a New Host": {
+                    "explanation": "This paper explores the transmission of HCV variants and the role of envelope glycoproteins, which is related to the source paper's findings on the epitopes of the E2 glycoprotein. However, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "5. Structural and Antigenic Definition of Hepatitis C Virus E2 Glycoprotein Epitopes Targeted by Monoclonal Antibodies": {
+                    "explanation": "This paper is a review of the antigenic and structural characteristics of HCV/E2, which is related to the source paper's findings on the epitopes of the E2 glycoprotein. However, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 0
+                },
+                "6. Determination of the Human Antibody Response to the Neutralization Epitopes Encompassing Amino Acids 313\u2013327 and 432\u2013443 of Hepatitis C Virus E1E2 Glycoproteins": {
+                    "explanation": "This paper explores the human antibody response to specific epitopes of HCV E1E2 glycoproteins, which is related to the source paper's findings on the epitopes of the E2 glycoprotein. However, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "7. Multiantibody Strategies for HIV": {
+                    "explanation": "This paper is a review of multiantibody strategies for HIV, which is not directly related to the source paper's findings on HCV.",
+                    "relevance": 0
+                },
+                "8. Neutralizing Antibodies in Patients with Chronic Hepatitis C, Genotype 1, against a Panel of Genotype 1 Culture Viruses: Lack of Correlation to Treatment Outcome": {
+                    "explanation": "This paper explores the correlation between neutralizing antibodies and treatment outcome in patients with chronic HCV, which is related to the source paper's findings on the epitopes of the E2 glycoprotein. However, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "9. Structural Basis of HCV Neutralization by Human Monoclonal Antibodies Resistant to Viral Neutralization Escape": {
+                    "explanation": "This paper explores the structural basis of HCV neutralization by human monoclonal antibodies, which is partially dependent on the source paper's findings on the epitopes of the E2 glycoprotein and the use of human monoclonal antibodies.",
+                    "relevance": 2
+                },
+                "10. Broadly neutralizing antiviral antibodies": {
+                    "explanation": "This paper is a review of broadly neutralizing antiviral antibodies, which is not directly related to the source paper's findings on HCV.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Neutralization resistance of hepatitis C virus can be overcome by recombinant human monoclonal antibodies": {
+                    "explanation": "This paper discusses the neutralization resistance of HCV and how it can be overcome by recombinant human monoclonal antibodies. It is partially dependent on the source paper's findings on the epitopes of the E2 glycoprotein and the use of human monoclonal antibodies.",
+                    "relevance": 2
+                },
+                "2. Structural Basis of HCV Neutralization by Human Monoclonal Antibodies Resistant to Viral Neutralization Escape": {
+                    "explanation": "This paper explores the structural basis of HCV neutralization by human monoclonal antibodies, which is partially dependent on the source paper's findings on the epitopes of the E2 glycoprotein and the use of human monoclonal antibodies.",
+                    "relevance": 2
+                },
+                "3. Hepatitis C Virus E2 Envelope Glycoprotein Core Structure": {
+                    "explanation": "This paper explores the structure of the E2 envelope glycoprotein, which is related to the source paper's findings on the epitopes of the E2 glycoprotein. However, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2013,
+        "source_paper": {
+            "paperId": "481340eb326ee30e6de7f9ba88beeaed1bc9674a",
+            "title": "Human Monoclonal Antibodies to a Novel Cluster of Conformational Epitopes on HCV E2 with Resistance to Neutralization Escape in a Genotype 2a Isolate",
+            "abstract": "The majority of broadly neutralizing antibodies to hepatitis C virus (HCV) are against conformational epitopes on the E2 glycoprotein. Many of them recognize overlapping epitopes in a cluster, designated as antigenic domain B, that contains residues G530 and D535. To gain information on other regions that will be relevant for vaccine design, we employed yeast surface display of antibodies that bound to genotype 1a H77C E2 mutant proteins containing a substitution either at Y632A (to avoid selecting non-neutralizing antibodies) or D535A. A panel of nine human monoclonal antibodies (HMAbs) was isolated and designated as HC-84-related antibodies. Each HMAb neutralized cell culture infectious HCV (HCVcc) with genotypes 1\u20136 envelope proteins with varying profiles, and each inhibited E2 binding to the viral receptor CD81. Five of these antibodies neutralized representative genotypes 1\u20136 HCVcc. Epitope mapping identified a cluster of overlapping epitopes that included nine contact residues in two E2 regions encompassing aa418\u2013446 and aa611\u2013616. Effect on virus entry was measured using H77C HCV retroviral pseudoparticles, HCVpp, bearing an alanine substitution at each of the contact residues. Seven of ten mutant HCVpp showed over 90% reduction compared to wild-type HCVpp and two others showed approximately 80% reduction. Interestingly, four of these antibodies bound to a linear E2 synthetic peptide encompassing aa434\u2013446. This region on E2 has been proposed to elicit non-neutralizing antibodies in humans that interfere with neutralizing antibodies directed at an adjacent E2 region from aa410\u2013425. The isolation of four HC-84 HMAbs binding to the peptide, aa434\u2013446, proves that some antibodies to this region are to highly conserved epitopes mediating broad virus neutralization. Indeed, when HCVcc were passaged in the presence of each of these antibodies, virus escape was not observed. Thus, the cluster of HC-84 epitopes, designated as antigenic domain D, is relevant for vaccine design for this highly diverse virus.",
+            "year": 2012,
+            "citation_count": 210,
+            "relevance": 2,
+            "explanation": "This paper explores the use of human monoclonal antibodies in neutralizing HCV, which is related to the source paper's findings on the role of glycans in HCV envelope proteins. It also identifies a novel cluster of conformational epitopes on HCV E2, which is partially dependent on the source paper's findings."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Clinical impact of hepatitis B and C virus envelope glycoproteins": {
+                    "explanation": "This paper discusses the clinical impact of HCV envelope glycoproteins, including E2, which is the focus of the source paper. However, it does not build upon the specific findings of the source paper or use them as a sub-hypothesis. Instead, it provides a broader overview of the role of envelope glycoproteins in HCV infection.",
+                    "relevance": 1
+                },
+                "2. Hepatitis C virus vaccines in the era of new direct-acting antivirals": {
+                    "explanation": "This paper does not have a direct connection to the source paper. It discusses the development of HCV vaccines and the impact of direct-acting antivirals on HCV treatment, but does not reference or build upon the specific findings of the source paper regarding the HC-84-related antibodies and their potential for vaccine design.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Clinical impact of hepatitis B and C virus envelope glycoproteins": {
+                    "explanation": "This paper discusses the clinical impact of HCV envelope glycoproteins, including E2, which is the focus of the source paper. However, it does not build upon the specific findings of the source paper or use them as a sub-hypothesis. Instead, it provides a broader overview of the role of envelope glycoproteins in HCV infection.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2014,
+        "source_paper": {
+            "paperId": "481340eb326ee30e6de7f9ba88beeaed1bc9674a",
+            "title": "Human Monoclonal Antibodies to a Novel Cluster of Conformational Epitopes on HCV E2 with Resistance to Neutralization Escape in a Genotype 2a Isolate",
+            "abstract": "The majority of broadly neutralizing antibodies to hepatitis C virus (HCV) are against conformational epitopes on the E2 glycoprotein. Many of them recognize overlapping epitopes in a cluster, designated as antigenic domain B, that contains residues G530 and D535. To gain information on other regions that will be relevant for vaccine design, we employed yeast surface display of antibodies that bound to genotype 1a H77C E2 mutant proteins containing a substitution either at Y632A (to avoid selecting non-neutralizing antibodies) or D535A. A panel of nine human monoclonal antibodies (HMAbs) was isolated and designated as HC-84-related antibodies. Each HMAb neutralized cell culture infectious HCV (HCVcc) with genotypes 1\u20136 envelope proteins with varying profiles, and each inhibited E2 binding to the viral receptor CD81. Five of these antibodies neutralized representative genotypes 1\u20136 HCVcc. Epitope mapping identified a cluster of overlapping epitopes that included nine contact residues in two E2 regions encompassing aa418\u2013446 and aa611\u2013616. Effect on virus entry was measured using H77C HCV retroviral pseudoparticles, HCVpp, bearing an alanine substitution at each of the contact residues. Seven of ten mutant HCVpp showed over 90% reduction compared to wild-type HCVpp and two others showed approximately 80% reduction. Interestingly, four of these antibodies bound to a linear E2 synthetic peptide encompassing aa434\u2013446. This region on E2 has been proposed to elicit non-neutralizing antibodies in humans that interfere with neutralizing antibodies directed at an adjacent E2 region from aa410\u2013425. The isolation of four HC-84 HMAbs binding to the peptide, aa434\u2013446, proves that some antibodies to this region are to highly conserved epitopes mediating broad virus neutralization. Indeed, when HCVcc were passaged in the presence of each of these antibodies, virus escape was not observed. Thus, the cluster of HC-84 epitopes, designated as antigenic domain D, is relevant for vaccine design for this highly diverse virus.",
+            "year": 2012,
+            "citation_count": 210,
+            "relevance": 2,
+            "explanation": "This paper explores the use of human monoclonal antibodies in neutralizing HCV, which is related to the source paper's findings on the role of glycans in HCV envelope proteins. It also identifies a novel cluster of conformational epitopes on HCV E2, which is partially dependent on the source paper's findings."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Structural Flexibility of a Conserved Antigenic Region in Hepatitis C Virus Glycoprotein E2 Recognized by Broadly Neutralizing Antibodies": {
+                    "explanation": "This paper investigates the structural flexibility of a conserved antigenic region in HCV glycoprotein E2, which is recognized by broadly neutralizing antibodies. The source paper also explores the neutralizing antibodies to HCV E2, making this paper relevant as it builds upon the same concept.",
+                    "relevance": 1
+                },
+                "2. Breadth of neutralization and synergy of clinically relevant human monoclonal antibodies against HCV genotypes 1a, 1b, 2a, 2b, 2c, and 3a": {
+                    "explanation": "This paper examines the breadth of neutralization of human monoclonal antibodies against various HCV genotypes, which is related to the source paper's focus on broadly neutralizing antibodies to HCV E2. However, it does not directly build upon the source paper's findings, making it less relevant.",
+                    "relevance": 1
+                },
+                "3. Type I interferon rapidly restricts infectious hepatitis C virus particle genesis": {
+                    "explanation": "This paper explores the role of type I interferon in restricting HCV particle genesis, which is not directly related to the source paper's focus on neutralizing antibodies to HCV E2.",
+                    "relevance": 0
+                },
+                "4. A View of the E2-CD81 Interface at the Binding Site of a Neutralizing Antibody against Hepatitis C Virus": {
+                    "explanation": "This paper describes the interface between HCV E2 and CD81, which is relevant to the source paper's exploration of neutralizing antibodies to HCV E2. However, it does not directly build upon the source paper's findings, making it less relevant.",
+                    "relevance": 1
+                },
+                "5. Recombinant Hepatitis C Virus Envelope Glycoprotein Vaccine Elicits Antibodies Targeting Multiple Epitopes on the Envelope Glycoproteins Associated with Broad Cross-Neutralization": {
+                    "explanation": "This paper discusses the development of a recombinant HCV envelope glycoprotein vaccine that elicits broadly neutralizing antibodies, which is directly related to the source paper's focus on neutralizing antibodies to HCV E2. The paper also explores the concept of conserved epitopes, which is relevant to the source paper's findings.",
+                    "relevance": 2
+                },
+                "6. Non-random Escape Pathways from a Broadly Neutralizing Human Monoclonal Antibody Map to a Highly Conserved Region on the Hepatitis C Virus E2 Glycoprotein Encompassing Amino Acids 412\u2013423": {
+                    "explanation": "This paper examines the escape pathways of HCV from a broadly neutralizing human monoclonal antibody, which is directly related to the source paper's focus on neutralizing antibodies to HCV E2. The paper also explores the concept of conserved epitopes, which is relevant to the source paper's findings.",
+                    "relevance": 2
+                },
+                "7. Ficolin-2 Inhibits Hepatitis C Virus Infection, whereas Apolipoprotein E3 Mediates Viral Immune Escape": {
+                    "explanation": "This paper explores the role of ficolin-2 in inhibiting HCV infection and apolipoprotein E3 in mediating viral immune escape, which is not directly related to the source paper's focus on neutralizing antibodies to HCV E2.",
+                    "relevance": 0
+                },
+                "8. Fine Mapping of Murine Antibody Responses to Immunization with a Novel Soluble Form of Hepatitis C Virus Envelope Glycoprotein Complex": {
+                    "explanation": "This paper discusses the fine mapping of murine antibody responses to immunization with a novel soluble form of HCV envelope glycoprotein complex, which is related to the source paper's focus on neutralizing antibodies to HCV E2. However, it does not directly build upon the source paper's findings, making it less relevant.",
+                    "relevance": 1
+                },
+                "9. Establishment of human clones producing neutralizing human monoclonal antibodies to the envelope E1/E2 protein of hepatitis C virus by EBV immortalization of immune CD22\u207a B cells": {
+                    "explanation": "This paper describes the establishment of human clones producing neutralizing human monoclonal antibodies to HCV E1/E2, which is directly related to the source paper's focus on neutralizing antibodies to HCV E2. However, it does not directly build upon the source paper's findings, making it less relevant.",
+                    "relevance": 1
+                },
+                "10. Conformational B-Cell Epitopes Prediction from Sequences Using Cost-Sensitive Ensemble Classifiers and Spatial Clustering": {
+                    "explanation": "This paper proposes a novel method for predicting conformational B-cell epitopes from sequences, which is not directly related to the source paper's focus on neutralizing antibodies to HCV E2.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Recombinant Hepatitis C Virus Envelope Glycoprotein Vaccine Elicits Antibodies Targeting Multiple Epitopes on the Envelope Glycoproteins Associated with Broad Cross-Neutralization": {
+                    "explanation": "This paper discusses the development of a recombinant HCV envelope glycoprotein vaccine that elicits broadly neutralizing antibodies, which is directly related to the source paper's focus on neutralizing antibodies to HCV E2. The paper also explores the concept of conserved epitopes, which is relevant to the source paper's findings.",
+                    "relevance": 2
+                },
+                "2. Non-random Escape Pathways from a Broadly Neutralizing Human Monoclonal Antibody Map to a Highly Conserved Region on the Hepatitis C Virus E2 Glycoprotein Encompassing Amino Acids 412\u2013423": {
+                    "explanation": "This paper examines the escape pathways of HCV from a broadly neutralizing human monoclonal antibody, which is directly related to the source paper's focus on neutralizing antibodies to HCV E2. The paper also explores the concept of conserved epitopes, which is relevant to the source paper's findings.",
+                    "relevance": 2
+                },
+                "3. Structural Flexibility of a Conserved Antigenic Region in Hepatitis C Virus Glycoprotein E2 Recognized by Broadly Neutralizing Antibodies": {
+                    "explanation": "This paper investigates the structural flexibility of a conserved antigenic region in HCV glycoprotein E2, which is recognized by broadly neutralizing antibodies. The source paper also explores the neutralizing antibodies to HCV E2, making this paper relevant as it builds upon the same concept.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2014,
+        "source_paper": {
+            "paperId": "481340eb326ee30e6de7f9ba88beeaed1bc9674a",
+            "title": "Human Monoclonal Antibodies to a Novel Cluster of Conformational Epitopes on HCV E2 with Resistance to Neutralization Escape in a Genotype 2a Isolate",
+            "abstract": "The majority of broadly neutralizing antibodies to hepatitis C virus (HCV) are against conformational epitopes on the E2 glycoprotein. Many of them recognize overlapping epitopes in a cluster, designated as antigenic domain B, that contains residues G530 and D535. To gain information on other regions that will be relevant for vaccine design, we employed yeast surface display of antibodies that bound to genotype 1a H77C E2 mutant proteins containing a substitution either at Y632A (to avoid selecting non-neutralizing antibodies) or D535A. A panel of nine human monoclonal antibodies (HMAbs) was isolated and designated as HC-84-related antibodies. Each HMAb neutralized cell culture infectious HCV (HCVcc) with genotypes 1\u20136 envelope proteins with varying profiles, and each inhibited E2 binding to the viral receptor CD81. Five of these antibodies neutralized representative genotypes 1\u20136 HCVcc. Epitope mapping identified a cluster of overlapping epitopes that included nine contact residues in two E2 regions encompassing aa418\u2013446 and aa611\u2013616. Effect on virus entry was measured using H77C HCV retroviral pseudoparticles, HCVpp, bearing an alanine substitution at each of the contact residues. Seven of ten mutant HCVpp showed over 90% reduction compared to wild-type HCVpp and two others showed approximately 80% reduction. Interestingly, four of these antibodies bound to a linear E2 synthetic peptide encompassing aa434\u2013446. This region on E2 has been proposed to elicit non-neutralizing antibodies in humans that interfere with neutralizing antibodies directed at an adjacent E2 region from aa410\u2013425. The isolation of four HC-84 HMAbs binding to the peptide, aa434\u2013446, proves that some antibodies to this region are to highly conserved epitopes mediating broad virus neutralization. Indeed, when HCVcc were passaged in the presence of each of these antibodies, virus escape was not observed. Thus, the cluster of HC-84 epitopes, designated as antigenic domain D, is relevant for vaccine design for this highly diverse virus.",
+            "year": 2012,
+            "citation_count": 210,
+            "relevance": 2,
+            "explanation": "This paper explores the use of human monoclonal antibodies in neutralizing HCV, which is related to the source paper's findings on the role of glycans in HCV envelope proteins. It also identifies a novel cluster of conformational epitopes on HCV E2, which is partially dependent on the source paper's findings."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Challenges to the development of vaccines to hepatitis C virus that elicit neutralizing antibodies": {
+                    "explanation": "This paper is a review and does not present a novel hypothesis or findings, so it is not connected to the source paper.",
+                    "relevance": 0
+                },
+                "2. In Silico Identification and Conservation Analysis of B-cell and T-Cell Epitopes of Hepatitis C Virus 3a Genotype Enveloped Glycoprotein 2 From Pakistan: A Step Towards Heterologous Vaccine Design": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the conservation of epitopes in the E2 glycoprotein, which is also studied in the source paper.",
+                    "relevance": 1
+                },
+                "3. Clearance of hepatitis C infection is associated with the early appearance of broad neutralizing antibody responses": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the role of broad neutralizing antibody responses in clearing HCV infection, which is also related to the source paper's findings on the E2 glycoprotein.",
+                    "relevance": 1
+                },
+                "4. Hepatitis C Virus Cell-Cell Transmission and Resistance to Direct-Acting Antiviral Agents": {
+                    "explanation": "This paper does not present a hypothesis that is directly connected to the source paper, as it focuses on cell-cell transmission and resistance to antiviral agents.",
+                    "relevance": 0
+                },
+                "5. Targets for Antiviral Therapy of Hepatitis C": {
+                    "explanation": "This paper is a review and does not present a novel hypothesis or findings, so it is not connected to the source paper.",
+                    "relevance": 0
+                },
+                "6. A Neutralization Epitope in the Hepatitis C Virus E2 Glycoprotein Interacts with Host Entry Factor CD81": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates a specific neutralization epitope in the E2 glycoprotein that interacts with the host entry factor CD81, which is also studied in the source paper.",
+                    "relevance": 2
+                },
+                "7. Dengue virus envelope protein domain I/II hinge determines long-lived serotype-specific dengue immunity": {
+                    "explanation": "This paper does not present a hypothesis that is directly connected to the source paper, as it focuses on dengue virus and not HCV.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. A Neutralization Epitope in the Hepatitis C Virus E2 Glycoprotein Interacts with Host Entry Factor CD81": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates a specific neutralization epitope in the E2 glycoprotein that interacts with the host entry factor CD81, which is also studied in the source paper.",
+                    "relevance": 2
+                },
+                "2. In Silico Identification and Conservation Analysis of B-cell and T-Cell Epitopes of Hepatitis C Virus 3a Genotype Enveloped Glycoprotein 2 From Pakistan: A Step Towards Heterologous Vaccine Design": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the conservation of epitopes in the E2 glycoprotein, which is also studied in the source paper.",
+                    "relevance": 1
+                },
+                "3. Clearance of hepatitis C infection is associated with the early appearance of broad neutralizing antibody responses": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the role of broad neutralizing antibody responses in clearing HCV infection, which is also related to the source paper's findings on the E2 glycoprotein.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2014,
+        "source_paper": {
+            "paperId": "e43223028cac46e87b859ac27daae22dd50837f8",
+            "title": "Structural Basis of HCV Neutralization by Human Monoclonal Antibodies Resistant to Viral Neutralization Escape",
+            "abstract": "The high mutation rate of hepatitis C virus allows it to rapidly evade the humoral immune response. However, certain epitopes in the envelope glycoproteins cannot vary without compromising virus viability. Antibodies targeting these epitopes are resistant to viral escape from neutralization and understanding their binding-mode is important for vaccine design. Human monoclonal antibodies HC84-1 and HC84-27 target conformational epitopes overlapping the CD81 receptor-binding site, formed by segments aa434\u2013446 and aa610\u2013619 within the major HCV glycoprotein E2. No neutralization escape was yet observed for these antibodies. We report here the crystal structures of their Fab fragments in complex with a synthetic peptide comprising aa434\u2013446. The structures show that the peptide adopts an \u03b1-helical conformation with the main contact residues F442 and Y443 forming a hydrophobic protrusion. The peptide retained its conformation in both complexes, independently of crystal packing, indicating that it reflects a surface feature of the folded glycoprotein that is exposed similarly on the virion. The same residues of E2 are also involved in interaction with CD81, suggesting that the cellular receptor binds the same surface feature and potential escape mutants critically compromise receptor binding. In summary, our results identify a critical structural motif at the E2 surface, which is essential for virus propagation and therefore represents an ideal candidate for structure-based immunogen design for vaccine development.",
+            "year": 2013,
+            "citation_count": 93,
+            "relevance": 2,
+            "explanation": "This paper explores the structural basis of HCV neutralization by human monoclonal antibodies, which is partially dependent on the source paper's findings on the epitopes of the E2 glycoprotein and the use of human monoclonal antibodies."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Structural Flexibility of a Conserved Antigenic Region in Hepatitis C Virus Glycoprotein E2 Recognized by Broadly Neutralizing Antibodies": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the structural flexibility of a conserved antigenic region in HCV glycoprotein E2, building on the source paper's results regarding the importance of certain epitopes in E2 for neutralization.",
+                    "relevance": 1
+                },
+                "2. A View of the E2-CD81 Interface at the Binding Site of a Neutralizing Antibody against Hepatitis C Virus": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it describes the binding interface between E2 and CD81, which is related to the epitopes identified in the source paper as being resistant to viral escape from neutralization.",
+                    "relevance": 2
+                },
+                "3. Non-random Escape Pathways from a Broadly Neutralizing Human Monoclonal Antibody Map to a Highly Conserved Region on the Hepatitis C Virus E2 Glycoprotein Encompassing Amino Acids 412\u2013423": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the escape pathways from a broadly neutralizing human monoclonal antibody, building on the source paper's results regarding the importance of certain epitopes in E2 for neutralization.",
+                    "relevance": 1
+                },
+                "4. Discrete conformations of epitope II on the hepatitis C virus E2 protein for antibody-mediated neutralization and nonneutralization": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the discrete conformations of epitope II on the HCV E2 protein, building on the source paper's results regarding the importance of certain epitopes in E2 for neutralization.",
+                    "relevance": 1
+                },
+                "5. Fine Mapping of Murine Antibody Responses to Immunization with a Novel Soluble Form of Hepatitis C Virus Envelope Glycoprotein Complex": {
+                    "explanation": "The hypothesis in this paper is not directly related to the source paper, as it investigates the antibody responses to immunization with a novel soluble form of HCV envelope glycoprotein complex, which is a different topic from the source paper's focus on the structural basis of HCV neutralization by human monoclonal antibodies.",
+                    "relevance": 0
+                },
+                "6. Establishment of human clones producing neutralizing human monoclonal antibodies to the envelope E1/E2 protein of hepatitis C virus by EBV immortalization of immune CD22\u207a B cells": {
+                    "explanation": "The hypothesis in this paper is not directly related to the source paper, as it investigates the establishment of human clones producing neutralizing human monoclonal antibodies, which is a different topic from the source paper's focus on the structural basis of HCV neutralization by human monoclonal antibodies.",
+                    "relevance": 0
+                },
+                "7. Challenges to the development of vaccines to hepatitis C virus that elicit neutralizing antibodies": {
+                    "explanation": "The hypothesis in this paper is not directly related to the source paper, as it is a review paper that discusses the challenges to the development of vaccines to HCV, which is a different topic from the source paper's focus on the structural basis of HCV neutralization by human monoclonal antibodies.",
+                    "relevance": 0
+                },
+                "8. CD81 and Hepatitis C Virus (HCV) Infection": {
+                    "explanation": "The hypothesis in this paper is not directly related to the source paper, as it is a review paper that discusses the role of CD81 in HCV infection, which is a different topic from the source paper's focus on the structural basis of HCV neutralization by human monoclonal antibodies.",
+                    "relevance": 0
+                },
+                "9. Evolution of a Cell Culture-Derived Genotype 1a Hepatitis C Virus (H77S.2) during Persistent Infection with Chronic Hepatitis in a Chimpanzee": {
+                    "explanation": "The hypothesis in this paper is not directly related to the source paper, as it investigates the evolution of a cell culture-derived genotype 1a HCV during persistent infection in a chimpanzee, which is a different topic from the source paper's focus on the structural basis of HCV neutralization by human monoclonal antibodies.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. A View of the E2-CD81 Interface at the Binding Site of a Neutralizing Antibody against Hepatitis C Virus": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it describes the binding interface between E2 and CD81, which is related to the epitopes identified in the source paper as being resistant to viral escape from neutralization.",
+                    "relevance": 2
+                },
+                "2. Structural Flexibility of a Conserved Antigenic Region in Hepatitis C Virus Glycoprotein E2 Recognized by Broadly Neutralizing Antibodies": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the structural flexibility of a conserved antigenic region in HCV glycoprotein E2, building on the source paper's results regarding the importance of certain epitopes in E2 for neutralization.",
+                    "relevance": 1
+                },
+                "3. Non-random Escape Pathways from a Broadly Neutralizing Human Monoclonal Antibody Map to a Highly Conserved Region on the Hepatitis C Virus E2 Glycoprotein Encompassing Amino Acids 412\u2013423": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the escape pathways from a broadly neutralizing human monoclonal antibody, building on the source paper's results regarding the importance of certain epitopes in E2 for neutralization.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2015,
+        "source_paper": {
+            "paperId": "e43223028cac46e87b859ac27daae22dd50837f8",
+            "title": "Structural Basis of HCV Neutralization by Human Monoclonal Antibodies Resistant to Viral Neutralization Escape",
+            "abstract": "The high mutation rate of hepatitis C virus allows it to rapidly evade the humoral immune response. However, certain epitopes in the envelope glycoproteins cannot vary without compromising virus viability. Antibodies targeting these epitopes are resistant to viral escape from neutralization and understanding their binding-mode is important for vaccine design. Human monoclonal antibodies HC84-1 and HC84-27 target conformational epitopes overlapping the CD81 receptor-binding site, formed by segments aa434\u2013446 and aa610\u2013619 within the major HCV glycoprotein E2. No neutralization escape was yet observed for these antibodies. We report here the crystal structures of their Fab fragments in complex with a synthetic peptide comprising aa434\u2013446. The structures show that the peptide adopts an \u03b1-helical conformation with the main contact residues F442 and Y443 forming a hydrophobic protrusion. The peptide retained its conformation in both complexes, independently of crystal packing, indicating that it reflects a surface feature of the folded glycoprotein that is exposed similarly on the virion. The same residues of E2 are also involved in interaction with CD81, suggesting that the cellular receptor binds the same surface feature and potential escape mutants critically compromise receptor binding. In summary, our results identify a critical structural motif at the E2 surface, which is essential for virus propagation and therefore represents an ideal candidate for structure-based immunogen design for vaccine development.",
+            "year": 2013,
+            "citation_count": 93,
+            "relevance": 2,
+            "explanation": "This paper explores the structural basis of HCV neutralization by human monoclonal antibodies, which is partially dependent on the source paper's findings on the epitopes of the E2 glycoprotein and the use of human monoclonal antibodies."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Monoclonal Antibodies Directed toward the Hepatitis C Virus Glycoprotein E2 Detect Antigenic Differences Modulated by the N-Terminal Hypervariable Region 1 (HVR1), HVR2, and Intergenotypic Variable Region": {
+                    "explanation": "This paper explores the influence of variable regions on the antigenicity of the E2 glycoprotein, which is related to the source paper's focus on the structural basis of HCV neutralization by human monoclonal antibodies. However, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "2. Current and future prophylactic vaccines for hepatitis C virus": {
+                    "explanation": "This paper discusses the development of prophylactic vaccines for HCV, which is a broader topic that encompasses the source paper's focus on the structural basis of HCV neutralization. However, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "3. Genetic Diversity Underlying the Envelope Glycoproteins of Hepatitis C Virus: Structural and Functional Consequences and the Implications for Vaccine Design": {
+                    "explanation": "This paper reviews the current knowledge of HCV envelope protein structure and its implications for vaccine design, which is related to the source paper's focus on the structural basis of HCV neutralization. However, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "4. HCV envelope glycoproteins in evirion assembly and entry": {
+                    "explanation": "This paper is a review that summarizes the biogenesis of HCV envelope glycoproteins and their role in HCV morphogenesis, which is a broader topic that does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 0
+                },
+                "5. Naturally selected hepatitis C virus polymorphisms confer broad neutralizing antibody resistance": {
+                    "explanation": "This paper investigates the development of resistance to anti-HCV mAbs, which is related to the source paper's focus on the structural basis of HCV neutralization. The paper's findings on the polymorphisms that confer resistance to multiple broadly neutralizing mAbs depend on the understanding of the E2 glycoprotein structure, making it partially dependent on the source paper's findings.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Naturally selected hepatitis C virus polymorphisms confer broad neutralizing antibody resistance": {
+                    "explanation": "This paper investigates the development of resistance to anti-HCV mAbs, which is related to the source paper's focus on the structural basis of HCV neutralization. The paper's findings on the polymorphisms that confer resistance to multiple broadly neutralizing mAbs depend on the understanding of the E2 glycoprotein structure, making it partially dependent on the source paper's findings.",
+                    "relevance": 2
+                },
+                "2. Monoclonal Antibodies Directed toward the Hepatitis C Virus Glycoprotein E2 Detect Antigenic Differences Modulated by the N-Terminal Hypervariable Region 1 (HVR1), HVR2, and Intergenotypic Variable Region": {
+                    "explanation": "This paper explores the influence of variable regions on the antigenicity of the E2 glycoprotein, which is related to the source paper's focus on the structural basis of HCV neutralization by human monoclonal antibodies. However, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "3. Current and future prophylactic vaccines for hepatitis C virus": {
+                    "explanation": "This paper discusses the development of prophylactic vaccines for HCV, which is a broader topic that encompasses the source paper's focus on the structural basis of HCV neutralization. However, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2016,
+        "source_paper": {
+            "paperId": "41de77d5ae34eebc3fcbd2a502a1ff2e6698ec31",
+            "title": "Naturally selected hepatitis C virus polymorphisms confer broad neutralizing antibody resistance.",
+            "abstract": "For hepatitis C virus (HCV) and other highly variable viruses, broadly neutralizing mAbs are an important guide for vaccine development. The development of resistance to anti-HCV mAbs is poorly understood, in part due to a lack of neutralization testing against diverse, representative panels of HCV variants. Here, we developed a neutralization panel expressing diverse, naturally occurring HCV envelopes (E1E2s) and used this panel to characterize neutralizing breadth and resistance mechanisms of 18 previously described broadly neutralizing anti-HCV human mAbs. The observed mAb resistance could not be attributed to polymorphisms in E1E2 at known mAb-binding residues. Additionally, hierarchical clustering analysis of neutralization resistance patterns revealed relationships between mAbs that were not predicted by prior epitope mapping, identifying 3 distinct neutralization clusters. Using this clustering analysis and envelope sequence data, we identified polymorphisms in E2 that confer resistance to multiple broadly neutralizing mAbs. These polymorphisms, which are not at mAb contact residues, also conferred resistance to neutralization by plasma from HCV-infected subjects. Together, our method of neutralization clustering with sequence analysis reveals that polymorphisms at noncontact residues may be a major immune evasion mechanism for HCV, facilitating viral persistence and presenting a challenge for HCV vaccine development.",
+            "year": 2015,
+            "citation_count": 83,
+            "relevance": 2,
+            "explanation": "This paper investigates the development of resistance to anti-HCV mAbs, which is related to the source paper's focus on the structural basis of HCV neutralization. The paper's findings on the polymorphisms that confer resistance to multiple broadly neutralizing mAbs depend on the understanding of the E2 glycoprotein structure, making it partially dependent on the source paper's findings."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Affinity maturation of a broadly neutralizing human monoclonal antibody that prevents acute hepatitis C virus infection in mice": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it aims to increase the barrier to resistance by using neutralizing human monoclonal antibodies (HMAbs) to prevent acute infection, which is a continuation of the source paper's results regarding HCV's resistance mechanisms to anti-HCV mAbs.",
+                    "relevance": 1
+                },
+                "2. Hepatitis C virus resistance to broadly neutralizing antibodies measured using replication-competent virus and pseudoparticles": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it uses a diverse panel of human broadly neutralizing monoclonal antibodies (bNAbs) targeting distinct epitopes to compare neutralization of E1E2-matched HCVcc and HCVpp, which builds upon the source paper's method of neutralization clustering with sequence analysis.",
+                    "relevance": 2
+                },
+                "3. Global mapping of antibody recognition of the hepatitis C virus E2 glycoprotein: Implications for vaccine design": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it aims to enable rational vaccine design by performing alanine scanning of nearly all positions of the E2 envelope protein, which is the primary target of the antibody response, and is thus a continuation of the source paper's results regarding polymorphisms in E2 that confer resistance to multiple broadly neutralizing mAbs.",
+                    "relevance": 1
+                },
+                "4. Novel functional hepatitis C virus glycoprotein isolates identified using an optimized viral pseudotype entry assay": {
+                    "explanation": "The hypothesis in this paper has no connection with the source paper, as it investigates factors that might limit phenotyping of patient-isolated HCV glycoproteins using an optimized viral pseudotype entry assay, which is a different research direction.",
+                    "relevance": 0
+                },
+                "5. E1/E2 of Hepatitis C Virus Genotype4 and Apoptosis": {
+                    "explanation": "The hypothesis in this paper has no connection with the source paper, as it investigates the possible significance of the E1/E2 polyprotein region of the HCV GT4 in apoptosis, which is a different research direction.",
+                    "relevance": 0
+                },
+                "6. Role of Conserved E2 Residue W420 in Receptor Binding and Hepatitis C Virus Infection": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the importance of W420 in the context of the native virion, which is a continuation of the source paper's results regarding polymorphisms in E2 that confer resistance to multiple broadly neutralizing mAbs.",
+                    "relevance": 1
+                },
+                "7. CD4+ T-cell recovery with suppressive ART-induced rapid sequence evolution in hepatitis C virus envelope but not NS3": {
+                    "explanation": "The hypothesis in this paper has no connection with the source paper, as it examines the effects of ART on long-term HCV evolution in HIV/HCV coinfected patients, which is a different research direction.",
+                    "relevance": 0
+                },
+                "8. Broad Anti-Hepatitis C Virus (HCV) Antibody Responses Are Associated with Improved Clinical Disease Parameters in Chronic HCV Infection": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates whether broadly neutralizing antibody (bNAb) responses targeting E1E2 envelope glycoproteins are associated with differences in clinical presentation, which is a continuation of the source paper's results regarding polymorphisms in E2 that confer resistance to multiple broadly neutralizing mAbs.",
+                    "relevance": 1
+                },
+                "9. A Hepatitis C Virus Envelope Polymorphism Confers Resistance to Neutralization by Polyclonal Sera and Broadly Neutralizing Monoclonal Antibodies": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it identifies a viral polymorphism conferring resistance to neutralization by both polyclonal plasma and broadly neutralizing monoclonal antibodies, which builds upon the source paper's method of neutralization clustering with sequence analysis.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Hepatitis C virus resistance to broadly neutralizing antibodies measured using replication-competent virus and pseudoparticles": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it uses a diverse panel of human broadly neutralizing monoclonal antibodies (bNAbs) targeting distinct epitopes to compare neutralization of E1E2-matched HCVcc and HCVpp, which builds upon the source paper's method of neutralization clustering with sequence analysis.",
+                    "relevance": 2
+                },
+                "2. A Hepatitis C Virus Envelope Polymorphism Confers Resistance to Neutralization by Polyclonal Sera and Broadly Neutralizing Monoclonal Antibodies": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it identifies a viral polymorphism conferring resistance to neutralization by both polyclonal plasma and broadly neutralizing monoclonal antibodies, which builds upon the source paper's method of neutralization clustering with sequence analysis.",
+                    "relevance": 2
+                },
+                "3. Affinity maturation of a broadly neutralizing human monoclonal antibody that prevents acute hepatitis C virus infection in mice": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it aims to increase the barrier to resistance by using neutralizing human monoclonal antibodies (HMAbs) to prevent acute infection, which is a continuation of the source paper's results regarding HCV's resistance mechanisms to anti-HCV mAbs.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2017,
+        "source_paper": {
+            "paperId": "41de77d5ae34eebc3fcbd2a502a1ff2e6698ec31",
+            "title": "Naturally selected hepatitis C virus polymorphisms confer broad neutralizing antibody resistance.",
+            "abstract": "For hepatitis C virus (HCV) and other highly variable viruses, broadly neutralizing mAbs are an important guide for vaccine development. The development of resistance to anti-HCV mAbs is poorly understood, in part due to a lack of neutralization testing against diverse, representative panels of HCV variants. Here, we developed a neutralization panel expressing diverse, naturally occurring HCV envelopes (E1E2s) and used this panel to characterize neutralizing breadth and resistance mechanisms of 18 previously described broadly neutralizing anti-HCV human mAbs. The observed mAb resistance could not be attributed to polymorphisms in E1E2 at known mAb-binding residues. Additionally, hierarchical clustering analysis of neutralization resistance patterns revealed relationships between mAbs that were not predicted by prior epitope mapping, identifying 3 distinct neutralization clusters. Using this clustering analysis and envelope sequence data, we identified polymorphisms in E2 that confer resistance to multiple broadly neutralizing mAbs. These polymorphisms, which are not at mAb contact residues, also conferred resistance to neutralization by plasma from HCV-infected subjects. Together, our method of neutralization clustering with sequence analysis reveals that polymorphisms at noncontact residues may be a major immune evasion mechanism for HCV, facilitating viral persistence and presenting a challenge for HCV vaccine development.",
+            "year": 2015,
+            "citation_count": 83,
+            "relevance": 2,
+            "explanation": "This paper investigates the development of resistance to anti-HCV mAbs, which is related to the source paper's focus on the structural basis of HCV neutralization. The paper's findings on the polymorphisms that confer resistance to multiple broadly neutralizing mAbs depend on the understanding of the E2 glycoprotein structure, making it partially dependent on the source paper's findings."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Synergistic anti-HCV broadly neutralizing human monoclonal antibodies with independent mechanisms": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the combination of neutralizing monoclonal antibodies (NAbs) to achieve greater neutralizing breadth, building on the source paper's results regarding HCV's neutralization mechanisms.",
+                    "relevance": 1
+                },
+                "2. Probing the antigenicity of hepatitis C virus envelope glycoprotein complex by high-throughput mutagenesis": {
+                    "explanation": "This paper has no direct connection to the source paper's findings on polymorphisms conferring resistance to broadly neutralizing antibodies. It presents a new method for studying the antigenicity of HCV envelope glycoproteins.",
+                    "relevance": 0
+                },
+                "3. Innate and Adaptive Immune Responses in Chronic HCV Infection": {
+                    "explanation": "This paper is a review of immune responses to HCV infection and does not directly build upon the source paper's findings. It provides a general overview of the topic without presenting new hypotheses or findings.",
+                    "relevance": 0
+                },
+                "4. Broadly neutralizing antibodies with few somatic mutations and hepatitis C virus clearance": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the characteristics of broadly neutralizing antibodies (bNAbs) that can achieve substantial neutralizing breadth with relatively few somatic mutations, which is related to the source paper's findings on HCV's neutralization mechanisms.",
+                    "relevance": 2
+                },
+                "5. Applying antibody-sensitive hypervariable region 1-deleted hepatitis C virus to the study of escape pathways of neutralizing human monoclonal antibody AR5A": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the escape pathways of neutralizing human monoclonal antibodies, which is related to the source paper's findings on HCV's neutralization mechanisms and polymorphisms conferring resistance to broadly neutralizing antibodies.",
+                    "relevance": 2
+                },
+                "6. Extra-epitopic hepatitis C virus polymorphisms confer resistance to broadly neutralizing antibodies by modulating binding to scavenger receptor B1": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the mechanisms of HCV resistance to broadly neutralizing antibodies, specifically the role of extra-epitopic polymorphisms, which is related to the source paper's findings on HCV's neutralization mechanisms.",
+                    "relevance": 2
+                },
+                "7. Humoral immune system targets clonotypic antibody-associated hepatitis C virus": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the humoral immune system's targeting of clonotypic HCV variants, building on the source paper's results regarding HCV's neutralization mechanisms.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Broadly neutralizing antibodies with few somatic mutations and hepatitis C virus clearance": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the characteristics of broadly neutralizing antibodies (bNAbs) that can achieve substantial neutralizing breadth with relatively few somatic mutations, which is related to the source paper's findings on HCV's neutralization mechanisms.",
+                    "relevance": 2
+                },
+                "2. Applying antibody-sensitive hypervariable region 1-deleted hepatitis C virus to the study of escape pathways of neutralizing human monoclonal antibody AR5A": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the escape pathways of neutralizing human monoclonal antibodies, which is related to the source paper's findings on HCV's neutralization mechanisms and polymorphisms conferring resistance to broadly neutralizing antibodies.",
+                    "relevance": 2
+                },
+                "3. Extra-epitopic hepatitis C virus polymorphisms confer resistance to broadly neutralizing antibodies by modulating binding to scavenger receptor B1": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the mechanisms of HCV resistance to broadly neutralizing antibodies, specifically the role of extra-epitopic polymorphisms, which is related to the source paper's findings on HCV's neutralization mechanisms.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2018,
+        "source_paper": {
+            "paperId": "7167fb7f96563f689d30ade81a10eed3868c8316",
+            "title": "Broadly neutralizing antibodies with few somatic mutations and hepatitis C virus clearance.",
+            "abstract": "Here, we report the isolation of broadly neutralizing mAbs (bNAbs) from persons with broadly neutralizing serum who spontaneously cleared hepatitis C virus (HCV) infection. We found that bNAbs from two donors bound the same epitope and were encoded by the same germline heavy chain variable gene segment. Remarkably, these bNAbs were encoded by antibody variable genes with sparse somatic mutations. For one of the most potent bNAbs, these somatic mutations were critical for antibody neutralizing breadth and for binding to autologous envelope variants circulating late in infection. However, somatic mutations were not necessary for binding of the bNAb unmutated ancestor to envelope proteins of early autologous transmitted/founder viruses. This study identifies a public B cell clonotype favoring early recognition of a conserved HCV epitope, proving that anti-HCV bNAbs can achieve substantial neutralizing breadth with relatively few somatic mutations, and identifies HCV envelope variants that favored selection and maturation of an anti-HCV bNAb in vivo. These data provide insight into the molecular mechanisms of immune-mediated clearance of HCV infection and present a roadmap to guide development of a vaccine capable of stimulating anti-HCV bNAbs with a physiologic number of somatic mutations characteristic of vaccine responses.",
+            "year": 2017,
+            "citation_count": 113,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the characteristics of broadly neutralizing antibodies (bNAbs) that can achieve substantial neutralizing breadth with relatively few somatic mutations, which is related to the source paper's findings on HCV's neutralization mechanisms."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Antibody Repertoire Analysis of Hepatitis C Virus Infections Identifies Immune Signatures Associated With Spontaneous Clearance": {
+                    "explanation": "The key hypothesis in this paper is inspired by the findings of the source paper, as it investigates the immune signatures associated with spontaneous clearance of HCV and the characteristics of antibodies that are associated with clearance.",
+                    "relevance": 1
+                },
+                "2. HCV-Specific T Cell Responses During and After Chronic HCV Infection": {
+                    "explanation": "This paper is a review paper that summarizes the current knowledge on HCV-specific T cell responses and does not have a direct connection to the source paper.",
+                    "relevance": 0
+                },
+                "3. Understanding the Determinants of BnAb Induction in Acute HCV Infection": {
+                    "explanation": "The key hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the factors associated with the early development of broadly neutralizing antibodies (BnAbs) in natural infection, building on the source paper's results regarding the characteristics of BnAbs.",
+                    "relevance": 2
+                },
+                "4. Defining Breadth of Hepatitis C Virus Neutralization": {
+                    "explanation": "The key hypothesis in this paper is partially dependent on the findings of the source paper, as it discusses the importance of accurate measurement of the breadth of antibody neutralizing activity across diverse HCV isolates and the use of panels of HCV pseudoparticle (HCVpp) or replication-competent cell culture viruses (HCVcc) to measure neutralizing breadth of antibodies.",
+                    "relevance": 2
+                },
+                "5. Superinfection and cure of infected cells as mechanisms for hepatitis C virus adaptation and persistence": {
+                    "explanation": "This paper does not have a direct connection to the source paper, as it investigates the mechanisms of HCV adaptation and persistence, which is a different topic from the characteristics of broadly neutralizing antibodies.",
+                    "relevance": 0
+                },
+                "6. Hepatitis C Vaccines, Antibodies, and T Cells": {
+                    "explanation": "This paper is a review paper that summarizes the current knowledge on HCV vaccines, antibodies, and T cells and does not have a direct connection to the source paper.",
+                    "relevance": 0
+                },
+                "7. Predicting the Effectiveness of Hepatitis C Virus Neutralizing Antibodies by Bioinformatic Analysis of Conserved Epitope Residues Using Public Sequence Data": {
+                    "explanation": "The key hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the conserved epitopes of broadly neutralizing antibodies (BnAbs) and their potential as vaccine leads, building on the source paper's results regarding the characteristics of BnAbs.",
+                    "relevance": 2
+                },
+                "8. The Neutralizing Face of Hepatitis C Virus E2 Envelope Glycoprotein": {
+                    "explanation": "The key hypothesis in this paper is partially dependent on the findings of the source paper, as it discusses the structural analyses of the neutralizing sites on the E2 glycoprotein and their potential as targets for broadly neutralizing antibodies, building on the source paper's results regarding the characteristics of BnAbs.",
+                    "relevance": 2
+                },
+                "9. Neutrophils are essential for induction of vaccine-like effects by antiviral monoclonal antibody immunotherapies": {
+                    "explanation": "This paper does not have a direct connection to the source paper, as it investigates the role of neutrophils in antiviral monoclonal antibody immunotherapies, which is a different topic from the characteristics of broadly neutralizing antibodies.",
+                    "relevance": 0
+                },
+                "10. In-Depth Analysis of Human Neonatal and Adult IgM Antibody Repertoires": {
+                    "explanation": "This paper does not have a direct connection to the source paper, as it investigates the characteristics of human IgM antibody repertoires, which is a different topic from the characteristics of broadly neutralizing antibodies in HCV infection.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Understanding the Determinants of BnAb Induction in Acute HCV Infection": {
+                    "explanation": "The key hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the factors associated with the early development of broadly neutralizing antibodies (BnAbs) in natural infection, building on the source paper's results regarding the characteristics of BnAbs.",
+                    "relevance": 2
+                },
+                "2. Defining Breadth of Hepatitis C Virus Neutralization": {
+                    "explanation": "The key hypothesis in this paper is partially dependent on the findings of the source paper, as it discusses the importance of accurate measurement of the breadth of antibody neutralizing activity across diverse HCV isolates and the use of panels of HCV pseudoparticle (HCVpp) or replication-competent cell culture viruses (HCVcc) to measure neutralizing breadth of antibodies.",
+                    "relevance": 2
+                },
+                "3. Predicting the Effectiveness of Hepatitis C Virus Neutralizing Antibodies by Bioinformatic Analysis of Conserved Epitope Residues Using Public Sequence Data": {
+                    "explanation": "The key hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the conserved epitopes of broadly neutralizing antibodies (BnAbs) and their potential as vaccine leads, building on the source paper's results regarding the characteristics of BnAbs.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2018,
+        "source_paper": {
+            "paperId": "7167fb7f96563f689d30ade81a10eed3868c8316",
+            "title": "Broadly neutralizing antibodies with few somatic mutations and hepatitis C virus clearance.",
+            "abstract": "Here, we report the isolation of broadly neutralizing mAbs (bNAbs) from persons with broadly neutralizing serum who spontaneously cleared hepatitis C virus (HCV) infection. We found that bNAbs from two donors bound the same epitope and were encoded by the same germline heavy chain variable gene segment. Remarkably, these bNAbs were encoded by antibody variable genes with sparse somatic mutations. For one of the most potent bNAbs, these somatic mutations were critical for antibody neutralizing breadth and for binding to autologous envelope variants circulating late in infection. However, somatic mutations were not necessary for binding of the bNAb unmutated ancestor to envelope proteins of early autologous transmitted/founder viruses. This study identifies a public B cell clonotype favoring early recognition of a conserved HCV epitope, proving that anti-HCV bNAbs can achieve substantial neutralizing breadth with relatively few somatic mutations, and identifies HCV envelope variants that favored selection and maturation of an anti-HCV bNAb in vivo. These data provide insight into the molecular mechanisms of immune-mediated clearance of HCV infection and present a roadmap to guide development of a vaccine capable of stimulating anti-HCV bNAbs with a physiologic number of somatic mutations characteristic of vaccine responses.",
+            "year": 2017,
+            "citation_count": 113,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the characteristics of broadly neutralizing antibodies (bNAbs) that can achieve substantial neutralizing breadth with relatively few somatic mutations, which is related to the source paper's findings on HCV's neutralization mechanisms."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Insights into the Structural Basis of Antibody Affinity Maturation from Next-Generation Sequencing": {
+                    "explanation": "This paper explores the structural basis of antibody affinity maturation, which is a related concept to the source paper's discussion of broadly neutralizing antibodies with few somatic mutations. However, the paper does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "2. Broadly neutralizing antibodies against HCV use a CDRH3 disulfide motif to recognize an E2 glycoprotein site that can be targeted for vaccine design": {
+                    "explanation": "This paper investigates the structural basis of broadly neutralizing antibodies against HCV, which is directly related to the source paper's topic. The paper's findings on the CDRH3 disulfide motif and its role in recognizing the E2 glycoprotein site are inspired by the source paper's identification of broadly neutralizing antibodies with few somatic mutations.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Broadly neutralizing antibodies against HCV use a CDRH3 disulfide motif to recognize an E2 glycoprotein site that can be targeted for vaccine design": {
+                    "explanation": "This paper investigates the structural basis of broadly neutralizing antibodies against HCV, which is directly related to the source paper's topic. The paper's findings on the CDRH3 disulfide motif and its role in recognizing the E2 glycoprotein site are inspired by the source paper's identification of broadly neutralizing antibodies with few somatic mutations.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2019,
+        "source_paper": {
+            "paperId": "7167fb7f96563f689d30ade81a10eed3868c8316",
+            "title": "Broadly neutralizing antibodies with few somatic mutations and hepatitis C virus clearance.",
+            "abstract": "Here, we report the isolation of broadly neutralizing mAbs (bNAbs) from persons with broadly neutralizing serum who spontaneously cleared hepatitis C virus (HCV) infection. We found that bNAbs from two donors bound the same epitope and were encoded by the same germline heavy chain variable gene segment. Remarkably, these bNAbs were encoded by antibody variable genes with sparse somatic mutations. For one of the most potent bNAbs, these somatic mutations were critical for antibody neutralizing breadth and for binding to autologous envelope variants circulating late in infection. However, somatic mutations were not necessary for binding of the bNAb unmutated ancestor to envelope proteins of early autologous transmitted/founder viruses. This study identifies a public B cell clonotype favoring early recognition of a conserved HCV epitope, proving that anti-HCV bNAbs can achieve substantial neutralizing breadth with relatively few somatic mutations, and identifies HCV envelope variants that favored selection and maturation of an anti-HCV bNAb in vivo. These data provide insight into the molecular mechanisms of immune-mediated clearance of HCV infection and present a roadmap to guide development of a vaccine capable of stimulating anti-HCV bNAbs with a physiologic number of somatic mutations characteristic of vaccine responses.",
+            "year": 2017,
+            "citation_count": 113,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the characteristics of broadly neutralizing antibodies (bNAbs) that can achieve substantial neutralizing breadth with relatively few somatic mutations, which is related to the source paper's findings on HCV's neutralization mechanisms."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Antibody Responses to Immunization With HCV Envelope Glycoproteins as a Baseline for B cell-Based Vaccine Development": {
+                    "explanation": "This paper explores the antibody responses to HCV antigens E1 and E2 and the relevance of animal models for vaccine development, which is inspired by the findings of the source paper regarding the role of broadly neutralizing antibodies in HCV clearance.",
+                    "relevance": 1
+                },
+                "2. Plasma deconvolution identifies broadly neutralizing antibodies associated with hepatitis C virus clearance": {
+                    "explanation": "This paper investigates the identification of broadly neutralizing antibodies associated with HCV clearance, which is partially dependent on the findings of the source paper regarding the role of broadly neutralizing antibodies in HCV clearance.",
+                    "relevance": 2
+                },
+                "3. Challenges and Promise of a Hepatitis C Virus Vaccine": {
+                    "explanation": "This paper discusses the challenges and promise of a Hepatitis C virus vaccine, which is not directly related to the source paper and does not present new hypotheses or findings.",
+                    "relevance": 0
+                },
+                "4. Repertoire and neutralizing activity of antibodies against E2 peptide in patients with spontaneous resolution of hepatitis C": {
+                    "explanation": "This paper characterizes the immunoglobulin repertoire of memory B cell antibodies against a linear epitope in the central front layer of HCV envelope (E2), which is partially dependent on the findings of the source paper regarding the role of broadly neutralizing antibodies in HCV clearance.",
+                    "relevance": 2
+                },
+                "5. Trait-space patterning and the role of feedback in antigen-immunity coevolution": {
+                    "explanation": "This paper discusses the coevolutionary arms races between interacting populations and the adaptive immune system, which is not directly related to the source paper and does not present new hypotheses or findings.",
+                    "relevance": 0
+                },
+                "6. Single-Dose Vaccination with a Hepatotropic Adeno-associated Virus Efficiently Localizes T Cell Immunity in the Liver with the Potential To Confer Rapid Protection against Hepatitis C Virus": {
+                    "explanation": "This paper explores the development of an effective vaccine that elicits T cell immunity in the liver, which is inspired by the findings of the source paper regarding the role of broadly neutralizing antibodies in HCV clearance.",
+                    "relevance": 1
+                },
+                "7. Broadly Neutralizing Antibodies Targeting New Sites of Vulnerability in Hepatitis C Virus E1E2": {
+                    "explanation": "This paper characterizes 13 monoclonal antibodies from a single person who cleared an HCV infection without treatment, which is partially dependent on the findings of the source paper regarding the role of broadly neutralizing antibodies in HCV clearance.",
+                    "relevance": 2
+                },
+                "8. Broadly neutralizing antibodies from an individual that naturally cleared multiple hepatitis C virus infections uncover molecular determinants for E2 targeting and vaccine design": {
+                    "explanation": "This paper isolates and characterizes neutralizing human monoclonal antibodies to HCV from an individual who cleared three sequential HCV infections, which is partially dependent on the findings of the source paper regarding the role of broadly neutralizing antibodies in HCV clearance.",
+                    "relevance": 2
+                },
+                "9. Toward DNA-Based T-Cell Mediated Vaccines to Target HIV-1 and Hepatitis C Virus: Approaches to Elicit Localized Immunity for Protection": {
+                    "explanation": "This paper discusses the development of DNA-based T-cell mediated vaccines to target HIV-1 and HCV, which is not directly related to the source paper and does not present new hypotheses or findings.",
+                    "relevance": 0
+                },
+                "10. Hepatitis C Virus Genetic Variability, Human Immune Response, and Genome Polymorphisms: Which Is the Interplay?": {
+                    "explanation": "This paper summarizes the data on HCV diversity and the current state of knowledge about the contributions of antibodies, T cells, and host genetic polymorphism in driving HCV evolution in vivo, which is not directly related to the source paper and does not present new hypotheses or findings.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Plasma deconvolution identifies broadly neutralizing antibodies associated with hepatitis C virus clearance": {
+                    "explanation": "This paper investigates the identification of broadly neutralizing antibodies associated with HCV clearance, which is partially dependent on the findings of the source paper regarding the role of broadly neutralizing antibodies in HCV clearance.",
+                    "relevance": 2
+                },
+                "2. Repertoire and neutralizing activity of antibodies against E2 peptide in patients with spontaneous resolution of hepatitis C": {
+                    "explanation": "This paper characterizes the immunoglobulin repertoire of memory B cell antibodies against a linear epitope in the central front layer of HCV envelope (E2), which is partially dependent on the findings of the source paper regarding the role of broadly neutralizing antibodies in HCV clearance.",
+                    "relevance": 2
+                },
+                "3. Broadly Neutralizing Antibodies Targeting New Sites of Vulnerability in Hepatitis C Virus E1E2": {
+                    "explanation": "This paper characterizes 13 monoclonal antibodies from a single person who cleared an HCV infection without treatment, which is partially dependent on the findings of the source paper regarding the role of broadly neutralizing antibodies in HCV clearance.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2019,
+        "source_paper": {
+            "paperId": "7167fb7f96563f689d30ade81a10eed3868c8316",
+            "title": "Broadly neutralizing antibodies with few somatic mutations and hepatitis C virus clearance.",
+            "abstract": "Here, we report the isolation of broadly neutralizing mAbs (bNAbs) from persons with broadly neutralizing serum who spontaneously cleared hepatitis C virus (HCV) infection. We found that bNAbs from two donors bound the same epitope and were encoded by the same germline heavy chain variable gene segment. Remarkably, these bNAbs were encoded by antibody variable genes with sparse somatic mutations. For one of the most potent bNAbs, these somatic mutations were critical for antibody neutralizing breadth and for binding to autologous envelope variants circulating late in infection. However, somatic mutations were not necessary for binding of the bNAb unmutated ancestor to envelope proteins of early autologous transmitted/founder viruses. This study identifies a public B cell clonotype favoring early recognition of a conserved HCV epitope, proving that anti-HCV bNAbs can achieve substantial neutralizing breadth with relatively few somatic mutations, and identifies HCV envelope variants that favored selection and maturation of an anti-HCV bNAb in vivo. These data provide insight into the molecular mechanisms of immune-mediated clearance of HCV infection and present a roadmap to guide development of a vaccine capable of stimulating anti-HCV bNAbs with a physiologic number of somatic mutations characteristic of vaccine responses.",
+            "year": 2017,
+            "citation_count": 113,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the characteristics of broadly neutralizing antibodies (bNAbs) that can achieve substantial neutralizing breadth with relatively few somatic mutations, which is related to the source paper's findings on HCV's neutralization mechanisms."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Antiviral Functions of Monoclonal Antibodies against Chikungunya Virus": {
+                    "explanation": "This paper discusses the antiviral functions of monoclonal antibodies against Chikungunya virus, which is unrelated to the source paper's topic of broadly neutralizing antibodies and hepatitis C virus clearance.",
+                    "relevance": 0
+                },
+                "2. Genetic and structural insights into broad neutralization of hepatitis C virus by human VH1-69 antibodies": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the genetic and structural insights into broad neutralization of hepatitis C virus by human VH1-69 antibodies, building on the source paper's results regarding broadly neutralizing antibodies and hepatitis C virus clearance.",
+                    "relevance": 1
+                },
+                "3. Approaches, Progress, and Challenges to Hepatitis C Vaccine Development": {
+                    "explanation": "This paper is a review paper that discusses the approaches, progress, and challenges to hepatitis C vaccine development, which is related to the source paper's topic, but it does not present a novel hypothesis or findings that are dependent on the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Genetic and structural insights into broad neutralization of hepatitis C virus by human VH1-69 antibodies": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the genetic and structural insights into broad neutralization of hepatitis C virus by human VH1-69 antibodies, building on the source paper's results regarding broadly neutralizing antibodies and hepatitis C virus clearance.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2020,
+        "source_paper": {
+            "paperId": "80e25aed62395fda428af1ad4d4f77e2d91148f3",
+            "title": "Broadly Neutralizing Antibodies Targeting New Sites of Vulnerability in Hepatitis C Virus E1E2",
+            "abstract": "Worldwide, more than 70 million people are infected with hepatitis C virus (HCV), which is a leading cause of hepatocellular carcinoma and liver transplantation. Despite the development of potent direct acting antivirals (DAAs) for HCV treatment, a vaccine is urgently needed due to the high cost of treatment and the possibility of reinfection after cure. Induction of multiple broadly neutralizing antibodies (bNAbs) that target distinct epitopes on the HCV envelope proteins is one approach to vaccine development. However, antigenic sites targeted by bNAbs in individuals with spontaneous control of HCV have not been fully defined. In this study, we characterize 13 monoclonal antibodies (MAbs) from a single person who cleared an HCV infection without treatment, and we identify 3 new sites targeted by neutralizing antibodies. The sites targeted by these MAbs could inform HCV vaccine development. ABSTRACT Increasing evidence indicates that broadly neutralizing antibodies (bNAbs) play an important role in immune-mediated control of hepatitis C virus (HCV) infection, but the relative contribution of neutralizing antibodies targeting antigenic sites across the HCV envelope (E1 and E2) proteins is unclear. Here, we isolated thirteen E1E2-specific monoclonal antibodies (MAbs) from B cells of a single HCV-infected individual who cleared one genotype 1a infection and then became persistently infected with a second genotype 1a strain. These MAbs bound six distinct discontinuous antigenic sites on the E1 protein, the E2 protein, or the E1E2 heterodimer. Three antigenic sites, designated AS108, AS112 (an N-terminal E1 site), and AS146, were distinct from previously described antigenic regions (ARs) 1 to 5 and E1 sites. Antibodies targeting four sites (AR3, AR4-5, AS108, and AS146) were broadly neutralizing. These MAbs also displayed distinct patterns of relative neutralizing potency (i.e., neutralization profiles) across a panel of diverse HCV strains, which led to complementary neutralizing breadth when they were tested in combination. Overall, this study demonstrates that HCV bNAb epitopes are not restricted to previously described antigenic sites, expanding the number of sites that could be targeted for vaccine development. IMPORTANCE Worldwide, more than 70 million people are infected with hepatitis C virus (HCV), which is a leading cause of hepatocellular carcinoma and liver transplantation. Despite the development of potent direct acting antivirals (DAAs) for HCV treatment, a vaccine is urgently needed due to the high cost of treatment and the possibility of reinfection after cure. Induction of multiple broadly neutralizing antibodies (bNAbs) that target distinct epitopes on the HCV envelope proteins is one approach to vaccine development. However, antigenic sites targeted by bNAbs in individuals with spontaneous control of HCV have not been fully defined. In this study, we characterize 13 monoclonal antibodies (MAbs) from a single person who cleared an HCV infection without treatment, and we identify 3 new sites targeted by neutralizing antibodies. The sites targeted by these MAbs could inform HCV vaccine development.",
+            "year": 2019,
+            "citation_count": 38,
+            "relevance": 2,
+            "explanation": "This paper characterizes 13 monoclonal antibodies from a single person who cleared an HCV infection without treatment, which is partially dependent on the findings of the source paper regarding the role of broadly neutralizing antibodies in HCV clearance."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Optimized Hepatitis C Virus (HCV) E2 Glycoproteins and their Immunogenicity in Combination with MVA-HCV": {
+                    "explanation": "This paper builds upon the source paper's findings regarding the importance of broadly neutralizing antibodies in HCV vaccine development. The paper explores the immunogenicity of optimized HCV E2 glycoproteins in combination with a modified vaccinia virus Ankara (MVA) expressing the nearly full-length genome of HCV, which is a potential vaccine strategy inspired by the source paper's identification of new sites targeted by neutralizing antibodies.",
+                    "relevance": 1
+                },
+                "2. Antibody Responses in Hepatitis C Infection": {
+                    "explanation": "This paper is a review of the current state of knowledge on antibody responses in HCV infection, including the role of broadly neutralizing antibodies. While it does not directly build upon the source paper's findings, it provides a broader context for understanding the importance of neutralizing antibodies in HCV infection and vaccine development. However, it does not present new hypotheses or findings that are directly dependent on the source paper.",
+                    "relevance": 0
+                },
+                "3. Flexibility and intrinsic disorder are conserved features of hepatitis C virus E2 glycoprotein": {
+                    "explanation": "This paper explores the structural features of the HCV E2 glycoprotein, including its flexibility and intrinsic disorder. While it does not directly build upon the source paper's findings, it provides new insights into the properties of the E2 glycoprotein that could inform vaccine development. However, it does not present new hypotheses or findings that are directly dependent on the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Optimized Hepatitis C Virus (HCV) E2 Glycoproteins and their Immunogenicity in Combination with MVA-HCV": {
+                    "explanation": "This paper builds upon the source paper's findings regarding the importance of broadly neutralizing antibodies in HCV vaccine development. The paper explores the immunogenicity of optimized HCV E2 glycoproteins in combination with a modified vaccinia virus Ankara (MVA) expressing the nearly full-length genome of HCV, which is a potential vaccine strategy inspired by the source paper's identification of new sites targeted by neutralizing antibodies.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2021,
+        "source_paper": {
+            "paperId": "80e25aed62395fda428af1ad4d4f77e2d91148f3",
+            "title": "Broadly Neutralizing Antibodies Targeting New Sites of Vulnerability in Hepatitis C Virus E1E2",
+            "abstract": "Worldwide, more than 70 million people are infected with hepatitis C virus (HCV), which is a leading cause of hepatocellular carcinoma and liver transplantation. Despite the development of potent direct acting antivirals (DAAs) for HCV treatment, a vaccine is urgently needed due to the high cost of treatment and the possibility of reinfection after cure. Induction of multiple broadly neutralizing antibodies (bNAbs) that target distinct epitopes on the HCV envelope proteins is one approach to vaccine development. However, antigenic sites targeted by bNAbs in individuals with spontaneous control of HCV have not been fully defined. In this study, we characterize 13 monoclonal antibodies (MAbs) from a single person who cleared an HCV infection without treatment, and we identify 3 new sites targeted by neutralizing antibodies. The sites targeted by these MAbs could inform HCV vaccine development. ABSTRACT Increasing evidence indicates that broadly neutralizing antibodies (bNAbs) play an important role in immune-mediated control of hepatitis C virus (HCV) infection, but the relative contribution of neutralizing antibodies targeting antigenic sites across the HCV envelope (E1 and E2) proteins is unclear. Here, we isolated thirteen E1E2-specific monoclonal antibodies (MAbs) from B cells of a single HCV-infected individual who cleared one genotype 1a infection and then became persistently infected with a second genotype 1a strain. These MAbs bound six distinct discontinuous antigenic sites on the E1 protein, the E2 protein, or the E1E2 heterodimer. Three antigenic sites, designated AS108, AS112 (an N-terminal E1 site), and AS146, were distinct from previously described antigenic regions (ARs) 1 to 5 and E1 sites. Antibodies targeting four sites (AR3, AR4-5, AS108, and AS146) were broadly neutralizing. These MAbs also displayed distinct patterns of relative neutralizing potency (i.e., neutralization profiles) across a panel of diverse HCV strains, which led to complementary neutralizing breadth when they were tested in combination. Overall, this study demonstrates that HCV bNAb epitopes are not restricted to previously described antigenic sites, expanding the number of sites that could be targeted for vaccine development. IMPORTANCE Worldwide, more than 70 million people are infected with hepatitis C virus (HCV), which is a leading cause of hepatocellular carcinoma and liver transplantation. Despite the development of potent direct acting antivirals (DAAs) for HCV treatment, a vaccine is urgently needed due to the high cost of treatment and the possibility of reinfection after cure. Induction of multiple broadly neutralizing antibodies (bNAbs) that target distinct epitopes on the HCV envelope proteins is one approach to vaccine development. However, antigenic sites targeted by bNAbs in individuals with spontaneous control of HCV have not been fully defined. In this study, we characterize 13 monoclonal antibodies (MAbs) from a single person who cleared an HCV infection without treatment, and we identify 3 new sites targeted by neutralizing antibodies. The sites targeted by these MAbs could inform HCV vaccine development.",
+            "year": 2019,
+            "citation_count": 38,
+            "relevance": 2,
+            "explanation": "This paper characterizes 13 monoclonal antibodies from a single person who cleared an HCV infection without treatment, which is partially dependent on the findings of the source paper regarding the role of broadly neutralizing antibodies in HCV clearance."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. How to get away with liver innate immunity? A viruses\u2019 tale": {
+                    "explanation": "This paper is a review of the mechanisms employed by hepatitis viruses to counteract liver innate immunity, and does not build upon the source paper's findings.",
+                    "relevance": 0
+                },
+                "2. Hepatitis C Virus Epitope Immunodominance and B Cell Repertoire Diversity": {
+                    "explanation": "This review paper discusses the current understanding of epitopes on the HCV envelope and the importance of broadly neutralizing antibodies in HCV vaccine development, but does not directly build upon the source paper's findings.",
+                    "relevance": 0
+                },
+                "3. Structure-Based and Rational Design of a Hepatitis C Virus Vaccine": {
+                    "explanation": "This paper discusses HCV vaccine design approaches, including the use of broadly neutralizing antibodies, but does not directly build upon the source paper's findings.",
+                    "relevance": 1
+                },
+                "4. To Include or Occlude: Rational Engineering of HCV Vaccines for Humoral Immunity": {
+                    "explanation": "This paper discusses the importance of humoral immunity in HCV vaccine development and the use of high-resolution structures of hepatitis C viral glycoproteins, but does not directly build upon the source paper's findings.",
+                    "relevance": 1
+                },
+                "5. Structural and energetic profiling of SARS-CoV-2 antibody recognition and the impact of circulating variants": {
+                    "explanation": "This paper focuses on SARS-CoV-2 and does not build upon the source paper's findings on HCV.",
+                    "relevance": 0
+                },
+                "6. Early T follicular helper cell activity accelerates hepatitis C virus-specific B cell expansion": {
+                    "explanation": "This paper investigates the role of T follicular helper cells in HCV-specific B cell expansion, but does not directly build upon the source paper's findings on broadly neutralizing antibodies.",
+                    "relevance": 1
+                },
+                "7. Design of a native-like secreted form of the hepatitis C virus E1E2 heterodimer": {
+                    "explanation": "This paper describes the design and validation of a soluble, secreted E1E2 antigen, which is relevant to the source paper's findings on the importance of the E1E2 heterodimer in HCV vaccine development.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Design of a native-like secreted form of the hepatitis C virus E1E2 heterodimer": {
+                    "explanation": "This paper describes the design and validation of a soluble, secreted E1E2 antigen, which is relevant to the source paper's findings on the importance of the E1E2 heterodimer in HCV vaccine development.",
+                    "relevance": 2
+                },
+                "2. Structure-Based and Rational Design of a Hepatitis C Virus Vaccine": {
+                    "explanation": "This paper discusses HCV vaccine design approaches, including the use of broadly neutralizing antibodies, but does not directly build upon the source paper's findings.",
+                    "relevance": 1
+                },
+                "3. To Include or Occlude: Rational Engineering of HCV Vaccines for Humoral Immunity": {
+                    "explanation": "This paper discusses the importance of humoral immunity in HCV vaccine development and the use of high-resolution structures of hepatitis C viral glycoproteins, but does not directly build upon the source paper's findings.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2022,
+        "source_paper": {
+            "paperId": "b07954827b484f418a8f67c24ecf98b66b93e9c0",
+            "title": "Design of a native-like secreted form of the hepatitis C virus E1E2 heterodimer",
+            "abstract": "Significance Hepatitis C virus infects 1% of the world\u2019s population, with no vaccine currently available. One vaccine candidate is the membrane-associated E1E2 envelope glycoprotein which has been used in clinical studies. However, a major challenge to both structural studies and rational vaccine design is high-yield production of homogenous E1E2. Production of E1E2 liberated from the membrane with native structure and antigenicity would thus represent a major advance. We describe the design and validation of a soluble, secreted E1E2 (sE1E2) antigen in which a scaffold replaces its transmembrane domains and enforces assembly. High-affinity sE1E2 binding to broadly neutralizing antibodies and to its receptor CD81, along with robust immunogenicity, makes this a promising platform for high-resolution structural characterization and vaccine development. Hepatitis C virus (HCV) is a major worldwide health burden, and a preventive vaccine is needed for global control or eradication of this virus. A substantial hurdle to an effective HCV vaccine is the high variability of the virus, leading to immune escape. The E1E2 glycoprotein complex contains conserved epitopes and elicits neutralizing antibody responses, making it a primary target for HCV vaccine development. However, the E1E2 transmembrane domains that are critical for native assembly make it challenging to produce this complex in a homogenous soluble form that is reflective of its state on the viral envelope. To enable rational design of an E1E2 vaccine, as well as structural characterization efforts, we have designed a soluble, secreted form of E1E2 (sE1E2). As with soluble glycoprotein designs for other viruses, it incorporates a scaffold to enforce assembly in the absence of the transmembrane domains, along with a furin cleavage site to permit native-like heterodimerization. This sE1E2 was found to assemble into a form closer to its expected size than full-length E1E2. Preservation of native structural elements was confirmed by high-affinity binding to a panel of conformationally specific monoclonal antibodies, including two neutralizing antibodies specific to native E1E2 and to its primary receptor, CD81. Finally, sE1E2 was found to elicit robust neutralizing antibodies in vivo. This designed sE1E2 can both provide insights into the determinants of native E1E2 assembly and serve as a platform for production of E1E2 for future structural and vaccine studies, enabling rational optimization of an E1E2-based antigen.",
+            "year": 2021,
+            "citation_count": 21,
+            "relevance": 2,
+            "explanation": "This paper describes the design and validation of a soluble, secreted E1E2 antigen, which is relevant to the source paper's findings on the importance of the E1E2 heterodimer in HCV vaccine development."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Induction of broadly neutralizing antibodies using a secreted form of the hepatitis C virus E1E2 heterodimer as a vaccine candidate": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it builds upon the design and biochemical validation of the native-like soluble secreted form of E1E2 (sE1E2) presented in the source paper. The authors use this sE1E2 complex to elicit broadly neutralizing antibodies in immunized mice, demonstrating the immunogenic characterization of the sE1E2 complex.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Induction of broadly neutralizing antibodies using a secreted form of the hepatitis C virus E1E2 heterodimer as a vaccine candidate": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it builds upon the design and biochemical validation of the native-like soluble secreted form of E1E2 (sE1E2) presented in the source paper. The authors use this sE1E2 complex to elicit broadly neutralizing antibodies in immunized mice, demonstrating the immunogenic characterization of the sE1E2 complex.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2023,
+        "source_paper": {
+            "paperId": "b07954827b484f418a8f67c24ecf98b66b93e9c0",
+            "title": "Design of a native-like secreted form of the hepatitis C virus E1E2 heterodimer",
+            "abstract": "Significance Hepatitis C virus infects 1% of the world\u2019s population, with no vaccine currently available. One vaccine candidate is the membrane-associated E1E2 envelope glycoprotein which has been used in clinical studies. However, a major challenge to both structural studies and rational vaccine design is high-yield production of homogenous E1E2. Production of E1E2 liberated from the membrane with native structure and antigenicity would thus represent a major advance. We describe the design and validation of a soluble, secreted E1E2 (sE1E2) antigen in which a scaffold replaces its transmembrane domains and enforces assembly. High-affinity sE1E2 binding to broadly neutralizing antibodies and to its receptor CD81, along with robust immunogenicity, makes this a promising platform for high-resolution structural characterization and vaccine development. Hepatitis C virus (HCV) is a major worldwide health burden, and a preventive vaccine is needed for global control or eradication of this virus. A substantial hurdle to an effective HCV vaccine is the high variability of the virus, leading to immune escape. The E1E2 glycoprotein complex contains conserved epitopes and elicits neutralizing antibody responses, making it a primary target for HCV vaccine development. However, the E1E2 transmembrane domains that are critical for native assembly make it challenging to produce this complex in a homogenous soluble form that is reflective of its state on the viral envelope. To enable rational design of an E1E2 vaccine, as well as structural characterization efforts, we have designed a soluble, secreted form of E1E2 (sE1E2). As with soluble glycoprotein designs for other viruses, it incorporates a scaffold to enforce assembly in the absence of the transmembrane domains, along with a furin cleavage site to permit native-like heterodimerization. This sE1E2 was found to assemble into a form closer to its expected size than full-length E1E2. Preservation of native structural elements was confirmed by high-affinity binding to a panel of conformationally specific monoclonal antibodies, including two neutralizing antibodies specific to native E1E2 and to its primary receptor, CD81. Finally, sE1E2 was found to elicit robust neutralizing antibodies in vivo. This designed sE1E2 can both provide insights into the determinants of native E1E2 assembly and serve as a platform for production of E1E2 for future structural and vaccine studies, enabling rational optimization of an E1E2-based antigen.",
+            "year": 2021,
+            "citation_count": 21,
+            "relevance": 2,
+            "explanation": "This paper describes the design and validation of a soluble, secreted E1E2 antigen, which is relevant to the source paper's findings on the importance of the E1E2 heterodimer in HCV vaccine development."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Prospects for developing an Hepatitis C virus E1E2\u2010based nanoparticle vaccine": {
+                    "explanation": "This paper is a review that discusses the potential for development of a nanoparticle\u2010based HCV E1E2 vaccine. While it mentions the E1E2 glycoprotein complex, which is also the focus of the source paper, it does not build upon or depend on the findings of the source paper. Instead, it provides a general overview of the field and the potential benefits of a nanoparticle-based vaccine.",
+                    "relevance": 0
+                },
+                "2. Current Hepatitis C Vaccine Candidates Based on the Induction of Neutralizing Antibodies": {
+                    "explanation": "This paper is also a review that summarizes the structural regions in E1 and E2 proteins targeted by neutralizing antibodies and how these proteins are presented in vaccine candidates. Similar to the first paper, it does not build upon or depend on the findings of the source paper, but rather provides a general overview of the field.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2023,
+        "source_paper": {
+            "paperId": "c8e634d9b43d1bbd51f512a3a1ac13c6ad443887",
+            "title": "Induction of broadly neutralizing antibodies using a secreted form of the hepatitis C virus E1E2 heterodimer as a vaccine candidate",
+            "abstract": "Significance Hepatitis C virus chronically infects approximately 1% of the world\u2019s population, making an effective vaccine for hepatitis C virus a major unmet public health need. The membrane-associated E1E2 envelope glycoprotein has been used in clinical studies as a vaccine candidate. However, limited neutralization breadth and difficulty in producing large amounts of homogeneous membrane-associated E1E2 have hampered efforts to develop an E1E2-based vaccine. Our previous work described the design and biochemical validation of a native-like soluble secreted form of E1E2 (sE1E2). Here, we describe the immunogenic characterization of the sE1E2 complex. sE1E2 elicited broadly neutralizing antibodies in immunized mice, with increased neutralization breadth relative to the membrane-associated E1E2, thereby validating this platform as a promising model system for vaccine development.",
+            "year": 2022,
+            "citation_count": 9,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it builds upon the design and biochemical validation of the native-like soluble secreted form of E1E2 (sE1E2) presented in the source paper. The authors use this sE1E2 complex to elicit broadly neutralizing antibodies in immunized mice, demonstrating the immunogenic characterization of the sE1E2 complex."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Prospects for developing an Hepatitis C virus E1E2\u2010based nanoparticle vaccine": {
+                    "explanation": "This paper is a review of the potential for developing a nanoparticle-based HCV E1E2 vaccine, which is not directly related to the source paper's specific findings on the secreted form of the E1E2 heterodimer as a vaccine candidate. However, it does discuss the importance of the E1E2 glycoprotein complex in vaccine development, which is a broader topic related to the source paper.",
+                    "relevance": 0
+                },
+                "2. Current Hepatitis C Vaccine Candidates Based on the Induction of Neutralizing Antibodies": {
+                    "explanation": "This paper is a review of current Hepatitis C vaccine candidates, including those based on the E1E2 envelope glycoproteins. While it does not directly reference the source paper, it discusses the importance of inducing neutralizing antibodies, which is a key finding of the source paper. However, the connection is indirect, and the paper does not build upon the source paper's specific findings.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2024,
+        "source_paper": {
+            "paperId": "c8e634d9b43d1bbd51f512a3a1ac13c6ad443887",
+            "title": "Induction of broadly neutralizing antibodies using a secreted form of the hepatitis C virus E1E2 heterodimer as a vaccine candidate",
+            "abstract": "Significance Hepatitis C virus chronically infects approximately 1% of the world\u2019s population, making an effective vaccine for hepatitis C virus a major unmet public health need. The membrane-associated E1E2 envelope glycoprotein has been used in clinical studies as a vaccine candidate. However, limited neutralization breadth and difficulty in producing large amounts of homogeneous membrane-associated E1E2 have hampered efforts to develop an E1E2-based vaccine. Our previous work described the design and biochemical validation of a native-like soluble secreted form of E1E2 (sE1E2). Here, we describe the immunogenic characterization of the sE1E2 complex. sE1E2 elicited broadly neutralizing antibodies in immunized mice, with increased neutralization breadth relative to the membrane-associated E1E2, thereby validating this platform as a promising model system for vaccine development.",
+            "year": 2022,
+            "citation_count": 9,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it builds upon the design and biochemical validation of the native-like soluble secreted form of E1E2 (sE1E2) presented in the source paper. The authors use this sE1E2 complex to elicit broadly neutralizing antibodies in immunized mice, demonstrating the immunogenic characterization of the sE1E2 complex."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Prokaryote- and Eukaryote-Based Expression Systems: Advances in Post-Pandemic Viral Antigen Production for Vaccines": {
+                    "explanation": "This paper is a review of expression systems for vaccine development and does not have a direct connection to the source paper. Although it discusses vaccine development, it does not specifically address the E1E2 heterodimer or build upon the findings of the source paper.",
+                    "relevance": 0
+                },
+                "2. Hepatitis C Virus E1E2 Structure, Diversity, and Implications for Vaccine Development": {
+                    "explanation": "This paper is a review of the E1E2 envelope glycoprotein as a vaccine candidate for HCV. While it discusses the same protein as the source paper, it does not specifically build upon the findings of the source paper or use its results as a sub-hypothesis. Instead, it provides a broader overview of the challenges and opportunities in developing an HCV vaccine.",
+                    "relevance": 0
+                },
+                "3. Establishment and methodological evaluation of a chemiluminescence assay for detection of anti\u2010envelope protein (E1, E2) antibodies in the serum of hepatitis C virus\u2010infected patients": {
+                    "explanation": "This paper describes the development of a chemiluminescence assay for detecting anti-E1 and anti-E2 antibodies in HCV-infected patients. Although it involves the E1E2 protein, it does not directly build upon the findings of the source paper or use its results as a sub-hypothesis. Instead, it focuses on the development of a diagnostic assay.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2024,
+        "source_paper": {
+            "paperId": "c8e634d9b43d1bbd51f512a3a1ac13c6ad443887",
+            "title": "Induction of broadly neutralizing antibodies using a secreted form of the hepatitis C virus E1E2 heterodimer as a vaccine candidate",
+            "abstract": "Significance Hepatitis C virus chronically infects approximately 1% of the world\u2019s population, making an effective vaccine for hepatitis C virus a major unmet public health need. The membrane-associated E1E2 envelope glycoprotein has been used in clinical studies as a vaccine candidate. However, limited neutralization breadth and difficulty in producing large amounts of homogeneous membrane-associated E1E2 have hampered efforts to develop an E1E2-based vaccine. Our previous work described the design and biochemical validation of a native-like soluble secreted form of E1E2 (sE1E2). Here, we describe the immunogenic characterization of the sE1E2 complex. sE1E2 elicited broadly neutralizing antibodies in immunized mice, with increased neutralization breadth relative to the membrane-associated E1E2, thereby validating this platform as a promising model system for vaccine development.",
+            "year": 2022,
+            "citation_count": 9,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it builds upon the design and biochemical validation of the native-like soluble secreted form of E1E2 (sE1E2) presented in the source paper. The authors use this sE1E2 complex to elicit broadly neutralizing antibodies in immunized mice, demonstrating the immunogenic characterization of the sE1E2 complex."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Prokaryote- and Eukaryote-Based Expression Systems: Advances in Post-Pandemic Viral Antigen Production for Vaccines": {
+                    "explanation": "This paper is a review paper that discusses the development of vaccines for various viral diseases, excluding hepatitis C virus. It does not build upon the source paper's findings and does not have a direct connection to the source paper's hypothesis.",
+                    "relevance": 0
+                },
+                "2. Hepatitis C Virus E1E2 Structure, Diversity, and Implications for Vaccine Development": {
+                    "explanation": "This paper is a review paper that focuses on the structure and diversity of the hepatitis C virus E1E2 envelope glycoprotein and its implications for vaccine development. Although it discusses the same topic as the source paper, it does not build upon the source paper's specific findings or hypothesis. Instead, it provides a broader overview of the challenges and approaches in developing an HCV vaccine.",
+                    "relevance": 0
+                },
+                "3. Establishment and methodological evaluation of a chemiluminescence assay for detection of anti\u2010envelope protein (E1, E2) antibodies in the serum of hepatitis C virus\u2010infected patients": {
+                    "explanation": "This paper presents a new method for detecting anti-E1 and anti-E2 antibodies in the serum of patients with hepatitis C virus infection. Although it is related to the source paper's topic, it does not build upon the source paper's findings or hypothesis. Instead, it focuses on the development of a diagnostic assay.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    }
+]

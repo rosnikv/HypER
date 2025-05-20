@@ -1,0 +1,422 @@
+[
+    {
+        "year": 2019,
+        "source_paper": {
+            "paperId": "66da94eb9cbc43af5b73d2b80f86befcc579c8b0",
+            "pmid": "11333990",
+            "title": "Prevention of type 2 diabetes mellitus by changes in lifestyle among subjects with impaired glucose tolerance.",
+            "abstract": "BACKGROUND\nType 2 diabetes mellitus is increasingly common, primarily because of increases in the prevalence of a sedentary lifestyle and obesity. Whether type 2 diabetes can be prevented by interventions that affect the lifestyles of subjects at high risk for the disease is not known.\n\n\nMETHODS\nWe randomly assigned 522 middle-aged, overweight subjects (172 men and 350 women; mean age, 55 years; mean body-mass index [weight in kilograms divided by the square of the height in meters], 31) with impaired glucose tolerance to either the intervention group or the control group. Each subject in the intervention group received individualized counseling aimed at reducing weight, total intake of fat, and intake of saturated fat and increasing intake of fiber and physical activity. An oral glucose-tolerance test was performed annually; the diagnosis of diabetes was confirmed by a second test. The mean duration of follow-up was 3.2 years.\n\n\nRESULTS\nThe mean (+/-SD) amount of weight lost between base line and the end of year 1 was 4.2+/-5.1 kg in the intervention group and 0.8+/-3.7 kg in the control group; the net loss by the end of year 2 was 3.5+/-5.5 kg in the intervention group and 0.8+/-4.4 kg in the control group (P<0.001 for both comparisons between the groups). The cumulative incidence of diabetes after four years was 11 percent (95 percent confidence interval, 6 to 15 percent) in the intervention group and 23 percent (95 percent confidence interval, 17 to 29 percent) in the control group. During the trial, the risk of diabetes was reduced by 58 percent (P<0.001) in the intervention group. The reduction in the incidence of diabetes was directly associated with changes in lifestyle.\n\n\nCONCLUSIONS\nType 2 diabetes can be prevented by changes in the lifestyles of high-risk subjects.",
+            "year": 2001,
+            "citation_count": 10395
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Eating Competence Is Associated with Lower Prevalence of Obesity and Better Insulin Sensitivity in Finnish Adults with Increased Risk for Type 2 Diabetes: The StopDia Study": {
+                    "explanation": "This paper investigates the relationship between eating competence and the risk of type 2 diabetes, which is related to the source paper's findings on the prevention of type 2 diabetes through lifestyle changes.",
+                    "relevance": 1
+                },
+                "2. TRENDS OF CORONARY ARTERY DISEASE IN KHYBER PAKHTUNKHWA, PAKISTAN: A RETROSPECTIVE STUDY": {
+                    "explanation": "This paper has no direct connection to the source paper, as it discusses coronary artery disease trends in Pakistan and does not address type 2 diabetes prevention or lifestyle changes.",
+                    "relevance": 0
+                },
+                "3. The Association Between Prediabetes and Dyslipidemia Among Attendants of Primary Care Health Centers in Jeddah, Saudi Arabia": {
+                    "explanation": "This paper explores the association between prediabetes and dyslipidemia, which is related to the source paper's focus on type 2 diabetes prevention, but does not directly build upon the source paper's findings.",
+                    "relevance": 1
+                },
+                "4. Addressing Challenges and Implications of National Surveillance for Racial/Ethnic Disparities in Diabetes": {
+                    "explanation": "This paper discusses racial/ethnic disparities in diabetes, which is not directly related to the source paper's focus on lifestyle changes for type 2 diabetes prevention.",
+                    "relevance": 0
+                },
+                "5. Standards of Medical Care in Diabetes\u20142020 Abridged for Primary Care Providers": {
+                    "explanation": "This paper is a review of the standards of medical care in diabetes and does not present new research or findings related to the source paper.",
+                    "relevance": 0
+                },
+                "6. The obesity paradox for outcomes in atrial fibrillation: Evidence from an exposure\u2010effect analysis of prospective studies": {
+                    "explanation": "This paper discusses the obesity paradox in atrial fibrillation, which is not directly related to the source paper's focus on type 2 diabetes prevention through lifestyle changes.",
+                    "relevance": 0
+                },
+                "7. Classification and Diagnosis of Diabetes: Standards of Medical Care in Diabetes\u20142020": {
+                    "explanation": "This paper is a review of the standards of medical care in diabetes and does not present new research or findings related to the source paper.",
+                    "relevance": 0
+                },
+                "8. Type 2 diabetes care: Improvement by standardization at a diabetes rehabilitation clinic. An observational report": {
+                    "explanation": "This paper discusses the improvement of type 2 diabetes care through standardization, which is related to the source paper's focus on type 2 diabetes prevention, but does not directly build upon the source paper's findings.",
+                    "relevance": 1
+                },
+                "9. Does the design of the NHS Diabetes Prevention Programme intervention have fidelity to the programme specification? A document analysis": {
+                    "explanation": "This paper evaluates the fidelity of the NHS Diabetes Prevention Programme intervention, which is related to the source paper's focus on type 2 diabetes prevention through lifestyle changes.",
+                    "relevance": 2
+                },
+                "10. Metformin for prevention or delay of type 2 diabetes mellitus and its associated complications in persons at increased risk for the development of type 2 diabetes mellitus": {
+                    "explanation": "This paper discusses the use of metformin for type 2 diabetes prevention, which is related to the source paper's focus on type 2 diabetes prevention, but does not directly build upon the source paper's findings.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Does the design of the NHS Diabetes Prevention Programme intervention have fidelity to the programme specification? A document analysis": {
+                    "explanation": "This paper evaluates the fidelity of the NHS Diabetes Prevention Programme intervention, which is related to the source paper's focus on type 2 diabetes prevention through lifestyle changes.",
+                    "relevance": 2
+                },
+                "2. Eating Competence Is Associated with Lower Prevalence of Obesity and Better Insulin Sensitivity in Finnish Adults with Increased Risk for Type 2 Diabetes: The StopDia Study": {
+                    "explanation": "This paper investigates the relationship between eating competence and the risk of type 2 diabetes, which is related to the source paper's findings on the prevention of type 2 diabetes through lifestyle changes.",
+                    "relevance": 1
+                },
+                "3. The Association Between Prediabetes and Dyslipidemia Among Attendants of Primary Care Health Centers in Jeddah, Saudi Arabia": {
+                    "explanation": "This paper explores the association between prediabetes and dyslipidemia, which is related to the source paper's focus on type 2 diabetes prevention, but does not directly build upon the source paper's findings.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2019,
+        "source_paper": {
+            "paperId": "66da94eb9cbc43af5b73d2b80f86befcc579c8b0",
+            "pmid": "11333990",
+            "title": "Prevention of type 2 diabetes mellitus by changes in lifestyle among subjects with impaired glucose tolerance.",
+            "abstract": "BACKGROUND\nType 2 diabetes mellitus is increasingly common, primarily because of increases in the prevalence of a sedentary lifestyle and obesity. Whether type 2 diabetes can be prevented by interventions that affect the lifestyles of subjects at high risk for the disease is not known.\n\n\nMETHODS\nWe randomly assigned 522 middle-aged, overweight subjects (172 men and 350 women; mean age, 55 years; mean body-mass index [weight in kilograms divided by the square of the height in meters], 31) with impaired glucose tolerance to either the intervention group or the control group. Each subject in the intervention group received individualized counseling aimed at reducing weight, total intake of fat, and intake of saturated fat and increasing intake of fiber and physical activity. An oral glucose-tolerance test was performed annually; the diagnosis of diabetes was confirmed by a second test. The mean duration of follow-up was 3.2 years.\n\n\nRESULTS\nThe mean (+/-SD) amount of weight lost between base line and the end of year 1 was 4.2+/-5.1 kg in the intervention group and 0.8+/-3.7 kg in the control group; the net loss by the end of year 2 was 3.5+/-5.5 kg in the intervention group and 0.8+/-4.4 kg in the control group (P<0.001 for both comparisons between the groups). The cumulative incidence of diabetes after four years was 11 percent (95 percent confidence interval, 6 to 15 percent) in the intervention group and 23 percent (95 percent confidence interval, 17 to 29 percent) in the control group. During the trial, the risk of diabetes was reduced by 58 percent (P<0.001) in the intervention group. The reduction in the incidence of diabetes was directly associated with changes in lifestyle.\n\n\nCONCLUSIONS\nType 2 diabetes can be prevented by changes in the lifestyles of high-risk subjects.",
+            "year": 2001,
+            "citation_count": 10395
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Prevalence of Prediabetes Among Adolescents and Young Adults in the United States, 2005-2016": {
+                    "explanation": "This paper is related to the source paper as it also deals with the topic of prediabetes and its risk factors, but it does not build upon the findings of the source paper. Instead, it presents an epidemiological study on the prevalence of prediabetes in adolescents and young adults in the US.",
+                    "relevance": 1
+                },
+                "2. Homogeneity in the association of body mass index with type 2 diabetes across the UK Biobank: A Mendelian randomization study": {
+                    "explanation": "This paper is related to the source paper as it also deals with the topic of type 2 diabetes prevention, but it does not build upon the findings of the source paper. Instead, it presents a Mendelian randomization study on the association between body mass index and type 2 diabetes.",
+                    "relevance": 1
+                },
+                "3. What predicts regression from pre-diabetes to normal glucose regulation following a primary care nurse-delivered dietary intervention? A study protocol for a prospective cohort study": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it aims to investigate the predictors of regression from pre-diabetes to normal glucose regulation following a dietary intervention, which is a related topic to the prevention of type 2 diabetes through lifestyle changes.",
+                    "relevance": 2
+                },
+                "4. Enhanced motivational interviewing for reducing weight and increasing physical activity in adults with high cardiovascular risk: the MOVE IT three-arm RCT": {
+                    "explanation": "This paper is related to the source paper as it also deals with the topic of lifestyle interventions for the prevention of chronic diseases, but it does not build upon the findings of the source paper. Instead, it presents a randomized controlled trial on the effectiveness of enhanced motivational interviewing for reducing weight and increasing physical activity in adults with high cardiovascular risk.",
+                    "relevance": 1
+                },
+                "5. Physical activity, sedentary leisure-time and risk of incident type 2 diabetes: a prospective study of 512 000 Chinese adults": {
+                    "explanation": "This paper is related to the source paper as it also deals with the topic of physical activity and type 2 diabetes prevention, but it does not build upon the findings of the source paper. Instead, it presents a prospective study on the association between physical activity, sedentary leisure-time, and the risk of incident type 2 diabetes in Chinese adults.",
+                    "relevance": 1
+                },
+                "6. Effectiveness of health guidance on the outcomes of specific health checkup in National Health Insurance subscribers": {
+                    "explanation": "This paper is related to the source paper as it also deals with the topic of health guidance and lifestyle interventions for the prevention of chronic diseases, but it does not build upon the findings of the source paper. Instead, it presents a study on the effectiveness of health guidance on the outcomes of specific health checkups in National Health Insurance subscribers.",
+                    "relevance": 1
+                },
+                "7. The metabolic syndrome \u2013 What is it and how should it be managed?": {
+                    "explanation": "This paper is not related to the source paper as it is a review article that provides an overview of the metabolic syndrome and its management, without presenting any new findings or building upon the source paper.",
+                    "relevance": 0
+                },
+                "8. Experiences of lifestyle change among women with gestational diabetes mellitus (GDM): A behavioural diagnosis using the COM-B model in a low-income setting": {
+                    "explanation": "This paper is related to the source paper as it also deals with the topic of lifestyle changes for the prevention of chronic diseases, but it does not build upon the findings of the source paper. Instead, it presents a qualitative study on the experiences of lifestyle change among women with gestational diabetes mellitus in a low-income setting.",
+                    "relevance": 1
+                },
+                "9. Inflammation, oxidative stress and altered heat shock response in type 2 diabetes: the basis for new pharmacological and non-pharmacological interventions": {
+                    "explanation": "This paper is not related to the source paper as it is a review article that provides an overview of the pathophysiology of type 2 diabetes and potential new interventions, without presenting any new findings or building upon the source paper.",
+                    "relevance": 0
+                },
+                "10. Oleuropein: A natural antioxidant molecule in the treatment of metabolic syndrome": {
+                    "explanation": "This paper is not related to the source paper as it is a review article that provides an overview of the potential health benefits of oleuropein, a natural antioxidant molecule, without presenting any new findings or building upon the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. What predicts regression from pre-diabetes to normal glucose regulation following a primary care nurse-delivered dietary intervention? A study protocol for a prospective cohort study": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it aims to investigate the predictors of regression from pre-diabetes to normal glucose regulation following a dietary intervention, which is a related topic to the prevention of type 2 diabetes through lifestyle changes.",
+                    "relevance": 2
+                },
+                "2. Prevalence of Prediabetes Among Adolescents and Young Adults in the United States, 2005-2016": {
+                    "explanation": "This paper is related to the source paper as it also deals with the topic of prediabetes and its risk factors, but it does not build upon the findings of the source paper. Instead, it presents an epidemiological study on the prevalence of prediabetes in adolescents and young adults in the US.",
+                    "relevance": 1
+                },
+                "3. Homogeneity in the association of body mass index with type 2 diabetes across the UK Biobank: A Mendelian randomization study": {
+                    "explanation": "This paper is related to the source paper as it also deals with the topic of type 2 diabetes prevention, but it does not build upon the findings of the source paper. Instead, it presents a Mendelian randomization study on the association between body mass index and type 2 diabetes.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2020,
+        "source_paper": {
+            "paperId": "1fd4a181f5176c670ee3e84f36ed4e0ab9599641",
+            "title": "Does the design of the NHS Diabetes Prevention Programme intervention have fidelity to the programme specification? A document analysis",
+            "abstract": "To assess fidelity of the Healthier You: NHS Diabetes Prevention Programme (NHS\u2010DPP), a behavioural intervention for people in England at high risk of developing type 2 diabetes, to the specified programme features.",
+            "year": 2019,
+            "citation_count": 26,
+            "relevance": 2,
+            "explanation": "This paper evaluates the fidelity of the NHS Diabetes Prevention Programme intervention, which is related to the source paper's focus on type 2 diabetes prevention through lifestyle changes."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. \u2018Going the distance\u2019: an independent cohort study of engagement and dropout among the first 100 000 referrals into a large-scale diabetes prevention program": {
+                    "explanation": "This paper is connected to the source paper as it investigates the engagement and dropout rates of the NHS Diabetes Prevention Programme, which is the same program that the source paper assessed for fidelity to the programme specification.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. \u2018Going the distance\u2019: an independent cohort study of engagement and dropout among the first 100 000 referrals into a large-scale diabetes prevention program": {
+                    "explanation": "This paper is connected to the source paper as it investigates the engagement and dropout rates of the NHS Diabetes Prevention Programme, which is the same program that the source paper assessed for fidelity to the programme specification.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2021,
+        "source_paper": {
+            "paperId": "1fd4a181f5176c670ee3e84f36ed4e0ab9599641",
+            "title": "Does the design of the NHS Diabetes Prevention Programme intervention have fidelity to the programme specification? A document analysis",
+            "abstract": "To assess fidelity of the Healthier You: NHS Diabetes Prevention Programme (NHS\u2010DPP), a behavioural intervention for people in England at high risk of developing type 2 diabetes, to the specified programme features.",
+            "year": 2019,
+            "citation_count": 26,
+            "relevance": 2,
+            "explanation": "This paper evaluates the fidelity of the NHS Diabetes Prevention Programme intervention, which is related to the source paper's focus on type 2 diabetes prevention through lifestyle changes."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. How is the Behavior Change Technique Content of the NHS Diabetes Prevention Program Understood by Participants? A Qualitative Study of Fidelity, With a Focus on Receipt": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the fidelity of the NHS Diabetes Prevention Programme intervention from the perspective of participants, building on the source paper's results regarding fidelity to the programme specification.",
+                    "relevance": 1
+                },
+                "2. Is the NHS Diabetes Prevention Programme Intervention Delivered as Planned? An Observational Study of Fidelity of Intervention Delivery": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it examines the discrepancies between the behaviour change techniques specified in the design and those actually delivered, using the source paper's findings on fidelity to the programme specification as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "3. An evaluation of goal setting in the NHS England diabetes prevention programme": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the delivery of goal setting in the NHS-DPP, using the source paper's findings on fidelity to the programme specification as a sub-hypothesis.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Is the NHS Diabetes Prevention Programme Intervention Delivered as Planned? An Observational Study of Fidelity of Intervention Delivery": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it examines the discrepancies between the behaviour change techniques specified in the design and those actually delivered, using the source paper's findings on fidelity to the programme specification as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "2. An evaluation of goal setting in the NHS England diabetes prevention programme": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the delivery of goal setting in the NHS-DPP, using the source paper's findings on fidelity to the programme specification as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "3. How is the Behavior Change Technique Content of the NHS Diabetes Prevention Program Understood by Participants? A Qualitative Study of Fidelity, With a Focus on Receipt": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the fidelity of the NHS Diabetes Prevention Programme intervention from the perspective of participants, building on the source paper's results regarding fidelity to the programme specification.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2021,
+        "source_paper": {
+            "paperId": "5102949d59a9eeb49397afe78b96295d06c5193c",
+            "title": "\u2018Going the distance\u2019: an independent cohort study of engagement and dropout among the first 100 000 referrals into a large-scale diabetes prevention program",
+            "abstract": "Introduction Diabetes prevention programs (DPPs) are effective, in a pre-diabetic population, in reducing weight, lowering glycated hemoglobin and slowing the progression to diabetes. Little is known about the relationship between participation in DPPsand participant characteristics or service delivery. We investigated uptake and retention in England\u2019s NHS DPP, reporting on variability among patient subgroups, providers, and sites. Research design and methods This prospective cohort study included 99\u2009473 adults with non-diabetic hyperglycemia referred to the English DPP between 2016 and 2017. The program seeks to change health behaviors by offering at least 16\u2009hours of group education and exercise. Multilevel logistic regression models were used to analyze variation in uptake, retention, and completion. Results Uptake among 99\u2009473 adults referred to the program was 56% (55 275). Among 55\u2009275 who started the program, 34% (18 562) achieved the required dose and 22% (12 127) completed the full course. After adjustment for variation in case mix, substantial heterogeneity in uptake and retention was seen across four service providers (uptake OR 1.77 (1.33, 2.34), 4.30 (3.01, 6.15), and 1.45 (1.07, 1.97) compared with the reference provider) and between sites (uptake for typical individuals ranged from 0.32 to 0.78 across the middle 95% of sites, intraclass correlation coefficient (ICC) 0.07). Higher levels of retention and completion were seen where some out-of-hours provision was offered (retention OR 1.32 (1.25, 1.39)). Conclusions This study provides the first independent assessment of participation in the English DPP and the first study internationally to examine the impact of DPP service delivery on participation. When implementing a large-scale DPP, heterogeneity in service provision between different providers and sites can result in variable participation beyond that attributable to case mix, with potential consequences for effectiveness and health inequalities. Extending out-of-hours provision may improve participation in prevention programs.",
+            "year": 2020,
+            "citation_count": 33,
+            "relevance": 2,
+            "explanation": "This paper is connected to the source paper as it investigates the engagement and dropout rates of the NHS Diabetes Prevention Programme, which is the same program that the source paper assessed for fidelity to the programme specification."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. How is the Behavior Change Technique Content of the NHS Diabetes Prevention Program Understood by Participants? A Qualitative Study of Fidelity, With a Focus on Receipt": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the fidelity of the NHS Diabetes Prevention Program (DPP) and how participants understand the behavior change techniques (BCTs) included in the program. The source paper provides the context for the DPP and its implementation, which is built upon in this study.",
+                    "relevance": 2
+                },
+                "2. Early economic evaluation of an intervention to improve uptake of the NHS England Diabetes Prevention Programme": {
+                    "explanation": "This paper is inspired by the hypothesis of the source paper, as it explores the cost-effectiveness of interventions to improve uptake of the NHS England Diabetes Prevention Programme (NDPP). The source paper highlights the issue of variable participation in the DPP, which is addressed in this study through an economic evaluation of interventions to improve uptake.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. How is the Behavior Change Technique Content of the NHS Diabetes Prevention Program Understood by Participants? A Qualitative Study of Fidelity, With a Focus on Receipt": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the fidelity of the NHS Diabetes Prevention Program (DPP) and how participants understand the behavior change techniques (BCTs) included in the program. The source paper provides the context for the DPP and its implementation, which is built upon in this study.",
+                    "relevance": 2
+                },
+                "2. Early economic evaluation of an intervention to improve uptake of the NHS England Diabetes Prevention Programme": {
+                    "explanation": "This paper is inspired by the hypothesis of the source paper, as it explores the cost-effectiveness of interventions to improve uptake of the NHS England Diabetes Prevention Programme (NDPP). The source paper highlights the issue of variable participation in the DPP, which is addressed in this study through an economic evaluation of interventions to improve uptake.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2022,
+        "source_paper": {
+            "paperId": "5102949d59a9eeb49397afe78b96295d06c5193c",
+            "title": "\u2018Going the distance\u2019: an independent cohort study of engagement and dropout among the first 100 000 referrals into a large-scale diabetes prevention program",
+            "abstract": "Introduction Diabetes prevention programs (DPPs) are effective, in a pre-diabetic population, in reducing weight, lowering glycated hemoglobin and slowing the progression to diabetes. Little is known about the relationship between participation in DPPsand participant characteristics or service delivery. We investigated uptake and retention in England\u2019s NHS DPP, reporting on variability among patient subgroups, providers, and sites. Research design and methods This prospective cohort study included 99\u2009473 adults with non-diabetic hyperglycemia referred to the English DPP between 2016 and 2017. The program seeks to change health behaviors by offering at least 16\u2009hours of group education and exercise. Multilevel logistic regression models were used to analyze variation in uptake, retention, and completion. Results Uptake among 99\u2009473 adults referred to the program was 56% (55 275). Among 55\u2009275 who started the program, 34% (18 562) achieved the required dose and 22% (12 127) completed the full course. After adjustment for variation in case mix, substantial heterogeneity in uptake and retention was seen across four service providers (uptake OR 1.77 (1.33, 2.34), 4.30 (3.01, 6.15), and 1.45 (1.07, 1.97) compared with the reference provider) and between sites (uptake for typical individuals ranged from 0.32 to 0.78 across the middle 95% of sites, intraclass correlation coefficient (ICC) 0.07). Higher levels of retention and completion were seen where some out-of-hours provision was offered (retention OR 1.32 (1.25, 1.39)). Conclusions This study provides the first independent assessment of participation in the English DPP and the first study internationally to examine the impact of DPP service delivery on participation. When implementing a large-scale DPP, heterogeneity in service provision between different providers and sites can result in variable participation beyond that attributable to case mix, with potential consequences for effectiveness and health inequalities. Extending out-of-hours provision may improve participation in prevention programs.",
+            "year": 2020,
+            "citation_count": 33,
+            "relevance": 2,
+            "explanation": "This paper is connected to the source paper as it investigates the engagement and dropout rates of the NHS Diabetes Prevention Programme, which is the same program that the source paper assessed for fidelity to the programme specification."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. How do UK general practice staff understand and manage prediabetes? A focus group study": {
+                    "explanation": "The hypothesis in this paper is not directly related to the source paper, as it explores primary care clinicians' understanding and management of prediabetes, which is a broader topic. The source paper focuses on the English NHS Diabetes Prevention Program, whereas this paper examines general practice staff's approach to prediabetes. Therefore, the connection is indirect, and the paper does not build upon the source paper's findings.",
+                    "relevance": 0
+                },
+                "2. The English national health service diabetes prevention programme (NHS DPP): A scoping review of existing evidence": {
+                    "explanation": "This paper is a review of existing evidence on the NHS DPP, which is the same program studied in the source paper. However, as a review paper, it does not present novel findings or hypotheses that build upon the source paper. Instead, it provides an overview of the existing literature, including the source paper. Therefore, the relevance score is 0.",
+                    "relevance": 0
+                },
+                "3. Fidelity to Program Specification of the National Health Service Digital Diabetes Prevention Program Behavior Change Technique Content and Underpinning Theory: Document Analysis": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper. The source paper examines the participation in the English NHS DPP, including the impact of service delivery on participation. This paper assesses the fidelity of the behavior change content in the digital service of the NHS DPP, which is an aspect of the program's service delivery. Therefore, the paper builds upon the source paper's findings and explores a related topic.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Fidelity to Program Specification of the National Health Service Digital Diabetes Prevention Program Behavior Change Technique Content and Underpinning Theory: Document Analysis": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper. The source paper examines the participation in the English NHS DPP, including the impact of service delivery on participation. This paper assesses the fidelity of the behavior change content in the digital service of the NHS DPP, which is an aspect of the program's service delivery. Therefore, the paper builds upon the source paper's findings and explores a related topic.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2022,
+        "source_paper": {
+            "paperId": "ad64b8aff2b7e56421c30702aea47528404441d0",
+            "title": "How is the Behavior Change Technique Content of the NHS Diabetes Prevention Program Understood by Participants? A Qualitative Study of Fidelity, With a Focus on Receipt",
+            "abstract": "Abstract Background The National Health Service (NHS) Diabetes Prevention Program (DPP) is a nationally implemented behavioral intervention for adults at high risk of developing Type 2 diabetes in England, based on a program specification that stipulates inclusion of 19 specific behavior change techniques (BCTs). Previous work has identified drift in fidelity from these NHS England specifications through providers\u2019 program manuals, training, and delivery, especially in relation to BCTs targeting self-regulatory processes. Purpose This qualitative study investigates intervention receipt, i.e., how the self-regulatory BCT content of the NHS-DPP is understood by participants. Methods Twenty participants from eight NHS-DPP locations were interviewed; topics included participants\u2019 understanding of self-monitoring of behavior, goal setting, feedback, problem solving, and action planning. Transcripts were analyzed thematically using the framework method. Results There was a wide variation in understanding among participants for some BCTs, as well as between BCTs. Participants described their understanding of \u201cself-monitoring of behaviors\u201d with ease and valued BCTs focused on outcomes (weight loss). Some participants learned how to set appropriate behavioral goals. Participants struggled to recall \u201caction planning\u201d or \u201cproblem solving\u201d or found these techniques challenging to understand, unless additional support was provided (e.g., through group discussion). Conclusions Participants\u2019 lack of understanding of some self-regulatory BCTs is consistent with the drift across fidelity domains previously identified from NHS design specifications. Behavioral interventions should build-in necessary support for participants to help them understand some BCTs such as action planning and problem solving. Alternatively, these self-regulatory BCTs may be intrinsically difficult to use for this population.",
+            "year": 2021,
+            "citation_count": 14,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the fidelity of the NHS Diabetes Prevention Program (DPP) and how participants understand the behavior change techniques (BCTs) included in the program. The source paper provides the context for the DPP and its implementation, which is built upon in this study."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Assessing and ensuring fidelity of the nationally implemented English NHS diabetes prevention programme: lessons learned for the implementation of large-scale behaviour change programmes": {
+                    "explanation": "This paper is a follow-up study on the source paper, as it discusses how to optimize intervention fidelity in nationally implemented behavior change programs, using the National Health Service Diabetes Prevention Programme (NHS-DPP) as an exemplar. The key hypothesis in this paper is inspired by the findings of the source paper, which investigated the understanding of self-regulatory behavior change techniques (BCTs) by participants in the NHS-DPP.",
+                    "relevance": 1
+                },
+                "2. The English national health service diabetes prevention programme (NHS DPP): A scoping review of existing evidence": {
+                    "explanation": "This paper is a review of existing evidence on the NHS-DPP, which is the same program studied in the source paper. However, it does not build upon the findings of the source paper or propose a new hypothesis based on the source paper's results.",
+                    "relevance": 0
+                },
+                "3. Fidelity to Program Specification of the National Health Service Digital Diabetes Prevention Program Behavior Change Technique Content and Underpinning Theory: Document Analysis": {
+                    "explanation": "This paper investigates the fidelity of the behavior change content in the digital version of the NHS-DPP, which is an extension of the program studied in the source paper. The key hypothesis in this paper is partially dependent on the findings of the source paper, as it assesses the fidelity of the digital program's behavior change content, including self-regulatory BCTs.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Fidelity to Program Specification of the National Health Service Digital Diabetes Prevention Program Behavior Change Technique Content and Underpinning Theory: Document Analysis": {
+                    "explanation": "This paper investigates the fidelity of the behavior change content in the digital version of the NHS-DPP, which is an extension of the program studied in the source paper. The key hypothesis in this paper is partially dependent on the findings of the source paper, as it assesses the fidelity of the digital program's behavior change content, including self-regulatory BCTs.",
+                    "relevance": 2
+                },
+                "2. Assessing and ensuring fidelity of the nationally implemented English NHS diabetes prevention programme: lessons learned for the implementation of large-scale behaviour change programmes": {
+                    "explanation": "This paper is a follow-up study on the source paper, as it discusses how to optimize intervention fidelity in nationally implemented behavior change programs, using the National Health Service Diabetes Prevention Programme (NHS-DPP) as an exemplar. The key hypothesis in this paper is inspired by the findings of the source paper, which investigated the understanding of self-regulatory behavior change techniques (BCTs) by participants in the NHS-DPP.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2023,
+        "source_paper": {
+            "paperId": "ad64b8aff2b7e56421c30702aea47528404441d0",
+            "title": "How is the Behavior Change Technique Content of the NHS Diabetes Prevention Program Understood by Participants? A Qualitative Study of Fidelity, With a Focus on Receipt",
+            "abstract": "Abstract Background The National Health Service (NHS) Diabetes Prevention Program (DPP) is a nationally implemented behavioral intervention for adults at high risk of developing Type 2 diabetes in England, based on a program specification that stipulates inclusion of 19 specific behavior change techniques (BCTs). Previous work has identified drift in fidelity from these NHS England specifications through providers\u2019 program manuals, training, and delivery, especially in relation to BCTs targeting self-regulatory processes. Purpose This qualitative study investigates intervention receipt, i.e., how the self-regulatory BCT content of the NHS-DPP is understood by participants. Methods Twenty participants from eight NHS-DPP locations were interviewed; topics included participants\u2019 understanding of self-monitoring of behavior, goal setting, feedback, problem solving, and action planning. Transcripts were analyzed thematically using the framework method. Results There was a wide variation in understanding among participants for some BCTs, as well as between BCTs. Participants described their understanding of \u201cself-monitoring of behaviors\u201d with ease and valued BCTs focused on outcomes (weight loss). Some participants learned how to set appropriate behavioral goals. Participants struggled to recall \u201caction planning\u201d or \u201cproblem solving\u201d or found these techniques challenging to understand, unless additional support was provided (e.g., through group discussion). Conclusions Participants\u2019 lack of understanding of some self-regulatory BCTs is consistent with the drift across fidelity domains previously identified from NHS design specifications. Behavioral interventions should build-in necessary support for participants to help them understand some BCTs such as action planning and problem solving. Alternatively, these self-regulatory BCTs may be intrinsically difficult to use for this population.",
+            "year": 2021,
+            "citation_count": 14,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the fidelity of the NHS Diabetes Prevention Program (DPP) and how participants understand the behavior change techniques (BCTs) included in the program. The source paper provides the context for the DPP and its implementation, which is built upon in this study."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Experiences of online group support for engaging and supporting participants in the National Health Service Digital Diabetes Prevention Programme: A qualitative interview study": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it explores how service users engaged with the group support available within the programme, which is related to the understanding of behavior change techniques (BCTs) in the NHS Diabetes Prevention Program (DPP).",
+                    "relevance": 1
+                },
+                "2. The national health service England diabetes prevention program\u2014A narrative review": {
+                    "explanation": "This paper is a review paper and does not present any novel hypotheses or findings that are directly related to the source paper. It provides a general overview of the NHS Diabetes Prevention Program (DPP) and its effectiveness, but does not specifically focus on the understanding of BCTs or their impact on participants.",
+                    "relevance": 0
+                },
+                "3. Preventing type 2 diabetes: A research agenda for behavioural science": {
+                    "explanation": "The hypothesis in this paper is not directly related to the source paper, as it focuses on identifying knowledge gaps in behavioral science relating to type 2 diabetes prevention, rather than exploring the understanding of BCTs in the NHS DPP.",
+                    "relevance": 0
+                },
+                "4. Explaining the UK\u2019s \u2018high-risk\u2019 approach to type 2 diabetes prevention: findings from a qualitative interview study with policy-makers in England": {
+                    "explanation": "The hypothesis in this paper is not directly related to the source paper, as it explores the perspectives of policy-makers on diabetes prevention policy, rather than focusing on the understanding of BCTs or their impact on participants in the NHS DPP.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Experiences of online group support for engaging and supporting participants in the National Health Service Digital Diabetes Prevention Programme: A qualitative interview study": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it explores how service users engaged with the group support available within the programme, which is related to the understanding of behavior change techniques (BCTs) in the NHS Diabetes Prevention Program (DPP).",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2023,
+        "source_paper": {
+            "paperId": "0bde7450ee1d4f153a255273af4284f97273b624",
+            "title": "Fidelity to Program Specification of the National Health Service Digital Diabetes Prevention Program Behavior Change Technique Content and Underpinning Theory: Document Analysis",
+            "abstract": "Background The National Health Service (NHS) Diabetes Prevention Program is a behavior change intervention for adults in England who are identified as being at high risk of developing type 2 diabetes. The face-to-face service was launched in 2016, followed by a digital service (NHS Digital Diabetes Prevention Program [NHS-DDPP]) in 2019. A total of 4 service providers were commissioned to deliver the NHS-DDPP and were required to deliver the digital service in line with a program specification detailing the key intervention content. The fidelity of the behavior change content in the digital service (ie, the extent to which the program is delivered as intended) is currently unknown. Digital interventions may allow higher fidelity as staff do not have to be trained to deliver all intervention content. Assessing fidelity of the intervention design is particularly important to establish the planned behavior change content in the NHS-DDPP and the extent to which this adheres to the program specification. This is the first known independent assessment of design fidelity in a large-scale digital behavior change intervention. Objective This study aims to assess the fidelity of the behavior change content in each of the 4 NHS-DDPP providers\u2019 intervention designs to the full program specification. Methods We conducted a document review of each provider\u2019s NHS-DDPP intervention design, along with interviews with program developers employed by the 4 digital providers (n=6). Providers\u2019 intervention design documents and interview transcripts were coded for behavior change techniques (BCTs; ie, the active ingredients of the intervention) using the Behavior Change Technique Taxonomy version 1 and underpinning theory using the Theory Coding Scheme framework. The BCTs identified in each digital provider\u2019s intervention design were compared with the 19 BCTs included in the program specification. Results Of the 19 BCTs specified in the program specification, the 4 providers planned to deliver 16 (84%), 17 (89%), 16 (84%), and 16 (84%) BCTs, respectively. An additional 41 unspecified BCTs were included in at least one of the 4 digital providers\u2019 intervention designs. By contrast, inconsistent use of the underpinning theory was apparent across providers, and none of the providers had produced a logic model to explain how their programs were expected to work. All providers linked some of their planned BCTs to theoretical constructs; however, justification for the inclusion of other BCTs was not described. Conclusions The fidelity of BCT content in the NHS-DDPP was higher than that previously documented for the face-to-face service. Thus, if service users engage with the NHS-DDPP, this should increase the effectiveness of the program. However, given that a clear theoretical underpinning supports the translation of BCTs in intervention designs to intervention delivery, the absence of a logic model describing the constructs to be targeted by specific BCTs is potentially problematic.",
+            "year": 2022,
+            "citation_count": 8,
+            "relevance": 2,
+            "explanation": "This paper investigates the fidelity of the behavior change content in the digital version of the NHS-DPP, which is an extension of the program studied in the source paper. The key hypothesis in this paper is partially dependent on the findings of the source paper, as it assesses the fidelity of the digital program's behavior change content, including self-regulatory BCTs."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. The national health service England diabetes prevention program\u2014A narrative review": {
+                    "explanation": "This paper is a review of the NHS Diabetes Prevention Program and does not build on the findings of the source paper or propose a new hypothesis. It is a summary of existing literature and lacks novel findings or hypotheses.",
+                    "relevance": 0
+                },
+                "2. Diabetes prevention at scale: Narrative review of findings and lessons from the DIPLOMA evaluation of the NHS Diabetes Prevention Programme in England": {
+                    "explanation": "This paper is also a review of the NHS Diabetes Prevention Programme and does not propose a new hypothesis. It summarizes the findings of the DIPLOMA evaluation and provides insights for future programs, but it does not build on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "3. Design and Early Use of the Nationally Implemented Healthier You National Health Service Digital Diabetes Prevention Programme: Mixed Methods Study": {
+                    "explanation": "This paper investigates the design features and early use of the NHS Digital Diabetes Prevention Programme, which is the same program evaluated in the source paper. The paper's hypothesis is partially dependent on the findings of the source paper, as it explores the engagement with the program's digital features, which is related to the fidelity of the program's behavior change content.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Design and Early Use of the Nationally Implemented Healthier You National Health Service Digital Diabetes Prevention Programme: Mixed Methods Study": {
+                    "explanation": "This paper investigates the design features and early use of the NHS Digital Diabetes Prevention Programme, which is the same program evaluated in the source paper. The paper's hypothesis is partially dependent on the findings of the source paper, as it explores the engagement with the program's digital features, which is related to the fidelity of the program's behavior change content.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2024,
+        "source_paper": {
+            "paperId": "0bde7450ee1d4f153a255273af4284f97273b624",
+            "title": "Fidelity to Program Specification of the National Health Service Digital Diabetes Prevention Program Behavior Change Technique Content and Underpinning Theory: Document Analysis",
+            "abstract": "Background The National Health Service (NHS) Diabetes Prevention Program is a behavior change intervention for adults in England who are identified as being at high risk of developing type 2 diabetes. The face-to-face service was launched in 2016, followed by a digital service (NHS Digital Diabetes Prevention Program [NHS-DDPP]) in 2019. A total of 4 service providers were commissioned to deliver the NHS-DDPP and were required to deliver the digital service in line with a program specification detailing the key intervention content. The fidelity of the behavior change content in the digital service (ie, the extent to which the program is delivered as intended) is currently unknown. Digital interventions may allow higher fidelity as staff do not have to be trained to deliver all intervention content. Assessing fidelity of the intervention design is particularly important to establish the planned behavior change content in the NHS-DDPP and the extent to which this adheres to the program specification. This is the first known independent assessment of design fidelity in a large-scale digital behavior change intervention. Objective This study aims to assess the fidelity of the behavior change content in each of the 4 NHS-DDPP providers\u2019 intervention designs to the full program specification. Methods We conducted a document review of each provider\u2019s NHS-DDPP intervention design, along with interviews with program developers employed by the 4 digital providers (n=6). Providers\u2019 intervention design documents and interview transcripts were coded for behavior change techniques (BCTs; ie, the active ingredients of the intervention) using the Behavior Change Technique Taxonomy version 1 and underpinning theory using the Theory Coding Scheme framework. The BCTs identified in each digital provider\u2019s intervention design were compared with the 19 BCTs included in the program specification. Results Of the 19 BCTs specified in the program specification, the 4 providers planned to deliver 16 (84%), 17 (89%), 16 (84%), and 16 (84%) BCTs, respectively. An additional 41 unspecified BCTs were included in at least one of the 4 digital providers\u2019 intervention designs. By contrast, inconsistent use of the underpinning theory was apparent across providers, and none of the providers had produced a logic model to explain how their programs were expected to work. All providers linked some of their planned BCTs to theoretical constructs; however, justification for the inclusion of other BCTs was not described. Conclusions The fidelity of BCT content in the NHS-DDPP was higher than that previously documented for the face-to-face service. Thus, if service users engage with the NHS-DDPP, this should increase the effectiveness of the program. However, given that a clear theoretical underpinning supports the translation of BCTs in intervention designs to intervention delivery, the absence of a logic model describing the constructs to be targeted by specific BCTs is potentially problematic.",
+            "year": 2022,
+            "citation_count": 8,
+            "relevance": 2,
+            "explanation": "This paper investigates the fidelity of the behavior change content in the digital version of the NHS-DPP, which is an extension of the program studied in the source paper. The key hypothesis in this paper is partially dependent on the findings of the source paper, as it assesses the fidelity of the digital program's behavior change content, including self-regulatory BCTs."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Improving retrospective intervention descriptions: Lessons learned from research on type 2 diabetes programmes in the United Kingdom and the Republic of Ireland.": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it discusses the importance of accurately describing the content of behavioral interventions, such as the NHS Digital Diabetes Prevention Program. The paper builds on the source paper's results regarding the fidelity of behavior change content in the NHS-DDPP and highlights the challenges of retrospective coding of existing interventions.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Improving retrospective intervention descriptions: Lessons learned from research on type 2 diabetes programmes in the United Kingdom and the Republic of Ireland.": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it discusses the importance of accurately describing the content of behavioral interventions, such as the NHS Digital Diabetes Prevention Program. The paper builds on the source paper's results regarding the fidelity of behavior change content in the NHS-DDPP and highlights the challenges of retrospective coding of existing interventions.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    }
+]

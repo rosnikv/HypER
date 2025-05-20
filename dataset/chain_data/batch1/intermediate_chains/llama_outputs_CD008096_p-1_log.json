@@ -1,0 +1,793 @@
+[
+    {
+        "year": 2006,
+        "source_paper": {
+            "paperId": "a89ac5b2b47256ab1fcaeb2967b9a65f6da8b762",
+            "pmid": "15733717",
+            "title": "Effect of timing and method of enteral tube feeding for dysphagic stroke patients (FOOD): a multicentre randomised controlled trial",
+            "abstract": null,
+            "year": 2005,
+            "citation_count": 468
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Percutaneous endoscopic gastrostomies: the burden of treatment from a patient perspective": {
+                    "explanation": "This paper is related to the source paper as it deals with the patient's experience of percutaneous endoscopic gastrostomy, a method of enteral tube feeding, which is relevant to the source paper's topic of enteral tube feeding for dysphagic stroke patients.",
+                    "relevance": 1
+                },
+                "2. Stroke Propagates Bacterial Aspiration to Pneumonia in a Model of Cerebral Ischemia": {
+                    "explanation": "This paper is not directly related to the source paper, as it deals with the relationship between stroke and pneumonia, but does not discuss enteral tube feeding.",
+                    "relevance": 0
+                },
+                "3. Symptomatic Treatment of Multiple Sclerosis": {
+                    "explanation": "This paper is not related to the source paper, as it deals with the treatment of multiple sclerosis, which is a different topic from enteral tube feeding for dysphagic stroke patients.",
+                    "relevance": 0
+                },
+                "4. Dysphagia in stroke patients": {
+                    "explanation": "This paper is related to the source paper as it deals with dysphagia in stroke patients, which is a key aspect of the source paper's topic of enteral tube feeding for dysphagic stroke patients.",
+                    "relevance": 1
+                },
+                "5. The FOOD Trial Collaboration: nutritional supplementation strategies and acute stroke outcome": {
+                    "explanation": "This paper is highly relevant to the source paper as it discusses the FOOD trial, which is a multicentre randomised controlled trial that investigated nutritional supplementation strategies for acute stroke patients, including enteral tube feeding.",
+                    "relevance": 2
+                },
+                "6. Changing attitudes to the management of ischaemic stroke between 1997 and 2004: a survey of New Zealand physicians": {
+                    "explanation": "This paper is not directly related to the source paper, as it deals with the management of ischaemic stroke, but does not discuss enteral tube feeding.",
+                    "relevance": 0
+                },
+                "7. Criteria for Distinguishing Effectiveness From Efficacy Trials in Systematic Reviews": {
+                    "explanation": "This paper is not related to the source paper, as it deals with the methodology of systematic reviews, which is a different topic from enteral tube feeding for dysphagic stroke patients.",
+                    "relevance": 0
+                },
+                "8. Are there any real differences between enteral feed formulations used in the critically ill?": {
+                    "explanation": "This paper is related to the source paper as it deals with enteral feed formulations, which is relevant to the source paper's topic of enteral tube feeding for dysphagic stroke patients.",
+                    "relevance": 1
+                },
+                "9. Nutrition and Aging: Assessment and Treatment of Compromised Nutritional Status in Frail Elderly Patients": {
+                    "explanation": "This paper is not directly related to the source paper, as it deals with nutrition and aging, but does not discuss enteral tube feeding for dysphagic stroke patients.",
+                    "relevance": 0
+                },
+                "10. What\u2019s new in stroke prevention and treatment": {
+                    "explanation": "This paper is not directly related to the source paper, as it deals with stroke prevention and treatment, but does not discuss enteral tube feeding.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. The FOOD Trial Collaboration: nutritional supplementation strategies and acute stroke outcome": {
+                    "explanation": "This paper is highly relevant to the source paper as it discusses the FOOD trial, which is a multicentre randomised controlled trial that investigated nutritional supplementation strategies for acute stroke patients, including enteral tube feeding.",
+                    "relevance": 2
+                },
+                "2. Dysphagia in stroke patients": {
+                    "explanation": "This paper is related to the source paper as it deals with dysphagia in stroke patients, which is a key aspect of the source paper's topic of enteral tube feeding for dysphagic stroke patients.",
+                    "relevance": 1
+                },
+                "3. Percutaneous endoscopic gastrostomies: the burden of treatment from a patient perspective": {
+                    "explanation": "This paper is related to the source paper as it deals with the patient's experience of percutaneous endoscopic gastrostomy, a method of enteral tube feeding, which is relevant to the source paper's topic of enteral tube feeding for dysphagic stroke patients.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2006,
+        "source_paper": {
+            "paperId": "a89ac5b2b47256ab1fcaeb2967b9a65f6da8b762",
+            "pmid": "15733717",
+            "title": "Effect of timing and method of enteral tube feeding for dysphagic stroke patients (FOOD): a multicentre randomised controlled trial",
+            "abstract": null,
+            "year": 2005,
+            "citation_count": 468
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Feeding Patients after Stroke: Who, When, and How": {
+                    "explanation": "This paper has no connection with the source paper as it does not build upon or reference the findings of the source paper, 'Effect of timing and method of enteral tube feeding for dysphagic stroke patients (FOOD): a multicentre randomised controlled trial'. Instead, it appears to be a review article discussing the results of the FOOD trials and their implications for clinical practice.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2007,
+        "source_paper": {
+            "paperId": "a89ac5b2b47256ab1fcaeb2967b9a65f6da8b762",
+            "pmid": "15733717",
+            "title": "Effect of timing and method of enteral tube feeding for dysphagic stroke patients (FOOD): a multicentre randomised controlled trial",
+            "abstract": null,
+            "year": 2005,
+            "citation_count": 468
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Dysphagia Bedside Screening for Acute-Stroke Patients: The Gugging Swallowing Screen": {
+                    "explanation": "This paper is relevant to the source paper as it investigates a bedside screening tool for dysphagia in acute-stroke patients, which is related to the enteral tube feeding for dysphagic stroke patients studied in the source paper.",
+                    "relevance": 1
+                },
+                "2. Dysphagia Bedside Screening for Acute-Stroke Patients": {
+                    "explanation": "This paper is a duplicate of the first paper and is also relevant to the source paper for the same reasons.",
+                    "relevance": 1
+                },
+                "3. Predicting outcome in hyper-acute stroke: validation of a prognostic model in the Third International Stroke Trial (IST3)": {
+                    "explanation": "This paper is not directly related to the source paper as it focuses on predicting outcomes in hyper-acute stroke, whereas the source paper investigates enteral tube feeding for dysphagic stroke patients.",
+                    "relevance": 0
+                },
+                "4. Risk Factors for Chest Infection in Acute Stroke: A Prospective Cohort Study": {
+                    "explanation": "This paper is relevant to the source paper as it identifies risk factors for chest infection in acute stroke, which is related to the complications of dysphagia in stroke patients studied in the source paper.",
+                    "relevance": 1
+                },
+                "5. Stroke Rehabilitation 2007: What Should it Be?": {
+                    "explanation": "This paper is not directly related to the source paper as it focuses on stroke rehabilitation in general, whereas the source paper investigates enteral tube feeding for dysphagic stroke patients.",
+                    "relevance": 0
+                },
+                "6. Guidelines for the Early Management of Adults With Ischemic Stroke": {
+                    "explanation": "This paper is not directly related to the source paper as it provides guidelines for the early management of ischemic stroke, whereas the source paper investigates enteral tube feeding for dysphagic stroke patients.",
+                    "relevance": 0
+                },
+                "7. Does Enteral Nutrition Affect Clinical Outcome? A Systematic Review of the Randomized Trials": {
+                    "explanation": "This paper is highly relevant to the source paper as it reviews the effect of enteral nutrition on clinical outcomes, including stroke patients, which is directly related to the source paper's investigation of enteral tube feeding for dysphagic stroke patients.",
+                    "relevance": 2
+                },
+                "8. Dysphagia Bedside Screening for Acute-Stroke Patients": {
+                    "explanation": "This paper is a duplicate of the first paper and is also relevant to the source paper for the same reasons.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Does Enteral Nutrition Affect Clinical Outcome? A Systematic Review of the Randomized Trials": {
+                    "explanation": "This paper is highly relevant to the source paper as it reviews the effect of enteral nutrition on clinical outcomes, including stroke patients, which is directly related to the source paper's investigation of enteral tube feeding for dysphagic stroke patients.",
+                    "relevance": 2
+                },
+                "2. Dysphagia Bedside Screening for Acute-Stroke Patients: The Gugging Swallowing Screen": {
+                    "explanation": "This paper is relevant to the source paper as it investigates a bedside screening tool for dysphagia in acute-stroke patients, which is related to the enteral tube feeding for dysphagic stroke patients studied in the source paper.",
+                    "relevance": 1
+                },
+                "3. Risk Factors for Chest Infection in Acute Stroke: A Prospective Cohort Study": {
+                    "explanation": "This paper is relevant to the source paper as it identifies risk factors for chest infection in acute stroke, which is related to the complications of dysphagia in stroke patients studied in the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2008,
+        "source_paper": {
+            "paperId": "691e41837f1198ecf109240126507cd2a80aaa5b",
+            "title": "Does Enteral Nutrition Affect Clinical Outcome? A Systematic Review of the Randomized Trials",
+            "abstract": "BACKGROUND:Both parenteral nutrition (PN) and enteral nutrition (EN) are widely advocated as adjunctive care in patients with various diseases. A systematic review of 82 randomized controlled trials (RCTs) of PN published in 2001 found little, if any, effect on mortality, morbidity, or duration of hospital stay; in some situations, PN increased infectious complication rates.OBJECTIVE:The objective was to assess the effect of EN or volitional nutrition support (VNS) in individual disease states from available RCTs.DESIGN:We conducted a systematic review. RCTs comparing EN or VNS with untreated controls, or comparing EN with PN, were identified and separated according to the underlying disease state. Meta-analysis was performed when at least three RCTs provided data. The evidence from the RCTs was summarized into one of five grades. A or B, respectively, indicated the presence of strong or weak (low-quality RCTs) evidence supporting the use of the intervention. C indicated a lack of adequate evidence to make any decision about efficacy. D indicated that limited data could not support the intervention. E indicated either that strong data found no effect, or that either strong or weak data suggested that the intervention caused harm.PATIENTS AND SETTINGS:RCTs could include either hospitalized or nonhospitalized patients. The EN or VNS had to be provided as part of a treatment plan for an underlying disease process.INTERVENTIONS:The RCT had to compare recipients of either EN or VNS with controls not receiving any type of artificial nutrition or had to compare recipients of EN with recipients of PN.OUTCOME MEASURES:These were mortality, morbidity (disease specific), duration of hospitalization, cost, or interventional complications.SUMMARY OF GRADING:A: No indication was identified. B: EN or VNS in the perioperative patient or in patients with chronic liver disease; EN in critically ill patients or low birth weight infants (trophic feeding); VNS in malnourished geriatric patients. (The low-quality trials found a significant difference in survival favoring the VNS recipients in the malnourished geriatric patient trials; two high-quality trials found nonsignificant differences that favored VNS as well.) C: EN or VNS in liver transplantation, cystic fibrosis, renal failure, pediatric conditions other than low birth weight infants, well-nourished geriatric patients, nonstroke neurologic conditions, AIDS; EN in acute pancreatitis, chronic obstructive pulmonary disease, nonmalnourished geriatric patients; VNS in inflammatory bowel disease, arthritis, cardiac disease, pregnancy, allergic patients, preoperative bowel preparation. D: EN or VNS in patients receiving nonsurgical cancer treatment or in patients with hip fractures; EN in patients with inflammatory bowel disease; VNS in patients with chronic obstructive pulmonary disease. EN in the first week in dysphagic, or VNS at any time in nondysphagic, stroke patients who are not malnourished; dysphagia persisting for weeks will presumably ultimately require EN.CONCLUSIONS:There is strong evidence for not using EN in the first week in dysphagic, and not using VNS at all in nondysphagic, stroke patients who are not malnourished. There is reasonable evidence for using VNS in malnourished geriatric patients. The recommendations to consider EN/VNS in perioperative/liver/critically ill/low birth weight patients are limited by the low quality of the RCTs. No evidence could be identified to justify the use of EN/VNS in other disease states.",
+            "year": 2007,
+            "citation_count": 207,
+            "relevance": 2,
+            "explanation": "This paper is highly relevant to the source paper as it reviews the effect of enteral nutrition on clinical outcomes, including stroke patients, which is directly related to the source paper's investigation of enteral tube feeding for dysphagic stroke patients."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Quality of life and enteral nutrition": {
+                    "explanation": "This paper is a review paper that discusses the impact of enteral nutrition on quality of life. It does not build upon the source paper's findings or use them as a sub-hypothesis, so it is not relevant.",
+                    "relevance": 0
+                },
+                "2. Enteral vs. parenteral nutrition for the critically ill patient: a combined support should be preferred": {
+                    "explanation": "This paper discusses the use of enteral and parenteral nutrition in critically ill patients, which is related to the source paper's topic of enteral nutrition. However, it does not build upon the source paper's findings or use them as a sub-hypothesis, so it is only partially relevant.",
+                    "relevance": 1
+                },
+                "3. Comment on: Early Enteral Supplementation With Key Pharmaconutrients Improves Sequential Organ Failure Assessment Score in Critically Ill Patients With Sepsis: Outcome of a Randomized, Controlled, Double-Blind Trial": {
+                    "explanation": "This paper discusses the use of early enteral supplementation in critically ill patients with sepsis, which is related to the source paper's topic of enteral nutrition. However, it does not build upon the source paper's findings or use them as a sub-hypothesis, so it is only partially relevant.",
+                    "relevance": 1
+                },
+                "4. Carts, horses, and evidence.": {
+                    "explanation": "This paper is a commentary on the use of evidence in clinical decision making and does not discuss enteral nutrition specifically. It is not relevant to the source paper.",
+                    "relevance": 0
+                },
+                "5. If you don't connect the dots, you may not see the whole picture!": {
+                    "explanation": "This paper discusses the importance of considering the entire body of evidence when evaluating the effectiveness of a medical intervention. While it mentions enteral nutrition, it does not build upon the source paper's findings or use them as a sub-hypothesis, so it is only partially relevant.",
+                    "relevance": 1
+                },
+                "6. Economic impact and quality of life as endpoints of nutritional therapy": {
+                    "explanation": "This paper discusses the importance of considering economic impact and quality of life when evaluating nutritional therapy. While it mentions enteral nutrition, it does not build upon the source paper's findings or use them as a sub-hypothesis, so it is only partially relevant.",
+                    "relevance": 1
+                },
+                "7. The enteral vs parenteral nutrition debate revisited.": {
+                    "explanation": "This paper discusses the debate between enteral and parenteral nutrition, which is related to the source paper's topic of enteral nutrition. However, it does not build upon the source paper's findings or use them as a sub-hypothesis, so it is only partially relevant.",
+                    "relevance": 1
+                },
+                "8. Systematic review: glucocorticosteroids for alcoholic hepatitis \u2013 a Cochrane Hepato\u2010Biliary Group systematic review with meta\u2010analyses and trial sequential analyses of randomized clinical trials": {
+                    "explanation": "This paper is a systematic review of glucocorticosteroids for alcoholic hepatitis and does not discuss enteral nutrition. It is not relevant to the source paper.",
+                    "relevance": 0
+                },
+                "9. Is there a role for bowel rest in nutrition management of Crohn's disease?": {
+                    "explanation": "This paper discusses the role of bowel rest in nutrition management of Crohn's disease, which is related to the source paper's topic of enteral nutrition. However, it does not build upon the source paper's findings or use them as a sub-hypothesis, so it is only partially relevant.",
+                    "relevance": 1
+                },
+                "10. Paradigm of early parenteral nutrition support in combination with insufficient enteral nutrition": {
+                    "explanation": "This paper discusses the use of early parenteral nutrition support in combination with insufficient enteral nutrition, which is related to the source paper's topic of enteral nutrition. It builds upon the source paper's findings and uses them as a sub-hypothesis, so it is highly relevant.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Paradigm of early parenteral nutrition support in combination with insufficient enteral nutrition": {
+                    "explanation": "This paper discusses the use of early parenteral nutrition support in combination with insufficient enteral nutrition, which is related to the source paper's topic of enteral nutrition. It builds upon the source paper's findings and uses them as a sub-hypothesis, so it is highly relevant.",
+                    "relevance": 2
+                },
+                "2. Enteral vs. parenteral nutrition for the critically ill patient: a combined support should be preferred": {
+                    "explanation": "This paper discusses the use of enteral and parenteral nutrition in critically ill patients, which is related to the source paper's topic of enteral nutrition. However, it does not build upon the source paper's findings or use them as a sub-hypothesis, so it is only partially relevant.",
+                    "relevance": 1
+                },
+                "3. Comment on: Early Enteral Supplementation With Key Pharmaconutrients Improves Sequential Organ Failure Assessment Score in Critically Ill Patients With Sepsis: Outcome of a Randomized, Controlled, Double-Blind Trial": {
+                    "explanation": "This paper discusses the use of early enteral supplementation in critically ill patients with sepsis, which is related to the source paper's topic of enteral nutrition. However, it does not build upon the source paper's findings or use them as a sub-hypothesis, so it is only partially relevant.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2008,
+        "source_paper": {
+            "paperId": "691e41837f1198ecf109240126507cd2a80aaa5b",
+            "title": "Does Enteral Nutrition Affect Clinical Outcome? A Systematic Review of the Randomized Trials",
+            "abstract": "BACKGROUND:Both parenteral nutrition (PN) and enteral nutrition (EN) are widely advocated as adjunctive care in patients with various diseases. A systematic review of 82 randomized controlled trials (RCTs) of PN published in 2001 found little, if any, effect on mortality, morbidity, or duration of hospital stay; in some situations, PN increased infectious complication rates.OBJECTIVE:The objective was to assess the effect of EN or volitional nutrition support (VNS) in individual disease states from available RCTs.DESIGN:We conducted a systematic review. RCTs comparing EN or VNS with untreated controls, or comparing EN with PN, were identified and separated according to the underlying disease state. Meta-analysis was performed when at least three RCTs provided data. The evidence from the RCTs was summarized into one of five grades. A or B, respectively, indicated the presence of strong or weak (low-quality RCTs) evidence supporting the use of the intervention. C indicated a lack of adequate evidence to make any decision about efficacy. D indicated that limited data could not support the intervention. E indicated either that strong data found no effect, or that either strong or weak data suggested that the intervention caused harm.PATIENTS AND SETTINGS:RCTs could include either hospitalized or nonhospitalized patients. The EN or VNS had to be provided as part of a treatment plan for an underlying disease process.INTERVENTIONS:The RCT had to compare recipients of either EN or VNS with controls not receiving any type of artificial nutrition or had to compare recipients of EN with recipients of PN.OUTCOME MEASURES:These were mortality, morbidity (disease specific), duration of hospitalization, cost, or interventional complications.SUMMARY OF GRADING:A: No indication was identified. B: EN or VNS in the perioperative patient or in patients with chronic liver disease; EN in critically ill patients or low birth weight infants (trophic feeding); VNS in malnourished geriatric patients. (The low-quality trials found a significant difference in survival favoring the VNS recipients in the malnourished geriatric patient trials; two high-quality trials found nonsignificant differences that favored VNS as well.) C: EN or VNS in liver transplantation, cystic fibrosis, renal failure, pediatric conditions other than low birth weight infants, well-nourished geriatric patients, nonstroke neurologic conditions, AIDS; EN in acute pancreatitis, chronic obstructive pulmonary disease, nonmalnourished geriatric patients; VNS in inflammatory bowel disease, arthritis, cardiac disease, pregnancy, allergic patients, preoperative bowel preparation. D: EN or VNS in patients receiving nonsurgical cancer treatment or in patients with hip fractures; EN in patients with inflammatory bowel disease; VNS in patients with chronic obstructive pulmonary disease. EN in the first week in dysphagic, or VNS at any time in nondysphagic, stroke patients who are not malnourished; dysphagia persisting for weeks will presumably ultimately require EN.CONCLUSIONS:There is strong evidence for not using EN in the first week in dysphagic, and not using VNS at all in nondysphagic, stroke patients who are not malnourished. There is reasonable evidence for using VNS in malnourished geriatric patients. The recommendations to consider EN/VNS in perioperative/liver/critically ill/low birth weight patients are limited by the low quality of the RCTs. No evidence could be identified to justify the use of EN/VNS in other disease states.",
+            "year": 2007,
+            "citation_count": 207,
+            "relevance": 2,
+            "explanation": "This paper is highly relevant to the source paper as it reviews the effect of enteral nutrition on clinical outcomes, including stroke patients, which is directly related to the source paper's investigation of enteral tube feeding for dysphagic stroke patients."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Parenteral nutrition and urban legends": {
+                    "explanation": "This paper is a review of recent literature on parenteral nutrition and does not provide any new findings or hypotheses that are directly related to the source paper. It does discuss the use of parenteral nutrition in various disease states and mentions the limitations of its efficacy, but it does not build upon the source paper's findings.",
+                    "relevance": 0
+                },
+                "2. Enteral feeding": {
+                    "explanation": "This paper discusses the use of enteral nutrition in various disease states and mentions some of the benefits and limitations of its use. However, it does not provide any new findings or hypotheses that are directly related to the source paper. The source paper found that enteral nutrition is beneficial in certain disease states, such as perioperative patients and low birth weight infants, but this paper does not build upon those findings.",
+                    "relevance": 0
+                },
+                "3. DNAR: More Than Code or No Code": {
+                    "explanation": "This paper discusses the use of artificial nutrition and hydration as a 'heroic medical measure' but does not provide any new findings or hypotheses that are directly related to the source paper. The paper does mention the importance of following evidence-based practice in medical decision-making, but it does not specifically address the use of enteral nutrition or parenteral nutrition in various disease states.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2009,
+        "source_paper": {
+            "paperId": "691e41837f1198ecf109240126507cd2a80aaa5b",
+            "title": "Does Enteral Nutrition Affect Clinical Outcome? A Systematic Review of the Randomized Trials",
+            "abstract": "BACKGROUND:Both parenteral nutrition (PN) and enteral nutrition (EN) are widely advocated as adjunctive care in patients with various diseases. A systematic review of 82 randomized controlled trials (RCTs) of PN published in 2001 found little, if any, effect on mortality, morbidity, or duration of hospital stay; in some situations, PN increased infectious complication rates.OBJECTIVE:The objective was to assess the effect of EN or volitional nutrition support (VNS) in individual disease states from available RCTs.DESIGN:We conducted a systematic review. RCTs comparing EN or VNS with untreated controls, or comparing EN with PN, were identified and separated according to the underlying disease state. Meta-analysis was performed when at least three RCTs provided data. The evidence from the RCTs was summarized into one of five grades. A or B, respectively, indicated the presence of strong or weak (low-quality RCTs) evidence supporting the use of the intervention. C indicated a lack of adequate evidence to make any decision about efficacy. D indicated that limited data could not support the intervention. E indicated either that strong data found no effect, or that either strong or weak data suggested that the intervention caused harm.PATIENTS AND SETTINGS:RCTs could include either hospitalized or nonhospitalized patients. The EN or VNS had to be provided as part of a treatment plan for an underlying disease process.INTERVENTIONS:The RCT had to compare recipients of either EN or VNS with controls not receiving any type of artificial nutrition or had to compare recipients of EN with recipients of PN.OUTCOME MEASURES:These were mortality, morbidity (disease specific), duration of hospitalization, cost, or interventional complications.SUMMARY OF GRADING:A: No indication was identified. B: EN or VNS in the perioperative patient or in patients with chronic liver disease; EN in critically ill patients or low birth weight infants (trophic feeding); VNS in malnourished geriatric patients. (The low-quality trials found a significant difference in survival favoring the VNS recipients in the malnourished geriatric patient trials; two high-quality trials found nonsignificant differences that favored VNS as well.) C: EN or VNS in liver transplantation, cystic fibrosis, renal failure, pediatric conditions other than low birth weight infants, well-nourished geriatric patients, nonstroke neurologic conditions, AIDS; EN in acute pancreatitis, chronic obstructive pulmonary disease, nonmalnourished geriatric patients; VNS in inflammatory bowel disease, arthritis, cardiac disease, pregnancy, allergic patients, preoperative bowel preparation. D: EN or VNS in patients receiving nonsurgical cancer treatment or in patients with hip fractures; EN in patients with inflammatory bowel disease; VNS in patients with chronic obstructive pulmonary disease. EN in the first week in dysphagic, or VNS at any time in nondysphagic, stroke patients who are not malnourished; dysphagia persisting for weeks will presumably ultimately require EN.CONCLUSIONS:There is strong evidence for not using EN in the first week in dysphagic, and not using VNS at all in nondysphagic, stroke patients who are not malnourished. There is reasonable evidence for using VNS in malnourished geriatric patients. The recommendations to consider EN/VNS in perioperative/liver/critically ill/low birth weight patients are limited by the low quality of the RCTs. No evidence could be identified to justify the use of EN/VNS in other disease states.",
+            "year": 2007,
+            "citation_count": 207,
+            "relevance": 2,
+            "explanation": "This paper is highly relevant to the source paper as it reviews the effect of enteral nutrition on clinical outcomes, including stroke patients, which is directly related to the source paper's investigation of enteral tube feeding for dysphagic stroke patients."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Prophylactic gastrostomy tubes for patients receiving radical radiotherapy for head and neck cancers: A retrospective review": {
+                    "explanation": "This paper has no direct connection to the source paper, as it discusses the impact of prophylactic gastrostomy tubes on patients receiving radical radiotherapy for head and neck cancers, which is not related to the topic of enteral nutrition's effect on clinical outcomes.",
+                    "relevance": 0
+                },
+                "2. A review of the evidence for the impact of improving nutritional care on nutritional and clinical outcomes and cost": {
+                    "explanation": "This paper is a review and has no direct connection to the source paper, as it discusses the evidence for the impact of improving nutritional care on nutritional and clinical outcomes and cost, but does not build upon or use the source paper's findings as a sub-hypothesis.",
+                    "relevance": 0
+                },
+                "3. Body Mass Trajectory, Energy Balance, and Weight Loss as Determinants of Health and Mortality in Older Adults": {
+                    "explanation": "This paper has no direct connection to the source paper, as it discusses the relationship between body mass and healthy longevity in older adults, which is not related to the topic of enteral nutrition's effect on clinical outcomes.",
+                    "relevance": 0
+                },
+                "4. Enteral nutrition: a hard look at some soft evidence": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the limitations of the evidence supporting the use of enteral nutrition, which is a topic related to the source paper's systematic review of the effects of enteral nutrition on clinical outcomes.",
+                    "relevance": 2
+                },
+                "5. Nutritional support for critically ill children": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the impact of enteral and total parenteral nutrition on clinically important outcomes for critically ill children, which is a topic related to the source paper's systematic review of the effects of enteral nutrition on clinical outcomes.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1.Enteral nutrition: a hard look at some soft evidence": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the limitations of the evidence supporting the use of enteral nutrition, which is a topic related to the source paper's systematic review of the effects of enteral nutrition on clinical outcomes.",
+                    "relevance": 2
+                },
+                "2.Nutritional support for critically ill children": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the impact of enteral and total parenteral nutrition on clinically important outcomes for critically ill children, which is a topic related to the source paper's systematic review of the effects of enteral nutrition on clinical outcomes.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2018,
+        "source_paper": {
+            "paperId": "8618daa0a58b00057e6d31c49ba8fa210cf12b94",
+            "title": "Nutritional support for critically ill children.",
+            "abstract": "BACKGROUND\nNutritional support in the critically ill child has not been well investigated and is a controversial topic within paediatric intensive care. There are no clear guidelines as to the best form or timing of nutrition in critically ill infants and children. This is an update of a review that was originally published in 2009. .\n\n\nOBJECTIVES\nThe objective of this review was to assess the impact of enteral and parenteral nutrition given in the first week of illness on clinically important outcomes in critically ill children. There were two primary hypotheses:1. the mortality rate of critically ill children fed enterally or parenterally is different to that of children who are given no nutrition;2. the mortality rate of critically ill children fed enterally is different to that of children fed parenterally.We planned to conduct subgroup analyses, pending available data, to examine whether the treatment effect was altered by:a. age (infants less than one year versus children greater than or equal to one year old);b. type of patient (medical, where purpose of admission to intensive care unit (ICU) is for medical illness (without surgical intervention immediately prior to admission), versus surgical, where purpose of admission to ICU is for postoperative care or care after trauma).We also proposed the following secondary hypotheses (a priori), pending other clinical trials becoming available, to examine nutrition more distinctly:3. the mortality rate is different in children who are given enteral nutrition alone versus enteral and parenteral combined;4. the mortality rate is different in children who are given both enteral feeds and parenteral nutrition versus no nutrition.\n\n\nSEARCH METHODS\nIn this updated review we searched: the Cochrane Central Register of Controlled Trials (CENTRAL 2016, Issue 2); Ovid MEDLINE (1966 to February 2016); Ovid EMBASE (1988 to February 2016); OVID Evidence-Based Medicine Reviews; ISI Web of Science - Science Citation Index Expanded (1965 to February 2016); WebSPIRS Biological Abstracts (1969 to February 2016); and WebSPIRS CAB Abstracts (1972 to February 2016). We also searched trial registries, reviewed reference lists of all potentially relevant studies, handsearched relevant conference proceedings, and contacted experts in the area and manufacturers of enteral and parenteral nutrition products. We did not limit the search by language or publication status.\n\n\nSELECTION CRITERIA\nWe included studies if they were randomized controlled trials; involved paediatric patients, aged one day to 18 years of age, who were cared for in a paediatric intensive care unit setting (PICU) and had received nutrition within the first seven days of admission; and reported data for at least one of the pre-specified outcomes (30-day or PICU mortality; length of stay in PICU or hospital; number of ventilator days; and morbid complications, such as nosocomial infections). We excluded studies if they only reported nutritional outcomes, quality of life assessments, or economic implications. Furthermore, we did not address other areas of paediatric nutrition, such as immunonutrition and different routes of delivering enteral nutrition, in this review.\n\n\nDATA COLLECTION AND ANALYSIS\nTwo authors independently screened the searches, applied the inclusion criteria, and performed 'Risk of bias' assessments. We resolved discrepancies through discussion and consensus. One author extracted data and a second checked data for accuracy and completeness. We graded the evidence based on the following domains: study limitations, consistency of effect, imprecision, indirectness, and publication bias.\n\n\nMAIN RESULTS\nWe identified only one trial as relevant. Seventy-seven children in intensive care with burns involving more than 25% of the total body surface area were randomized to either enteral nutrition within 24 hours or after at least 48 hours. No statistically significant differences were observed for mortality, sepsis, ventilator days, length of stay, unexpected adverse events, resting energy expenditure, nitrogen balance, or albumin levels. We assessed the trial as having unclear risk of bias. We consider the quality of the evidence to be very low due to there being only one small trial. In the most recent search update we identified a protocol for a relevant randomized controlled trial examining the impact of withholding early parenteral nutrition completing enteral nutrition in pediatric critically ill patients; no results have been published.\n\n\nAUTHORS' CONCLUSIONS\nThere was only one randomized trial relevant to the review question. Research is urgently needed to identify best practices regarding the timing and forms of nutrition for critically ill infants and children.",
+            "year": 2016,
+            "citation_count": 31,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the impact of enteral and total parenteral nutrition on clinically important outcomes for critically ill children, which is a topic related to the source paper's systematic review of the effects of enteral nutrition on clinical outcomes."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Indirect Calorimetry: History, Technology, and Application": {
+                    "explanation": "This paper has no direct connection to the source paper. It discusses indirect calorimetry, which is a method to measure energy expenditure, but does not investigate the impact of nutrition on critically ill children.",
+                    "relevance": 0
+                },
+                "2. Prescribed hypocaloric nutrition support for critically-ill adults": {
+                    "explanation": "This paper explores the effects of hypocaloric nutrition support in critically-ill adults, which is partially related to the topic of the source paper, but it does not directly investigate the impact of nutrition on critically ill children. However, the findings regarding hypocaloric nutrition support could be used as a sub-hypothesis to inform the development of nutritional support strategies for critically ill children.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Prescribed hypocaloric nutrition support for critically-ill adults": {
+                    "explanation": "This paper explores the effects of hypocaloric nutrition support in critically-ill adults, which is partially related to the topic of the source paper, but it does not directly investigate the impact of nutrition on critically ill children. However, the findings regarding hypocaloric nutrition support could be used as a sub-hypothesis to inform the development of nutritional support strategies for critically ill children.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2014,
+        "source_paper": {
+            "paperId": "145359ef2d42e3a2110ea4f3e6d0e17abe5da75c",
+            "title": "Prescribed hypocaloric nutrition support for critically\u2010ill adults",
+            "abstract": "Background There are controversies about the amount of calories and the type of nutritional support that should be given to critically-ill people. Several authors advocate the potential benefits of hypocaloric nutrition support, but the evidence is inconclusive. Objectives To assess the effects of prescribed hypocaloric nutrition support in comparison with standard nutrition support for critically-ill adults SEARCH METHODS: We searched the Cochrane Central Register of Controlled Trials (CENTRAL, Cochrane Library), MEDLINE, Embase and LILACS (from inception to 20 June 2017) with a specific strategy for each database. We also assessed three websites, conference proceedings and reference lists, and contacted leaders in the field and the pharmaceutical industry for undetected/unpublished studies. There was no restriction by date, language or publication status. Selection criteria We included randomized and quasi-randomized controlled trials comparing hypocaloric nutrition support to normo- or hypercaloric nutrition support or no nutrition support (e.g. fasting) in adults hospitalized in intensive care units (ICUs). Data collection and analysis We used standard methodological procedures expected by Cochrane. We meta-analysed data for comparisons in which clinical heterogeneity was low. We conducted prespecified subgroup and sensitivity analyses, and post hoc analyses, including meta-regression. Our primary outcomes were: mortality (death occurred during the ICU and hospital stay, or 28- to 30-day all-cause mortality); length of stay (days stayed in the ICU and in the hospital); and Infectious complications. Secondary outcomes included: length of mechanical ventilation. We assessed the quality of evidence with GRADE. Main results We identified 15 trials, with a total of 3129 ICU participants from university-associated hospitals in the USA, Colombia, Saudi Arabia, Canada, Greece, Germany and Iran. There are two ongoing studies. Participants suffered from medical and surgical conditions, with a variety of inclusion criteria. Four studies used parenteral nutrition and nine studies used only enteral nutrition; it was unclear whether the remaining two used parenteral nutrition. Most of them could not achieve the proposed caloric targets, resulting in small differences in the administered calories between intervention and control groups. Most studies were funded by the US government or non-governmental associations, but three studies received funding from industry. Five studies did not specify their funding sources.The included studies suffered from important clinical and statistical heterogeneity. This heterogeneity did not allow us to report pooled estimates of the primary and secondary outcomes, so we have described them narratively.When comparing hypocaloric nutrition support with a control nutrition support, for hospital mortality (9 studies, 1775 participants), the risk ratios ranged from 0.23 to 5.54; for ICU mortality (4 studies, 1291 participants) the risk ratios ranged from 0.81 to 5.54, and for mortality at 30 days (7 studies, 2611 participants) the risk ratios ranged from 0.79 to 3.00. Most of these estimates included the null value. The quality of the evidence was very low due to unclear or high risk of bias, inconsistency and imprecision.Participants who received hypocaloric nutrition support compared to control nutrition support had a range of mean hospital lengths of stay of 15.70 days lower to 10.70 days higher (10 studies, 1677 participants), a range of mean ICU lengths of stay 11.00 days lower to 5.40 days higher (11 studies, 2942 participants) and a range of mean lengths of mechanical ventilation of 13.20 days lower to 8.36 days higher (12 studies, 3000 participants). The quality of the evidence for this outcome was very low due to unclear or high risk of bias in most studies, inconsistency and imprecision.The risk ratios for infectious complications (10 studies, 2804 participants) of each individual study ranged from 0.54 to 2.54. The quality of the evidence for this outcome was very low due to unclear or high risk of bias, inconsistency and imprecisionWe were not able to explain the causes of the observed heterogeneity using subgroup and sensitivity analyses or meta-regression. Authors' conclusions The included studies had substantial clinical heterogeneity. We found very low-quality evidence about the effects of prescribed hypocaloric nutrition support on mortality in hospital, in the ICU and at 30 days, as well as in length of hospital and ICU stay, infectious complications and the length of mechanical ventilation. For these outcomes there is uncertainty about the effects of prescribed hypocaloric nutrition, since the range of estimates includes both appreciable benefits and harms.Given these limitations, results must be interpreted with caution in the clinical field, considering the unclear balance of the risks and harms of this intervention. Future research addressing the clinical heterogeneity of participants and interventions, study limitations and sample size could clarify the effects of this intervention.",
+            "year": 2009,
+            "citation_count": 22,
+            "relevance": 1,
+            "explanation": "This paper explores the effects of hypocaloric nutrition support in critically-ill adults, which is partially related to the topic of the source paper, but it does not directly investigate the impact of nutrition on critically ill children. However, the findings regarding hypocaloric nutrition support could be used as a sub-hypothesis to inform the development of nutritional support strategies for critically ill children."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Hypocaloric compared with eucaloric nutritional support and its effect on infection rates in a surgical intensive care unit: a randomized controlled trial.": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effects of hypocaloric nutrition support on infection rates in critically ill patients, which is a related outcome to the source paper's exploration of hypocaloric nutrition support in ICU patients.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Hypocaloric compared with eucaloric nutritional support and its effect on infection rates in a surgical intensive care unit: a randomized controlled trial.": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effects of hypocaloric nutrition support on infection rates in critically ill patients, which is a related outcome to the source paper's exploration of hypocaloric nutrition support in ICU patients.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2015,
+        "source_paper": {
+            "paperId": "be718f3a628f5e3c8fb6ad91330e565590be394b",
+            "title": "Hypocaloric compared with eucaloric nutritional support and its effect on infection rates in a surgical intensive care unit: a randomized controlled trial.",
+            "abstract": "BACKGROUND\nProper caloric intake goals in critically ill surgical patients are unclear. It is possible that overnutrition can lead to hyperglycemia and an increased risk of infection.\n\n\nOBJECTIVE\nThis study was conducted to determine whether surgical infection outcomes in the intensive care unit (ICU) could be improved with the use of hypocaloric nutritional support.\n\n\nDESIGN\nEighty-three critically ill patients were randomly allocated to receive either the standard calculated daily caloric requirement of 25-30 kcal \u00b7 kg(-1) \u00b7 d(-1) (eucaloric) or 50% of that value (hypocaloric) via enteral tube feeds or parenteral nutrition, with an equal protein allocation in each group (1.5 g \u00b7 kg(-1) \u00b7 d(-1)).\n\n\nRESULTS\nThere were 82 infections in the hypocaloric group and 66 in the eucaloric group, with no significant difference in the mean (\u00b1 SE) number of infections per patient (2.0 \u00b1 0.6 and 1.6 \u00b1 0.2, respectively; P = 0.50), percentage of patients acquiring infection [70.7% (29 of 41) and 76.2% (32 of 42), respectively; P = 0.57], mean ICU length of stay (16.7 \u00b1 2.7 and 13.5 \u00b1 1.1 d, respectively; P = 0.28), mean hospital length of stay (35.2 \u00b1 4.9 and 31.0 \u00b1 2.5 d, respectively; P = 0.45), mean 0600 glucose concentration (132 \u00b1 2.9 and 135 \u00b1 3.1 mg/dL, respectively; P = 0.63), or number of mortalities [3 (7.3%) and 4 (9.5%), respectively; P = 0.72]. Further analyses revealed no differences when analyzed by sex, admission diagnosis, site of infection, or causative organism.\n\n\nCONCLUSIONS\nAmong critically ill surgical patients, caloric provision across a wide acceptable range does not appear to be associated with major outcomes, including infectious complications. The optimum target for caloric provision remains elusive.",
+            "year": 2014,
+            "citation_count": 103,
+            "relevance": 1,
+            "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effects of hypocaloric nutrition support on infection rates in critically ill patients, which is a related outcome to the source paper's exploration of hypocaloric nutrition support in ICU patients."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Changes in 2015 Canadian Clinical Practice Guidelines": {
+                    "explanation": "This paper is a review of clinical practice guidelines and does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "2. Please sir, may I have some more? The case against underfeeding": {
+                    "explanation": "This paper discusses the challenges of estimating caloric needs in critically ill patients and presents an argument against underfeeding, but it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "3. Full or hypocaloric nutritional support for the critically ill patient: is less really more?": {
+                    "explanation": "This paper explores the optimal caloric intake for critically ill patients, which is related to the source paper's investigation of hypocaloric versus eucaloric nutritional support. The key hypothesis in this paper is at least partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                },
+                "4. Nutrition before and during Surgery and the Inflammatory Response of the Heart: A Randomized Controlled Trial": {
+                    "explanation": "This paper investigates the effect of nutrition on the inflammatory response in cardiac surgery patients, which is not directly related to the source paper's findings on hypocaloric versus eucaloric nutritional support in critically ill patients.",
+                    "relevance": 0
+                },
+                "5. Permissive underfeeding or standard enteral feeding in critically ill adults": {
+                    "explanation": "This paper compares the effects of permissive underfeeding and standard enteral feeding on 90-day mortality in critically ill adults, which is related to the source paper's investigation of hypocaloric versus eucaloric nutritional support. The key hypothesis in this paper is at least partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                },
+                "6. Should enteral nutrition be started in the first week of critical illness?": {
+                    "explanation": "This paper reviews the evidence for early enteral nutrition in critically ill patients, but it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "7. Nutritional Therapy for Critically Ill Patients": {
+                    "explanation": "This paper discusses the importance of nutrition therapy in critically ill patients, but it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "8. Permissive Underfeeding or Standard Enteral Feeding in Critically Ill Adults": {
+                    "explanation": "This paper is a duplicate of paper 5 and has the same explanation.",
+                    "relevance": 2
+                },
+                "9. Full or hypocaloric nutritional support for the critically ill patient: is less really more?": {
+                    "explanation": "This paper is a duplicate of paper 3 and has the same explanation.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Full or hypocaloric nutritional support for the critically ill patient: is less really more?": {
+                    "explanation": "This paper explores the optimal caloric intake for critically ill patients, which is related to the source paper's investigation of hypocaloric versus eucaloric nutritional support. The key hypothesis in this paper is at least partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                },
+                "2. Permissive underfeeding or standard enteral feeding in critically ill adults": {
+                    "explanation": "This paper compares the effects of permissive underfeeding and standard enteral feeding on 90-day mortality in critically ill adults, which is related to the source paper's investigation of hypocaloric versus eucaloric nutritional support. The key hypothesis in this paper is at least partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                },
+                "3. Permissive Underfeeding or Standard Enteral Feeding in Critically Ill Adults": {
+                    "explanation": "This paper is a duplicate of paper 5 and has the same explanation.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2016,
+        "source_paper": {
+            "paperId": "be718f3a628f5e3c8fb6ad91330e565590be394b",
+            "title": "Hypocaloric compared with eucaloric nutritional support and its effect on infection rates in a surgical intensive care unit: a randomized controlled trial.",
+            "abstract": "BACKGROUND\nProper caloric intake goals in critically ill surgical patients are unclear. It is possible that overnutrition can lead to hyperglycemia and an increased risk of infection.\n\n\nOBJECTIVE\nThis study was conducted to determine whether surgical infection outcomes in the intensive care unit (ICU) could be improved with the use of hypocaloric nutritional support.\n\n\nDESIGN\nEighty-three critically ill patients were randomly allocated to receive either the standard calculated daily caloric requirement of 25-30 kcal \u00b7 kg(-1) \u00b7 d(-1) (eucaloric) or 50% of that value (hypocaloric) via enteral tube feeds or parenteral nutrition, with an equal protein allocation in each group (1.5 g \u00b7 kg(-1) \u00b7 d(-1)).\n\n\nRESULTS\nThere were 82 infections in the hypocaloric group and 66 in the eucaloric group, with no significant difference in the mean (\u00b1 SE) number of infections per patient (2.0 \u00b1 0.6 and 1.6 \u00b1 0.2, respectively; P = 0.50), percentage of patients acquiring infection [70.7% (29 of 41) and 76.2% (32 of 42), respectively; P = 0.57], mean ICU length of stay (16.7 \u00b1 2.7 and 13.5 \u00b1 1.1 d, respectively; P = 0.28), mean hospital length of stay (35.2 \u00b1 4.9 and 31.0 \u00b1 2.5 d, respectively; P = 0.45), mean 0600 glucose concentration (132 \u00b1 2.9 and 135 \u00b1 3.1 mg/dL, respectively; P = 0.63), or number of mortalities [3 (7.3%) and 4 (9.5%), respectively; P = 0.72]. Further analyses revealed no differences when analyzed by sex, admission diagnosis, site of infection, or causative organism.\n\n\nCONCLUSIONS\nAmong critically ill surgical patients, caloric provision across a wide acceptable range does not appear to be associated with major outcomes, including infectious complications. The optimum target for caloric provision remains elusive.",
+            "year": 2014,
+            "citation_count": 103,
+            "relevance": 1,
+            "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effects of hypocaloric nutrition support on infection rates in critically ill patients, which is a related outcome to the source paper's exploration of hypocaloric nutrition support in ICU patients."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Nutrition: A Primary Therapy in Pediatric Acute Respiratory Distress Syndrome": {
+                    "explanation": "This paper discusses the importance of nutrition in pediatric acute respiratory distress syndrome, but it does not build upon the hypothesis or findings of the source paper. Instead, it focuses on a different patient population and condition.",
+                    "relevance": 0
+                },
+                "2. Should We Aim for Full Enteral Feeding in the First Week of Critical Illness?": {
+                    "explanation": "This paper explores the optimal nutrition strategy for critically ill patients, which is related to the topic of the source paper. However, it does not directly build upon the findings of the source paper, and its hypothesis is not dependent on the source paper's results.",
+                    "relevance": 1
+                },
+                "3. Significant Published Articles for Pharmacy Nutrition Support Practice in 2014 and 2015": {
+                    "explanation": "This paper is a review of important articles in nutrition support practice, but it does not present a novel hypothesis or findings related to the source paper. It is a review paper and lacks a direct connection to the source paper.",
+                    "relevance": 0
+                },
+                "4. Is the Guideline Already Out of Date?": {
+                    "explanation": "This paper discusses the limitations of a recently published guideline on artificial nutrition in critically ill patients. While it touches on the topic of nutrition in critically ill patients, it does not build upon the hypothesis or findings of the source paper. Instead, it focuses on the methodology and limitations of the guideline.",
+                    "relevance": 0
+                },
+                "5. Is early starvation beneficial for the critically ill patient?": {
+                    "explanation": "This paper explores the optimal timing and approach to enteral nutrition in critically ill patients, which is related to the topic of the source paper. Its hypothesis is partially dependent on the findings of the source paper, as it discusses the potential benefits and drawbacks of different nutrition strategies in critically ill patients.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Is early starvation beneficial for the critically ill patient?": {
+                    "explanation": "This paper explores the optimal timing and approach to enteral nutrition in critically ill patients, which is related to the topic of the source paper. Its hypothesis is partially dependent on the findings of the source paper, as it discusses the potential benefits and drawbacks of different nutrition strategies in critically ill patients.",
+                    "relevance": 2
+                },
+                "2. Should We Aim for Full Enteral Feeding in the First Week of Critical Illness?": {
+                    "explanation": "This paper explores the optimal nutrition strategy for critically ill patients, which is related to the topic of the source paper. However, it does not directly build upon the findings of the source paper, and its hypothesis is not dependent on the source paper's results.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2018,
+        "source_paper": {
+            "paperId": "1f7c8c9cde97df25b6047caa01dfd5cd47d0a4b0",
+            "title": "Permissive Underfeeding or Standard Enteral Feeding in Critically Ill Adults.",
+            "abstract": "BACKGROUND\nThe appropriate caloric goal for critically ill adults is unclear. We evaluated the effect of restriction of nonprotein calories (permissive underfeeding), as compared with standard enteral feeding, on 90-day mortality among critically ill adults, with maintenance of the full recommended amount of protein in both groups.\n\n\nMETHODS\nAt seven centers, we randomly assigned 894 critically ill adults with a medical, surgical, or trauma admission category to permissive underfeeding (40 to 60% of calculated caloric requirements) or standard enteral feeding (70 to 100%) for up to 14 days while maintaining a similar protein intake in the two groups. The primary outcome was 90-day mortality.\n\n\nRESULTS\nBaseline characteristics were similar in the two groups; 96.8% of the patients were receiving mechanical ventilation. During the intervention period, the permissive-underfeeding group received fewer mean (\u00b1SD) calories than did the standard-feeding group (835\u00b1297 kcal per day vs. 1299\u00b1467 kcal per day, P<0.001; 46\u00b114% vs. 71\u00b122% of caloric requirements, P<0.001). Protein intake was similar in the two groups (57\u00b124 g per day and 59\u00b125 g per day, respectively; P=0.29). The 90-day mortality was similar: 121 of 445 patients (27.2%) in the permissive-underfeeding group and 127 of 440 patients (28.9%) in the standard-feeding group died (relative risk with permissive underfeeding, 0.94; 95% confidence interval [CI], 0.76 to 1.16; P=0.58). No serious adverse events were reported; there were no significant between-group differences with respect to feeding intolerance, diarrhea, infections acquired in the intensive care unit (ICU), or ICU or hospital length of stay.\n\n\nCONCLUSIONS\nEnteral feeding to deliver a moderate amount of nonprotein calories to critically ill adults was not associated with lower mortality than that associated with planned delivery of a full amount of nonprotein calories. (Funded by the King Abdullah International Medical Research Center; PermiT Current Controlled Trials number, ISRCTN68144998.).",
+            "year": 2015,
+            "citation_count": 200,
+            "relevance": 2,
+            "explanation": "This paper compares the effects of permissive underfeeding and standard enteral feeding on 90-day mortality in critically ill adults, which is related to the source paper's investigation of hypocaloric versus eucaloric nutritional support. The key hypothesis in this paper is at least partially dependent on the findings of the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Association of protein intake with the outcomes of critically ill patients: a post hoc analysis of the PermiT trial": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the association of protein intake with the outcomes of critically ill patients, building on the source paper's results regarding permissive underfeeding vs. standard enteral feeding.",
+                    "relevance": 1
+                },
+                "2. The Effect of Higher Protein Dosing in Critically Ill Patients: A Multicenter Registry-Based Randomized Trial: The EFFORT Trial": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it aims to investigate the effect of higher protein dosing in critically ill patients, which is related to the source paper's comparison of permissive underfeeding and standard enteral feeding.",
+                    "relevance": 2
+                },
+                "3. Nutritional Support Using Enteral and Parenteral Methods": {
+                    "explanation": "This paper is a review paper and lacks novel hypotheses or findings. It provides an approach for optimal nutritional support in the postinjury period, but does not build upon the source paper's findings.",
+                    "relevance": 0
+                },
+                "4. Trophic or full nutritional support?": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it discusses the approach of permissive underfeeding or trophic feeding in critically ill patients, which is related to the source paper's comparison of permissive underfeeding and standard enteral feeding.",
+                    "relevance": 1
+                },
+                "5. Early Enteral Nutrition or Not?": {
+                    "explanation": "This paper is a review paper and lacks novel hypotheses or findings. It discusses the benefits and drawbacks of early enteral nutrition, but does not build upon the source paper's findings.",
+                    "relevance": 0
+                },
+                "6. Prescribed hypocaloric nutrition support for critically-ill adults": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the effects of prescribed hypocaloric nutrition support in critically ill adults, which is related to the source paper's comparison of permissive underfeeding and standard enteral feeding.",
+                    "relevance": 2
+                },
+                "7. Enteral Nutrition Should Not Be Given to Patients on Vasopressor Agents": {
+                    "explanation": "This paper discusses the potential harm of enteral nutrition in patients on vasopressor agents, but does not build upon the source paper's findings. The hypothesis in this paper is not directly related to the source paper's comparison of permissive underfeeding and standard enteral feeding.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. The Effect of Higher Protein Dosing in Critically Ill Patients: A Multicenter Registry-Based Randomized Trial: The EFFORT Trial": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it aims to investigate the effect of higher protein dosing in critically ill patients, which is related to the source paper's comparison of permissive underfeeding and standard enteral feeding.",
+                    "relevance": 2
+                },
+                "2. Prescribed hypocaloric nutrition support for critically-ill adults": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the effects of prescribed hypocaloric nutrition support in critically ill adults, which is related to the source paper's comparison of permissive underfeeding and standard enteral feeding.",
+                    "relevance": 2
+                },
+                "3. Association of protein intake with the outcomes of critically ill patients: a post hoc analysis of the PermiT trial": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the association of protein intake with the outcomes of critically ill patients, building on the source paper's results regarding permissive underfeeding vs. standard enteral feeding.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2019,
+        "source_paper": {
+            "paperId": "53358c1136f591388566bc9545de87471ce7f4df",
+            "title": "The Effect of Higher Protein Dosing in Critically Ill Patients: A Multicenter Registry-Based Randomized Trial: The EFFORT Trial.",
+            "abstract": "Current randomized trials and observational studies evaluating higher versus lower protein doses in critically ill patients yield inconclusive results. Because of few studies and methodologic limitations, clinical guidelines suggest a wide range of protein intake based on weak evidence. Clinical equipoise about protein dosing exists. The purpose of the current manuscript is to provide the rationale and protocol for a randomized controlled trial (RCT) of 4000 critically ill patients randomly allocated to receive a higher or lower protein dose. We propose a global, volunteer-driven, registry-based RCT involving >100 intensive care units (ICUs). We will enroll mechanically ventilated patients with high nutrition risk, identified by low (\u226425) or high (\u226535) body mass index, moderate to severe malnutrition, frailty, sarcopenia, or when >96-hour duration of mechanical ventilation is expected. Exclusion criteria include patients who are >96 hours since initiation of mechanical ventilation, moribund, or pregnant, and where the clinician lacks clinical equipoise regarding protein dose. The intervention consists of higher (\u22652.2 g/kg/d) or lower (\u22641.2 g/kg/d) protein dose, achieved by enteral nutrition, parenteral nutrition, or both. The primary outcome will be 60-day mortality. Key secondary outcomes include time-to-discharge alive from hospital, ICU and hospital survival, and length of stay. As this is research based on existing medical practice, we will apply for a waiver of informed consent, where possible. The large sample size is a reflection of the small signal we expect to see in this large, pragmatic trial.",
+            "year": 2018,
+            "citation_count": 45,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it aims to investigate the effect of higher protein dosing in critically ill patients, which is related to the source paper's comparison of permissive underfeeding and standard enteral feeding."
+        },
+        "llama_output": {},
+        "seed": 42
+    },
+    {
+        "year": 2020,
+        "source_paper": {
+            "paperId": "53358c1136f591388566bc9545de87471ce7f4df",
+            "title": "The Effect of Higher Protein Dosing in Critically Ill Patients: A Multicenter Registry-Based Randomized Trial: The EFFORT Trial.",
+            "abstract": "Current randomized trials and observational studies evaluating higher versus lower protein doses in critically ill patients yield inconclusive results. Because of few studies and methodologic limitations, clinical guidelines suggest a wide range of protein intake based on weak evidence. Clinical equipoise about protein dosing exists. The purpose of the current manuscript is to provide the rationale and protocol for a randomized controlled trial (RCT) of 4000 critically ill patients randomly allocated to receive a higher or lower protein dose. We propose a global, volunteer-driven, registry-based RCT involving >100 intensive care units (ICUs). We will enroll mechanically ventilated patients with high nutrition risk, identified by low (\u226425) or high (\u226535) body mass index, moderate to severe malnutrition, frailty, sarcopenia, or when >96-hour duration of mechanical ventilation is expected. Exclusion criteria include patients who are >96 hours since initiation of mechanical ventilation, moribund, or pregnant, and where the clinician lacks clinical equipoise regarding protein dose. The intervention consists of higher (\u22652.2 g/kg/d) or lower (\u22641.2 g/kg/d) protein dose, achieved by enteral nutrition, parenteral nutrition, or both. The primary outcome will be 60-day mortality. Key secondary outcomes include time-to-discharge alive from hospital, ICU and hospital survival, and length of stay. As this is research based on existing medical practice, we will apply for a waiver of informed consent, where possible. The large sample size is a reflection of the small signal we expect to see in this large, pragmatic trial.",
+            "year": 2018,
+            "citation_count": 45,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it aims to investigate the effect of higher protein dosing in critically ill patients, which is related to the source paper's comparison of permissive underfeeding and standard enteral feeding."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Trial Design in Critical Care Nutrition: The Past, Present and Future": {
+                    "explanation": "This paper is a review paper, discussing the past, present, and future of trial design in critical care nutrition. It does not build upon the source paper or propose a new hypothesis based on the source paper's findings.",
+                    "relevance": 0
+                },
+                "2. Full versus Trophic Feeds in Critically Ill Adults with High and Low Nutritional Risk Scores: A Randomized Controlled Trial": {
+                    "explanation": "This paper explores the effects of full versus trophic feeding in critically ill adults with high and low nutritional risk scores. Although it does not directly build upon the source paper, it investigates a related topic in critical care nutrition. The key hypothesis in this paper is inspired by the general topic of nutrition in critically ill patients, but it does not directly depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "3. Meeting nutritional targets of critically ill patients by combined enteral and parenteral nutrition: review and rationale for the EFFORTcombo trial": {
+                    "explanation": "This paper proposes a new trial (EFFORTcombo) that builds upon the concept of the source paper (EFFORT trial). The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it aims to test the effectiveness of combined enteral and parenteral nutrition in critically ill patients, which is related to the topic of protein dosing in the source paper.",
+                    "relevance": 2
+                },
+                "4. Differential Effects of Early Energy and Protein Inadequacies on the Outcome of Critically Ill Patients": {
+                    "explanation": "This paper investigates the differential effects of early energy and protein inadequacies on the outcome of critically ill patients. Although it does not directly build upon the source paper, it explores a related topic in critical care nutrition. The key hypothesis in this paper is inspired by the general topic of nutrition in critically ill patients, but it does not directly depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "5. Systematic Review With Meta-Analysis of Patient-Centered Outcomes, Comparing International Guideline-Recommended Enteral Protein Delivery With Usual Care": {
+                    "explanation": "This paper is a systematic review and meta-analysis that compares patient-centered outcomes of international guideline-recommended enteral protein delivery with usual care. Although it does not directly build upon the source paper, it explores a related topic in critical care nutrition. The key hypothesis in this paper is inspired by the general topic of nutrition in critically ill patients, but it does not directly depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "6. Forty-Third ASPEN Presidential Address: \"Our Time Is Now-Challenges and Strategies for the Field of Nutrition\"": {
+                    "explanation": "This paper is a presidential address that discusses challenges and strategies for the field of nutrition. It does not build upon the source paper or propose a new hypothesis based on the source paper's findings.",
+                    "relevance": 0
+                },
+                "7. Update on nutritional assessment and therapy in critical care": {
+                    "explanation": "This paper is a review that summarizes recent data regarding nutritional assessment and interventions in the ICU. Although it does not directly build upon the source paper, it explores a related topic in critical care nutrition. The key hypothesis in this paper is inspired by the general topic of nutrition in critically ill patients, but it does not directly depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "8. Outcomes Six-Months After 100% or 70% of Enteral Calorie Requirements During Critical Illness (TARGET): A Randomized Controlled Trial": {
+                    "explanation": "This paper presents the results of a randomized controlled trial that investigates the outcomes of critically ill patients who received 100% or 70% of their enteral calorie requirements. Although it does not directly build upon the source paper, it explores a related topic in critical care nutrition. The key hypothesis in this paper is inspired by the general topic of nutrition in critically ill patients, but it does not directly depend on the findings of the source paper.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Meeting nutritional targets of critically ill patients by combined enteral and parenteral nutrition: review and rationale for the EFFORTcombo trial": {
+                    "explanation": "This paper proposes a new trial (EFFORTcombo) that builds upon the concept of the source paper (EFFORT trial). The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it aims to test the effectiveness of combined enteral and parenteral nutrition in critically ill patients, which is related to the topic of protein dosing in the source paper.",
+                    "relevance": 2
+                },
+                "2. Full versus Trophic Feeds in Critically Ill Adults with High and Low Nutritional Risk Scores: A Randomized Controlled Trial": {
+                    "explanation": "This paper explores the effects of full versus trophic feeding in critically ill adults with high and low nutritional risk scores. Although it does not directly build upon the source paper, it investigates a related topic in critical care nutrition. The key hypothesis in this paper is inspired by the general topic of nutrition in critically ill patients, but it does not directly depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "3. Differential Effects of Early Energy and Protein Inadequacies on the Outcome of Critically Ill Patients": {
+                    "explanation": "This paper investigates the differential effects of early energy and protein inadequacies on the outcome of critically ill patients. Although it does not directly build upon the source paper, it explores a related topic in critical care nutrition. The key hypothesis in this paper is inspired by the general topic of nutrition in critically ill patients, but it does not directly depend on the findings of the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2021,
+        "source_paper": {
+            "paperId": "3ddcbd7ba300329d929134d5dc586fffbcc83fea",
+            "title": "Meeting nutritional targets of critically ill patients by combined enteral and parenteral nutrition: review and rationale for the EFFORTcombo trial",
+            "abstract": "Abstract While medical nutrition therapy is an essential part of the care for critically ill patients, uncertainty exists about the right form, dosage, timing and route in relation to the phases of critical illness. As enteral nutrition (EN) is often withheld or interrupted during the intensive care unit (ICU) stay, combined EN and parenteral nutrition (PN) may represent an effective and safe option to achieve energy and protein goals as recommended by international guidelines. We hypothesise that critically ill patients at high nutritional risk may benefit from such a combined approach during their stay on the ICU. Therefore, we aim to test if an early combination of EN and high-protein PN (EN+PN) is effective in reaching energy and protein goals in patients at high nutritional risk, while avoiding overfeeding. This approach will be tested in the here-presented EFFORTcombo trial. Nutritionally high-risk ICU patients will be randomised to either high (\u22652\u00b72 g/kg per d) or low protein (\u22641\u00b72 g/kg per d). In the high protein group, the patients will receive EN+PN; in the low protein group, patients will be given EN alone. EN will be started in accordance with international guidelines in both groups. Efforts will be made to reach nutrition goals within 48\u201396 h. The efficacy of the proposed nutritional strategy will be tested as an innovative approach by functional outcomes at ICU and hospital discharge, as well as at a 6-month follow-up.",
+            "year": 2020,
+            "citation_count": 14,
+            "relevance": 2,
+            "explanation": "This paper proposes a new trial (EFFORTcombo) that builds upon the concept of the source paper (EFFORT trial). The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it aims to test the effectiveness of combined enteral and parenteral nutrition in critically ill patients, which is related to the topic of protein dosing in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Nutrition priorities in obese critically ill patients": {
+                    "explanation": "This paper has no direct connection with the source paper. It discusses nutrition priorities in obese critically ill patients, which is a different population and context than the source paper. The source paper focuses on the EFFORTcombo trial, which aims to test the efficacy of an early combination of enteral and parenteral nutrition in critically ill patients at high nutritional risk.",
+                    "relevance": 0
+                },
+                "2. Nutrition in the Intensive Care Unit\u2014A Narrative Review": {
+                    "explanation": "This paper is a narrative review that discusses the importance of nutritional status in critically ill patients and the optimal feeding strategy. While it touches on the topic of combined enteral and parenteral nutrition, it does not specifically build upon or depend on the findings of the source paper. It is a general review of the topic, rather than a research study that investigates a specific hypothesis or builds upon previous research.",
+                    "relevance": 0
+                },
+                "3. A combination of enteral and parenteral nutrition in the acute phase of critical illness: An updated systematic review and meta-analysis": {
+                    "explanation": "This paper is a systematic review and meta-analysis that investigates the effect of combined enteral and parenteral nutrition in the acute phase of critically ill patients. While it shares a similar topic with the source paper, it does not specifically build upon or depend on the findings of the source paper. However, it does provide a comprehensive overview of the current evidence on this topic, which may be relevant to the source paper's hypothesis.",
+                    "relevance": 1
+                },
+                "4. Are periods of feeding and fasting protective during critical illness?": {
+                    "explanation": "This paper discusses the potential benefits of intermittent feeding regimens in critically ill patients, which is a different approach than the combined enteral and parenteral nutrition strategy investigated in the source paper. It does not build upon or depend on the findings of the source paper, and instead explores a different aspect of nutritional support in critically ill patients.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. A combination of enteral and parenteral nutrition in the acute phase of critical illness: An updated systematic review and meta-analysis": {
+                    "explanation": "This paper is a systematic review and meta-analysis that investigates the effect of combined enteral and parenteral nutrition in the acute phase of critically ill patients. While it shares a similar topic with the source paper, it does not specifically build upon or depend on the findings of the source paper. However, it does provide a comprehensive overview of the current evidence on this topic, which may be relevant to the source paper's hypothesis.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2022,
+        "source_paper": {
+            "paperId": "3ddcbd7ba300329d929134d5dc586fffbcc83fea",
+            "title": "Meeting nutritional targets of critically ill patients by combined enteral and parenteral nutrition: review and rationale for the EFFORTcombo trial",
+            "abstract": "Abstract While medical nutrition therapy is an essential part of the care for critically ill patients, uncertainty exists about the right form, dosage, timing and route in relation to the phases of critical illness. As enteral nutrition (EN) is often withheld or interrupted during the intensive care unit (ICU) stay, combined EN and parenteral nutrition (PN) may represent an effective and safe option to achieve energy and protein goals as recommended by international guidelines. We hypothesise that critically ill patients at high nutritional risk may benefit from such a combined approach during their stay on the ICU. Therefore, we aim to test if an early combination of EN and high-protein PN (EN+PN) is effective in reaching energy and protein goals in patients at high nutritional risk, while avoiding overfeeding. This approach will be tested in the here-presented EFFORTcombo trial. Nutritionally high-risk ICU patients will be randomised to either high (\u22652\u00b72 g/kg per d) or low protein (\u22641\u00b72 g/kg per d). In the high protein group, the patients will receive EN+PN; in the low protein group, patients will be given EN alone. EN will be started in accordance with international guidelines in both groups. Efforts will be made to reach nutrition goals within 48\u201396 h. The efficacy of the proposed nutritional strategy will be tested as an innovative approach by functional outcomes at ICU and hospital discharge, as well as at a 6-month follow-up.",
+            "year": 2020,
+            "citation_count": 14,
+            "relevance": 2,
+            "explanation": "This paper proposes a new trial (EFFORTcombo) that builds upon the concept of the source paper (EFFORT trial). The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it aims to test the effectiveness of combined enteral and parenteral nutrition in critically ill patients, which is related to the topic of protein dosing in the source paper."
+        },
+        "llama_output": {},
+        "seed": 42
+    },
+    {
+        "year": 2022,
+        "source_paper": {
+            "paperId": "2947ad3cf43fccc60a508eb8cf628888a4d5885a",
+            "title": "A combination of enteral and parenteral nutrition in the acute phase of critical illness: An updated systematic review and meta-analysis.",
+            "abstract": "BACKGROUND\nUncertainty remains about the best route and timing of medical nutrition therapy in the acute phase of critical illness. Early combined enteral (EN) and parenteral nutrition (PN) may represent an attractive option to achieve recommended energy and protein goals in select patient groups. This meta-analysis aims to update and summarize the current evidence.\n\n\nMETHODS\nThis systematic review and meta-analysis includes randomized controlled trials (RCTs) targeting the effect of EN alone vs. a combination of EN with PN in the acute phase of adult critically ill patients. Assessed outcomes include mortality, ICU and hospital-length of stay (LOS), ventilation days, infectious complications, and physical recovery, as well as quality of life outcomes.\n\n\nRESULTS\n12 RCTs with 5543 patients were included. Treatment with a combination of EN with PN led to increased delivery of macronutrients. No statistically significant effect of a combination of EN with PN vs. EN alone on any of the parameters were observed: mortality (Risk Ratio 1.0, 95% confidence intervals [CI], 0.79 to 1.28 p\u00a0 = \u00a00.99), hospital LOS (mean difference -1.44, CI\u00a0-5.59 to 2.71, p\u00a0 = \u00a00.50), ICU LOS and ventilation days. Trends toward improved physical outcomes were observed in two of four trials.\n\n\nCONCLUSION\nA combination of EN with PN improved nutrition intake in the acute phase of critically ill adults and was not inferior regarding the patient\u00b4s outcomes. Large, adequately designed trials in select patient groups are needed to answer the question if this nutritional strategy has a clinically relevant treatment effect. This article is protected by copyright. All rights reserved.",
+            "year": 2021,
+            "citation_count": 25,
+            "relevance": 1,
+            "explanation": "This paper is a systematic review and meta-analysis that investigates the effect of combined enteral and parenteral nutrition in the acute phase of critically ill patients. While it shares a similar topic with the source paper, it does not specifically build upon or depend on the findings of the source paper. However, it does provide a comprehensive overview of the current evidence on this topic, which may be relevant to the source paper's hypothesis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Nutritional issues concerning general medical ward patients: feeding patients recovering from critical illness": {
+                    "explanation": "This paper focuses on the nutritional management of patients recovering from critical illness, but it does not directly build upon or reference the findings of the source paper. The source paper investigated the effects of combined enteral and parenteral nutrition in the acute phase of critical illness, whereas this paper discusses nutritional issues in general medical ward patients. Therefore, it has no direct connection to the source paper.",
+                    "relevance": 0
+                },
+                "2. Parenteral Nutrition Overview": {
+                    "explanation": "This paper provides an overview of parenteral nutrition, including its components, administration, and potential complications. While parenteral nutrition is a topic related to the source paper, this paper does not reference or build upon the specific findings of the source paper. It appears to be a general review of parenteral nutrition, rather than a study that directly relates to the source paper.",
+                    "relevance": 0
+                },
+                "3. Improving nutrition practices for postoperative high-risk heart transplant and ventricular assist device implant patients in circulatory compromise: A quality improvement pre- and post-protocol intervention outcome study.": {
+                    "explanation": "This paper discusses the implementation of a nutrition support protocol for high-risk heart transplant and ventricular assist device implant patients. The protocol includes the use of parenteral nutrition, which is a topic related to the source paper. However, the paper does not directly reference or build upon the findings of the source paper. Instead, it presents a quality improvement initiative that aims to optimize nutrition support practices in a specific patient population.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Improving nutrition practices for postoperative high-risk heart transplant and ventricular assist device implant patients in circulatory compromise: A quality improvement pre- and post-protocol intervention outcome study.": {
+                    "explanation": "This paper discusses the implementation of a nutrition support protocol for high-risk heart transplant and ventricular assist device implant patients. The protocol includes the use of parenteral nutrition, which is a topic related to the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2023,
+        "source_paper": {
+            "paperId": "2947ad3cf43fccc60a508eb8cf628888a4d5885a",
+            "title": "A combination of enteral and parenteral nutrition in the acute phase of critical illness: An updated systematic review and meta-analysis.",
+            "abstract": "BACKGROUND\nUncertainty remains about the best route and timing of medical nutrition therapy in the acute phase of critical illness. Early combined enteral (EN) and parenteral nutrition (PN) may represent an attractive option to achieve recommended energy and protein goals in select patient groups. This meta-analysis aims to update and summarize the current evidence.\n\n\nMETHODS\nThis systematic review and meta-analysis includes randomized controlled trials (RCTs) targeting the effect of EN alone vs. a combination of EN with PN in the acute phase of adult critically ill patients. Assessed outcomes include mortality, ICU and hospital-length of stay (LOS), ventilation days, infectious complications, and physical recovery, as well as quality of life outcomes.\n\n\nRESULTS\n12 RCTs with 5543 patients were included. Treatment with a combination of EN with PN led to increased delivery of macronutrients. No statistically significant effect of a combination of EN with PN vs. EN alone on any of the parameters were observed: mortality (Risk Ratio 1.0, 95% confidence intervals [CI], 0.79 to 1.28 p\u00a0 = \u00a00.99), hospital LOS (mean difference -1.44, CI\u00a0-5.59 to 2.71, p\u00a0 = \u00a00.50), ICU LOS and ventilation days. Trends toward improved physical outcomes were observed in two of four trials.\n\n\nCONCLUSION\nA combination of EN with PN improved nutrition intake in the acute phase of critically ill adults and was not inferior regarding the patient\u00b4s outcomes. Large, adequately designed trials in select patient groups are needed to answer the question if this nutritional strategy has a clinically relevant treatment effect. This article is protected by copyright. All rights reserved.",
+            "year": 2021,
+            "citation_count": 25,
+            "relevance": 1,
+            "explanation": "This paper is a systematic review and meta-analysis that investigates the effect of combined enteral and parenteral nutrition in the acute phase of critically ill patients. While it shares a similar topic with the source paper, it does not specifically build upon or depend on the findings of the source paper. However, it does provide a comprehensive overview of the current evidence on this topic, which may be relevant to the source paper's hypothesis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Overview of Pharmaceutical Aspects of Artificial Nutrition: Simple Review": {
+                    "explanation": "This paper is a review paper and lacks novel hypotheses or findings. It discusses the appropriate route and timing of artificial nutrition therapy, but it does not build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "2. The Development of Magnolol-Loaded Intravenous Emulsion with Low Hepatotoxic Potential": {
+                    "explanation": "This paper investigates the development of a new intravenous emulsion for parenteral nutrition, but it does not directly build upon or depend on the findings of the source paper, which focused on the combination of enteral and parenteral nutrition in critically ill patients.",
+                    "relevance": 0
+                },
+                "3. Nutritional Status of Patients with Chronic Critical Illness": {
+                    "explanation": "This paper examines the nutritional status of patients with chronic critical illness, but it does not directly build upon or depend on the findings of the source paper, which focused on the combination of enteral and parenteral nutrition in critically ill patients.",
+                    "relevance": 0
+                },
+                "4. What the clinician needs to know about medical nutrition therapy in critically ill patients in 2023: A narrative review": {
+                    "explanation": "This paper is a review paper and lacks novel hypotheses or findings. It discusses various aspects of medical nutrition therapy in critically ill patients, but it does not build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "5. Effect of Microecological Regulator Combined with Enteral Nutrition on Immune and Coagulation Function in Patients with Chronic Critical Illness": {
+                    "explanation": "This paper investigates the effect of a microecological regulator combined with enteral nutrition on immune and coagulation function in patients with chronic critical illness. While it does not directly build upon the findings of the source paper, it explores a related topic and could be considered partially dependent on the source paper's findings regarding the importance of enteral nutrition in critically ill patients.",
+                    "relevance": 1
+                },
+                "6. Nutritional support in patients with abdominal surgical pathology. The view of a surgeon and an anesthesiologist: opponents or allies?": {
+                    "explanation": "This paper discusses the importance of early enteral nutrition in patients with abdominal surgical pathology. While it does not directly build upon the findings of the source paper, it explores a related topic and could be considered partially dependent on the source paper's findings regarding the importance of enteral nutrition in critically ill patients.",
+                    "relevance": 1
+                },
+                "7. Physical therapy and nutrition therapy: synergistic, antagonistic, or independent interventions?": {
+                    "explanation": "This paper examines the interaction between physical therapy and nutrition therapy in critically ill patients. While it does not directly build upon the findings of the source paper, it explores a related topic and could be considered partially dependent on the source paper's findings regarding the importance of nutrition therapy in critically ill patients.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Effect of Microecological Regulator Combined with Enteral Nutrition on Immune and Coagulation Function in Patients with Chronic Critical Illness": {
+                    "explanation": "This paper investigates the effect of a microecological regulator combined with enteral nutrition on immune and coagulation function in patients with chronic critical illness. While it does not directly build upon the findings of the source paper, it explores a related topic and could be considered partially dependent on the source paper's findings regarding the importance of enteral nutrition in critically ill patients.",
+                    "relevance": 1
+                },
+                "2. Nutritional support in patients with abdominal surgical pathology. The view of a surgeon and an anesthesiologist: opponents or allies?": {
+                    "explanation": "This paper discusses the importance of early enteral nutrition in patients with abdominal surgical pathology. While it does not directly build upon the findings of the source paper, it explores a related topic and could be considered partially dependent on the source paper's findings regarding the importance of enteral nutrition in critically ill patients.",
+                    "relevance": 1
+                },
+                "3. Physical therapy and nutrition therapy: synergistic, antagonistic, or independent interventions?": {
+                    "explanation": "This paper examines the interaction between physical therapy and nutrition therapy in critically ill patients. While it does not directly build upon the findings of the source paper, it explores a related topic and could be considered partially dependent on the source paper's findings regarding the importance of nutrition therapy in critically ill patients.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2024,
+        "source_paper": {
+            "paperId": "1a8f3a425d75d888515f179dbe582917cdd5cd7d",
+            "title": "Physical therapy and nutrition therapy: synergistic, antagonistic, or independent interventions?",
+            "abstract": "Purpose of review Physical therapy and nutrition therapy have predominantly been studied separately in the critically ill, however in clinical practice are often delivered in combination. It is important to understand how these interventions interact. This review will summarize the current science \u2013 where they are potentially synergistic, antagonistic, or independent interventions. Recent findings Only six studies were identified within the ICU setting that combined physical therapy and nutrition therapy. The majority of these were randomized controlled trials with modest sample sizes. There was an indication of benefit in the preservation of femoral muscle mass and short-term physical quality of life - particularly with high-protein delivery and resistance exercise, in patients who were predominantly mechanically ventilated patients, with an ICU length of stay of approximately 4\u20137\u200adays (varied across studies). Although these benefits did not extend to other outcomes such as reduced length of ventilation, ICU or hospital admission. No recent trials were identified that combined physical therapy and nutrition therapy in post-ICU settings and is an area that warrants investigation. Summary The combination of physical therapy and nutrition therapy might be synergistic when evaluated within the ICU setting. However, more careful work is required to understand the physiological challenges in the delivery of these interventions. Combining these interventions in post-ICU settings is currently under-investigated, but may be important to understand any potential benefits to patient longitudinal recovery.",
+            "year": 2023,
+            "citation_count": 3,
+            "relevance": 1,
+            "explanation": "This paper examines the interaction between physical therapy and nutrition therapy in critically ill patients. While it does not directly build upon the findings of the source paper, it explores a related topic and could be considered partially dependent on the source paper's findings regarding the importance of nutrition therapy in critically ill patients."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Concurrent nutrition and physical rehabilitation interventions for patients with critical illness": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the combination of physical rehabilitation and nutrition during and following critical illness, building on the source paper's results regarding the potential synergy between physical therapy and nutrition therapy in the ICU setting.",
+                    "relevance": 2
+                },
+                "2. Dietary protein in the ICU in relation to health outcomes": {
+                    "explanation": "The key hypothesis in this paper is inspired by the findings of the source paper, as it discusses the mechanistic action of protein in the critically ill and details results from recent trials on health outcomes, which is related to the source paper's discussion on the benefits of high-protein delivery and resistance exercise in patients who are predominantly mechanically ventilated.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Concurrent nutrition and physical rehabilitation interventions for patients with critical illness": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the combination of physical rehabilitation and nutrition during and following critical illness, building on the source paper's results regarding the potential synergy between physical therapy and nutrition therapy in the ICU setting.",
+                    "relevance": 2
+                },
+                "2. Dietary protein in the ICU in relation to health outcomes": {
+                    "explanation": "The key hypothesis in this paper is inspired by the findings of the source paper, as it discusses the mechanistic action of protein in the critically ill and details results from recent trials on health outcomes, which is related to the source paper's discussion on the benefits of high-protein delivery and resistance exercise in patients who are predominantly mechanically ventilated.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    }
+]

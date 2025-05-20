@@ -1,0 +1,98 @@
+[
+    {
+        "year": 1996,
+        "source_paper": {
+            "paperId": "5942a07192a5e3cdc7f41677831b3b162185cf99",
+            "pmid": "7539854",
+            "title": "Doxazosin for the treatment of benign prostatic hyperplasia in patients with mild to moderate essential hypertension: a double-blind, placebo-controlled, dose-response multicenter study.",
+            "abstract": null,
+            "year": 1995,
+            "citation_count": 199
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. The efficacy of terazosin, finasteride, or both in benign prostatic hyperplasia": {
+                    "explanation": "This paper explores the efficacy of terazosin, an alpha 1-adrenergic-antagonist similar to doxazosin, in treating benign prostatic hyperplasia. The hypothesis in this paper is partially dependent on the previous findings regarding alpha 1-adrenergic-antagonists, thus using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "2. Choice of initial therapy for hypertension": {
+                    "explanation": "This paper discusses the choice of initial therapy for hypertension, including diuretics and \u03b2-blockers, but does not explore the use of alpha 1-adrenergic-antagonists like doxazosin. Therefore, this paper has no connection with the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. The efficacy of terazosin, finasteride, or both in benign prostatic hyperplasia": {
+                    "explanation": "This paper explores the efficacy of terazosin, an alpha 1-adrenergic-antagonist similar to doxazosin, in treating benign prostatic hyperplasia. The hypothesis in this paper is partially dependent on the previous findings regarding alpha 1-adrenergic-antagonists, thus using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2022,
+        "source_paper": {
+            "paperId": "d3d0b8b440dcd46b812e71ee1f828770f3a5ec3b",
+            "title": "The Efficacy of Terazosin, Finasteride, or Both in Benign Prostatic Hyperplasia",
+            "abstract": "This chapter summarizes the landmark Veterans Affairs Cooperative Benign Prostatic Hyperplasia Study in patients with lower urinary tract symptoms attributed to benign prostatic hyperplasia (BPH) that randomized men to receive terazosin, the 5-alpha reductase inhibitor (5-ARI) finasteride, their combination, or placebo. This study demonstrated the benefit of alpha-blocker therapy for men with BPH symptoms but did not demonstrate an added benefit of combination alpha-blocker and 5-ARI therapy.",
+            "year": 2021,
+            "citation_count": 7,
+            "relevance": 2,
+            "explanation": "This paper explores the efficacy of terazosin, an alpha 1-adrenergic-antagonist similar to doxazosin, in treating benign prostatic hyperplasia. The hypothesis in this paper is partially dependent on the previous findings regarding alpha 1-adrenergic-antagonists, thus using the source paper's findings as a sub-hypothesis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Study Designs for Evaluation of Combination Treatment: Focus on Individual Patient Benefit": {
+                    "explanation": "This paper is not directly related to the source paper. Although it discusses combination treatment, it does not specifically address the efficacy of terazosin, finasteride, or their combination in benign prostatic hyperplasia (BPH). Instead, it presents a general discussion on the evaluation of combination treatment and proposes new study designs and formats for reporting outcomes.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2023,
+        "source_paper": {
+            "paperId": "d3d0b8b440dcd46b812e71ee1f828770f3a5ec3b",
+            "title": "The Efficacy of Terazosin, Finasteride, or Both in Benign Prostatic Hyperplasia",
+            "abstract": "This chapter summarizes the landmark Veterans Affairs Cooperative Benign Prostatic Hyperplasia Study in patients with lower urinary tract symptoms attributed to benign prostatic hyperplasia (BPH) that randomized men to receive terazosin, the 5-alpha reductase inhibitor (5-ARI) finasteride, their combination, or placebo. This study demonstrated the benefit of alpha-blocker therapy for men with BPH symptoms but did not demonstrate an added benefit of combination alpha-blocker and 5-ARI therapy.",
+            "year": 2021,
+            "citation_count": 7,
+            "relevance": 2,
+            "explanation": "This paper explores the efficacy of terazosin, an alpha 1-adrenergic-antagonist similar to doxazosin, in treating benign prostatic hyperplasia. The hypothesis in this paper is partially dependent on the previous findings regarding alpha 1-adrenergic-antagonists, thus using the source paper's findings as a sub-hypothesis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Potential side effects of currently available pharmacotherapies in male lower urinary tract symptoms suggestive of benign prostatic hyperplasia": {
+                    "explanation": "This paper has no direct connection with the source paper, as it is a review paper that discusses the tolerability of various drug classes for treating lower urinary tract symptoms suggestive of benign prostatic hyperplasia, without referencing the source paper's findings or hypotheses.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2023,
+        "source_paper": {
+            "paperId": "d3d0b8b440dcd46b812e71ee1f828770f3a5ec3b",
+            "title": "The Efficacy of Terazosin, Finasteride, or Both in Benign Prostatic Hyperplasia",
+            "abstract": "This chapter summarizes the landmark Veterans Affairs Cooperative Benign Prostatic Hyperplasia Study in patients with lower urinary tract symptoms attributed to benign prostatic hyperplasia (BPH) that randomized men to receive terazosin, the 5-alpha reductase inhibitor (5-ARI) finasteride, their combination, or placebo. This study demonstrated the benefit of alpha-blocker therapy for men with BPH symptoms but did not demonstrate an added benefit of combination alpha-blocker and 5-ARI therapy.",
+            "year": 2021,
+            "citation_count": 7,
+            "relevance": 2,
+            "explanation": "This paper explores the efficacy of terazosin, an alpha 1-adrenergic-antagonist similar to doxazosin, in treating benign prostatic hyperplasia. The hypothesis in this paper is partially dependent on the previous findings regarding alpha 1-adrenergic-antagonists, thus using the source paper's findings as a sub-hypothesis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Potential side effects of currently available pharmacotherapies in male lower urinary tract symptoms suggestive of benign prostatic hyperplasia": {
+                    "explanation": "This paper is a review of the tolerability of different drug classes for treating lower urinary tract symptoms suggestive of benign prostatic hyperplasia, including \u03b11-adrenoceptor antagonists and 5\u03b1-reductase inhibitors. Although it does not directly build upon or depend on the findings of the source paper, it does discuss the same topic area. However, since it is a review paper and lacks novel hypotheses or findings, it is not considered relevant.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    }
+]

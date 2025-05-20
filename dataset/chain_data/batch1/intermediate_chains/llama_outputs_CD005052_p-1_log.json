@@ -1,0 +1,32 @@
+[
+    {
+        "year": 2010,
+        "source_paper": {
+            "paperId": "bc69b8ace330c62eff76b56f7d6128cf2472ec83",
+            "pmid": "12584790",
+            "title": "[Effect of shengmai injection on hemodynamics in patients with dilated cardiomyopathy].",
+            "abstract": "OBJECTIVE\nTo observe the effects of Shengmai Injection (SMI) on hemodynamics in patients with dilated cardiomyopathy (DCM), and to explore the clinical effect of SMI in treating patients of DCM with heart failure.\n\n\nMETHODS\nOne hundred patients were divided into two groups. In the 50 cases of the treated group, 10 cases with heart function of II degree, 35 of III degree and 5 of IV degree. The corresponding number of cases in the 50 patients of the control group were 10, 36 and 4. Conventional treatment was given to both groups, and SMI was administered to the treated group additionally. The therapeutic effect and the indexes of heart function before and after treatment were determined and compared.\n\n\nRESULTS\nIn the treated group, treatment showed markedly effective in 22 cases and effective in 20, the total effective rate being 84%, while in the control group, markedly effective in 14 and effective in 16, the total effective rate being 60%, the comparison between the two groups showed significant difference (chi 2 = 7.14, P < 0.01). In the treated group, cardiac output, stroke volume (SV), cardiac index, eject fraction (EF), lefe ventricular minor axis shortened rate, ventricular wall thickened rate were all increased after treatment and system vascular resistance (SVR) decreased significantly (P < 0.05), while in the control group, insignificant change was found in the above-mentioned parameters after treatment (P > 0.05). Comparison between the two groups after treatment showed that EF and SV were obviously higher and SVR obviously lower in the treated group than those in the control group.\n\n\nCONCLUSION\nSMI could markedly improve the heart function of patients with DCM. The effect of conventional treatment would be enhanced in combination therapy with SMI.",
+            "year": 2002,
+            "citation_count": 13
+        },
+        "llama_output": {
+            "paper_list": {
+                "1.e0417\u2005Effect of Shengmai injection on cardiac function and inflammatory reaction in patients with acute coronary syndrome": {
+                    "explanation": "This paper builds upon the source paper's findings regarding the effectiveness of Shengmai injection in improving heart function. The current paper explores its effects on cardiac function and inflammatory reaction in patients with acute coronary syndrome, using the source paper's results as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "2.Interaction between Warfarin and the Herbal Product Shengmai-Yin: A Case Report of Intracerebral Hematoma": {
+                    "explanation": "This paper has no direct connection to the source paper, as it reports a case of interaction between warfarin and a different herbal product (shengmai-yin) and does not investigate the effects of Shengmai injection on heart function.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1.e0417\u2005Effect of Shengmai injection on cardiac function and inflammatory reaction in patients with acute coronary syndrome": {
+                    "explanation": "This paper builds upon the source paper's findings regarding the effectiveness of Shengmai injection in improving heart function. The current paper explores its effects on cardiac function and inflammatory reaction in patients with acute coronary syndrome, using the source paper's results as a sub-hypothesis.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    }
+]

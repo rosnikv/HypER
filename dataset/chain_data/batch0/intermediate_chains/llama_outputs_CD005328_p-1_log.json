@@ -1,0 +1,336 @@
+[
+    {
+        "year": 2008,
+        "source_paper": {
+            "paperId": "3b6482f090dbc5207073f1a02064665176bb76b7",
+            "pmid": "15703953",
+            "title": "The safety and efficacy of intraarticular hyaluronan with/without corticosteroid in knee osteoarthritis: 1-year, single-blind, randomized study",
+            "abstract": null,
+            "year": 2006,
+            "citation_count": 98
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Treating knee osteoarthritis with intra-articular hyaluronans": {
+                    "explanation": "This paper is a review of published evidence on the efficacy and safety of intra-articular hyaluronan for the treatment of knee pain in osteoarthritis, which is not directly connected to the source paper's findings. However, it does discuss the treatment of knee osteoarthritis, which is the same condition investigated in the source paper. Since the paper is not presenting new data or hypotheses, but rather summarizing existing literature, it is classified as a review paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2008,
+        "source_paper": {
+            "paperId": "3b6482f090dbc5207073f1a02064665176bb76b7",
+            "pmid": "15703953",
+            "title": "The safety and efficacy of intraarticular hyaluronan with/without corticosteroid in knee osteoarthritis: 1-year, single-blind, randomized study",
+            "abstract": null,
+            "year": 2006,
+            "citation_count": 98
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Treating knee osteoarthritis with intra-articular hyaluronans": {
+                    "explanation": "This paper has no connection with the source paper as it is a review paper, summarizing existing literature on intra-articular hyaluronan for the treatment of knee osteoarthritis, and lacks novel hypotheses or findings inspired by or dependent on the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2010,
+        "source_paper": {
+            "paperId": "3b6482f090dbc5207073f1a02064665176bb76b7",
+            "pmid": "15703953",
+            "title": "The safety and efficacy of intraarticular hyaluronan with/without corticosteroid in knee osteoarthritis: 1-year, single-blind, randomized study",
+            "abstract": null,
+            "year": 2006,
+            "citation_count": 98
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. The use of intra-articular corticosteroids in the horse: what is known on a scientific basis?": {
+                    "explanation": "This paper is a review of the clinical use and scientific basis of intra-articular corticosteroid administration, including its application in osteoarthritis, but it does not directly build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 0
+                },
+                "2. Evaluation of diffusion of triamcinolone acetonide from the distal interphalangeal joint into the navicular bursa in horses.": {
+                    "explanation": "This paper investigates the diffusion of triamcinolone acetonide, a type of corticosteroid, in horses, which is related to the topic of the source paper (intraarticular hyaluronan with/without corticosteroid in knee osteoarthritis). However, the paper does not directly build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Evaluation of diffusion of triamcinolone acetonide from the distal interphalangeal joint into the navicular bursa in horses.": {
+                    "explanation": "This paper investigates the diffusion of triamcinolone acetonide, a type of corticosteroid, in horses, which is related to the topic of the source paper (intraarticular hyaluronan with/without corticosteroid in knee osteoarthritis). However, the paper does not directly build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2012,
+        "source_paper": {
+            "paperId": "46fe457ec4d6881c8df4d6b911b52535e0ee66fc",
+            "title": "Evaluation of diffusion of triamcinolone acetonide from the distal interphalangeal joint into the navicular bursa in horses.",
+            "abstract": "OBJECTIVE\nTo determine whether triamcinolone acetonide diffuses from the distal interphalangeal joint (DIPJ) to the navicular bursa, diffusion is direct or systemic, and addition of sodium hyaluronan has an effect on diffusion in horses.\n\n\nANIMALS\n11 adult horses without forelimb lameness.\n\n\nPROCEDURES\n1 randomly chosen forelimb DIPJ of each horse received an injection of 10 mg of triamcinolone acetonide plus 20 mg of sodium hyaluronan (group 1), and the contralateral forelimb DIPJ received an injection of 10 mg of triamcinolone acetonide plus 2 mL of lactated Ringer's solution (group 2). Synovial fluid samples were taken from both forelimb navicular bursae and 1 hind limb navicular bursa (systemic control group) at 6 hours. Triamcinolone acetonide concentrations in synovial fluid were quantified by use of high-performance liquid chromatography plus tandem mass spectrometry. Data were logarithmically transformed, and contrast analysis was performed on the 3 groups.\n\n\nRESULTS\nTriamcinolone acetonide was detected in navicular bursal samples in all groups. Groups 1 and 2 had significantly greater concentrations of triamcinolone acetonide than the systemic control group. There was no significant difference between groups 1 and 2.\n\n\nCONCLUSIONS AND CLINICAL RELEVANCE\nTriamcinolone acetonide diffused directly from the DIPJ into the navicular bursa in clinically normal horses, and diffusion was not affected by addition of hyaluronan. Injection into the DIPJ with triamcinolone acetonide or a triamcinolone acetonide-hyaluronan combination can potentially be used for treatment of navicular syndrome, but further studies are needed to determine whether triamcinolone acetonide diffuses similarly in horses with navicular syndrome.",
+            "year": 2010,
+            "citation_count": 18,
+            "relevance": 1,
+            "explanation": "This paper investigates the diffusion of triamcinolone acetonide, a type of corticosteroid, in horses, which is related to the topic of the source paper (intraarticular hyaluronan with/without corticosteroid in knee osteoarthritis). However, the paper does not directly build upon or use the findings of the source paper as a sub-hypothesis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Steroid diffusion into the navicular bursa occurs in horses affected by palmar foot pain": {
+                    "explanation": "The key hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the diffusion of triamcinolone acetonide from the DIPJ into the navicular bursa in horses affected by palmar foot pain, using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "2. The dilemma of whether to inject the navicular bursa": {
+                    "explanation": "This paper has no connection with the source paper as it discusses the therapeutic approach to palmar foot pain and does not investigate the diffusion of triamcinolone acetonide from the DIPJ into the navicular bursa.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Steroid diffusion into the navicular bursa occurs in horses affected by palmar foot pain": {
+                    "explanation": "The key hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the diffusion of triamcinolone acetonide from the DIPJ into the navicular bursa in horses affected by palmar foot pain, using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2015,
+        "source_paper": {
+            "paperId": "9fd694be9a137d5e017460acb47d7b0d813fc0fe",
+            "title": "Steroid diffusion into the navicular bursa occurs in horses affected by palmar foot pain",
+            "abstract": "Palmar foot pain is frequently treated by steroid injections into the distal interphalangeal joint (DIPJ) in the anticipation that the steroid will diffuse to the navicular bursa and palmar foot structures. The object of this study was to determine if triamcinolone acetonide (TA) would in fact be able to locally diffuse from the DIPJ into the navicular bursa in horses affected by palmar foot pain. Both forelimb DIPJs (nine horses) were injected with 10\u2005mg of TA. Navicular bursa fluid samples, both forelimb and one hind limb (systemic control), were analysed for TA with high-performance liquid chromatography/tandem mass spectrometry (HPLC-MS/MS) six hours later. Foot radiographs were graded (0\u20134) on severity of changes. Forelimb navicular bursa TA concentrations (mean\u00b1sd log10, 3.20\u00b10.56) were significantly higher than systemic control concentrations (mean\u00b1sd log10, 1.89\u00b10.3) (P<0.0001). Horses with a radiographic grade of >2 were four times as likely to have TA log10 concentrations less than 3.2 (158.49\u2005ng/ml). TA locally diffused from the DIPJ into the navicular bursa in horses affected by palmar foot pain; TA concentrations decreased as radiographic severity increased.",
+            "year": 2012,
+            "citation_count": 18,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the diffusion of triamcinolone acetonide from the DIPJ into the navicular bursa in horses affected by palmar foot pain, using the source paper's findings as a sub-hypothesis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Autologous conditioned serum and subsequent synovial fluid concentrations of cytokines, matrix metalloproteinases, and tissue inhibitors of metalloproteinases after injection into equine osteoarthritic distal interphalangeal joints": {
+                    "explanation": "This paper is not directly related to the source paper as it explores a different topic (autologous conditioned serum and cytokine concentrations) and does not build upon the findings of the source paper regarding steroid diffusion into the navicular bursa.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2015,
+        "source_paper": {
+            "paperId": "9fd694be9a137d5e017460acb47d7b0d813fc0fe",
+            "title": "Steroid diffusion into the navicular bursa occurs in horses affected by palmar foot pain",
+            "abstract": "Palmar foot pain is frequently treated by steroid injections into the distal interphalangeal joint (DIPJ) in the anticipation that the steroid will diffuse to the navicular bursa and palmar foot structures. The object of this study was to determine if triamcinolone acetonide (TA) would in fact be able to locally diffuse from the DIPJ into the navicular bursa in horses affected by palmar foot pain. Both forelimb DIPJs (nine horses) were injected with 10\u2005mg of TA. Navicular bursa fluid samples, both forelimb and one hind limb (systemic control), were analysed for TA with high-performance liquid chromatography/tandem mass spectrometry (HPLC-MS/MS) six hours later. Foot radiographs were graded (0\u20134) on severity of changes. Forelimb navicular bursa TA concentrations (mean\u00b1sd log10, 3.20\u00b10.56) were significantly higher than systemic control concentrations (mean\u00b1sd log10, 1.89\u00b10.3) (P<0.0001). Horses with a radiographic grade of >2 were four times as likely to have TA log10 concentrations less than 3.2 (158.49\u2005ng/ml). TA locally diffused from the DIPJ into the navicular bursa in horses affected by palmar foot pain; TA concentrations decreased as radiographic severity increased.",
+            "year": 2012,
+            "citation_count": 18,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the diffusion of triamcinolone acetonide from the DIPJ into the navicular bursa in horses affected by palmar foot pain, using the source paper's findings as a sub-hypothesis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Autologous conditioned serum and subsequent synovial fluid concentrations of cytokines, matrix metalloproteinases, and tissue inhibitors of metalloproteinases after injection into equine osteoarthritic distal interphalangeal joints": {
+                    "explanation": "This paper has no direct connection to the source paper. The source paper focuses on steroid diffusion into the navicular bursa, while this paper investigates autologous conditioned serum and its effects on osteoarthritic distal interphalangeal joints. Although both papers involve the distal interphalangeal joint (DIPJ) in horses, the topics and hypotheses are distinct, and this paper does not build upon or depend on the source paper's findings.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2016,
+        "source_paper": {
+            "paperId": "9fd694be9a137d5e017460acb47d7b0d813fc0fe",
+            "title": "Steroid diffusion into the navicular bursa occurs in horses affected by palmar foot pain",
+            "abstract": "Palmar foot pain is frequently treated by steroid injections into the distal interphalangeal joint (DIPJ) in the anticipation that the steroid will diffuse to the navicular bursa and palmar foot structures. The object of this study was to determine if triamcinolone acetonide (TA) would in fact be able to locally diffuse from the DIPJ into the navicular bursa in horses affected by palmar foot pain. Both forelimb DIPJs (nine horses) were injected with 10\u2005mg of TA. Navicular bursa fluid samples, both forelimb and one hind limb (systemic control), were analysed for TA with high-performance liquid chromatography/tandem mass spectrometry (HPLC-MS/MS) six hours later. Foot radiographs were graded (0\u20134) on severity of changes. Forelimb navicular bursa TA concentrations (mean\u00b1sd log10, 3.20\u00b10.56) were significantly higher than systemic control concentrations (mean\u00b1sd log10, 1.89\u00b10.3) (P<0.0001). Horses with a radiographic grade of >2 were four times as likely to have TA log10 concentrations less than 3.2 (158.49\u2005ng/ml). TA locally diffused from the DIPJ into the navicular bursa in horses affected by palmar foot pain; TA concentrations decreased as radiographic severity increased.",
+            "year": 2012,
+            "citation_count": 18,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the diffusion of triamcinolone acetonide from the DIPJ into the navicular bursa in horses affected by palmar foot pain, using the source paper's findings as a sub-hypothesis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Osteoarthritis in horses - Part 2: a review of the intra-articular use of corticosteroids as a method of treatment": {
+                    "explanation": "This paper is a review article discussing the use of corticosteroids in treating osteoarthritis in horses. Although it mentions the use of steroids, it does not directly build upon or reference the findings of the source paper. The paper lacks novel hypotheses or findings, thus it has no connection to the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2016,
+        "source_paper": {
+            "paperId": "9fd694be9a137d5e017460acb47d7b0d813fc0fe",
+            "title": "Steroid diffusion into the navicular bursa occurs in horses affected by palmar foot pain",
+            "abstract": "Palmar foot pain is frequently treated by steroid injections into the distal interphalangeal joint (DIPJ) in the anticipation that the steroid will diffuse to the navicular bursa and palmar foot structures. The object of this study was to determine if triamcinolone acetonide (TA) would in fact be able to locally diffuse from the DIPJ into the navicular bursa in horses affected by palmar foot pain. Both forelimb DIPJs (nine horses) were injected with 10\u2005mg of TA. Navicular bursa fluid samples, both forelimb and one hind limb (systemic control), were analysed for TA with high-performance liquid chromatography/tandem mass spectrometry (HPLC-MS/MS) six hours later. Foot radiographs were graded (0\u20134) on severity of changes. Forelimb navicular bursa TA concentrations (mean\u00b1sd log10, 3.20\u00b10.56) were significantly higher than systemic control concentrations (mean\u00b1sd log10, 1.89\u00b10.3) (P<0.0001). Horses with a radiographic grade of >2 were four times as likely to have TA log10 concentrations less than 3.2 (158.49\u2005ng/ml). TA locally diffused from the DIPJ into the navicular bursa in horses affected by palmar foot pain; TA concentrations decreased as radiographic severity increased.",
+            "year": 2012,
+            "citation_count": 18,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the diffusion of triamcinolone acetonide from the DIPJ into the navicular bursa in horses affected by palmar foot pain, using the source paper's findings as a sub-hypothesis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Osteoarthritis in horses - Part 2: a review of the intra-articular use of corticosteroids as a method of treatment": {
+                    "explanation": "This paper is a review of the use of corticosteroids in treating osteoarthritis in horses, and does not present any novel findings or hypotheses that build upon the source paper. It discusses the general use of corticosteroids in equine medicine, but does not specifically address the diffusion of steroids into the navicular bursa or its relation to palmar foot pain.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2017,
+        "source_paper": {
+            "paperId": "9fd694be9a137d5e017460acb47d7b0d813fc0fe",
+            "title": "Steroid diffusion into the navicular bursa occurs in horses affected by palmar foot pain",
+            "abstract": "Palmar foot pain is frequently treated by steroid injections into the distal interphalangeal joint (DIPJ) in the anticipation that the steroid will diffuse to the navicular bursa and palmar foot structures. The object of this study was to determine if triamcinolone acetonide (TA) would in fact be able to locally diffuse from the DIPJ into the navicular bursa in horses affected by palmar foot pain. Both forelimb DIPJs (nine horses) were injected with 10\u2005mg of TA. Navicular bursa fluid samples, both forelimb and one hind limb (systemic control), were analysed for TA with high-performance liquid chromatography/tandem mass spectrometry (HPLC-MS/MS) six hours later. Foot radiographs were graded (0\u20134) on severity of changes. Forelimb navicular bursa TA concentrations (mean\u00b1sd log10, 3.20\u00b10.56) were significantly higher than systemic control concentrations (mean\u00b1sd log10, 1.89\u00b10.3) (P<0.0001). Horses with a radiographic grade of >2 were four times as likely to have TA log10 concentrations less than 3.2 (158.49\u2005ng/ml). TA locally diffused from the DIPJ into the navicular bursa in horses affected by palmar foot pain; TA concentrations decreased as radiographic severity increased.",
+            "year": 2012,
+            "citation_count": 18,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the diffusion of triamcinolone acetonide from the DIPJ into the navicular bursa in horses affected by palmar foot pain, using the source paper's findings as a sub-hypothesis."
+        },
+        "llama_output": {},
+        "seed": 42
+    },
+    {
+        "year": 2017,
+        "source_paper": {
+            "paperId": "9fd694be9a137d5e017460acb47d7b0d813fc0fe",
+            "title": "Steroid diffusion into the navicular bursa occurs in horses affected by palmar foot pain",
+            "abstract": "Palmar foot pain is frequently treated by steroid injections into the distal interphalangeal joint (DIPJ) in the anticipation that the steroid will diffuse to the navicular bursa and palmar foot structures. The object of this study was to determine if triamcinolone acetonide (TA) would in fact be able to locally diffuse from the DIPJ into the navicular bursa in horses affected by palmar foot pain. Both forelimb DIPJs (nine horses) were injected with 10\u2005mg of TA. Navicular bursa fluid samples, both forelimb and one hind limb (systemic control), were analysed for TA with high-performance liquid chromatography/tandem mass spectrometry (HPLC-MS/MS) six hours later. Foot radiographs were graded (0\u20134) on severity of changes. Forelimb navicular bursa TA concentrations (mean\u00b1sd log10, 3.20\u00b10.56) were significantly higher than systemic control concentrations (mean\u00b1sd log10, 1.89\u00b10.3) (P<0.0001). Horses with a radiographic grade of >2 were four times as likely to have TA log10 concentrations less than 3.2 (158.49\u2005ng/ml). TA locally diffused from the DIPJ into the navicular bursa in horses affected by palmar foot pain; TA concentrations decreased as radiographic severity increased.",
+            "year": 2012,
+            "citation_count": 18,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the diffusion of triamcinolone acetonide from the DIPJ into the navicular bursa in horses affected by palmar foot pain, using the source paper's findings as a sub-hypothesis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. A Rare Case of Deep Digital Flexor Tendinopathy following Centesis of the Navicular Bursa": {
+                    "explanation": "Although this paper is related to the navicular bursa, it discusses a rare complication of a procedure and does not directly build upon or utilize the findings of the source paper, which investigated steroid diffusion into the navicular bursa.",
+                    "relevance": 0
+                },
+                "2. An ultrasound\u2010guided, tendon\u2010sparing, lateral approach to injection of the navicular bursa": {
+                    "explanation": "This paper describes a new technique for injecting the navicular bursa, which is related to the source paper's topic. However, it does not directly build upon or utilize the findings of the source paper, which investigated steroid diffusion into the navicular bursa. The new technique might be relevant for future studies on steroid diffusion, but it is not directly dependent on the source paper's findings.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. An ultrasound\u2010guided, tendon\u2010sparing, lateral approach to injection of the navicular bursa": {
+                    "explanation": "This paper describes a new technique for injecting the navicular bursa, which is related to the source paper's topic. However, it does not directly build upon or utilize the findings of the source paper, which investigated steroid diffusion into the navicular bursa. The new technique might be relevant for future studies on steroid diffusion, but it is not directly dependent on the source paper's findings.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2019,
+        "source_paper": {
+            "paperId": "44fe87833cf461db2a7edd4cadd194a8ef64382e",
+            "title": "An ultrasound\u2010guided, tendon\u2010sparing, lateral approach to injection of the navicular bursa",
+            "abstract": "BACKGROUND\nNavicular disease in the horse often requires injection of the navicular bursa. We have developed an ultrasound-guided, lateral needle approach to navicular bursocentesis, which avoids penetration of the deep digital flexor tendon (DDFT) and the need for radiographic control.\n\n\nOBJECTIVES\nTo describe and evaluate the feasibility and efficacy of an ultrasound-guided, lateral bursocentesis technique.\n\n\nSTUDY DESIGN\nCadaveric and in vivo experiments.\n\n\nMETHODS\nThe navicular bursa in 62 cadaveric forelimbs of 31 horses and in both forelimbs of 26 live horses, positioned with the foot flexed in a navicular block, were submitted to lateral, ultrasound-guided injection of 1.5 ml radiocontrast agent. Lateromedial radiographs were taken to locate the contrast. A second injection of 0.5 ml methylene blue was administered during needle withdrawal in cadaveric limbs to investigate the needle pathway during dissection.\n\n\nRESULTS\nContrast agent was successfully deposited in the navicular bursa in 104 of 114 (91%) limbs and in the navicular bursa alone in 89 of 114 (78%) limbs. Dissection showed no evidence of penetration of the DDFT in cadaver limbs. Failure to inject the navicular bursa was significantly associated with poor quality of the ultrasound image (P = 0.04) and resulted in aberrant injection of the distal interphalangeal joint in five of 114 (4%) limbs, the peribursal soft tissues in four of 114 (4%) limbs and the digital flexor tendon sheath in one of 114 (0.9%) limbs. Synovial fluid was observed at the needle hub in 58% of live horses.\n\n\nMAIN LIMITATIONS\nIt is unknown whether injection results obtained in the limbs of horses without disease can be extrapolated to horses with clinical disease of the podotrochlear apparatus. The localisation of contrast medium on radiographs may not accurately reflect the behaviour of local anaesthetic solution or therapeutic medications injected in the navicular bursa.\n\n\nCONCLUSIONS\nThis lateral, ultrasound-guided technique for injecting the navicular bursa is effective, does not penetrate the DDFT and avoids exposure of personnel to radiation.",
+            "year": 2017,
+            "citation_count": 13,
+            "relevance": 1,
+            "explanation": "This paper describes a new technique for injecting the navicular bursa, which is related to the source paper's topic. However, it does not directly build upon or utilize the findings of the source paper, which investigated steroid diffusion into the navicular bursa. The new technique might be relevant for future studies on steroid diffusion, but it is not directly dependent on the source paper's findings."
+        },
+        "llama_output": {},
+        "seed": 42
+    },
+    {
+        "year": 2019,
+        "source_paper": {
+            "paperId": "44fe87833cf461db2a7edd4cadd194a8ef64382e",
+            "title": "An ultrasound\u2010guided, tendon\u2010sparing, lateral approach to injection of the navicular bursa",
+            "abstract": "BACKGROUND\nNavicular disease in the horse often requires injection of the navicular bursa. We have developed an ultrasound-guided, lateral needle approach to navicular bursocentesis, which avoids penetration of the deep digital flexor tendon (DDFT) and the need for radiographic control.\n\n\nOBJECTIVES\nTo describe and evaluate the feasibility and efficacy of an ultrasound-guided, lateral bursocentesis technique.\n\n\nSTUDY DESIGN\nCadaveric and in vivo experiments.\n\n\nMETHODS\nThe navicular bursa in 62 cadaveric forelimbs of 31 horses and in both forelimbs of 26 live horses, positioned with the foot flexed in a navicular block, were submitted to lateral, ultrasound-guided injection of 1.5 ml radiocontrast agent. Lateromedial radiographs were taken to locate the contrast. A second injection of 0.5 ml methylene blue was administered during needle withdrawal in cadaveric limbs to investigate the needle pathway during dissection.\n\n\nRESULTS\nContrast agent was successfully deposited in the navicular bursa in 104 of 114 (91%) limbs and in the navicular bursa alone in 89 of 114 (78%) limbs. Dissection showed no evidence of penetration of the DDFT in cadaver limbs. Failure to inject the navicular bursa was significantly associated with poor quality of the ultrasound image (P = 0.04) and resulted in aberrant injection of the distal interphalangeal joint in five of 114 (4%) limbs, the peribursal soft tissues in four of 114 (4%) limbs and the digital flexor tendon sheath in one of 114 (0.9%) limbs. Synovial fluid was observed at the needle hub in 58% of live horses.\n\n\nMAIN LIMITATIONS\nIt is unknown whether injection results obtained in the limbs of horses without disease can be extrapolated to horses with clinical disease of the podotrochlear apparatus. The localisation of contrast medium on radiographs may not accurately reflect the behaviour of local anaesthetic solution or therapeutic medications injected in the navicular bursa.\n\n\nCONCLUSIONS\nThis lateral, ultrasound-guided technique for injecting the navicular bursa is effective, does not penetrate the DDFT and avoids exposure of personnel to radiation.",
+            "year": 2017,
+            "citation_count": 13,
+            "relevance": 1,
+            "explanation": "This paper describes a new technique for injecting the navicular bursa, which is related to the source paper's topic. However, it does not directly build upon or utilize the findings of the source paper, which investigated steroid diffusion into the navicular bursa. The new technique might be relevant for future studies on steroid diffusion, but it is not directly dependent on the source paper's findings."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Ultrasound-Guided Proximolateral Approach for Digital Flexor Tendon Sheath Injection in the Horse: A Cadaver Study": {
+                    "explanation": "This paper explores a new ultrasound-guided approach for injecting the digital flexor tendon sheath, which is not directly related to the source paper's focus on navicular bursa injection. However, both papers share a common theme of using ultrasound guidance for injections in horses, indicating a connection but not a direct dependency or inspiration.",
+                    "relevance": 1
+                },
+                "2. Communication between the distal interphalangeal joint and the navicular bursa in the horse at Computed Tomography Arthrography": {
+                    "explanation": "This paper investigates the communication between the distal interphalangeal joint and the navicular bursa, which is closely related to the source paper's focus on navicular bursa injection. The findings of this paper could be considered as a sub-hypothesis or an extension of the source paper's results, as it explores the potential diffusion of drugs between these synovial structures.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Communication between the distal interphalangeal joint and the navicular bursa in the horse at Computed Tomography Arthrography": {
+                    "explanation": "This paper investigates the communication between the distal interphalangeal joint and the navicular bursa, which is closely related to the source paper's focus on navicular bursa injection. The findings of this paper could be considered as a sub-hypothesis or an extension of the source paper's results, as it explores the potential diffusion of drugs between these synovial structures.",
+                    "relevance": 2
+                },
+                "2. Ultrasound-Guided Proximolateral Approach for Digital Flexor Tendon Sheath Injection in the Horse: A Cadaver Study": {
+                    "explanation": "This paper explores a new ultrasound-guided approach for injecting the digital flexor tendon sheath, which is not directly related to the source paper's focus on navicular bursa injection. However, both papers share a common theme of using ultrasound guidance for injections in horses, indicating a connection but not a direct dependency or inspiration.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2020,
+        "source_paper": {
+            "paperId": "a0bbef121c2d05020734de4b97575a8c90a090bd",
+            "title": "Communication between the distal interphalangeal joint and the navicular bursa in the horse at Computed Tomography Arthrography",
+            "abstract": "Diffusion of drugs injected into the distal interphalangeal joint or the navicular (podotrochlear) bursa can influence diagnosis and treatment of foot pain. Previous anatomical and radiographic studies of the communication between these synovial structures have produced conflicting results and did not identify the location of any communication if present. This anatomic study aimed to assess the presence and site of communication between the distal interphalangeal joint and the navicular bursa in the horse by computed tomography arthrography. Sixty\u2010six pairs of cadaver forelimbs were injected with contrast medium into the distal interphalangeal joint and imaged by computed tomography arthrography. The presence of a communication, location of the communication and additional structural changes were assessed. Navicular bursa opacification occurred in 7 distal limbs (5.3%) following distal interphalangeal joint injection. One limb showed a communication through the T\u2010ligament and 6 limbs showed a communication through the distal sesamoidean impar ligament. In 3 cases, the communication through the distal sesamoidean impar ligament was associated with a distal border fragment. Our study showed that communication between the distal interphalangeal joint and navicular bursa is uncommon and inconsistent. Clinically, the presence of a communication could (1) influence the interpretation of diagnostic analgesia of the distal interphalangeal joint or the navicular bursa by facilitating the diffusion of local anaesthetic between these structures; (2) allow the drug and its potential adverse effects to spread from the treated synovial cavity to the non\u2010targeted synovial cavity; (3) be responsible for the failure of joint drainage in the case of sepsis.",
+            "year": 2019,
+            "citation_count": 4,
+            "relevance": 2,
+            "explanation": "This paper investigates the communication between the distal interphalangeal joint and the navicular bursa, which is closely related to the source paper's focus on navicular bursa injection. The findings of this paper could be considered as a sub-hypothesis or an extension of the source paper's results, as it explores the potential diffusion of drugs between these synovial structures."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. The influence of tenoscopic approaches on radiocarpal joint perforation during carpal sheath tenoscopy in horses": {
+                    "explanation": "This paper has no direct connection with the source paper. It explores a different aspect of equine anatomy and does not build upon or reference the findings of the source paper regarding the communication between the distal interphalangeal joint and the navicular bursa.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2024,
+        "source_paper": {
+            "paperId": "a0bbef121c2d05020734de4b97575a8c90a090bd",
+            "title": "Communication between the distal interphalangeal joint and the navicular bursa in the horse at Computed Tomography Arthrography",
+            "abstract": "Diffusion of drugs injected into the distal interphalangeal joint or the navicular (podotrochlear) bursa can influence diagnosis and treatment of foot pain. Previous anatomical and radiographic studies of the communication between these synovial structures have produced conflicting results and did not identify the location of any communication if present. This anatomic study aimed to assess the presence and site of communication between the distal interphalangeal joint and the navicular bursa in the horse by computed tomography arthrography. Sixty\u2010six pairs of cadaver forelimbs were injected with contrast medium into the distal interphalangeal joint and imaged by computed tomography arthrography. The presence of a communication, location of the communication and additional structural changes were assessed. Navicular bursa opacification occurred in 7 distal limbs (5.3%) following distal interphalangeal joint injection. One limb showed a communication through the T\u2010ligament and 6 limbs showed a communication through the distal sesamoidean impar ligament. In 3 cases, the communication through the distal sesamoidean impar ligament was associated with a distal border fragment. Our study showed that communication between the distal interphalangeal joint and navicular bursa is uncommon and inconsistent. Clinically, the presence of a communication could (1) influence the interpretation of diagnostic analgesia of the distal interphalangeal joint or the navicular bursa by facilitating the diffusion of local anaesthetic between these structures; (2) allow the drug and its potential adverse effects to spread from the treated synovial cavity to the non\u2010targeted synovial cavity; (3) be responsible for the failure of joint drainage in the case of sepsis.",
+            "year": 2019,
+            "citation_count": 4,
+            "relevance": 2,
+            "explanation": "This paper investigates the communication between the distal interphalangeal joint and the navicular bursa, which is closely related to the source paper's focus on navicular bursa injection. The findings of this paper could be considered as a sub-hypothesis or an extension of the source paper's results, as it explores the potential diffusion of drugs between these synovial structures."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Computed tomographic evaluation of the proximity of needles placed for perineural anesthesia of the palmar digital nerves to synovial structures in the foot: an ex vivo study": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it utilizes computed tomography (CT) evaluation to investigate the proximity of needles to synovial structures, including the distal interphalangeal joint and the navicular bursa, which were also examined in the source paper for communication between them.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Computed tomographic evaluation of the proximity of needles placed for perineural anesthesia of the palmar digital nerves to synovial structures in the foot: an ex vivo study": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it utilizes computed tomography (CT) evaluation to investigate the proximity of needles to synovial structures, including the distal interphalangeal joint and the navicular bursa, which were also examined in the source paper for communication between them.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    }
+]

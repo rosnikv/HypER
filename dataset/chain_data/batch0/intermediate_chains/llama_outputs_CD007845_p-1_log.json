@@ -1,0 +1,257 @@
+[
+    {
+        "year": 2012,
+        "source_paper": {
+            "paperId": "daa5f77bc532d2e7dccdbe8dcc5621a352f644d0",
+            "pmid": "21211558",
+            "title": "Hypoglycemic effect of bitter melon compared with metformin in newly diagnosed type 2 diabetes patients.",
+            "abstract": null,
+            "year": 2011,
+            "citation_count": 170
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Effect of Superfine Grinding on Antidiabetic Activity of Bitter Melon Powder": {
+                    "explanation": "This paper investigates the antidiabetic activities of bitter melon powders, which is related to the source paper's topic of the hypoglycemic effect of bitter melon. However, it does not directly build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "2. Momordica charantia for type 2 diabetes mellitus": {
+                    "explanation": "This paper is a review of the effects of momordica charantia (bitter melon) for type 2 diabetes mellitus. As a review paper, it does not present new findings or hypotheses, but rather summarizes existing literature, including potentially the source paper.",
+                    "relevance": 0
+                },
+                "3. A review of the hypoglycemic effects of five commonly used herbal food supplements": {
+                    "explanation": "This paper is a review of the hypoglycemic effects of several herbal food supplements, including bitter melon. Similar to paper 2, it is a review paper that summarizes existing literature and does not present new findings or hypotheses.",
+                    "relevance": 0
+                },
+                "4. Effects of bitter melon and toll\u2010like receptor (TLR) 4 on glucose and lipid parameters in mice fed high fat diet": {
+                    "explanation": "This paper investigates the effect of bitter melon on glucose and lipid homeostasis in mice, which is related to the source paper's topic of the hypoglycemic effect of bitter melon. The study's findings on the role of TLR4 in mediating the effects of bitter melon could be considered a sub-hypothesis that builds upon the source paper's findings.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Effects of bitter melon and toll\u2010like receptor (TLR) 4 on glucose and lipid parameters in mice fed high fat diet": {
+                    "explanation": "This paper investigates the effect of bitter melon on glucose and lipid homeostasis in mice, which is related to the source paper's topic of the hypoglycemic effect of bitter melon. The study's findings on the role of TLR4 in mediating the effects of bitter melon could be considered a sub-hypothesis that builds upon the source paper's findings.",
+                    "relevance": 2
+                },
+                "2. Effect of Superfine Grinding on Antidiabetic Activity of Bitter Melon Powder": {
+                    "explanation": "This paper investigates the antidiabetic activities of bitter melon powders, which is related to the source paper's topic of the hypoglycemic effect of bitter melon. However, it does not directly build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2013,
+        "source_paper": {
+            "paperId": "daa5f77bc532d2e7dccdbe8dcc5621a352f644d0",
+            "pmid": "21211558",
+            "title": "Hypoglycemic effect of bitter melon compared with metformin in newly diagnosed type 2 diabetes patients.",
+            "abstract": null,
+            "year": 2011,
+            "citation_count": 170
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Best herbs for managing diabetes: a review of clinical studies": {
+                    "explanation": "This paper is a review of clinical studies on herbs for managing diabetes. Although it mentions bitter melon, which is the same herb used in the source paper, the paper does not build on the source paper's findings or use them as a sub-hypothesis. It is a general review paper.",
+                    "relevance": 0
+                },
+                "2. Searching for phytoinsulins as cardiovascular protector in metabolic syndrome": {
+                    "explanation": "This paper explores the concept of phytoinsulins, which are plant-based compounds that can activate insulin signaling pathways. While it discusses the potential benefits of these compounds in metabolic syndrome, it does not directly build on the source paper's findings or use them as a sub-hypothesis.",
+                    "relevance": 0
+                },
+                "3. Bitter melon juice activates cellular energy sensor AMP-activated protein kinase causing apoptotic death of human pancreatic carcinoma cells": {
+                    "explanation": "This paper investigates the anticancer effects of bitter melon juice, which is the same herb used in the source paper. However, the paper does not build on the source paper's findings on the hypoglycemic effect of bitter melon, but rather explores a new angle (anticancer effects).",
+                    "relevance": 1
+                },
+                "4. Activation of AMPK by Bitter Melon Triterpenoids Involves CaMKK\u03b2": {
+                    "explanation": "This paper explores the mechanism by which bitter melon-derived triterpenoids activate AMPK, which is a key enzyme involved in glucose metabolism. The paper builds on the source paper's findings on the hypoglycemic effect of bitter melon by investigating the underlying mechanisms.",
+                    "relevance": 2
+                },
+                "5. A Critical Review on Traditional Herbal Drugs: An Emerging Alternative Drug for Diabetes": {
+                    "explanation": "This paper is a review of traditional herbal drugs for the treatment of diabetes. Although it mentions bitter melon, which is the same herb used in the source paper, the paper does not build on the source paper's findings or use them as a sub-hypothesis. It is a general review paper.",
+                    "relevance": 0
+                },
+                "6. A review on the efficacy of four popular herbs used for the treatment of diabetes Diyabet tedavisinde kullanilan pop\u00fcler d\u00f6rt bitkinin etkinli\u011fi \u00fczerine bir derleme": {
+                    "explanation": "This paper is a review of the efficacy of four popular herbs, including bitter melon, for the treatment of diabetes. Although it mentions bitter melon, which is the same herb used in the source paper, the paper does not build on the source paper's findings or use them as a sub-hypothesis. It is a general review paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Activation of AMPK by Bitter Melon Triterpenoids Involves CaMKK\u03b2": {
+                    "explanation": "This paper explores the mechanism by which bitter melon-derived triterpenoids activate AMPK, which is a key enzyme involved in glucose metabolism. The paper builds on the source paper's findings on the hypoglycemic effect of bitter melon by investigating the underlying mechanisms.",
+                    "relevance": 2
+                },
+                "2. Bitter melon juice activates cellular energy sensor AMP-activated protein kinase causing apoptotic death of human pancreatic carcinoma cells": {
+                    "explanation": "This paper investigates the anticancer effects of bitter melon juice, which is the same herb used in the source paper. However, the paper does not build on the source paper's findings on the hypoglycemic effect of bitter melon, but rather explores a new angle (anticancer effects).",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2014,
+        "source_paper": {
+            "paperId": "63f8aba4648b9eb2224bff9aca5f367293716a85",
+            "title": "Activation of AMPK by Bitter Melon Triterpenoids Involves CaMKK\u03b2",
+            "abstract": "We recently showed that bitter melon-derived triterpenoids (BMTs) activate AMPK and increase GLUT4 translocation to the plasma membrane in vitro, and improve glucose disposal in insulin resistant models in vivo. Here we interrogated the mechanism by which these novel compounds activate AMPK, a leading anti-diabetic drug target. BMTs did not activate AMPK directly in an allosteric manner as AMP or the Abbott compound (A-769662) does, nor did they activate AMPK by inhibiting cellular respiration like many commonly used anti-diabetic medications. BMTs increased AMPK activity in both L6 myotubes and LKB1-deficient HeLa cells by 20\u201335%. Incubation with the CaMKK\u03b2 inhibitor, STO-609, completely attenuated this effect suggesting a key role for CaMKK\u03b2 in this activation. Incubation of L6 myotubes with the calcium chelator EGTA-AM did not alter this activation suggesting that the BMT-dependent activation was Ca2+-independent. We therefore propose that CaMKK\u03b2 is a key upstream kinase for BMT-induced activation of AMPK.",
+            "year": 2013,
+            "citation_count": 63,
+            "relevance": 2,
+            "explanation": "This paper explores the mechanism by which bitter melon-derived triterpenoids activate AMPK, which is a key enzyme involved in glucose metabolism. The paper builds on the source paper's findings on the hypoglycemic effect of bitter melon by investigating the underlying mechanisms."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Hypoxic preconditioning protects cardiomyocytes against hypoxia/reoxygenation injury through AMPK/eNOS/PGC-1\u03b1 signaling pathway.": {
+                    "explanation": "This paper explores the role of AMPK in hypoxic preconditioning, which is a different context from the source paper. Although AMPK is a common factor, the paper does not build upon or use the findings of the source paper as a sub-hypothesis. Therefore, the relevance is 0.",
+                    "relevance": 0
+                },
+                "2. Hepatic FoxO1 Acetylation Is Involved in Oleanolic Acid-Induced Memory of Glycemic Control: Novel Findings from Study 2": {
+                    "explanation": "This paper investigates the role of oleanolic acid in glycemic control and its potential therapeutic effects on type 2 diabetes. The paper mentions the activation of AMPK, but it does not directly build upon or use the findings of the source paper. However, it does explore a related area of research, specifically the therapeutic effects of triterpenoids, which are also the focus of the source paper. Therefore, the relevance is 1.",
+                    "relevance": 1
+                },
+                "3. Mechanism-based discovery of new anti-diabetic drugs from the natural products in traditional Chinese medicine": {
+                    "explanation": "This paper discusses the potential of natural products in traditional Chinese medicine for the discovery of new anti-diabetic drugs. Although the paper mentions insulin resistance and type 2 diabetes, which are related to the source paper's focus on AMPK activation, it does not directly build upon or use the findings of the source paper. The paper appears to be a review or overview of the field, and it does not present novel research or findings. Therefore, the relevance is 0.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Hepatic FoxO1 Acetylation Is Involved in Oleanolic Acid-Induced Memory of Glycemic Control: Novel Findings from Study 2": {
+                    "explanation": "This paper investigates the role of oleanolic acid in glycemic control and its potential therapeutic effects on type 2 diabetes. The paper mentions the activation of AMPK, but it does not directly build upon or use the findings of the source paper. However, it does explore a related area of research, specifically the therapeutic effects of triterpenoids, which are also the focus of the source paper. Therefore, the relevance is 1.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2015,
+        "source_paper": {
+            "paperId": "63f8aba4648b9eb2224bff9aca5f367293716a85",
+            "title": "Activation of AMPK by Bitter Melon Triterpenoids Involves CaMKK\u03b2",
+            "abstract": "We recently showed that bitter melon-derived triterpenoids (BMTs) activate AMPK and increase GLUT4 translocation to the plasma membrane in vitro, and improve glucose disposal in insulin resistant models in vivo. Here we interrogated the mechanism by which these novel compounds activate AMPK, a leading anti-diabetic drug target. BMTs did not activate AMPK directly in an allosteric manner as AMP or the Abbott compound (A-769662) does, nor did they activate AMPK by inhibiting cellular respiration like many commonly used anti-diabetic medications. BMTs increased AMPK activity in both L6 myotubes and LKB1-deficient HeLa cells by 20\u201335%. Incubation with the CaMKK\u03b2 inhibitor, STO-609, completely attenuated this effect suggesting a key role for CaMKK\u03b2 in this activation. Incubation of L6 myotubes with the calcium chelator EGTA-AM did not alter this activation suggesting that the BMT-dependent activation was Ca2+-independent. We therefore propose that CaMKK\u03b2 is a key upstream kinase for BMT-induced activation of AMPK.",
+            "year": 2013,
+            "citation_count": 63,
+            "relevance": 2,
+            "explanation": "This paper explores the mechanism by which bitter melon-derived triterpenoids activate AMPK, which is a key enzyme involved in glucose metabolism. The paper builds on the source paper's findings on the hypoglycemic effect of bitter melon by investigating the underlying mechanisms."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Bitter Melon (Momordica charantia) Extract Inhibits Tumorigenicity and Overcomes Cisplatin-Resistance in Ovarian Cancer Cells Through Targeting AMPK Signaling Cascade": {
+                    "explanation": "The key hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the activation of AMPK by bitter melon extract and its effects on ovarian cancer cells, which builds upon the source paper's findings regarding the activation of AMPK by bitter melon triterpenoids.",
+                    "relevance": 2
+                },
+                "2. Lessons from Nature: Sources and Strategies for Developing AMPK Activators for Cancer Chemotherapeutics": {
+                    "explanation": "This paper is a review of natural compounds that activate AMPK and their potential as anticancer drugs, which does not directly build upon the source paper's findings. However, the source paper's findings on the activation of AMPK by bitter melon triterpenoids could be considered a part of the broader topic of AMPK activators discussed in this review.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Bitter Melon (Momordica charantia) Extract Inhibits Tumorigenicity and Overcomes Cisplatin-Resistance in Ovarian Cancer Cells Through Targeting AMPK Signaling Cascade": {
+                    "explanation": "The key hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the activation of AMPK by bitter melon extract and its effects on ovarian cancer cells, which builds upon the source paper's findings regarding the activation of AMPK by bitter melon triterpenoids.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2016,
+        "source_paper": {
+            "paperId": "dd1a05924a18a435dca7040005c4598d782e241b",
+            "title": "Bitter Melon (Momordica charantia) Extract Inhibits Tumorigenicity and Overcomes Cisplatin-Resistance in Ovarian Cancer Cells Through Targeting AMPK Signaling Cascade",
+            "abstract": "Objective. Acquired chemoresistance is a major obstacle in the clinical management of ovarian cancer. Therefore, searching for alternative therapeutic modalities is urgently needed. Bitter melon (Momordica charantia) is a traditional dietary fruit, but its extract also shows potential medicinal values in human diabetes and cancers. Here, we sought to investigate the extract of bitter melon (BME) in antitumorigenic and cisplatin-induced cytotoxicity in ovarian cancer cells. Methods. Three varieties of bitter melon were used to prepare the BME. Ovarian cancer cell lines, human immortalized epithelial ovarian cells (HOSEs), and nude mice were used to evaluate the cell cytotoxicity, cisplatin resistance, and tumor inhibitory effect of BME. The molecular mechanism of BME was examined by Western blotting. Results. Cotreatment with BME and cisplatin markedly attenuated tumor growth in vitro and in vivo in a mouse xenograft model, whereas there was no observable toxicity in HOSEs or in nude mice in vivo. Interestingly, the antitumorigenic effects of BME varied with different varieties of bitter melon, suggesting that the amount of antitumorigenic substances may vary. Studies of the molecular mechanism demonstrated that BME activates AMP-activated protein kinase (AMPK) in an AMP-independent but CaMKK (Ca2+/calmodulin-dependent protein kinase)-dependent manner, exerting anticancer effects through activation of AMPK and suppression of the mTOR/p70S6K and/or the AKT/ERK/FOXM1 (Forkhead Box M1) signaling cascade. Conclusion. BME functions as a natural AMPK activator in the inhibition of ovarian cancer cell growth and might be useful as a supplement to improve the efficacy of cisplatin-based chemotherapy in ovarian cancer.",
+            "year": 2015,
+            "citation_count": 40,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the activation of AMPK by bitter melon extract and its effects on ovarian cancer cells, which builds upon the source paper's findings regarding the activation of AMPK by bitter melon triterpenoids."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Targeting AMPK signaling in combating ovarian cancers: opportunities and challenges": {
+                    "explanation": "This paper explores the potential of targeting AMPK signaling in ovarian cancer treatment, which is directly related to the source paper's findings on the role of AMPK signaling in the antitumorigenic effects of bitter melon extract. However, this paper does not build upon the source paper's specific findings, but rather discusses the broader topic of AMPK signaling in cancer treatment.",
+                    "relevance": 1
+                },
+                "2. Anticancer activity of methanolic extarct of Momordica charantia against human colon, liver and breast cancer cell lines- In vitro": {
+                    "explanation": "This paper investigates the anticancer activity of Momordica charantia extract, which is the same plant extract studied in the source paper. However, this paper focuses on different cancer cell lines and does not directly build upon the source paper's findings on ovarian cancer. The paper's hypothesis is at least partially dependent on the previous findings regarding the anticancer properties of Momordica charantia extract.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Anticancer activity of methanolic extarct of Momordica charantia against human colon, liver and breast cancer cell lines- In vitro": {
+                    "explanation": "This paper investigates the anticancer activity of Momordica charantia extract, which is the same plant extract studied in the source paper. However, this paper focuses on different cancer cell lines and does not directly build upon the source paper's findings on ovarian cancer. The paper's hypothesis is at least partially dependent on the previous findings regarding the anticancer properties of Momordica charantia extract.",
+                    "relevance": 2
+                },
+                "2. Targeting AMPK signaling in combating ovarian cancers: opportunities and challenges": {
+                    "explanation": "This paper explores the potential of targeting AMPK signaling in ovarian cancer treatment, which is directly related to the source paper's findings on the role of AMPK signaling in the antitumorigenic effects of bitter melon extract. However, this paper does not build upon the source paper's specific findings, but rather discusses the broader topic of AMPK signaling in cancer treatment.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2017,
+        "source_paper": {
+            "paperId": "dd1a05924a18a435dca7040005c4598d782e241b",
+            "title": "Bitter Melon (Momordica charantia) Extract Inhibits Tumorigenicity and Overcomes Cisplatin-Resistance in Ovarian Cancer Cells Through Targeting AMPK Signaling Cascade",
+            "abstract": "Objective. Acquired chemoresistance is a major obstacle in the clinical management of ovarian cancer. Therefore, searching for alternative therapeutic modalities is urgently needed. Bitter melon (Momordica charantia) is a traditional dietary fruit, but its extract also shows potential medicinal values in human diabetes and cancers. Here, we sought to investigate the extract of bitter melon (BME) in antitumorigenic and cisplatin-induced cytotoxicity in ovarian cancer cells. Methods. Three varieties of bitter melon were used to prepare the BME. Ovarian cancer cell lines, human immortalized epithelial ovarian cells (HOSEs), and nude mice were used to evaluate the cell cytotoxicity, cisplatin resistance, and tumor inhibitory effect of BME. The molecular mechanism of BME was examined by Western blotting. Results. Cotreatment with BME and cisplatin markedly attenuated tumor growth in vitro and in vivo in a mouse xenograft model, whereas there was no observable toxicity in HOSEs or in nude mice in vivo. Interestingly, the antitumorigenic effects of BME varied with different varieties of bitter melon, suggesting that the amount of antitumorigenic substances may vary. Studies of the molecular mechanism demonstrated that BME activates AMP-activated protein kinase (AMPK) in an AMP-independent but CaMKK (Ca2+/calmodulin-dependent protein kinase)-dependent manner, exerting anticancer effects through activation of AMPK and suppression of the mTOR/p70S6K and/or the AKT/ERK/FOXM1 (Forkhead Box M1) signaling cascade. Conclusion. BME functions as a natural AMPK activator in the inhibition of ovarian cancer cell growth and might be useful as a supplement to improve the efficacy of cisplatin-based chemotherapy in ovarian cancer.",
+            "year": 2015,
+            "citation_count": 40,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the activation of AMPK by bitter melon extract and its effects on ovarian cancer cells, which builds upon the source paper's findings regarding the activation of AMPK by bitter melon triterpenoids."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Antitumor effects of baicalin on ovarian cancer cells through induction of cell apoptosis and inhibition of cell migration in vitro": {
+                    "explanation": "This paper explores the antitumor effects of baicalin on ovarian cancer cells, which is a different compound from the bitter melon extract studied in the source paper. However, both papers investigate alternative therapeutic modalities for ovarian cancer, making the hypothesis in this paper inspired by the source paper's findings.",
+                    "relevance": 1
+                },
+                "2. Effects of resveratrol, curcumin, berberine and other nutraceuticals on aging, cancer development, cancer stem cells and microRNAs": {
+                    "explanation": "This paper is a review of various natural products, including their potential anti-cancer effects. It does not specifically build upon the source paper's findings or hypothesis, and lacks novel hypotheses or findings.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Antitumor effects of baicalin on ovarian cancer cells through induction of cell apoptosis and inhibition of cell migration in vitro": {
+                    "explanation": "This paper explores the antitumor effects of baicalin on ovarian cancer cells, which is a different compound from the bitter melon extract studied in the source paper. However, both papers investigate alternative therapeutic modalities for ovarian cancer, making the hypothesis in this paper inspired by the source paper's findings.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2023,
+        "source_paper": {
+            "paperId": "16644bad355bb2ded4fcad9820d27b916e3ba60c",
+            "title": "Anticancer activity of methanolic extarct of Momordica charantia against human colon, liver and breast cancer cell lines- In vitro",
+            "abstract": "Natural products are the best source for various medicinal drugs. Regardless investigate the toxic effect of these plant extracts, the results will still unsafe and unacceptable. This study aimed to identify anti-cancer activity and cytotoxicity effect of Momordica charantia extract on different cancer cell line. Materials and Methods:to archive the aim of this study 3 different cancer cell lines (HCT116, MCF-7, and HepG2) were treated with different Momordicacharantia extract doses (from 0-100\u00b5g) for each cell line. IC 50 , cell viability,apoptosis, were evaluated. Results:The effect of Momordicacharantia extract was highly significant in HepG2 cells than HCT116 cell as well as MCF-7 which showing the IC50 of Momordicacharantia extract in HepG2 was 0.77 \u00b5g/ml while in HCT116 was 0.81\u00b5g/mland was 1.35\u00b5g/ml in MCF-7 cells respectively. Also, the effect of the Momordicacharantia extract was more potent in HCT116 compared to MCF-7 cells.Conclusions: in the light of these results Momordicacharantia extract may use as anticancer pro-drugat a specific type of cancer (Liver HepG2 cell line) but still need further studies to explore the mechanism of action that led to observe different results from different cell lines despite the same extract. Keywords: Momordicacharantia , Apoptosis, MCF-7, HepG2, HCT116.",
+            "year": 2016,
+            "citation_count": 7,
+            "relevance": 2,
+            "explanation": "This paper investigates the anticancer activity of Momordica charantia extract, which is the same plant extract studied in the source paper. However, this paper focuses on different cancer cell lines and does not directly build upon the source paper's findings on ovarian cancer. The paper's hypothesis is at least partially dependent on the previous findings regarding the anticancer properties of Momordica charantia extract."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. The Effect of Bitter Melon Extract (Momordica Charantia) On CASPASE-9 and Bcl-2 Proteins Expression": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper. The source paper investigated the anticancer activity of Momordica charantia extract against human colon, liver, and breast cancer cell lines, and this paper explores the mechanism of action of the extract on breast cancer cells by examining its effect on Caspase-9 and Bcl-2 proteins.",
+                    "relevance": 2
+                },
+                "2. The Apoptotic Potential Activity of Terminalia Brownii Extracts against Various Cancer Cell Lines": {
+                    "explanation": "This paper has no connection with the source paper, as it investigates the anticancer activity of Terminalia brownii extracts against different cancer cell lines, including HepG2, which was also used in the source paper. However, the source paper focused on Momordica charantia extract, and there is no indication that the findings of the source paper inspired or are partially dependent on the hypothesis of this paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. The Effect of Bitter Melon Extract (Momordica Charantia) On CASPASE-9 and Bcl-2 Proteins Expression": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper. The source paper investigated the anticancer activity of Momordica charantia extract against human colon, liver, and breast cancer cell lines, and this paper explores the mechanism of action of the extract on breast cancer cells by examining its effect on Caspase-9 and Bcl-2 proteins.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    }
+]

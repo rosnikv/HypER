@@ -1,0 +1,283 @@
+[
+    {
+        "year": 1988,
+        "source_paper": {
+            "paperId": "228c51c501b3baaad5cbc789076b94bbe160dd13",
+            "pmid": "3823910",
+            "title": "Pulmonary disease during the treatment of rheumatoid arthritis with low dose pulse methotrexate.",
+            "abstract": null,
+            "year": 1987,
+            "citation_count": 195
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Life threatening acute pneumonitis during low dose methotrexate treatment for rheumatoid arthritis: a case report and review of the literature.": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper. The source paper discusses pulmonary disease during the treatment of rheumatoid arthritis with low dose pulse methotrexate, and this paper explores a specific complication (acute pneumonitis) that can arise from this treatment, suggesting that the findings of the source paper are being used as a sub-hypothesis to inform this investigation.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Life threatening acute pneumonitis during low dose methotrexate treatment for rheumatoid arthritis: a case report and review of the literature.": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper. The source paper discusses pulmonary disease during the treatment of rheumatoid arthritis with low dose pulse methotrexate, and this paper explores a specific complication (acute pneumonitis) that can arise from this treatment, suggesting that the findings of the source paper are being used as a sub-hypothesis to inform this investigation.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 1989,
+        "source_paper": {
+            "paperId": "228c51c501b3baaad5cbc789076b94bbe160dd13",
+            "pmid": "3823910",
+            "title": "Pulmonary disease during the treatment of rheumatoid arthritis with low dose pulse methotrexate.",
+            "abstract": null,
+            "year": 1987,
+            "citation_count": 195
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. The use of disease modifying antirheumatic drugs in the management of rheumatoid arthritis": {
+                    "explanation": "This paper is a review of disease-modifying antirheumatic drugs, including methotrexate, and discusses their use in the management of rheumatoid arthritis. However, it does not specifically build upon the findings of the source paper, nor does it use the source paper as a sub-hypothesis.",
+                    "relevance": 0
+                },
+                "2. Electron microscopic analysis of sequential liver biopsy samples from patients with rheumatoid arthritis": {
+                    "explanation": "This paper investigates the effects of long-term methotrexate treatment on liver histology in patients with rheumatoid arthritis. Although it does not directly build upon the source paper, it explores a related aspect of methotrexate treatment, which is partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                },
+                "3. Treatment of rheumatoid arthritis": {
+                    "explanation": "This paper discusses various treatments for rheumatoid arthritis, including methotrexate, but does not specifically build upon the findings of the source paper, nor does it use the source paper as a sub-hypothesis.",
+                    "relevance": 0
+                },
+                "4. Toxicity and serum levels of methotrexate in children with juvenile rheumatoid arthritis": {
+                    "explanation": "This paper investigates the toxicity and serum levels of methotrexate in children with juvenile rheumatoid arthritis. Although it does not directly build upon the source paper, it explores a related aspect of methotrexate treatment, which is partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                },
+                "5. Toxicity of methotrexate compared with azathioprine in the treatment of rheumatoid arthritis": {
+                    "explanation": "This paper compares the toxicity of methotrexate and azathioprine in the treatment of rheumatoid arthritis. Although it does not directly build upon the source paper, it explores a related aspect of methotrexate treatment, which is partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                },
+                "6. Liver histology in rheumatoid arthritis patients receiving long-term methotrexate therapy": {
+                    "explanation": "This paper investigates the effects of long-term methotrexate treatment on liver histology in patients with rheumatoid arthritis. Although it does not directly build upon the source paper, it explores a related aspect of methotrexate treatment, which is partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Electron microscopic analysis of sequential liver biopsy samples from patients with rheumatoid arthritis": {
+                    "explanation": "This paper investigates the effects of long-term methotrexate treatment on liver histology in patients with rheumatoid arthritis. Although it does not directly build upon the source paper, it explores a related aspect of methotrexate treatment, which is partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                },
+                "2. Toxicity and serum levels of methotrexate in children with juvenile rheumatoid arthritis": {
+                    "explanation": "This paper investigates the toxicity and serum levels of methotrexate in children with juvenile rheumatoid arthritis. Although it does not directly build upon the source paper, it explores a related aspect of methotrexate treatment, which is partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                },
+                "3. Toxicity of methotrexate compared with azathioprine in the treatment of rheumatoid arthritis": {
+                    "explanation": "This paper compares the toxicity of methotrexate and azathioprine in the treatment of rheumatoid arthritis. Although it does not directly build upon the source paper, it explores a related aspect of methotrexate treatment, which is partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 1990,
+        "source_paper": {
+            "paperId": "debefb7e26f96cc38662851e6dbc1dc623e04d5d",
+            "title": "Toxicity and serum levels of methotrexate in children with juvenile rheumatoid arthritis.",
+            "abstract": "Twenty-three children with destructive polyarticular juvenile rheumatoid arthritis (JRA) were treated for 0.5-4.3 years (median 1.6 years) with weekly doses of methotrexate (MTX) (0.11-0.6 mg/kg/week). Serum levels of MTX at 1 hour and at 24 hours after drug administration were obtained at each dosage level and every 3 months after a stable dosage was achieved. No patient had serum levels of MTX that were in the toxic range nor evidence of hematologic, skin, mucous membrane, gastrointestinal, or pulmonary abnormalities. Ten patients had transiently elevated serum transaminase levels. Arthritis symptoms improved in 21 of these JRA patients, and the improvement was significantly associated with a mean 1-hour serum MTX level of greater than or equal to 5.8 x 10(-7)M (P = 0.008) and a dosage of greater than or equal to 0.3 mg/kg/week (P = 0.004). The 1-hour serum level of MTX was correlated with the MTX dosage (r = 0.28, P = 0.005). Our observations suggest that with close monitoring, MTX can be used safely at dosages as high as 0.6 mg/kg/week, and improvement in the symptoms of JRA will become evident when the serum levels of MTX 1 hour after administration approach 6.0 x 10(-7)M.",
+            "year": 1989,
+            "citation_count": 101,
+            "relevance": 2,
+            "explanation": "This paper investigates the toxicity and serum levels of methotrexate in children with juvenile rheumatoid arthritis. Although it does not directly build upon the source paper, it explores a related aspect of methotrexate treatment, which is partially dependent on the findings of the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Safety and efficacy therapy for juvenile of methotrexate rheumatoid arthritis": {
+                    "explanation": "The key hypothesis in this paper is inspired by the findings of the source paper. The source paper explores the toxicity and serum levels of methotrexate in children with juvenile rheumatoid arthritis, and this paper builds upon those findings to determine the safety and efficacy of methotrexate therapy in a similar population.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Safety and efficacy therapy for juvenile of methotrexate rheumatoid arthritis": {
+                    "explanation": "The key hypothesis in this paper is inspired by the findings of the source paper. The source paper explores the toxicity and serum levels of methotrexate in children with juvenile rheumatoid arthritis, and this paper builds upon those findings to determine the safety and efficacy of methotrexate therapy in a similar population.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2007,
+        "source_paper": {
+            "paperId": "acaafd5ba0e490266e892484c632f43ddbc08ab8",
+            "title": "Safety and efficacy therapy for juvenile of methotrexate rheumatoid arthritis",
+            "abstract": "Twenty-nine children with juvenile rheumatoid arthritis were studied to determine the safety and efficacy of methotrexate therapy. The initial dose of methotrexate averaged 7.1 mg/m2/wk and was given as a single, oral weekly dose or as three divided doses, each separated by 12 hours. Current antiinflammatory medications were continued; 25 of 29 children had had lack of efficacy, and 8 of 29 had toxic effects, with one or more prior drugs such as intramuscularly or orally administered gold, hydroxychloroquine, or D-penlcillamine. Intolerable corticosteroid dependency or toxic effects were present in 18 of 29 cases. Methotrexate-treated patients were examined monthly; minimum treatment duration required to assess efficacy and toxicity was 6 months. The range of treatment duration was 8 to 39 months (mean 18.5 months). Efficacy was assessed by comparing pretreatment versus posttreatment fever and rash, swollen-joint counts, articular indexes, duration of morning stiffness, functional class, hemoglobin levels, and platelet counts. Treatment with methotrexate effectively controlled fever and rash in 83% of children with systemic juvenile rheumatoid arthritis, reduced morning stiffness by 63%, eliminated recalcitrant joint restriction in 48%, and reduced numbers of swollen joints and swelling indexes by 46% and 52%, respectively. No significant toxic effects were observed. Juvenile rheumatoid arthritis of long duration, or with major erosions, was more likely to be refractory to methotrexate therapy. We recommend earlier consideration of methotrexate in place of other slow-acting antirheumatic drugs for juvenile rheumatoid arthritis not responding well to usual therapy. Future studies should address potential methotrexate toxic effects in the lungs and reproductive system, as well as outcome after discontinuation of methotrexate treatment. (J PEDIATR 1990;117:653-9)",
+            "year": 1990,
+            "citation_count": 1,
+            "relevance": 1,
+            "explanation": "The key hypothesis in this paper is inspired by the findings of the source paper. The source paper explores the toxicity and serum levels of methotrexate in children with juvenile rheumatoid arthritis, and this paper builds upon those findings to determine the safety and efficacy of methotrexate therapy in a similar population."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Methotrexate/naproxen-associated severe hepatitis in a child with juvenile idiopathic arthritis": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper as it discusses the safety and potential toxic effects of methotrexate therapy in children with juvenile idiopathic arthritis, which is the same condition and treatment explored in the source paper. The source paper's findings on the efficacy and safety of methotrexate serve as a sub-hypothesis for this paper's investigation into rare but severe liver toxicity associated with methotrexate and naproxen therapy.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Methotrexate/naproxen-associated severe hepatitis in a child with juvenile idiopathic arthritis": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper as it discusses the safety and potential toxic effects of methotrexate therapy in children with juvenile idiopathic arthritis, which is the same condition and treatment explored in the source paper. The source paper's findings on the efficacy and safety of methotrexate serve as a sub-hypothesis for this paper's investigation into rare but severe liver toxicity associated with methotrexate and naproxen therapy.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2011,
+        "source_paper": {
+            "paperId": "e782c7e472823d6a4ff337ddbeb4b1ca37955981",
+            "title": "Methotrexate/naproxen-associated severe hepatitis in a child with juvenile idiopathic arthritis.",
+            "abstract": "Methotrexate (MTX) is a cornerstone in the treatment of juvenile idiopathic arthritis (JIA). Although associated with many mild adverse effects, the short and long-term safety of MTX in JIA has been excellent. While many JIA children treated with MTX develop liver enzyme abnormalities, no cases of irreversible liver damage or of severe non-infectious hepatitis with Reye-like features have been reported in non-systemic JIA. We report a 2-year-old girl with oligoarthritis whose liver enzyme increased to greater than 45 times the upper limit of normal, and developed hypoglycemia and hyperammonemia after 10 months of MTX and naproxen therapy. An infectious and metabolic work-up for other causes was unremarkable. She recovered completely after folinic acid therapy; MTX and naproxen was not restarted. While very rare in JIA, MTX in synergism with naproxen can induce severe liver toxicity and it is important to screen children for liver enzyme abnormalities.",
+            "year": 2007,
+            "citation_count": 6,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper as it discusses the safety and potential toxic effects of methotrexate therapy in children with juvenile idiopathic arthritis, which is the same condition and treatment explored in the source paper. The source paper's findings on the efficacy and safety of methotrexate serve as a sub-hypothesis for this paper's investigation into rare but severe liver toxicity associated with methotrexate and naproxen therapy."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Nutritional supplementation and dietary restriction in the resolution of enthesitis-related arthritis": {
+                    "explanation": "This paper does not appear to be connected to the source paper. The source paper discusses a case of severe hepatitis associated with methotrexate and naproxen therapy in a child with juvenile idiopathic arthritis, while this paper presents a case of enthesitis-related arthritis and its management through nutritional supplementation and dietary restriction. There is no apparent link between the two papers' hypotheses or findings.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2011,
+        "source_paper": {
+            "paperId": "e782c7e472823d6a4ff337ddbeb4b1ca37955981",
+            "title": "Methotrexate/naproxen-associated severe hepatitis in a child with juvenile idiopathic arthritis.",
+            "abstract": "Methotrexate (MTX) is a cornerstone in the treatment of juvenile idiopathic arthritis (JIA). Although associated with many mild adverse effects, the short and long-term safety of MTX in JIA has been excellent. While many JIA children treated with MTX develop liver enzyme abnormalities, no cases of irreversible liver damage or of severe non-infectious hepatitis with Reye-like features have been reported in non-systemic JIA. We report a 2-year-old girl with oligoarthritis whose liver enzyme increased to greater than 45 times the upper limit of normal, and developed hypoglycemia and hyperammonemia after 10 months of MTX and naproxen therapy. An infectious and metabolic work-up for other causes was unremarkable. She recovered completely after folinic acid therapy; MTX and naproxen was not restarted. While very rare in JIA, MTX in synergism with naproxen can induce severe liver toxicity and it is important to screen children for liver enzyme abnormalities.",
+            "year": 2007,
+            "citation_count": 6,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper as it discusses the safety and potential toxic effects of methotrexate therapy in children with juvenile idiopathic arthritis, which is the same condition and treatment explored in the source paper. The source paper's findings on the efficacy and safety of methotrexate serve as a sub-hypothesis for this paper's investigation into rare but severe liver toxicity associated with methotrexate and naproxen therapy."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Nutritional supplementation and dietary restriction in the resolution of enthesitis-related arthritis": {
+                    "explanation": "This paper has no connection with the source paper as it discusses a different topic (enthesitis-related arthritis) and management approach (nutritional supplementation and dietary restriction) unrelated to the source paper's focus on methotrexate and naproxen-associated severe hepatitis in a child with juvenile idiopathic arthritis.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2015,
+        "source_paper": {
+            "paperId": "e782c7e472823d6a4ff337ddbeb4b1ca37955981",
+            "title": "Methotrexate/naproxen-associated severe hepatitis in a child with juvenile idiopathic arthritis.",
+            "abstract": "Methotrexate (MTX) is a cornerstone in the treatment of juvenile idiopathic arthritis (JIA). Although associated with many mild adverse effects, the short and long-term safety of MTX in JIA has been excellent. While many JIA children treated with MTX develop liver enzyme abnormalities, no cases of irreversible liver damage or of severe non-infectious hepatitis with Reye-like features have been reported in non-systemic JIA. We report a 2-year-old girl with oligoarthritis whose liver enzyme increased to greater than 45 times the upper limit of normal, and developed hypoglycemia and hyperammonemia after 10 months of MTX and naproxen therapy. An infectious and metabolic work-up for other causes was unremarkable. She recovered completely after folinic acid therapy; MTX and naproxen was not restarted. While very rare in JIA, MTX in synergism with naproxen can induce severe liver toxicity and it is important to screen children for liver enzyme abnormalities.",
+            "year": 2007,
+            "citation_count": 6,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper as it discusses the safety and potential toxic effects of methotrexate therapy in children with juvenile idiopathic arthritis, which is the same condition and treatment explored in the source paper. The source paper's findings on the efficacy and safety of methotrexate serve as a sub-hypothesis for this paper's investigation into rare but severe liver toxicity associated with methotrexate and naproxen therapy."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Liver involvement in children with collagen vascular diseases": {
+                    "explanation": "This paper discusses liver involvement in children with collagen vascular diseases, which is related to the source paper's topic of severe hepatitis in a child with juvenile idiopathic arthritis. However, the paper does not build upon the source paper's findings or use them as a sub-hypothesis, but rather provides a broader overview of liver involvement in children with collagen vascular diseases.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Liver involvement in children with collagen vascular diseases": {
+                    "explanation": "This paper discusses liver involvement in children with collagen vascular diseases, which is related to the source paper's topic of severe hepatitis in a child with juvenile idiopathic arthritis. However, the paper does not build upon the source paper's findings or use them as a sub-hypothesis, but rather provides a broader overview of liver involvement in children with collagen vascular diseases.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2021,
+        "source_paper": {
+            "paperId": "9d41585a1c6ec96eea37bebc1216ad7ffa273d4b",
+            "title": "Liver involvement in children with collagen vascular diseases",
+            "abstract": "Liver injury such as hepatomegaly, splenomegaly and various degrees of biochemical abnormalities are quite common in children with collagen vascular diseases. They may be primary or secondary, particularly due to drug therapy (drug toxicity, fatty infiltration), superadded infections, diabetes or overlap with autoimmune hepatitis.",
+            "year": 2015,
+            "citation_count": 5,
+            "relevance": 1,
+            "explanation": "This paper discusses liver involvement in children with collagen vascular diseases, which is related to the source paper's topic of severe hepatitis in a child with juvenile idiopathic arthritis. However, the paper does not build upon the source paper's findings or use them as a sub-hypothesis, but rather provides a broader overview of liver involvement in children with collagen vascular diseases."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Incidence of Chronic Immune-Mediated Inflammatory Diseases After Diagnosis with Kawasaki Disease: A Population-Based Cohort Study": {
+                    "explanation": "The source paper discusses liver involvement in children with collagen vascular diseases, while this paper investigates the incidence of immune-mediated inflammatory diseases, including autoimmune liver disease, after a diagnosis with Kawasaki disease. Although the focus is different, this paper touches on a related topic, specifically the liver disease aspect, which is partially dependent on the source paper's findings regarding liver involvement in collagen vascular diseases.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Incidence of Chronic Immune-Mediated Inflammatory Diseases After Diagnosis with Kawasaki Disease: A Population-Based Cohort Study": {
+                    "explanation": "The source paper discusses liver involvement in children with collagen vascular diseases, while this paper investigates the incidence of immune-mediated inflammatory diseases, including autoimmune liver disease, after a diagnosis with Kawasaki disease. Although the focus is different, this paper touches on a related topic, specifically the liver disease aspect, which is partially dependent on the source paper's findings regarding liver involvement in collagen vascular diseases.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2022,
+        "source_paper": {
+            "paperId": "996dce7bc1a5bc5c5cd2f5de6f38cd7c07c36d1c",
+            "title": "Incidence of Chronic Immune-Mediated Inflammatory Diseases After Diagnosis with Kawasaki Disease: A Population-Based Cohort Study.",
+            "abstract": "OBJECTIVES\nKawasaki disease (kDa) is an immune-mediated vasculitis of childhood with multi-organ inflammation. We determined the risk of subsequent immune-mediated inflammatory disease (IMID), including arthritis, type 1 diabetes, inflammatory bowel disease (IBD), autoimmune liver disease (ALD), primary sclerosing cholangitis (PSC) and multiple sclerosis (MS).\n\n\nMETHODS\nWe conducted a matched population-based cohort study using health administrative data from Ontario, Canada. Children aged <18\u2009years born between 1991-2016 diagnosed with kDa (n\u2009=\u20093,753) were matched to 5 non-kDa controls from the general population (n\u2009=\u200918\u2009749). We determined the incidence of IMIDs after resolution of kDa. Three- and 12-month washout periods were used to exclude kDa-related symptoms.\n\n\nRESULTS\nThere was an elevated risk of arthritis in kDa patients compared with non-kDa controls starting three months after index date (103.0 vs 12.7 per 100\u2009000 person-years (PYs); incidence rate ratio (IRR) 8.07 (95% CI 4.95-13.2); hazard ratio (HR) 8.08 (95% CI 4.95-13.2), resulting in the overall incidence of IMIDs being elevated in kDa patients (175.1 vs 68.0 per 100\u2009000 PYs; IRR 2.58 (95% CI 1.93-3.43); HR 2.58, 95% CI 1.94-3.43). However, there was no increased risk for diabetes, IBD, ALD, PSC or MS in kDa patients. Similar results were observed using a 12-month washout period.\n\n\nCONCLUSIONS\nChildren diagnosed with kDa were at increased risk of arthritis following the acute kDa event, but not other IMIDs. Health care providers should monitor for arthritis in children following a diagnosis of kDa.",
+            "year": 2021,
+            "citation_count": 2,
+            "relevance": 2,
+            "explanation": "The source paper discusses liver involvement in children with collagen vascular diseases, while this paper investigates the incidence of immune-mediated inflammatory diseases, including autoimmune liver disease, after a diagnosis with Kawasaki disease. Although the focus is different, this paper touches on a related topic, specifically the liver disease aspect, which is partially dependent on the source paper's findings regarding liver involvement in collagen vascular diseases."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Impact of Kawasaki disease on juvenile idiopathic arthritis in real-world patients: A population-based cohort study": {
+                    "explanation": "This paper is at least partially dependent on the findings of the source paper, as it investigates the relationship between Kawasaki disease (KD) and juvenile idiopathic arthritis (JIA), which is one of the immune-mediated inflammatory diseases (IMIDs) mentioned in the source paper. The source paper found an increased risk of arthritis in KD patients, and this paper explores this association further.",
+                    "relevance": 2
+                },
+                "2. Upregulated Expression of IL2RB Causes Disorder of Immune Microenvironment in Patients with Kawasaki Disease": {
+                    "explanation": "This paper is not directly dependent on the findings of the source paper, but rather explores a different aspect of Kawasaki disease (KD). The source paper focused on the risk of IMIDs after KD, while this paper investigates the potential diagnostic markers and therapeutic targets for KD. However, the paper's findings on the immune microenvironment in KD patients could be indirectly related to the source paper's findings on the increased risk of IMIDs.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Impact of Kawasaki disease on juvenile idiopathic arthritis in real-world patients: A population-based cohort study": {
+                    "explanation": "This paper is at least partially dependent on the findings of the source paper, as it investigates the relationship between Kawasaki disease (KD) and juvenile idiopathic arthritis (JIA), which is one of the immune-mediated inflammatory diseases (IMIDs) mentioned in the source paper. The source paper found an increased risk of arthritis in KD patients, and this paper explores this association further.",
+                    "relevance": 2
+                },
+                "2. Upregulated Expression of IL2RB Causes Disorder of Immune Microenvironment in Patients with Kawasaki Disease": {
+                    "explanation": "This paper is not directly dependent on the findings of the source paper, but rather explores a different aspect of Kawasaki disease (KD). The source paper focused on the risk of IMIDs after KD, while this paper investigates the potential diagnostic markers and therapeutic targets for KD. However, the paper's findings on the immune microenvironment in KD patients could be indirectly related to the source paper's findings on the increased risk of IMIDs.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2023,
+        "source_paper": {
+            "paperId": "2c5d8c59c595f08e59e3ea1dcce82f57159683ca",
+            "title": "Impact of Kawasaki disease on juvenile idiopathic arthritis in real-world patients: A population-based cohort study",
+            "abstract": "Objectives Recent research has demonstrated the commonality of several biological markers between Kawasaki disease (KD) and juvenile idiopathic arthritis (JIA), including interleukin-1\u03b2 and -6. Therefore, in this cohort study, we assessed whether KD increases the risk of JIA. Methods This study enrolled 7009 patients with and 56 072 individuals without KD in the period 2010\u20132018 from Taiwan\u2019s National Health Insurance Research Database. On the basis of sex, age, and comorbidities, we executed propensity score matching at the ratio 1:8. The adjusted hazard ratio (aHR) for JIA was determined through multiple Cox regression. Stratified analysis and sensitivity tests were also employed. Results When adjusting for age, sex, and comorbidities, the JIA risk was noted to be 2.02-fold greater in children with KD than it was in those without (aHR: 2.02, 95% confidence interval: 1.12\u20133.67, p = 0.0205). The sensitivity test and subgroup analysis obtained consistent findings in the different sex and comorbidity subgroups. Conclusion Children\u2019s risk of JIA is higher if they have KD. Pediatricians should consider the possibility of JIA in this population. More investigations are necessary to identify the pathological mechanisms that link JIA and KD.",
+            "year": 2022,
+            "citation_count": 3,
+            "relevance": 2,
+            "explanation": "This paper is at least partially dependent on the findings of the source paper, as it investigates the relationship between Kawasaki disease (KD) and juvenile idiopathic arthritis (JIA), which is one of the immune-mediated inflammatory diseases (IMIDs) mentioned in the source paper. The source paper found an increased risk of arthritis in KD patients, and this paper explores this association further."
+        },
+        "llama_output": {},
+        "seed": 42
+    }
+]

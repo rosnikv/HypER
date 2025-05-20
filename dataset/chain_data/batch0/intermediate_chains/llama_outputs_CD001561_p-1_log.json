@@ -1,0 +1,668 @@
+[
+    {
+        "year": 2004,
+        "source_paper": {
+            "paperId": "f22953d8b09b12ca7fc4b23173ceb22befefb9fd",
+            "pmid": "12657339",
+            "title": "Effect of individual counseling on physical activity fitness and health: a randomized controlled trial in a workplace setting.",
+            "abstract": null,
+            "year": 2003,
+            "citation_count": 151
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Demonstration of an E-mailed Worksite Nutrition Intervention Program": {
+                    "explanation": "This paper has no direct connection with the source paper, as it focuses on a nutrition intervention program rather than physical activity, fitness, and health. However, both papers are related to workplace interventions, which is a common theme.",
+                    "relevance": 0
+                },
+                "2. Worksite health promotion using individual counselling and the effectiveness on sick leave; results of a randomised controlled trial": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it also investigates the effectiveness of individual counseling in a workplace setting, albeit with a focus on sick leave rather than physical activity, fitness, and health.",
+                    "relevance": 2
+                },
+                "3. Physical activity interventions in the workplace: a review and future for New Zealand research": {
+                    "explanation": "This paper is a review paper that discusses the worksite physical activity intervention literature, including the findings of the source paper. However, it does not present new research or findings that build upon the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Worksite health promotion using individual counselling and the effectiveness on sick leave; results of a randomised controlled trial": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it also investigates the effectiveness of individual counseling in a workplace setting, albeit with a focus on sick leave rather than physical activity, fitness, and health.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2005,
+        "source_paper": {
+            "paperId": "f22953d8b09b12ca7fc4b23173ceb22befefb9fd",
+            "pmid": "12657339",
+            "title": "Effect of individual counseling on physical activity fitness and health: a randomized controlled trial in a workplace setting.",
+            "abstract": null,
+            "year": 2003,
+            "citation_count": 151
+        },
+        "llama_output": {},
+        "seed": 42
+    },
+    {
+        "year": 2006,
+        "source_paper": {
+            "paperId": "3c1ba67974b7da92e29ecfb9c351bc8428a4bea2",
+            "title": "Worksite health promotion using individual counselling and the effectiveness on sick leave; results of a randomised controlled trial",
+            "abstract": "Aims: To investigate the effectiveness of a worksite health promotion programme by individual counselling on sick leave. Methods: Three municipal services of Enschede, the Netherlands, participated in this trial. A total of 299 civil servants were measured at baseline and were randomised by cluster into the intervention (n\u200a=\u200a131) or the control group (n\u200a=\u200a168). During nine months, subjects in the intervention group received a total of seven consultations, particularly aimed at increasing their physical activity level and improving their dietary habits. Both the intervention and the control subjects received written information as to several lifestyle factors. Sick leave data regarding the nine month intervention period (from May until January) were collected from each municipal service\u2019s personnel department. In addition, sick leave data concerning the nine month period pre- and post-intervention were collected. Sick leave data were analysed using multilevel analysis. Results: For both groups, the mean sick leave rate during the intervention increased compared to before the intervention. After the intervention period, the control group increased even more (from 22.9 to 27.6 days), whereas the intervention group slightly decreased (from 21.5 to 20.5 days). Median values of sick leave rate decreased for both groups. No statistically significant intervention effect was found. In both groups, the mean sick leave frequency slightly decreased over time (intervention effects were not significant). Conclusions: Results showed no significant effect of individual counselling on sick leave. Continued research investigating the effectiveness of this individual counselling programme on several health related outcomes is useful to clarify the trend observed in sick leave.",
+            "year": 2004,
+            "citation_count": 39,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it also investigates the effectiveness of individual counseling in a workplace setting, albeit with a focus on sick leave rather than physical activity, fitness, and health."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Reducing sick leave by minimal postal intervention: a randomised, controlled intervention study": {
+                    "explanation": "This paper explores an alternative approach to reducing sick leave, which is not directly related to the source paper's focus on worksite health promotion using individual counselling. However, both papers deal with interventions aimed at reducing sick leave, making the hypothesis in this paper partially dependent on the general idea of the source paper.",
+                    "relevance": 1
+                },
+                "2. Dose\u2013response relation between physical activity and sick leave": {
+                    "explanation": "The hypothesis in this paper is inspired by the source paper's aim to increase physical activity levels through individual counselling. This paper investigates the dose-response relation between physical activity and sick leave, which is a more specific aspect of the source paper's broader goal.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Reducing sick leave by minimal postal intervention: a randomised, controlled intervention study": {
+                    "explanation": "This paper explores an alternative approach to reducing sick leave, which is not directly related to the source paper's focus on worksite health promotion using individual counselling. However, both papers deal with interventions aimed at reducing sick leave, making the hypothesis in this paper partially dependent on the general idea of the source paper.",
+                    "relevance": 1
+                },
+                "2. Dose\u2013response relation between physical activity and sick leave": {
+                    "explanation": "The hypothesis in this paper is inspired by the source paper's aim to increase physical activity levels through individual counselling. This paper investigates the dose-response relation between physical activity and sick leave, which is a more specific aspect of the source paper's broader goal.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2007,
+        "source_paper": {
+            "paperId": "1eda432bbdf37d7b5044dffc66d95ba0065d8da6",
+            "title": "Dose\u2013response relation between physical activity and sick leave",
+            "abstract": "Objective: To investigate the dose\u2013response relation between moderate and vigorous physical activity and sick leave in a working population. Methods: Data were used from three large Dutch databases: two continuous, cross sectional surveys among a representative sample of the Dutch population and one prospective cohort study. A distinction was made between duration, frequency and intensity of physical activity. The outcome measure was the number of days of sick leave. Analyses of variance were used to compare sick leave (in days) for workers with different amounts of physical activity, in particular workers meeting the physical activity recommendations v those who did not. Linear and logistic regression analyses were used to obtain effect estimates in the prospective cohort study, with the generalised estimating equation (GEE) method. Results: No relation was found between moderate physical activity and sick leave. In two databases, workers meeting the recommendation of vigorous physical activity (active at a vigorous level for at least three times a week) had significantly less sick leave: more than one day over two months and more than four days over a year. The duration of vigorous physical activity was not associated with sick leave. Conclusion: Physical activity at a vigorous intensity level for at least three times a week, as in the CDC/ACSM recommendation, has a positive effect on sick leave.",
+            "year": 2006,
+            "citation_count": 114,
+            "relevance": 1,
+            "explanation": "The hypothesis in this paper is inspired by the source paper's aim to increase physical activity levels through individual counselling. This paper investigates the dose-response relation between physical activity and sick leave, which is a more specific aspect of the source paper's broader goal."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Physical Activity, Cardiorespiratory Fitness, and Body Mass Index in Relationship to Work Productivity and Sickness Absence in Computer Workers With Preexisting Neck and Upper Limb Symptoms": {
+                    "explanation": "This paper explores the relationship between physical activity and sickness absence, which is also the main topic of the source paper. However, it focuses on a specific population (computer workers with preexisting neck and upper limb symptoms) and examines additional factors (cardiorespiratory fitness and body mass index). The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the association between physical activity and sickness absence in a more specific context.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Physical Activity, Cardiorespiratory Fitness, and Body Mass Index in Relationship to Work Productivity and Sickness Absence in Computer Workers With Preexisting Neck and Upper Limb Symptoms": {
+                    "explanation": "This paper explores the relationship between physical activity and sickness absence, which is also the main topic of the source paper. However, it focuses on a specific population (computer workers with preexisting neck and upper limb symptoms) and examines additional factors (cardiorespiratory fitness and body mass index). The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the association between physical activity and sickness absence in a more specific context.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2008,
+        "source_paper": {
+            "paperId": "1eda432bbdf37d7b5044dffc66d95ba0065d8da6",
+            "title": "Dose\u2013response relation between physical activity and sick leave",
+            "abstract": "Objective: To investigate the dose\u2013response relation between moderate and vigorous physical activity and sick leave in a working population. Methods: Data were used from three large Dutch databases: two continuous, cross sectional surveys among a representative sample of the Dutch population and one prospective cohort study. A distinction was made between duration, frequency and intensity of physical activity. The outcome measure was the number of days of sick leave. Analyses of variance were used to compare sick leave (in days) for workers with different amounts of physical activity, in particular workers meeting the physical activity recommendations v those who did not. Linear and logistic regression analyses were used to obtain effect estimates in the prospective cohort study, with the generalised estimating equation (GEE) method. Results: No relation was found between moderate physical activity and sick leave. In two databases, workers meeting the recommendation of vigorous physical activity (active at a vigorous level for at least three times a week) had significantly less sick leave: more than one day over two months and more than four days over a year. The duration of vigorous physical activity was not associated with sick leave. Conclusion: Physical activity at a vigorous intensity level for at least three times a week, as in the CDC/ACSM recommendation, has a positive effect on sick leave.",
+            "year": 2006,
+            "citation_count": 114,
+            "relevance": 1,
+            "explanation": "The hypothesis in this paper is inspired by the source paper's aim to increase physical activity levels through individual counselling. This paper investigates the dose-response relation between physical activity and sick leave, which is a more specific aspect of the source paper's broader goal."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Physical fitness, BMI and sickness absence in male military personnel": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it explores the association between physical fitness, BMI, and sickness absence. Although it does not directly build on the source paper's hypothesis, it uses similar concepts and measures, such as sickness absence, to investigate a related research question.",
+                    "relevance": 2
+                },
+                "2. One-year randomized controlled trial with different physical-activity programs to reduce musculoskeletal symptoms in the neck and shoulders among office workers": {
+                    "explanation": "The key hypothesis in this paper is inspired by the hypothesis of the source paper, as it investigates the effect of physical-activity interventions on work-related outcomes, such as sick leave. However, the focus on musculoskeletal symptoms and office workers makes it a distinct research question.",
+                    "relevance": 1
+                },
+                "3. Effectiveness and economic impact of worksite interventions to promote physical activity and healthy diet": {
+                    "explanation": "This paper has no direct connection with the source paper, as it is a review paper that discusses the effectiveness and economic impact of worksite interventions to promote physical activity and healthy diet. It does not present novel findings or hypotheses that build on the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Physical fitness, BMI and sickness absence in male military personnel": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it explores the association between physical fitness, BMI, and sickness absence. Although it does not directly build on the source paper's hypothesis, it uses similar concepts and measures, such as sickness absence, to investigate a related research question.",
+                    "relevance": 2
+                },
+                "2. One-year randomized controlled trial with different physical-activity programs to reduce musculoskeletal symptoms in the neck and shoulders among office workers": {
+                    "explanation": "The key hypothesis in this paper is inspired by the hypothesis of the source paper, as it investigates the effect of physical-activity interventions on work-related outcomes, such as sick leave. However, the focus on musculoskeletal symptoms and office workers makes it a distinct research question.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2009,
+        "source_paper": {
+            "paperId": "523c3ef34c155e20222ded44c2bd058be57ac25d",
+            "title": "Physical fitness, BMI and sickness absence in male military personnel.",
+            "abstract": "BACKGROUND\nIn modern society, decreased physical activity and/or changes in quality and quantity of nutritional intake contribute to obesity and lifestyle diseases that result in economic costs, both to society and to individuals.\n\n\nAIMS\nTo measure physical fitness and body mass index (BMI) and to assess their association with sickness absence in male soldiers.\n\n\nMETHODS\nData regarding BMI and physical fitness (aerobic endurance and muscle fitness) were collected for male Finnish military personnel and combined with sickness absence data collected in the year 2004. The duration and costs of sickness absence were obtained from the personnel administration.\n\n\nRESULTS\nA total of 7179 male military personnel (mean age 37, range 18-59; mean BMI 26.0, range 17-50) participated. There were large inter-individual variations in physical fitness and body mass. The group with the longest sickness absences (>7 days) exhibited lower muscle fitness in three of four tests and shorter running distance compared to the groups with shorter sickness absence (P < 0.001). In addition, high BMI, poor muscle fitness and poor aerobic endurance were associated with increased sickness absence.\n\n\nCONCLUSIONS\nThe present results showed that poor muscle fitness and endurance as well as high BMI are risk factors for productivity loss causing additional costs for the employer. Therefore, workers at a greater risk should be offered more multifaceted information about potential health risks, as well as motivational support to improve their lifestyle.",
+            "year": 2008,
+            "citation_count": 112,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it explores the association between physical fitness, BMI, and sickness absence. Although it does not directly build on the source paper's hypothesis, it uses similar concepts and measures, such as sickness absence, to investigate a related research question."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. The obesity epidemic: implications for recruitment and retention of defence force personnel": {
+                    "explanation": "This paper is a review paper that explores the impact of obesity on suitability for employment in defence force careers. It does not present a novel hypothesis or findings that are directly connected to the source paper.",
+                    "relevance": 0
+                },
+                "2. Increased risk of lost workdays prior to the diagnosis of sleep apnea": {
+                    "explanation": "The hypothesis in this paper is not directly connected to the source paper. While both papers discuss sickness absence, this paper focuses on the impact of sleep apnea on work disability, which is not related to the source paper's findings on physical fitness and BMI.",
+                    "relevance": 0
+                },
+                "3. The impact of physical activity on sickness absence": {
+                    "explanation": "The key hypothesis in this paper is inspired by the findings of the source paper. Both papers investigate the relationship between physical activity and sickness absence, suggesting that physical activity is associated with reduced risk of sickness absence.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. The impact of physical activity on sickness absence": {
+                    "explanation": "The key hypothesis in this paper is inspired by the findings of the source paper. Both papers investigate the relationship between physical activity and sickness absence, suggesting that physical activity is associated with reduced risk of sickness absence.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2010,
+        "source_paper": {
+            "paperId": "523c3ef34c155e20222ded44c2bd058be57ac25d",
+            "title": "Physical fitness, BMI and sickness absence in male military personnel.",
+            "abstract": "BACKGROUND\nIn modern society, decreased physical activity and/or changes in quality and quantity of nutritional intake contribute to obesity and lifestyle diseases that result in economic costs, both to society and to individuals.\n\n\nAIMS\nTo measure physical fitness and body mass index (BMI) and to assess their association with sickness absence in male soldiers.\n\n\nMETHODS\nData regarding BMI and physical fitness (aerobic endurance and muscle fitness) were collected for male Finnish military personnel and combined with sickness absence data collected in the year 2004. The duration and costs of sickness absence were obtained from the personnel administration.\n\n\nRESULTS\nA total of 7179 male military personnel (mean age 37, range 18-59; mean BMI 26.0, range 17-50) participated. There were large inter-individual variations in physical fitness and body mass. The group with the longest sickness absences (>7 days) exhibited lower muscle fitness in three of four tests and shorter running distance compared to the groups with shorter sickness absence (P < 0.001). In addition, high BMI, poor muscle fitness and poor aerobic endurance were associated with increased sickness absence.\n\n\nCONCLUSIONS\nThe present results showed that poor muscle fitness and endurance as well as high BMI are risk factors for productivity loss causing additional costs for the employer. Therefore, workers at a greater risk should be offered more multifaceted information about potential health risks, as well as motivational support to improve their lifestyle.",
+            "year": 2008,
+            "citation_count": 112,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it explores the association between physical fitness, BMI, and sickness absence. Although it does not directly build on the source paper's hypothesis, it uses similar concepts and measures, such as sickness absence, to investigate a related research question."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. A job-related fitness test for the Dutch police": {
+                    "explanation": "This paper explores the relationship between physical fitness, BMI, and job performance in police officers, which is related to the source paper's investigation of physical fitness, BMI, and sickness absence in male military personnel. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. A job-related fitness test for the Dutch police": {
+                    "explanation": "This paper explores the relationship between physical fitness, BMI, and job performance in police officers, which is related to the source paper's investigation of physical fitness, BMI, and sickness absence in male military personnel. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2011,
+        "source_paper": {
+            "paperId": "24448b2d3939c78d1f86aa25407ce4aae4506108",
+            "title": "The impact of physical activity on sickness absence",
+            "abstract": "The aim of this study was to examine whether the volume and intensity of physical activity are associated with subsequent sickness absence spells of different lengths, and how much of these associations can be explained by socioeconomic position, body mass index (BMI) and physical health functioning. Baseline data were collected by questionnaire surveys in 2000\u20132002 among 40\u201360\u2010year\u2010old employees of Helsinki City (n=6465, 79% women). Sickness absence data were derived from the employer's registers (mean follow\u2010up time 3.9 years). Associations of physical activity with shorter (\u226414 days) and longer (>14 days) sickness absence spells were examined, using Poisson's regression analysis. The volume of physical activity was weakly and somewhat inconsistently associated with sickness absence. However, men and women who were vigorously active systematically had reduced risk of sickness absence, whereas the same volume of moderately intensive physical activity did not reduce the risk of sickness absence. Adjusting for BMI and in particular physical health functioning attenuated these associations, after which the associations lost statistical significance. The results suggest that vigorous physical activity is associated with sickness absence and may contribute to better work ability.",
+            "year": 2009,
+            "citation_count": 85,
+            "relevance": 1,
+            "explanation": "The key hypothesis in this paper is inspired by the findings of the source paper. Both papers investigate the relationship between physical activity and sickness absence, suggesting that physical activity is associated with reduced risk of sickness absence."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Impact of aerobic fitness on musculoskeletal sickness absence 5\u201315\u2005years later: a cohort study of 227\u2008201 male Norwegian employees": {
+                    "explanation": "This paper explores the association between aerobic fitness and musculoskeletal sickness absence, which is related to the source paper's topic of physical activity and sickness absence. However, the specific focus on aerobic fitness and musculoskeletal sickness absence makes it only partially dependent on the source paper's findings.",
+                    "relevance": 1
+                },
+                "2. Association of sleep duration with weight and weight gain: a prospective follow\u2010up study": {
+                    "explanation": "This paper examines the association between sleep duration and weight gain, which is not directly related to the source paper's topic of physical activity and sickness absence. Therefore, it has no connection to the source paper.",
+                    "relevance": 0
+                },
+                "3. The health paradox of occupational and leisure-time physical activity": {
+                    "explanation": "This paper explores the opposing effects of occupational and leisure-time physical activity on sickness absence, which is directly related to the source paper's topic of physical activity and sickness absence. The findings in this paper are at least partially dependent on the source paper's results, making it a relevant paper.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. The health paradox of occupational and leisure-time physical activity": {
+                    "explanation": "This paper explores the opposing effects of occupational and leisure-time physical activity on sickness absence, which is directly related to the source paper's topic of physical activity and sickness absence. The findings in this paper are at least partially dependent on the source paper's results, making it a relevant paper.",
+                    "relevance": 2
+                },
+                "2. Impact of aerobic fitness on musculoskeletal sickness absence 5\u201315\u2005years later: a cohort study of 227\u2008201 male Norwegian employees": {
+                    "explanation": "This paper explores the association between aerobic fitness and musculoskeletal sickness absence, which is related to the source paper's topic of physical activity and sickness absence. However, the specific focus on aerobic fitness and musculoskeletal sickness absence makes it only partially dependent on the source paper's findings.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2012,
+        "source_paper": {
+            "paperId": "aa7c5aec66d01f12795cbd76b834b9bc9ae7f725",
+            "title": "The health paradox of occupational and leisure-time physical activity",
+            "abstract": "Background Occupational and leisure-time physical activity are considered to provide similar health benefits. The authors tested this hypothesis. Methods A representative sample of Danish employees (n=7144, 52% females) reported levels of occupational and leisure-time physical activity in 2005. Long-term sickness absence (LTSA) spells of \u22653 consecutive weeks were retrieved from a social-transfer payment register from 2005 to 2007. Results 341 men and 620 females experienced a spell of LTSA during the period. Cox analyses adjusted for age, gender, smoking, alcohol, body mass index, chronic disease, social support from immediate superior, emotional demands, social class and occupational or leisure-time physical activity showed a decreased risk for LTSA among workers with moderate (HR 0.85, CI 0.72 to 1.01) and high (HR 0.77, CI 0.62 to 0.95) leisure-time physical activity in reference to those with low leisure-time physical activity. In contrast, an increased risk for LTSA was shown among workers with moderate (HR 1.59, CI 1.35 to 1.88) and high (HR 1.84, CI 1.55 to 2.18) occupational physical activity referencing those with low occupational physical activity. Conclusion The hypothesis was rejected. In a dose\u2013response manner, occupational physical activity increased the risk for LTSA, while leisure-time physical activity decreased the risk for LTSA. The findings indicate opposing effects of occupational and leisure-time physical activity on global health.",
+            "year": 2011,
+            "citation_count": 362,
+            "relevance": 2,
+            "explanation": "This paper explores the opposing effects of occupational and leisure-time physical activity on sickness absence, which is directly related to the source paper's topic of physical activity and sickness absence. The findings in this paper are at least partially dependent on the source paper's results, making it a relevant paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Monitoring fitness levels and detecting implications for health in a French population: an observational study": {
+                    "explanation": "This paper has no direct connection with the source paper. It explores physical fitness assessment in a general population, which is a different topic from the source paper's focus on the health paradox of occupational and leisure-time physical activity.",
+                    "relevance": 0
+                },
+                "2. Leisure-time physical activity and cardiovascular disease mortality: the Brisighella Heart Study": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the relationship between leisure-time physical activity and cardiovascular disease mortality, building on the source paper's results regarding the opposing effects of occupational and leisure-time physical activity on global health.",
+                    "relevance": 1
+                },
+                "3. Physical workload, leisure-time physical activity, obesity and smoking as predictors of multisite musculoskeletal pain. A 2-year prospective study of kitchen workers": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the role of physical workload and leisure-time physical activity in predicting multisite musculoskeletal pain, using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "4. Physical Activity and Risk of Cardiovascular Disease\u2014A Meta-Analysis of Prospective Cohort Studies": {
+                    "explanation": "This paper has no direct connection with the source paper. It is a meta-analysis of prospective cohort studies on physical activity and cardiovascular disease risk, which is a different topic from the source paper's focus on the health paradox of occupational and leisure-time physical activity.",
+                    "relevance": 0
+                },
+                "5. Risk factors for ischaemic heart disease mortality among men with different occupational physical demands. A 30-year prospective cohort study": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the impact of risk factors for ischaemic heart disease mortality among men with different occupational physical demands, using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Physical workload, leisure-time physical activity, obesity and smoking as predictors of multisite musculoskeletal pain. A 2-year prospective study of kitchen workers": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the role of physical workload and leisure-time physical activity in predicting multisite musculoskeletal pain, using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "2. Risk factors for ischaemic heart disease mortality among men with different occupational physical demands. A 30-year prospective cohort study": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the impact of risk factors for ischaemic heart disease mortality among men with different occupational physical demands, using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "3. Leisure-time physical activity and cardiovascular disease mortality: the Brisighella Heart Study": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the relationship between leisure-time physical activity and cardiovascular disease mortality, building on the source paper's results regarding the opposing effects of occupational and leisure-time physical activity on global health.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2013,
+        "source_paper": {
+            "paperId": "aa7c5aec66d01f12795cbd76b834b9bc9ae7f725",
+            "title": "The health paradox of occupational and leisure-time physical activity",
+            "abstract": "Background Occupational and leisure-time physical activity are considered to provide similar health benefits. The authors tested this hypothesis. Methods A representative sample of Danish employees (n=7144, 52% females) reported levels of occupational and leisure-time physical activity in 2005. Long-term sickness absence (LTSA) spells of \u22653 consecutive weeks were retrieved from a social-transfer payment register from 2005 to 2007. Results 341 men and 620 females experienced a spell of LTSA during the period. Cox analyses adjusted for age, gender, smoking, alcohol, body mass index, chronic disease, social support from immediate superior, emotional demands, social class and occupational or leisure-time physical activity showed a decreased risk for LTSA among workers with moderate (HR 0.85, CI 0.72 to 1.01) and high (HR 0.77, CI 0.62 to 0.95) leisure-time physical activity in reference to those with low leisure-time physical activity. In contrast, an increased risk for LTSA was shown among workers with moderate (HR 1.59, CI 1.35 to 1.88) and high (HR 1.84, CI 1.55 to 2.18) occupational physical activity referencing those with low occupational physical activity. Conclusion The hypothesis was rejected. In a dose\u2013response manner, occupational physical activity increased the risk for LTSA, while leisure-time physical activity decreased the risk for LTSA. The findings indicate opposing effects of occupational and leisure-time physical activity on global health.",
+            "year": 2011,
+            "citation_count": 362,
+            "relevance": 2,
+            "explanation": "This paper explores the opposing effects of occupational and leisure-time physical activity on sickness absence, which is directly related to the source paper's topic of physical activity and sickness absence. The findings in this paper are at least partially dependent on the source paper's results, making it a relevant paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Physical Activity at Work Contributes Little to Patient Care Workers' Weekly Totals": {
+                    "explanation": "This paper investigates the contribution of physical activity at work to patient care workers' weekly totals, which is related to the source paper's finding that occupational physical activity has opposing effects on global health compared to leisure-time physical activity.",
+                    "relevance": 1
+                },
+                "2. Physical Activity and Risk of Hypertension: A Meta-Analysis of Prospective Cohort Studies": {
+                    "explanation": "This paper explores the association between physical activity and risk of hypertension, which is partially dependent on the source paper's findings regarding the effects of occupational and leisure-time physical activity on health.",
+                    "relevance": 2
+                },
+                "3. Physical Inactivity at Leisure and Work: A 12-MONTH STUDY OF CARDIAC PATIENTS": {
+                    "explanation": "This paper examines the prevalence and predictors of physical inactivity during leisure and work in cardiac patients, which is related to the source paper's finding that occupational physical activity has opposing effects on global health compared to leisure-time physical activity.",
+                    "relevance": 1
+                },
+                "4. The effect of a workplace physical activity intervention program on musculoskeletal pain and related symptoms in different body regions in Portuguese workers": {
+                    "explanation": "This paper is a review paper and lacks novel hypotheses or findings related to the source paper.",
+                    "relevance": 0
+                },
+                "5. Factors associated with the pressure pain threshold in healthy Chinese men": {
+                    "explanation": "This paper explores the factors associated with the pressure pain threshold in healthy Chinese men, which is not directly related to the source paper's findings regarding the effects of occupational and leisure-time physical activity on health.",
+                    "relevance": 0
+                },
+                "6. Physical activity and risk of cardiovascular disease: what does the new epidemiological evidence show?": {
+                    "explanation": "This paper explores the association between physical activity and risk of cardiovascular disease, which is partially dependent on the source paper's findings regarding the effects of occupational and leisure-time physical activity on health.",
+                    "relevance": 2
+                },
+                "7. Separate and Joint Associations of Occupational and Leisure-Time Sitting with Cardio-Metabolic Risk Factors in Working Adults: A Cross-Sectional Study": {
+                    "explanation": "This paper examines the separate and joint associations of occupational and leisure-time sitting with cardio-metabolic risk factors in working adults, which is related to the source paper's finding that occupational physical activity has opposing effects on global health compared to leisure-time physical activity.",
+                    "relevance": 1
+                },
+                "8. Is Midlife Occupational Physical Activity Related to Disability in Old Age? The SNAC-Kungsholmen Study": {
+                    "explanation": "This paper investigates the relationship between midlife occupational physical activity and disability in old age, which is partially dependent on the source paper's findings regarding the effects of occupational and leisure-time physical activity on health.",
+                    "relevance": 2
+                },
+                "9. Physical inactivity and associated factors: a study with metal-mechanical sector\u2019s workers of the city of Ponta Grossa \u2013 PR": {
+                    "explanation": "This paper examines the prevalence and associated factors of physical inactivity in metal-mechanical sector workers, which is not directly related to the source paper's findings regarding the effects of occupational and leisure-time physical activity on health.",
+                    "relevance": 0
+                },
+                "10. Does the Benefit on Survival from Leisure Time Physical Activity Depend on Physical Activity at Work? A Prospective Cohort Study": {
+                    "explanation": "This paper investigates whether the benefit on survival from leisure time physical activity depends on physical activity at work, which is partially dependent on the source paper's findings regarding the effects of occupational and leisure-time physical activity on health.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Physical Activity and Risk of Hypertension: A Meta-Analysis of Prospective Cohort Studies": {
+                    "explanation": "This paper explores the association between physical activity and risk of hypertension, which is partially dependent on the source paper's findings regarding the effects of occupational and leisure-time physical activity on health.",
+                    "relevance": 2
+                },
+                "2. Physical activity and risk of cardiovascular disease: what does the new epidemiological evidence show?": {
+                    "explanation": "This paper explores the association between physical activity and risk of cardiovascular disease, which is partially dependent on the source paper's findings regarding the effects of occupational and leisure-time physical activity on health.",
+                    "relevance": 2
+                },
+                "3. Does the Benefit on Survival from Leisure Time Physical Activity Depend on Physical Activity at Work? A Prospective Cohort Study": {
+                    "explanation": "This paper investigates whether the benefit on survival from leisure time physical activity depends on physical activity at work, which is partially dependent on the source paper's findings regarding the effects of occupational and leisure-time physical activity on health.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2014,
+        "source_paper": {
+            "paperId": "9968d9fdd26387a6e2a1733939bab989d19d9621",
+            "title": "Physical Activity and Risk of Hypertension: A Meta-Analysis of Prospective Cohort Studies",
+            "abstract": "Published literature reports controversial results about the association of physical activity (PA) with risk of hypertension. A meta-analysis of prospective cohort studies was performed to investigate the effect of PA on hypertension risk. PubMed and Embase databases were searched to identify all related prospective cohort studies. The Q test and I2 statistic were used to examine between-study heterogeneity. Fixed or random effects models were selected based on study heterogeneity. A funnel plot and modified Egger linear regression test were used to estimate publication bias. Thirteen prospective cohort studies were identified, including 136 846 persons who were initially free of hypertension, and 15 607 persons developed hypertension during follow-up. The pooled relative risk (RR) of main results from these studies suggests that both high and moderate levels of recreational PA were associated with decreased risk of hypertension (high versus low: RR, 0.81; 95% confidence interval, 0.76\u20130.85 and moderate versus low: RR, 0.89; 95% confidence interval, 0.85\u20130.94). The association of high or moderate occupational PA with decreased hypertension risk was not significant (high versus low: RR, 0.93; 95% confidence interval, 0.81\u20131.08 and moderate versus low: RR, 0.96; 95% confidence interval, 0.87\u20131.06). No publication bias was observed. The results of this meta-analysis suggested that there was an inverse dose\u2013response association between levels of recreational PA and risk of hypertension, whereas there was no significant association between occupational PA and hypertension.",
+            "year": 2013,
+            "citation_count": 239,
+            "relevance": 2,
+            "explanation": "This paper explores the association between physical activity and risk of hypertension, which is partially dependent on the source paper's findings regarding the effects of occupational and leisure-time physical activity on health."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Cardiorespiratory fitness, exercise, and blood pressure.": {
+                    "explanation": "This paper explores the relationship between physical activity, cardiorespiratory fitness, and cardiovascular health, including blood pressure. The source paper's findings on the inverse association between recreational physical activity and hypertension risk provide a foundation for this paper's discussion on the benefits of exercise and fitness for cardiovascular health.",
+                    "relevance": 1
+                },
+                "2. Association of overtime work and hypertension in a Japanese working population: A cross-sectional study": {
+                    "explanation": "This paper investigates the relationship between overtime work and hypertension in a Japanese working population. While it does not directly build upon the source paper's findings, it explores a related topic and could be seen as tangentially connected. However, the focus on overtime work rather than physical activity means it is not directly relevant to the source paper's hypothesis.",
+                    "relevance": 0
+                },
+                "3. Physical Activity and Better Medication Compliance Improve Mini-Mental State Examination Scores in the Elderly": {
+                    "explanation": "This paper examines the impact of physical activity on cognitive function in the elderly. While it mentions hypertension as a comorbidity, it does not directly address the relationship between physical activity and hypertension. Therefore, it is not directly relevant to the source paper's hypothesis.",
+                    "relevance": 0
+                },
+                "4. Associations of self-reported physical activity types and levels with quality of life, depression symptoms, and mortality in hemodialysis patients: the DOPPS.": {
+                    "explanation": "This paper investigates the relationship between physical activity and various health outcomes in hemodialysis patients. While it touches on the topic of physical activity, it does not directly address the relationship between physical activity and hypertension. Therefore, it is not directly relevant to the source paper's hypothesis.",
+                    "relevance": 0
+                },
+                "5. Physical activity and risk of fatty liver in people with different levels of alcohol consumption: a prospective cohort study": {
+                    "explanation": "This paper explores the relationship between physical activity and the risk of fatty liver disease. While it mentions the benefits of physical activity, it does not directly address the relationship between physical activity and hypertension. Therefore, it is not directly relevant to the source paper's hypothesis.",
+                    "relevance": 0
+                },
+                "6. Health Attitudes and Beliefs Among Hypertensive Subjects: A Study of theHellenic Atherosclerosis Society": {
+                    "explanation": "This paper examines the health attitudes and beliefs of hypertensive individuals. While it touches on the topic of hypertension, it does not directly address the relationship between physical activity and hypertension. Therefore, it is not directly relevant to the source paper's hypothesis.",
+                    "relevance": 0
+                },
+                "7. Aerobic Exercise Prescription for Older Population: A Short Review": {
+                    "explanation": "This paper discusses the benefits of aerobic exercise for older adults, including its impact on cardiovascular health. The source paper's findings on the inverse association between recreational physical activity and hypertension risk provide a foundation for this paper's discussion on the benefits of exercise for cardiovascular health.",
+                    "relevance": 1
+                },
+                "8. Prevalence and Effects of Various Risk Factors Influencing the Blood Pressure Values": {
+                    "explanation": "This paper investigates the prevalence and effects of various risk factors on blood pressure. While it mentions physical activity as a risk factor, it does not directly address the relationship between physical activity and hypertension. Therefore, it is not directly relevant to the source paper's hypothesis.",
+                    "relevance": 0
+                },
+                "9. Physical activity status, chronic stress, cardiovascular risk factors and telomere length in an urban South African teachers' cohort: The SABPA study": {
+                    "explanation": "This paper examines the relationship between physical activity and various health outcomes, including cardiovascular risk factors. While it touches on the topic of physical activity, it does not directly address the relationship between physical activity and hypertension. Therefore, it is not directly relevant to the source paper's hypothesis.",
+                    "relevance": 0
+                },
+                "10. Hypertension in Vietnam: prevalence, risk groups and effects of salt substitution": {
+                    "explanation": "This paper discusses the prevalence and risk factors of hypertension in Vietnam, including the impact of physical activity. The source paper's findings on the inverse association between recreational physical activity and hypertension risk provide a foundation for this paper's discussion on the benefits of physical activity for cardiovascular health.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Cardiorespiratory fitness, exercise, and blood pressure.": {
+                    "explanation": "This paper explores the relationship between physical activity, cardiorespiratory fitness, and cardiovascular health, including blood pressure. The source paper's findings on the inverse association between recreational physical activity and hypertension risk provide a foundation for this paper's discussion on the benefits of exercise and fitness for cardiovascular health.",
+                    "relevance": 1
+                },
+                "2. Aerobic Exercise Prescription for Older Population: A Short Review": {
+                    "explanation": "This paper discusses the benefits of aerobic exercise for older adults, including its impact on cardiovascular health. The source paper's findings on the inverse association between recreational physical activity and hypertension risk provide a foundation for this paper's discussion on the benefits of exercise for cardiovascular health.",
+                    "relevance": 1
+                },
+                "3. Hypertension in Vietnam: prevalence, risk groups and effects of salt substitution": {
+                    "explanation": "This paper discusses the prevalence and risk factors of hypertension in Vietnam, including the impact of physical activity. The source paper's findings on the inverse association between recreational physical activity and hypertension risk provide a foundation for this paper's discussion on the benefits of physical activity for cardiovascular health.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2015,
+        "source_paper": {
+            "paperId": "9968d9fdd26387a6e2a1733939bab989d19d9621",
+            "title": "Physical Activity and Risk of Hypertension: A Meta-Analysis of Prospective Cohort Studies",
+            "abstract": "Published literature reports controversial results about the association of physical activity (PA) with risk of hypertension. A meta-analysis of prospective cohort studies was performed to investigate the effect of PA on hypertension risk. PubMed and Embase databases were searched to identify all related prospective cohort studies. The Q test and I2 statistic were used to examine between-study heterogeneity. Fixed or random effects models were selected based on study heterogeneity. A funnel plot and modified Egger linear regression test were used to estimate publication bias. Thirteen prospective cohort studies were identified, including 136 846 persons who were initially free of hypertension, and 15 607 persons developed hypertension during follow-up. The pooled relative risk (RR) of main results from these studies suggests that both high and moderate levels of recreational PA were associated with decreased risk of hypertension (high versus low: RR, 0.81; 95% confidence interval, 0.76\u20130.85 and moderate versus low: RR, 0.89; 95% confidence interval, 0.85\u20130.94). The association of high or moderate occupational PA with decreased hypertension risk was not significant (high versus low: RR, 0.93; 95% confidence interval, 0.81\u20131.08 and moderate versus low: RR, 0.96; 95% confidence interval, 0.87\u20131.06). No publication bias was observed. The results of this meta-analysis suggested that there was an inverse dose\u2013response association between levels of recreational PA and risk of hypertension, whereas there was no significant association between occupational PA and hypertension.",
+            "year": 2013,
+            "citation_count": 239,
+            "relevance": 2,
+            "explanation": "This paper explores the association between physical activity and risk of hypertension, which is partially dependent on the source paper's findings regarding the effects of occupational and leisure-time physical activity on health."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Physical Activity Level of Korean Adults with Chronic Diseases: The Korean National Health and Nutritional Examination Survey, 2010-2012": {
+                    "explanation": "The paper investigates the physical activity compliance of patients with hypertension, diabetes, and dyslipidemia in Korea, but it does not directly build upon the source paper's findings. However, it does explore a related topic, making it somewhat relevant.",
+                    "relevance": 1
+                },
+                "2. Accumulation of Domain-Specific Physical Inactivity and Presence of Hypertension in Brazilian Public Healthcare System": {
+                    "explanation": "The paper examines the association between physical inactivity domains and hypertension, which is closely related to the source paper's topic of physical activity and hypertension risk. However, it does not directly build upon the source paper's findings, but rather explores a new angle.",
+                    "relevance": 1
+                },
+                "3. Leisure time physical activity and cancer risk: evaluation of the WHO's recommendation based on 126 high-quality epidemiological studies": {
+                    "explanation": "The paper assesses the role of leisure time physical activity in lowering the risk of cancer, which is a different topic from the source paper's focus on physical activity and hypertension risk. Therefore, it is not directly relevant.",
+                    "relevance": 0
+                },
+                "4. Burden of physical inactivity and hospitalization costs due to chronic diseases": {
+                    "explanation": "The paper evaluates the physical inactivity-related inpatient costs of chronic non-communicable diseases, including hypertension. While it is related to the source paper's topic, it does not directly build upon the source paper's findings, but rather explores a new angle.",
+                    "relevance": 1
+                },
+                "5. Efficacy of a Community-Based Physical Activity Program KM2H2 for Stroke and Heart Attack Prevention among Senior Hypertensive Patients: A Cluster Randomized Controlled Phase-II Trial": {
+                    "explanation": "The paper investigates the efficacy of a community-based physical activity program in preventing heart attack and stroke among senior hypertensive patients. It is closely related to the source paper's topic of physical activity and hypertension risk, and partially dependent on the source paper's findings.",
+                    "relevance": 2
+                },
+                "6. Physical activity after total knee arthroplasty: A critical review": {
+                    "explanation": "The paper reviews the potential benefits of physical activity to patients undergoing total knee arthroplasty, which is a different topic from the source paper's focus on physical activity and hypertension risk. Therefore, it is not directly relevant.",
+                    "relevance": 0
+                },
+                "7. An Updated Meta-analysis and System Review:is Gemcitabine+Fluoropyrimidine in Combination a Better Therapy Versus Gemcitabine Alone for Advanced and Unresectable Pancreatic Cancer?": {
+                    "explanation": "The paper assesses the efficacy of gemcitabine-based combination therapy for advanced pancreatic cancer, which is a completely different topic from the source paper's focus on physical activity and hypertension risk. Therefore, it is not relevant.",
+                    "relevance": 0
+                },
+                "8. Lifestyle Patterns Are Associated with Elevated Blood Pressure among Qatari Women of Reproductive Age: A Cross-Sectional National Study": {
+                    "explanation": "The paper examines the association between lifestyle patterns and elevated blood pressure among Qatari women of childbearing age, which is closely related to the source paper's topic of physical activity and hypertension risk. However, it does not directly build upon the source paper's findings, but rather explores a new angle.",
+                    "relevance": 1
+                },
+                "9. Association of the HTR2A 102T/C polymorphism with attempted suicide: a meta-analysis": {
+                    "explanation": "The paper investigates the association between the HTR2A 102T/C polymorphism and attempted suicide, which is a completely different topic from the source paper's focus on physical activity and hypertension risk. Therefore, it is not relevant.",
+                    "relevance": 0
+                },
+                "10. Former male elite athletes and risk of hypertension in later life": {
+                    "explanation": "The paper assesses whether a former career as an elite athlete protects from hypertension in later life, which is closely related to the source paper's topic of physical activity and hypertension risk. It is partially dependent on the source paper's findings, as it explores the long-term effects of vigorous physical activity on hypertension risk.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Efficacy of a Community-Based Physical Activity Program KM2H2 for Stroke and Heart Attack Prevention among Senior Hypertensive Patients: A Cluster Randomized Controlled Phase-II Trial": {
+                    "explanation": "The paper investigates the efficacy of a community-based physical activity program in preventing heart attack and stroke among senior hypertensive patients. It is closely related to the source paper's topic of physical activity and hypertension risk, and partially dependent on the source paper's findings.",
+                    "relevance": 2
+                },
+                "2. Former male elite athletes and risk of hypertension in later life": {
+                    "explanation": "The paper assesses whether a former career as an elite athlete protects from hypertension in later life, which is closely related to the source paper's topic of physical activity and hypertension risk. It is partially dependent on the source paper's findings, as it explores the long-term effects of vigorous physical activity on hypertension risk.",
+                    "relevance": 2
+                },
+                "3. Physical Activity Level of Korean Adults with Chronic Diseases: The Korean National Health and Nutritional Examination Survey, 2010-2012": {
+                    "explanation": "The paper investigates the physical activity compliance of patients with hypertension, diabetes, and dyslipidemia in Korea, but it does not directly build upon the source paper's findings. However, it does explore a related topic, making it somewhat relevant.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2015,
+        "source_paper": {
+            "paperId": "9968d9fdd26387a6e2a1733939bab989d19d9621",
+            "title": "Physical Activity and Risk of Hypertension: A Meta-Analysis of Prospective Cohort Studies",
+            "abstract": "Published literature reports controversial results about the association of physical activity (PA) with risk of hypertension. A meta-analysis of prospective cohort studies was performed to investigate the effect of PA on hypertension risk. PubMed and Embase databases were searched to identify all related prospective cohort studies. The Q test and I2 statistic were used to examine between-study heterogeneity. Fixed or random effects models were selected based on study heterogeneity. A funnel plot and modified Egger linear regression test were used to estimate publication bias. Thirteen prospective cohort studies were identified, including 136 846 persons who were initially free of hypertension, and 15 607 persons developed hypertension during follow-up. The pooled relative risk (RR) of main results from these studies suggests that both high and moderate levels of recreational PA were associated with decreased risk of hypertension (high versus low: RR, 0.81; 95% confidence interval, 0.76\u20130.85 and moderate versus low: RR, 0.89; 95% confidence interval, 0.85\u20130.94). The association of high or moderate occupational PA with decreased hypertension risk was not significant (high versus low: RR, 0.93; 95% confidence interval, 0.81\u20131.08 and moderate versus low: RR, 0.96; 95% confidence interval, 0.87\u20131.06). No publication bias was observed. The results of this meta-analysis suggested that there was an inverse dose\u2013response association between levels of recreational PA and risk of hypertension, whereas there was no significant association between occupational PA and hypertension.",
+            "year": 2013,
+            "citation_count": 239,
+            "relevance": 2,
+            "explanation": "This paper explores the association between physical activity and risk of hypertension, which is partially dependent on the source paper's findings regarding the effects of occupational and leisure-time physical activity on health."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Insulin resistance predicts early cardiovascular morbidity in men without diabetes mellitus, with effect modification by physical activity": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it explores the relationship between physical activity and cardiovascular disease, using the source paper's results as a sub-hypothesis to investigate the effect modification of physical activity on the predictive value of insulin resistance for cardiovascular morbidity.",
+                    "relevance": 2
+                },
+                "2. Association between prevalence of hypertension and components of metabolic syndrome: the data from Kailuan community": {
+                    "explanation": "This paper has no direct connection with the source paper, as it investigates the association between metabolic syndrome components and hypertension prevalence, without referencing or building upon the source paper's findings on physical activity and hypertension risk.",
+                    "relevance": 0
+                },
+                "3. PREDICTORS OF PHYSICAL ACTIVITY IN OLDER PEOPLE WITH HYPERTENSION, BANTUL, INDONESIA": {
+                    "explanation": "The hypothesis in this paper is inspired by the hypothesis of the source paper, as it aims to identify predictors of physical activity in older people with hypertension, building on the source paper's results on the association between physical activity and hypertension risk.",
+                    "relevance": 1
+                },
+                "4. Relation of Sedentary Lifestyle with Cardiovascular Parameters in Primary Care Patients": {
+                    "explanation": "This paper has no direct connection with the source paper, as it explores the relationship between sedentary lifestyle and cardiovascular parameters, without referencing or building upon the source paper's findings on physical activity and hypertension risk.",
+                    "relevance": 0
+                },
+                "5. Lifestyle Modification Effect on Behavior Change and Physical Conditions among Hypertensive Elderly in West Java, Indonesia": {
+                    "explanation": "The hypothesis in this paper is inspired by the hypothesis of the source paper, as it evaluates the effectiveness of a lifestyle modification program on behavior change and physical conditions among hypertensive elderly, building on the source paper's results on the association between physical activity and hypertension risk.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Insulin resistance predicts early cardiovascular morbidity in men without diabetes mellitus, with effect modification by physical activity": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it explores the relationship between physical activity and cardiovascular disease, using the source paper's results as a sub-hypothesis to investigate the effect modification of physical activity on the predictive value of insulin resistance for cardiovascular morbidity.",
+                    "relevance": 2
+                },
+                "2. PREDICTORS OF PHYSICAL ACTIVITY IN OLDER PEOPLE WITH HYPERTENSION, BANTUL, INDONESIA": {
+                    "explanation": "The hypothesis in this paper is inspired by the hypothesis of the source paper, as it aims to identify predictors of physical activity in older people with hypertension, building on the source paper's results on the association between physical activity and hypertension risk.",
+                    "relevance": 1
+                },
+                "3. Lifestyle Modification Effect on Behavior Change and Physical Conditions among Hypertensive Elderly in West Java, Indonesia": {
+                    "explanation": "The hypothesis in this paper is inspired by the hypothesis of the source paper, as it evaluates the effectiveness of a lifestyle modification program on behavior change and physical conditions among hypertensive elderly, building on the source paper's results on the association between physical activity and hypertension risk.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2016,
+        "source_paper": {
+            "paperId": "1c3472b4b13ea0d6f5244c750b7ac204f44df22f",
+            "title": "Efficacy of a Community-Based Physical Activity Program KM2H2 for Stroke and Heart Attack Prevention among Senior Hypertensive Patients: A Cluster Randomized Controlled Phase-II Trial",
+            "abstract": "Objective To evaluate the efficacy of the program Keep Moving toward Healthy Heart and Healthy Brain (KM2H2) in encouraging physical activities for the prevention of heart attack and stroke among hypertensive patients enrolled in the Community-Based Hypertension Control Program (CBHCP). Design Cluster randomized controlled trial with three waves of longitudinal assessments at baseline, 3 and 6 months post intervention. Setting Community-based and patient-centered self-care for behavioral intervention in urban settings of China. Participants A total of 450 participants diagnosed with hypertension from 12 community health centers in Wuhan, China were recruited, and were randomly assigned by center to receive either KM2H2 plus standard CBHCP care (6 centers and 232 patients) or the standard care only (6 centers and 218 patients). Intervention KM2H2 is a behavioral intervention guided by the Transtheoretical Model, the Model of Personalized Medicine and Social Capital Theory. It consists of six intervention sessions and two booster sessions engineered in a progressive manner. The purpose is to motivate and maintain physical activities for the prevention of heart attack and stroke. Outcome Measures Heart attack and stroke (clinically diagnosed, primary outcome), blood pressure (measured, secondary outcome), and physical activity (self-report, tertiary outcome) were assessed at the individual level during the baseline, 3- and 6-month post-intervention. Results Relative to the standard care, receiving KM2H2 was associated with significant reductions in the incidence of heart attack (3.60% vs. 7.03%, p < .05) and stroke (5.11% vs. 9.90%, p<0.05), and moderate reduction in blood pressure (-3.72mmHg in DBP and -2.92 mmHg in DBP) at 6-month post-intervention; and significant increases in physical activity at 3- (d = 0.53, 95% CI: 0.21, 0.85) and 6-month (d = 0.45, 95% CI: 0.04, 0.85) post-intervention, respectively. Conclusion The program KM2H2 is efficacious to reduce the risk of heart attack and stroke among senior patients who are on anti-hypertensive medication. Findings of this study provide solid data supporting a formal phase-III trial to establish the effectiveness of KM2H2 for use in community settings for prevention. Trial Registration ISRCTN Register ISRCTN12608966",
+            "year": 2015,
+            "citation_count": 50,
+            "relevance": 2,
+            "explanation": "The paper investigates the efficacy of a community-based physical activity program in preventing heart attack and stroke among senior hypertensive patients. It is closely related to the source paper's topic of physical activity and hypertension risk, and partially dependent on the source paper's findings."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Using the transtheoretical model to enhance self\u2010management activities in patients with type 2 diabetes: a systematic review": {
+                    "explanation": "This paper is a systematic review and does not present novel findings or hypotheses inspired by the source paper. The source paper used the Transtheoretical Model as part of its intervention, but this paper does not build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "2. Lifestyle modification for stroke prevention: facts and fiction": {
+                    "explanation": "This paper reviews recent evidence on lifestyle modifications for stroke prevention, which is related to the topic of the source paper. However, it does not specifically build upon or depend on the findings of the source paper, but rather provides a broader overview of the topic.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Lifestyle modification for stroke prevention: facts and fiction": {
+                    "explanation": "This paper reviews recent evidence on lifestyle modifications for stroke prevention, which is related to the topic of the source paper. However, it does not specifically build upon or depend on the findings of the source paper, but rather provides a broader overview of the topic.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2017,
+        "source_paper": {
+            "paperId": "1c3472b4b13ea0d6f5244c750b7ac204f44df22f",
+            "title": "Efficacy of a Community-Based Physical Activity Program KM2H2 for Stroke and Heart Attack Prevention among Senior Hypertensive Patients: A Cluster Randomized Controlled Phase-II Trial",
+            "abstract": "Objective To evaluate the efficacy of the program Keep Moving toward Healthy Heart and Healthy Brain (KM2H2) in encouraging physical activities for the prevention of heart attack and stroke among hypertensive patients enrolled in the Community-Based Hypertension Control Program (CBHCP). Design Cluster randomized controlled trial with three waves of longitudinal assessments at baseline, 3 and 6 months post intervention. Setting Community-based and patient-centered self-care for behavioral intervention in urban settings of China. Participants A total of 450 participants diagnosed with hypertension from 12 community health centers in Wuhan, China were recruited, and were randomly assigned by center to receive either KM2H2 plus standard CBHCP care (6 centers and 232 patients) or the standard care only (6 centers and 218 patients). Intervention KM2H2 is a behavioral intervention guided by the Transtheoretical Model, the Model of Personalized Medicine and Social Capital Theory. It consists of six intervention sessions and two booster sessions engineered in a progressive manner. The purpose is to motivate and maintain physical activities for the prevention of heart attack and stroke. Outcome Measures Heart attack and stroke (clinically diagnosed, primary outcome), blood pressure (measured, secondary outcome), and physical activity (self-report, tertiary outcome) were assessed at the individual level during the baseline, 3- and 6-month post-intervention. Results Relative to the standard care, receiving KM2H2 was associated with significant reductions in the incidence of heart attack (3.60% vs. 7.03%, p < .05) and stroke (5.11% vs. 9.90%, p<0.05), and moderate reduction in blood pressure (-3.72mmHg in DBP and -2.92 mmHg in DBP) at 6-month post-intervention; and significant increases in physical activity at 3- (d = 0.53, 95% CI: 0.21, 0.85) and 6-month (d = 0.45, 95% CI: 0.04, 0.85) post-intervention, respectively. Conclusion The program KM2H2 is efficacious to reduce the risk of heart attack and stroke among senior patients who are on anti-hypertensive medication. Findings of this study provide solid data supporting a formal phase-III trial to establish the effectiveness of KM2H2 for use in community settings for prevention. Trial Registration ISRCTN Register ISRCTN12608966",
+            "year": 2015,
+            "citation_count": 50,
+            "relevance": 2,
+            "explanation": "The paper investigates the efficacy of a community-based physical activity program in preventing heart attack and stroke among senior hypertensive patients. It is closely related to the source paper's topic of physical activity and hypertension risk, and partially dependent on the source paper's findings."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Self\u2010Care for the Prevention and Management of Cardiovascular Disease and Stroke": {
+                    "explanation": "This paper is a review of self-care behaviors and their importance in preventing and managing cardiovascular disease and stroke. Although it discusses similar topics as the source paper, such as the prevention of heart attack and stroke, it does not build upon or use the findings of the source paper as a sub-hypothesis. Therefore, it is considered a review paper with no direct connection to the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2017,
+        "source_paper": {
+            "paperId": "f626dd33838031d3812e4e6e40c72894ca22c616",
+            "title": "Lifestyle modification for stroke prevention: facts and fiction.",
+            "abstract": "PURPOSE OF REVIEW\nThe purpose is to summarize recent evidence on lifestyle modifications and first or recurrent stroke risk.\n\n\nRECENT FINDINGS\nWeight reduction, low-risk diet, regular physical activity, smoking cessation, and low-to-moderate alcohol consumption may reduce stroke risk up to 50% or more, but level one evidence is still lacking for several interventions. Appropriate food ingredients can significantly decrease stroke risk as recently confirmed for Mediterranean diet. The optimal intensity and amount of physical exercise is still not well established before and after stroke, although modest levels of activity already show benefits. Passive smoking represents an important health hazard. The impact of tobacco withdrawal using e-cigarette is currently uncertain. Alcohol and stroke risk relation is probably J-shaped for ischaemic stroke and linear for intracranial haemorrhage. Coffee consumption is J-shaped for overall stroke. Several interventions have failed to show significant effects, including regular intake of 'healthy' forms of fatty acids, various vitamin supplements, and other antioxidants. Both individualized and public educational programmes are likely needed on a repetitive basis to induce and maintain a healthy lifestyle before or after a stroke.",
+            "year": 2016,
+            "citation_count": 35,
+            "relevance": 1,
+            "explanation": "This paper reviews recent evidence on lifestyle modifications for stroke prevention, which is related to the topic of the source paper. However, it does not specifically build upon or depend on the findings of the source paper, but rather provides a broader overview of the topic."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Written Examinations in Swedish Medical Schools: Minds Molded to Medicate?": {
+                    "explanation": "This paper has no direct connection with the source paper. The source paper discusses lifestyle modifications for stroke prevention, while this paper focuses on the emphasis of lifestyle medicine in Swedish medical schools. Although lifestyle medicine is related to the topic of the source paper, the focus of this paper is on medical education rather than stroke prevention.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2018,
+        "source_paper": {
+            "paperId": "f626dd33838031d3812e4e6e40c72894ca22c616",
+            "title": "Lifestyle modification for stroke prevention: facts and fiction.",
+            "abstract": "PURPOSE OF REVIEW\nThe purpose is to summarize recent evidence on lifestyle modifications and first or recurrent stroke risk.\n\n\nRECENT FINDINGS\nWeight reduction, low-risk diet, regular physical activity, smoking cessation, and low-to-moderate alcohol consumption may reduce stroke risk up to 50% or more, but level one evidence is still lacking for several interventions. Appropriate food ingredients can significantly decrease stroke risk as recently confirmed for Mediterranean diet. The optimal intensity and amount of physical exercise is still not well established before and after stroke, although modest levels of activity already show benefits. Passive smoking represents an important health hazard. The impact of tobacco withdrawal using e-cigarette is currently uncertain. Alcohol and stroke risk relation is probably J-shaped for ischaemic stroke and linear for intracranial haemorrhage. Coffee consumption is J-shaped for overall stroke. Several interventions have failed to show significant effects, including regular intake of 'healthy' forms of fatty acids, various vitamin supplements, and other antioxidants. Both individualized and public educational programmes are likely needed on a repetitive basis to induce and maintain a healthy lifestyle before or after a stroke.",
+            "year": 2016,
+            "citation_count": 35,
+            "relevance": 1,
+            "explanation": "This paper reviews recent evidence on lifestyle modifications for stroke prevention, which is related to the topic of the source paper. However, it does not specifically build upon or depend on the findings of the source paper, but rather provides a broader overview of the topic."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. The relationship between the level of knowledge in the field of pro-health procedures and the quality of life in people after stroke": {
+                    "explanation": "This paper explores the relationship between knowledge of health-supporting actions and quality of life in people after stroke. While it does not directly investigate lifestyle modifications for stroke prevention, it touches on the importance of awareness and knowledge of risk factors, which is related to the source paper's discussion on lifestyle modifications and education. Therefore, the hypothesis in this paper is partially dependent on the findings of the source paper, using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. The relationship between the level of knowledge in the field of pro-health procedures and the quality of life in people after stroke": {
+                    "explanation": "This paper explores the relationship between knowledge of health-supporting actions and quality of life in people after stroke. While it does not directly investigate lifestyle modifications for stroke prevention, it touches on the importance of awareness and knowledge of risk factors, which is related to the source paper's discussion on lifestyle modifications and education. Therefore, the hypothesis in this paper is partially dependent on the findings of the source paper, using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    }
+]

@@ -1,0 +1,1253 @@
+[
+    {
+        "year": 2016,
+        "source_paper": {
+            "paperId": "1e239ffb6d10eb8a7c0b617cb411bdda12f37252",
+            "pmid": "11786451",
+            "title": "Collaborative meta-analysis of randomised trials of antiplatelet therapy for prevention of death, myocardial infarction, and stroke in high risk patients",
+            "abstract": "OBJECTIVE\nTo determine the effects of antiplatelet therapy among patients at high risk of occlusive vascular events.\n\n\nDESIGN\nCollaborative meta-analyses (systematic overviews).\n\n\nINCLUSION CRITERIA\nRandomised trials of an antiplatelet regimen versus control or of one antiplatelet regimen versus another in high risk patients (with acute or previous vascular disease or some other predisposing condition) from which results were available before September 1997. Trials had to use a method of randomisation that precluded prior knowledge of the next treatment to be allocated and comparisons had to be unconfounded-that is, have study groups that differed only in terms of antiplatelet regimen.\n\n\nSTUDIES REVIEWED\n287 studies involving 135 000 patients in comparisons of antiplatelet therapy versus control and 77 000 in comparisons of different antiplatelet regimens.\n\n\nMAIN OUTCOME MEASURE\n\"Serious vascular event\": non-fatal myocardial infarction, non-fatal stroke, or vascular death.\n\n\nRESULTS\nOverall, among these high risk patients, allocation to antiplatelet therapy reduced the combined outcome of any serious vascular event by about one quarter; non-fatal myocardial infarction was reduced by one third, non-fatal stroke by one quarter, and vascular mortality by one sixth (with no apparent adverse effect on other deaths). Absolute reductions in the risk of having a serious vascular event were 36 (SE 5) per 1000 treated for two years among patients with previous myocardial infarction; 38 (5) per 1000 patients treated for one month among patients with acute myocardial infarction; 36 (6) per 1000 treated for two years among those with previous stroke or transient ischaemic attack; 9 (3) per 1000 treated for three weeks among those with acute stroke; and 22 (3) per 1000 treated for two years among other high risk patients (with separately significant results for those with stable angina (P=0.0005), peripheral arterial disease (P=0.004), and atrial fibrillation (P=0.01)). In each of these high risk categories, the absolute benefits substantially outweighed the absolute risks of major extracranial bleeding. Aspirin was the most widely studied antiplatelet drug, with doses of 75-150 mg daily at least as effective as higher daily doses. The effects of doses lower than 75 mg daily were less certain. Clopidogrel reduced serious vascular events by 10% (4%) compared with aspirin, which was similar to the 12% (7%) reduction observed with its analogue ticlopidine. Addition of dipyridamole to aspirin produced no significant further reduction in vascular events compared with aspirin alone. Among patients at high risk of immediate coronary occlusion, short term addition of an intravenous glycoprotein IIb/IIIa antagonist to aspirin prevented a further 20 (4) vascular events per 1000 (P<0.0001) but caused 23 major (but rarely fatal) extracranial bleeds per 1000.\n\n\nCONCLUSIONS\nAspirin (or another oral antiplatelet drug) is protective in most types of patient at increased risk of occlusive vascular events, including those with an acute myocardial infarction or ischaemic stroke, unstable or stable angina, previous myocardial infarction, stroke or cerebral ischaemia, peripheral arterial disease, or atrial fibrillation. Low dose aspirin (75-150 mg daily) is an effective antiplatelet regimen for long term use, but in acute settings an initial loading dose of at least 150 mg aspirin may be required. Adding a second antiplatelet drug to aspirin may produce additional benefits in some clinical circumstances, but more research into this strategy is needed.",
+            "year": 2002,
+            "citation_count": 4642
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Hypoxic mitophagy regulates mitochondrial quality and platelet activation and determines severity of I/R heart injury": {
+                    "explanation": "This paper is not directly related to the source paper, as it focuses on mitophagy and platelet activation in the context of heart injury, whereas the source paper discusses antiplatelet therapy for prevention of death, myocardial infarction, and stroke in high risk patients.",
+                    "relevance": 0
+                },
+                "2. Aspirin Resistance Predicts Adverse Cardiovascular Events in Patients with Symptomatic Peripheral Artery Disease": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the impact of aspirin resistance on cardiovascular events in patients with peripheral artery disease, building on the source paper's results regarding the benefits of antiplatelet therapy.",
+                    "relevance": 1
+                },
+                "3. A Critical Appraisal of Aspirin in Secondary Prevention: Is Less More?": {
+                    "explanation": "The key hypothesis in this paper is partially dependent on the findings of the source paper, as it discusses the role of aspirin in secondary prevention and its potential limitations, using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "4. Explaining the Decline in Coronary Heart Disease Mortality in the Netherlands between 1997 and 2007": {
+                    "explanation": "This paper is not directly related to the source paper, as it focuses on the decline in coronary heart disease mortality in the Netherlands, whereas the source paper discusses antiplatelet therapy for prevention of death, myocardial infarction, and stroke in high risk patients.",
+                    "relevance": 0
+                },
+                "5. Adherence to therapies for secondary prevention of cardiovascular disease: a focus on aspirin": {
+                    "explanation": "The key hypothesis in this paper is partially dependent on the findings of the source paper, as it discusses the importance of adherence to aspirin therapy for secondary prevention of cardiovascular disease, using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "6. Recent Update on Carotid Endarterectomy versus Carotid Artery Stenting": {
+                    "explanation": "This paper is not directly related to the source paper, as it focuses on the comparison of carotid endarterectomy and carotid artery stenting, whereas the source paper discusses antiplatelet therapy for prevention of death, myocardial infarction, and stroke in high risk patients.",
+                    "relevance": 0
+                },
+                "7. Nurse-Led Intervention to Improve Knowledge of Medications in Survivors of Stroke or Transient Ischemic Attack: A Cluster Randomized Controlled Trial": {
+                    "explanation": "This paper is not directly related to the source paper, as it focuses on a nurse-led intervention to improve knowledge of medications in survivors of stroke or transient ischemic attack, whereas the source paper discusses antiplatelet therapy for prevention of death, myocardial infarction, and stroke in high risk patients.",
+                    "relevance": 0
+                },
+                "8. Low-Dose Aspirin for Primary Prevention of Cardiovascular Events in Patients With Type 2 Diabetes Mellitus: 10-Year Follow-Up of a Randomized Controlled Trial": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the efficacy of low-dose aspirin for primary prevention of cardiovascular events in patients with type 2 diabetes mellitus, building on the source paper's results regarding the benefits of antiplatelet therapy.",
+                    "relevance": 1
+                },
+                "9. 2016 AHA/ACC Guideline on the Management of Patients With Lower Extremity Peripheral Artery Disease: Executive Summary": {
+                    "explanation": "This paper is a review paper and does not present novel hypotheses or findings, but rather summarizes existing evidence and provides guidelines for the management of patients with lower extremity peripheral artery disease.",
+                    "relevance": 0
+                },
+                "10. 2016 AHA/ACC Guideline on the Management of Patients With Lower Extremity Peripheral Artery Disease": {
+                    "explanation": "This paper is a review paper and does not present novel hypotheses or findings, but rather summarizes existing evidence and provides guidelines for the management of patients with lower extremity peripheral artery disease.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. A Critical Appraisal of Aspirin in Secondary Prevention: Is Less More?": {
+                    "explanation": "The key hypothesis in this paper is partially dependent on the findings of the source paper, as it discusses the role of aspirin in secondary prevention and its potential limitations, using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "2. Adherence to therapies for secondary prevention of cardiovascular disease: a focus on aspirin": {
+                    "explanation": "The key hypothesis in this paper is partially dependent on the findings of the source paper, as it discusses the importance of adherence to aspirin therapy for secondary prevention of cardiovascular disease, using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "3. Aspirin Resistance Predicts Adverse Cardiovascular Events in Patients with Symptomatic Peripheral Artery Disease": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the impact of aspirin resistance on cardiovascular events in patients with peripheral artery disease, building on the source paper's results regarding the benefits of antiplatelet therapy.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2016,
+        "source_paper": {
+            "paperId": "1e239ffb6d10eb8a7c0b617cb411bdda12f37252",
+            "pmid": "11786451",
+            "title": "Collaborative meta-analysis of randomised trials of antiplatelet therapy for prevention of death, myocardial infarction, and stroke in high risk patients",
+            "abstract": "OBJECTIVE\nTo determine the effects of antiplatelet therapy among patients at high risk of occlusive vascular events.\n\n\nDESIGN\nCollaborative meta-analyses (systematic overviews).\n\n\nINCLUSION CRITERIA\nRandomised trials of an antiplatelet regimen versus control or of one antiplatelet regimen versus another in high risk patients (with acute or previous vascular disease or some other predisposing condition) from which results were available before September 1997. Trials had to use a method of randomisation that precluded prior knowledge of the next treatment to be allocated and comparisons had to be unconfounded-that is, have study groups that differed only in terms of antiplatelet regimen.\n\n\nSTUDIES REVIEWED\n287 studies involving 135 000 patients in comparisons of antiplatelet therapy versus control and 77 000 in comparisons of different antiplatelet regimens.\n\n\nMAIN OUTCOME MEASURE\n\"Serious vascular event\": non-fatal myocardial infarction, non-fatal stroke, or vascular death.\n\n\nRESULTS\nOverall, among these high risk patients, allocation to antiplatelet therapy reduced the combined outcome of any serious vascular event by about one quarter; non-fatal myocardial infarction was reduced by one third, non-fatal stroke by one quarter, and vascular mortality by one sixth (with no apparent adverse effect on other deaths). Absolute reductions in the risk of having a serious vascular event were 36 (SE 5) per 1000 treated for two years among patients with previous myocardial infarction; 38 (5) per 1000 patients treated for one month among patients with acute myocardial infarction; 36 (6) per 1000 treated for two years among those with previous stroke or transient ischaemic attack; 9 (3) per 1000 treated for three weeks among those with acute stroke; and 22 (3) per 1000 treated for two years among other high risk patients (with separately significant results for those with stable angina (P=0.0005), peripheral arterial disease (P=0.004), and atrial fibrillation (P=0.01)). In each of these high risk categories, the absolute benefits substantially outweighed the absolute risks of major extracranial bleeding. Aspirin was the most widely studied antiplatelet drug, with doses of 75-150 mg daily at least as effective as higher daily doses. The effects of doses lower than 75 mg daily were less certain. Clopidogrel reduced serious vascular events by 10% (4%) compared with aspirin, which was similar to the 12% (7%) reduction observed with its analogue ticlopidine. Addition of dipyridamole to aspirin produced no significant further reduction in vascular events compared with aspirin alone. Among patients at high risk of immediate coronary occlusion, short term addition of an intravenous glycoprotein IIb/IIIa antagonist to aspirin prevented a further 20 (4) vascular events per 1000 (P<0.0001) but caused 23 major (but rarely fatal) extracranial bleeds per 1000.\n\n\nCONCLUSIONS\nAspirin (or another oral antiplatelet drug) is protective in most types of patient at increased risk of occlusive vascular events, including those with an acute myocardial infarction or ischaemic stroke, unstable or stable angina, previous myocardial infarction, stroke or cerebral ischaemia, peripheral arterial disease, or atrial fibrillation. Low dose aspirin (75-150 mg daily) is an effective antiplatelet regimen for long term use, but in acute settings an initial loading dose of at least 150 mg aspirin may be required. Adding a second antiplatelet drug to aspirin may produce additional benefits in some clinical circumstances, but more research into this strategy is needed.",
+            "year": 2002,
+            "citation_count": 4642
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Current controversies in the use of aspirin and ticagrelor for the treatment of thrombotic events": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it explores the controversies associated with aspirin therapy and discusses the effectiveness of ticagrelor in preventing thrombotic events.",
+                    "relevance": 1
+                },
+                "2. Secondary prevention after coronary artery bypass graft surgery: a primer": {
+                    "explanation": "This paper has no direct connection to the source paper, as it focuses on secondary prevention after coronary artery bypass graft surgery and does not build upon the source paper's findings.",
+                    "relevance": 0
+                },
+                "3. Synthesis and biological evaluation of some dibenzofuran-piperazine derivatives": {
+                    "explanation": "This paper has no connection to the source paper, as it deals with the synthesis and biological evaluation of dibenzofuran-piperazine derivatives and does not relate to antiplatelet therapy or the prevention of vascular events.",
+                    "relevance": 0
+                },
+                "4. Quality of Diabetes Care in Germany Improved from 2000 to 2007 to 2014, but Improvements Diminished since 2007. Evidence from the Population-Based KORA Studies": {
+                    "explanation": "This paper has no direct connection to the source paper, as it focuses on the quality of diabetes care in Germany and does not build upon the source paper's findings on antiplatelet therapy.",
+                    "relevance": 0
+                },
+                "5. Recurrent stroke risk and cerebral microbleed burden in ischemic stroke and TIA": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the associations between cerebral microbleed burden and recurrent ischemic stroke risk, which is related to the source paper's discussion on antiplatelet therapy and stroke prevention.",
+                    "relevance": 2
+                },
+                "6. Effect of antiplatelet therapy on mortality and acute lung injury in critically ill patients: A systematic review and meta-analysis": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the efficacy of antiplatelet therapy in critically ill patients, which is related to the source paper's discussion on antiplatelet therapy and vascular event prevention.",
+                    "relevance": 1
+                },
+                "7. Using Large\u2010Scale Linkage Data to Evaluate the Effectiveness of a National Educational Program on Antithrombotic Prescribing and Associated Stroke Prevention in Primary Care": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it evaluates the impact of an educational program on antithrombotic prescribing and stroke prevention, which is related to the source paper's discussion on antiplatelet therapy and stroke prevention.",
+                    "relevance": 2
+                },
+                "8. Modifying the Interagency Emergency Health Kit to include treatment for non-communicable diseases in natural disasters and complex emergencies": {
+                    "explanation": "This paper has no direct connection to the source paper, as it focuses on modifying the Interagency Emergency Health Kit to include treatment for non-communicable diseases and does not build upon the source paper's findings.",
+                    "relevance": 0
+                },
+                "9. Low\u2010dose aspirin for prevention of cardiovascular disease in patients on hemodialysis: A 5\u2010y prospective cohort study": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the preventive efficacy of low-dose aspirin in patients on hemodialysis, which is related to the source paper's discussion on antiplatelet therapy and cardiovascular event prevention.",
+                    "relevance": 2
+                },
+                "10. Role of Cilostazol Therapy in Hemodialysis Patients with Asymptomatic Peripheral Arterial Disease: A Retrospective Cohort Study": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the efficacy of cilostazol therapy in hemodialysis patients with asymptomatic peripheral arterial disease, which is related to the source paper's discussion on antiplatelet therapy and cardiovascular event prevention.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Recurrent stroke risk and cerebral microbleed burden in ischemic stroke and TIA": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the associations between cerebral microbleed burden and recurrent ischemic stroke risk, which is related to the source paper's discussion on antiplatelet therapy and stroke prevention.",
+                    "relevance": 2
+                },
+                "2. Using Large\u2010Scale Linkage Data to Evaluate the Effectiveness of a National Educational Program on Antithrombotic Prescribing and Associated Stroke Prevention in Primary Care": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it evaluates the impact of an educational program on antithrombotic prescribing and stroke prevention, which is related to the source paper's discussion on antiplatelet therapy and stroke prevention.",
+                    "relevance": 2
+                },
+                "3. Low\u2010dose aspirin for prevention of cardiovascular disease in patients on hemodialysis: A 5\u2010y prospective cohort study": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the preventive efficacy of low-dose aspirin in patients on hemodialysis, which is related to the source paper's discussion on antiplatelet therapy and cardiovascular event prevention.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2016,
+        "source_paper": {
+            "paperId": "1e239ffb6d10eb8a7c0b617cb411bdda12f37252",
+            "pmid": "11786451",
+            "title": "Collaborative meta-analysis of randomised trials of antiplatelet therapy for prevention of death, myocardial infarction, and stroke in high risk patients",
+            "abstract": "OBJECTIVE\nTo determine the effects of antiplatelet therapy among patients at high risk of occlusive vascular events.\n\n\nDESIGN\nCollaborative meta-analyses (systematic overviews).\n\n\nINCLUSION CRITERIA\nRandomised trials of an antiplatelet regimen versus control or of one antiplatelet regimen versus another in high risk patients (with acute or previous vascular disease or some other predisposing condition) from which results were available before September 1997. Trials had to use a method of randomisation that precluded prior knowledge of the next treatment to be allocated and comparisons had to be unconfounded-that is, have study groups that differed only in terms of antiplatelet regimen.\n\n\nSTUDIES REVIEWED\n287 studies involving 135 000 patients in comparisons of antiplatelet therapy versus control and 77 000 in comparisons of different antiplatelet regimens.\n\n\nMAIN OUTCOME MEASURE\n\"Serious vascular event\": non-fatal myocardial infarction, non-fatal stroke, or vascular death.\n\n\nRESULTS\nOverall, among these high risk patients, allocation to antiplatelet therapy reduced the combined outcome of any serious vascular event by about one quarter; non-fatal myocardial infarction was reduced by one third, non-fatal stroke by one quarter, and vascular mortality by one sixth (with no apparent adverse effect on other deaths). Absolute reductions in the risk of having a serious vascular event were 36 (SE 5) per 1000 treated for two years among patients with previous myocardial infarction; 38 (5) per 1000 patients treated for one month among patients with acute myocardial infarction; 36 (6) per 1000 treated for two years among those with previous stroke or transient ischaemic attack; 9 (3) per 1000 treated for three weeks among those with acute stroke; and 22 (3) per 1000 treated for two years among other high risk patients (with separately significant results for those with stable angina (P=0.0005), peripheral arterial disease (P=0.004), and atrial fibrillation (P=0.01)). In each of these high risk categories, the absolute benefits substantially outweighed the absolute risks of major extracranial bleeding. Aspirin was the most widely studied antiplatelet drug, with doses of 75-150 mg daily at least as effective as higher daily doses. The effects of doses lower than 75 mg daily were less certain. Clopidogrel reduced serious vascular events by 10% (4%) compared with aspirin, which was similar to the 12% (7%) reduction observed with its analogue ticlopidine. Addition of dipyridamole to aspirin produced no significant further reduction in vascular events compared with aspirin alone. Among patients at high risk of immediate coronary occlusion, short term addition of an intravenous glycoprotein IIb/IIIa antagonist to aspirin prevented a further 20 (4) vascular events per 1000 (P<0.0001) but caused 23 major (but rarely fatal) extracranial bleeds per 1000.\n\n\nCONCLUSIONS\nAspirin (or another oral antiplatelet drug) is protective in most types of patient at increased risk of occlusive vascular events, including those with an acute myocardial infarction or ischaemic stroke, unstable or stable angina, previous myocardial infarction, stroke or cerebral ischaemia, peripheral arterial disease, or atrial fibrillation. Low dose aspirin (75-150 mg daily) is an effective antiplatelet regimen for long term use, but in acute settings an initial loading dose of at least 150 mg aspirin may be required. Adding a second antiplatelet drug to aspirin may produce additional benefits in some clinical circumstances, but more research into this strategy is needed.",
+            "year": 2002,
+            "citation_count": 4642
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Contribution of whole platelet aggregometry to the endovascular management of unruptured aneurysms: an institutional experience": {
+                    "explanation": "This paper is partially dependent on the source paper's findings regarding antiplatelet therapy, as it explores the implications of platelet responsiveness to aspirin and clopidogrel in patients undergoing stent-assisted coiling.",
+                    "relevance": 2
+                },
+                "2. Compliance with USPSTF recommendations on aspirin for prevention of cardiovascular disease in men": {
+                    "explanation": "This paper is not directly related to the source paper, as it focuses on compliance with recommendations rather than the effects of antiplatelet therapy.",
+                    "relevance": 0
+                },
+                "3. High prevalence of aspirin resistance in elderly patients with cardiovascular disease and metabolic syndrome": {
+                    "explanation": "This paper is inspired by the source paper's hypothesis, as it investigates the prevalence of aspirin resistance in a specific population and its potential implications for cardiovascular disease.",
+                    "relevance": 1
+                },
+                "4. Prescription of Guideline-Based Medical Therapies at Discharge After Carotid Artery Stenting and Endarterectomy: An NCDR Analysis": {
+                    "explanation": "This paper is partially dependent on the source paper's findings, as it examines the prescription of antiplatelet therapy and statins at discharge after carotid artery revascularization, building on the source paper's results regarding the benefits of antiplatelet therapy.",
+                    "relevance": 2
+                },
+                "5. Effectiveness and Safety of Bivalirudin During Percutaneous Coronary Intervention in Acute Coronary Syndrome in the Real World: CARTAGOMAX Study": {
+                    "explanation": "This paper is not directly related to the source paper, as it focuses on the effectiveness and safety of bivalirudin, a different anticoagulant, rather than antiplatelet therapy.",
+                    "relevance": 0
+                },
+                "6. Two\u2010year results from a randomized clinical trial of revascularization in patients with intermittent claudication": {
+                    "explanation": "This paper is not directly related to the source paper, as it focuses on revascularization techniques rather than antiplatelet therapy.",
+                    "relevance": 0
+                },
+                "7. Aspirin does not reduce the clinical benefits of the mineralocorticoid receptor antagonist eplerenone in patients with systolic heart failure and mild symptoms: an analysis of the EMPHASIS\u2010HF study": {
+                    "explanation": "This paper is inspired by the source paper's hypothesis, as it investigates the interaction between aspirin and eplerenone in patients with systolic heart failure, building on the source paper's results regarding the benefits of antiplatelet therapy.",
+                    "relevance": 1
+                },
+                "8. New antiplatelet drugs and new oral anticoagulants.": {
+                    "explanation": "This paper is a review and not directly related to the source paper, as it discusses new antiplatelet and anticoagulant drugs rather than the effects of antiplatelet therapy.",
+                    "relevance": 0
+                },
+                "9. Increase in colonic diverticular hemorrhage and confounding factors.": {
+                    "explanation": "This paper is not directly related to the source paper, as it focuses on the incidence of colonic diverticular hemorrhage and its associated factors rather than antiplatelet therapy.",
+                    "relevance": 0
+                },
+                "10. Aspirin Use in Secondary Cardiovascular Protection and the Development of Aspirin-Associated Erosions and Ulcers": {
+                    "explanation": "This paper is partially dependent on the source paper's findings, as it examines the prevalence of aspirin-associated erosions and ulcers in patients taking aspirin for secondary cardiovascular protection, building on the source paper's results regarding the benefits and risks of antiplatelet therapy.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Contribution of whole platelet aggregometry to the endovascular management of unruptured aneurysms: an institutional experience": {
+                    "explanation": "This paper is partially dependent on the source paper's findings regarding antiplatelet therapy, as it explores the implications of platelet responsiveness to aspirin and clopidogrel in patients undergoing stent-assisted coiling.",
+                    "relevance": 2
+                },
+                "2. Prescription of Guideline-Based Medical Therapies at Discharge After Carotid Artery Stenting and Endarterectomy: An NCDR Analysis": {
+                    "explanation": "This paper is partially dependent on the source paper's findings, as it examines the prescription of antiplatelet therapy and statins at discharge after carotid artery revascularization, building on the source paper's results regarding the benefits of antiplatelet therapy.",
+                    "relevance": 2
+                },
+                "3. Aspirin Use in Secondary Cardiovascular Protection and the Development of Aspirin-Associated Erosions and Ulcers": {
+                    "explanation": "This paper is partially dependent on the source paper's findings, as it examines the prevalence of aspirin-associated erosions and ulcers in patients taking aspirin for secondary cardiovascular protection, building on the source paper's results regarding the benefits and risks of antiplatelet therapy.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2016,
+        "source_paper": {
+            "paperId": "1e239ffb6d10eb8a7c0b617cb411bdda12f37252",
+            "pmid": "11786451",
+            "title": "Collaborative meta-analysis of randomised trials of antiplatelet therapy for prevention of death, myocardial infarction, and stroke in high risk patients",
+            "abstract": "OBJECTIVE\nTo determine the effects of antiplatelet therapy among patients at high risk of occlusive vascular events.\n\n\nDESIGN\nCollaborative meta-analyses (systematic overviews).\n\n\nINCLUSION CRITERIA\nRandomised trials of an antiplatelet regimen versus control or of one antiplatelet regimen versus another in high risk patients (with acute or previous vascular disease or some other predisposing condition) from which results were available before September 1997. Trials had to use a method of randomisation that precluded prior knowledge of the next treatment to be allocated and comparisons had to be unconfounded-that is, have study groups that differed only in terms of antiplatelet regimen.\n\n\nSTUDIES REVIEWED\n287 studies involving 135 000 patients in comparisons of antiplatelet therapy versus control and 77 000 in comparisons of different antiplatelet regimens.\n\n\nMAIN OUTCOME MEASURE\n\"Serious vascular event\": non-fatal myocardial infarction, non-fatal stroke, or vascular death.\n\n\nRESULTS\nOverall, among these high risk patients, allocation to antiplatelet therapy reduced the combined outcome of any serious vascular event by about one quarter; non-fatal myocardial infarction was reduced by one third, non-fatal stroke by one quarter, and vascular mortality by one sixth (with no apparent adverse effect on other deaths). Absolute reductions in the risk of having a serious vascular event were 36 (SE 5) per 1000 treated for two years among patients with previous myocardial infarction; 38 (5) per 1000 patients treated for one month among patients with acute myocardial infarction; 36 (6) per 1000 treated for two years among those with previous stroke or transient ischaemic attack; 9 (3) per 1000 treated for three weeks among those with acute stroke; and 22 (3) per 1000 treated for two years among other high risk patients (with separately significant results for those with stable angina (P=0.0005), peripheral arterial disease (P=0.004), and atrial fibrillation (P=0.01)). In each of these high risk categories, the absolute benefits substantially outweighed the absolute risks of major extracranial bleeding. Aspirin was the most widely studied antiplatelet drug, with doses of 75-150 mg daily at least as effective as higher daily doses. The effects of doses lower than 75 mg daily were less certain. Clopidogrel reduced serious vascular events by 10% (4%) compared with aspirin, which was similar to the 12% (7%) reduction observed with its analogue ticlopidine. Addition of dipyridamole to aspirin produced no significant further reduction in vascular events compared with aspirin alone. Among patients at high risk of immediate coronary occlusion, short term addition of an intravenous glycoprotein IIb/IIIa antagonist to aspirin prevented a further 20 (4) vascular events per 1000 (P<0.0001) but caused 23 major (but rarely fatal) extracranial bleeds per 1000.\n\n\nCONCLUSIONS\nAspirin (or another oral antiplatelet drug) is protective in most types of patient at increased risk of occlusive vascular events, including those with an acute myocardial infarction or ischaemic stroke, unstable or stable angina, previous myocardial infarction, stroke or cerebral ischaemia, peripheral arterial disease, or atrial fibrillation. Low dose aspirin (75-150 mg daily) is an effective antiplatelet regimen for long term use, but in acute settings an initial loading dose of at least 150 mg aspirin may be required. Adding a second antiplatelet drug to aspirin may produce additional benefits in some clinical circumstances, but more research into this strategy is needed.",
+            "year": 2002,
+            "citation_count": 4642
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. National Heart Foundation of Australia and Cardiac Society of Australia and New Zealand: Australian clinical guidelines for the management of acute coronary syndromes 2016": {
+                    "explanation": "This paper is a clinical guideline and does not directly build upon or use the findings of the source paper as a sub-hypothesis. It is more of a review and implementation of existing knowledge.",
+                    "relevance": 0
+                },
+                "2. Systematic review with meta\u2010analysis: the gastrointestinal benefits of COX\u20102 selective inhibitors with concomitant use of low\u2010dose aspirin": {
+                    "explanation": "This paper is a review and meta-analysis, and while it discusses the use of low-dose aspirin, it does not directly build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 0
+                },
+                "3. Aspirin use for primary prophylaxis: Adverse outcomes in non-variceal upper gastrointestinal bleeding.": {
+                    "explanation": "This paper explores the effects of aspirin on non-variceal upper gastrointestinal bleeding, which is related to but not directly dependent on the findings of the source paper. The source paper discusses the benefits of antiplatelet therapy for preventing occlusive vascular events, and this paper examines a potential adverse outcome of aspirin use.",
+                    "relevance": 1
+                },
+                "4. Knowledge translation lessons from an audit of Aboriginal Australians with acute coronary syndrome presenting to a regional hospital": {
+                    "explanation": "This paper discusses the translation of evidence into practice and does not directly build upon or use the findings of the source paper as a sub-hypothesis. It is more of a case study and analysis of knowledge translation processes.",
+                    "relevance": 0
+                },
+                "5. Patient-independent variables affecting the assessment of aspirin responsiveness by serum thromboxane measurement": {
+                    "explanation": "This paper examines the effects of patient-independent variables on the assessment of aspirin responsiveness, which is related to the source paper's discussion of antiplatelet therapy. However, it does not directly build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "6. A review of the peri-operative risk stratification assessment tools used for the prediction of cardiovascular complications in non-cardiac surgery": {
+                    "explanation": "This paper is a review and does not directly build upon or use the findings of the source paper as a sub-hypothesis. It discusses the prediction of cardiovascular complications in non-cardiac surgery, which is a related but distinct topic.",
+                    "relevance": 0
+                },
+                "7. Acetylsalicylic Acid Daily vs Acetylsalicylic Acid Every 3 Days in Healthy Volunteers: Effect on Platelet Aggregation, Gastric Mucosa, and Prostaglandin E2 Synthesis": {
+                    "explanation": "This paper compares the effects of daily vs every 3 days acetylsalicylic acid on platelet aggregation and gastric mucosa, which is related to the source paper's discussion of antiplatelet therapy. However, it does not directly build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "8. Low-dose Aspirin, Nonsteroidal Anti-inflammatory Drugs, Selective COX-2 Inhibitors and Breast Cancer Recurrence": {
+                    "explanation": "This paper examines the association between low-dose aspirin and breast cancer recurrence, which is related to but not directly dependent on the findings of the source paper. The source paper discusses the benefits of antiplatelet therapy for preventing occlusive vascular events, and this paper examines a potential association with cancer recurrence.",
+                    "relevance": 1
+                },
+                "9. Association between low-dose acetylsalicylic acid reinitiation and the risk of myocardial infarction or coronary heart disease death": {
+                    "explanation": "This paper examines the association between low-dose acetylsalicylic acid reinitiation and cardiovascular risk, which is directly related to the source paper's discussion of antiplatelet therapy. The findings of the source paper could be used as a sub-hypothesis to inform the analysis in this paper.",
+                    "relevance": 2
+                },
+                "10. Clinical Update: Cardiovascular Disease in Diabetes Mellitus Atherosclerotic Cardiovascular Disease and Heart Failure in Type 2 Diabetes Mellitus \u2013 Mechanisms, Management, and Clinical Considerations": {
+                    "explanation": "This paper is a review and does not directly build upon or use the findings of the source paper as a sub-hypothesis. It discusses the management of cardiovascular disease in diabetes mellitus, which is a related but distinct topic.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Association between low-dose acetylsalicylic acid reinitiation and the risk of myocardial infarction or coronary heart disease death": {
+                    "explanation": "This paper examines the association between low-dose acetylsalicylic acid reinitiation and cardiovascular risk, which is directly related to the source paper's discussion of antiplatelet therapy. The findings of the source paper could be used as a sub-hypothesis to inform the analysis in this paper.",
+                    "relevance": 2
+                },
+                "2. Aspirin use for primary prophylaxis: Adverse outcomes in non-variceal upper gastrointestinal bleeding.": {
+                    "explanation": "This paper explores the effects of aspirin on non-variceal upper gastrointestinal bleeding, which is related to but not directly dependent on the findings of the source paper. The source paper discusses the benefits of antiplatelet therapy for preventing occlusive vascular events, and this paper examines a potential adverse outcome of aspirin use.",
+                    "relevance": 1
+                },
+                "3. Patient-independent variables affecting the assessment of aspirin responsiveness by serum thromboxane measurement": {
+                    "explanation": "This paper examines the effects of patient-independent variables on the assessment of aspirin responsiveness, which is related to the source paper's discussion of antiplatelet therapy. However, it does not directly build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2016,
+        "source_paper": {
+            "paperId": "1e239ffb6d10eb8a7c0b617cb411bdda12f37252",
+            "pmid": "11786451",
+            "title": "Collaborative meta-analysis of randomised trials of antiplatelet therapy for prevention of death, myocardial infarction, and stroke in high risk patients",
+            "abstract": "OBJECTIVE\nTo determine the effects of antiplatelet therapy among patients at high risk of occlusive vascular events.\n\n\nDESIGN\nCollaborative meta-analyses (systematic overviews).\n\n\nINCLUSION CRITERIA\nRandomised trials of an antiplatelet regimen versus control or of one antiplatelet regimen versus another in high risk patients (with acute or previous vascular disease or some other predisposing condition) from which results were available before September 1997. Trials had to use a method of randomisation that precluded prior knowledge of the next treatment to be allocated and comparisons had to be unconfounded-that is, have study groups that differed only in terms of antiplatelet regimen.\n\n\nSTUDIES REVIEWED\n287 studies involving 135 000 patients in comparisons of antiplatelet therapy versus control and 77 000 in comparisons of different antiplatelet regimens.\n\n\nMAIN OUTCOME MEASURE\n\"Serious vascular event\": non-fatal myocardial infarction, non-fatal stroke, or vascular death.\n\n\nRESULTS\nOverall, among these high risk patients, allocation to antiplatelet therapy reduced the combined outcome of any serious vascular event by about one quarter; non-fatal myocardial infarction was reduced by one third, non-fatal stroke by one quarter, and vascular mortality by one sixth (with no apparent adverse effect on other deaths). Absolute reductions in the risk of having a serious vascular event were 36 (SE 5) per 1000 treated for two years among patients with previous myocardial infarction; 38 (5) per 1000 patients treated for one month among patients with acute myocardial infarction; 36 (6) per 1000 treated for two years among those with previous stroke or transient ischaemic attack; 9 (3) per 1000 treated for three weeks among those with acute stroke; and 22 (3) per 1000 treated for two years among other high risk patients (with separately significant results for those with stable angina (P=0.0005), peripheral arterial disease (P=0.004), and atrial fibrillation (P=0.01)). In each of these high risk categories, the absolute benefits substantially outweighed the absolute risks of major extracranial bleeding. Aspirin was the most widely studied antiplatelet drug, with doses of 75-150 mg daily at least as effective as higher daily doses. The effects of doses lower than 75 mg daily were less certain. Clopidogrel reduced serious vascular events by 10% (4%) compared with aspirin, which was similar to the 12% (7%) reduction observed with its analogue ticlopidine. Addition of dipyridamole to aspirin produced no significant further reduction in vascular events compared with aspirin alone. Among patients at high risk of immediate coronary occlusion, short term addition of an intravenous glycoprotein IIb/IIIa antagonist to aspirin prevented a further 20 (4) vascular events per 1000 (P<0.0001) but caused 23 major (but rarely fatal) extracranial bleeds per 1000.\n\n\nCONCLUSIONS\nAspirin (or another oral antiplatelet drug) is protective in most types of patient at increased risk of occlusive vascular events, including those with an acute myocardial infarction or ischaemic stroke, unstable or stable angina, previous myocardial infarction, stroke or cerebral ischaemia, peripheral arterial disease, or atrial fibrillation. Low dose aspirin (75-150 mg daily) is an effective antiplatelet regimen for long term use, but in acute settings an initial loading dose of at least 150 mg aspirin may be required. Adding a second antiplatelet drug to aspirin may produce additional benefits in some clinical circumstances, but more research into this strategy is needed.",
+            "year": 2002,
+            "citation_count": 4642
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Age-related increase of thromboxane B2 and risk of cardiovascular disease in atrial fibrillation": {
+                    "explanation": "This paper explores the relationship between age, thromboxane B2, and cardiovascular events in atrial fibrillation patients. Although it does not directly build upon or depend on the source paper's findings, it does investigate a related topic in the field of cardiovascular disease, which is the focus of the source paper.",
+                    "relevance": 1
+                },
+                "2. WITHDRAWN: Chuanxiong preparations for preventing stroke": {
+                    "explanation": "This is a withdrawn review paper that assessed the effects of Chuanxiong preparations on preventing stroke. As a review paper, it does not present novel findings and does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 0
+                },
+                "3. Personalized medicine in thrombosis: back to the future": {
+                    "explanation": "This paper discusses the concept of personalized medicine in thrombosis, including the potential role of genomics in managing venous thrombotic disease. Although it touches on antiplatelet therapy, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "4. Extended-release acetylsalicylic acid for secondary prevention of stroke and cardiovascular events": {
+                    "explanation": "This paper reviews the use of extended-release aspirin for secondary prevention of stroke and cardiovascular events. It builds upon the source paper's findings on the effectiveness of aspirin in preventing cardiovascular events and explores a new formulation of aspirin.",
+                    "relevance": 2
+                },
+                "5. Myocardial injury after noncardiac surgery: an underappreciated problem and current challenges": {
+                    "explanation": "This paper reviews the topic of myocardial injury after noncardiac surgery, which is a related but distinct topic from the source paper's focus on antiplatelet therapy for preventing cardiovascular events.",
+                    "relevance": 1
+                },
+                "6. Does high serum uric acid level cause aspirin resistance?": {
+                    "explanation": "This paper investigates the relationship between serum uric acid levels and aspirin resistance in patients with coronary artery disease. It builds upon the source paper's findings on the effectiveness of aspirin in preventing cardiovascular events and explores a potential mechanism of aspirin resistance.",
+                    "relevance": 2
+                },
+                "7. Cost-Effectiveness of Percutaneous Closure of the Left Atrial Appendage in Atrial Fibrillation Based on Results From PROTECT AF Versus PREVAIL": {
+                    "explanation": "This paper evaluates the cost-effectiveness of percutaneous closure of the left atrial appendage in atrial fibrillation patients. Although it touches on stroke prevention, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "8. Aspirin for Stroke Prevention in Elderly Patients With Vascular Risk Factors: Japanese Primary Prevention Project": {
+                    "explanation": "This paper evaluates the effectiveness of aspirin in preventing stroke in elderly Japanese patients with vascular risk factors. It builds upon the source paper's findings on the effectiveness of aspirin in preventing cardiovascular events and explores a specific population.",
+                    "relevance": 2
+                },
+                "9. Contemporary evaluation and management of lower extremity peripheral artery disease": {
+                    "explanation": "This paper reviews the evaluation and management of peripheral artery disease, which is a related but distinct topic from the source paper's focus on antiplatelet therapy for preventing cardiovascular events.",
+                    "relevance": 1
+                },
+                "10. In Vivo and protease-activated receptor-1-mediated platelet activation in patients presenting for cardiac catheterization": {
+                    "explanation": "This paper investigates the relationship between platelet activation and cardiovascular events in patients undergoing cardiac catheterization. Although it touches on antiplatelet therapy, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Extended-release acetylsalicylic acid for secondary prevention of stroke and cardiovascular events": {
+                    "explanation": "This paper reviews the use of extended-release aspirin for secondary prevention of stroke and cardiovascular events. It builds upon the source paper's findings on the effectiveness of aspirin in preventing cardiovascular events and explores a new formulation of aspirin.",
+                    "relevance": 2
+                },
+                "2. Does high serum uric acid level cause aspirin resistance?": {
+                    "explanation": "This paper investigates the relationship between serum uric acid levels and aspirin resistance in patients with coronary artery disease. It builds upon the source paper's findings on the effectiveness of aspirin in preventing cardiovascular events and explores a potential mechanism of aspirin resistance.",
+                    "relevance": 2
+                },
+                "3. Aspirin for Stroke Prevention in Elderly Patients With Vascular Risk Factors: Japanese Primary Prevention Project": {
+                    "explanation": "This paper evaluates the effectiveness of aspirin in preventing stroke in elderly Japanese patients with vascular risk factors. It builds upon the source paper's findings on the effectiveness of aspirin in preventing cardiovascular events and explores a specific population.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2016,
+        "source_paper": {
+            "paperId": "1e239ffb6d10eb8a7c0b617cb411bdda12f37252",
+            "pmid": "11786451",
+            "title": "Collaborative meta-analysis of randomised trials of antiplatelet therapy for prevention of death, myocardial infarction, and stroke in high risk patients",
+            "abstract": "OBJECTIVE\nTo determine the effects of antiplatelet therapy among patients at high risk of occlusive vascular events.\n\n\nDESIGN\nCollaborative meta-analyses (systematic overviews).\n\n\nINCLUSION CRITERIA\nRandomised trials of an antiplatelet regimen versus control or of one antiplatelet regimen versus another in high risk patients (with acute or previous vascular disease or some other predisposing condition) from which results were available before September 1997. Trials had to use a method of randomisation that precluded prior knowledge of the next treatment to be allocated and comparisons had to be unconfounded-that is, have study groups that differed only in terms of antiplatelet regimen.\n\n\nSTUDIES REVIEWED\n287 studies involving 135 000 patients in comparisons of antiplatelet therapy versus control and 77 000 in comparisons of different antiplatelet regimens.\n\n\nMAIN OUTCOME MEASURE\n\"Serious vascular event\": non-fatal myocardial infarction, non-fatal stroke, or vascular death.\n\n\nRESULTS\nOverall, among these high risk patients, allocation to antiplatelet therapy reduced the combined outcome of any serious vascular event by about one quarter; non-fatal myocardial infarction was reduced by one third, non-fatal stroke by one quarter, and vascular mortality by one sixth (with no apparent adverse effect on other deaths). Absolute reductions in the risk of having a serious vascular event were 36 (SE 5) per 1000 treated for two years among patients with previous myocardial infarction; 38 (5) per 1000 patients treated for one month among patients with acute myocardial infarction; 36 (6) per 1000 treated for two years among those with previous stroke or transient ischaemic attack; 9 (3) per 1000 treated for three weeks among those with acute stroke; and 22 (3) per 1000 treated for two years among other high risk patients (with separately significant results for those with stable angina (P=0.0005), peripheral arterial disease (P=0.004), and atrial fibrillation (P=0.01)). In each of these high risk categories, the absolute benefits substantially outweighed the absolute risks of major extracranial bleeding. Aspirin was the most widely studied antiplatelet drug, with doses of 75-150 mg daily at least as effective as higher daily doses. The effects of doses lower than 75 mg daily were less certain. Clopidogrel reduced serious vascular events by 10% (4%) compared with aspirin, which was similar to the 12% (7%) reduction observed with its analogue ticlopidine. Addition of dipyridamole to aspirin produced no significant further reduction in vascular events compared with aspirin alone. Among patients at high risk of immediate coronary occlusion, short term addition of an intravenous glycoprotein IIb/IIIa antagonist to aspirin prevented a further 20 (4) vascular events per 1000 (P<0.0001) but caused 23 major (but rarely fatal) extracranial bleeds per 1000.\n\n\nCONCLUSIONS\nAspirin (or another oral antiplatelet drug) is protective in most types of patient at increased risk of occlusive vascular events, including those with an acute myocardial infarction or ischaemic stroke, unstable or stable angina, previous myocardial infarction, stroke or cerebral ischaemia, peripheral arterial disease, or atrial fibrillation. Low dose aspirin (75-150 mg daily) is an effective antiplatelet regimen for long term use, but in acute settings an initial loading dose of at least 150 mg aspirin may be required. Adding a second antiplatelet drug to aspirin may produce additional benefits in some clinical circumstances, but more research into this strategy is needed.",
+            "year": 2002,
+            "citation_count": 4642
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Cardiac rehabilitation delivery model for low-resource settings": {
+                    "explanation": "This paper has no direct connection to the source paper as it discusses the delivery model of cardiac rehabilitation in low-resource settings, which is not related to antiplatelet therapy or its effects on high-risk patients.",
+                    "relevance": 0
+                },
+                "2. Current Role of Platelet Glycoprotein IIb/IIIa Inhibition in the Therapeutic Management of Acute Coronary Syndromes in the Stent Era": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it discusses the role of glycoprotein IIb/IIIa inhibitors in acute coronary syndromes, which was also explored in the source paper.",
+                    "relevance": 2
+                },
+                "3. Atrial Fibrillation and Myocardial Infarction: A Systematic Review and Appraisal of Pathophysiologic Mechanisms": {
+                    "explanation": "This paper has no direct connection to the source paper as it discusses the relationship between atrial fibrillation and myocardial infarction, which is not directly related to antiplatelet therapy or its effects on high-risk patients.",
+                    "relevance": 0
+                },
+                "4. State of the art: Oral antiplatelet therapy": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it discusses the current state of oral antiplatelet therapy, including the use of aspirin and clopidogrel, which were also explored in the source paper.",
+                    "relevance": 1
+                },
+                "5. Challenges, solutions and future directions in the evaluation of service innovations in health care and public health": {
+                    "explanation": "This paper has no direct connection to the source paper as it discusses the evaluation of service innovations in healthcare, which is not related to antiplatelet therapy or its effects on high-risk patients.",
+                    "relevance": 0
+                },
+                "6. Evolving Treatments for Acute Ischemic Stroke": {
+                    "explanation": "This paper has no direct connection to the source paper as it discusses the treatment of acute ischemic stroke, which is not directly related to antiplatelet therapy or its effects on high-risk patients.",
+                    "relevance": 0
+                },
+                "7. Usual blood pressure, atrial fibrillation and vascular risk: evidence from 4.3 million adults": {
+                    "explanation": "This paper has no direct connection to the source paper as it discusses the relationship between blood pressure, atrial fibrillation, and vascular risk, which is not directly related to antiplatelet therapy or its effects on high-risk patients.",
+                    "relevance": 0
+                },
+                "8. Pathophysiology of ST-segment elevation myocardial infarction: novel mechanisms and treatments": {
+                    "explanation": "This paper has no direct connection to the source paper as it discusses the pathophysiology and treatment of ST-segment elevation myocardial infarction, which is not directly related to antiplatelet therapy or its effects on high-risk patients.",
+                    "relevance": 0
+                },
+                "9. Aspirin response: Differences in serum thromboxane B2 levels between clinical studies": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it discusses the response to aspirin therapy, which was also explored in the source paper.",
+                    "relevance": 1
+                },
+                "10. Prasugrel, a Platelet P2Y12 Receptor Antagonist, Improves Abnormal Gait in a Novel Murine Model of Thrombotic Hindlimb Ischemia": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it discusses the effects of prasugrel, a platelet P2Y12 receptor antagonist, which is related to the antiplatelet therapy explored in the source paper.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Current Role of Platelet Glycoprotein IIb/IIIa Inhibition in the Therapeutic Management of Acute Coronary Syndromes in the Stent Era": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it discusses the role of glycoprotein IIb/IIIa inhibitors in acute coronary syndromes, which was also explored in the source paper.",
+                    "relevance": 2
+                },
+                "2. Prasugrel, a Platelet P2Y12 Receptor Antagonist, Improves Abnormal Gait in a Novel Murine Model of Thrombotic Hindlimb Ischemia": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it discusses the effects of prasugrel, a platelet P2Y12 receptor antagonist, which is related to the antiplatelet therapy explored in the source paper.",
+                    "relevance": 2
+                },
+                "3. State of the art: Oral antiplatelet therapy": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it discusses the current state of oral antiplatelet therapy, including the use of aspirin and clopidogrel, which were also explored in the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2016,
+        "source_paper": {
+            "paperId": "1e239ffb6d10eb8a7c0b617cb411bdda12f37252",
+            "pmid": "11786451",
+            "title": "Collaborative meta-analysis of randomised trials of antiplatelet therapy for prevention of death, myocardial infarction, and stroke in high risk patients",
+            "abstract": "OBJECTIVE\nTo determine the effects of antiplatelet therapy among patients at high risk of occlusive vascular events.\n\n\nDESIGN\nCollaborative meta-analyses (systematic overviews).\n\n\nINCLUSION CRITERIA\nRandomised trials of an antiplatelet regimen versus control or of one antiplatelet regimen versus another in high risk patients (with acute or previous vascular disease or some other predisposing condition) from which results were available before September 1997. Trials had to use a method of randomisation that precluded prior knowledge of the next treatment to be allocated and comparisons had to be unconfounded-that is, have study groups that differed only in terms of antiplatelet regimen.\n\n\nSTUDIES REVIEWED\n287 studies involving 135 000 patients in comparisons of antiplatelet therapy versus control and 77 000 in comparisons of different antiplatelet regimens.\n\n\nMAIN OUTCOME MEASURE\n\"Serious vascular event\": non-fatal myocardial infarction, non-fatal stroke, or vascular death.\n\n\nRESULTS\nOverall, among these high risk patients, allocation to antiplatelet therapy reduced the combined outcome of any serious vascular event by about one quarter; non-fatal myocardial infarction was reduced by one third, non-fatal stroke by one quarter, and vascular mortality by one sixth (with no apparent adverse effect on other deaths). Absolute reductions in the risk of having a serious vascular event were 36 (SE 5) per 1000 treated for two years among patients with previous myocardial infarction; 38 (5) per 1000 patients treated for one month among patients with acute myocardial infarction; 36 (6) per 1000 treated for two years among those with previous stroke or transient ischaemic attack; 9 (3) per 1000 treated for three weeks among those with acute stroke; and 22 (3) per 1000 treated for two years among other high risk patients (with separately significant results for those with stable angina (P=0.0005), peripheral arterial disease (P=0.004), and atrial fibrillation (P=0.01)). In each of these high risk categories, the absolute benefits substantially outweighed the absolute risks of major extracranial bleeding. Aspirin was the most widely studied antiplatelet drug, with doses of 75-150 mg daily at least as effective as higher daily doses. The effects of doses lower than 75 mg daily were less certain. Clopidogrel reduced serious vascular events by 10% (4%) compared with aspirin, which was similar to the 12% (7%) reduction observed with its analogue ticlopidine. Addition of dipyridamole to aspirin produced no significant further reduction in vascular events compared with aspirin alone. Among patients at high risk of immediate coronary occlusion, short term addition of an intravenous glycoprotein IIb/IIIa antagonist to aspirin prevented a further 20 (4) vascular events per 1000 (P<0.0001) but caused 23 major (but rarely fatal) extracranial bleeds per 1000.\n\n\nCONCLUSIONS\nAspirin (or another oral antiplatelet drug) is protective in most types of patient at increased risk of occlusive vascular events, including those with an acute myocardial infarction or ischaemic stroke, unstable or stable angina, previous myocardial infarction, stroke or cerebral ischaemia, peripheral arterial disease, or atrial fibrillation. Low dose aspirin (75-150 mg daily) is an effective antiplatelet regimen for long term use, but in acute settings an initial loading dose of at least 150 mg aspirin may be required. Adding a second antiplatelet drug to aspirin may produce additional benefits in some clinical circumstances, but more research into this strategy is needed.",
+            "year": 2002,
+            "citation_count": 4642
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. PROMISE of Coronary CT Angiography: Precise and Accurate Diagnosis and Prognosis in Coronary Artery Disease": {
+                    "explanation": "This paper has no connection with the source paper. The source paper discusses the effects of antiplatelet therapy, while this paper focuses on the use of coronary computed tomography angiography (CCTA) for diagnosing coronary artery disease.",
+                    "relevance": 0
+                },
+                "2. Platelet response to increased aspirin dose in patients with persistent platelet aggregation while treated with aspirin 81\u2009mg": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the optimal aspirin dose for preventing platelet aggregation, building on the source paper's results regarding the effectiveness of aspirin in preventing vascular events.",
+                    "relevance": 1
+                },
+                "3. The Burden of Major Adverse Cardiac Events and Antiplatelet Prevention in Patients with Coronary or Peripheral Arterial Disease": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it discusses the burden of major adverse cardiac events in patients with coronary or peripheral arterial disease and the role of antiplatelet prevention, using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "4. Cardiovascular safety of non-aspirin non-steroidal anti-inflammatory drugs: review and position paper by the working group for Cardiovascular Pharmacotherapy of the European Society of Cardiology": {
+                    "explanation": "This paper has no connection with the source paper. The source paper discusses the effects of antiplatelet therapy, while this paper focuses on the cardiovascular safety of non-aspirin non-steroidal anti-inflammatory drugs.",
+                    "relevance": 0
+                },
+                "5. Cardiovascular safety of non-aspirin non-steroidal anti-inflammatory drugs: review and position paper by the working group for Cardiovascular Pharmacotherapy of the European Society of Cardiology": {
+                    "explanation": "This paper has no connection with the source paper. The source paper discusses the effects of antiplatelet therapy, while this paper focuses on the cardiovascular safety of non-aspirin non-steroidal anti-inflammatory drugs.",
+                    "relevance": 0
+                },
+                "6. Therapeutic Targets for Management of Periodontitis and Diabetes": {
+                    "explanation": "This paper has no connection with the source paper. The source paper discusses the effects of antiplatelet therapy, while this paper focuses on the management of periodontitis and diabetes.",
+                    "relevance": 0
+                },
+                "7. Increases in ambient particulate matter air pollution, acute changes in platelet function, and effect modification by aspirin and omega-3 fatty acids: A panel study": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effect of aspirin on platelet function in the context of air pollution, building on the source paper's results regarding the effectiveness of aspirin in preventing vascular events.",
+                    "relevance": 1
+                },
+                "8. Medicinal Herbals with Antiplatelet Properties Benefit in Coronary Atherothrombotic Diseases": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it discusses the use of medicinal herbals with antiplatelet properties in the prevention of coronary atherothrombotic diseases, building on the source paper's results regarding the effectiveness of antiplatelet therapy.",
+                    "relevance": 1
+                },
+                "9. Antithrombotic therapy in medically managed patients with non-ST-segment elevation acute coronary syndromes": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it discusses the use of antithrombotic therapy in patients with non-ST-segment elevation acute coronary syndromes, using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "10. Aspirin resistance in cerebrovascular disease and the role of glycoprotein IIIa polymorphism in Turkish stroke patients": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the phenomenon of aspirin resistance in patients with cerebrovascular disease, building on the source paper's results regarding the effectiveness of aspirin in preventing vascular events.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. The Burden of Major Adverse Cardiac Events and Antiplatelet Prevention in Patients with Coronary or Peripheral Arterial Disease": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it discusses the burden of major adverse cardiac events in patients with coronary or peripheral arterial disease and the role of antiplatelet prevention, using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "2. Antithrombotic therapy in medically managed patients with non-ST-segment elevation acute coronary syndromes": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it discusses the use of antithrombotic therapy in patients with non-ST-segment elevation acute coronary syndromes, using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "3. Platelet response to increased aspirin dose in patients with persistent platelet aggregation while treated with aspirin 81\u2009mg": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the optimal aspirin dose for preventing platelet aggregation, building on the source paper's results regarding the effectiveness of aspirin in preventing vascular events.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2016,
+        "source_paper": {
+            "paperId": "1e239ffb6d10eb8a7c0b617cb411bdda12f37252",
+            "pmid": "11786451",
+            "title": "Collaborative meta-analysis of randomised trials of antiplatelet therapy for prevention of death, myocardial infarction, and stroke in high risk patients",
+            "abstract": "OBJECTIVE\nTo determine the effects of antiplatelet therapy among patients at high risk of occlusive vascular events.\n\n\nDESIGN\nCollaborative meta-analyses (systematic overviews).\n\n\nINCLUSION CRITERIA\nRandomised trials of an antiplatelet regimen versus control or of one antiplatelet regimen versus another in high risk patients (with acute or previous vascular disease or some other predisposing condition) from which results were available before September 1997. Trials had to use a method of randomisation that precluded prior knowledge of the next treatment to be allocated and comparisons had to be unconfounded-that is, have study groups that differed only in terms of antiplatelet regimen.\n\n\nSTUDIES REVIEWED\n287 studies involving 135 000 patients in comparisons of antiplatelet therapy versus control and 77 000 in comparisons of different antiplatelet regimens.\n\n\nMAIN OUTCOME MEASURE\n\"Serious vascular event\": non-fatal myocardial infarction, non-fatal stroke, or vascular death.\n\n\nRESULTS\nOverall, among these high risk patients, allocation to antiplatelet therapy reduced the combined outcome of any serious vascular event by about one quarter; non-fatal myocardial infarction was reduced by one third, non-fatal stroke by one quarter, and vascular mortality by one sixth (with no apparent adverse effect on other deaths). Absolute reductions in the risk of having a serious vascular event were 36 (SE 5) per 1000 treated for two years among patients with previous myocardial infarction; 38 (5) per 1000 patients treated for one month among patients with acute myocardial infarction; 36 (6) per 1000 treated for two years among those with previous stroke or transient ischaemic attack; 9 (3) per 1000 treated for three weeks among those with acute stroke; and 22 (3) per 1000 treated for two years among other high risk patients (with separately significant results for those with stable angina (P=0.0005), peripheral arterial disease (P=0.004), and atrial fibrillation (P=0.01)). In each of these high risk categories, the absolute benefits substantially outweighed the absolute risks of major extracranial bleeding. Aspirin was the most widely studied antiplatelet drug, with doses of 75-150 mg daily at least as effective as higher daily doses. The effects of doses lower than 75 mg daily were less certain. Clopidogrel reduced serious vascular events by 10% (4%) compared with aspirin, which was similar to the 12% (7%) reduction observed with its analogue ticlopidine. Addition of dipyridamole to aspirin produced no significant further reduction in vascular events compared with aspirin alone. Among patients at high risk of immediate coronary occlusion, short term addition of an intravenous glycoprotein IIb/IIIa antagonist to aspirin prevented a further 20 (4) vascular events per 1000 (P<0.0001) but caused 23 major (but rarely fatal) extracranial bleeds per 1000.\n\n\nCONCLUSIONS\nAspirin (or another oral antiplatelet drug) is protective in most types of patient at increased risk of occlusive vascular events, including those with an acute myocardial infarction or ischaemic stroke, unstable or stable angina, previous myocardial infarction, stroke or cerebral ischaemia, peripheral arterial disease, or atrial fibrillation. Low dose aspirin (75-150 mg daily) is an effective antiplatelet regimen for long term use, but in acute settings an initial loading dose of at least 150 mg aspirin may be required. Adding a second antiplatelet drug to aspirin may produce additional benefits in some clinical circumstances, but more research into this strategy is needed.",
+            "year": 2002,
+            "citation_count": 4642
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Antiplatelet regimens in the long-term secondary prevention of transient ischaemic attack and ischaemic stroke: an updated network meta-analysis": {
+                    "explanation": "This paper builds on the source paper's findings regarding antiplatelet therapy by examining the comparative efficacy and safety of different antiplatelet regimens in patients with prior non-cardioembolic ischaemic stroke or transient ischaemic attack.",
+                    "relevance": 2
+                },
+                "2. Low dose aspirin and pregnancy: how important is aspirin resistance?": {
+                    "explanation": "This paper explores the concept of aspirin resistance, which is related to the source paper's discussion of aspirin as an antiplatelet agent, but does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "3. A novel thromboxane receptor antagonist, nstpbp5185, inhibits platelet aggregation and thrombus formation in animal models": {
+                    "explanation": "This paper presents a new antiplatelet agent, which is related to the source paper's topic of antiplatelet therapy, but does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "4. Should Patients be on Antithrombotic Medication for their First Arteriovenous Fistulae?": {
+                    "explanation": "This paper discusses the use of antithrombotic medication in patients with arteriovenous fistulae, which is related to the source paper's topic of antiplatelet therapy, but does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "5. Platelets as Biomarkers of Coronary Artery Disease": {
+                    "explanation": "This paper discusses the role of platelets in coronary artery disease, which is related to the source paper's topic of antiplatelet therapy, but does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "6. Baseline Characterization of Japanese Peripheral Arterial Disease Patients\u3000- Analysis of Surveillance of Cardiovascular Events in Antiplatelet-Treated Arteriosclerosis Obliterans Patients in Japan (SEASON).": {
+                    "explanation": "This paper presents baseline characteristics of patients with peripheral arterial disease, which is related to the source paper's topic of antiplatelet therapy, but does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "7. Resource use and costs in high-risk symptomatic peripheral artery disease patients with diabetes and prior acute coronary syndrome: a retrospective analysis": {
+                    "explanation": "This paper discusses the resource use and costs in patients with peripheral artery disease, which is related to the source paper's topic of antiplatelet therapy, but does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "8. Platelets and Antiplatelet Therapy in Patients with Coronary Artery Disease and Diabetes": {
+                    "explanation": "This paper discusses the role of platelets and antiplatelet therapy in patients with coronary artery disease and diabetes, which is related to the source paper's topic of antiplatelet therapy, but does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "9. Continuing aspirin before coronary artery bypass grafting surgery: old fears challenged by new evidences.": {
+                    "explanation": "This paper discusses the use of aspirin before coronary artery bypass grafting surgery, which is related to the source paper's topic of antiplatelet therapy, but does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "10. Intensive LDL lowering therapy for prevention of recurrent cardiovascular events: a word of caution.": {
+                    "explanation": "This paper discusses the use of intensive LDL lowering therapy, which is not directly related to the source paper's topic of antiplatelet therapy.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Antiplatelet regimens in the long-term secondary prevention of transient ischaemic attack and ischaemic stroke: an updated network meta-analysis": {
+                    "explanation": "This paper builds on the source paper's findings regarding antiplatelet therapy by examining the comparative efficacy and safety of different antiplatelet regimens in patients with prior non-cardioembolic ischaemic stroke or transient ischaemic attack.",
+                    "relevance": 2
+                },
+                "2. Low dose aspirin and pregnancy: how important is aspirin resistance?": {
+                    "explanation": "This paper explores the concept of aspirin resistance, which is related to the source paper's discussion of aspirin as an antiplatelet agent, but does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "3. A novel thromboxane receptor antagonist, nstpbp5185, inhibits platelet aggregation and thrombus formation in animal models": {
+                    "explanation": "This paper presents a new antiplatelet agent, which is related to the source paper's topic of antiplatelet therapy, but does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2016,
+        "source_paper": {
+            "paperId": "1e239ffb6d10eb8a7c0b617cb411bdda12f37252",
+            "pmid": "11786451",
+            "title": "Collaborative meta-analysis of randomised trials of antiplatelet therapy for prevention of death, myocardial infarction, and stroke in high risk patients",
+            "abstract": "OBJECTIVE\nTo determine the effects of antiplatelet therapy among patients at high risk of occlusive vascular events.\n\n\nDESIGN\nCollaborative meta-analyses (systematic overviews).\n\n\nINCLUSION CRITERIA\nRandomised trials of an antiplatelet regimen versus control or of one antiplatelet regimen versus another in high risk patients (with acute or previous vascular disease or some other predisposing condition) from which results were available before September 1997. Trials had to use a method of randomisation that precluded prior knowledge of the next treatment to be allocated and comparisons had to be unconfounded-that is, have study groups that differed only in terms of antiplatelet regimen.\n\n\nSTUDIES REVIEWED\n287 studies involving 135 000 patients in comparisons of antiplatelet therapy versus control and 77 000 in comparisons of different antiplatelet regimens.\n\n\nMAIN OUTCOME MEASURE\n\"Serious vascular event\": non-fatal myocardial infarction, non-fatal stroke, or vascular death.\n\n\nRESULTS\nOverall, among these high risk patients, allocation to antiplatelet therapy reduced the combined outcome of any serious vascular event by about one quarter; non-fatal myocardial infarction was reduced by one third, non-fatal stroke by one quarter, and vascular mortality by one sixth (with no apparent adverse effect on other deaths). Absolute reductions in the risk of having a serious vascular event were 36 (SE 5) per 1000 treated for two years among patients with previous myocardial infarction; 38 (5) per 1000 patients treated for one month among patients with acute myocardial infarction; 36 (6) per 1000 treated for two years among those with previous stroke or transient ischaemic attack; 9 (3) per 1000 treated for three weeks among those with acute stroke; and 22 (3) per 1000 treated for two years among other high risk patients (with separately significant results for those with stable angina (P=0.0005), peripheral arterial disease (P=0.004), and atrial fibrillation (P=0.01)). In each of these high risk categories, the absolute benefits substantially outweighed the absolute risks of major extracranial bleeding. Aspirin was the most widely studied antiplatelet drug, with doses of 75-150 mg daily at least as effective as higher daily doses. The effects of doses lower than 75 mg daily were less certain. Clopidogrel reduced serious vascular events by 10% (4%) compared with aspirin, which was similar to the 12% (7%) reduction observed with its analogue ticlopidine. Addition of dipyridamole to aspirin produced no significant further reduction in vascular events compared with aspirin alone. Among patients at high risk of immediate coronary occlusion, short term addition of an intravenous glycoprotein IIb/IIIa antagonist to aspirin prevented a further 20 (4) vascular events per 1000 (P<0.0001) but caused 23 major (but rarely fatal) extracranial bleeds per 1000.\n\n\nCONCLUSIONS\nAspirin (or another oral antiplatelet drug) is protective in most types of patient at increased risk of occlusive vascular events, including those with an acute myocardial infarction or ischaemic stroke, unstable or stable angina, previous myocardial infarction, stroke or cerebral ischaemia, peripheral arterial disease, or atrial fibrillation. Low dose aspirin (75-150 mg daily) is an effective antiplatelet regimen for long term use, but in acute settings an initial loading dose of at least 150 mg aspirin may be required. Adding a second antiplatelet drug to aspirin may produce additional benefits in some clinical circumstances, but more research into this strategy is needed.",
+            "year": 2002,
+            "citation_count": 4642
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Factors Influencing the Prescription of Cardiovascular Preventive Therapies in Patients with Peripheral Arterial Disease": {
+                    "explanation": "The source paper established the benefits of antiplatelet therapy for high-risk patients. This paper investigates factors associated with the prescription of preventive therapies, including antiplatelets, in patients with peripheral arterial disease. The hypothesis is inspired by the findings of the source paper.",
+                    "relevance": 1
+                },
+                "2. Platelet Counts, Acute Kidney Injury, and Mortality after Coronary Artery Bypass Grafting Surgery": {
+                    "explanation": "The source paper highlighted the importance of antiplatelet therapy in reducing serious vascular events. This paper explores the association between postoperative platelet counts and acute kidney injury and mortality after coronary artery bypass grafting surgery. Although it does not directly build upon the source paper's findings, it does investigate platelet-related outcomes, which is related to antiplatelet therapy. However, the connection is not strong enough to be considered a sub-hypothesis, so it's considered a score of 1.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Factors Influencing the Prescription of Cardiovascular Preventive Therapies in Patients with Peripheral Arterial Disease": {
+                    "explanation": "The source paper established the benefits of antiplatelet therapy for high-risk patients. This paper investigates factors associated with the prescription of preventive therapies, including antiplatelets, in patients with peripheral arterial disease. The hypothesis is inspired by the findings of the source paper.",
+                    "relevance": 1
+                },
+                "2. Platelet Counts, Acute Kidney Injury, and Mortality after Coronary Artery Bypass Grafting Surgery": {
+                    "explanation": "The source paper highlighted the importance of antiplatelet therapy in reducing serious vascular events. This paper explores the association between postoperative platelet counts and acute kidney injury and mortality after coronary artery bypass grafting surgery. Although it does not directly build upon the source paper's findings, it does investigate platelet-related outcomes, which is related to antiplatelet therapy.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2017,
+        "source_paper": {
+            "paperId": "e7172f2433819c90328572c51cacc8c7c6519811",
+            "title": "Recurrent stroke risk and cerebral microbleed burden in ischemic stroke and TIA",
+            "abstract": "Objective: To determine associations between cerebral microbleed (CMB) burden with recurrent ischemic stroke (IS) and intracerebral hemorrhage (ICH) risk after IS or TIA. Methods: We identified prospective studies of patients with IS or TIA that investigated CMBs and stroke (ICH and IS) risk during \u22653 months follow-up. Authors provided aggregate summary-level data on stroke outcomes, with CMBs categorized according to burden (single, 2\u20134, and \u22655 CMBs) and distribution. We calculated absolute event rates and pooled risk ratios (RR) using random-effects meta-analysis. Results: We included 5,068 patients from 15 studies. There were 115/1,284 (9.6%) recurrent IS events in patients with CMBs vs 212/3,781 (5.6%) in patients without CMBs (pooled RR 1.8 for CMBs vs no CMBs; 95% confidence interval [CI] 1.4\u20132.5). There were 49/1,142 (4.3%) ICH events in those with CMBs vs 17/2,912 (0.58%) in those without CMBs (pooled RR 6.3 for CMBs vs no CMBs; 95% CI 3.5\u201311.4). Increasing CMB burden increased the risk of IS (pooled RR [95% CI] 1.8 [1.0\u20133.1], 2.4 [1.3\u20134.4], and 2.7 [1.5\u20134.9] for 1 CMB, 2\u20134 CMBs, and \u22655 CMBs, respectively) and ICH (pooled RR [95% CI] 4.6 [1.9\u201310.7], 5.6 [2.4\u201313.3], and 14.1 [6.9\u201329.0] for 1 CMB, 2\u20134 CMBs, and \u22655 CMBs, respectively). Conclusions: CMBs are associated with increased stroke risk after IS or TIA. With increasing CMB burden (compared to no CMBs), the risk of ICH increases more steeply than that of IS. However, IS absolute event rates remain higher than ICH absolute event rates in all CMB burden categories.",
+            "year": 2016,
+            "citation_count": 123,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the associations between cerebral microbleed burden and recurrent ischemic stroke risk, which is related to the source paper's discussion on antiplatelet therapy and stroke prevention."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Brain microbleeds, anticoagulation, and hemorrhage risk": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the association between cerebral microbleeds and future spontaneous intracerebral hemorrhage risk in ischemic stroke patients with nonvalvular atrial fibrillation, building on the source paper's results regarding cerebral microbleeds and stroke risk.",
+                    "relevance": 2
+                },
+                "2. Long\u2010Term Prognostic Implications of Cerebral Microbleeds in Chinese Patients With Ischemic Stroke": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it examines the long-term prognostic implications of cerebral microbleeds in Chinese patients with ischemic stroke, using the source paper's findings on cerebral microbleeds and stroke risk as a foundation.",
+                    "relevance": 2
+                },
+                "3. The increasing impact of cerebral amyloid angiopathy: essential new insights for clinical practice": {
+                    "explanation": "This paper is a review and does not directly build upon the source paper's findings, but rather provides a broader context for understanding cerebral amyloid angiopathy and its relationship to cerebral microbleeds.",
+                    "relevance": 0
+                },
+                "4. Microbleeds in the Secondary Prevention of Small Subcortical Strokes Trial: Stroke, mortality, and treatment interactions": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the relationship between cerebral microbleeds and stroke outcomes in the context of the Secondary Prevention of Small Subcortical Strokes Trial.",
+                    "relevance": 1
+                },
+                "5. Red blood cell distribution width and ischaemic stroke": {
+                    "explanation": "This paper does not have a direct connection to the source paper, as it explores the relationship between red blood cell distribution width and ischemic stroke, without referencing cerebral microbleeds or the source paper's findings.",
+                    "relevance": 0
+                },
+                "6. Total small vessel disease score and risk of recurrent stroke": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it develops a total small vessel disease score that includes cerebral microbleeds as a component, building on the source paper's results regarding cerebral microbleeds and stroke risk.",
+                    "relevance": 2
+                },
+                "7. Antithrombotic treatment after stroke due to intracerebral haemorrhage": {
+                    "explanation": "This paper is a systematic review and does not directly build upon the source paper's findings, but rather provides a broader context for understanding antithrombotic treatment after intracerebral hemorrhage.",
+                    "relevance": 0
+                },
+                "8. Cerebral Microbleed Detection by Wavelet Entropy and Naive Bayes Classifier": {
+                    "explanation": "This paper does not have a direct connection to the source paper, as it focuses on developing a method for detecting cerebral microbleeds, without referencing the source paper's findings or exploring the relationship between cerebral microbleeds and stroke risk.",
+                    "relevance": 0
+                },
+                "9. Cerebral Microbleeds: Treatment Conundrum in Acute Ischemic Stroke": {
+                    "explanation": "This paper is a review and does not directly build upon the source paper's findings, but rather provides a broader context for understanding cerebral microbleeds and their treatment in acute ischemic stroke.",
+                    "relevance": 0
+                },
+                "10. Antithrombotic therapy in patients with cerebral microbleeds": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it discusses the implications of cerebral microbleeds for antithrombotic therapy, building on the source paper's results regarding cerebral microbleeds and stroke risk.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Brain microbleeds, anticoagulation, and hemorrhage risk": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the association between cerebral microbleeds and future spontaneous intracerebral hemorrhage risk in ischemic stroke patients with nonvalvular atrial fibrillation, building on the source paper's results regarding cerebral microbleeds and stroke risk.",
+                    "relevance": 2
+                },
+                "2. Long\u2010Term Prognostic Implications of Cerebral Microbleeds in Chinese Patients With Ischemic Stroke": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it examines the long-term prognostic implications of cerebral microbleeds in Chinese patients with ischemic stroke, using the source paper's findings on cerebral microbleeds and stroke risk as a foundation.",
+                    "relevance": 2
+                },
+                "3. Total small vessel disease score and risk of recurrent stroke": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it develops a total small vessel disease score that includes cerebral microbleeds as a component, building on the source paper's results regarding cerebral microbleeds and stroke risk.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2017,
+        "source_paper": {
+            "paperId": "e7172f2433819c90328572c51cacc8c7c6519811",
+            "title": "Recurrent stroke risk and cerebral microbleed burden in ischemic stroke and TIA",
+            "abstract": "Objective: To determine associations between cerebral microbleed (CMB) burden with recurrent ischemic stroke (IS) and intracerebral hemorrhage (ICH) risk after IS or TIA. Methods: We identified prospective studies of patients with IS or TIA that investigated CMBs and stroke (ICH and IS) risk during \u22653 months follow-up. Authors provided aggregate summary-level data on stroke outcomes, with CMBs categorized according to burden (single, 2\u20134, and \u22655 CMBs) and distribution. We calculated absolute event rates and pooled risk ratios (RR) using random-effects meta-analysis. Results: We included 5,068 patients from 15 studies. There were 115/1,284 (9.6%) recurrent IS events in patients with CMBs vs 212/3,781 (5.6%) in patients without CMBs (pooled RR 1.8 for CMBs vs no CMBs; 95% confidence interval [CI] 1.4\u20132.5). There were 49/1,142 (4.3%) ICH events in those with CMBs vs 17/2,912 (0.58%) in those without CMBs (pooled RR 6.3 for CMBs vs no CMBs; 95% CI 3.5\u201311.4). Increasing CMB burden increased the risk of IS (pooled RR [95% CI] 1.8 [1.0\u20133.1], 2.4 [1.3\u20134.4], and 2.7 [1.5\u20134.9] for 1 CMB, 2\u20134 CMBs, and \u22655 CMBs, respectively) and ICH (pooled RR [95% CI] 4.6 [1.9\u201310.7], 5.6 [2.4\u201313.3], and 14.1 [6.9\u201329.0] for 1 CMB, 2\u20134 CMBs, and \u22655 CMBs, respectively). Conclusions: CMBs are associated with increased stroke risk after IS or TIA. With increasing CMB burden (compared to no CMBs), the risk of ICH increases more steeply than that of IS. However, IS absolute event rates remain higher than ICH absolute event rates in all CMB burden categories.",
+            "year": 2016,
+            "citation_count": 123,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the associations between cerebral microbleed burden and recurrent ischemic stroke risk, which is related to the source paper's discussion on antiplatelet therapy and stroke prevention."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Should Patients With Ischemic Stroke or Transient Ischemic Attack With Atrial Fibrillation and Microbleeds Be Anticoagulated?": {
+                    "explanation": "This paper directly references the source paper, using the meta-analysis results from the source paper to discuss the risk of cerebral microbleeds (CMBs) for future ischemic and hemorrhagic strokes. The paper builds upon the source paper's findings, exploring the implications for anticoagulant therapy in patients with atrial fibrillation and CMBs.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Should Patients With Ischemic Stroke or Transient Ischemic Attack With Atrial Fibrillation and Microbleeds Be Anticoagulated?": {
+                    "explanation": "This paper directly references the source paper, using the meta-analysis results from the source paper to discuss the risk of cerebral microbleeds (CMBs) for future ischemic and hemorrhagic strokes. The paper builds upon the source paper's findings, exploring the implications for anticoagulant therapy in patients with atrial fibrillation and CMBs.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2018,
+        "source_paper": {
+            "paperId": "e7172f2433819c90328572c51cacc8c7c6519811",
+            "title": "Recurrent stroke risk and cerebral microbleed burden in ischemic stroke and TIA",
+            "abstract": "Objective: To determine associations between cerebral microbleed (CMB) burden with recurrent ischemic stroke (IS) and intracerebral hemorrhage (ICH) risk after IS or TIA. Methods: We identified prospective studies of patients with IS or TIA that investigated CMBs and stroke (ICH and IS) risk during \u22653 months follow-up. Authors provided aggregate summary-level data on stroke outcomes, with CMBs categorized according to burden (single, 2\u20134, and \u22655 CMBs) and distribution. We calculated absolute event rates and pooled risk ratios (RR) using random-effects meta-analysis. Results: We included 5,068 patients from 15 studies. There were 115/1,284 (9.6%) recurrent IS events in patients with CMBs vs 212/3,781 (5.6%) in patients without CMBs (pooled RR 1.8 for CMBs vs no CMBs; 95% confidence interval [CI] 1.4\u20132.5). There were 49/1,142 (4.3%) ICH events in those with CMBs vs 17/2,912 (0.58%) in those without CMBs (pooled RR 6.3 for CMBs vs no CMBs; 95% CI 3.5\u201311.4). Increasing CMB burden increased the risk of IS (pooled RR [95% CI] 1.8 [1.0\u20133.1], 2.4 [1.3\u20134.4], and 2.7 [1.5\u20134.9] for 1 CMB, 2\u20134 CMBs, and \u22655 CMBs, respectively) and ICH (pooled RR [95% CI] 4.6 [1.9\u201310.7], 5.6 [2.4\u201313.3], and 14.1 [6.9\u201329.0] for 1 CMB, 2\u20134 CMBs, and \u22655 CMBs, respectively). Conclusions: CMBs are associated with increased stroke risk after IS or TIA. With increasing CMB burden (compared to no CMBs), the risk of ICH increases more steeply than that of IS. However, IS absolute event rates remain higher than ICH absolute event rates in all CMB burden categories.",
+            "year": 2016,
+            "citation_count": 123,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the associations between cerebral microbleed burden and recurrent ischemic stroke risk, which is related to the source paper's discussion on antiplatelet therapy and stroke prevention."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Neurologic phenotypes associated with COL4A1/2 mutations": {
+                    "explanation": "This paper does not have a connection with the source paper as it focuses on COL4A1/2 mutations and their association with neurologic phenotypes, whereas the source paper is about cerebral microbleed burden in ischemic stroke and TIA.",
+                    "relevance": 0
+                },
+                "2. Cerebral Microbleeds and the Safety of Anticoagulation in Ischemic Stroke Patients: A Systematic Review and Meta-Analysis": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the safety of anticoagulation in ischemic stroke patients with cerebral microbleeds, building on the source paper's results regarding the association between cerebral microbleeds and stroke risk.",
+                    "relevance": 1
+                },
+                "3. Microbleeds in fronto-subcortical circuits are predictive of dementia conversion in patients with vascular cognitive impairment but no dementia": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the predictive role of cerebral microbleeds in dementia conversion, using the source paper's findings on the association between cerebral microbleeds and stroke risk as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "4. Characteristics of Cerebral Microbleeds": {
+                    "explanation": "This paper is a review paper and does not present novel hypotheses or findings. It summarizes the concepts, cause or risk factors, histopathological mechanisms, and clinical consequences of cerebral microbleeds.",
+                    "relevance": 0
+                },
+                "5. Microbleeds in ischemic vs hemorrhagic strokes on novel oral anticoagulants": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the differences in clinical characteristics and severity of cerebral small vessel disease, including cerebral microbleeds, between patients suffering ischemic stroke or intracerebral hemorrhage while taking novel oral anticoagulants, building on the source paper's results regarding the association between cerebral microbleeds and stroke risk.",
+                    "relevance": 1
+                },
+                "6. Cerebral amyloid angiopathy: diagnosis and potential therapies": {
+                    "explanation": "This paper does not have a direct connection with the source paper as it focuses on cerebral amyloid angiopathy, its diagnosis, and potential therapies, whereas the source paper is about cerebral microbleed burden in ischemic stroke and TIA.",
+                    "relevance": 0
+                },
+                "7. Antiplatelet Treatment After Transient Ischemic Attack and Ischemic Stroke in Patients With Cerebral Microbleeds in 2 Large Cohorts and an Updated Systematic Review": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the implications of cerebral microbleeds for antiplatelet treatment in patients with transient ischemic attack or ischemic stroke, using the source paper's findings on the association between cerebral microbleeds and stroke risk as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "8. Upregulation of heme oxygenase-1 protected against brain damage induced by transient cerebral ischemia-reperfusion injury in rats": {
+                    "explanation": "This paper does not have a connection with the source paper as it focuses on the neuroprotective role of heme oxygenase-1 in cerebral ischemia-reperfusion injury in rats, whereas the source paper is about cerebral microbleed burden in ischemic stroke and TIA in humans.",
+                    "relevance": 0
+                },
+                "9. Effects of cerebral small vessel disease on the outcome of patients with ischemic stroke caused by large artery atherosclerosis": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effects of cerebral small vessel disease on the outcome of patients with ischemic stroke caused by large artery atherosclerosis, building on the source paper's results regarding the association between cerebral microbleeds and stroke risk.",
+                    "relevance": 1
+                },
+                "10. Cerebral amyloid angiopathy, cerebral microbleeds and implications for anticoagulation decisions: The need for a balanced approach": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it discusses the implications of cerebral amyloid angiopathy and cerebral microbleeds for anticoagulation decisions, using the source paper's findings on the association between cerebral microbleeds and stroke risk as a sub-hypothesis.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Microbleeds in fronto-subcortical circuits are predictive of dementia conversion in patients with vascular cognitive impairment but no dementia": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the predictive role of cerebral microbleeds in dementia conversion, using the source paper's findings on the association between cerebral microbleeds and stroke risk as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "2. Antiplatelet Treatment After Transient Ischemic Attack and Ischemic Stroke in Patients With Cerebral Microbleeds in 2 Large Cohorts and an Updated Systematic Review": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the implications of cerebral microbleeds for antiplatelet treatment in patients with transient ischemic attack or ischemic stroke, using the source paper's findings on the association between cerebral microbleeds and stroke risk as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "3. Cerebral amyloid angiopathy, cerebral microbleeds and implications for anticoagulation decisions: The need for a balanced approach": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it discusses the implications of cerebral amyloid angiopathy and cerebral microbleeds for anticoagulation decisions, using the source paper's findings on the association between cerebral microbleeds and stroke risk as a sub-hypothesis.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2018,
+        "source_paper": {
+            "paperId": "e7172f2433819c90328572c51cacc8c7c6519811",
+            "title": "Recurrent stroke risk and cerebral microbleed burden in ischemic stroke and TIA",
+            "abstract": "Objective: To determine associations between cerebral microbleed (CMB) burden with recurrent ischemic stroke (IS) and intracerebral hemorrhage (ICH) risk after IS or TIA. Methods: We identified prospective studies of patients with IS or TIA that investigated CMBs and stroke (ICH and IS) risk during \u22653 months follow-up. Authors provided aggregate summary-level data on stroke outcomes, with CMBs categorized according to burden (single, 2\u20134, and \u22655 CMBs) and distribution. We calculated absolute event rates and pooled risk ratios (RR) using random-effects meta-analysis. Results: We included 5,068 patients from 15 studies. There were 115/1,284 (9.6%) recurrent IS events in patients with CMBs vs 212/3,781 (5.6%) in patients without CMBs (pooled RR 1.8 for CMBs vs no CMBs; 95% confidence interval [CI] 1.4\u20132.5). There were 49/1,142 (4.3%) ICH events in those with CMBs vs 17/2,912 (0.58%) in those without CMBs (pooled RR 6.3 for CMBs vs no CMBs; 95% CI 3.5\u201311.4). Increasing CMB burden increased the risk of IS (pooled RR [95% CI] 1.8 [1.0\u20133.1], 2.4 [1.3\u20134.4], and 2.7 [1.5\u20134.9] for 1 CMB, 2\u20134 CMBs, and \u22655 CMBs, respectively) and ICH (pooled RR [95% CI] 4.6 [1.9\u201310.7], 5.6 [2.4\u201313.3], and 14.1 [6.9\u201329.0] for 1 CMB, 2\u20134 CMBs, and \u22655 CMBs, respectively). Conclusions: CMBs are associated with increased stroke risk after IS or TIA. With increasing CMB burden (compared to no CMBs), the risk of ICH increases more steeply than that of IS. However, IS absolute event rates remain higher than ICH absolute event rates in all CMB burden categories.",
+            "year": 2016,
+            "citation_count": 123,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the associations between cerebral microbleed burden and recurrent ischemic stroke risk, which is related to the source paper's discussion on antiplatelet therapy and stroke prevention."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Clinical significance of cerebral microbleeds on MRI: A comprehensive meta-analysis of risk of intracerebral hemorrhage, ischemic stroke, mortality, and dementia in cohort studies": {
+                    "explanation": "This paper explores the association between cerebral microbleeds and the risk of intracerebral hemorrhage, ischemic stroke, mortality, and dementia. The source paper's findings on cerebral microbleed burden and stroke risk are a sub-hypothesis for this paper's investigation of the clinical significance of cerebral microbleeds.",
+                    "relevance": 2
+                },
+                "2. Nonpharmacological Management of Atrial Fibrillation in Patients at High Intracranial Hemorrhage Risk": {
+                    "explanation": "This paper discusses the management of atrial fibrillation in patients at high risk of intracranial hemorrhage. While it does not directly build upon the source paper's findings, it is related to the topic of stroke risk and cerebral microbleeds. However, it does not use the source paper's findings as a sub-hypothesis, and the connection is more general.",
+                    "relevance": 1
+                },
+                "3. Cerebral microbleeds and intracranial haemorrhage risk in patients anticoagulated for atrial fibrillation after acute ischaemic stroke or transient ischaemic attack (CROMIS-2)": {
+                    "explanation": "This paper investigates the relationship between cerebral microbleeds and intracranial hemorrhage risk in patients with atrial fibrillation after acute ischemic stroke or transient ischemic attack. The source paper's findings on cerebral microbleed burden and stroke risk are a sub-hypothesis for this paper's investigation of the predictive value of cerebral microbleeds for intracranial hemorrhage risk.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Clinical significance of cerebral microbleeds on MRI: A comprehensive meta-analysis of risk of intracerebral hemorrhage, ischemic stroke, mortality, and dementia in cohort studies": {
+                    "explanation": "This paper explores the association between cerebral microbleeds and the risk of intracerebral hemorrhage, ischemic stroke, mortality, and dementia. The source paper's findings on cerebral microbleed burden and stroke risk are a sub-hypothesis for this paper's investigation of the clinical significance of cerebral microbleeds.",
+                    "relevance": 2
+                },
+                "2. Cerebral microbleeds and intracranial haemorrhage risk in patients anticoagulated for atrial fibrillation after acute ischaemic stroke or transient ischaemic attack (CROMIS-2)": {
+                    "explanation": "This paper investigates the relationship between cerebral microbleeds and intracranial hemorrhage risk in patients with atrial fibrillation after acute ischemic stroke or transient ischemic attack. The source paper's findings on cerebral microbleed burden and stroke risk are a sub-hypothesis for this paper's investigation of the predictive value of cerebral microbleeds for intracranial hemorrhage risk.",
+                    "relevance": 2
+                },
+                "3. Nonpharmacological Management of Atrial Fibrillation in Patients at High Intracranial Hemorrhage Risk": {
+                    "explanation": "This paper discusses the management of atrial fibrillation in patients at high risk of intracranial hemorrhage. While it does not directly build upon the source paper's findings, it is related to the topic of stroke risk and cerebral microbleeds. However, it does not use the source paper's findings as a sub-hypothesis, and the connection is more general.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2019,
+        "source_paper": {
+            "paperId": "1cb11593aab8262ad278ae8cf1f55b1459c4f761",
+            "title": "Cerebral microbleeds and intracranial haemorrhage risk in patients anticoagulated for atrial fibrillation after acute ischaemic stroke or transient ischaemic attack (CROMIS-2): a multicentre observational cohort study",
+            "abstract": null,
+            "year": 2018,
+            "citation_count": 185,
+            "relevance": 2,
+            "explanation": "This paper investigates the relationship between cerebral microbleeds and intracranial hemorrhage risk in patients with atrial fibrillation after acute ischemic stroke or transient ischemic attack. The source paper's findings on cerebral microbleed burden and stroke risk are a sub-hypothesis for this paper's investigation of the predictive value of cerebral microbleeds for intracranial hemorrhage risk."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Risk Stratification for Ischemic Cerebrovascular Events and Mortality among Intracerebral Hemorrhage Patients with and without Atrial Fibrillation: A Nationwide Cohort Study": {
+                    "explanation": "This paper investigates the risk of cerebrovascular ischemic events in patients with intracerebral hemorrhage with or without atrial fibrillation. While it does not directly build on the source paper, it explores a related topic and shares some common themes, such as the importance of risk stratification in patients with atrial fibrillation.",
+                    "relevance": 1
+                },
+                "2. Oral Anticoagulation in Asian Patients With Atrial Fibrillation and a History of Intracranial Hemorrhage": {
+                    "explanation": "This paper compares the effectiveness and safety of non-vitamin K antagonist oral anticoagulants (NOACs) to warfarin in Asian patients with atrial fibrillation and a history of intracranial hemorrhage. The source paper's findings on cerebral microbleeds and intracranial hemorrhage risk in patients anticoagulated for atrial fibrillation are relevant to this study's exploration of the safety of NOACs in a similar patient population.",
+                    "relevance": 2
+                },
+                "3. Cerebral microbleed incidence, relationship to amyloid burden": {
+                    "explanation": "This paper investigates the incidence of cerebral microbleeds and their relationship to amyloid burden. While it does not directly build on the source paper, it explores a related topic and shares some common themes, such as the importance of cerebral microbleeds in patients with atrial fibrillation.",
+                    "relevance": 1
+                },
+                "4. Multiple Faces of Cerebral Small Vessel Diseases": {
+                    "explanation": "This paper is a review article that discusses the various aspects of cerebral small vessel diseases, including cerebral microbleeds. It does not present new findings or build on the source paper, so it is considered a review paper.",
+                    "relevance": 0
+                },
+                "5. Validation of Highly Accelerated Wave\u2013CAIPI SWI Compared with Conventional SWI and T2*-Weighted Gradient Recalled-Echo for Routine Clinical Brain MRI at 3T": {
+                    "explanation": "This paper compares the performance of different MRI sequences for detecting cerebral microbleeds. While it does not directly build on the source paper, it explores a related topic and shares some common themes, such as the importance of cerebral microbleeds in patients with atrial fibrillation.",
+                    "relevance": 1
+                },
+                "6. Timing of Initiation of Oral Anticoagulation after Acute Ischemic Stroke in Patients with Atrial Fibrillation": {
+                    "explanation": "This paper reviews the literature on the timing of initiation of oral anticoagulation after acute ischemic stroke in patients with atrial fibrillation. The source paper's findings on cerebral microbleeds and intracranial hemorrhage risk in patients anticoagulated for atrial fibrillation are relevant to this study's exploration of the optimal timing of anticoagulation initiation.",
+                    "relevance": 2
+                },
+                "7. Drug causes of intracerebral haemorrhage": {
+                    "explanation": "This paper discusses the various drugs that can cause intracerebral hemorrhage. While it does not directly build on the source paper, it explores a related topic and shares some common themes, such as the importance of intracranial hemorrhage risk in patients with atrial fibrillation.",
+                    "relevance": 1
+                },
+                "8. Automated Quantification of Enlarged Perivascular Spaces in Clinical Brain MRI across Sites": {
+                    "explanation": "This paper presents a method for automated quantification of enlarged perivascular spaces in clinical brain MRI. While it does not directly build on the source paper, it explores a related topic and shares some common themes, such as the importance of cerebral small vessel diseases in patients with atrial fibrillation.",
+                    "relevance": 1
+                },
+                "9. Microbleed prevalence and burden in anticoagulant\u2010associated intracerebral bleed": {
+                    "explanation": "This paper investigates the prevalence and burden of cerebral microbleeds in patients with anticoagulant-associated intracerebral hemorrhage. The source paper's findings on cerebral microbleeds and intracranial hemorrhage risk in patients anticoagulated for atrial fibrillation are relevant to this study's exploration of the relationship between cerebral microbleeds and anticoagulant-associated intracerebral hemorrhage.",
+                    "relevance": 2
+                },
+                "10. Potential missed opportunities to prevent ischaemic stroke: prospective multicentre cohort study of atrial fibrillation-associated ischaemic stroke and TIA": {
+                    "explanation": "This paper presents a prospective multicentre cohort study on atrial fibrillation-associated ischemic stroke and transient ischemic attack. The source paper's findings on cerebral microbleeds and intracranial hemorrhage risk in patients anticoagulated for atrial fibrillation are relevant to this study's exploration of the prevention of ischemic stroke in patients with atrial fibrillation.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Oral Anticoagulation in Asian Patients With Atrial Fibrillation and a History of Intracranial Hemorrhage": {
+                    "explanation": "This paper compares the effectiveness and safety of non-vitamin K antagonist oral anticoagulants (NOACs) to warfarin in Asian patients with atrial fibrillation and a history of intracranial hemorrhage. The source paper's findings on cerebral microbleeds and intracranial hemorrhage risk in patients anticoagulated for atrial fibrillation are relevant to this study's exploration of the safety of NOACs in a similar patient population.",
+                    "relevance": 2
+                },
+                "2. Microbleed prevalence and burden in anticoagulant\u2010associated intracerebral bleed": {
+                    "explanation": "This paper investigates the prevalence and burden of cerebral microbleeds in patients with anticoagulant-associated intracerebral hemorrhage. The source paper's findings on cerebral microbleeds and intracranial hemorrhage risk in patients anticoagulated for atrial fibrillation are relevant to this study's exploration of the relationship between cerebral microbleeds and anticoagulant-associated intracerebral hemorrhage.",
+                    "relevance": 2
+                },
+                "3. Potential missed opportunities to prevent ischaemic stroke: prospective multicentre cohort study of atrial fibrillation-associated ischaemic stroke and TIA": {
+                    "explanation": "This paper presents a prospective multicentre cohort study on atrial fibrillation-associated ischemic stroke and transient ischemic attack. The source paper's findings on cerebral microbleeds and intracranial hemorrhage risk in patients anticoagulated for atrial fibrillation are relevant to this study's exploration of the prevention of ischemic stroke in patients with atrial fibrillation.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2019,
+        "source_paper": {
+            "paperId": "1cb11593aab8262ad278ae8cf1f55b1459c4f761",
+            "title": "Cerebral microbleeds and intracranial haemorrhage risk in patients anticoagulated for atrial fibrillation after acute ischaemic stroke or transient ischaemic attack (CROMIS-2): a multicentre observational cohort study",
+            "abstract": null,
+            "year": 2018,
+            "citation_count": 185,
+            "relevance": 2,
+            "explanation": "This paper investigates the relationship between cerebral microbleeds and intracranial hemorrhage risk in patients with atrial fibrillation after acute ischemic stroke or transient ischemic attack. The source paper's findings on cerebral microbleed burden and stroke risk are a sub-hypothesis for this paper's investigation of the predictive value of cerebral microbleeds for intracranial hemorrhage risk."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Intracerebral hemorrhage: an update on diagnosis and treatment": {
+                    "explanation": "This paper is a review paper, providing an update on the diagnosis and treatment of intracerebral hemorrhage, but does not build upon the source paper's findings or hypothesis.",
+                    "relevance": 0
+                },
+                "2. Glycated hemoglobin (HbA1c) and outcome following endovascular thrombectomy for ischemic stroke": {
+                    "explanation": "This paper explores the association between glycated hemoglobin levels and outcomes following endovascular thrombectomy, which is not directly related to the source paper's topic of cerebral microbleeds and intracranial hemorrhage risk in patients anticoagulated for atrial fibrillation.",
+                    "relevance": 0
+                },
+                "3. Oral anticoagulation in patients with \u201chemorrhagic-prone\u201d vasculopathies": {
+                    "explanation": "This paper discusses the challenges of diagnosing and treating patients with hemorrhagic-prone vasculopathies who require anticoagulation, which is related to the source paper's topic of cerebral microbleeds and intracranial hemorrhage risk.",
+                    "relevance": 1
+                },
+                "4. European Stroke Organisation Guideline on Reversal of Oral Anticoagulants in Acute Intracerebral Haemorrhage": {
+                    "explanation": "This paper provides guidelines for the reversal of oral anticoagulants in acute intracerebral hemorrhage, which is related to the source paper's topic of cerebral microbleeds and intracranial hemorrhage risk, but does not build upon the source paper's findings or hypothesis.",
+                    "relevance": 0
+                },
+                "5. Direct oral anticoagulants versus vitamin K antagonists after recent ischemic stroke in patients with atrial fibrillation": {
+                    "explanation": "This paper compares outcomes after treatment with direct oral anticoagulants and vitamin K antagonists in patients with atrial fibrillation and recent cerebral ischemia, which is related to the source paper's topic of cerebral microbleeds and intracranial hemorrhage risk.",
+                    "relevance": 1
+                },
+                "6. MRI predicts intracranial hemorrhage in patients who receive long-term oral anticoagulation": {
+                    "explanation": "This paper investigates the use of MRI to predict intracranial hemorrhage in patients receiving long-term oral anticoagulation, which is directly related to the source paper's topic of cerebral microbleeds and intracranial hemorrhage risk.",
+                    "relevance": 2
+                },
+                "7. Recent advances in spontaneous intracerebral hemorrhage": {
+                    "explanation": "This paper provides an update on recent research on spontaneous intracerebral hemorrhage, which is related to the source paper's topic of cerebral microbleeds and intracranial hemorrhage risk, but does not build upon the source paper's findings or hypothesis.",
+                    "relevance": 0
+                },
+                "8. Atrial fibrillation and stroke: a practical guide": {
+                    "explanation": "This paper provides a practical guide for the management of atrial fibrillation and stroke, which is related to the source paper's topic of cerebral microbleeds and intracranial hemorrhage risk, but does not build upon the source paper's findings or hypothesis.",
+                    "relevance": 0
+                },
+                "9. Management of oral anticoagulation after intracerebral hemorrhage": {
+                    "explanation": "This paper discusses the management of oral anticoagulation after intracerebral hemorrhage, which is related to the source paper's topic of cerebral microbleeds and intracranial hemorrhage risk, and builds upon the source paper's findings or hypothesis.",
+                    "relevance": 2
+                },
+                "10. Cerebral microbleeds: Beyond the macroscope": {
+                    "explanation": "This paper discusses the pathophysiology and clinical significance of cerebral microbleeds, which is directly related to the source paper's topic of cerebral microbleeds and intracranial hemorrhage risk, and builds upon the source paper's findings or hypothesis.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. MRI predicts intracranial hemorrhage in patients who receive long-term oral anticoagulation": {
+                    "explanation": "This paper investigates the use of MRI to predict intracranial hemorrhage in patients receiving long-term oral anticoagulation, which is directly related to the source paper's topic of cerebral microbleeds and intracranial hemorrhage risk.",
+                    "relevance": 2
+                },
+                "2. Management of oral anticoagulation after intracerebral hemorrhage": {
+                    "explanation": "This paper discusses the management of oral anticoagulation after intracerebral hemorrhage, which is related to the source paper's topic of cerebral microbleeds and intracranial hemorrhage risk, and builds upon the source paper's findings or hypothesis.",
+                    "relevance": 2
+                },
+                "3. Cerebral microbleeds: Beyond the macroscope": {
+                    "explanation": "This paper discusses the pathophysiology and clinical significance of cerebral microbleeds, which is directly related to the source paper's topic of cerebral microbleeds and intracranial hemorrhage risk, and builds upon the source paper's findings or hypothesis.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2019,
+        "source_paper": {
+            "paperId": "1cb11593aab8262ad278ae8cf1f55b1459c4f761",
+            "title": "Cerebral microbleeds and intracranial haemorrhage risk in patients anticoagulated for atrial fibrillation after acute ischaemic stroke or transient ischaemic attack (CROMIS-2): a multicentre observational cohort study",
+            "abstract": null,
+            "year": 2018,
+            "citation_count": 185,
+            "relevance": 2,
+            "explanation": "This paper investigates the relationship between cerebral microbleeds and intracranial hemorrhage risk in patients with atrial fibrillation after acute ischemic stroke or transient ischemic attack. The source paper's findings on cerebral microbleed burden and stroke risk are a sub-hypothesis for this paper's investigation of the predictive value of cerebral microbleeds for intracranial hemorrhage risk."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Prior Antithrombotic Therapy Is Associated With Cerebral Microbleeds in Ischemic Stroke Patients With Atrial Fibrillation and/or Rheumatic Heart Disease": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the relationship between antithrombotic therapy and cerebral microbleeds, which is closely related to the source paper's investigation of cerebral microbleeds and intracranial hemorrhage risk in patients anticoagulated for atrial fibrillation after acute ischemic stroke or transient ischemic attack.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Prior Antithrombotic Therapy Is Associated With Cerebral Microbleeds in Ischemic Stroke Patients With Atrial Fibrillation and/or Rheumatic Heart Disease": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the relationship between antithrombotic therapy and cerebral microbleeds, which is closely related to the source paper's investigation of cerebral microbleeds and intracranial hemorrhage risk in patients anticoagulated for atrial fibrillation after acute ischemic stroke or transient ischemic attack.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2020,
+        "source_paper": {
+            "paperId": "1cb11593aab8262ad278ae8cf1f55b1459c4f761",
+            "title": "Cerebral microbleeds and intracranial haemorrhage risk in patients anticoagulated for atrial fibrillation after acute ischaemic stroke or transient ischaemic attack (CROMIS-2): a multicentre observational cohort study",
+            "abstract": null,
+            "year": 2018,
+            "citation_count": 185,
+            "relevance": 2,
+            "explanation": "This paper investigates the relationship between cerebral microbleeds and intracranial hemorrhage risk in patients with atrial fibrillation after acute ischemic stroke or transient ischemic attack. The source paper's findings on cerebral microbleed burden and stroke risk are a sub-hypothesis for this paper's investigation of the predictive value of cerebral microbleeds for intracranial hemorrhage risk."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Diagnostics of cerebral amyloid angiopathy: the way to Boston criteria 2.0": {
+                    "explanation": "This paper discusses the diagnostics of cerebral amyloid angiopathy, which is related to the topic of cerebral microbleeds and intracranial hemorrhage risk in the source paper. However, there is no direct connection or dependency between the two papers.",
+                    "relevance": 0
+                },
+                "2. To treat or not to treat: left ventricular thrombus in a patient with cerebral amyloid angiopathy: a case report": {
+                    "explanation": "This paper discusses the treatment of left ventricular thrombus in a patient with cerebral amyloid angiopathy, which is related to the topic of anticoagulation in the source paper. However, it is a case report and does not provide any new insights or findings that are directly connected to the source paper.",
+                    "relevance": 0
+                },
+                "3. Prediction of Stroke Outcome Using Natural Language Processing-Based Machine Learning of Radiology Report of Brain MRI": {
+                    "explanation": "This paper discusses the use of machine learning to predict stroke outcomes, which is related to the topic of stroke and cerebral microbleeds in the source paper. However, there is no direct connection or dependency between the two papers.",
+                    "relevance": 0
+                },
+                "4. A practical approach to the management of cerebral amyloid angiopathy": {
+                    "explanation": "This paper is a review of the management of cerebral amyloid angiopathy, which is related to the topic of cerebral microbleeds and intracranial hemorrhage risk in the source paper. However, it does not provide any new insights or findings that are directly connected to the source paper.",
+                    "relevance": 0
+                },
+                "5. Association Between Motor and Cognitive Performances in Elderly With Atrial Fibrillation: Strat-AF Study": {
+                    "explanation": "This paper discusses the association between motor and cognitive performances in elderly patients with atrial fibrillation, which is related to the topic of anticoagulation in the source paper. However, there is no direct connection or dependency between the two papers.",
+                    "relevance": 0
+                },
+                "6. Bilateral, vertical supranuclear gaze palsy following unilateral midbrain infarct": {
+                    "explanation": "This paper is a case report of a patient with a rare neurological condition, which is not directly related to the topic of the source paper.",
+                    "relevance": 0
+                },
+                "7. Long-Term Anticoagulation in Secondary Ischemic Stroke Prevention: The Prospective Multicenter RESTAIC Registry": {
+                    "explanation": "This paper discusses the use of anticoagulation for secondary stroke prevention, which is related to the topic of anticoagulation in the source paper. The key hypothesis in this paper is partially dependent on the findings of the source paper regarding the risk of intracranial hemorrhage in patients with atrial fibrillation.",
+                    "relevance": 2
+                },
+                "8. Microbleeds and the Effect of Anticoagulation in Patients With Embolic Stroke of Undetermined Source: An Exploratory Analysis of the NAVIGATE ESUS Randomized Clinical Trial": {
+                    "explanation": "This paper discusses the effect of anticoagulation on microbleeds in patients with embolic stroke of undetermined source, which is related to the topic of cerebral microbleeds and intracranial hemorrhage risk in the source paper. The key hypothesis in this paper is partially dependent on the findings of the source paper regarding the risk of intracranial hemorrhage in patients with atrial fibrillation.",
+                    "relevance": 2
+                },
+                "9. Microbleeds and Outcome in Patients With Acute Ischemic Stroke and Atrial Fibrillation Taking Anticoagulants": {
+                    "explanation": "This paper discusses the outcome of patients with acute ischemic stroke and atrial fibrillation taking anticoagulants, which is related to the topic of anticoagulation in the source paper. The key hypothesis in this paper is partially dependent on the findings of the source paper regarding the risk of intracranial hemorrhage in patients with atrial fibrillation.",
+                    "relevance": 2
+                },
+                "10. Clinical impacts of cerebral microbleeds in patients with established coronary artery disease": {
+                    "explanation": "This paper discusses the clinical impact of cerebral microbleeds in patients with coronary artery disease, which is related to the topic of cerebral microbleeds and intracranial hemorrhage risk in the source paper. However, there is no direct connection or dependency between the two papers.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Microbleeds and the Effect of Anticoagulation in Patients With Embolic Stroke of Undetermined Source: An Exploratory Analysis of the NAVIGATE ESUS Randomized Clinical Trial": {
+                    "explanation": "This paper discusses the effect of anticoagulation on microbleeds in patients with embolic stroke of undetermined source, which is related to the topic of cerebral microbleeds and intracranial hemorrhage risk in the source paper. The key hypothesis in this paper is partially dependent on the findings of the source paper regarding the risk of intracranial hemorrhage in patients with atrial fibrillation.",
+                    "relevance": 2
+                },
+                "2. Long-Term Anticoagulation in Secondary Ischemic Stroke Prevention: The Prospective Multicenter RESTAIC Registry": {
+                    "explanation": "This paper discusses the use of anticoagulation for secondary stroke prevention, which is related to the topic of anticoagulation in the source paper. The key hypothesis in this paper is partially dependent on the findings of the source paper regarding the risk of intracranial hemorrhage in patients with atrial fibrillation.",
+                    "relevance": 2
+                },
+                "3. Microbleeds and Outcome in Patients With Acute Ischemic Stroke and Atrial Fibrillation Taking Anticoagulants": {
+                    "explanation": "This paper discusses the outcome of patients with acute ischemic stroke and atrial fibrillation taking anticoagulants, which is related to the topic of anticoagulation in the source paper. The key hypothesis in this paper is partially dependent on the findings of the source paper regarding the risk of intracranial hemorrhage in patients with atrial fibrillation.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2020,
+        "source_paper": {
+            "paperId": "1cb11593aab8262ad278ae8cf1f55b1459c4f761",
+            "title": "Cerebral microbleeds and intracranial haemorrhage risk in patients anticoagulated for atrial fibrillation after acute ischaemic stroke or transient ischaemic attack (CROMIS-2): a multicentre observational cohort study",
+            "abstract": null,
+            "year": 2018,
+            "citation_count": 185,
+            "relevance": 2,
+            "explanation": "This paper investigates the relationship between cerebral microbleeds and intracranial hemorrhage risk in patients with atrial fibrillation after acute ischemic stroke or transient ischemic attack. The source paper's findings on cerebral microbleed burden and stroke risk are a sub-hypothesis for this paper's investigation of the predictive value of cerebral microbleeds for intracranial hemorrhage risk."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. The bleeding with antithrombotic therapy study 2: Rationale, design, and baseline characteristics of the participants": {
+                    "explanation": "This paper is not directly connected to the source paper. The source paper focused on cerebral microbleeds and intracranial hemorrhage risk in patients anticoagulated for atrial fibrillation after acute ischemic stroke or transient ischemic attack, whereas this paper is about the bleeding risk of antithrombotic strategies in clinical settings.",
+                    "relevance": 0
+                },
+                "2. Oral anticoagulant use and the development of new cerebral microbleeds in cardioembolic stroke patients with atrial fibrillation": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper. Both papers investigate the relationship between oral anticoagulant use and cerebral microbleeds in patients with atrial fibrillation.",
+                    "relevance": 2
+                },
+                "3. Association of enlarged perivascular spaces and anticoagulant-related intracranial hemorrhage": {
+                    "explanation": "This paper is directly connected to the source paper. The source paper is actually CROMIS-2, which is mentioned in this paper. The paper investigates the association of enlarged perivascular spaces with anticoagulant-related intracranial hemorrhage, building on the findings of the CROMIS-2 study.",
+                    "relevance": 2
+                },
+                "4. A Review of the Incidence Diagnosis and Treatment of Spontaneous Hemorrhage in Patients Treated with Direct Oral Anticoagulants": {
+                    "explanation": "This paper is a review paper and does not present new findings. It is not directly connected to the source paper.",
+                    "relevance": 0
+                },
+                "5. Effect of Nursing Training on Identification, Prevention and Management of Pressure Ulcer among Stroke Patients and Its Outcomes": {
+                    "explanation": "This paper is not connected to the source paper. The source paper focused on cerebral microbleeds and intracranial hemorrhage risk in patients anticoagulated for atrial fibrillation after acute ischemic stroke or transient ischemic attack, whereas this paper is about pressure ulcer prevention and management among stroke patients.",
+                    "relevance": 0
+                },
+                "6. Protocol: The Lacunar Intervention Trial 2 (LACI-2). A trial of two repurposed licenced drugs to prevent progression of cerebral small vessel disease": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper. Both papers investigate the relationship between cerebral small vessel disease and stroke outcomes.",
+                    "relevance": 1
+                },
+                "7. Cerebral small vessel disease or intracranial large vessel atherosclerosis may carry different risk for future strokes": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper. Both papers investigate the relationship between cerebral small vessel disease and stroke outcomes.",
+                    "relevance": 1
+                },
+                "8. Small Vessel Disease and Ischemic Stroke Risk During Anticoagulation for Atrial Fibrillation After Cerebral Ischemia": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper. Both papers investigate the relationship between small vessel disease and ischemic stroke risk in patients anticoagulated for atrial fibrillation after cerebral ischemia.",
+                    "relevance": 2
+                },
+                "9. Small vessel disease is associated with an unfavourable outcome in stroke patients on oral anticoagulation": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper. Both papers investigate the relationship between small vessel disease and stroke outcomes in patients on oral anticoagulation.",
+                    "relevance": 2
+                },
+                "10. Ischemic Stroke despite Oral Anticoagulant Therapy in Patients with Atrial Fibrillation": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper. Both papers investigate the relationship between oral anticoagulant therapy and ischemic stroke risk in patients with atrial fibrillation.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Association of enlarged perivascular spaces and anticoagulant-related intracranial hemorrhage": {
+                    "explanation": "This paper is directly connected to the source paper. The source paper is actually CROMIS-2, which is mentioned in this paper. The paper investigates the association of enlarged perivascular spaces with anticoagulant-related intracranial hemorrhage, building on the findings of the CROMIS-2 study.",
+                    "relevance": 2
+                },
+                "2. Oral anticoagulant use and the development of new cerebral microbleeds in cardioembolic stroke patients with atrial fibrillation": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper. Both papers investigate the relationship between oral anticoagulant use and cerebral microbleeds in patients with atrial fibrillation.",
+                    "relevance": 2
+                },
+                "3. Small Vessel Disease and Ischemic Stroke Risk During Anticoagulation for Atrial Fibrillation After Cerebral Ischemia": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper. Both papers investigate the relationship between small vessel disease and ischemic stroke risk in patients anticoagulated for atrial fibrillation after cerebral ischemia.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2020,
+        "source_paper": {
+            "paperId": "1cb11593aab8262ad278ae8cf1f55b1459c4f761",
+            "title": "Cerebral microbleeds and intracranial haemorrhage risk in patients anticoagulated for atrial fibrillation after acute ischaemic stroke or transient ischaemic attack (CROMIS-2): a multicentre observational cohort study",
+            "abstract": null,
+            "year": 2018,
+            "citation_count": 185,
+            "relevance": 2,
+            "explanation": "This paper investigates the relationship between cerebral microbleeds and intracranial hemorrhage risk in patients with atrial fibrillation after acute ischemic stroke or transient ischemic attack. The source paper's findings on cerebral microbleed burden and stroke risk are a sub-hypothesis for this paper's investigation of the predictive value of cerebral microbleeds for intracranial hemorrhage risk."
+        },
+        "llama_output": {},
+        "seed": 42
+    },
+    {
+        "year": 2020,
+        "source_paper": {
+            "paperId": "27eb2f37af9ff9233002051d2f2c13d43266675a",
+            "title": "Oral Anticoagulation in Asian Patients With Atrial Fibrillation and a History of Intracranial Hemorrhage",
+            "abstract": "Supplemental Digital Content is available in the text. Background and Purpose\u2014 Warfarin is associated with a better net clinical benefit compared with no treatment in patients with nonvalvular atrial fibrillation (AF) and history of intracranial hemorrhage (ICH). There are limited data on nonvitamin K antagonist oral anticoagulants (NOACs) in these patients, especially in the Asian population. We aimed to compare the effectiveness and safety of NOACs to warfarin in a large-scale nationwide Asian population with AF and a history of ICH. Methods\u2014 Using the Korean Health Insurance Review and Assessment database from January 2010 to April 2018, we identified patients with oral anticoagulant na\u00efve nonvalvular AF with a prior spontaneous ICH. For the comparisons, warfarin and NOAC groups were balanced using propensity score weighting. Ischemic stroke, ICH, composite outcome (ischemic stroke+ICH), fatal ischemic stroke, fatal ICH, death from composite outcome, and all-cause death were evaluated as clinical outcomes. Results\u2014 Among 5712 patients with AF with prior ICH, 2434 were treated with warfarin and 3278 were treated with NOAC. Baseline characteristics were well-balanced after propensity score weighting (mean age 72.5 years and CHA2DS2-VASc score 4.0). Compared with warfarin, NOAC was associated with lower risks of ischemic stroke (hazard ratio [HR], 0.77 [95% CI, 0.61\u20130.97]), ICH (HR, 0.66 [95% CI, 0.47\u20130.92]), and composite outcome (HR, 0.73 [95% CI, 0.60\u20130.88]). NOAC was associated with lower risks of fatal stroke (HR, 0.54 [95% CI, 0.32\u20130.89]), death from composite outcome (HR, 0.53 [95% CI, 0.34\u20130.81]), and all-cause death (HR, 0.83 [95% CI, 0.69\u20130.99]) than warfarin. NOAC showed nonsignificant trends toward to reduce fatal ICH compared with warfarin (HR, 0.47 [95% CI, 0.20\u20131.03]). Conclusions\u2014 NOAC was associated with a significant lower risk of ICH and ischemic stroke compared with warfarin. NOAC might be a more effective and safer treatment option for Asian patients with nonvalvular AF and a prior history of ICH.",
+            "year": 2019,
+            "citation_count": 48,
+            "relevance": 2,
+            "explanation": "This paper compares the effectiveness and safety of non-vitamin K antagonist oral anticoagulants (NOACs) to warfarin in Asian patients with atrial fibrillation and a history of intracranial hemorrhage. The source paper's findings on cerebral microbleeds and intracranial hemorrhage risk in patients anticoagulated for atrial fibrillation are relevant to this study's exploration of the safety of NOACs in a similar patient population."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Treatment strategies for patients with atrial fibrillation and anticoagulant-associated intracranial hemorrhage: an overview of the pharmacotherapy": {
+                    "explanation": "This paper is a review paper that discusses the management of oral anticoagulant-associated intracranial hemorrhage in patients with atrial fibrillation. It does not build upon or use the findings of the source paper as a sub-hypothesis, but rather provides a general overview of the topic.",
+                    "relevance": 0
+                },
+                "2. Cardiovascular Research Using the Korean National Health Information Database": {
+                    "explanation": "This paper discusses the use of the Korean National Health Information Database for cardiovascular research, including the structure of the database and recent research conducted using it. While the source paper used the same database, this paper does not build upon or use the findings of the source paper as a sub-hypothesis, but rather provides a general overview of the database and its uses.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2021,
+        "source_paper": {
+            "paperId": "27eb2f37af9ff9233002051d2f2c13d43266675a",
+            "title": "Oral Anticoagulation in Asian Patients With Atrial Fibrillation and a History of Intracranial Hemorrhage",
+            "abstract": "Supplemental Digital Content is available in the text. Background and Purpose\u2014 Warfarin is associated with a better net clinical benefit compared with no treatment in patients with nonvalvular atrial fibrillation (AF) and history of intracranial hemorrhage (ICH). There are limited data on nonvitamin K antagonist oral anticoagulants (NOACs) in these patients, especially in the Asian population. We aimed to compare the effectiveness and safety of NOACs to warfarin in a large-scale nationwide Asian population with AF and a history of ICH. Methods\u2014 Using the Korean Health Insurance Review and Assessment database from January 2010 to April 2018, we identified patients with oral anticoagulant na\u00efve nonvalvular AF with a prior spontaneous ICH. For the comparisons, warfarin and NOAC groups were balanced using propensity score weighting. Ischemic stroke, ICH, composite outcome (ischemic stroke+ICH), fatal ischemic stroke, fatal ICH, death from composite outcome, and all-cause death were evaluated as clinical outcomes. Results\u2014 Among 5712 patients with AF with prior ICH, 2434 were treated with warfarin and 3278 were treated with NOAC. Baseline characteristics were well-balanced after propensity score weighting (mean age 72.5 years and CHA2DS2-VASc score 4.0). Compared with warfarin, NOAC was associated with lower risks of ischemic stroke (hazard ratio [HR], 0.77 [95% CI, 0.61\u20130.97]), ICH (HR, 0.66 [95% CI, 0.47\u20130.92]), and composite outcome (HR, 0.73 [95% CI, 0.60\u20130.88]). NOAC was associated with lower risks of fatal stroke (HR, 0.54 [95% CI, 0.32\u20130.89]), death from composite outcome (HR, 0.53 [95% CI, 0.34\u20130.81]), and all-cause death (HR, 0.83 [95% CI, 0.69\u20130.99]) than warfarin. NOAC showed nonsignificant trends toward to reduce fatal ICH compared with warfarin (HR, 0.47 [95% CI, 0.20\u20131.03]). Conclusions\u2014 NOAC was associated with a significant lower risk of ICH and ischemic stroke compared with warfarin. NOAC might be a more effective and safer treatment option for Asian patients with nonvalvular AF and a prior history of ICH.",
+            "year": 2019,
+            "citation_count": 48,
+            "relevance": 2,
+            "explanation": "This paper compares the effectiveness and safety of non-vitamin K antagonist oral anticoagulants (NOACs) to warfarin in Asian patients with atrial fibrillation and a history of intracranial hemorrhage. The source paper's findings on cerebral microbleeds and intracranial hemorrhage risk in patients anticoagulated for atrial fibrillation are relevant to this study's exploration of the safety of NOACs in a similar patient population."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. 2021 Focused update of the 2017 consensus guidelines of the Asia Pacific Heart Rhythm Society (APHRS) on stroke prevention in atrial fibrillation": {
+                    "explanation": "This paper is a review of guidelines for stroke prevention in atrial fibrillation and does not build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "2. Why Did All Patients with Atrial Fibrillation and High Risk of Stroke Not Receive Oral Anticoagulants? Results of the Polish Atrial Fibrillation (POL-AF) Registry": {
+                    "explanation": "This paper explores the reasons for not using oral anticoagulants in patients with atrial fibrillation and high stroke risk. While it is related to the topic of the source paper, it does not build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "3. Long-Term Clinical Outcomes of the On-X Mechanical Prosthetic Valve in the Aortic or Mitral Position\u3000- A Single-Center Experience of up to 20 Years' Follow up.": {
+                    "explanation": "This paper is focused on the outcomes of a mechanical prosthetic valve and does not have any connection to the source paper, which is about oral anticoagulation in Asian patients with atrial fibrillation and a history of intracranial hemorrhage.",
+                    "relevance": 0
+                },
+                "4. Non\u2010vitamin K antagonist oral anticoagulants versus vitamin K antagonists in atrial fibrillation patients with previous stroke or intracranial hemorrhage: A systematic review and meta\u2010analysis of observational studies": {
+                    "explanation": "This paper compares the effectiveness and safety of non-vitamin K antagonist oral anticoagulants (NOACs) and vitamin K antagonists (VKAs) in atrial fibrillation patients with a history of stroke or intracranial hemorrhage. The key hypothesis in this paper is at least partially dependent on the findings of the source paper, which compared the effectiveness and safety of NOACs and warfarin in Asian patients with atrial fibrillation and a history of intracranial hemorrhage.",
+                    "relevance": 2
+                },
+                "5. A predictive study of multivariate factors affecting goal attainment of INR after anticoagulation in patients with nonvalvular atrial fibrillation.": {
+                    "explanation": "This paper explores the factors that affect the goal attainment of international normalized ratio (INR) in patients with nonvalvular atrial fibrillation after anticoagulation therapy. While it is related to the topic of the source paper, it does not build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "6. Body Mass Index and Clinical Outcomes in Asian Patients With Atrial Fibrillation Receiving Oral Anticoagulation.": {
+                    "explanation": "This paper investigates the association between body mass index (BMI) and clinical outcomes in Asian patients with atrial fibrillation receiving oral anticoagulants. The key hypothesis in this paper is inspired by the hypothesis of the source paper, which compared the effectiveness and safety of NOACs and warfarin in Asian patients with atrial fibrillation and a history of intracranial hemorrhage.",
+                    "relevance": 1
+                },
+                "7. CDSM - Casual Inference using Deep Bayesian Dynamic Survival Models": {
+                    "explanation": "This paper is focused on the development of a causal dynamic survival model (CDSM) for causal inference with survival outcomes using longitudinal electronic health record (EHR) data. It does not have any connection to the source paper, which is about oral anticoagulation in Asian patients with atrial fibrillation and a history of intracranial hemorrhage.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Non\u2010vitamin K antagonist oral anticoagulants versus vitamin K antagonists in atrial fibrillation patients with previous stroke or intracranial hemorrhage: A systematic review and meta\u2010analysis of observational studies": {
+                    "explanation": "This paper compares the effectiveness and safety of non-vitamin K antagonist oral anticoagulants (NOACs) and vitamin K antagonists (VKAs) in atrial fibrillation patients with a history of stroke or intracranial hemorrhage. The key hypothesis in this paper is at least partially dependent on the findings of the source paper, which compared the effectiveness and safety of NOACs and warfarin in Asian patients with atrial fibrillation and a history of intracranial hemorrhage.",
+                    "relevance": 2
+                },
+                "2. Body Mass Index and Clinical Outcomes in Asian Patients With Atrial Fibrillation Receiving Oral Anticoagulation.": {
+                    "explanation": "This paper investigates the association between body mass index (BMI) and clinical outcomes in Asian patients with atrial fibrillation receiving oral anticoagulants. The key hypothesis in this paper is inspired by the hypothesis of the source paper, which compared the effectiveness and safety of NOACs and warfarin in Asian patients with atrial fibrillation and a history of intracranial hemorrhage.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2023,
+        "source_paper": {
+            "paperId": "a56fb79406869f81505fd5ac3fd134dba19e8105",
+            "title": "Non\u2010vitamin K antagonist oral anticoagulants versus vitamin K antagonists in atrial fibrillation patients with previous stroke or intracranial hemorrhage: A systematic review and meta\u2010analysis of observational studies",
+            "abstract": "Several observational studies have compared the effectiveness and safety outcomes between nonvitamin K antagonist oral anticoagulants (NOACs) and vitamin K antagonists (VKAs) in atrial fibrillation (AF) patients with a history of either stroke/transient ischemic attack (TIA) or intracranial hemorrhage. Therefore, our current meta\u2010analysis aimed to address this issue. The Cochrane Library, PubMed, and Embase databases were systematically searched until December 2020 for all relevant observational studies. We applied a random\u2010effects model to pool adjusted hazard ratios (HRs) and 95% confidence intervals (CIs) for this meta\u2010analysis. A total of 10 studies were included. Among patients with a history of stroke/TIA, the use of NOACs versus VKAs was associated with decreased risks of stroke (HR, 0.82, 95% CI 0.69\u20130.97), systemic embolism (HR, 0.73, 95% CI 0.61\u20130.87), all\u2010cause death (HR, 0.87, 95% CI 0.81\u20130.94), major bleeding (HR, 0.77, 95% CI 0.64\u20130.92) and intracranial hemorrhage (HR, 0.54, 95% CI 0.38\u20130.77). Among patients with a history of intracranial hemorrhage, the use of NOACs versus VKAs was associated with reduced risks of stroke (HR, 0.81, 95% CI 0.68\u20130.95), all\u2010cause death (HR, 0.68, 95% CI 0.49\u20130.94), and intracranial hemorrhage (HR, 0.66, 95% CI 0.51\u20130.84). Compared with VKAs, the use of NOACs exhibited superior efficacy and safety outcomes in AF patients with previous stroke/TIA, and the use of NOACs was associated with reduced risks of stroke, all\u2010cause death, and intracranial hemorrhage in patients with a history of intracranial hemorrhage.",
+            "year": 2021,
+            "citation_count": 6,
+            "relevance": 2,
+            "explanation": "This paper compares the effectiveness and safety of non-vitamin K antagonist oral anticoagulants (NOACs) and vitamin K antagonists (VKAs) in atrial fibrillation patients with a history of stroke or intracranial hemorrhage. The key hypothesis in this paper is at least partially dependent on the findings of the source paper, which compared the effectiveness and safety of NOACs and warfarin in Asian patients with atrial fibrillation and a history of intracranial hemorrhage."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Selection of Non-vitamin K Antagonist Oral Anticoagulant for Stroke Prevention in Atrial Fibrillation Based on Patient Profile: Perspectives from Vietnamese Experts. Part 1": {
+                    "explanation": "This paper is a review that aims to provide a comprehensive overview of the available clinical evidence on NOACs for stroke prevention in AF. It does not directly build upon or depend on the findings of the source paper, but rather provides a general overview of the topic.",
+                    "relevance": 0
+                },
+                "2. Managing older people with atrial fibrillation and preventing stroke: a review of anticoagulation approaches": {
+                    "explanation": "This paper is a review that discusses OAC approaches for stroke prevention in older people with AF. Similar to the first paper, it does not directly build upon or depend on the findings of the source paper, but rather provides a general overview of the topic.",
+                    "relevance": 0
+                },
+                "3. Edoxaban treatment in atrial fibrillation in routine clinical care: One\u2010year outcomes of the prospective observational ETNA\u2010AF study in South Korean patients": {
+                    "explanation": "This paper presents the results of a prospective observational study on the effectiveness and safety of edoxaban in patients with AF. The study's findings are partially dependent on the previous findings regarding NOACs' effects on AF patients, thus using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "4. Percutaneous left atrial appendage occlusion following successful treatment of large bi-atrial thrombi in a patient with atrial fibrillation: a case report": {
+                    "explanation": "This paper presents a case report on the use of LAAO in a patient with AF. The paper does not directly build upon or depend on the findings of the source paper, but rather presents a unique case study.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Edoxaban treatment in atrial fibrillation in routine clinical care: One\u2010year outcomes of the prospective observational ETNA\u2010AF study in South Korean patients": {
+                    "explanation": "This paper presents the results of a prospective observational study on the effectiveness and safety of edoxaban in patients with AF. The study's findings are partially dependent on the previous findings regarding NOACs' effects on AF patients, thus using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    }
+]

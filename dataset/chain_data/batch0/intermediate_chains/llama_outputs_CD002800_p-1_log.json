@@ -1,0 +1,1126 @@
+[
+    {
+        "year": 1988,
+        "source_paper": {
+            "paperId": "7078240941ffa1517c37b6e03c35e82fe04fd7b9",
+            "pmid": "3317042",
+            "title": "Long-term treatment of alcoholic liver disease with propylthiouracil.",
+            "abstract": "Propylthiouracil has been shown experimentally to protect against alcohol-induced hepatocellular necrosis in hypoxic conditions. An earlier, short-term study of patients with alcoholism and liver disease indicated clinical improvement with propylthiouracil, but the effect on mortality could not be assessed. In the present study, we investigated the effect of propylthiouracil on mortality in patients with alcoholic liver disease in a long-term, double-blind, randomized clinical trial involving 310 compliant patients who received propylthiouracil (n = 157) or placebo (n = 153) for a maximum of two years. There were no differences between the two groups in demographic and clinical characteristics and biopsy-confirmed diagnoses at randomization, or in daily urinary alcohol levels during the study. The cumulative dropout rate over two years was not significantly different (propylthiouracil group, 0.68; placebo group, 0.60). The group receiving propylthiouracil (300 mg per day) had a cumulative mortality rate half that in the group receiving placebo (0.13 vs. 0.25 [P less than 0.05] in the total sample, and 0.25 vs. 0.55 [P less than 0.03] in a subgroup of severely ill patients [propylthiouracil group, n = 56; placebo group, n = 41]). Proportional-hazards stepwise regression analyses indicated that only propylthiouracil treatment, prothrombin time, hemoglobin levels, and mean daily urinary alcohol levels significantly affected mortality. The hazards ratio for the complete group indicated that mortality in the propylthiouracil group was 0.38 (95 percent confidence interval, 0.20 to 0.83) that of the placebo group. Protection by propylthiouracil was not observed in patients with high morning urinary alcohol levels. No clinically important side effects of propylthiouracil were observed at the dose used. We conclude that the administration of propylthiouracil can reduce mortality due to alcoholic liver disease.",
+            "year": 1987,
+            "citation_count": 133
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Biochemical and molecular basis of alcohol-induced injury to liver and other tissues.": {
+                    "explanation": "This paper discusses the biochemical and molecular basis of alcohol-induced injury to the liver, which is related to the topic of the source paper. However, it does not directly build upon or use the findings of the source paper as a sub-hypothesis. Instead, it provides a broader overview of the underlying mechanisms of alcohol-induced liver injury.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 1989,
+        "source_paper": {
+            "paperId": "7078240941ffa1517c37b6e03c35e82fe04fd7b9",
+            "pmid": "3317042",
+            "title": "Long-term treatment of alcoholic liver disease with propylthiouracil.",
+            "abstract": "Propylthiouracil has been shown experimentally to protect against alcohol-induced hepatocellular necrosis in hypoxic conditions. An earlier, short-term study of patients with alcoholism and liver disease indicated clinical improvement with propylthiouracil, but the effect on mortality could not be assessed. In the present study, we investigated the effect of propylthiouracil on mortality in patients with alcoholic liver disease in a long-term, double-blind, randomized clinical trial involving 310 compliant patients who received propylthiouracil (n = 157) or placebo (n = 153) for a maximum of two years. There were no differences between the two groups in demographic and clinical characteristics and biopsy-confirmed diagnoses at randomization, or in daily urinary alcohol levels during the study. The cumulative dropout rate over two years was not significantly different (propylthiouracil group, 0.68; placebo group, 0.60). The group receiving propylthiouracil (300 mg per day) had a cumulative mortality rate half that in the group receiving placebo (0.13 vs. 0.25 [P less than 0.05] in the total sample, and 0.25 vs. 0.55 [P less than 0.03] in a subgroup of severely ill patients [propylthiouracil group, n = 56; placebo group, n = 41]). Proportional-hazards stepwise regression analyses indicated that only propylthiouracil treatment, prothrombin time, hemoglobin levels, and mean daily urinary alcohol levels significantly affected mortality. The hazards ratio for the complete group indicated that mortality in the propylthiouracil group was 0.38 (95 percent confidence interval, 0.20 to 0.83) that of the placebo group. Protection by propylthiouracil was not observed in patients with high morning urinary alcohol levels. No clinically important side effects of propylthiouracil were observed at the dose used. We conclude that the administration of propylthiouracil can reduce mortality due to alcoholic liver disease.",
+            "year": 1987,
+            "citation_count": 133
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Calcium carbimide in alcoholism treatment. Part 2: Medical findings of a short-term, placebo-controlled, double-blind clinical trial.": {
+                    "explanation": "This paper is not directly related to the source paper as it discusses the use of calcium carbimide in alcoholism treatment, whereas the source paper focuses on propylthiouracil treatment for alcoholic liver disease.",
+                    "relevance": 0
+                },
+                "2. Corticosteroids in severe alcoholic hepatitis.": {
+                    "explanation": "This paper is not directly related to the source paper as it discusses the use of corticosteroids in severe alcoholic hepatitis, whereas the source paper focuses on propylthiouracil treatment for alcoholic liver disease.",
+                    "relevance": 0
+                },
+                "3. Liver transplantation for alcoholic liver disease: a consideration of reasons for and against.": {
+                    "explanation": "This paper is not directly related to the source paper as it discusses liver transplantation for alcoholic liver disease, whereas the source paper focuses on propylthiouracil treatment for alcoholic liver disease.",
+                    "relevance": 0
+                },
+                "4. Resting energy expenditure in patients with alcoholic hepatitis.": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the metabolic state of patients with alcoholic hepatitis, which could be related to the liver disease discussed in the source paper.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Resting energy expenditure in patients with alcoholic hepatitis.": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the metabolic state of patients with alcoholic hepatitis, which could be related to the liver disease discussed in the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 1990,
+        "source_paper": {
+            "paperId": "134bd2d711cf1f393cf79c888783ecdf9d2193b7",
+            "title": "Resting energy expenditure in patients with alcoholic hepatitis.",
+            "abstract": "Patients with alcoholic hepatitis are typically malnourished. A hypermetabolic state would explain, at least in part, the muscle wasting observed in these patients. However, data on hypermetabolism in liver disease are limited and conflicting. In this study, we evaluated measured energy expenditure (MEE) vs predicted energy expenditure (PEE), and MEE in relation to urinary creatinine excretion in 20 patients with moderate and severe alcoholic hepatitis, and 20 controls. Patients with alcoholic hepatitis had depressed creatinine height index (moderate 66%, severe 78%) demonstrating muscle depletion. Patients with alcoholic hepatitis also had depressed mean serum albumin concentrations, the moderate group 2.6 g/dl and the severe group 2.0 g/dl. The mean values for measured energy expenditure in moderate alcoholic hepatitis patients, severe alcoholic hepatitis patients, and the control group were: 1556 kcal, 1878 kcal, and 1943 kcal, respectively. The mean measured energy expenditures per g of creatinine for the same groups were: 1520 kcal, 1813 kcal, and 1043 kcal, respectively. The mean measured energy expenditure/predicted energy expenditure ratio was not increased in alcoholic hepatitis patients compared to controls. However, when related to urinary creatinine excretion, the alcoholic hepatitis patients had a mean measured energy expenditure that was 55% higher than controls. In conclusion, whereas the measured energy expenditure to predicted energy expenditure ratio was not elevated in alcoholic hepatitis patients compared to controls, the measured energy expenditure per gram of creatinine was significantly increased in alcoholic hepatitis patients, supporting the concept of alcoholic hepatitis as a hypermetabolic state.",
+            "year": 1989,
+            "citation_count": 53,
+            "relevance": 1,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the metabolic state of patients with alcoholic hepatitis, which could be related to the liver disease discussed in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Basal energy production rate and substrate use in stable cirrhotic patients": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper. The source paper investigates the hypermetabolic state in patients with alcoholic hepatitis, and this paper explores the energy production rate in stable cirrhotic patients. The findings of the source paper on the increased energy expenditure in relation to urinary creatinine excretion may be relevant to understanding the energy production rate in cirrhotic patients.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Basal energy production rate and substrate use in stable cirrhotic patients": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper. The source paper investigates the hypermetabolic state in patients with alcoholic hepatitis, and this paper explores the energy production rate in stable cirrhotic patients. The findings of the source paper on the increased energy expenditure in relation to urinary creatinine excretion may be relevant to understanding the energy production rate in cirrhotic patients.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 1991,
+        "source_paper": {
+            "paperId": "134bd2d711cf1f393cf79c888783ecdf9d2193b7",
+            "title": "Resting energy expenditure in patients with alcoholic hepatitis.",
+            "abstract": "Patients with alcoholic hepatitis are typically malnourished. A hypermetabolic state would explain, at least in part, the muscle wasting observed in these patients. However, data on hypermetabolism in liver disease are limited and conflicting. In this study, we evaluated measured energy expenditure (MEE) vs predicted energy expenditure (PEE), and MEE in relation to urinary creatinine excretion in 20 patients with moderate and severe alcoholic hepatitis, and 20 controls. Patients with alcoholic hepatitis had depressed creatinine height index (moderate 66%, severe 78%) demonstrating muscle depletion. Patients with alcoholic hepatitis also had depressed mean serum albumin concentrations, the moderate group 2.6 g/dl and the severe group 2.0 g/dl. The mean values for measured energy expenditure in moderate alcoholic hepatitis patients, severe alcoholic hepatitis patients, and the control group were: 1556 kcal, 1878 kcal, and 1943 kcal, respectively. The mean measured energy expenditures per g of creatinine for the same groups were: 1520 kcal, 1813 kcal, and 1043 kcal, respectively. The mean measured energy expenditure/predicted energy expenditure ratio was not increased in alcoholic hepatitis patients compared to controls. However, when related to urinary creatinine excretion, the alcoholic hepatitis patients had a mean measured energy expenditure that was 55% higher than controls. In conclusion, whereas the measured energy expenditure to predicted energy expenditure ratio was not elevated in alcoholic hepatitis patients compared to controls, the measured energy expenditure per gram of creatinine was significantly increased in alcoholic hepatitis patients, supporting the concept of alcoholic hepatitis as a hypermetabolic state.",
+            "year": 1989,
+            "citation_count": 53,
+            "relevance": 1,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the metabolic state of patients with alcoholic hepatitis, which could be related to the liver disease discussed in the source paper."
+        },
+        "llama_output": {},
+        "seed": 42
+    },
+    {
+        "year": 1991,
+        "source_paper": {
+            "paperId": "5eb0022272d6a17353490db4c1e225d0bbf9ddfb",
+            "title": "Basal energy production rate and substrate use in stable cirrhotic patients",
+            "abstract": "The basal energy production rate was measured using indirect calorimetry in 25 stable cirrhotic patients and 10 controls of comparable age. The endogenous substrate oxidation was also calculated by measuring urinary nitrogen excretion. The energy production rate was similar in cirrhotic patients and controls. The origins of liver disease and the degree of liver damage did not seem to influence the energy production rate. On the other hand, in cirrhotic patients, as in controls, a significant correlation was present between the energy production rate and parameters of body size, such as body weight and fat\u2010free mass. As a consequence, cirrhotic patients with poor nutritional status, with a reduced fat\u2010free mass, showed a lower energy production rate. The measured energy production rate was compared with the resting energy expenditure estimated by formulas commonly used in healthy individuals. The good agreement found between the measured energy production rate and calculated energy expenditure suggests that these formulas may be applied to stable cirrhotic patients in clinical practice. In cirrhotic patients, the oxidation of endogenous fat is the main contributor to basal energy production rate. The fat oxidation rate does not appear to be influenced by the hormonal pattern found in the cirrhotic patients. However, a significant correlation was present between fat oxidation and plasma free fatty acid levels. This confirms that the prevalent fat use in cirrhotic patients is supported by the greater availability of fat\u2010derived substrates. (HEPATOLOGY 1990;12:106\u2013112).",
+            "year": 1990,
+            "citation_count": 147,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper. The source paper investigates the hypermetabolic state in patients with alcoholic hepatitis, and this paper explores the energy production rate in stable cirrhotic patients. The findings of the source paper on the increased energy expenditure in relation to urinary creatinine excretion may be relevant to understanding the energy production rate in cirrhotic patients."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Disordered Energy and Protein Metabolism in Liver Disease": {
+                    "explanation": "This paper discusses the nutritional management of liver disease and the need for individualized therapy. Although it does not directly build upon or use the findings of the source paper as a sub-hypothesis, it explores related concepts in energy and protein metabolism in liver disease, which is partially dependent on the understanding of basal energy production rate in cirrhotic patients.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Disordered Energy and Protein Metabolism in Liver Disease": {
+                    "explanation": "This paper discusses the nutritional management of liver disease and the need for individualized therapy. Although it does not directly build upon or use the findings of the source paper as a sub-hypothesis, it explores related concepts in energy and protein metabolism in liver disease, which is partially dependent on the understanding of basal energy production rate in cirrhotic patients.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 1992,
+        "source_paper": {
+            "paperId": "5eb0022272d6a17353490db4c1e225d0bbf9ddfb",
+            "title": "Basal energy production rate and substrate use in stable cirrhotic patients",
+            "abstract": "The basal energy production rate was measured using indirect calorimetry in 25 stable cirrhotic patients and 10 controls of comparable age. The endogenous substrate oxidation was also calculated by measuring urinary nitrogen excretion. The energy production rate was similar in cirrhotic patients and controls. The origins of liver disease and the degree of liver damage did not seem to influence the energy production rate. On the other hand, in cirrhotic patients, as in controls, a significant correlation was present between the energy production rate and parameters of body size, such as body weight and fat\u2010free mass. As a consequence, cirrhotic patients with poor nutritional status, with a reduced fat\u2010free mass, showed a lower energy production rate. The measured energy production rate was compared with the resting energy expenditure estimated by formulas commonly used in healthy individuals. The good agreement found between the measured energy production rate and calculated energy expenditure suggests that these formulas may be applied to stable cirrhotic patients in clinical practice. In cirrhotic patients, the oxidation of endogenous fat is the main contributor to basal energy production rate. The fat oxidation rate does not appear to be influenced by the hormonal pattern found in the cirrhotic patients. However, a significant correlation was present between fat oxidation and plasma free fatty acid levels. This confirms that the prevalent fat use in cirrhotic patients is supported by the greater availability of fat\u2010derived substrates. (HEPATOLOGY 1990;12:106\u2013112).",
+            "year": 1990,
+            "citation_count": 147,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper. The source paper investigates the hypermetabolic state in patients with alcoholic hepatitis, and this paper explores the energy production rate in stable cirrhotic patients. The findings of the source paper on the increased energy expenditure in relation to urinary creatinine excretion may be relevant to understanding the energy production rate in cirrhotic patients."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Oxidative metabolism in cirrhotic patients with and without hepatocellular carcinoma: Effects of malnutrition": {
+                    "explanation": "This paper is at least partially dependent on the findings of the source paper. The source paper investigated the basal energy production rate and substrate use in stable cirrhotic patients, and this paper explores the oxidative metabolism in cirrhotic patients with and without hepatocellular carcinoma, which is a related topic.",
+                    "relevance": 2
+                },
+                "2. Early postprandial energy expenditure and macronutrient use after a mixed meal in cirrhotic patients": {
+                    "explanation": "This paper is inspired by the hypothesis of the source paper, as it investigates the postprandial energy expenditure and macronutrient use in cirrhotic patients, which is a related topic to the basal energy production rate and substrate use in stable cirrhotic patients.",
+                    "relevance": 1
+                },
+                "3. Changes of hepatic fatty acid metabolism produced by chronic thioacetamide administration in rats": {
+                    "explanation": "This paper has no connection with the source paper. The source paper investigated the basal energy production rate and substrate use in stable cirrhotic patients, while this paper explores the hepatic fatty acid metabolism in rats treated with thioacetamide.",
+                    "relevance": 0
+                },
+                "4. Energy expenditure and substrate oxidation in patients with cirrhosis: The impact of cause, clinical staging and nutritional state": {
+                    "explanation": "This paper is at least partially dependent on the findings of the source paper. The source paper investigated the basal energy production rate and substrate use in stable cirrhotic patients, and this paper explores the energy expenditure and substrate oxidation in patients with cirrhosis, which is a related topic.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Oxidative metabolism in cirrhotic patients with and without hepatocellular carcinoma: Effects of malnutrition": {
+                    "explanation": "This paper is at least partially dependent on the findings of the source paper. The source paper investigated the basal energy production rate and substrate use in stable cirrhotic patients, and this paper explores the oxidative metabolism in cirrhotic patients with and without hepatocellular carcinoma, which is a related topic.",
+                    "relevance": 2
+                },
+                "2. Energy expenditure and substrate oxidation in patients with cirrhosis: The impact of cause, clinical staging and nutritional state": {
+                    "explanation": "This paper is at least partially dependent on the findings of the source paper. The source paper investigated the basal energy production rate and substrate use in stable cirrhotic patients, and this paper explores the energy expenditure and substrate oxidation in patients with cirrhosis, which is a related topic.",
+                    "relevance": 2
+                },
+                "3. Early postprandial energy expenditure and macronutrient use after a mixed meal in cirrhotic patients": {
+                    "explanation": "This paper is inspired by the hypothesis of the source paper, as it investigates the postprandial energy expenditure and macronutrient use in cirrhotic patients, which is a related topic to the basal energy production rate and substrate use in stable cirrhotic patients.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 1993,
+        "source_paper": {
+            "paperId": "263f002b3f9f4e2a6e3b9b0dc7e4ea5fd90da97b",
+            "title": "Energy expenditure and substrate oxidation in patients with cirrhosis: The impact of cause, clinical staging and nutritional state",
+            "abstract": "Many clinicians subjectively feel that cirrhotic patients frequently have clinical signs of hypermetabolism. However, it is unknown whether hypermetabolism is a constant feature of chronic liver disease, corresponds to liver destruction and repair or is of prognostic value. This article is about resting energy expenditure and substrate oxidation rates in 123 patients with biopsy\u2010proven cirrhosis differing with respect to cause, duration of the disease, biochemical parameters of parenchymal cell damage, cholestasis, liver function, number of complications, clinical staging and nutritional state.",
+            "year": 1992,
+            "citation_count": 278,
+            "relevance": 2,
+            "explanation": "This paper is at least partially dependent on the findings of the source paper. The source paper investigated the basal energy production rate and substrate use in stable cirrhotic patients, and this paper explores the energy expenditure and substrate oxidation in patients with cirrhosis, which is a related topic."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Nutritional Therapy in Alcoholic Liver Disease": {
+                    "explanation": "This paper is a review paper, as indicated by the abstract's focus on assessing the role of nutrition in the management of alcohol-induced liver disease and discussing malnutrition and alcoholic hepatic dysfunction jointly. It lacks novel hypotheses or findings and does not build upon the source paper's hypothesis or findings.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 1994,
+        "source_paper": {
+            "paperId": "263f002b3f9f4e2a6e3b9b0dc7e4ea5fd90da97b",
+            "title": "Energy expenditure and substrate oxidation in patients with cirrhosis: The impact of cause, clinical staging and nutritional state",
+            "abstract": "Many clinicians subjectively feel that cirrhotic patients frequently have clinical signs of hypermetabolism. However, it is unknown whether hypermetabolism is a constant feature of chronic liver disease, corresponds to liver destruction and repair or is of prognostic value. This article is about resting energy expenditure and substrate oxidation rates in 123 patients with biopsy\u2010proven cirrhosis differing with respect to cause, duration of the disease, biochemical parameters of parenchymal cell damage, cholestasis, liver function, number of complications, clinical staging and nutritional state.",
+            "year": 1992,
+            "citation_count": 278,
+            "relevance": 2,
+            "explanation": "This paper is at least partially dependent on the findings of the source paper. The source paper investigated the basal energy production rate and substrate use in stable cirrhotic patients, and this paper explores the energy expenditure and substrate oxidation in patients with cirrhosis, which is a related topic."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Skeletal muscle glycogen content in patients with cirrhosis": {
+                    "explanation": "This paper explores muscle glycogen content in patients with cirrhosis, which is related to the nutritional state and energy expenditure discussed in the source paper. However, it does not directly build upon or use the findings of the source paper as a sub-hypothesis, but rather investigates a new aspect of cirrhosis.",
+                    "relevance": 1
+                },
+                "2. Nutritional supplementation in chronic liver disease: An analytical review": {
+                    "explanation": "This paper is a review paper that discusses nutritional supplementation in chronic liver disease, including cirrhosis. It does not present novel findings or hypotheses and lacks a direct connection to the source paper.",
+                    "relevance": 0
+                },
+                "3. Glucose Intolerance in Liver Cirrhosis: Role of Hepatic and Non-Hepatic Influences": {
+                    "explanation": "This paper investigates glucose intolerance in liver cirrhosis, which is related to the energy expenditure and substrate oxidation discussed in the source paper. It uses the source paper's findings as a foundation to explore a new aspect of cirrhosis, making it partially dependent on the source paper's findings.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Glucose Intolerance in Liver Cirrhosis: Role of Hepatic and Non-Hepatic Influences": {
+                    "explanation": "This paper investigates glucose intolerance in liver cirrhosis, which is related to the energy expenditure and substrate oxidation discussed in the source paper. It uses the source paper's findings as a foundation to explore a new aspect of cirrhosis, making it partially dependent on the source paper's findings.",
+                    "relevance": 2
+                },
+                "2. Skeletal muscle glycogen content in patients with cirrhosis": {
+                    "explanation": "This paper explores muscle glycogen content in patients with cirrhosis, which is related to the nutritional state and energy expenditure discussed in the source paper. However, it does not directly build upon or use the findings of the source paper as a sub-hypothesis, but rather investigates a new aspect of cirrhosis.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 1999,
+        "source_paper": {
+            "paperId": "c528e67ade4a3c11d99d596c44f030e7b96da886",
+            "title": "Glucose Intolerance in Liver Cirrhosis: Role of Hepatic and Non-Hepatic Influences",
+            "abstract": "Oral glucose tolerance was tested in a heterogeneous group of 108 patients with liver cirrhosis. Data were compared with those from 181 subjects without liver disease (44% normal, 35% impaired glucose tolerance and 21% type 2 diabetes mellitus). In cirrhosis, 27% of the patients had normal, 36% had impaired glucose tolerance, and 37% were diabetic. There was no association between glucose intolerance or diabetes and the aetiology of cirrhosis, the duration of the disease, the biochemical indicators of hepatocyte damage, cholestasis and/or liver function. Only weak associations were found between the results of quantitative liver functions tests (caffeine, xylocaine, indocyanine green) and basal and post load glucose and insulin concentrations. Cirrhotics with 1st degree relatives with type 2 diabetes mellitus (n = 16) did not show an increased prevalence of diabetes. Older and/or malnourished patients were more frequently glucose intolerant. Using the plasma glucose concentration 120 minutes after glucose load as the dependent variable, multivariate regression analysis showed that 54% of its variance is associated with the following variables: basal plasma glucose (36%) and free fatty acid concentration (5%), age (3%), basal glucose oxidation rate (3%), muscle mass (3%) and plasma free glycerol at 120 minutes after glucose load (3%). By contrast, the clinical state of the patients (i.e. the CHILD-Pugh score) accounted for only 2% of the variance. We conclude that glucose tolerance is variable in cirrhosis. After manifestation of liver disease, glucose intolerance or diabetes cannot be explained by the clinical, histological or biochemical signs of liver disease.",
+            "year": 1994,
+            "citation_count": 73,
+            "relevance": 2,
+            "explanation": "This paper investigates glucose intolerance in liver cirrhosis, which is related to the energy expenditure and substrate oxidation discussed in the source paper. It uses the source paper's findings as a foundation to explore a new aspect of cirrhosis, making it partially dependent on the source paper's findings."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Glucose intolerance and insulin resistance in cirrhosis are normalized after liver transplantation": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper. The source paper explores the relationship between glucose intolerance and liver cirrhosis, while this paper investigates the effect of liver transplantation on glucose intolerance and insulin resistance in cirrhotic patients. The findings of the source paper provide a foundation for understanding the mechanisms underlying glucose intolerance in cirrhosis, which is then built upon in this paper.",
+                    "relevance": 2
+                },
+                "2. Experience of parenteral nutrition for nutritional rescue in children with severe liver disease following failure of enteral nutrition": {
+                    "explanation": "This paper has no connection with the source paper. The source paper focuses on glucose intolerance in liver cirrhosis, while this paper discusses parenteral nutrition in children with severe liver disease. The topics are unrelated, and the findings of the source paper do not provide a foundation for the hypothesis in this paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Glucose intolerance and insulin resistance in cirrhosis are normalized after liver transplantation": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper. The source paper explores the relationship between glucose intolerance and liver cirrhosis, while this paper investigates the effect of liver transplantation on glucose intolerance and insulin resistance in cirrhotic patients. The findings of the source paper provide a foundation for understanding the mechanisms underlying glucose intolerance in cirrhosis, which is then built upon in this paper.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2000,
+        "source_paper": {
+            "paperId": "49197f3621bb8abc6817275b0cf8cd146ca27b69",
+            "title": "Glucose intolerance and insulin resistance in cirrhosis are normalized after liver transplantation",
+            "abstract": "Cirrhosis is often associated with insulin resistance and glucose intolerance. We evaluated if these alterations are restored by liver transplantation (LT). Glucose tolerance (oral glucose tolerance test [OGTT]), peripheral insulin sensitivity (euglycemic insulin clamp technique), glucose oxidation (indirect calorimetry), nonoxidative glucose disposal, and insulin secretion (hyperglycemic clamp technique) were measured in 6 patients (Group 1) before and 6 months after LT, in 12 patients (Group 2) who underwent LT 6 to 30 months previously, and in 6 healthy individuals (controls). In Group 1, glucose tolerance and insulin sensitivity (3.24 \u00b1 0.37 mg/kg/min) were normalized after LT (8.6 \u00b1 0.77 mg/kg/min; P < .0001; P = not significant vs. controls). The improved insulin\u2010mediated glucose uptake was the result of a normalization of nonoxidative glucose disposal. Fasting insulin and C\u2010peptide decreased from 24.6 \u00b1 3.3 \u03bcU/mL and 4.37 \u00b1 0.46 ng/dL, respectively, to 12.7 \u00b1 1.9 \u03bcU/mL and 2.46 \u00b1 0.5 ng/dL (controls: 10.0 \u00b1 3 \u03bcU/mL and 1.45 \u00b1 0.34 ng/dL). The glucose\u2010induced increase of insulin concentration, which was higher before LT, showed a significant reduction, although the first phase of \u03b2\u2010cell secretion remained significantly higher compared with that of controls. All these findings were also confirmed in Group 2. The present data indicate that LT normalizes glucose tolerance and insulin sensitivity in cirrhotic patients through an improvement of both hepatic glucose clearance and the peripheral glucose disposal. The latter effect may be the result of the correction of chronic hyperinsulinemia. An increased first\u2010phase \u03b2\u2010cell insulin secretion in response to high glucose levels persists, suggesting that a memory of previous insulin resistance is maintained.",
+            "year": 1999,
+            "citation_count": 91,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper. The source paper explores the relationship between glucose intolerance and liver cirrhosis, while this paper investigates the effect of liver transplantation on glucose intolerance and insulin resistance in cirrhotic patients. The findings of the source paper provide a foundation for understanding the mechanisms underlying glucose intolerance in cirrhosis, which is then built upon in this paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Prevalence of Type 2 Diabetes Mellitus among Persons with Hepatitis C Virus Infection in the United States": {
+                    "explanation": "The paper explores the relationship between HCV infection and type 2 diabetes, but it does not directly build upon or utilize the findings of the source paper, which discusses the normalization of glucose intolerance and insulin resistance after liver transplantation.",
+                    "relevance": 0
+                },
+                "2. Nutritional and metabolic issues in cirrhosis and liver transplantation": {
+                    "explanation": "This paper is a review of recent studies on nutrition and metabolism in chronic liver disease and transplantation, including the correction of insulin resistance after liver transplantation, which is a finding from the source paper. However, it does not present new data or hypotheses that directly build upon or utilize the findings of the source paper.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Nutritional and metabolic issues in cirrhosis and liver transplantation": {
+                    "explanation": "This paper is a review of recent studies on nutrition and metabolism in chronic liver disease and transplantation, including the correction of insulin resistance after liver transplantation, which is a finding from the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2001,
+        "source_paper": {
+            "paperId": "49197f3621bb8abc6817275b0cf8cd146ca27b69",
+            "title": "Glucose intolerance and insulin resistance in cirrhosis are normalized after liver transplantation",
+            "abstract": "Cirrhosis is often associated with insulin resistance and glucose intolerance. We evaluated if these alterations are restored by liver transplantation (LT). Glucose tolerance (oral glucose tolerance test [OGTT]), peripheral insulin sensitivity (euglycemic insulin clamp technique), glucose oxidation (indirect calorimetry), nonoxidative glucose disposal, and insulin secretion (hyperglycemic clamp technique) were measured in 6 patients (Group 1) before and 6 months after LT, in 12 patients (Group 2) who underwent LT 6 to 30 months previously, and in 6 healthy individuals (controls). In Group 1, glucose tolerance and insulin sensitivity (3.24 \u00b1 0.37 mg/kg/min) were normalized after LT (8.6 \u00b1 0.77 mg/kg/min; P < .0001; P = not significant vs. controls). The improved insulin\u2010mediated glucose uptake was the result of a normalization of nonoxidative glucose disposal. Fasting insulin and C\u2010peptide decreased from 24.6 \u00b1 3.3 \u03bcU/mL and 4.37 \u00b1 0.46 ng/dL, respectively, to 12.7 \u00b1 1.9 \u03bcU/mL and 2.46 \u00b1 0.5 ng/dL (controls: 10.0 \u00b1 3 \u03bcU/mL and 1.45 \u00b1 0.34 ng/dL). The glucose\u2010induced increase of insulin concentration, which was higher before LT, showed a significant reduction, although the first phase of \u03b2\u2010cell secretion remained significantly higher compared with that of controls. All these findings were also confirmed in Group 2. The present data indicate that LT normalizes glucose tolerance and insulin sensitivity in cirrhotic patients through an improvement of both hepatic glucose clearance and the peripheral glucose disposal. The latter effect may be the result of the correction of chronic hyperinsulinemia. An increased first\u2010phase \u03b2\u2010cell insulin secretion in response to high glucose levels persists, suggesting that a memory of previous insulin resistance is maintained.",
+            "year": 1999,
+            "citation_count": 91,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper. The source paper explores the relationship between glucose intolerance and liver cirrhosis, while this paper investigates the effect of liver transplantation on glucose intolerance and insulin resistance in cirrhotic patients. The findings of the source paper provide a foundation for understanding the mechanisms underlying glucose intolerance in cirrhosis, which is then built upon in this paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Evidence for altered hepatic gluconeogenesis in patients with cirrhosis using in vivo 31-phosphorus magnetic resonance spectroscopy": {
+                    "explanation": "The key hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the alterations in gluconeogenesis in cirrhotic patients, which is related to the source paper's findings on glucose intolerance and insulin resistance in cirrhosis.",
+                    "relevance": 2
+                },
+                "2. Association between hepatitis C virus infection and diabetes mellitus": {
+                    "explanation": "This paper has no connection with the source paper, as it reviews the literature on the association between hepatitis C virus infection and diabetes mellitus, which is a different topic from the source paper's focus on liver transplantation and glucose metabolism.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Evidence for altered hepatic gluconeogenesis in patients with cirrhosis using in vivo 31-phosphorus magnetic resonance spectroscopy": {
+                    "explanation": "The key hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the alterations in gluconeogenesis in cirrhotic patients, which is related to the source paper's findings on glucose intolerance and insulin resistance in cirrhosis.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2003,
+        "source_paper": {
+            "paperId": "312d7ced32b6ff1eab6eb66afc343ff1821744e3",
+            "title": "Evidence for altered hepatic gluconeogenesis in patients with cirrhosis using in vivo 31-phosphorus magnetic resonance spectroscopy",
+            "abstract": "BACKGROUND AND AIMS Alterations in gluconeogenesis in the diseased liver can be assessed non-invasively using magnetic resonance spectroscopy by measuring changes in phosphomonoester resonance which contains information regarding several metabolites, including the phosphorylated intermediates of the gluconeogenic pathway. METHODS 31P magnetic resonance spectroscopy was used to determine changes in phosphomonoesters following bolus infusions of 2.8 mmol/kgl-alanine in five patients with functionally compensated cirrhosis and in five patients with functionally decompensated cirrhosis. RESULTS Compared with six healthy volunteers, baseline phosphomonoester values were elevated by 35% (p<0.05) in the compensated cirrhosis group and by 57% (p<0.01) in the decompensated cirrhosis group. Following alanine infusion, phosphomonoesters in healthy volunteers increased by 46% from baseline values (p<0.01), in patients with compensated cirrhosis by 27% (p<0.02) but those with decompensated cirrhosis showed no increase from baseline. There was a reduction in the percentage of inorganic phosphate signal in all subjects. CONCLUSIONS By analysing changes in phosphomonoester and inorganic phosphate resonances it is possible to discern clear metabolic differences between healthy volunteers and patients with cirrhosis of varying severity using magnetic resonance spectroscopy. Those patients with functionally decompensated cirrhosis have higher percentage baseline phosphomonoester values but the absence of phosphomonoester elevation following l-alanine infusion suggests that they are unable to mount a significant metabolic response with a progluconeogenic stimulus.",
+            "year": 2001,
+            "citation_count": 71,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the alterations in gluconeogenesis in cirrhotic patients, which is related to the source paper's findings on glucose intolerance and insulin resistance in cirrhosis."
+        },
+        "llama_output": {},
+        "seed": 42
+    },
+    {
+        "year": 2003,
+        "source_paper": {
+            "paperId": "312d7ced32b6ff1eab6eb66afc343ff1821744e3",
+            "title": "Evidence for altered hepatic gluconeogenesis in patients with cirrhosis using in vivo 31-phosphorus magnetic resonance spectroscopy",
+            "abstract": "BACKGROUND AND AIMS Alterations in gluconeogenesis in the diseased liver can be assessed non-invasively using magnetic resonance spectroscopy by measuring changes in phosphomonoester resonance which contains information regarding several metabolites, including the phosphorylated intermediates of the gluconeogenic pathway. METHODS 31P magnetic resonance spectroscopy was used to determine changes in phosphomonoesters following bolus infusions of 2.8 mmol/kgl-alanine in five patients with functionally compensated cirrhosis and in five patients with functionally decompensated cirrhosis. RESULTS Compared with six healthy volunteers, baseline phosphomonoester values were elevated by 35% (p<0.05) in the compensated cirrhosis group and by 57% (p<0.01) in the decompensated cirrhosis group. Following alanine infusion, phosphomonoesters in healthy volunteers increased by 46% from baseline values (p<0.01), in patients with compensated cirrhosis by 27% (p<0.02) but those with decompensated cirrhosis showed no increase from baseline. There was a reduction in the percentage of inorganic phosphate signal in all subjects. CONCLUSIONS By analysing changes in phosphomonoester and inorganic phosphate resonances it is possible to discern clear metabolic differences between healthy volunteers and patients with cirrhosis of varying severity using magnetic resonance spectroscopy. Those patients with functionally decompensated cirrhosis have higher percentage baseline phosphomonoester values but the absence of phosphomonoester elevation following l-alanine infusion suggests that they are unable to mount a significant metabolic response with a progluconeogenic stimulus.",
+            "year": 2001,
+            "citation_count": 71,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the alterations in gluconeogenesis in cirrhotic patients, which is related to the source paper's findings on glucose intolerance and insulin resistance in cirrhosis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Keeping neuroendocrine cells in check: roles for TGF\u03b2, Smads, and menin?": {
+                    "explanation": "This paper has no connection to the source paper as it discusses neuroendocrine cells and their regulation, which is unrelated to the source paper's topic of hepatic gluconeogenesis and the use of 31-phosphorus magnetic resonance spectroscopy.",
+                    "relevance": 0
+                },
+                "2. Prior knowledge for time domain quantification of in vivo brain or liver 31P MR spectra": {
+                    "explanation": "The key hypothesis in this paper is inspired by the methodology used in the source paper, as it discusses the use of prior knowledge for quantifying in vivo 31P MR spectra from the liver, which is similar to the source paper's use of 31-phosphorus magnetic resonance spectroscopy to study hepatic gluconeogenesis.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Prior knowledge for time domain quantification of in vivo brain or liver 31P MR spectra": {
+                    "explanation": "The key hypothesis in this paper is inspired by the methodology used in the source paper, as it discusses the use of prior knowledge for quantifying in vivo 31P MR spectra from the liver, which is similar to the source paper's use of 31-phosphorus magnetic resonance spectroscopy to study hepatic gluconeogenesis.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2004,
+        "source_paper": {
+            "paperId": "312d7ced32b6ff1eab6eb66afc343ff1821744e3",
+            "title": "Evidence for altered hepatic gluconeogenesis in patients with cirrhosis using in vivo 31-phosphorus magnetic resonance spectroscopy",
+            "abstract": "BACKGROUND AND AIMS Alterations in gluconeogenesis in the diseased liver can be assessed non-invasively using magnetic resonance spectroscopy by measuring changes in phosphomonoester resonance which contains information regarding several metabolites, including the phosphorylated intermediates of the gluconeogenic pathway. METHODS 31P magnetic resonance spectroscopy was used to determine changes in phosphomonoesters following bolus infusions of 2.8 mmol/kgl-alanine in five patients with functionally compensated cirrhosis and in five patients with functionally decompensated cirrhosis. RESULTS Compared with six healthy volunteers, baseline phosphomonoester values were elevated by 35% (p<0.05) in the compensated cirrhosis group and by 57% (p<0.01) in the decompensated cirrhosis group. Following alanine infusion, phosphomonoesters in healthy volunteers increased by 46% from baseline values (p<0.01), in patients with compensated cirrhosis by 27% (p<0.02) but those with decompensated cirrhosis showed no increase from baseline. There was a reduction in the percentage of inorganic phosphate signal in all subjects. CONCLUSIONS By analysing changes in phosphomonoester and inorganic phosphate resonances it is possible to discern clear metabolic differences between healthy volunteers and patients with cirrhosis of varying severity using magnetic resonance spectroscopy. Those patients with functionally decompensated cirrhosis have higher percentage baseline phosphomonoester values but the absence of phosphomonoester elevation following l-alanine infusion suggests that they are unable to mount a significant metabolic response with a progluconeogenic stimulus.",
+            "year": 2001,
+            "citation_count": 71,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the alterations in gluconeogenesis in cirrhotic patients, which is related to the source paper's findings on glucose intolerance and insulin resistance in cirrhosis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Quantitative hepatic phosphorus-31 magnetic resonance spectroscopy in compensated and decompensated cirrhosis": {
+                    "explanation": "This paper builds upon the findings of the source paper by using similar techniques (quantitative hepatic phosphorus-31 magnetic resonance spectroscopy) to examine the physiological/biochemical status of hepatocytes in patients with compensated and decompensated cirrhosis. The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the metabolic differences between healthy volunteers and patients with cirrhosis of varying severity.",
+                    "relevance": 2
+                },
+                "2. In Vivo Measurement of Phosphorous Markers of Disease": {
+                    "explanation": "This paper has no direct connection with the source paper. It discusses the application of Phosphorus Magnetic Resonance Spectroscopy (31P-MRS) in studying energy, carbohydrate, and phospholipid metabolism in various diseases, but it does not build upon or reference the findings of the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Quantitative hepatic phosphorus-31 magnetic resonance spectroscopy in compensated and decompensated cirrhosis": {
+                    "explanation": "This paper builds upon the findings of the source paper by using similar techniques (quantitative hepatic phosphorus-31 magnetic resonance spectroscopy) to examine the physiological/biochemical status of hepatocytes in patients with compensated and decompensated cirrhosis. The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the metabolic differences between healthy volunteers and patients with cirrhosis of varying severity.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2007,
+        "source_paper": {
+            "paperId": "b301703d8fbb187ad363dd2103a29cb2aa88ba29",
+            "title": "Quantitative hepatic phosphorus-31 magnetic resonance spectroscopy in compensated and decompensated cirrhosis.",
+            "abstract": "Few studies have examined the physiological/biochemical status of hepatocytes in patients with compensated and decompensated cirrhosis in situ. Phosphorus-31 magnetic resonance spectroscopy ((31)P MRS) is a noninvasive technique that permits direct assessments of tissue bioenergetics and phospholipid metabolism. Quantitative (31)P MRS was employed to document differences in the hepatic metabolite concentrations among patients with compensated and decompensated cirrhosis as well as healthy controls. All MRS examinations were performed on a 1.5-T General Electric Signa whole body scanner. The concentration of hepatic phosphorylated metabolites among patients with compensated cirrhosis (n = 7) was similar to that among healthy controls (n = 8). However, patients with decompensated cirrhosis (n = 6) had significantly lower levels of hepatic ATP compared with patients with compensated cirrhosis and healthy controls (P < 0.02 and P < 0.009, respectively) and a higher phosphomonoester/phosphodiester ratio than controls (P < 0.003). The results of this study indicate that metabolic disturbances in hepatic energy and phospholipid metabolism exist in patients with decompensated cirrhosis that are not present in patients with compensated cirrhosis or healthy controls. These findings provide new insights into the pathophysiology of hepatic decompensation.",
+            "year": 2004,
+            "citation_count": 38,
+            "relevance": 2,
+            "explanation": "This paper builds upon the findings of the source paper by using similar techniques (quantitative hepatic phosphorus-31 magnetic resonance spectroscopy) to examine the physiological/biochemical status of hepatocytes in patients with compensated and decompensated cirrhosis. The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the metabolic differences between healthy volunteers and patients with cirrhosis of varying severity."
+        },
+        "llama_output": {},
+        "seed": 42
+    },
+    {
+        "year": 2007,
+        "source_paper": {
+            "paperId": "b301703d8fbb187ad363dd2103a29cb2aa88ba29",
+            "title": "Quantitative hepatic phosphorus-31 magnetic resonance spectroscopy in compensated and decompensated cirrhosis.",
+            "abstract": "Few studies have examined the physiological/biochemical status of hepatocytes in patients with compensated and decompensated cirrhosis in situ. Phosphorus-31 magnetic resonance spectroscopy ((31)P MRS) is a noninvasive technique that permits direct assessments of tissue bioenergetics and phospholipid metabolism. Quantitative (31)P MRS was employed to document differences in the hepatic metabolite concentrations among patients with compensated and decompensated cirrhosis as well as healthy controls. All MRS examinations were performed on a 1.5-T General Electric Signa whole body scanner. The concentration of hepatic phosphorylated metabolites among patients with compensated cirrhosis (n = 7) was similar to that among healthy controls (n = 8). However, patients with decompensated cirrhosis (n = 6) had significantly lower levels of hepatic ATP compared with patients with compensated cirrhosis and healthy controls (P < 0.02 and P < 0.009, respectively) and a higher phosphomonoester/phosphodiester ratio than controls (P < 0.003). The results of this study indicate that metabolic disturbances in hepatic energy and phospholipid metabolism exist in patients with decompensated cirrhosis that are not present in patients with compensated cirrhosis or healthy controls. These findings provide new insights into the pathophysiology of hepatic decompensation.",
+            "year": 2004,
+            "citation_count": 38,
+            "relevance": 2,
+            "explanation": "This paper builds upon the findings of the source paper by using similar techniques (quantitative hepatic phosphorus-31 magnetic resonance spectroscopy) to examine the physiological/biochemical status of hepatocytes in patients with compensated and decompensated cirrhosis. The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the metabolic differences between healthy volunteers and patients with cirrhosis of varying severity."
+        },
+        "llama_output": {},
+        "seed": 42
+    },
+    {
+        "year": 2008,
+        "source_paper": {
+            "paperId": "b301703d8fbb187ad363dd2103a29cb2aa88ba29",
+            "title": "Quantitative hepatic phosphorus-31 magnetic resonance spectroscopy in compensated and decompensated cirrhosis.",
+            "abstract": "Few studies have examined the physiological/biochemical status of hepatocytes in patients with compensated and decompensated cirrhosis in situ. Phosphorus-31 magnetic resonance spectroscopy ((31)P MRS) is a noninvasive technique that permits direct assessments of tissue bioenergetics and phospholipid metabolism. Quantitative (31)P MRS was employed to document differences in the hepatic metabolite concentrations among patients with compensated and decompensated cirrhosis as well as healthy controls. All MRS examinations were performed on a 1.5-T General Electric Signa whole body scanner. The concentration of hepatic phosphorylated metabolites among patients with compensated cirrhosis (n = 7) was similar to that among healthy controls (n = 8). However, patients with decompensated cirrhosis (n = 6) had significantly lower levels of hepatic ATP compared with patients with compensated cirrhosis and healthy controls (P < 0.02 and P < 0.009, respectively) and a higher phosphomonoester/phosphodiester ratio than controls (P < 0.003). The results of this study indicate that metabolic disturbances in hepatic energy and phospholipid metabolism exist in patients with decompensated cirrhosis that are not present in patients with compensated cirrhosis or healthy controls. These findings provide new insights into the pathophysiology of hepatic decompensation.",
+            "year": 2004,
+            "citation_count": 38,
+            "relevance": 2,
+            "explanation": "This paper builds upon the findings of the source paper by using similar techniques (quantitative hepatic phosphorus-31 magnetic resonance spectroscopy) to examine the physiological/biochemical status of hepatocytes in patients with compensated and decompensated cirrhosis. The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the metabolic differences between healthy volunteers and patients with cirrhosis of varying severity."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Three\u2010dimensional high\u2010resolution magnetic resonance spectroscopic imaging for absolute quantification of 31P metabolites in human liver": {
+                    "explanation": "This paper builds upon the source paper's use of phosphorus-31 magnetic resonance spectroscopy ((31)P MRS) to study liver metabolism. The key hypothesis in this paper is partially dependent on the findings of the source paper, as it aims to improve the quantification of 31P metabolites in human liver using a new protocol.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Three\u2010dimensional high\u2010resolution magnetic resonance spectroscopic imaging for absolute quantification of 31P metabolites in human liver": {
+                    "explanation": "This paper builds upon the source paper's use of phosphorus-31 magnetic resonance spectroscopy ((31)P MRS) to study liver metabolism. The key hypothesis in this paper is partially dependent on the findings of the source paper, as it aims to improve the quantification of 31P metabolites in human liver using a new protocol.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2009,
+        "source_paper": {
+            "paperId": "2fe40190dde84b1b66a56f25e58631467e47107b",
+            "title": "Three\u2010dimensional high\u2010resolution magnetic resonance spectroscopic imaging for absolute quantification of 31P metabolites in human liver",
+            "abstract": "Liver dysfunction correlates with alterations of intracellular concentrations of 31P metabolites. Localization and absolute quantification should help to trace regional hepatic metabolism. An improved protocol for the absolute quantification of 31P metabolites in vivo in human liver was developed by employing three\u2010dimensional (3D) k\u2010space weighted spectroscopic imaging (MRSI) with B1\u2010insensitive adiabatic excitation. The protocol allowed for high spatial resolution of 17.8 \u00b1 0.22 cm3 in 34 min at 3 T. No pulse adjustment prior to MRSI measurement was necessary due to adiabatic excitation. The protocol geometry was identical for all measurements so that one calibration data set, acquired from phantom replacement measurement, was applied for all quantifications. The protocol was tested in 10 young, healthy volunteers, for whom 57 \u00b1 7 spectra were quantified. Concentrations per liter of liver volume (reproducibilities) were 2.24 \u00b1 0.10 mmol/L (1.8%) for phosphomonoesters (PME), 1.37 \u00b1 0.07 mmol/L (7.9%) for inorganic phosphate (Pi), 11.40 \u00b1 0.96 mmol/L (2.9%) for phosphodiesters (PDE), and 2.14 \u00b1 0.10 mmol/L (1.6%) for adenosine triphosphate (ATP), respectively. Taken together, this approach provides fast, simple, and reproducible high\u2010resolution absolute quantification and detailed mapping of the spatial distribution of hepatic 31P metabolites. This method allows for examination of regional deviations of energy metabolism in human liver diseases. Magn Reson Med 60:796\u2013802, 2008. \u00a9 2008 Wiley\u2010Liss, Inc.",
+            "year": 2008,
+            "citation_count": 49,
+            "relevance": 2,
+            "explanation": "This paper builds upon the source paper's use of phosphorus-31 magnetic resonance spectroscopy ((31)P MRS) to study liver metabolism. The key hypothesis in this paper is partially dependent on the findings of the source paper, as it aims to improve the quantification of 31P metabolites in human liver using a new protocol."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Abnormal hepatic energy homeostasis in type 2 diabetes": {
+                    "explanation": "This paper builds upon the source paper's method for absolute quantification of 31P metabolites in human liver. The authors use a similar technique (noninvasive 1H/31P magnetic resonance spectroscopy) to investigate hepatic energy metabolism in individuals with type 2 diabetes mellitus (T2DM).",
+                    "relevance": 2
+                },
+                "2. Assessment of 31P relaxation times in the human calf muscle: A comparison between 3 T and 7 T in vivo": {
+                    "explanation": "This paper is not directly related to the source paper. It focuses on assessing 31P relaxation times in the human calf muscle, whereas the source paper deals with the liver. Although both papers use magnetic resonance spectroscopy, the context and application are different.",
+                    "relevance": 0
+                },
+                "3. Ectopic lipids and organ function": {
+                    "explanation": "This paper is a review article that discusses the relationship between ectopic lipid storage and organ function. While it mentions liver and muscle, it does not directly build upon the source paper's method or findings. The paper provides a broader overview of the field, but it is not closely related to the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Abnormal hepatic energy homeostasis in type 2 diabetes": {
+                    "explanation": "This paper builds upon the source paper's method for absolute quantification of 31P metabolites in human liver. The authors use a similar technique (noninvasive 1H/31P magnetic resonance spectroscopy) to investigate hepatic energy metabolism in individuals with type 2 diabetes mellitus (T2DM).",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2010,
+        "source_paper": {
+            "paperId": "2fe40190dde84b1b66a56f25e58631467e47107b",
+            "title": "Three\u2010dimensional high\u2010resolution magnetic resonance spectroscopic imaging for absolute quantification of 31P metabolites in human liver",
+            "abstract": "Liver dysfunction correlates with alterations of intracellular concentrations of 31P metabolites. Localization and absolute quantification should help to trace regional hepatic metabolism. An improved protocol for the absolute quantification of 31P metabolites in vivo in human liver was developed by employing three\u2010dimensional (3D) k\u2010space weighted spectroscopic imaging (MRSI) with B1\u2010insensitive adiabatic excitation. The protocol allowed for high spatial resolution of 17.8 \u00b1 0.22 cm3 in 34 min at 3 T. No pulse adjustment prior to MRSI measurement was necessary due to adiabatic excitation. The protocol geometry was identical for all measurements so that one calibration data set, acquired from phantom replacement measurement, was applied for all quantifications. The protocol was tested in 10 young, healthy volunteers, for whom 57 \u00b1 7 spectra were quantified. Concentrations per liter of liver volume (reproducibilities) were 2.24 \u00b1 0.10 mmol/L (1.8%) for phosphomonoesters (PME), 1.37 \u00b1 0.07 mmol/L (7.9%) for inorganic phosphate (Pi), 11.40 \u00b1 0.96 mmol/L (2.9%) for phosphodiesters (PDE), and 2.14 \u00b1 0.10 mmol/L (1.6%) for adenosine triphosphate (ATP), respectively. Taken together, this approach provides fast, simple, and reproducible high\u2010resolution absolute quantification and detailed mapping of the spatial distribution of hepatic 31P metabolites. This method allows for examination of regional deviations of energy metabolism in human liver diseases. Magn Reson Med 60:796\u2013802, 2008. \u00a9 2008 Wiley\u2010Liss, Inc.",
+            "year": 2008,
+            "citation_count": 49,
+            "relevance": 2,
+            "explanation": "This paper builds upon the source paper's use of phosphorus-31 magnetic resonance spectroscopy ((31)P MRS) to study liver metabolism. The key hypothesis in this paper is partially dependent on the findings of the source paper, as it aims to improve the quantification of 31P metabolites in human liver using a new protocol."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Morphological and functional MDCT: problem-solving tool and surrogate biomarker for hepatic disease clinical care and drug discovery in the era of personalized medicine": {
+                    "explanation": "This paper discusses the role of multidetector computer tomography (MDCT) in liver disease characterization and management, which is unrelated to the source paper's focus on 31P metabolites quantification using magnetic resonance spectroscopic imaging (MRSI).",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2010,
+        "source_paper": {
+            "paperId": "1207df79e5d03a1d68d05435d07b334bf0875a99",
+            "title": "Abnormal hepatic energy homeostasis in type 2 diabetes",
+            "abstract": "Increased hepatocellular lipids relate to insulin resistance and are typical for individuals with type 2 diabetes mellitus (T2DM). Steatosis and T2DM have been further associated with impaired muscular adenosine triphosphate (ATP) turnover indicating reduced mitochondrial fitness. Thus, we tested the hypothesis that hepatic energy metabolism could be impaired even in metabolically well\u2010controlled T2DM. We measured hepatic lipid volume fraction (HLVF) and absolute concentrations of \u03b3ATP, inorganic phosphate (Pi), phosphomonoesters and phosphodiesters using noninvasive 1H/ 31P magnetic resonance spectroscopy in individuals with T2DM (58 \u00b1 6 years, 27 \u00b1 3 kg/m 2), and age\u2010matched and body mass index\u2013matched (mCON; 61 \u00b1 4 years, 26 \u00b1 4 kg/m 2) and young lean humans (yCON; 25 \u00b1 3 years, 22 \u00b1 2 kg/m 2, P < 0.005, P < 0.05 versus T2DM and mCON). Insulin\u2010mediated whole\u2010body glucose disposal (M) and endogenous glucose production (iEGP) were assessed during euglycemic\u2010hyperinsulinemic clamps. Individuals with T2DM had 26% and 23% lower \u03b3ATP (1.68 \u00b1 0.11; 2.26 \u00b1 0.20; 2.20 \u00b1 0.09 mmol/L; P < 0.05) than mCON and yCON individuals, respectively. Further, they had 28% and 31% lower Pi than did individuals from the mCON and yCON groups (0.96 \u00b1 0.06; 1.33 \u00b1 0.13; 1.41 \u00b1 0.07 mmol/L; P < 0.05). Phosphomonoesters, phosphodiesters, and liver aminotransferases did not differ between groups. HLVF was not different between those from the T2DM and mCON groups, but higher (P = 0.002) than in those from the yCON group. T2DM had 13\u2010fold higher iEGP than mCON (P < 0.05). Even after adjustment for HLVF, hepatic ATP and Pi related negatively to hepatic insulin sensitivity (iEGP) (r =\u20100.665, P = 0.010, r =\u20100.680, P = 0.007) but not to whole\u2010body insulin sensitivity. Conclusion: These data suggest that impaired hepatic energy metabolism and insulin resistance could precede the development of steatosis in individuals with T2DM. (HEPATOLOGY 2009.)",
+            "year": 2009,
+            "citation_count": 188,
+            "relevance": 2,
+            "explanation": "This paper builds upon the source paper's method for absolute quantification of 31P metabolites in human liver. The authors use a similar technique (noninvasive 1H/31P magnetic resonance spectroscopy) to investigate hepatic energy metabolism in individuals with type 2 diabetes mellitus (T2DM)."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Hepatic lipotoxicity and the pathogenesis of nonalcoholic steatohepatitis: The central role of nontriglyceride fatty acid metabolites": {
+                    "explanation": "This paper explores the pathogenesis of nonalcoholic steatohepatitis, a condition related to hepatic energy homeostasis and insulin resistance, which is the main topic of the source paper. However, it does not directly build upon or use the findings of the source paper as a sub-hypothesis, but rather discusses the general mechanisms involved in liver fat accumulation and insulin resistance.",
+                    "relevance": 1
+                },
+                "2. Progressive adaptation of hepatic ketogenesis in mice fed a high-fat diet": {
+                    "explanation": "This paper investigates the progressive adaptation of hepatic ketogenesis in mice fed a high-fat diet, which is related to the topic of hepatic energy metabolism. However, it does not directly build upon or use the findings of the source paper, but rather presents a new angle on the topic.",
+                    "relevance": 1
+                },
+                "3. Environmental and Genetic Determinants of Fatty Liver in Humans": {
+                    "explanation": "This review paper summarizes the information available about the mechanisms involved in liver fat accumulation, which is related to the topic of hepatic energy homeostasis and insulin resistance. However, it does not present novel findings or hypotheses, but rather provides an overview of the current knowledge in the field.",
+                    "relevance": 0
+                },
+                "4. Body and Liver Fat Mass Rather Than MuscleMitochondrial Function Determine GlucoseMetabolism in WomenWith a History of Gestational Diabetes": {
+                    "explanation": "This paper investigates the relationship between body and liver fat mass and glucose metabolism in women with a history of gestational diabetes, which is related to the topic of hepatic energy homeostasis and insulin resistance. The paper's findings that liver fat mass is a determinant of glucose metabolism could be seen as building upon the source paper's results, which suggest that impaired hepatic energy metabolism and insulin resistance could precede the development of steatosis in individuals with type 2 diabetes.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Body and Liver Fat Mass Rather Than MuscleMitochondrial Function Determine GlucoseMetabolism in WomenWith a History of Gestational Diabetes": {
+                    "explanation": "This paper investigates the relationship between body and liver fat mass and glucose metabolism in women with a history of gestational diabetes, which is related to the topic of hepatic energy homeostasis and insulin resistance. The paper's findings that liver fat mass is a determinant of glucose metabolism could be seen as building upon the source paper's results, which suggest that impaired hepatic energy metabolism and insulin resistance could precede the development of steatosis in individuals with type 2 diabetes.",
+                    "relevance": 2
+                },
+                "2. Hepatic lipotoxicity and the pathogenesis of nonalcoholic steatohepatitis: The central role of nontriglyceride fatty acid metabolites": {
+                    "explanation": "This paper explores the pathogenesis of nonalcoholic steatohepatitis, a condition related to hepatic energy homeostasis and insulin resistance, which is the main topic of the source paper. However, it does not directly build upon or use the findings of the source paper as a sub-hypothesis, but rather discusses the general mechanisms involved in liver fat accumulation and insulin resistance.",
+                    "relevance": 1
+                },
+                "3. Progressive adaptation of hepatic ketogenesis in mice fed a high-fat diet": {
+                    "explanation": "This paper investigates the progressive adaptation of hepatic ketogenesis in mice fed a high-fat diet, which is related to the topic of hepatic energy metabolism. However, it does not directly build upon or use the findings of the source paper, but rather presents a new angle on the topic.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2011,
+        "source_paper": {
+            "paperId": "1207df79e5d03a1d68d05435d07b334bf0875a99",
+            "title": "Abnormal hepatic energy homeostasis in type 2 diabetes",
+            "abstract": "Increased hepatocellular lipids relate to insulin resistance and are typical for individuals with type 2 diabetes mellitus (T2DM). Steatosis and T2DM have been further associated with impaired muscular adenosine triphosphate (ATP) turnover indicating reduced mitochondrial fitness. Thus, we tested the hypothesis that hepatic energy metabolism could be impaired even in metabolically well\u2010controlled T2DM. We measured hepatic lipid volume fraction (HLVF) and absolute concentrations of \u03b3ATP, inorganic phosphate (Pi), phosphomonoesters and phosphodiesters using noninvasive 1H/ 31P magnetic resonance spectroscopy in individuals with T2DM (58 \u00b1 6 years, 27 \u00b1 3 kg/m 2), and age\u2010matched and body mass index\u2013matched (mCON; 61 \u00b1 4 years, 26 \u00b1 4 kg/m 2) and young lean humans (yCON; 25 \u00b1 3 years, 22 \u00b1 2 kg/m 2, P < 0.005, P < 0.05 versus T2DM and mCON). Insulin\u2010mediated whole\u2010body glucose disposal (M) and endogenous glucose production (iEGP) were assessed during euglycemic\u2010hyperinsulinemic clamps. Individuals with T2DM had 26% and 23% lower \u03b3ATP (1.68 \u00b1 0.11; 2.26 \u00b1 0.20; 2.20 \u00b1 0.09 mmol/L; P < 0.05) than mCON and yCON individuals, respectively. Further, they had 28% and 31% lower Pi than did individuals from the mCON and yCON groups (0.96 \u00b1 0.06; 1.33 \u00b1 0.13; 1.41 \u00b1 0.07 mmol/L; P < 0.05). Phosphomonoesters, phosphodiesters, and liver aminotransferases did not differ between groups. HLVF was not different between those from the T2DM and mCON groups, but higher (P = 0.002) than in those from the yCON group. T2DM had 13\u2010fold higher iEGP than mCON (P < 0.05). Even after adjustment for HLVF, hepatic ATP and Pi related negatively to hepatic insulin sensitivity (iEGP) (r =\u20100.665, P = 0.010, r =\u20100.680, P = 0.007) but not to whole\u2010body insulin sensitivity. Conclusion: These data suggest that impaired hepatic energy metabolism and insulin resistance could precede the development of steatosis in individuals with T2DM. (HEPATOLOGY 2009.)",
+            "year": 2009,
+            "citation_count": 188,
+            "relevance": 2,
+            "explanation": "This paper builds upon the source paper's method for absolute quantification of 31P metabolites in human liver. The authors use a similar technique (noninvasive 1H/31P magnetic resonance spectroscopy) to investigate hepatic energy metabolism in individuals with type 2 diabetes mellitus (T2DM)."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Therapeutic potential of antisense oligonucleotides for the management of dyslipidemia": {
+                    "explanation": "This paper has no connection with the source paper as it discusses the use of antisense oligonucleotides for treating dyslipidemia, which is unrelated to the source paper's focus on hepatic energy homeostasis in type 2 diabetes.",
+                    "relevance": 0
+                },
+                "2. Magnetic Resonance Spectroscopy Studies of Human Metabolism": {
+                    "explanation": "This paper is a review that discusses the use of magnetic resonance spectroscopy in studying human metabolism, but it does not specifically build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "3. Liver ATP Synthesis Is Lower and Relates to Insulin Sensitivity in Patients With Type 2 Diabetes": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the relationship between hepatic ATP synthesis and insulin sensitivity in patients with type 2 diabetes, which is a related concept to the source paper's discussion of impaired hepatic energy metabolism.",
+                    "relevance": 2
+                },
+                "4. Body and Liver Fat Mass Rather Than Muscle Mitochondrial Function Determine Glucose Metabolism in Women With a History of Gestational Diabetes Mellitus": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it explores the relationship between liver fat mass and glucose metabolism in women with a history of gestational diabetes mellitus, which is a related concept to the source paper's discussion of impaired hepatic energy metabolism.",
+                    "relevance": 1
+                },
+                "5. Ecdysterone Enhances Muscle Insulin Signaling by Modulating Acylcarnitine Pro fi le and Mitochondrial Oxidative Phosphorylation Complexes in Mice Fed a High-Fat Diet": {
+                    "explanation": "This paper has no connection with the source paper as it discusses the effects of ecdysterone on muscle insulin signaling in mice fed a high-fat diet, which is unrelated to the source paper's focus on hepatic energy homeostasis in type 2 diabetes.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Liver ATP Synthesis Is Lower and Relates to Insulin Sensitivity in Patients With Type 2 Diabetes": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the relationship between hepatic ATP synthesis and insulin sensitivity in patients with type 2 diabetes, which is a related concept to the source paper's discussion of impaired hepatic energy metabolism.",
+                    "relevance": 2
+                },
+                "2. Body and Liver Fat Mass Rather Than Muscle Mitochondrial Function Determine Glucose Metabolism in Women With a History of Gestational Diabetes Mellitus": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it explores the relationship between liver fat mass and glucose metabolism in women with a history of gestational diabetes mellitus, which is a related concept to the source paper's discussion of impaired hepatic energy metabolism.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2012,
+        "source_paper": {
+            "paperId": "dbe192ea933caeb8baf90c7a5809a2424925ea79",
+            "title": "Liver ATP Synthesis Is Lower and Relates to Insulin Sensitivity in Patients With Type 2 Diabetes",
+            "abstract": "OBJECTIVE Steatosis associates with insulin resistance and may even predict type 2 diabetes and cardiovascular complications. Because muscular insulin resistance relates to myocellular fat deposition and disturbed energy metabolism, we hypothesized that reduced hepatic ATP turnover (fATP) underlies insulin resistance and elevated hepatocellular lipid (HCL) contents. RESEARCH DESIGN AND METHODS We measured hepatic fATP using 31P magnetic resonance spectroscopy in patients with type 2 diabetes and age- and body mass\u2013matched controls. Peripheral (M and M/I) and hepatic (suppression of endogenous glucose production) insulin sensitivity were assessed with euglycemic-hyperinsulinemic clamps. RESULTS Diabetic individuals had 29% and 28% lower peripheral and hepatic insulin sensitivity as well as 42% reduced fATP than controls. After adjusting for HCL, fATP correlated positively with peripheral and hepatic insulin sensitivity but negatively with waist circumference, BMI, and fasting plasma glucose. Multiple regression analysis identified waist circumference as an independent predictor of fATP and inorganic phosphate (PI) concentrations, explaining 65% (P = 0.001) and 56% (P = 0.003) of the variations. Hepatocellular PI primarily determined the alterations in fATP. CONCLUSIONS In patients with type 2 diabetes, insulin resistance relates to perturbed hepatic energy metabolism, which is at least partly accounted for by fat depots.",
+            "year": 2011,
+            "citation_count": 189,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the relationship between hepatic ATP synthesis and insulin sensitivity in patients with type 2 diabetes, which is a related concept to the source paper's discussion of impaired hepatic energy metabolism."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1.Counteracting Roles of AMP Deaminase and AMP Kinase in the Development of Fatty Liver": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the relationship between AMPK activity and fatty liver, which is related to insulin resistance and type 2 diabetes.",
+                    "relevance": 1
+                },
+                "2.31P-Magnetization Transfer Magnetic Resonance Spectroscopy Measurements of In Vivo Metabolism": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it uses the same 31P magnetic resonance spectroscopy technique to measure ATP synthesis, but applies it to a different context (skeletal muscle) and explores its relation to insulin resistance and diabetes.",
+                    "relevance": 2
+                },
+                "3.Bcl10 and methylation of fatty acids: a future therapeutic target for Type 2 diabetes?": {
+                    "explanation": "This paper is not directly related to the source paper, as it discusses a different topic (Bcl10 and methylation of fatty acids) and does not build upon the findings of the source paper.",
+                    "relevance": 0
+                },
+                "4.MR imaging evaluation of cardiovascular risk in metabolic syndrome": {
+                    "explanation": "This paper is not directly related to the source paper, as it discusses a different topic (MR imaging evaluation of cardiovascular risk) and does not build upon the findings of the source paper.",
+                    "relevance": 0
+                },
+                "5.Dietary Intake Ratios of Calcium-to-Phosphorus and Sodium-to-Potassium Are Associated with Serum Lipid Levels in Healthy Korean Adults": {
+                    "explanation": "This paper is not directly related to the source paper, as it discusses a different topic (dietary intake ratios and serum lipid levels) and does not build upon the findings of the source paper.",
+                    "relevance": 0
+                },
+                "6.Role of obesity and lipotoxicity in the development of nonalcoholic steatohepatitis: pathophysiology and clinical implications": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the relationship between obesity, lipotoxicity, and nonalcoholic steatohepatitis, which is related to insulin resistance and type 2 diabetes.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1.31P-Magnetization Transfer Magnetic Resonance Spectroscopy Measurements of In Vivo Metabolism": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it uses the same 31P magnetic resonance spectroscopy technique to measure ATP synthesis, but applies it to a different context (skeletal muscle) and explores its relation to insulin resistance and diabetes.",
+                    "relevance": 2
+                },
+                "2.Counteracting Roles of AMP Deaminase and AMP Kinase in the Development of Fatty Liver": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the relationship between AMPK activity and fatty liver, which is related to insulin resistance and type 2 diabetes.",
+                    "relevance": 1
+                },
+                "3.Role of obesity and lipotoxicity in the development of nonalcoholic steatohepatitis: pathophysiology and clinical implications": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the relationship between obesity, lipotoxicity, and nonalcoholic steatohepatitis, which is related to insulin resistance and type 2 diabetes.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2013,
+        "source_paper": {
+            "paperId": "dbe192ea933caeb8baf90c7a5809a2424925ea79",
+            "title": "Liver ATP Synthesis Is Lower and Relates to Insulin Sensitivity in Patients With Type 2 Diabetes",
+            "abstract": "OBJECTIVE Steatosis associates with insulin resistance and may even predict type 2 diabetes and cardiovascular complications. Because muscular insulin resistance relates to myocellular fat deposition and disturbed energy metabolism, we hypothesized that reduced hepatic ATP turnover (fATP) underlies insulin resistance and elevated hepatocellular lipid (HCL) contents. RESEARCH DESIGN AND METHODS We measured hepatic fATP using 31P magnetic resonance spectroscopy in patients with type 2 diabetes and age- and body mass\u2013matched controls. Peripheral (M and M/I) and hepatic (suppression of endogenous glucose production) insulin sensitivity were assessed with euglycemic-hyperinsulinemic clamps. RESULTS Diabetic individuals had 29% and 28% lower peripheral and hepatic insulin sensitivity as well as 42% reduced fATP than controls. After adjusting for HCL, fATP correlated positively with peripheral and hepatic insulin sensitivity but negatively with waist circumference, BMI, and fasting plasma glucose. Multiple regression analysis identified waist circumference as an independent predictor of fATP and inorganic phosphate (PI) concentrations, explaining 65% (P = 0.001) and 56% (P = 0.003) of the variations. Hepatocellular PI primarily determined the alterations in fATP. CONCLUSIONS In patients with type 2 diabetes, insulin resistance relates to perturbed hepatic energy metabolism, which is at least partly accounted for by fat depots.",
+            "year": 2011,
+            "citation_count": 189,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the relationship between hepatic ATP synthesis and insulin sensitivity in patients with type 2 diabetes, which is a related concept to the source paper's discussion of impaired hepatic energy metabolism."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Impact of Cold Ischemia on Mitochondrial Function in Porcine Hearts and Blood Vessels": {
+                    "explanation": "This paper has no connection with the source paper. The source paper investigates the relationship between liver ATP synthesis and insulin sensitivity in patients with type 2 diabetes, while this paper focuses on the impact of cold ischemia on mitochondrial function in porcine hearts and blood vessels.",
+                    "relevance": 0
+                },
+                "2. Mitochondrial plasticity in obesity and diabetes mellitus": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it explores the relationship between mitochondrial function and insulin resistance in obesity and type 2 diabetes mellitus.",
+                    "relevance": 1
+                },
+                "3. Crif1 Deficiency Reduces Adipose OXPHOS Capacity and Triggers Inflammation and Insulin Resistance in Mice": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the role of mitochondrial oxidative phosphorylation (OXPHOS) in adipose tissue and its relationship to systemic insulin resistance.",
+                    "relevance": 2
+                },
+                "4. Profiling and Identification of Small rDNA-Derived RNAs and Their Potential Biological Functions": {
+                    "explanation": "This paper has no connection with the source paper. The source paper investigates the relationship between liver ATP synthesis and insulin sensitivity in patients with type 2 diabetes, while this paper focuses on the profiling and identification of small rDNA-derived RNAs and their potential biological functions.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Crif1 Deficiency Reduces Adipose OXPHOS Capacity and Triggers Inflammation and Insulin Resistance in Mice": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the role of mitochondrial oxidative phosphorylation (OXPHOS) in adipose tissue and its relationship to systemic insulin resistance.",
+                    "relevance": 2
+                },
+                "2. Mitochondrial plasticity in obesity and diabetes mellitus": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it explores the relationship between mitochondrial function and insulin resistance in obesity and type 2 diabetes mellitus.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2014,
+        "source_paper": {
+            "paperId": "6ce94caf1e623552374dc35cf280d51bbab9842b",
+            "title": "Crif1 Deficiency Reduces Adipose OXPHOS Capacity and Triggers Inflammation and Insulin Resistance in Mice",
+            "abstract": "Impaired mitochondrial oxidative phosphorylation (OXPHOS) has been proposed as an etiological mechanism underlying insulin resistance. However, the initiating organ of OXPHOS dysfunction during the development of systemic insulin resistance has yet to be identified. To determine whether adipose OXPHOS deficiency plays an etiological role in systemic insulin resistance, the metabolic phenotype of mice with OXPHOS\u2013deficient adipose tissue was examined. Crif1 is a protein required for the intramitochondrial production of mtDNA\u2013encoded OXPHOS subunits; therefore, Crif1 haploinsufficient deficiency in mice results in a mild, but specific, failure of OXPHOS capacity in vivo. Although adipose-specific Crif1-haploinsufficient mice showed normal growth and development, they became insulin-resistant. Crif1-silenced adipocytes showed higher expression of chemokines, the expression of which is dependent upon stress kinases and antioxidant. Accordingly, examination of adipose tissue from Crif1-haploinsufficient mice revealed increased secretion of MCP1 and TNF\u03b1, as well as marked infiltration by macrophages. These findings indicate that the OXPHOS status of adipose tissue determines its metabolic and inflammatory responses, and may cause systemic inflammation and insulin resistance.",
+            "year": 2013,
+            "citation_count": 57,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the role of mitochondrial oxidative phosphorylation (OXPHOS) in adipose tissue and its relationship to systemic insulin resistance."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Requirement for CRIF1 in RNA interference and Dicer-2 stability": {
+                    "explanation": "This paper has no connection to the source paper, as it explores the role of CRIF1 in RNA interference and Dicer-2 stability, which is unrelated to the source paper's focus on CRIF1 deficiency and its effects on adipose OXPHOS capacity, inflammation, and insulin resistance.",
+                    "relevance": 0
+                },
+                "2. CRIF1 Deficiency Induces p66shc-Mediated Oxidative Stress and Endothelial Activation": {
+                    "explanation": "The key hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the effects of CRIF1 deficiency on mitochondrial dysfunction and oxidative stress, which is related to the source paper's findings on CRIF1 deficiency and its effects on adipose OXPHOS capacity.",
+                    "relevance": 2
+                },
+                "3. Future Perspectives of Metabolomics in Adipocytes": {
+                    "explanation": "This paper is a review paper and does not have a direct connection to the source paper. Although it discusses the importance of adipose tissue in metabolic disorders, it does not build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. CRIF1 Deficiency Induces p66shc-Mediated Oxidative Stress and Endothelial Activation": {
+                    "explanation": "The key hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the effects of CRIF1 deficiency on mitochondrial dysfunction and oxidative stress, which is related to the source paper's findings on CRIF1 deficiency and its effects on adipose OXPHOS capacity.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2015,
+        "source_paper": {
+            "paperId": "6ce94caf1e623552374dc35cf280d51bbab9842b",
+            "title": "Crif1 Deficiency Reduces Adipose OXPHOS Capacity and Triggers Inflammation and Insulin Resistance in Mice",
+            "abstract": "Impaired mitochondrial oxidative phosphorylation (OXPHOS) has been proposed as an etiological mechanism underlying insulin resistance. However, the initiating organ of OXPHOS dysfunction during the development of systemic insulin resistance has yet to be identified. To determine whether adipose OXPHOS deficiency plays an etiological role in systemic insulin resistance, the metabolic phenotype of mice with OXPHOS\u2013deficient adipose tissue was examined. Crif1 is a protein required for the intramitochondrial production of mtDNA\u2013encoded OXPHOS subunits; therefore, Crif1 haploinsufficient deficiency in mice results in a mild, but specific, failure of OXPHOS capacity in vivo. Although adipose-specific Crif1-haploinsufficient mice showed normal growth and development, they became insulin-resistant. Crif1-silenced adipocytes showed higher expression of chemokines, the expression of which is dependent upon stress kinases and antioxidant. Accordingly, examination of adipose tissue from Crif1-haploinsufficient mice revealed increased secretion of MCP1 and TNF\u03b1, as well as marked infiltration by macrophages. These findings indicate that the OXPHOS status of adipose tissue determines its metabolic and inflammatory responses, and may cause systemic inflammation and insulin resistance.",
+            "year": 2013,
+            "citation_count": 57,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the role of mitochondrial oxidative phosphorylation (OXPHOS) in adipose tissue and its relationship to systemic insulin resistance."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Quercetin suppresses immune cell accumulation and improves mitochondrial gene expression in adipose tissue of diet\u2010induced obese mice": {
+                    "explanation": "This paper explores the effects of quercetin on adipose tissue, including its impact on mitochondrial gene expression, which is related to the source paper's findings on the role of OXPHOS in adipose tissue. However, the paper does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "2. Role of Energy Metabolism in the Brown Fat Gene Program": {
+                    "explanation": "This paper is a review that discusses the role of energy metabolism in brown fat, which is related to the source paper's topic of OXPHOS in adipose tissue. However, it does not present new findings or hypotheses that are directly connected to the source paper.",
+                    "relevance": 0
+                },
+                "3. Crif1 Promotes Adipogenic Differentiation of Bone Marrow Mesenchymal Stem Cells After Irradiation by Modulating the PKA/CREB Signaling Pathway": {
+                    "explanation": "This paper investigates the role of Crif1 in adipogenic differentiation, which is related to the source paper's findings on the role of Crif1 in OXPHOS. The paper's hypothesis is at least partially dependent on the source paper's findings, as it explores the function of Crif1 in a different context.",
+                    "relevance": 2
+                },
+                "4. 11\u03b2-HSD1 reduces metabolic efficacy and adiponectin synthesis in hypertrophic adipocytes": {
+                    "explanation": "This paper explores the role of 11\u03b2-HSD1 in adipocyte metabolism, which is related to the source paper's topic of OXPHOS in adipose tissue. However, the paper does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "5. The indole derivative NecroX\u20107 improves nonalcoholic steatohepatitis in ob/ob mice through suppression of mitochondrial ROS/RNS and inflammation": {
+                    "explanation": "This paper investigates the effects of NecroX-7 on nonalcoholic steatohepatitis, which is related to the source paper's topic of OXPHOS in adipose tissue. However, the paper does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "6. 11 b -HSD1 reduces metabolic ef\ufb01cacy and adiponectin synthesis in hypertrophic adipocytes": {
+                    "explanation": "This paper is a duplicate of paper 4 and has the same relevance score.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Crif1 Promotes Adipogenic Differentiation of Bone Marrow Mesenchymal Stem Cells After Irradiation by Modulating the PKA/CREB Signaling Pathway": {
+                    "explanation": "This paper investigates the role of Crif1 in adipogenic differentiation, which is related to the source paper's findings on the role of Crif1 in OXPHOS. The paper's hypothesis is at least partially dependent on the source paper's findings, as it explores the function of Crif1 in a different context.",
+                    "relevance": 2
+                },
+                "2. Quercetin suppresses immune cell accumulation and improves mitochondrial gene expression in adipose tissue of diet\u2010induced obese mice": {
+                    "explanation": "This paper explores the effects of quercetin on adipose tissue, including its impact on mitochondrial gene expression, which is related to the source paper's findings on the role of OXPHOS in adipose tissue. However, the paper does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "3. 11\u03b2-HSD1 reduces metabolic efficacy and adiponectin synthesis in hypertrophic adipocytes": {
+                    "explanation": "This paper explores the role of 11\u03b2-HSD1 in adipocyte metabolism, which is related to the source paper's topic of OXPHOS in adipose tissue. However, the paper does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2017,
+        "source_paper": {
+            "paperId": "83f196da2da1435d3c40eab4907986a43f05e86b",
+            "title": "Crif1 Promotes Adipogenic Differentiation of Bone Marrow Mesenchymal Stem Cells After Irradiation by Modulating the PKA/CREB Signaling Pathway",
+            "abstract": "Dysfunction of the hematopoietic microenvironment is the main obstacle encountered during hematopoiesis reconstruction in patients with acute hematopoietic radiation syndrome. Bone marrow mesenchymal stem cells (BM\u2010MSCs) play a crucial supporting role in hematopoiesis by maintaining the balance between adipogenic and osteogenic differentiation. In this study, we found that irradiation decreased the colony\u2010forming efficiency of BM\u2010MSCs and impaired the balance between adipogenic and osteogenic differentiation. Following irradiation, BM\u2010MCSs became strongly predisposed to adipogenesis, as evidenced by increased oil red O staining and elevated mRNA and protein levels of the adipogenic markers and transcription factors PPAR\u03b3 and AP2. Overexpression of the essential adipogenesis regulator Crif1 in BM\u2010MSCs promoted adipogenesis after irradiation exposure by upregulating adipogenesis\u2010related genes, including C/EBP\u03b2, PPAR\u03b3, and AP2. We found that Crif1 promoted the phosphorylation of cAMP response element binding protein (CREB) through direct interaction with protein kinase A (PKA)\u2010\u03b1. Phosphorylation of CREB was inhibited in Crif1\u2010knockdown BM\u2010MSCs even in the presence of a PKA agonist (db\u2010cAMP) and could be suppressed in Crif1\u2010overexpressing BM\u2010MSCs by a PKA\u03b1 inhibitor (H\u201089). These results suggest that Crif1 is an indispensable regulator of PKA\u03b1 cat that modulates the PKA/CREB signaling pathway to promote adipogenic differentiation of BM\u2010MSCs after irradiation. Stem Cells 2015;33:1915\u20131926",
+            "year": 2015,
+            "citation_count": 20,
+            "relevance": 2,
+            "explanation": "This paper investigates the role of Crif1 in adipogenic differentiation, which is related to the source paper's findings on the role of Crif1 in OXPHOS. The paper's hypothesis is at least partially dependent on the source paper's findings, as it explores the function of Crif1 in a different context."
+        },
+        "llama_output": {},
+        "seed": 42
+    },
+    {
+        "year": 2017,
+        "source_paper": {
+            "paperId": "83f196da2da1435d3c40eab4907986a43f05e86b",
+            "title": "Crif1 Promotes Adipogenic Differentiation of Bone Marrow Mesenchymal Stem Cells After Irradiation by Modulating the PKA/CREB Signaling Pathway",
+            "abstract": "Dysfunction of the hematopoietic microenvironment is the main obstacle encountered during hematopoiesis reconstruction in patients with acute hematopoietic radiation syndrome. Bone marrow mesenchymal stem cells (BM\u2010MSCs) play a crucial supporting role in hematopoiesis by maintaining the balance between adipogenic and osteogenic differentiation. In this study, we found that irradiation decreased the colony\u2010forming efficiency of BM\u2010MSCs and impaired the balance between adipogenic and osteogenic differentiation. Following irradiation, BM\u2010MCSs became strongly predisposed to adipogenesis, as evidenced by increased oil red O staining and elevated mRNA and protein levels of the adipogenic markers and transcription factors PPAR\u03b3 and AP2. Overexpression of the essential adipogenesis regulator Crif1 in BM\u2010MSCs promoted adipogenesis after irradiation exposure by upregulating adipogenesis\u2010related genes, including C/EBP\u03b2, PPAR\u03b3, and AP2. We found that Crif1 promoted the phosphorylation of cAMP response element binding protein (CREB) through direct interaction with protein kinase A (PKA)\u2010\u03b1. Phosphorylation of CREB was inhibited in Crif1\u2010knockdown BM\u2010MSCs even in the presence of a PKA agonist (db\u2010cAMP) and could be suppressed in Crif1\u2010overexpressing BM\u2010MSCs by a PKA\u03b1 inhibitor (H\u201089). These results suggest that Crif1 is an indispensable regulator of PKA\u03b1 cat that modulates the PKA/CREB signaling pathway to promote adipogenic differentiation of BM\u2010MSCs after irradiation. Stem Cells 2015;33:1915\u20131926",
+            "year": 2015,
+            "citation_count": 20,
+            "relevance": 2,
+            "explanation": "This paper investigates the role of Crif1 in adipogenic differentiation, which is related to the source paper's findings on the role of Crif1 in OXPHOS. The paper's hypothesis is at least partially dependent on the source paper's findings, as it explores the function of Crif1 in a different context."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Co-Activation of PKC-\u03b4 by CRIF1 Modulates Oxidative Stress in Bone Marrow Multipotent Mesenchymal Stromal Cells after Irradiation by Phosphorylating NRF2 Ser40": {
+                    "explanation": "This paper explores the role of CRIF1 in modulating oxidative stress in bone marrow multipotent mesenchymal stromal cells after irradiation. The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it builds upon the source paper's results regarding CRIF1's role in promoting adipogenic differentiation of BM-MSCs after irradiation.",
+                    "relevance": 2
+                },
+                "2. Candidate genes on murine chromosome 8 are associated with susceptibility to Staphylococcus aureus infection in mice and are involved with Staphylococcus aureus septicemia in humans": {
+                    "explanation": "Although this paper mentions CRIF1 as one of the candidate genes associated with susceptibility to Staphylococcus aureus infection, the key hypothesis in this paper is not directly dependent on the findings of the source paper. Instead, it explores a new angle of CRIF1's role in immune response.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Co-Activation of PKC-\u03b4 by CRIF1 Modulates Oxidative Stress in Bone Marrow Multipotent Mesenchymal Stromal Cells after Irradiation by Phosphorylating NRF2 Ser40": {
+                    "explanation": "This paper explores the role of CRIF1 in modulating oxidative stress in bone marrow multipotent mesenchymal stromal cells after irradiation. The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it builds upon the source paper's results regarding CRIF1's role in promoting adipogenic differentiation of BM-MSCs after irradiation.",
+                    "relevance": 2
+                },
+                "2. Candidate genes on murine chromosome 8 are associated with susceptibility to Staphylococcus aureus infection in mice and are involved with Staphylococcus aureus septicemia in humans": {
+                    "explanation": "Although this paper mentions CRIF1 as one of the candidate genes associated with susceptibility to Staphylococcus aureus infection, the key hypothesis in this paper is not directly dependent on the findings of the source paper. Instead, it explores a new angle of CRIF1's role in immune response.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2018,
+        "source_paper": {
+            "paperId": "83f196da2da1435d3c40eab4907986a43f05e86b",
+            "title": "Crif1 Promotes Adipogenic Differentiation of Bone Marrow Mesenchymal Stem Cells After Irradiation by Modulating the PKA/CREB Signaling Pathway",
+            "abstract": "Dysfunction of the hematopoietic microenvironment is the main obstacle encountered during hematopoiesis reconstruction in patients with acute hematopoietic radiation syndrome. Bone marrow mesenchymal stem cells (BM\u2010MSCs) play a crucial supporting role in hematopoiesis by maintaining the balance between adipogenic and osteogenic differentiation. In this study, we found that irradiation decreased the colony\u2010forming efficiency of BM\u2010MSCs and impaired the balance between adipogenic and osteogenic differentiation. Following irradiation, BM\u2010MCSs became strongly predisposed to adipogenesis, as evidenced by increased oil red O staining and elevated mRNA and protein levels of the adipogenic markers and transcription factors PPAR\u03b3 and AP2. Overexpression of the essential adipogenesis regulator Crif1 in BM\u2010MSCs promoted adipogenesis after irradiation exposure by upregulating adipogenesis\u2010related genes, including C/EBP\u03b2, PPAR\u03b3, and AP2. We found that Crif1 promoted the phosphorylation of cAMP response element binding protein (CREB) through direct interaction with protein kinase A (PKA)\u2010\u03b1. Phosphorylation of CREB was inhibited in Crif1\u2010knockdown BM\u2010MSCs even in the presence of a PKA agonist (db\u2010cAMP) and could be suppressed in Crif1\u2010overexpressing BM\u2010MSCs by a PKA\u03b1 inhibitor (H\u201089). These results suggest that Crif1 is an indispensable regulator of PKA\u03b1 cat that modulates the PKA/CREB signaling pathway to promote adipogenic differentiation of BM\u2010MSCs after irradiation. Stem Cells 2015;33:1915\u20131926",
+            "year": 2015,
+            "citation_count": 20,
+            "relevance": 2,
+            "explanation": "This paper investigates the role of Crif1 in adipogenic differentiation, which is related to the source paper's findings on the role of Crif1 in OXPHOS. The paper's hypothesis is at least partially dependent on the source paper's findings, as it explores the function of Crif1 in a different context."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Modulation of STAT3 phosphorylation by PTPN2 inhibits na\u00efve pluripotency of embryonic stem cells": {
+                    "explanation": "This paper has no connection with the source paper. The source paper is about the role of Crif1 in promoting adipogenic differentiation of bone marrow mesenchymal stem cells after irradiation, while this paper focuses on the modulation of STAT3 phosphorylation by PTPN2 in embryonic stem cells, which is a different research topic.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2019,
+        "source_paper": {
+            "paperId": "c1f256e124d18ff8556f0bd9b71cc31137550328",
+            "title": "Co-Activation of PKC-\u03b4 by CRIF1 Modulates Oxidative Stress in Bone Marrow Multipotent Mesenchymal Stromal Cells after Irradiation by Phosphorylating NRF2 Ser40",
+            "abstract": "The high mortality associated with pancytopenia and multi-organ failure resulting from hematopoietic disorders of acute radiation syndrome (h-ARS) creates an urgent need for developing more effective treatment strategies. Here, we showed that bone marrow multipotent mesenchymal stromal cells (BMMSCs) effectively regulate oxidative stress following radiative injury, which might be on account of irradiation-induced elevation of protein levels of CR6-interacting factor 1(CRIF1) and nuclear factor E2-related factor 2(NRF2). Crif1-knockdown BMMSCs presented increased oxidative stress and apoptosis after irradiation, which were partially due to a suppressed antioxidant response mediated by decreased NRF2 nuclear translocation. Co-immunoprecipitation (Co-IP) experiments indicated that CRIF1 interacted with protein kinase C-\u03b4 (PKC-\u03b4). NRF2 Ser40 phosphorylation was inhibited in Crif1-deficient BMMSCs even in the presence of three kinds of PKC agonists, suggesting that CRIF1 might co-activate PKC-\u03b4 to phosphorylate NRF2 Ser40. After radiative injury, the supporting effect of BMMSCs for the colony forming ability of HSCs in vitro was reduced, and the deficiency of CRIF1 aggravated such damage. Thus, CRIF1 plays an essential role in PKC-\u03b4/NRF2 pathway modulation to alleviate oxidative stress in BMMSCs after irradiative injury, and at some level it may maintain the HSCs-supporting effect of BMMSCs after radiative injuries.",
+            "year": 2017,
+            "citation_count": 23,
+            "relevance": 2,
+            "explanation": "This paper explores the role of CRIF1 in modulating oxidative stress in bone marrow multipotent mesenchymal stromal cells after irradiation. The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it builds upon the source paper's results regarding CRIF1's role in promoting adipogenic differentiation of BM-MSCs after irradiation."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. CRIF1 as a potential target to improve the radiosensitivity of osteosarcoma": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the role of CRIF1 in modulating oxidative stress and its potential as a therapeutic target. The source paper's findings on CRIF1's interaction with PKC-\u03b4 and NRF2 provide a foundation for this paper's investigation of CRIF1's role in radioresistance.",
+                    "relevance": 2
+                },
+                "2. Critical Role of Nrf2 in Experimental Ischemic Stroke": {
+                    "explanation": "This paper is a review article that discusses the role of Nrf2 in ischemic stroke, but it does not build upon the source paper's findings or hypotheses. It is not directly connected to the source paper.",
+                    "relevance": 0
+                },
+                "3. CRIF1-CDK2 Interface Inhibitors: An Unprecedented Strategy for Modulation of Cell Radiosensitivity": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the interaction between CRIF1 and CDK2, which is related to the source paper's findings on CRIF1's interaction with PKC-\u03b4 and NRF2. The paper's investigation of CRIF1-CDK2 interface inhibitors as a strategy for modulating cell radiosensitivity builds upon the source paper's research.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. CRIF1 as a potential target to improve the radiosensitivity of osteosarcoma": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the role of CRIF1 in modulating oxidative stress and its potential as a therapeutic target. The source paper's findings on CRIF1's interaction with PKC-\u03b4 and NRF2 provide a foundation for this paper's investigation of CRIF1's role in radioresistance.",
+                    "relevance": 2
+                },
+                "2. CRIF1-CDK2 Interface Inhibitors: An Unprecedented Strategy for Modulation of Cell Radiosensitivity": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the interaction between CRIF1 and CDK2, which is related to the source paper's findings on CRIF1's interaction with PKC-\u03b4 and NRF2. The paper's investigation of CRIF1-CDK2 interface inhibitors as a strategy for modulating cell radiosensitivity builds upon the source paper's research.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2020,
+        "source_paper": {
+            "paperId": "6772549d3f63d287ee2777f5b1f71bc040c16b8e",
+            "title": "CRIF1 as a potential target to improve the radiosensitivity of osteosarcoma",
+            "abstract": "Significance The mechanism of radioresistance in osteosarcoma is unknown. We analyze osteosarcoma patient tissues, combine in vitro and in vivo mouse osteosarcoma models, and determine that CR6-interacting factor-1 (CRIF1) drives radioresistance by regulating the activity of cyclin-dependent kinase 2 (CDK2). After ionizing radiation, CRIF1 promotes CDK2 nuclear translocation and phosphorylation on T14/T160, facilitating G1/S checkpoint activation and DNA damage repair. CRIF1 knockdown enhances the radiosensitivity of osteosarcoma in both in vitro and xenograft models. Our study sheds light on the role of tumor-specific biomarkers in identifying a therapeutic window to overcome radioresistance of osteosarcoma, pointing out a way to precision medicine for a particular patient. Resistance to ionizing radiation (IR), which is a conventional treatment for osteosarcoma that cannot be resected, undermines the efficacy of this therapy. However, the mechanism by which IR induces radioresistance in osteosarcoma is not defined. Here, we report that CR6-interacting factor-1 (CRIF1) is highly expressed in osteosarcoma and undergoes nuclear-cytoplasmic shuttling of cyclin-dependent kinase 2 (CDK2) after IR. Osteosarcoma cells lacking CRIF1 show increased sensitivity to IR, which is associated with delayed DNA damage repair, inactivated G1/S checkpoint, and mitochondrial dysfunction. CRIF1 interacts with the DNA damage checkpoint regulator CDK2, and CRIF1 and CDK2 colocalize in the nucleus after IR. Nuclear localization of CDK2 is associated with phosphorylation changes that promote DNA repair and activation of the G1/S checkpoint. CRIF1 knockdown synergized with IR in an in vivo osteosarcoma model, leading to tumor regression. Based on these findings, we identify CRIF1 as a potential therapeutic target in osteosarcoma that can increase the efficacy of radiotherapy. More broadly, our findings may provide insights into the mechanism for other types of radioresistant cancers and be exploited for therapeutic ends.",
+            "year": 2019,
+            "citation_count": 17,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the role of CRIF1 in modulating oxidative stress and its potential as a therapeutic target. The source paper's findings on CRIF1's interaction with PKC-\u03b4 and NRF2 provide a foundation for this paper's investigation of CRIF1's role in radioresistance."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. CR6-interacting factor-1 contributes to osteoclastogenesis by inducing receptor activator of nuclear factor \u03baB ligand after radiation": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the role of CR6-interacting factor-1 (CRIF1) in osteoclastogenesis after radiation, which is related to the source paper's findings on CRIF1's role in radioresistance.",
+                    "relevance": 2
+                },
+                "2. Molecular biomarkers: multiple roles in radiotherapy": {
+                    "explanation": "This paper has no direct connection to the source paper, as it is a review paper discussing molecular biomarkers for predicting tumor response to radiotherapy in rectal cancer, which is a different topic from the source paper's focus on CRIF1 and osteosarcoma.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. CR6-interacting factor-1 contributes to osteoclastogenesis by inducing receptor activator of nuclear factor \u03baB ligand after radiation": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the role of CR6-interacting factor-1 (CRIF1) in osteoclastogenesis after radiation, which is related to the source paper's findings on CRIF1's role in radioresistance.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2021,
+        "source_paper": {
+            "paperId": "6772549d3f63d287ee2777f5b1f71bc040c16b8e",
+            "title": "CRIF1 as a potential target to improve the radiosensitivity of osteosarcoma",
+            "abstract": "Significance The mechanism of radioresistance in osteosarcoma is unknown. We analyze osteosarcoma patient tissues, combine in vitro and in vivo mouse osteosarcoma models, and determine that CR6-interacting factor-1 (CRIF1) drives radioresistance by regulating the activity of cyclin-dependent kinase 2 (CDK2). After ionizing radiation, CRIF1 promotes CDK2 nuclear translocation and phosphorylation on T14/T160, facilitating G1/S checkpoint activation and DNA damage repair. CRIF1 knockdown enhances the radiosensitivity of osteosarcoma in both in vitro and xenograft models. Our study sheds light on the role of tumor-specific biomarkers in identifying a therapeutic window to overcome radioresistance of osteosarcoma, pointing out a way to precision medicine for a particular patient. Resistance to ionizing radiation (IR), which is a conventional treatment for osteosarcoma that cannot be resected, undermines the efficacy of this therapy. However, the mechanism by which IR induces radioresistance in osteosarcoma is not defined. Here, we report that CR6-interacting factor-1 (CRIF1) is highly expressed in osteosarcoma and undergoes nuclear-cytoplasmic shuttling of cyclin-dependent kinase 2 (CDK2) after IR. Osteosarcoma cells lacking CRIF1 show increased sensitivity to IR, which is associated with delayed DNA damage repair, inactivated G1/S checkpoint, and mitochondrial dysfunction. CRIF1 interacts with the DNA damage checkpoint regulator CDK2, and CRIF1 and CDK2 colocalize in the nucleus after IR. Nuclear localization of CDK2 is associated with phosphorylation changes that promote DNA repair and activation of the G1/S checkpoint. CRIF1 knockdown synergized with IR in an in vivo osteosarcoma model, leading to tumor regression. Based on these findings, we identify CRIF1 as a potential therapeutic target in osteosarcoma that can increase the efficacy of radiotherapy. More broadly, our findings may provide insights into the mechanism for other types of radioresistant cancers and be exploited for therapeutic ends.",
+            "year": 2019,
+            "citation_count": 17,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the role of CRIF1 in modulating oxidative stress and its potential as a therapeutic target. The source paper's findings on CRIF1's interaction with PKC-\u03b4 and NRF2 provide a foundation for this paper's investigation of CRIF1's role in radioresistance."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Ring finger 220 promotes the stemness and progression of colon cancer cells via Ubiquitin specific peptidase 22-BMI1 axis": {
+                    "explanation": "This paper has no connection with the source paper, as it investigates a different type of cancer (colon cancer) and a different molecular mechanism (RNF220-USP22-BMI1 axis).",
+                    "relevance": 0
+                },
+                "2. Radiotherapy in the Management of Pediatric and Adult Osteosarcomas: A Multi-Institutional Cohort Analysis": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the use of radiotherapy in osteosarcoma treatment, which is related to the source paper's focus on CRIF1 as a potential target to improve the radiosensitivity of osteosarcoma.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Radiotherapy in the Management of Pediatric and Adult Osteosarcomas: A Multi-Institutional Cohort Analysis": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the use of radiotherapy in osteosarcoma treatment, which is related to the source paper's focus on CRIF1 as a potential target to improve the radiosensitivity of osteosarcoma.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2022,
+        "source_paper": {
+            "paperId": "dddf6881d2e9dc5d59c52ee9fc9b8a405e9c078c",
+            "title": "Radiotherapy in the Management of Pediatric and Adult Osteosarcomas: A Multi-Institutional Cohort Analysis",
+            "abstract": "Background: Due to the rarity of osteosarcoma and limited indications for radiotherapy (RT), data on RT for this tumor are scarce. This study aimed to investigate the utilization of RT for osteosarcomas in the recent 20 years and to identify factors related to patients\u2019 response to radiation. Methods: We performed a retrospective analysis of patients irradiated for osteosarcoma treatment. We planned to assess differences in the utilization of RT between the periods of 2000\u20132010 and 2011\u20132020, identify the risk factors associated with local progression (LP), determine whether RT-related parameters are associated with LP, and calculate patients\u2019 survival. Results: A total of 126 patients with osteosarcoma who received 181 RT treatments were identified. We found a difference in RT techniques between RT performed in the years 2000\u20132010 and that performed in the years 2011\u20132020. LP was observed after 37 (20.4%) RT treatments. Intent of RT, distant metastases, and concomitant systemic treatment affected the risk of LP. Five-year overall survival was 33% (95% confidence interval (26%\u201343%)). Conclusions: RT for osteosarcoma treatment has evolved from simple two-dimensional palliative irradiation into more conformal RT applied for new indications including oligometastatic and oligoprogressive disease. RT may be a valuable treatment modality for selected patients with osteosarcoma.",
+            "year": 2021,
+            "citation_count": 7,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the use of radiotherapy in osteosarcoma treatment, which is related to the source paper's focus on CRIF1 as a potential target to improve the radiosensitivity of osteosarcoma."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Targeted alpha therapy with the 224Ra/212Pb-TCMC-TP-3 dual alpha solution in a multicellular tumor spheroid model of osteosarcoma": {
+                    "explanation": "This paper explores a new treatment modality for osteosarcoma using targeted alpha therapy, which is partially dependent on the understanding of osteosarcoma treatment options, including radiotherapy, discussed in the source paper.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Targeted alpha therapy with the 224Ra/212Pb-TCMC-TP-3 dual alpha solution in a multicellular tumor spheroid model of osteosarcoma": {
+                    "explanation": "This paper explores a new treatment modality for osteosarcoma using targeted alpha therapy, which is partially dependent on the understanding of osteosarcoma treatment options, including radiotherapy, discussed in the source paper.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2023,
+        "source_paper": {
+            "paperId": "dddf6881d2e9dc5d59c52ee9fc9b8a405e9c078c",
+            "title": "Radiotherapy in the Management of Pediatric and Adult Osteosarcomas: A Multi-Institutional Cohort Analysis",
+            "abstract": "Background: Due to the rarity of osteosarcoma and limited indications for radiotherapy (RT), data on RT for this tumor are scarce. This study aimed to investigate the utilization of RT for osteosarcomas in the recent 20 years and to identify factors related to patients\u2019 response to radiation. Methods: We performed a retrospective analysis of patients irradiated for osteosarcoma treatment. We planned to assess differences in the utilization of RT between the periods of 2000\u20132010 and 2011\u20132020, identify the risk factors associated with local progression (LP), determine whether RT-related parameters are associated with LP, and calculate patients\u2019 survival. Results: A total of 126 patients with osteosarcoma who received 181 RT treatments were identified. We found a difference in RT techniques between RT performed in the years 2000\u20132010 and that performed in the years 2011\u20132020. LP was observed after 37 (20.4%) RT treatments. Intent of RT, distant metastases, and concomitant systemic treatment affected the risk of LP. Five-year overall survival was 33% (95% confidence interval (26%\u201343%)). Conclusions: RT for osteosarcoma treatment has evolved from simple two-dimensional palliative irradiation into more conformal RT applied for new indications including oligometastatic and oligoprogressive disease. RT may be a valuable treatment modality for selected patients with osteosarcoma.",
+            "year": 2021,
+            "citation_count": 7,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the use of radiotherapy in osteosarcoma treatment, which is related to the source paper's focus on CRIF1 as a potential target to improve the radiosensitivity of osteosarcoma."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Osteosarcoma in Pediatric and Adult Populations: Are Adults Just Big Kids?": {
+                    "explanation": "This paper discusses the molecular etiology of osteosarcoma in pediatric and adult populations, comparing their outcomes. However, it does not directly build upon the findings of the source paper, which focused on radiotherapy in osteosarcoma management. Instead, it provides a broader overview of the disease, hypothesizing why adult patients have worse outcomes compared to children.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Osteosarcoma in Pediatric and Adult Populations: Are Adults Just Big Kids?": {
+                    "explanation": "This paper discusses the molecular etiology of osteosarcoma in pediatric and adult populations, comparing their outcomes. However, it does not directly build upon the findings of the source paper, which focused on radiotherapy in osteosarcoma management. Instead, it provides a broader overview of the disease, hypothesizing why adult patients have worse outcomes compared to children.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2023,
+        "source_paper": {
+            "paperId": "e47fe279c21c224782c2fbfb83574d1abf9d4c4b",
+            "title": "Targeted alpha therapy with the 224Ra/212Pb-TCMC-TP-3 dual alpha solution in a multicellular tumor spheroid model of osteosarcoma",
+            "abstract": "Osteosarcoma patients with overt metastases at primary diagnosis have a 5-year survival rate of less than 20%. TP-3 is a murine IgG2b monoclonal antibody with high affinity for an epitope residing on the p80 osteosarcoma cell surface membrane antigen. The tumor-associated antigen p80 is overexpressed in osteosarcomas, and has very low normal tissue expression. We propose a novel dual alpha targeting solution containing two radionuclides from the same decay chain, including the bone-seeking 224Ra, and cancer cell-surface seeking 212Pb-TCMC-TP-3 for the treatment of osteoblastic bone cancers, circulating cancer cells and micrometastases. In this in vitro study, the cytotoxic effects of 212Pb-TCMC-TP-3 (single alpha solution) and 224Ra/212Pb-TCMC-TP-3 (dual alpha solution) were investigated in a multicellular spheroid model mimicking micrometastatic disease in osteosarcoma. OHS spheroids with diameters of 253 \u00b1 98 \u03bcm treated with 4.5, 2.7, and 3.3 kBq/ml of 212Pb-TCMC-TP-3 for 1, 4, and 24 h, respectively, were disintegrated within 3 weeks. The 212Pb-TCMC-TP-3 induced a 7-fold delay in spheroid doubling time compared to a 28-times higher dose with the non-specific 212Pb-TCMC-rituximab. The 224Ra/212Pb-TCMC-TP-3 completely disintegrated spheroids with diameters of 218\u2013476 \u03bcm within 3 and 2 weeks after 4 and 24 h incubation with 5 kBq/ml, respectively. Treatment with 1 kBq/ml of 224Ra/212Pb-TCMC-TP-3 for 24 h caused an 11.4-fold reduction in spheroid viability compared with unconjugated 224Ra/212Pb. The single and dual alpha solutions with TP-3 showed cytotoxicity in spheroids of clinically relevant size, which warrant further testing of the dual alpha solution using in vivo osteosarcoma models.",
+            "year": 2022,
+            "citation_count": 6,
+            "relevance": 2,
+            "explanation": "This paper explores a new treatment modality for osteosarcoma using targeted alpha therapy, which is partially dependent on the understanding of osteosarcoma treatment options, including radiotherapy, discussed in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Theranostic Imaging Surrogates for Targeted Alpha Therapy: Progress in Production, Purification, and Applications": {
+                    "explanation": "This paper explores diagnostic imaging surrogates for targeted alpha particle therapy (TAT) radiopharmaceuticals, including 203Pb for 212Pb TAT, which is relevant to the source paper's use of 212Pb-TCMC-TP-3. However, the paper does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "2. Three-Dimensional In Vitro Tumor Spheroid Models for Evaluation of Anticancer Therapy: Recent Updates": {
+                    "explanation": "This review article discusses the suitability of 3D spheroid models in oncological research, including their application in nuclear medicine for diagnosis and therapy. Although the source paper used a multicellular tumor spheroid model, this paper is a review and does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 0
+                },
+                "3. Advances of Osteosarcoma Models for Drug Discovery and Precision Medicine": {
+                    "explanation": "This review article provides an insight into the advances and challenges in osteosarcoma (OS) drug development, including various preclinical models. The source paper's use of a multicellular tumor spheroid model for osteosarcoma treatment is relevant to this paper's discussion, but the paper does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Theranostic Imaging Surrogates for Targeted Alpha Therapy: Progress in Production, Purification, and Applications": {
+                    "explanation": "This paper explores diagnostic imaging surrogates for targeted alpha particle therapy (TAT) radiopharmaceuticals, including 203Pb for 212Pb TAT, which is relevant to the source paper's use of 212Pb-TCMC-TP-3. However, the paper does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2024,
+        "source_paper": {
+            "paperId": "e47fe279c21c224782c2fbfb83574d1abf9d4c4b",
+            "title": "Targeted alpha therapy with the 224Ra/212Pb-TCMC-TP-3 dual alpha solution in a multicellular tumor spheroid model of osteosarcoma",
+            "abstract": "Osteosarcoma patients with overt metastases at primary diagnosis have a 5-year survival rate of less than 20%. TP-3 is a murine IgG2b monoclonal antibody with high affinity for an epitope residing on the p80 osteosarcoma cell surface membrane antigen. The tumor-associated antigen p80 is overexpressed in osteosarcomas, and has very low normal tissue expression. We propose a novel dual alpha targeting solution containing two radionuclides from the same decay chain, including the bone-seeking 224Ra, and cancer cell-surface seeking 212Pb-TCMC-TP-3 for the treatment of osteoblastic bone cancers, circulating cancer cells and micrometastases. In this in vitro study, the cytotoxic effects of 212Pb-TCMC-TP-3 (single alpha solution) and 224Ra/212Pb-TCMC-TP-3 (dual alpha solution) were investigated in a multicellular spheroid model mimicking micrometastatic disease in osteosarcoma. OHS spheroids with diameters of 253 \u00b1 98 \u03bcm treated with 4.5, 2.7, and 3.3 kBq/ml of 212Pb-TCMC-TP-3 for 1, 4, and 24 h, respectively, were disintegrated within 3 weeks. The 212Pb-TCMC-TP-3 induced a 7-fold delay in spheroid doubling time compared to a 28-times higher dose with the non-specific 212Pb-TCMC-rituximab. The 224Ra/212Pb-TCMC-TP-3 completely disintegrated spheroids with diameters of 218\u2013476 \u03bcm within 3 and 2 weeks after 4 and 24 h incubation with 5 kBq/ml, respectively. Treatment with 1 kBq/ml of 224Ra/212Pb-TCMC-TP-3 for 24 h caused an 11.4-fold reduction in spheroid viability compared with unconjugated 224Ra/212Pb. The single and dual alpha solutions with TP-3 showed cytotoxicity in spheroids of clinically relevant size, which warrant further testing of the dual alpha solution using in vivo osteosarcoma models.",
+            "year": 2022,
+            "citation_count": 6,
+            "relevance": 2,
+            "explanation": "This paper explores a new treatment modality for osteosarcoma using targeted alpha therapy, which is partially dependent on the understanding of osteosarcoma treatment options, including radiotherapy, discussed in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Developing a 3D bone model of osteosarcoma to investigate cancer mechanisms and evaluate treatments": {
+                    "explanation": "This paper has no connection with the source paper. The source paper discusses targeted alpha therapy with the 224Ra/212Pb-TCMC-TP-3 dual alpha solution in a multicellular tumor spheroid model of osteosarcoma, whereas this paper focuses on developing a 3D bone model of osteosarcoma to investigate cancer mechanisms and evaluate treatments.",
+                    "relevance": 0
+                },
+                "2. Future Treatment Strategies for Cancer Patients Combining Targeted Alpha Therapy with Pillars of Cancer Treatment: External Beam Radiation Therapy, Checkpoint Inhibition Immunotherapy, Cytostatic Chemotherapy, and Brachytherapy": {
+                    "explanation": "This paper is a review paper that discusses the potential use of targeted alpha therapy in combination with other cancer treatments. While it mentions targeted alpha therapy, which is related to the source paper, it does not build upon the specific findings or hypothesis of the source paper. Therefore, it is considered a review paper with no direct connection to the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2024,
+        "source_paper": {
+            "paperId": "3d770d65a3a8578a6748b34f5139cbc75b813df8",
+            "title": "Theranostic Imaging Surrogates for Targeted Alpha Therapy: Progress in Production, Purification, and Applications",
+            "abstract": "This article highlights recent developments of SPECT and PET diagnostic imaging surrogates for targeted alpha particle therapy (TAT) radiopharmaceuticals. It outlines the rationale for using imaging surrogates to improve diagnostic-scan accuracy and facilitate research, and the properties an imaging-surrogate candidate should possess. It evaluates the strengths and limitations of each potential imaging surrogate. Thirteen surrogates for TAT are explored: 133La, 132La, 134Ce/134La, and 226Ac for 225Ac TAT; 203Pb for 212Pb TAT; 131Ba for 223Ra and 224Ra TAT; 123I, 124I, 131I and 209At for 211At TAT; 134Ce/134La for 227Th TAT; and 155Tb and 152Tb for 149Tb TAT.",
+            "year": 2023,
+            "citation_count": 11,
+            "relevance": 1,
+            "explanation": "This paper explores diagnostic imaging surrogates for targeted alpha particle therapy (TAT) radiopharmaceuticals, including 203Pb for 212Pb TAT, which is relevant to the source paper's use of 212Pb-TCMC-TP-3. However, the paper does not directly build upon or depend on the source paper's findings."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Visualizing the Tumor Microenvironment: Molecular Imaging Probes Target Extracellular Matrix, Vascular Networks, and Immunosuppressive Cells": {
+                    "explanation": "This paper discusses molecular imaging in cancer management but does not directly relate to the source paper's focus on theranostic imaging surrogates for targeted alpha therapy. It lacks a clear connection to the source paper's hypothesis or findings.",
+                    "relevance": 0
+                },
+                "2. Fluorine-18 incorporation and radiometal coordination in macropa ligands for PET imaging and targeted alpha therapy": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper. It explores the development of theranostic agents for radiopharmaceuticals based on therapeutic alpha emitters, which is closely related to the source paper's discussion on imaging surrogates for targeted alpha particle therapy.",
+                    "relevance": 2
+                },
+                "3. Production of Medical Radionuclides in the Center for Radiopharmaceutical Tumor Research\u2014A Status Report": {
+                    "explanation": "This paper reports on the production of various radionuclides, including some mentioned in the source paper. However, it does not directly build upon or depend on the source paper's hypothesis or findings. Instead, it presents a general overview of radionuclide production methods.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Fluorine-18 incorporation and radiometal coordination in macropa ligands for PET imaging and targeted alpha therapy": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper. It explores the development of theranostic agents for radiopharmaceuticals based on therapeutic alpha emitters, which is closely related to the source paper's discussion on imaging surrogates for targeted alpha particle therapy.",
+                    "relevance": 2
+                },
+                "2. Production of Medical Radionuclides in the Center for Radiopharmaceutical Tumor Research\u2014A Status Report": {
+                    "explanation": "This paper reports on the production of various radionuclides, including some mentioned in the source paper. However, it does not directly build upon or depend on the source paper's hypothesis or findings. Instead, it presents a general overview of radionuclide production methods.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    }
+]

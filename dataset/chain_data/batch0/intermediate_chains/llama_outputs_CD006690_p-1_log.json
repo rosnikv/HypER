@@ -1,0 +1,382 @@
+[
+    {
+        "year": 2015,
+        "source_paper": {
+            "paperId": "0a384c85eec86bb1eb4537045931c0d4ed590979",
+            "pmid": "15143717",
+            "title": "[Effect of jiangtang bushen recipe in intervention treatment of patients with impaired glucose tolerance].",
+            "abstract": null,
+            "year": 2004,
+            "citation_count": 6
+        },
+        "llama_output": {
+            "paper_list": {
+                "1.[Recent advances in pharmacological intervention for prediabetes]": {
+                    "explanation": "This paper is a review paper that discusses pharmacological interventions for prediabetes, including impaired glucose tolerance (IGT), which is the focus of the source paper. However, it does not build upon or depend on the findings of the source paper, and instead provides a general overview of the field.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2015,
+        "source_paper": {
+            "paperId": "0a384c85eec86bb1eb4537045931c0d4ed590979",
+            "pmid": "15143717",
+            "title": "[Effect of jiangtang bushen recipe in intervention treatment of patients with impaired glucose tolerance].",
+            "abstract": null,
+            "year": 2004,
+            "citation_count": 6
+        },
+        "llama_output": {
+            "paper_list": {
+                "1.[Recent advances in pharmacological intervention for prediabetes]": {
+                    "explanation": "This paper is a review of pharmacological interventions for prediabetes, including impaired glucose tolerance, which is the topic of the source paper. However, it does not build upon or depend on the specific findings of the source paper, and instead provides a broader overview of the field.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2019,
+        "source_paper": {
+            "paperId": "0a384c85eec86bb1eb4537045931c0d4ed590979",
+            "pmid": "15143717",
+            "title": "[Effect of jiangtang bushen recipe in intervention treatment of patients with impaired glucose tolerance].",
+            "abstract": null,
+            "year": 2004,
+            "citation_count": 6
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Naturopathy as a Model of Prevention-Oriented, Patient-Centered Primary Care: A Disruptive Innovation in Health Care": {
+                    "explanation": "This paper has no connection with the source paper as it discusses Naturopathy as a model of primary care and does not mention impaired glucose tolerance or the Jiangtang Bushen recipe.",
+                    "relevance": 0
+                },
+                "2. Comparison of the Effectiveness of Lifestyle Modification with Other Treatments on the Incidence of Type 2 Diabetes in People at High Risk: A Network Meta-Analysis": {
+                    "explanation": "Although this paper does not directly mention the Jiangtang Bushen recipe, it does discuss interventions for preventing type 2 diabetes, which is related to impaired glucose tolerance. However, the connection is indirect and the paper does not build upon the source paper's findings.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Comparison of the Effectiveness of Lifestyle Modification with Other Treatments on the Incidence of Type 2 Diabetes in People at High Risk: A Network Meta-Analysis": {
+                    "explanation": "Although this paper does not directly mention the Jiangtang Bushen recipe, it does discuss interventions for preventing type 2 diabetes, which is related to impaired glucose tolerance. However, the connection is indirect and the paper does not build upon the source paper's findings.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2020,
+        "source_paper": {
+            "paperId": "9330371ea2bc30d14edf92e26e8ef9c903c7a6f4",
+            "title": "Comparison of the Effectiveness of Lifestyle Modification with Other Treatments on the Incidence of Type 2 Diabetes in People at High Risk: A Network Meta-Analysis",
+            "abstract": "Background: Many clinical trials have been conducted to verify the effects of interventions for prevention of type 2 diabetes (T2D) using different treatments and outcomes. The aim of this study was to compare the effectiveness of lifestyle modifications (LM) with other treatments in persons at high risk of T2D by a network meta-analysis (NMA). Methods: Searches were performed of PUBMED up to January 2018 to identify randomized controlled trials. The odds ratio (OR) with onset of T2D at 1 year in the intervention group (LM, dietary, exercise, or medication) versus a control group (standard treatments or placebo) were the effect sizes. Frequentist and Bayesian NMAs were conducted. Results: Forty-seven interventions and 12 treatments (20,113 participants) were used for the analyses. The OR in the LM was approximately 0.46 (95% CI: 0.33 to 0.61) times lower compared to the standard intervention by the Bayesian approach. The effects of LM compared to other treatments by indirect comparisons were not significant. Conclusions: This meta-analysis further strengthened the evidence that LM reduces the onset of T2D compared to standard and placebo interventions and appears to be at least as effective as nine other treatments in preventing T2D.",
+            "year": 2019,
+            "citation_count": 20,
+            "relevance": 1,
+            "explanation": "Although this paper does not directly mention the Jiangtang Bushen recipe, it does discuss interventions for preventing type 2 diabetes, which is related to impaired glucose tolerance. However, the connection is indirect and the paper does not build upon the source paper's findings."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Preventive Role of Diet Interventions and Dietary Factors in Type 2 Diabetes Mellitus: An Umbrella Review": {
+                    "explanation": "This paper builds upon the findings of the source paper, which highlights the effectiveness of lifestyle modifications in preventing type 2 diabetes. The current paper specifically explores the role of dietary interventions and factors in preventing type 2 diabetes, providing further evidence to support the source paper's conclusions.",
+                    "relevance": 1
+                },
+                "2. Pharmacological Primary Prevention of Diabetes Mellitus Type II: A Narrative Review": {
+                    "explanation": "Although this paper explores pharmacological interventions for type 2 diabetes prevention, it acknowledges the well-established role of diet and exercise in prevention, which is in line with the source paper's findings. However, the paper does not directly build upon or depend on the source paper's results.",
+                    "relevance": 1
+                },
+                "3. Association between prediabetes and risk of all cause mortality and cardiovascular disease: updated meta-analysis": {
+                    "explanation": "This paper examines the association between prediabetes and cardiovascular disease, which is a related but distinct topic from the source paper's focus on lifestyle modifications for type 2 diabetes prevention. The paper does not directly connect to or depend on the source paper's findings.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Preventive Role of Diet Interventions and Dietary Factors in Type 2 Diabetes Mellitus: An Umbrella Review": {
+                    "explanation": "This paper builds upon the findings of the source paper, which highlights the effectiveness of lifestyle modifications in preventing type 2 diabetes. The current paper specifically explores the role of dietary interventions and factors in preventing type 2 diabetes, providing further evidence to support the source paper's conclusions.",
+                    "relevance": 1
+                },
+                "2. Pharmacological Primary Prevention of Diabetes Mellitus Type II: A Narrative Review": {
+                    "explanation": "Although this paper explores pharmacological interventions for type 2 diabetes prevention, it acknowledges the well-established role of diet and exercise in prevention, which is in line with the source paper's findings. However, the paper does not directly build upon or depend on the source paper's results.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2021,
+        "source_paper": {
+            "paperId": "9330371ea2bc30d14edf92e26e8ef9c903c7a6f4",
+            "title": "Comparison of the Effectiveness of Lifestyle Modification with Other Treatments on the Incidence of Type 2 Diabetes in People at High Risk: A Network Meta-Analysis",
+            "abstract": "Background: Many clinical trials have been conducted to verify the effects of interventions for prevention of type 2 diabetes (T2D) using different treatments and outcomes. The aim of this study was to compare the effectiveness of lifestyle modifications (LM) with other treatments in persons at high risk of T2D by a network meta-analysis (NMA). Methods: Searches were performed of PUBMED up to January 2018 to identify randomized controlled trials. The odds ratio (OR) with onset of T2D at 1 year in the intervention group (LM, dietary, exercise, or medication) versus a control group (standard treatments or placebo) were the effect sizes. Frequentist and Bayesian NMAs were conducted. Results: Forty-seven interventions and 12 treatments (20,113 participants) were used for the analyses. The OR in the LM was approximately 0.46 (95% CI: 0.33 to 0.61) times lower compared to the standard intervention by the Bayesian approach. The effects of LM compared to other treatments by indirect comparisons were not significant. Conclusions: This meta-analysis further strengthened the evidence that LM reduces the onset of T2D compared to standard and placebo interventions and appears to be at least as effective as nine other treatments in preventing T2D.",
+            "year": 2019,
+            "citation_count": 20,
+            "relevance": 1,
+            "explanation": "Although this paper does not directly mention the Jiangtang Bushen recipe, it does discuss interventions for preventing type 2 diabetes, which is related to impaired glucose tolerance. However, the connection is indirect and the paper does not build upon the source paper's findings."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Healthy Aging-Nutrition Matters: Start Early and Screen Often": {
+                    "explanation": "This paper is a narrative review that discusses the importance of healthy dietary patterns and maintenance of a healthy weight in preventing diseases associated with aging, including type 2 diabetes. Although it does not directly build upon the source paper, it shares a common theme of lifestyle modifications and nutrition in preventing chronic diseases. However, it lacks a direct connection to the source paper's findings and is primarily a review of existing literature.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2021,
+        "source_paper": {
+            "paperId": "96106fd619f3c7657e8e22976389c17551eb673f",
+            "title": "Preventive Role of Diet Interventions and Dietary Factors in Type 2 Diabetes Mellitus: An Umbrella Review",
+            "abstract": "Background: Although the body of evidence indicates clear benefits of dietary modifications for prevention of type-2 diabetes mellitus (T2DM), it may be difficult for healthcare providers to recommend which diet interventions or dietary factors are appropriate for patients as there are too many modalities available. Accordingly, we performed an umbrella review to synthesize evidence on diet interventions and dietary factors in prevention of T2DM. Methods: Medline and Scopus databases were searched for relevant studies. Systematic reviews with meta-analyses of randomized-controlled trial or observational studies were eligible if they measured effects of diet interventions and/or dietary factors including dietary patterns, food groups, and nutrients on risk of T2DM. The effect of each diet intervention/factor was summarized qualitatively. Results: Sixty systematic reviews and meta-analyses were eligible. Results of the review suggest that healthy dietary patterns such as Mediterranean and Dietary Approaches to Stop Hypertension (DASH) diets, and high consumption of whole grains, low-fat dairy products, yogurt, olive oil, chocolate, fiber, magnesium, and flavonoid significantly reduced the risk of T2DM. In contrast, high glycemic index and glycemic load diets, high consumption of red and processed meat, and sugar or artificial sugar-sweetened beverages significantly increased risk of T2DM. Prescribing diet interventions with or without physical activity interventions significantly decreased risk of T2DM in both high-risk and general population. Conclusion: High consumption of Mediterranean and DASH diet, and interventions that modified the quality of diet intake significantly reduced risk of T2DM especially in the high-risk population. These lifestyle modifications should be promoted in both individual and population levels to prevent and decrease burden from T2DM in the future.",
+            "year": 2020,
+            "citation_count": 83,
+            "relevance": 1,
+            "explanation": "This paper builds upon the findings of the source paper, which highlights the effectiveness of lifestyle modifications in preventing type 2 diabetes. The current paper specifically explores the role of dietary interventions and factors in preventing type 2 diabetes, providing further evidence to support the source paper's conclusions."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Hepatic Response of Magnesium-Restricted Wild Type Mice": {
+                    "explanation": "This paper investigates the effects of magnesium-restriction on the development of non-alcoholic fatty liver disease (NAFLD), which is related to type 2 diabetes mellitus (T2DM). The source paper mentions magnesium as a dietary factor that significantly reduces the risk of T2DM. However, this paper does not directly build upon the source paper's findings, but rather explores a related topic.",
+                    "relevance": 1
+                },
+                "2. LncRNA LINC00673 is Downregulated in Diabetic Retinopathy and Regulates the Apoptosis of Retinal Pigment Epithelial Cells via Negatively Regulating p53": {
+                    "explanation": "This paper investigates the role of LncRNA LINC00673 in diabetic retinopathy (DR), a complication of diabetes. The source paper discusses the prevention of T2DM, but does not directly relate to DR or LncRNA LINC00673. Therefore, this paper is not directly connected to the source paper.",
+                    "relevance": 0
+                },
+                "3. The Role of Epidermal Growth Factor Receptor Family of Receptor Tyrosine Kinases in Mediating Diabetes-Induced Cardiovascular Complications": {
+                    "explanation": "This paper reviews the evidence for the role of Epidermal Growth Factor Receptor (EGFR) family of tyrosine kinases in mediating diabetes-induced cardiovascular complications. The source paper focuses on the preventive role of diet interventions and dietary factors in T2DM, but does not directly relate to EGFR or cardiovascular complications. Therefore, this paper is not directly connected to the source paper.",
+                    "relevance": 0
+                },
+                "4. Glucosamine Ameliorates Symptoms of High-Fat Diet-Fed Mice by Reversing Imbalanced Gut Microbiota": {
+                    "explanation": "This paper investigates the effects of glucosamine on glucose and lipid metabolism disorder in high-fat diet-fed mice. The source paper mentions the importance of dietary factors in preventing T2DM, and this paper explores a related topic. However, glucosamine is not specifically mentioned in the source paper, so this paper does not directly build upon the source paper's findings.",
+                    "relevance": 1
+                },
+                "5. The Role of Lifestyle, Eating Habits and Social Environment in the Prevention and Treatment of Type 2 Diabetes and Hypertension": {
+                    "explanation": "This paper discusses the role of lifestyle, eating habits, and social environment in the prevention and treatment of T2DM and hypertension. The source paper focuses on the preventive role of diet interventions and dietary factors in T2DM, which is a related topic. However, this paper does not directly build upon the source paper's findings, but rather explores a broader topic.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Hepatic Response of Magnesium-Restricted Wild Type Mice": {
+                    "explanation": "This paper investigates the effects of magnesium-restriction on the development of non-alcoholic fatty liver disease (NAFLD), which is related to type 2 diabetes mellitus (T2DM). The source paper mentions magnesium as a dietary factor that significantly reduces the risk of T2DM. However, this paper does not directly build upon the source paper's findings, but rather explores a related topic.",
+                    "relevance": 1
+                },
+                "2. Glucosamine Ameliorates Symptoms of High-Fat Diet-Fed Mice by Reversing Imbalanced Gut Microbiota": {
+                    "explanation": "This paper investigates the effects of glucosamine on glucose and lipid metabolism disorder in high-fat diet-fed mice. The source paper mentions the importance of dietary factors in preventing T2DM, and this paper explores a related topic. However, glucosamine is not specifically mentioned in the source paper, so this paper does not directly build upon the source paper's findings.",
+                    "relevance": 1
+                },
+                "3. The Role of Lifestyle, Eating Habits and Social Environment in the Prevention and Treatment of Type 2 Diabetes and Hypertension": {
+                    "explanation": "This paper discusses the role of lifestyle, eating habits, and social environment in the prevention and treatment of T2DM and hypertension. The source paper focuses on the preventive role of diet interventions and dietary factors in T2DM, which is a related topic. However, this paper does not directly build upon the source paper's findings, but rather explores a broader topic.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2022,
+        "source_paper": {
+            "paperId": "96106fd619f3c7657e8e22976389c17551eb673f",
+            "title": "Preventive Role of Diet Interventions and Dietary Factors in Type 2 Diabetes Mellitus: An Umbrella Review",
+            "abstract": "Background: Although the body of evidence indicates clear benefits of dietary modifications for prevention of type-2 diabetes mellitus (T2DM), it may be difficult for healthcare providers to recommend which diet interventions or dietary factors are appropriate for patients as there are too many modalities available. Accordingly, we performed an umbrella review to synthesize evidence on diet interventions and dietary factors in prevention of T2DM. Methods: Medline and Scopus databases were searched for relevant studies. Systematic reviews with meta-analyses of randomized-controlled trial or observational studies were eligible if they measured effects of diet interventions and/or dietary factors including dietary patterns, food groups, and nutrients on risk of T2DM. The effect of each diet intervention/factor was summarized qualitatively. Results: Sixty systematic reviews and meta-analyses were eligible. Results of the review suggest that healthy dietary patterns such as Mediterranean and Dietary Approaches to Stop Hypertension (DASH) diets, and high consumption of whole grains, low-fat dairy products, yogurt, olive oil, chocolate, fiber, magnesium, and flavonoid significantly reduced the risk of T2DM. In contrast, high glycemic index and glycemic load diets, high consumption of red and processed meat, and sugar or artificial sugar-sweetened beverages significantly increased risk of T2DM. Prescribing diet interventions with or without physical activity interventions significantly decreased risk of T2DM in both high-risk and general population. Conclusion: High consumption of Mediterranean and DASH diet, and interventions that modified the quality of diet intake significantly reduced risk of T2DM especially in the high-risk population. These lifestyle modifications should be promoted in both individual and population levels to prevent and decrease burden from T2DM in the future.",
+            "year": 2020,
+            "citation_count": 83,
+            "relevance": 1,
+            "explanation": "This paper builds upon the findings of the source paper, which highlights the effectiveness of lifestyle modifications in preventing type 2 diabetes. The current paper specifically explores the role of dietary interventions and factors in preventing type 2 diabetes, providing further evidence to support the source paper's conclusions."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Extensive Summary of the Important Roles of Indole Propionic Acid, a Gut Microbial Metabolite in Host Health and Disease": {
+                    "explanation": "This paper explores the role of indole propionic acid (IPA) in host health and disease, which is not directly related to the source paper's topic of diet interventions and dietary factors in type 2 diabetes mellitus prevention.",
+                    "relevance": 0
+                },
+                "2. Characterization of Hypolipidemic Phenol Analogues from Fermented Tea by Eurotium cristatum": {
+                    "explanation": "This paper investigates the health benefits of fermented tea, which is not directly related to the source paper's topic of diet interventions and dietary factors in type 2 diabetes mellitus prevention.",
+                    "relevance": 0
+                },
+                "3. Effects of Dietary Interventions on Gut Microbiome in Overweight or Obese Adults: A Systematic Review of Randomized Controlled Trials": {
+                    "explanation": "This paper examines the effects of dietary interventions on the gut microbiome in overweight or obese adults, which is related to the source paper's topic of diet interventions and dietary factors in type 2 diabetes mellitus prevention. The key hypothesis in this paper is inspired by the hypothesis or the finding from the source paper.",
+                    "relevance": 1
+                },
+                "4. Maternal and Dietary Factors Are Associated with Metabolic Syndrome in Women with a Previous History of Gestational Diabetes Mellitus": {
+                    "explanation": "This paper investigates the association between maternal and dietary factors and metabolic syndrome in women with a previous history of gestational diabetes mellitus, which is related to the source paper's topic of diet interventions and dietary factors in type 2 diabetes mellitus prevention. The key hypothesis in this paper is inspired by the hypothesis or the finding from the source paper.",
+                    "relevance": 1
+                },
+                "5. Long-Term Diet Quality and Risk of Diabetes in a National Survey of Chinese Adults": {
+                    "explanation": "This paper evaluates the long-term diet quality and risk of diabetes in a national survey of Chinese adults, which is related to the source paper's topic of diet interventions and dietary factors in type 2 diabetes mellitus prevention. The key hypothesis in this paper is at least partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                },
+                "6. Dietary Management Tools Improve the Dietary Skills of Patients with T2DM in Communities": {
+                    "explanation": "This paper examines the effect of dietary management tools on the dietary skills of patients with type 2 diabetes mellitus, which is related to the source paper's topic of diet interventions and dietary factors in type 2 diabetes mellitus prevention. The key hypothesis in this paper is inspired by the hypothesis or the finding from the source paper.",
+                    "relevance": 1
+                },
+                "7. Efficacy of time-restricted eating and behavioural economic interventions in reducing fasting plasma glucose, HbA1c and cardiometabolic risk factors compared with time-restricted eating alone or usual care in patients with impaired fasting glucose: protocol for an open-label randomised controlled trial": {
+                    "explanation": "This paper investigates the efficacy of time-restricted eating and behavioral economic interventions in reducing fasting plasma glucose, HbA1c, and cardiometabolic risk factors in patients with impaired fasting glucose, which is related to the source paper's topic of diet interventions and dietary factors in type 2 diabetes mellitus prevention. The key hypothesis in this paper is inspired by the hypothesis or the finding from the source paper.",
+                    "relevance": 1
+                },
+                "8. Diet Quality Is Associated with Glucose Regulation in a Cohort of Young Adults": {
+                    "explanation": "This paper examines the relationship between diet quality and glucose regulation in a cohort of young adults, which is related to the source paper's topic of diet interventions and dietary factors in type 2 diabetes mellitus prevention. The key hypothesis in this paper is at least partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                },
+                "9. Dietary Patterns Derived from Reduced Rank Regression Are Associated with the 5-Year Occurrence of Metabolic Syndrome: Aichi Workers\u2019 Cohort Study": {
+                    "explanation": "This paper investigates the association between dietary patterns and the 5-year occurrence of metabolic syndrome in a cohort study, which is related to the source paper's topic of diet interventions and dietary factors in type 2 diabetes mellitus prevention. The key hypothesis in this paper is inspired by the hypothesis or the finding from the source paper.",
+                    "relevance": 1
+                },
+                "10. Nutritional support in allogeneic hematopoietic stem cell transplantation Asian perspective": {
+                    "explanation": "This paper discusses the nutritional support in allogeneic hematopoietic stem cell transplantation from an Asian perspective, which is not directly related to the source paper's topic of diet interventions and dietary factors in type 2 diabetes mellitus prevention.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Long-Term Diet Quality and Risk of Diabetes in a National Survey of Chinese Adults": {
+                    "explanation": "This paper evaluates the long-term diet quality and risk of diabetes in a national survey of Chinese adults, which is related to the source paper's topic of diet interventions and dietary factors in type 2 diabetes mellitus prevention. The key hypothesis in this paper is at least partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                },
+                "2. Diet Quality Is Associated with Glucose Regulation in a Cohort of Young Adults": {
+                    "explanation": "This paper examines the relationship between diet quality and glucose regulation in a cohort of young adults, which is related to the source paper's topic of diet interventions and dietary factors in type 2 diabetes mellitus prevention. The key hypothesis in this paper is at least partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                },
+                "3. Effects of Dietary Interventions on Gut Microbiome in Overweight or Obese Adults: A Systematic Review of Randomized Controlled Trials": {
+                    "explanation": "This paper examines the effects of dietary interventions on the gut microbiome in overweight or obese adults, which is related to the source paper's topic of diet interventions and dietary factors in type 2 diabetes mellitus prevention. The key hypothesis in this paper is inspired by the hypothesis or the finding from the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2022,
+        "source_paper": {
+            "paperId": "96106fd619f3c7657e8e22976389c17551eb673f",
+            "title": "Preventive Role of Diet Interventions and Dietary Factors in Type 2 Diabetes Mellitus: An Umbrella Review",
+            "abstract": "Background: Although the body of evidence indicates clear benefits of dietary modifications for prevention of type-2 diabetes mellitus (T2DM), it may be difficult for healthcare providers to recommend which diet interventions or dietary factors are appropriate for patients as there are too many modalities available. Accordingly, we performed an umbrella review to synthesize evidence on diet interventions and dietary factors in prevention of T2DM. Methods: Medline and Scopus databases were searched for relevant studies. Systematic reviews with meta-analyses of randomized-controlled trial or observational studies were eligible if they measured effects of diet interventions and/or dietary factors including dietary patterns, food groups, and nutrients on risk of T2DM. The effect of each diet intervention/factor was summarized qualitatively. Results: Sixty systematic reviews and meta-analyses were eligible. Results of the review suggest that healthy dietary patterns such as Mediterranean and Dietary Approaches to Stop Hypertension (DASH) diets, and high consumption of whole grains, low-fat dairy products, yogurt, olive oil, chocolate, fiber, magnesium, and flavonoid significantly reduced the risk of T2DM. In contrast, high glycemic index and glycemic load diets, high consumption of red and processed meat, and sugar or artificial sugar-sweetened beverages significantly increased risk of T2DM. Prescribing diet interventions with or without physical activity interventions significantly decreased risk of T2DM in both high-risk and general population. Conclusion: High consumption of Mediterranean and DASH diet, and interventions that modified the quality of diet intake significantly reduced risk of T2DM especially in the high-risk population. These lifestyle modifications should be promoted in both individual and population levels to prevent and decrease burden from T2DM in the future.",
+            "year": 2020,
+            "citation_count": 83,
+            "relevance": 1,
+            "explanation": "This paper builds upon the findings of the source paper, which highlights the effectiveness of lifestyle modifications in preventing type 2 diabetes. The current paper specifically explores the role of dietary interventions and factors in preventing type 2 diabetes, providing further evidence to support the source paper's conclusions."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Dietary Magnesium Intake Affects the Vitamin D Effects on HOMA-\u03b2 and Risk of Pancreatic \u03b2-Cell Dysfunction: A Cross-Sectional Study": {
+                    "explanation": "This paper explores the relationship between dietary magnesium intake and vitamin D's effects on pancreatic \u03b2-cell function, which is related to type 2 diabetes mellitus (T2DM). The source paper highlights magnesium as a dietary factor that significantly reduces the risk of T2DM, and this paper investigates its interaction with vitamin D in this context. Therefore, the hypothesis in this paper is at least partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                },
+                "2. Effects of very low-carbohydrate ketogenic diet on lipid metabolism in patients with type II diabetes mellitus: a meta-analysis": {
+                    "explanation": "This paper examines the effects of a very low-carbohydrate ketogenic diet on lipid metabolism in patients with type 2 diabetes mellitus. Although it does not directly build upon the source paper's findings, it explores a related topic in the context of T2DM management. Therefore, the hypothesis in this paper is inspired by the source paper's topic, but not directly dependent on its findings.",
+                    "relevance": 1
+                },
+                "3. Evaluation of the Quality of Evidence of the Association of Foods and Nutrients With Cardiovascular Disease and Diabetes": {
+                    "explanation": "This paper is a systematic review that examines the quality of evidence for the association of foods and nutrients with cardiometabolic disease, including diabetes. It does not present a novel hypothesis or findings, but rather evaluates existing evidence. Therefore, it is considered a review paper with no direct connection to the source paper's hypothesis or findings.",
+                    "relevance": 0
+                },
+                "4. Effects of diet on obesity-related anthropometric characteristics in adults: a protocol for an umbrella review of meta-analyses of randomised controlled trials": {
+                    "explanation": "This paper is a protocol for an umbrella review that aims to summarize the evidence on the effects of diet on obesity-related anthropometric characteristics in adults. Although it is related to the broader topic of diet and disease prevention, it does not directly build upon the source paper's findings or present a novel hypothesis. Therefore, it is considered a review paper with no direct connection to the source paper's hypothesis or findings.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Dietary Magnesium Intake Affects the Vitamin D Effects on HOMA-\u03b2 and Risk of Pancreatic \u03b2-Cell Dysfunction: A Cross-Sectional Study": {
+                    "explanation": "This paper explores the relationship between dietary magnesium intake and vitamin D's effects on pancreatic \u03b2-cell function, which is related to type 2 diabetes mellitus (T2DM). The source paper highlights magnesium as a dietary factor that significantly reduces the risk of T2DM, and this paper investigates its interaction with vitamin D in this context. Therefore, the hypothesis in this paper is at least partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                },
+                "2. Effects of very low-carbohydrate ketogenic diet on lipid metabolism in patients with type II diabetes mellitus: a meta-analysis": {
+                    "explanation": "This paper examines the effects of a very low-carbohydrate ketogenic diet on lipid metabolism in patients with type 2 diabetes mellitus. Although it does not directly build upon the source paper's findings, it explores a related topic in the context of T2DM management. Therefore, the hypothesis in this paper is inspired by the source paper's topic, but not directly dependent on its findings.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2023,
+        "source_paper": {
+            "paperId": "2951124e530ddfc446acdc6a598183d9cc2cf396",
+            "title": "Diet Quality Is Associated with Glucose Regulation in a Cohort of Young Adults",
+            "abstract": "Young-onset type 2 diabetes and prediabetes is a growing epidemic. Poor diet is a known risk factor for T2D in older adults, but the contribution of diet to risk factors for T2D is not well-described in youth. Our objective was to examine the relationship of diet quality with prediabetes, glucose regulation, and adiposity in young adults. A cohort of young adults (n = 155, age 17\u201322) was examined between 2014\u20132018, and 89 underwent a follow-up visit from 2020\u20132022. At each visit, participants completed diet and body composition assessments and an oral glucose tolerance test. Adherence to four dietary patterns was assessed: Dietary Approaches to Stop Hypertension (DASH), Healthy Eating Index (HEI), Mediterranean diet, and Diet Inflammatory Index (DII). Regression analyses were used to determine adjusted associations of diet with risk for prediabetes and adiposity. Each one-point increase in DASH or HEI scores between visits reduced the risk for prediabetes at follow-up by 64% (OR, 95% CI: 0.36, 0.17\u20130.68) and 9% (OR, 95% CI: 0.91, 0.85\u20130.96), respectively. The DASH diet was inversely associated with adiposity, while DII was positively associated with adiposity. In summary, positive changes in HEI and DASH scores were associated with reduced risk for prediabetes in young adults.",
+            "year": 2022,
+            "citation_count": 16,
+            "relevance": 2,
+            "explanation": "This paper examines the relationship between diet quality and glucose regulation in a cohort of young adults, which is related to the source paper's topic of diet interventions and dietary factors in type 2 diabetes mellitus prevention. The key hypothesis in this paper is at least partially dependent on the findings of the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Construct Validation of the Dietary Inflammatory Index (DII) among Young College-Aged Women": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it further investigates the relationship between diet quality and inflammatory biomarkers, specifically validating the Dietary Inflammatory Index (DII) in a young adult population.",
+                    "relevance": 1
+                },
+                "2. Diet Quality, Cardiometabolic Risk and Diabetes": {
+                    "explanation": "Although the abstract does not provide specific details, the title suggests a connection to the source paper's topic of diet quality and its association with glucose regulation and diabetes risk. However, without further information, it is difficult to determine the exact relevance.",
+                    "relevance": 1
+                },
+                "3. You Are What You Eat: A Review on Dietary Interventions for Treating Pediatric Nonalcoholic Fatty Liver Disease": {
+                    "explanation": "This paper is a review and does not present novel findings or hypotheses. However, it does discuss dietary interventions, including the DASH diet, which is mentioned in the source paper. Therefore, it has some connection to the source paper, but it is not a direct continuation or inspiration.",
+                    "relevance": 0
+                },
+                "4. Worldwide trends in prediabetes from 1985 to 2022: A bibliometric analysis using bibliometrix R-tool": {
+                    "explanation": "This paper is a bibliometric analysis and does not present novel findings or hypotheses related to the source paper's topic of diet quality and glucose regulation. It is a review of existing literature and does not have a direct connection to the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Construct Validation of the Dietary Inflammatory Index (DII) among Young College-Aged Women": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it further investigates the relationship between diet quality and inflammatory biomarkers, specifically validating the Dietary Inflammatory Index (DII) in a young adult population.",
+                    "relevance": 1
+                },
+                "2. Diet Quality, Cardiometabolic Risk and Diabetes": {
+                    "explanation": "Although the abstract does not provide specific details, the title suggests a connection to the source paper's topic of diet quality and its association with glucose regulation and diabetes risk. However, without further information, it is difficult to determine the exact relevance.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2024,
+        "source_paper": {
+            "paperId": "2951124e530ddfc446acdc6a598183d9cc2cf396",
+            "title": "Diet Quality Is Associated with Glucose Regulation in a Cohort of Young Adults",
+            "abstract": "Young-onset type 2 diabetes and prediabetes is a growing epidemic. Poor diet is a known risk factor for T2D in older adults, but the contribution of diet to risk factors for T2D is not well-described in youth. Our objective was to examine the relationship of diet quality with prediabetes, glucose regulation, and adiposity in young adults. A cohort of young adults (n = 155, age 17\u201322) was examined between 2014\u20132018, and 89 underwent a follow-up visit from 2020\u20132022. At each visit, participants completed diet and body composition assessments and an oral glucose tolerance test. Adherence to four dietary patterns was assessed: Dietary Approaches to Stop Hypertension (DASH), Healthy Eating Index (HEI), Mediterranean diet, and Diet Inflammatory Index (DII). Regression analyses were used to determine adjusted associations of diet with risk for prediabetes and adiposity. Each one-point increase in DASH or HEI scores between visits reduced the risk for prediabetes at follow-up by 64% (OR, 95% CI: 0.36, 0.17\u20130.68) and 9% (OR, 95% CI: 0.91, 0.85\u20130.96), respectively. The DASH diet was inversely associated with adiposity, while DII was positively associated with adiposity. In summary, positive changes in HEI and DASH scores were associated with reduced risk for prediabetes in young adults.",
+            "year": 2022,
+            "citation_count": 16,
+            "relevance": 2,
+            "explanation": "This paper examines the relationship between diet quality and glucose regulation in a cohort of young adults, which is related to the source paper's topic of diet interventions and dietary factors in type 2 diabetes mellitus prevention. The key hypothesis in this paper is at least partially dependent on the findings of the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Diet Quality and Eating Frequency Were Associated with Insulin-Taking Status among Adults": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the association between diet quality and insulin-taking status, building on the source paper's results regarding diet quality and glucose regulation.",
+                    "relevance": 1
+                },
+                "2. Association between Personal Abiotic Airborne Exposures and Body Composition Changes among Healthy Adults (60\u201369 Years Old): A Combined Exposome-Wide and Lipidome Mediation Approach from the China BAPE Study": {
+                    "explanation": "This paper has no connection with the source paper as it explores the relationship between airborne exposures and body composition, which is unrelated to the source paper's focus on diet quality and glucose regulation.",
+                    "relevance": 0
+                },
+                "3. Proteomic and Metabolomic Signatures of Diet Quality in Young Adults": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the biological pathways and functions associated with diet quality in young adults, using diet indices similar to those used in the source paper.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Proteomic and Metabolomic Signatures of Diet Quality in Young Adults": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the biological pathways and functions associated with diet quality in young adults, using diet indices similar to those used in the source paper.",
+                    "relevance": 2
+                },
+                "2. Diet Quality and Eating Frequency Were Associated with Insulin-Taking Status among Adults": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the association between diet quality and insulin-taking status, building on the source paper's results regarding diet quality and glucose regulation.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    }
+]

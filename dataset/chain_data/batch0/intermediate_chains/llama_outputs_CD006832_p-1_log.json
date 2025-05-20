@@ -1,0 +1,717 @@
+[
+    {
+        "year": 2008,
+        "source_paper": {
+            "paperId": "09ffdb5a9c1e69c5c60ec032dcd3c3fb6a50deda",
+            "pmid": "17138955",
+            "title": "Impact of intensive insulin therapy on neuromuscular complications and ventilator dependency in the medical intensive care unit.",
+            "abstract": "RATIONALE\nCritical illness polyneuropathy/myopathy causes limb and respiratory muscle weakness, prolongs mechanical ventilation, and extends hospitalization of intensive care patients. Besides controlling risk factors, no specific prevention or treatment exists. Recently, intensive insulin therapy prevented critical illness polyneuropathy in a surgical intensive care unit.\n\n\nOBJECTIVES\nTo investigate the impact of intensive insulin therapy on polyneuropathy/myopathy and treatment with prolonged mechanical ventilation in medical patients in the intensive care unit for at least 7 days.\n\n\nMETHODS\nThis was a prospectively planned subanalysis of a randomized controlled trial evaluating the effect of intensive insulin versus conventional therapy on morbidity and mortality in critically ill medical patients. All patients who were still in intensive care on Day 7 were screened weekly by electroneuromyography. The effect of intensive insulin therapy on critical illness polyneuropathy/myopathy and the relationship with duration of mechanical ventilation were assessed.\n\n\nMEASUREMENTS AND MAIN RESULTS\nIndependent of risk factors, intensive insulin therapy reduced incidence of critical illness polyneuropathy/myopathy (107/212 [50.5%] to 81/208 [38.9%], p = 0.02). Treatment with prolonged (> or = 14 d) mechanical ventilation was reduced from 99 of 212 (46.7%) to 72 of 208 (34.6%) (p = 0.01). This was statistically only partially explained by prevention of critical illness polyneuropathy/myopathy.\n\n\nCONCLUSION\nIn a subset of medical patients in the intensive care unit for at least 7 days, enrolled in a randomized controlled trial of intensive insulin therapy, those assigned to intensive insulin therapy had a reduced incidence of critical illness polyneuropathy/myopathy and were treated with prolonged mechanical ventilation less frequently.",
+            "year": 2007,
+            "citation_count": 357
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Insulin Treatment in Intensive Care Patients": {
+                    "explanation": "This paper discusses the benefits and implementation of intensive insulin therapy in intensive care units, which is related to the source paper's focus on intensive insulin therapy. However, it does not directly build upon or use the source paper's findings as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "2. Hyperglycemia is associated with morbidity in critically ill children with meningococcal sepsis": {
+                    "explanation": "This paper explores the association between hyperglycemia and morbidity in critically ill children, which is related to the source paper's focus on intensive insulin therapy. However, it does not directly build upon or use the source paper's findings as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "3. A protocolized approach to identify and manage hyperglycemia in a pediatric critical care unit*": {
+                    "explanation": "This paper discusses a protocolized approach to managing hyperglycemia in pediatric critical care, which is related to the source paper's focus on intensive insulin therapy. However, it does not directly build upon or use the source paper's findings as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "4. Mobilizing patients in the intensive care unit: improving neuromuscular weakness and physical function.": {
+                    "explanation": "This paper discusses the importance of mobilizing patients in intensive care units to improve neuromuscular weakness and physical function, which is related to the source paper's focus on neuromuscular complications. However, it does not directly build upon or use the source paper's findings as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "5. Intensive care unit hypoglycemia predicts depression during early recovery from acute lung injury*": {
+                    "explanation": "This paper explores the association between intensive care unit hypoglycemia and depression during early recovery from acute lung injury, which is not directly related to the source paper's focus on intensive insulin therapy and neuromuscular complications.",
+                    "relevance": 0
+                },
+                "6. Predisposing factors for critical illness polyneuromyopathy in a multidisciplinary intensive care unit": {
+                    "explanation": "This paper investigates the predisposing factors for critical illness polyneuromyopathy in a multidisciplinary intensive care unit, which is related to the source paper's focus on neuromuscular complications. The paper's hypothesis is at least partially dependent on the source paper's findings regarding the impact of intensive insulin therapy on polyneuropathy/myopathy.",
+                    "relevance": 2
+                },
+                "7. Acquired weakness, handgrip strength, and mortality in critically ill patients.": {
+                    "explanation": "This paper explores the association between acquired weakness, handgrip strength, and mortality in critically ill patients, which is related to the source paper's focus on neuromuscular complications. However, it does not directly build upon or use the source paper's findings as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "8. Alterations in intracellular Ca2+-homeostasis of skeletal muscle fibers during sepsis*": {
+                    "explanation": "This paper investigates the alterations in intracellular Ca2+-homeostasis of skeletal muscle fibers during sepsis, which is related to the source paper's focus on neuromuscular complications. However, it does not directly build upon or use the source paper's findings as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "9. Endotoxin reduces availability of voltage-gated human skeletal muscle sodium channels at depolarized membrane potentials*": {
+                    "explanation": "This paper explores the effect of endotoxin on voltage-gated human skeletal muscle sodium channels, which is related to the source paper's focus on neuromuscular complications. However, it does not directly build upon or use the source paper's findings as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "10. Dealing with ICU-acquired weakness": {
+                    "explanation": "This paper discusses the clinical diagnosis and management of ICU-acquired weakness, which is related to the source paper's focus on neuromuscular complications. However, it does not directly build upon or use the source paper's findings as a sub-hypothesis.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Predisposing factors for critical illness polyneuromyopathy in a multidisciplinary intensive care unit": {
+                    "explanation": "This paper investigates the predisposing factors for critical illness polyneuromyopathy in a multidisciplinary intensive care unit, which is related to the source paper's focus on neuromuscular complications. The paper's hypothesis is at least partially dependent on the source paper's findings regarding the impact of intensive insulin therapy on polyneuropathy/myopathy.",
+                    "relevance": 2
+                },
+                "2. Insulin Treatment in Intensive Care Patients": {
+                    "explanation": "This paper discusses the benefits and implementation of intensive insulin therapy in intensive care units, which is related to the source paper's focus on intensive insulin therapy. However, it does not directly build upon or use the source paper's findings as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "3. Mobilizing patients in the intensive care unit: improving neuromuscular weakness and physical function.": {
+                    "explanation": "This paper discusses the importance of mobilizing patients in intensive care units to improve neuromuscular weakness and physical function, which is related to the source paper's focus on neuromuscular complications. However, it does not directly build upon or use the source paper's findings as a sub-hypothesis.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2008,
+        "source_paper": {
+            "paperId": "09ffdb5a9c1e69c5c60ec032dcd3c3fb6a50deda",
+            "pmid": "17138955",
+            "title": "Impact of intensive insulin therapy on neuromuscular complications and ventilator dependency in the medical intensive care unit.",
+            "abstract": "RATIONALE\nCritical illness polyneuropathy/myopathy causes limb and respiratory muscle weakness, prolongs mechanical ventilation, and extends hospitalization of intensive care patients. Besides controlling risk factors, no specific prevention or treatment exists. Recently, intensive insulin therapy prevented critical illness polyneuropathy in a surgical intensive care unit.\n\n\nOBJECTIVES\nTo investigate the impact of intensive insulin therapy on polyneuropathy/myopathy and treatment with prolonged mechanical ventilation in medical patients in the intensive care unit for at least 7 days.\n\n\nMETHODS\nThis was a prospectively planned subanalysis of a randomized controlled trial evaluating the effect of intensive insulin versus conventional therapy on morbidity and mortality in critically ill medical patients. All patients who were still in intensive care on Day 7 were screened weekly by electroneuromyography. The effect of intensive insulin therapy on critical illness polyneuropathy/myopathy and the relationship with duration of mechanical ventilation were assessed.\n\n\nMEASUREMENTS AND MAIN RESULTS\nIndependent of risk factors, intensive insulin therapy reduced incidence of critical illness polyneuropathy/myopathy (107/212 [50.5%] to 81/208 [38.9%], p = 0.02). Treatment with prolonged (> or = 14 d) mechanical ventilation was reduced from 99 of 212 (46.7%) to 72 of 208 (34.6%) (p = 0.01). This was statistically only partially explained by prevention of critical illness polyneuropathy/myopathy.\n\n\nCONCLUSION\nIn a subset of medical patients in the intensive care unit for at least 7 days, enrolled in a randomized controlled trial of intensive insulin therapy, those assigned to intensive insulin therapy had a reduced incidence of critical illness polyneuropathy/myopathy and were treated with prolonged mechanical ventilation less frequently.",
+            "year": 2007,
+            "citation_count": 357
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Insulin, glucose control and multiple organ dysfunction syndrome": {
+                    "explanation": "This paper explores the relationship between glycemic control and multiple organ dysfunction syndrome, which is related to the source paper's findings on intensive insulin therapy and its impact on critical illness polyneuropathy/myopathy. However, the paper does not directly build upon the source paper's hypothesis or findings.",
+                    "relevance": 1
+                },
+                "2. Review Clinical review: Critical illness polyneuropathy and myopathy": {
+                    "explanation": "This is a review paper that summarizes existing literature, including the source paper's findings on intensive insulin therapy and critical illness polyneuropathy/myopathy. It does not present new hypotheses or findings that build upon the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Insulin, glucose control and multiple organ dysfunction syndrome": {
+                    "explanation": "This paper explores the relationship between glycemic control and multiple organ dysfunction syndrome, which is related to the source paper's findings on intensive insulin therapy and its impact on critical illness polyneuropathy/myopathy. However, the paper does not directly build upon the source paper's hypothesis or findings.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2009,
+        "source_paper": {
+            "paperId": "09ffdb5a9c1e69c5c60ec032dcd3c3fb6a50deda",
+            "pmid": "17138955",
+            "title": "Impact of intensive insulin therapy on neuromuscular complications and ventilator dependency in the medical intensive care unit.",
+            "abstract": "RATIONALE\nCritical illness polyneuropathy/myopathy causes limb and respiratory muscle weakness, prolongs mechanical ventilation, and extends hospitalization of intensive care patients. Besides controlling risk factors, no specific prevention or treatment exists. Recently, intensive insulin therapy prevented critical illness polyneuropathy in a surgical intensive care unit.\n\n\nOBJECTIVES\nTo investigate the impact of intensive insulin therapy on polyneuropathy/myopathy and treatment with prolonged mechanical ventilation in medical patients in the intensive care unit for at least 7 days.\n\n\nMETHODS\nThis was a prospectively planned subanalysis of a randomized controlled trial evaluating the effect of intensive insulin versus conventional therapy on morbidity and mortality in critically ill medical patients. All patients who were still in intensive care on Day 7 were screened weekly by electroneuromyography. The effect of intensive insulin therapy on critical illness polyneuropathy/myopathy and the relationship with duration of mechanical ventilation were assessed.\n\n\nMEASUREMENTS AND MAIN RESULTS\nIndependent of risk factors, intensive insulin therapy reduced incidence of critical illness polyneuropathy/myopathy (107/212 [50.5%] to 81/208 [38.9%], p = 0.02). Treatment with prolonged (> or = 14 d) mechanical ventilation was reduced from 99 of 212 (46.7%) to 72 of 208 (34.6%) (p = 0.01). This was statistically only partially explained by prevention of critical illness polyneuropathy/myopathy.\n\n\nCONCLUSION\nIn a subset of medical patients in the intensive care unit for at least 7 days, enrolled in a randomized controlled trial of intensive insulin therapy, those assigned to intensive insulin therapy had a reduced incidence of critical illness polyneuropathy/myopathy and were treated with prolonged mechanical ventilation less frequently.",
+            "year": 2007,
+            "citation_count": 357
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Inpatient hyperglycemia management: the voyage continues!": {
+                    "explanation": "This paper discusses the management of hyperglycemia in hospitalized patients and its association with increased risk of complications, including the role of intensive insulin therapy. Although it does not directly build upon the source paper's findings, it explores a related topic in critical care medicine. Therefore, it is partially dependent on the previous findings regarding intensive insulin therapy's effects on critically ill patients.",
+                    "relevance": 1
+                },
+                "2. Presence and severity of intensive care unit-acquired paresis at time of awakening are associated with increased intensive care unit and hospital mortality": {
+                    "explanation": "This paper investigates the association between intensive care unit-acquired paresis and mortality. While it does not directly build upon the source paper's findings, it explores a related topic in critical care medicine. The source paper's findings on intensive insulin therapy's effects on critical illness polyneuropathy/myopathy could be seen as a sub-hypothesis for this paper's investigation on intensive care unit-acquired paresis.",
+                    "relevance": 2
+                },
+                "3. Rehabilitation in the Intensive Care Unit": {
+                    "explanation": "This paper discusses the importance of early rehabilitation in the intensive care unit to prevent and treat ICU-acquired weakness. Although it does not directly build upon the source paper's findings, it explores a related topic in critical care medicine. Therefore, it is partially dependent on the previous findings regarding the effects of intensive insulin therapy on critically ill patients.",
+                    "relevance": 1
+                },
+                "4. Intensive care unit-acquired weakness: Risk factors and prevention": {
+                    "explanation": "This paper identifies risk factors and potential preventive measures for intensive care unit-acquired weakness. The source paper's findings on intensive insulin therapy's effects on critical illness polyneuropathy/myopathy are directly relevant to this paper's discussion on risk factors and prevention. Therefore, this paper is partially dependent on the source paper's findings.",
+                    "relevance": 2
+                },
+                "5. Use of electrophysiologic testing": {
+                    "explanation": "This paper reviews the use of electrophysiologic testing to diagnose critical illness myopathy and neuropathy in intensive care unit patients. Although it does not directly build upon the source paper's findings, it explores a related topic in critical care medicine. Therefore, it is partially dependent on the previous findings regarding the effects of intensive insulin therapy on critically ill patients.",
+                    "relevance": 1
+                },
+                "6. Metabolic aspects of critical illness polyneuromyopathy": {
+                    "explanation": "This paper reviews the metabolic aspects of critical illness-related acute neuropathy and/or myopathy, including the role of strict glycemic control using insulin. The source paper's findings on intensive insulin therapy's effects on critical illness polyneuropathy/myopathy are directly relevant to this paper's discussion on metabolic aspects. Therefore, this paper is partially dependent on the source paper's findings.",
+                    "relevance": 2
+                },
+                "7. Blood glucose control in patients with severe sepsis and septic shock": {
+                    "explanation": "This paper discusses the importance of blood glucose control in patients with severe sepsis and septic shock. Although it does not directly build upon the source paper's findings, it explores a related topic in critical care medicine. Therefore, it is partially dependent on the previous findings regarding intensive insulin therapy's effects on critically ill patients.",
+                    "relevance": 1
+                },
+                "8. Nonexcitable muscle membrane predicts intensive care unit-acquired paresis in mechanically ventilated, sedated patients": {
+                    "explanation": "This paper investigates the predictive value of electrophysiological measurements for intensive care unit-acquired paresis. Although it does not directly build upon the source paper's findings, it explores a related topic in critical care medicine. The source paper's findings on intensive insulin therapy's effects on critical illness polyneuropathy/myopathy could be seen as a sub-hypothesis for this paper's investigation on intensive care unit-acquired paresis.",
+                    "relevance": 2
+                },
+                "9. Critical Illness Neuromyopathy and Muscle Weakness in Patients in the Intensive Care Unit": {
+                    "explanation": "This paper discusses the neuromuscular complications of critical illness, including critical illness neuromyopathy. The source paper's findings on intensive insulin therapy's effects on critical illness polyneuropathy/myopathy are directly relevant to this paper's discussion on neuromuscular complications. Therefore, this paper is partially dependent on the source paper's findings.",
+                    "relevance": 2
+                },
+                "10. Long\u2010term physical outcome in patients with septic shock": {
+                    "explanation": "This paper assesses the physical outcome in survivors 1 year after septic shock. Although it does not directly build upon the source paper's findings, it explores a related topic in critical care medicine. Therefore, it is partially dependent on the previous findings regarding the effects of intensive insulin therapy on critically ill patients.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Presence and severity of intensive care unit-acquired paresis at time of awakening are associated with increased intensive care unit and hospital mortality": {
+                    "explanation": "This paper investigates the association between intensive care unit-acquired paresis and mortality. The source paper's findings on intensive insulin therapy's effects on critical illness polyneuropathy/myopathy could be seen as a sub-hypothesis for this paper's investigation on intensive care unit-acquired paresis.",
+                    "relevance": 2
+                },
+                "2. Intensive care unit-acquired weakness: Risk factors and prevention": {
+                    "explanation": "This paper identifies risk factors and potential preventive measures for intensive care unit-acquired weakness. The source paper's findings on intensive insulin therapy's effects on critical illness polyneuropathy/myopathy are directly relevant to this paper's discussion on risk factors and prevention.",
+                    "relevance": 2
+                },
+                "3. Critical Illness Neuromyopathy and Muscle Weakness in Patients in the Intensive Care Unit": {
+                    "explanation": "This paper discusses the neuromuscular complications of critical illness, including critical illness neuromyopathy. The source paper's findings on intensive insulin therapy's effects on critical illness polyneuropathy/myopathy are directly relevant to this paper's discussion on neuromuscular complications.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2009,
+        "source_paper": {
+            "paperId": "09ffdb5a9c1e69c5c60ec032dcd3c3fb6a50deda",
+            "pmid": "17138955",
+            "title": "Impact of intensive insulin therapy on neuromuscular complications and ventilator dependency in the medical intensive care unit.",
+            "abstract": "RATIONALE\nCritical illness polyneuropathy/myopathy causes limb and respiratory muscle weakness, prolongs mechanical ventilation, and extends hospitalization of intensive care patients. Besides controlling risk factors, no specific prevention or treatment exists. Recently, intensive insulin therapy prevented critical illness polyneuropathy in a surgical intensive care unit.\n\n\nOBJECTIVES\nTo investigate the impact of intensive insulin therapy on polyneuropathy/myopathy and treatment with prolonged mechanical ventilation in medical patients in the intensive care unit for at least 7 days.\n\n\nMETHODS\nThis was a prospectively planned subanalysis of a randomized controlled trial evaluating the effect of intensive insulin versus conventional therapy on morbidity and mortality in critically ill medical patients. All patients who were still in intensive care on Day 7 were screened weekly by electroneuromyography. The effect of intensive insulin therapy on critical illness polyneuropathy/myopathy and the relationship with duration of mechanical ventilation were assessed.\n\n\nMEASUREMENTS AND MAIN RESULTS\nIndependent of risk factors, intensive insulin therapy reduced incidence of critical illness polyneuropathy/myopathy (107/212 [50.5%] to 81/208 [38.9%], p = 0.02). Treatment with prolonged (> or = 14 d) mechanical ventilation was reduced from 99 of 212 (46.7%) to 72 of 208 (34.6%) (p = 0.01). This was statistically only partially explained by prevention of critical illness polyneuropathy/myopathy.\n\n\nCONCLUSION\nIn a subset of medical patients in the intensive care unit for at least 7 days, enrolled in a randomized controlled trial of intensive insulin therapy, those assigned to intensive insulin therapy had a reduced incidence of critical illness polyneuropathy/myopathy and were treated with prolonged mechanical ventilation less frequently.",
+            "year": 2007,
+            "citation_count": 357
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Performance Improvement Measures in Achieving Glycemic Control in the Acute Brain Injury Population": {
+                    "explanation": "The paper focuses on glycemic control in the acute brain injury population, which is related to the topic of intensive insulin therapy in the source paper. However, it does not directly build upon or use the findings of the source paper as a sub-hypothesis. Instead, it explores a different population and setting, making it inspired by the broader topic of glycemic control.",
+                    "relevance": 1
+                },
+                "2. Early blood glucose control and mortality in critically ill patients in Australia": {
+                    "explanation": "This paper examines the association between blood glucose control and mortality in critically ill patients, which is a related topic to the source paper's focus on intensive insulin therapy. However, it does not directly use the findings of the source paper as a sub-hypothesis. The paper's focus on mortality and blood glucose control in a different population makes it partially dependent on the broader topic of glycemic control, but not directly dependent on the source paper's findings.",
+                    "relevance": 1
+                },
+                "3. Critical illness polyneuromyopathy in a patient with disseminated cryptococcal infection": {
+                    "explanation": "This paper presents a case study of critical illness polyneuromyopathy, which is a topic directly related to the source paper's focus on the impact of intensive insulin therapy on polyneuropathy/myopathy. However, it is a case study and does not directly build upon or use the findings of the source paper as a sub-hypothesis. Instead, it explores a different aspect of critical illness polyneuromyopathy.",
+                    "relevance": 1
+                },
+                "4. Improving clinical trials of long-term outcomes": {
+                    "explanation": "This paper discusses the challenges and potential solutions for improving clinical trials of long-term outcomes in critically ill patients. While it is a relevant topic to the source paper's focus on intensive care unit patients, it does not directly build upon or use the findings of the source paper as a sub-hypothesis. Instead, it provides a broader discussion of clinical trials and long-term outcomes.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Performance Improvement Measures in Achieving Glycemic Control in the Acute Brain Injury Population": {
+                    "explanation": "The paper focuses on glycemic control in the acute brain injury population, which is related to the topic of intensive insulin therapy in the source paper. However, it does not directly build upon or use the findings of the source paper as a sub-hypothesis. Instead, it explores a different population and setting, making it inspired by the broader topic of glycemic control.",
+                    "relevance": 1
+                },
+                "2. Early blood glucose control and mortality in critically ill patients in Australia": {
+                    "explanation": "This paper examines the association between blood glucose control and mortality in critically ill patients, which is a related topic to the source paper's focus on intensive insulin therapy. However, it does not directly use the findings of the source paper as a sub-hypothesis. The paper's focus on mortality and blood glucose control in a different population makes it partially dependent on the broader topic of glycemic control, but not directly dependent on the source paper's findings.",
+                    "relevance": 1
+                },
+                "3. Critical illness polyneuromyopathy in a patient with disseminated cryptococcal infection": {
+                    "explanation": "This paper presents a case study of critical illness polyneuromyopathy, which is a topic directly related to the source paper's focus on the impact of intensive insulin therapy on polyneuropathy/myopathy. However, it is a case study and does not directly build upon or use the findings of the source paper as a sub-hypothesis. Instead, it explores a different aspect of critical illness polyneuromyopathy.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2010,
+        "source_paper": {
+            "paperId": "caa19d3d4d8cbf44aa920ce049481aedf925b667",
+            "title": "Intensive care unit-acquired weakness: Risk factors and prevention",
+            "abstract": "Intensive care unit-acquired weakness, the main clinical sign of critical illness neuromyopathy, is an increasingly recognized cause of prolonged mechanical ventilation and delayed return to physical self-sufficiency. Identifying risk factors and developing preventive measures are therefore important goals. Several studies on risk factors for critical illness neuromyopathy including prospective observational studies with a multivariate analysis of potential risk factors were conducted over the last decade. A large body of data is also available from two large prospective randomized trials comparing the effect of strict vs. conventional blood-glucose control on intensive care unit mortality and on secondary outcomes including the occurrence of critical illness neuromyopathy. Five central risk factors and their related potential measures to prevent intensive care unit-acquired weakness can be identified including multiple organ failure, muscle inactivity, hyperglycemia, and use of corticosteroids and neuromuscular blockers. Although strong evidence regarding the efficacy of preventive measures is still lacking, the results of available studies are promising and cast doubt on the widespread belief that the treatment of intensive care unit-acquired weakness is essentially supportive. Early identifying and treating conditions leading to multiple organ failure, especially severe sepsis and septic shock, avoiding unnecessary deep sedation and excessive blood glucose levels, promoting early mobilization, and carefully weighing the risks and benefits of corticosteroids might contribute to reduce the incidence and severity of intensive care unit-acquired weakness.",
+            "year": 2009,
+            "citation_count": 262,
+            "relevance": 2,
+            "explanation": "This paper identifies risk factors and potential preventive measures for intensive care unit-acquired weakness. The source paper's findings on intensive insulin therapy's effects on critical illness polyneuropathy/myopathy are directly relevant to this paper's discussion on risk factors and prevention."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Sugammadex reverses neuromuscular block induced by 3-desacetyl-vecuronium, an active metabolite of vecuronium, in the anaesthetised rhesus monkey": {
+                    "explanation": "This paper has no connection to the source paper as it discusses the reversal of neuromuscular block induced by 3-desacetyl-vecuronium, which is unrelated to intensive care unit-acquired weakness.",
+                    "relevance": 0
+                },
+                "2. A screening, prevention, and restoration model for saving the injured brain in intensive care unit survivors": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it discusses the prevention and restoration of brain function in intensive care unit survivors, which is related to intensive care unit-acquired weakness.",
+                    "relevance": 1
+                },
+                "3. Damage control in trauma and abdominal sepsis": {
+                    "explanation": "This paper has no connection to the source paper as it discusses damage control surgery in trauma and abdominal sepsis, which is unrelated to intensive care unit-acquired weakness.",
+                    "relevance": 0
+                },
+                "4. Presentation and management of ICU myopathy and neuropathy": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it discusses the presentation and management of ICU myopathy and neuropathy, which is a type of intensive care unit-acquired weakness.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Presentation and management of ICU myopathy and neuropathy": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it discusses the presentation and management of ICU myopathy and neuropathy, which is a type of intensive care unit-acquired weakness.",
+                    "relevance": 2
+                },
+                "2. A screening, prevention, and restoration model for saving the injured brain in intensive care unit survivors": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it discusses the prevention and restoration of brain function in intensive care unit survivors, which is related to intensive care unit-acquired weakness.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2011,
+        "source_paper": {
+            "paperId": "caa19d3d4d8cbf44aa920ce049481aedf925b667",
+            "title": "Intensive care unit-acquired weakness: Risk factors and prevention",
+            "abstract": "Intensive care unit-acquired weakness, the main clinical sign of critical illness neuromyopathy, is an increasingly recognized cause of prolonged mechanical ventilation and delayed return to physical self-sufficiency. Identifying risk factors and developing preventive measures are therefore important goals. Several studies on risk factors for critical illness neuromyopathy including prospective observational studies with a multivariate analysis of potential risk factors were conducted over the last decade. A large body of data is also available from two large prospective randomized trials comparing the effect of strict vs. conventional blood-glucose control on intensive care unit mortality and on secondary outcomes including the occurrence of critical illness neuromyopathy. Five central risk factors and their related potential measures to prevent intensive care unit-acquired weakness can be identified including multiple organ failure, muscle inactivity, hyperglycemia, and use of corticosteroids and neuromuscular blockers. Although strong evidence regarding the efficacy of preventive measures is still lacking, the results of available studies are promising and cast doubt on the widespread belief that the treatment of intensive care unit-acquired weakness is essentially supportive. Early identifying and treating conditions leading to multiple organ failure, especially severe sepsis and septic shock, avoiding unnecessary deep sedation and excessive blood glucose levels, promoting early mobilization, and carefully weighing the risks and benefits of corticosteroids might contribute to reduce the incidence and severity of intensive care unit-acquired weakness.",
+            "year": 2009,
+            "citation_count": 262,
+            "relevance": 2,
+            "explanation": "This paper identifies risk factors and potential preventive measures for intensive care unit-acquired weakness. The source paper's findings on intensive insulin therapy's effects on critical illness polyneuropathy/myopathy are directly relevant to this paper's discussion on risk factors and prevention."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Neuromuscular involvement in vegetative and minimally conscious states following acute brain injury": {
+                    "explanation": "This paper explores neuromuscular involvement in patients with vegetative and minimally conscious states, which is related to intensive care unit-acquired weakness discussed in the source paper. However, it does not directly build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "2. Novel events in the molecular regulation of muscle mass in critically ill patients": {
+                    "explanation": "This paper investigates the molecular mechanisms of muscle wasting in critically ill patients, which is related to intensive care unit-acquired weakness. The paper provides novel data on the regulation of muscle mass, but it does not directly build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "3. The complex interplay between delirium, sedation, and early mobility during critical illness: applications in the trauma unit": {
+                    "explanation": "This paper discusses the interplay between delirium, sedation, and early mobility in critically ill patients, which is related to intensive care unit-acquired weakness. The paper provides strategies to reduce sedative exposure and promote early mobilization, which is partially dependent on the findings of the source paper regarding the risk factors and prevention of intensive care unit-acquired weakness.",
+                    "relevance": 2
+                },
+                "4. Effect of transcutaneous electrical muscle stimulation on muscle volume in patients with septic shock": {
+                    "explanation": "This paper investigates the effect of transcutaneous electrical muscle stimulation on muscle volume in patients with septic shock, which is related to intensive care unit-acquired weakness. However, it does not directly build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. The complex interplay between delirium, sedation, and early mobility during critical illness: applications in the trauma unit": {
+                    "explanation": "This paper discusses the interplay between delirium, sedation, and early mobility in critically ill patients, which is related to intensive care unit-acquired weakness. The paper provides strategies to reduce sedative exposure and promote early mobilization, which is partially dependent on the findings of the source paper regarding the risk factors and prevention of intensive care unit-acquired weakness.",
+                    "relevance": 2
+                },
+                "2. Neuromuscular involvement in vegetative and minimally conscious states following acute brain injury": {
+                    "explanation": "This paper explores neuromuscular involvement in patients with vegetative and minimally conscious states, which is related to intensive care unit-acquired weakness discussed in the source paper. However, it does not directly build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "3. Novel events in the molecular regulation of muscle mass in critically ill patients": {
+                    "explanation": "This paper investigates the molecular mechanisms of muscle wasting in critically ill patients, which is related to intensive care unit-acquired weakness. The paper provides novel data on the regulation of muscle mass, but it does not directly build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2012,
+        "source_paper": {
+            "paperId": "8d45e318e9825c2e75674b3973b95e0468ef60a2",
+            "title": "The complex interplay between delirium, sedation, and early mobility during critical illness: applications in the trauma unit",
+            "abstract": "Purpose of review Critically ill patients are prescribed sedatives and analgesics to decrease pain and anxiety, improve patient\u2013ventilator dyssynchrony and ensure patient safety. These medications may themselves lead to delirium and ICU-acquired weakness, which are associated with worse clinical outcomes. This review will focus on the epidemiology of these two disease processes and discuss strategies aimed at reducing these devastating complications of critical illness. Recent findings Delirium and ICU-acquired weakness are associated with longer hospital stay, increased cost and decreased quality of life after discharge from the ICU. Delirium has also shown to be associated with increased mortality. Strategies aimed at reducing sedative exposure through protocols and coordination of daily sedation and ventilator cessation trials, avoiding benzodiazepines in favor of alternative sedative regimens and early mobilization of patients have all shown to significantly improve patient outcomes. Summary Delirium and ICU-acquired weakness are complications of critical illness associated with worse clinical outcomes and functional decline in survivors. An evidence-based approach based on the following tenets \u2013 minimization of sedative medication, particularly benzodiazepines, delirium monitoring and management and early mobilization may mitigate these complications.",
+            "year": 2011,
+            "citation_count": 63,
+            "relevance": 2,
+            "explanation": "This paper discusses the interplay between delirium, sedation, and early mobility in critically ill patients, which is related to intensive care unit-acquired weakness. The paper provides strategies to reduce sedative exposure and promote early mobilization, which is partially dependent on the findings of the source paper regarding the risk factors and prevention of intensive care unit-acquired weakness."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Long-Term Mechanical Ventilation: Management Strategies": {
+                    "explanation": "This paper has no connection to the source paper, as it focuses on management strategies for patients undergoing prolonged mechanical ventilation, which is a different topic from the interplay between delirium, sedation, and early mobility during critical illness.",
+                    "relevance": 0
+                },
+                "2. Developmental disability in the young and postoperative cognitive dysfunction in the elderly after anesthesia and surgery: do data justify changing clinical practice?": {
+                    "explanation": "This paper has no connection to the source paper, as it explores the impact of anesthesia on developmental disability and postoperative cognitive dysfunction, which is not directly related to the complex interplay between delirium, sedation, and early mobility during critical illness.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2013,
+        "source_paper": {
+            "paperId": "8d45e318e9825c2e75674b3973b95e0468ef60a2",
+            "title": "The complex interplay between delirium, sedation, and early mobility during critical illness: applications in the trauma unit",
+            "abstract": "Purpose of review Critically ill patients are prescribed sedatives and analgesics to decrease pain and anxiety, improve patient\u2013ventilator dyssynchrony and ensure patient safety. These medications may themselves lead to delirium and ICU-acquired weakness, which are associated with worse clinical outcomes. This review will focus on the epidemiology of these two disease processes and discuss strategies aimed at reducing these devastating complications of critical illness. Recent findings Delirium and ICU-acquired weakness are associated with longer hospital stay, increased cost and decreased quality of life after discharge from the ICU. Delirium has also shown to be associated with increased mortality. Strategies aimed at reducing sedative exposure through protocols and coordination of daily sedation and ventilator cessation trials, avoiding benzodiazepines in favor of alternative sedative regimens and early mobilization of patients have all shown to significantly improve patient outcomes. Summary Delirium and ICU-acquired weakness are complications of critical illness associated with worse clinical outcomes and functional decline in survivors. An evidence-based approach based on the following tenets \u2013 minimization of sedative medication, particularly benzodiazepines, delirium monitoring and management and early mobilization may mitigate these complications.",
+            "year": 2011,
+            "citation_count": 63,
+            "relevance": 2,
+            "explanation": "This paper discusses the interplay between delirium, sedation, and early mobility in critically ill patients, which is related to intensive care unit-acquired weakness. The paper provides strategies to reduce sedative exposure and promote early mobilization, which is partially dependent on the findings of the source paper regarding the risk factors and prevention of intensive care unit-acquired weakness."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Incidence and Risk Factors of Early Delirium after Cardiac Surgery": {
+                    "explanation": "This paper is partially dependent on the source paper's findings regarding delirium in critically ill patients, exploring the incidence and risk factors of delirium after cardiac surgery.",
+                    "relevance": 2
+                },
+                "2. ICU Early Mobilization: From Recommendation to Implementation at Three Medical Centers": {
+                    "explanation": "This paper is inspired by the source paper's hypothesis on the importance of early mobility in critically ill patients, discussing the implementation of early mobility programs in ICUs.",
+                    "relevance": 1
+                },
+                "3. The Pain, Agitation, and Delirium Care Bundle: Synergistic Benefits of Implementing the 2013 Pain, Agitation, and Delirium Guidelines in an Integrated and Interdisciplinary Fashion": {
+                    "explanation": "This paper is partially dependent on the source paper's findings regarding pain, agitation, and delirium management in critically ill patients, discussing the implementation of a care bundle for these conditions.",
+                    "relevance": 2
+                },
+                "4. Assessment and management of alcohol-related admissions to UK intensive care units": {
+                    "explanation": "This paper has no direct connection to the source paper, as it focuses on a different topic (alcohol-related admissions) and does not build upon the source paper's findings.",
+                    "relevance": 0
+                },
+                "5. Sedation and Paralysis": {
+                    "explanation": "This paper has no direct connection to the source paper, as it is a review article focusing on sedation strategies and pharmacology, without building upon the source paper's findings.",
+                    "relevance": 0
+                },
+                "6. Acquired Neuromuscular Weakness and Early Mobilization in the Intensive Care Unit": {
+                    "explanation": "This paper is inspired by the source paper's hypothesis on the importance of early mobility in critically ill patients, discussing the relationship between neuromuscular weakness and early mobilization.",
+                    "relevance": 1
+                },
+                "7. Making Strides in Preventing ICU-Acquired Weakness: Involving Family in Early Progressive Mobility": {
+                    "explanation": "This paper is inspired by the source paper's hypothesis on the importance of early mobility in critically ill patients, discussing the involvement of family in early progressive mobility protocols.",
+                    "relevance": 1
+                },
+                "8. Clinical Practice Guidelines for the Management of Pain, Agitation, and Delirium in Adult Patients in the Intensive Care Unit": {
+                    "explanation": "This paper has no direct connection to the source paper, as it is a clinical practice guideline that does not build upon the source paper's findings.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Incidence and Risk Factors of Early Delirium after Cardiac Surgery": {
+                    "explanation": "This paper is partially dependent on the source paper's findings regarding delirium in critically ill patients, exploring the incidence and risk factors of delirium after cardiac surgery.",
+                    "relevance": 2
+                },
+                "2. The Pain, Agitation, and Delirium Care Bundle: Synergistic Benefits of Implementing the 2013 Pain, Agitation, and Delirium Guidelines in an Integrated and Interdisciplinary Fashion": {
+                    "explanation": "This paper is partially dependent on the source paper's findings regarding pain, agitation, and delirium management in critically ill patients, discussing the implementation of a care bundle for these conditions.",
+                    "relevance": 2
+                },
+                "3. ICU Early Mobilization: From Recommendation to Implementation at Three Medical Centers": {
+                    "explanation": "This paper is inspired by the source paper's hypothesis on the importance of early mobility in critically ill patients, discussing the implementation of early mobility programs in ICUs.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2014,
+        "source_paper": {
+            "paperId": "84cc8377f4bf447e0902976e83790c4f163fe93d",
+            "title": "The Pain, Agitation, and Delirium Care Bundle: Synergistic Benefits of Implementing the 2013 Pain, Agitation, and Delirium Guidelines in an Integrated and Interdisciplinary Fashion",
+            "abstract": "Objective:In 2013, the American College of Critical Care Medicine published a revised version of the pain, agitation, and delirium guidelines. The guidelines included an ICU pain, agitation, and delirium care bundle designed to facilitate implementation of the pain, agitation, and delirium guidelines. Design:Review article. Setting:Multispecialty critical care units. Patients:Adult ICU patients. Interventions:This article describes: 1) the ICU pain, agitation, and delirium care bundle in more detail, linking pain, sedation/agitation, and delirium management in an integrated and interdisciplinary fashion; 2) pain, agitation, and delirium implementation strategies; and 3) the potential synergistic benefits of linking pain, agitation, and delirium management strategies to other evidence-based ICU practices, including spontaneous breathing trials, ICU early mobility programs, and ICU sleep hygiene programs, in order to improve ICU patient outcomes and to reduce costs of care. Results:Linking the ICU pain, agitation, and delirium management strategies with spontaneous awakening trials, spontaneous breathing trials, and early mobility and sleep hygiene programs is associated with significant improvements in ICU patient outcomes and reductions in their costs of care. Conclusions:The 2013 ICU pain, agitation, and delirium guidelines provide critical care providers with an evidence-based, integrated, and interdisciplinary approach to managing pain, agitation/sedation, and delirium. The ICU pain, agitation, and delirium care bundle provides a framework for facilitating implementation of the pain, agitation, and delirium guidelines. Widespread implementation of the ICU pain, agitation, and delirium care bundle is likely to result in large-scale improvements in ICU patient outcomes and significant reductions in costs.",
+            "year": 2013,
+            "citation_count": 128,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the source paper's findings regarding pain, agitation, and delirium management in critically ill patients, discussing the implementation of a care bundle for these conditions."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Fluctuations in vital signs and behavioural responses of brain surgery patients in the Intensive Care Unit: are they valid indicators of pain?": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the validity of pain assessment methods in ICU patients, which is related to the pain management strategies discussed in the source paper.",
+                    "relevance": 2
+                },
+                "2. Critical Care for Patients with Massive Ischemic Stroke": {
+                    "explanation": "This paper has no connection with the source paper, as it focuses on critical care for patients with massive ischemic stroke and does not discuss pain, agitation, and delirium management in ICU patients.",
+                    "relevance": 0
+                },
+                "3. Ethical Dilemmas in the Intensive Care Unit: Treating Pain and Symptoms in Noncommunicative Patients at End of Life": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it discusses the importance of pain management in ICU patients, particularly those who are noncommunicative.",
+                    "relevance": 1
+                },
+                "4. Examining the evidence to guide practice: challenging practice habits.": {
+                    "explanation": "This paper has no connection with the source paper, as it is a review article that critiques various practice interventions in critical care nursing, but does not specifically discuss pain, agitation, and delirium management.",
+                    "relevance": 0
+                },
+                "5. Improving Patient Outcomes with an Emergency Department Delirium Screening Protocol": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it discusses the importance of early detection and treatment of delirium in ICU patients, which is related to the delirium management strategies discussed in the source paper.",
+                    "relevance": 2
+                },
+                "6. Management of pain, agitation, and delirium in critically ill patients.": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it discusses the implementation of the 2013 ICU PAD Guidelines, which is the same guidelines discussed in the source paper.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Fluctuations in vital signs and behavioural responses of brain surgery patients in the Intensive Care Unit: are they valid indicators of pain?": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the validity of pain assessment methods in ICU patients, which is related to the pain management strategies discussed in the source paper.",
+                    "relevance": 2
+                },
+                "2. Improving Patient Outcomes with an Emergency Department Delirium Screening Protocol": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it discusses the importance of early detection and treatment of delirium in ICU patients, which is related to the delirium management strategies discussed in the source paper.",
+                    "relevance": 2
+                },
+                "3. Management of pain, agitation, and delirium in critically ill patients.": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it discusses the implementation of the 2013 ICU PAD Guidelines, which is the same guidelines discussed in the source paper.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2015,
+        "source_paper": {
+            "paperId": "84cc8377f4bf447e0902976e83790c4f163fe93d",
+            "title": "The Pain, Agitation, and Delirium Care Bundle: Synergistic Benefits of Implementing the 2013 Pain, Agitation, and Delirium Guidelines in an Integrated and Interdisciplinary Fashion",
+            "abstract": "Objective:In 2013, the American College of Critical Care Medicine published a revised version of the pain, agitation, and delirium guidelines. The guidelines included an ICU pain, agitation, and delirium care bundle designed to facilitate implementation of the pain, agitation, and delirium guidelines. Design:Review article. Setting:Multispecialty critical care units. Patients:Adult ICU patients. Interventions:This article describes: 1) the ICU pain, agitation, and delirium care bundle in more detail, linking pain, sedation/agitation, and delirium management in an integrated and interdisciplinary fashion; 2) pain, agitation, and delirium implementation strategies; and 3) the potential synergistic benefits of linking pain, agitation, and delirium management strategies to other evidence-based ICU practices, including spontaneous breathing trials, ICU early mobility programs, and ICU sleep hygiene programs, in order to improve ICU patient outcomes and to reduce costs of care. Results:Linking the ICU pain, agitation, and delirium management strategies with spontaneous awakening trials, spontaneous breathing trials, and early mobility and sleep hygiene programs is associated with significant improvements in ICU patient outcomes and reductions in their costs of care. Conclusions:The 2013 ICU pain, agitation, and delirium guidelines provide critical care providers with an evidence-based, integrated, and interdisciplinary approach to managing pain, agitation/sedation, and delirium. The ICU pain, agitation, and delirium care bundle provides a framework for facilitating implementation of the pain, agitation, and delirium guidelines. Widespread implementation of the ICU pain, agitation, and delirium care bundle is likely to result in large-scale improvements in ICU patient outcomes and significant reductions in costs.",
+            "year": 2013,
+            "citation_count": 128,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the source paper's findings regarding pain, agitation, and delirium management in critically ill patients, discussing the implementation of a care bundle for these conditions."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Factors Associated With the Development of Delirium in Elderly Patients in Intensive Care Units": {
+                    "explanation": "This paper explores the risk factors of delirium in elderly patients in ICUs, which is a relevant topic to the source paper. However, it does not directly build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "2. Awake or Sedated: Trends in the Evaluation and Management of Agitation in the Intensive Care Unit": {
+                    "explanation": "This paper is a review article that discusses the trends in sedation practices in ICUs, which is related to the topic of the source paper. However, it does not present new findings or hypotheses that are directly connected to the source paper.",
+                    "relevance": 0
+                },
+                "3. Translating knowledge into best practice care bundles: a pragmatic strategy for EBP implementation via moving postprocedural pain management nursing guidelines into clinical practice.": {
+                    "explanation": "This paper discusses the implementation of evidence-based practice in pain management, which is a related topic to the source paper. However, it does not directly build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "4. Applying the Beers and STOPP Criteria to Care of the Critically Ill Older Adult": {
+                    "explanation": "This paper discusses the use of criteria to identify potentially inappropriate medications in critically ill older adults, which is a relevant topic to the source paper. However, it does not directly build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "5. Stuck Inside a Cloud: Optimizing Sedation to Reduce ICU-Associated Delirium in Geriatric Patients": {
+                    "explanation": "This paper discusses the optimization of sedation to reduce delirium in geriatric patients, which is a relevant topic to the source paper. It also mentions the Society of Critical Care Medicine's Pain, Agitation and Delirium best practice guideline, which suggests a connection to the source paper.",
+                    "relevance": 2
+                },
+                "6. Liberating ICU Patients from Deep Sedation and Mechanical Ventilation \u2014 An Overview of Best Practices": {
+                    "explanation": "This paper discusses the best practices for liberating ICU patients from deep sedation and mechanical ventilation, which is a relevant topic to the source paper. However, it does not directly build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Stuck Inside a Cloud: Optimizing Sedation to Reduce ICU-Associated Delirium in Geriatric Patients": {
+                    "explanation": "This paper discusses the optimization of sedation to reduce delirium in geriatric patients, which is a relevant topic to the source paper. It also mentions the Society of Critical Care Medicine's Pain, Agitation and Delirium best practice guideline, which suggests a connection to the source paper.",
+                    "relevance": 2
+                },
+                "2. Factors Associated With the Development of Delirium in Elderly Patients in Intensive Care Units": {
+                    "explanation": "This paper explores the risk factors of delirium in elderly patients in ICUs, which is a relevant topic to the source paper. However, it does not directly build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "3. Translating knowledge into best practice care bundles: a pragmatic strategy for EBP implementation via moving postprocedural pain management nursing guidelines into clinical practice.": {
+                    "explanation": "This paper discusses the implementation of evidence-based practice in pain management, which is a related topic to the source paper. However, it does not directly build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2015,
+        "source_paper": {
+            "paperId": "2f52dd955b56a896ef365d2d68cd0f468a75eb3c",
+            "title": "Fluctuations in vital signs and behavioural responses of brain surgery patients in the Intensive Care Unit: are they valid indicators of pain?",
+            "abstract": "AIM\nTo examine the validity of behaviours and fluctuations in vital signs for pain assessment of postbrain surgery adults in the neurosurgical intensive care unit.\n\n\nBACKGROUND\nMany patients in an intensive care unit may be unable to self-report their pain. In such cases, the use of observable indicators is recommended. Very little research has explored the validity of the use of behaviours and vital signs for pain assessment of neurocritically ill patients.\n\n\nDESIGN\nProspective repeated-measure within-subject observational design.\n\n\nMETHODS\nA total of 43 postbrain surgery patients were video recorded before, during and 15 minutes after a non-nociceptive (non-invasive blood pressure cuff inflation) and a nociceptive (turning) procedures. Their behaviours and vital signs were collected with a pre-tested behavioural checklist and a data collection computer connected to the bedside monitor. The patients' self-report of pain was obtained whenever possible. Data were collected between June-December in 2011.\n\n\nRESULTS\nA larger number of pain-related behaviours were exhibited by participants during the nociceptive procedure compared with the non-nociceptive procedure supporting discriminant validation. Among vital signs, only respiratory rate differed significantly between the two procedures. Regarding criterion validation, only behaviours were positively correlated with self-reports of pain.\n\n\nCONCLUSION\nBehaviours were found valid indicators of pain in neurocritically ill patients after elective brain surgery. Fluctuations in vital signs may suggest the presence of pain, but their validity for such use is not supported. They should only be used in combination with other validated pain assessment methods.",
+            "year": 2014,
+            "citation_count": 40,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the validity of pain assessment methods in ICU patients, which is related to the pain management strategies discussed in the source paper."
+        },
+        "llama_output": {},
+        "seed": 42
+    },
+    {
+        "year": 2016,
+        "source_paper": {
+            "paperId": "2f52dd955b56a896ef365d2d68cd0f468a75eb3c",
+            "title": "Fluctuations in vital signs and behavioural responses of brain surgery patients in the Intensive Care Unit: are they valid indicators of pain?",
+            "abstract": "AIM\nTo examine the validity of behaviours and fluctuations in vital signs for pain assessment of postbrain surgery adults in the neurosurgical intensive care unit.\n\n\nBACKGROUND\nMany patients in an intensive care unit may be unable to self-report their pain. In such cases, the use of observable indicators is recommended. Very little research has explored the validity of the use of behaviours and vital signs for pain assessment of neurocritically ill patients.\n\n\nDESIGN\nProspective repeated-measure within-subject observational design.\n\n\nMETHODS\nA total of 43 postbrain surgery patients were video recorded before, during and 15 minutes after a non-nociceptive (non-invasive blood pressure cuff inflation) and a nociceptive (turning) procedures. Their behaviours and vital signs were collected with a pre-tested behavioural checklist and a data collection computer connected to the bedside monitor. The patients' self-report of pain was obtained whenever possible. Data were collected between June-December in 2011.\n\n\nRESULTS\nA larger number of pain-related behaviours were exhibited by participants during the nociceptive procedure compared with the non-nociceptive procedure supporting discriminant validation. Among vital signs, only respiratory rate differed significantly between the two procedures. Regarding criterion validation, only behaviours were positively correlated with self-reports of pain.\n\n\nCONCLUSION\nBehaviours were found valid indicators of pain in neurocritically ill patients after elective brain surgery. Fluctuations in vital signs may suggest the presence of pain, but their validity for such use is not supported. They should only be used in combination with other validated pain assessment methods.",
+            "year": 2014,
+            "citation_count": 40,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the validity of pain assessment methods in ICU patients, which is related to the pain management strategies discussed in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Validation of the Behavioural Indicators of Pain Scale ESCID for pain assessment in non-communicative and mechanically ventilated critically ill patients: a research protocol": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it aims to validate a new pain assessment scale for non-communicative and mechanically ventilated critically ill patients, building on the source paper's results regarding the validity of behaviours as indicators of pain in neurocritically ill patients.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Validation of the Behavioural Indicators of Pain Scale ESCID for pain assessment in non-communicative and mechanically ventilated critically ill patients: a research protocol": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it aims to validate a new pain assessment scale for non-communicative and mechanically ventilated critically ill patients, building on the source paper's results regarding the validity of behaviours as indicators of pain in neurocritically ill patients.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2018,
+        "source_paper": {
+            "paperId": "2ed46562f12d81afb73c12bf34c288da08b4f08f",
+            "title": "Validation of the Behavioural Indicators of Pain Scale ESCID for pain assessment in non-communicative and mechanically ventilated critically ill patients: a research protocol.",
+            "abstract": "AIM\nTo investigate the validity and reliability of the Behavioural Indicators of Pain Scale (ESCID) in medically and surgically non-communicative and mechanically ventilated critical patients.\n\n\nBACKGROUND\nScales based on behavioural indicators of pain are suggested to measure pain in non-communicative critically ill patients. Scales proposed thus far have a range not comparable to those used with patients who can report their pain. A scale with a 0-10 range and more behavioural indicators is proposed to improve the detection and measurement of pain.\n\n\nDESIGN\nA multicentre prospective observational design to validate a scale-measuring instrument.\n\n\nMETHODS\nThree hundred non-communicative and mechanically ventilated critical patients from 20 different intensive care units will be observed for 5\u00a0minutes before, during and 15\u00a0minutes after three procedures: turning, tracheal suctioning and soft friction with gauze on healthy tissue. Two independent observers will assess the pain of subjects with the Behavioural Pain Scale and the ESCID scale simultaneously. Descriptive and inferential statistics will be used. Student's t-test will be used to compare components of the twos scales. Inter-rater and intrarater agreement will be investigated. The reliability scale will be measured using Cronbach's alpha. Approval date for this protocol was January 2012.\n\n\nDISCUSSION\nA greater number of behavioural indicators in the ESCID scale than in previously validated scales, with a 0-10 score range, can improve the detection and measurement of pain in non-communicative and mechanically ventilated critical patients. Funding granted in 2011 by the Spanish Health Research Fund (PI 11/00766, Health Ministry).\n\n\nTRIAL REGISTRATION\nStudy registered with www.clinicaltrials.gov (NCT01744717).",
+            "year": 2016,
+            "citation_count": 7,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it aims to validate a new pain assessment scale for non-communicative and mechanically ventilated critically ill patients, building on the source paper's results regarding the validity of behaviours as indicators of pain in neurocritically ill patients."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Behavioral Pain Indicators in Patients with Traumatic Brain Injury Admitted to an Intensive Care Unit": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates behavioral pain indicators in intensive care unit (ICU) patients, building on the source paper's results regarding pain assessment in non-communicative and mechanically ventilated critical patients.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Behavioral Pain Indicators in Patients with Traumatic Brain Injury Admitted to an Intensive Care Unit": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates behavioral pain indicators in intensive care unit (ICU) patients, building on the source paper's results regarding pain assessment in non-communicative and mechanically ventilated critical patients.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2020,
+        "source_paper": {
+            "paperId": "2d8fab70a540bd2ce7a1b02adf8dbf465bbb8546",
+            "title": "Behavioral Pain Indicators in Patients with Traumatic Brain Injury Admitted to an Intensive Care Unit",
+            "abstract": "Introduction: A consistent approach to pain assessment for patients admitted to intensive care unit (ICU) is a major difficulty for health practitioners due to some patients\u2019 inability, to express their pain verbally. This study aimed to assess pain behaviors (PBs) in traumatic brain injury (TBI) patients at different levels of consciousness. Methods: This study used a repeated-measure, within-subject design with 35 patients admitted to an ICU. The data were collected through observations of nociceptive and non-nociceptive procedures, which were recorded through a 47-item behavior-rating checklist. The analyses were performed by SPSS ver.13 software. Results: The most frequently observed PBs during nociceptive procedures were facial expression levator contractions (65.7%), sudden eye openings (34.3%), frowning (31.4%), lip changes (31.4%), clear movement of extremities (57.1%), neck stiffness (42.9%), sighing (31.4%), and moaning (31.4%). The number of PBs exhibited by participants during nociceptive procedures was significantly higher than those observed before and 15 minutes after the procedures. Also, the number of exhibited PBs in patients during nociceptive procedures was significantly greater than that of exhibited PBs during the non-nociceptive procedure. The results showed a significant difference between different levels of consciousness and also between the numbers of exhibited PBs in participants with different levels of traumatic brain injury severity. Conclusion: The present study showed that most of the behaviors that have been observed during painful stimulation in patients with traumatic brain injury included facial expressions, sudden eye opening, frowning, lip changes, clear movements of extremities, neck stiffness, and sighing or moaning.",
+            "year": 2018,
+            "citation_count": 8,
+            "relevance": 1,
+            "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates behavioral pain indicators in intensive care unit (ICU) patients, building on the source paper's results regarding pain assessment in non-communicative and mechanically ventilated critical patients."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Crying out in pain\u2014A systematic review into the validity of vocalization as an indicator for pain": {
+                    "explanation": "This paper is a systematic review that explores the validity of vocalization as a pain indicator. Although it discusses a specific behavioral pain indicator, it does not build upon the findings of the source paper or use them as a sub-hypothesis. The source paper focused on behavioral pain indicators in traumatic brain injury patients, whereas this review has a broader scope and does not specifically address traumatic brain injury patients.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2020,
+        "source_paper": {
+            "paperId": "2d8fab70a540bd2ce7a1b02adf8dbf465bbb8546",
+            "title": "Behavioral Pain Indicators in Patients with Traumatic Brain Injury Admitted to an Intensive Care Unit",
+            "abstract": "Introduction: A consistent approach to pain assessment for patients admitted to intensive care unit (ICU) is a major difficulty for health practitioners due to some patients\u2019 inability, to express their pain verbally. This study aimed to assess pain behaviors (PBs) in traumatic brain injury (TBI) patients at different levels of consciousness. Methods: This study used a repeated-measure, within-subject design with 35 patients admitted to an ICU. The data were collected through observations of nociceptive and non-nociceptive procedures, which were recorded through a 47-item behavior-rating checklist. The analyses were performed by SPSS ver.13 software. Results: The most frequently observed PBs during nociceptive procedures were facial expression levator contractions (65.7%), sudden eye openings (34.3%), frowning (31.4%), lip changes (31.4%), clear movement of extremities (57.1%), neck stiffness (42.9%), sighing (31.4%), and moaning (31.4%). The number of PBs exhibited by participants during nociceptive procedures was significantly higher than those observed before and 15 minutes after the procedures. Also, the number of exhibited PBs in patients during nociceptive procedures was significantly greater than that of exhibited PBs during the non-nociceptive procedure. The results showed a significant difference between different levels of consciousness and also between the numbers of exhibited PBs in participants with different levels of traumatic brain injury severity. Conclusion: The present study showed that most of the behaviors that have been observed during painful stimulation in patients with traumatic brain injury included facial expressions, sudden eye opening, frowning, lip changes, clear movements of extremities, neck stiffness, and sighing or moaning.",
+            "year": 2018,
+            "citation_count": 8,
+            "relevance": 1,
+            "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates behavioral pain indicators in intensive care unit (ICU) patients, building on the source paper's results regarding pain assessment in non-communicative and mechanically ventilated critical patients."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Crying out in pain\u2014A systematic review into the validity of vocalization as an indicator for pain": {
+                    "explanation": "This paper is a review paper that explores the validity of vocalization as a pain indicator, and it lacks a direct connection to the source paper's findings on behavioral pain indicators in traumatic brain injury patients. The source paper's results on specific behaviors such as facial expressions, sudden eye opening, frowning, lip changes, clear movements of extremities, neck stiffness, and sighing or moaning are not directly built upon or used as a sub-hypothesis in this review paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2022,
+        "source_paper": {
+            "paperId": "2d8fab70a540bd2ce7a1b02adf8dbf465bbb8546",
+            "title": "Behavioral Pain Indicators in Patients with Traumatic Brain Injury Admitted to an Intensive Care Unit",
+            "abstract": "Introduction: A consistent approach to pain assessment for patients admitted to intensive care unit (ICU) is a major difficulty for health practitioners due to some patients\u2019 inability, to express their pain verbally. This study aimed to assess pain behaviors (PBs) in traumatic brain injury (TBI) patients at different levels of consciousness. Methods: This study used a repeated-measure, within-subject design with 35 patients admitted to an ICU. The data were collected through observations of nociceptive and non-nociceptive procedures, which were recorded through a 47-item behavior-rating checklist. The analyses were performed by SPSS ver.13 software. Results: The most frequently observed PBs during nociceptive procedures were facial expression levator contractions (65.7%), sudden eye openings (34.3%), frowning (31.4%), lip changes (31.4%), clear movement of extremities (57.1%), neck stiffness (42.9%), sighing (31.4%), and moaning (31.4%). The number of PBs exhibited by participants during nociceptive procedures was significantly higher than those observed before and 15 minutes after the procedures. Also, the number of exhibited PBs in patients during nociceptive procedures was significantly greater than that of exhibited PBs during the non-nociceptive procedure. The results showed a significant difference between different levels of consciousness and also between the numbers of exhibited PBs in participants with different levels of traumatic brain injury severity. Conclusion: The present study showed that most of the behaviors that have been observed during painful stimulation in patients with traumatic brain injury included facial expressions, sudden eye opening, frowning, lip changes, clear movements of extremities, neck stiffness, and sighing or moaning.",
+            "year": 2018,
+            "citation_count": 8,
+            "relevance": 1,
+            "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates behavioral pain indicators in intensive care unit (ICU) patients, building on the source paper's results regarding pain assessment in non-communicative and mechanically ventilated critical patients."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Analgesia in the Neurosurgical Intensive Care Unit": {
+                    "explanation": "This paper has no direct connection with the source paper. The source paper focuses on behavioral pain indicators in traumatic brain injury patients, while this paper discusses analgesia in the neurosurgical ICU, including opioid use and non-pharmacological therapies. Although both papers deal with pain management in ICU settings, they do not share a direct hypothesis or finding.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2022,
+        "source_paper": {
+            "paperId": "2d8fab70a540bd2ce7a1b02adf8dbf465bbb8546",
+            "title": "Behavioral Pain Indicators in Patients with Traumatic Brain Injury Admitted to an Intensive Care Unit",
+            "abstract": "Introduction: A consistent approach to pain assessment for patients admitted to intensive care unit (ICU) is a major difficulty for health practitioners due to some patients\u2019 inability, to express their pain verbally. This study aimed to assess pain behaviors (PBs) in traumatic brain injury (TBI) patients at different levels of consciousness. Methods: This study used a repeated-measure, within-subject design with 35 patients admitted to an ICU. The data were collected through observations of nociceptive and non-nociceptive procedures, which were recorded through a 47-item behavior-rating checklist. The analyses were performed by SPSS ver.13 software. Results: The most frequently observed PBs during nociceptive procedures were facial expression levator contractions (65.7%), sudden eye openings (34.3%), frowning (31.4%), lip changes (31.4%), clear movement of extremities (57.1%), neck stiffness (42.9%), sighing (31.4%), and moaning (31.4%). The number of PBs exhibited by participants during nociceptive procedures was significantly higher than those observed before and 15 minutes after the procedures. Also, the number of exhibited PBs in patients during nociceptive procedures was significantly greater than that of exhibited PBs during the non-nociceptive procedure. The results showed a significant difference between different levels of consciousness and also between the numbers of exhibited PBs in participants with different levels of traumatic brain injury severity. Conclusion: The present study showed that most of the behaviors that have been observed during painful stimulation in patients with traumatic brain injury included facial expressions, sudden eye opening, frowning, lip changes, clear movements of extremities, neck stiffness, and sighing or moaning.",
+            "year": 2018,
+            "citation_count": 8,
+            "relevance": 1,
+            "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates behavioral pain indicators in intensive care unit (ICU) patients, building on the source paper's results regarding pain assessment in non-communicative and mechanically ventilated critical patients."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Analgesia in the Neurosurgical Intensive Care Unit": {
+                    "explanation": "This paper is related to pain management in neurosurgical patients, which is connected to the source paper's focus on pain assessment in traumatic brain injury patients. However, the paper does not directly build upon or use the findings of the source paper as a sub-hypothesis. Instead, it discusses the use of non-opioid analgesics and adjuvants in pain management, which is a distinct topic.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Analgesia in the Neurosurgical Intensive Care Unit": {
+                    "explanation": "This paper is related to pain management in neurosurgical patients, which is connected to the source paper's focus on pain assessment in traumatic brain injury patients. However, the paper does not directly build upon or use the findings of the source paper as a sub-hypothesis. Instead, it discusses the use of non-opioid analgesics and adjuvants in pain management, which is a distinct topic.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2023,
+        "source_paper": {
+            "paperId": "2d8fab70a540bd2ce7a1b02adf8dbf465bbb8546",
+            "title": "Behavioral Pain Indicators in Patients with Traumatic Brain Injury Admitted to an Intensive Care Unit",
+            "abstract": "Introduction: A consistent approach to pain assessment for patients admitted to intensive care unit (ICU) is a major difficulty for health practitioners due to some patients\u2019 inability, to express their pain verbally. This study aimed to assess pain behaviors (PBs) in traumatic brain injury (TBI) patients at different levels of consciousness. Methods: This study used a repeated-measure, within-subject design with 35 patients admitted to an ICU. The data were collected through observations of nociceptive and non-nociceptive procedures, which were recorded through a 47-item behavior-rating checklist. The analyses were performed by SPSS ver.13 software. Results: The most frequently observed PBs during nociceptive procedures were facial expression levator contractions (65.7%), sudden eye openings (34.3%), frowning (31.4%), lip changes (31.4%), clear movement of extremities (57.1%), neck stiffness (42.9%), sighing (31.4%), and moaning (31.4%). The number of PBs exhibited by participants during nociceptive procedures was significantly higher than those observed before and 15 minutes after the procedures. Also, the number of exhibited PBs in patients during nociceptive procedures was significantly greater than that of exhibited PBs during the non-nociceptive procedure. The results showed a significant difference between different levels of consciousness and also between the numbers of exhibited PBs in participants with different levels of traumatic brain injury severity. Conclusion: The present study showed that most of the behaviors that have been observed during painful stimulation in patients with traumatic brain injury included facial expressions, sudden eye opening, frowning, lip changes, clear movements of extremities, neck stiffness, and sighing or moaning.",
+            "year": 2018,
+            "citation_count": 8,
+            "relevance": 1,
+            "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates behavioral pain indicators in intensive care unit (ICU) patients, building on the source paper's results regarding pain assessment in non-communicative and mechanically ventilated critical patients."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. A Review of Voice-Based Pain Detection in Adults Using Artificial Intelligence": {
+                    "explanation": "This paper has no connection with the source paper, as it is a review paper that discusses the use of voice recognition and voice analysis for pain detection in adults, which is not related to the source paper's focus on behavioral pain indicators in patients with traumatic brain injury. The source paper does not provide any findings that are directly relevant to the hypothesis of this paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2023,
+        "source_paper": {
+            "paperId": "21469bf6b40d245ea0b660bbb1efa1e7baeb0bfa",
+            "title": "Analgesia in the Neurosurgical Intensive Care Unit",
+            "abstract": "Acute pain in neurosurgical patients is an important issue. Opioids are the most used for pain treatment in the neurosurgical ICU. Potential side effects of opioid use such as oversedation, respiratory depression, hypercapnia, worsening intracranial pressure, nausea, and vomiting may be problems and could interfere with neurologic assessment. Consequently, reducing opioids and use of non-opioid analgesics and adjuvants (N-methyl-D-aspartate antagonists, \u03b12 -adrenergic agonists, anticonvulsants, corticosteroids), as well as non-pharmacological therapies were introduced as a part of a multimodal regimen. Local and regional anesthesia is effective in opioid reduction during the early postoperative period. Among non-opioid agents, acetaminophen and non-steroidal anti-inflammatory drugs are used frequently. Adverse events associated with opioid use in neurosurgical patients are discussed. Larger controlled studies are needed to find optimal pain management tailored to neurologically impaired neurosurgical patients.",
+            "year": 2022,
+            "citation_count": 6,
+            "relevance": 1,
+            "explanation": "This paper is related to pain management in neurosurgical patients, which is connected to the source paper's focus on pain assessment in traumatic brain injury patients. However, the paper does not directly build upon or use the findings of the source paper as a sub-hypothesis. Instead, it discusses the use of non-opioid analgesics and adjuvants in pain management, which is a distinct topic."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Multidisciplinary Approach to Sedation and Early Mobility of Intubated Critically Ill Neurologic Patients Improves Mobility at Discharge": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the impact of a multidisciplinary analgesia-first sedation pathway and early mobility protocol on medication use and mobility in the neuroscience intensive care unit (ICU). The source paper highlights the potential side effects of opioid use in neurosurgical patients, such as oversedation and respiratory depression, and discusses the need for reducing opioids and using non-opioid analgesics and adjuvants. The current paper builds on this idea by implementing an analgesia-first sedation pathway and early mobility protocol to reduce sedative use and improve functional mobility status at ICU discharge.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Multidisciplinary Approach to Sedation and Early Mobility of Intubated Critically Ill Neurologic Patients Improves Mobility at Discharge": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the impact of a multidisciplinary analgesia-first sedation pathway and early mobility protocol on medication use and mobility in the neuroscience intensive care unit (ICU). The source paper highlights the potential side effects of opioid use in neurosurgical patients, such as oversedation and respiratory depression, and discusses the need for reducing opioids and using non-opioid analgesics and adjuvants. The current paper builds on this idea by implementing an analgesia-first sedation pathway and early mobility protocol to reduce sedative use and improve functional mobility status at ICU discharge.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    }
+]

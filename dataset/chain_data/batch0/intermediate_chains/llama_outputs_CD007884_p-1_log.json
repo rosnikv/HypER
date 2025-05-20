@@ -1,0 +1,158 @@
+[
+    {
+        "year": 2007,
+        "source_paper": {
+            "paperId": "3d7cb18b2f04e3ba6053efd66a54015a6273989e",
+            "pmid": "17301298",
+            "title": "Endoscopic versus surgical drainage of the pancreatic duct in chronic pancreatitis.",
+            "abstract": null,
+            "year": 2005,
+            "citation_count": 673
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Endoscopic treatment of chronic pancreatitis": {
+                    "explanation": "This paper discusses the development of endoscopic therapy for chronic pancreatitis, which is related to the source paper's topic of endoscopic versus surgical drainage of the pancreatic duct in chronic pancreatitis. However, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "2. Endoscopic pancreatic duct stent placement for inflammatory pancreatic diseases": {
+                    "explanation": "This paper reviews the role of endoscopic therapy in managing pancreatic diseases, including the placement of stents in the pancreatic duct. While it is related to the source paper's topic, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "3. Review article: surgical management of chronic pancreatitis": {
+                    "explanation": "This is a review paper that discusses the surgical management of chronic pancreatitis, which is related to the source paper's topic. However, as a review paper, it does not present novel findings or hypotheses and therefore has no direct connection to the source paper.",
+                    "relevance": 0
+                },
+                "4. New advances in pancreatic surgery": {
+                    "explanation": "This paper discusses new advances in pancreatic surgery, including the management of acute and chronic pancreatitis. While it is related to the source paper's topic, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "5. Is there a role for the endoscopic treatment of pain from chronic pancreatitis?": {
+                    "explanation": "This paper discusses the role of endoscopic treatment in managing pain from chronic pancreatitis, which is related to the source paper's topic. However, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "6. Chronic pancreatitis": {
+                    "explanation": "This paper provides an overview of chronic pancreatitis, including its etiology, diagnosis, and management. While it is related to the source paper's topic, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 0
+                },
+                "7. EXTRACORPOREAL SHOCK WAVE LITHOTRIPSY IN PATIENTS WITH PANCREATOLITHIASIS": {
+                    "explanation": "This paper discusses the use of extracorporeal shock wave lithotripsy in patients with pancreatolithiasis, which is related to the source paper's topic. However, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Endoscopic treatment of chronic pancreatitis": {
+                    "explanation": "This paper discusses the development of endoscopic therapy for chronic pancreatitis, which is related to the source paper's topic of endoscopic versus surgical drainage of the pancreatic duct in chronic pancreatitis. However, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "2. Endoscopic pancreatic duct stent placement for inflammatory pancreatic diseases": {
+                    "explanation": "This paper reviews the role of endoscopic therapy in managing pancreatic diseases, including the placement of stents in the pancreatic duct. While it is related to the source paper's topic, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "3. Is there a role for the endoscopic treatment of pain from chronic pancreatitis?": {
+                    "explanation": "This paper discusses the role of endoscopic treatment in managing pain from chronic pancreatitis, which is related to the source paper's topic. However, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2008,
+        "source_paper": {
+            "paperId": "6d300585902d2da2e4e3f48845a7f4bfbabe7637",
+            "title": "Endoscopic treatment of chronic pancreatitis.",
+            "abstract": "Treatment of chronic pancreatitis has been exclusively surgical for a long time. Recently, endoscopic therapy has become widely used as a primary therapeutic option. Initially performed for drainage of pancreatic cysts and pseudocysts, endoscopic treatments were adapted to biliary and pancreatic ducts stenosis. Pancreatic sphincterotomy which allows access to pancreatic ducts was firstly reported. Secondly, endoscopic methods of stenting, dilatation, and stones extraction of the bile ducts were applied to pancreatic ducts. Nevertheless, new improvements were necessary: failures of pancreatic stone extraction justified the development of extra-corporeal shock wave lithotripsy; dilatation of pancreatic stenosis was improved by forage with a new device; moreover endosonography allowed guidance for celiac block, gastro-cystostomy, duodeno-cystostomy and pancreatico-gastrostomy. Although endoscopic treatments are more and more frequently accepted, indications are still debated.",
+            "year": 2007,
+            "citation_count": 65,
+            "relevance": 1,
+            "explanation": "This paper discusses the development of endoscopic therapy for chronic pancreatitis, which is related to the source paper's topic of endoscopic versus surgical drainage of the pancreatic duct in chronic pancreatitis. However, it does not directly build upon or depend on the source paper's findings."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Endotherapy for pain in chronic pancreatitis": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it explores the role of endotherapy in managing pain in chronic pancreatitis, building on the source paper's discussion of endoscopic treatments for chronic pancreatitis.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Endotherapy for pain in chronic pancreatitis": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it explores the role of endotherapy in managing pain in chronic pancreatitis, building on the source paper's discussion of endoscopic treatments for chronic pancreatitis.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2009,
+        "source_paper": {
+            "paperId": "6d300585902d2da2e4e3f48845a7f4bfbabe7637",
+            "title": "Endoscopic treatment of chronic pancreatitis.",
+            "abstract": "Treatment of chronic pancreatitis has been exclusively surgical for a long time. Recently, endoscopic therapy has become widely used as a primary therapeutic option. Initially performed for drainage of pancreatic cysts and pseudocysts, endoscopic treatments were adapted to biliary and pancreatic ducts stenosis. Pancreatic sphincterotomy which allows access to pancreatic ducts was firstly reported. Secondly, endoscopic methods of stenting, dilatation, and stones extraction of the bile ducts were applied to pancreatic ducts. Nevertheless, new improvements were necessary: failures of pancreatic stone extraction justified the development of extra-corporeal shock wave lithotripsy; dilatation of pancreatic stenosis was improved by forage with a new device; moreover endosonography allowed guidance for celiac block, gastro-cystostomy, duodeno-cystostomy and pancreatico-gastrostomy. Although endoscopic treatments are more and more frequently accepted, indications are still debated.",
+            "year": 2007,
+            "citation_count": 65,
+            "relevance": 1,
+            "explanation": "This paper discusses the development of endoscopic therapy for chronic pancreatitis, which is related to the source paper's topic of endoscopic versus surgical drainage of the pancreatic duct in chronic pancreatitis. However, it does not directly build upon or depend on the source paper's findings."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1.Application of per oral cholangiopancreatoscopy in pancreatobiliary diseases": {
+                    "explanation": "The key hypothesis in this paper is inspired by the findings of the source paper, as it explores a new technique (per oral cholangiopancreatoscopy) for diagnosing and treating pancreatobiliary diseases, building on the source paper's discussion of endoscopic treatments for chronic pancreatitis.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1.Application of per oral cholangiopancreatoscopy in pancreatobiliary diseases": {
+                    "explanation": "The key hypothesis in this paper is inspired by the findings of the source paper, as it explores a new technique (per oral cholangiopancreatoscopy) for diagnosing and treating pancreatobiliary diseases, building on the source paper's discussion of endoscopic treatments for chronic pancreatitis.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2012,
+        "source_paper": {
+            "paperId": "d32ae56120cbc75e0a50eeba6ea5aaef2ace3123",
+            "title": "Application of per oral cholangiopancreatoscopy in pancreatobiliary diseases",
+            "abstract": "Pancreaticobiliary ductal diseases are largely investigated by indirect imaging techniques. Therefore, the pathology of up to 30% of cases remains undetermined. Cholangiopancreatoscopy allows direct visualization of ductal abnormalities with the ability to sample tissue and deliver a number of endotherapies. The technique can be broadly categorized into either two\u2010operator or single\u2010operator systems. Both systems provide important diagnostic information in the investigation of undetermined biliary or pancreatic strictures, intraductal papillary mucinous neoplasia, occult ductal malignant changes in patients with primary sclerosing cholangitis and occult intraductal stones in patients with complex biliary stone diseases. Therapeutically, cholangiopancreatoscopy\u2010guided endotherapies provide a highly effective and safe alternative to surgery for patients with difficult extrahepatic and intrahepatic ductal stones that are not amenable to conventional endoscopic extraction by endoscopic retrograde cholangiopancreatography. The clinical application of cholangiopancreatoscopy, however, will be limited unless the technology is further refined to improve its durability, image quality, therapeutic capability and technical feasibility.",
+            "year": 2009,
+            "citation_count": 8,
+            "relevance": 1,
+            "explanation": "The key hypothesis in this paper is inspired by the findings of the source paper, as it explores a new technique (per oral cholangiopancreatoscopy) for diagnosing and treating pancreatobiliary diseases, building on the source paper's discussion of endoscopic treatments for chronic pancreatitis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1.Getting most out of SpyGlass cholangio\u2010pancreatoscopy: How and when?": {
+                    "explanation": "This paper appears to be a review or a summary of the SpyGlass cholangio-pancreatoscopy technique, likely referencing the source paper's findings on the application of per oral cholangiopancreatoscopy. However, without more information, it's unclear if it's a direct review or if it presents new findings inspired by the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2012,
+        "source_paper": {
+            "paperId": "d32ae56120cbc75e0a50eeba6ea5aaef2ace3123",
+            "title": "Application of per oral cholangiopancreatoscopy in pancreatobiliary diseases",
+            "abstract": "Pancreaticobiliary ductal diseases are largely investigated by indirect imaging techniques. Therefore, the pathology of up to 30% of cases remains undetermined. Cholangiopancreatoscopy allows direct visualization of ductal abnormalities with the ability to sample tissue and deliver a number of endotherapies. The technique can be broadly categorized into either two\u2010operator or single\u2010operator systems. Both systems provide important diagnostic information in the investigation of undetermined biliary or pancreatic strictures, intraductal papillary mucinous neoplasia, occult ductal malignant changes in patients with primary sclerosing cholangitis and occult intraductal stones in patients with complex biliary stone diseases. Therapeutically, cholangiopancreatoscopy\u2010guided endotherapies provide a highly effective and safe alternative to surgery for patients with difficult extrahepatic and intrahepatic ductal stones that are not amenable to conventional endoscopic extraction by endoscopic retrograde cholangiopancreatography. The clinical application of cholangiopancreatoscopy, however, will be limited unless the technology is further refined to improve its durability, image quality, therapeutic capability and technical feasibility.",
+            "year": 2009,
+            "citation_count": 8,
+            "relevance": 1,
+            "explanation": "The key hypothesis in this paper is inspired by the findings of the source paper, as it explores a new technique (per oral cholangiopancreatoscopy) for diagnosing and treating pancreatobiliary diseases, building on the source paper's discussion of endoscopic treatments for chronic pancreatitis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Getting most out of SpyGlass cholangio\u2010pancreatoscopy: How and when?": {
+                    "explanation": "This paper appears to be a review or a guide on how to use SpyGlass cholangio-pancreatoscopy, and it does not seem to present any novel hypotheses or findings that are directly related to the source paper. However, the title suggests a connection to cholangiopancreatoscopy, which is the main topic of the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    }
+]

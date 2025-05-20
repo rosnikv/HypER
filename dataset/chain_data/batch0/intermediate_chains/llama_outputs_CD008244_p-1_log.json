@@ -1,0 +1,764 @@
+[
+    {
+        "year": 2011,
+        "source_paper": {
+            "paperId": "7646461a2d5b6f7fcbd1b82c1055ce34cac18858",
+            "pmid": "20496365",
+            "title": "Efficacy and safety of milnacipran 100 mg/day in patients with fibromyalgia: results of a randomized, double-blind, placebo-controlled trial.",
+            "abstract": "OBJECTIVE\nTo assess the efficacy and safety of milnacipran at a dosage of 100 mg/day (50 mg twice daily) for monotherapy treatment of fibromyalgia.\n\n\nMETHODS\nA double-blind, placebo-controlled trial was performed to assess 1,025 patients with fibromyalgia who were randomized to receive milnacipran 100 mg/day (n = 516) or placebo (n = 509). Patients underwent 4-6 weeks of flexible dose escalation followed by 12 weeks of stable-dose treatment. Two composite responder definitions were used as primary end points to classify the response to treatment. The 2-measure composite response required achievement of \u226530% improvement from baseline in the pain score and a rating of \"very much improved\" or \"much improved\" on the Patient's Global Impression of Change (PGIC) scale. The 3-measure composite response required satisfaction of these same 2 improvement criteria for pain and global status as well as improvement in physical function on the Short Form 36 (SF-36) physical component summary (PCS) score.\n\n\nRESULTS\nAfter 12 weeks of stable-dose treatment, a significantly greater proportion of milnacipran-treated patients compared with placebo-treated patients showed clinically meaningful improvements, as evidenced by the proportion of patients meeting the 2-measure composite responder criteria (P < 0.001 in the baseline observation carried forward [BOCF] analysis) and 3-measure composite responder criteria (P < 0.001 in the BOCF). Milnacipran-treated patients also demonstrated significantly greater improvements from baseline on multiple secondary outcomes, including 24-hour and weekly recall pain score, PGIC score, SF-36 PCS and mental component summary scores, average pain severity score on the Brief Pain Inventory, Fibromyalgia Impact Questionnaire total score (all P < 0.001 versus placebo), and Multidimensional Fatigue Inventory total score (P = 0.036 versus placebo). Milnacipran was well tolerated by most patients, with nausea being the most commonly reported adverse event (placebo-adjusted rate of 15.8%).\n\n\nCONCLUSION\nMilnacipran administered at a dosage of 100 mg/day improved pain, global status, fatigue, and physical and mental function in patients with fibromyalgia.",
+            "year": 2010,
+            "citation_count": 85
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Brain imaging in fibromyalgia syndrome": {
+                    "explanation": "This paper explores the neural mechanisms underlying fibromyalgia, which is the same condition investigated in the source paper. However, it does not directly build upon or use the findings of the source paper, so it is not partially dependent on the source paper.",
+                    "relevance": 1
+                },
+                "2. Measures of fibromyalgia: Fibromyalgia Impact Questionnaire (FIQ), Brief Pain Inventory (BPI), Multidimensional Fatigue Inventory (MFI\u201020), Medical Outcomes Study (MOS) Sleep Scale, and Multiple Ability Self\u2010Report Questionnaire (MASQ)": {
+                    "explanation": "This paper reviews various measures used to assess fibromyalgia, including some that were used in the source paper. However, it is a review paper and does not present new findings or hypotheses that are dependent on the source paper.",
+                    "relevance": 0
+                },
+                "3. Toward Development of a Fibromyalgia Responder Index and Disease Activity Score: OMERACT Module Update": {
+                    "explanation": "This paper discusses the development of a responder index and disease activity score for fibromyalgia, which is related to the source paper's investigation of milnacipran's efficacy in treating fibromyalgia. However, it does not directly build upon or use the findings of the source paper.",
+                    "relevance": 1
+                },
+                "4. Comparative efficacy and acceptability of amitriptyline, duloxetine and milnacipran in fibromyalgia syndrome: a systematic review with meta-analysis": {
+                    "explanation": "This paper compares the efficacy and acceptability of different treatments for fibromyalgia, including milnacipran, which was investigated in the source paper. The findings of the source paper are likely to be included in this meta-analysis, making the hypothesis of this paper partially dependent on the source paper.",
+                    "relevance": 2
+                },
+                "5. 10 Sessions of Adjunctive Left Prefrontal rTMS Significantly Reduces Fibromyalgia Pain : A Randomized, Controlled, Pilot Study": {
+                    "explanation": "This paper investigates a new treatment for fibromyalgia, which is the same condition investigated in the source paper. However, it does not directly build upon or use the findings of the source paper, so it is not partially dependent on the source paper.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Comparative efficacy and acceptability of amitriptyline, duloxetine and milnacipran in fibromyalgia syndrome: a systematic review with meta-analysis": {
+                    "explanation": "This paper compares the efficacy and acceptability of different treatments for fibromyalgia, including milnacipran, which was investigated in the source paper. The findings of the source paper are likely to be included in this meta-analysis, making the hypothesis of this paper partially dependent on the source paper.",
+                    "relevance": 2
+                },
+                "2. Brain imaging in fibromyalgia syndrome": {
+                    "explanation": "This paper explores the neural mechanisms underlying fibromyalgia, which is the same condition investigated in the source paper. However, it does not directly build upon or use the findings of the source paper, so it is not partially dependent on the source paper.",
+                    "relevance": 1
+                },
+                "3. Toward Development of a Fibromyalgia Responder Index and Disease Activity Score: OMERACT Module Update": {
+                    "explanation": "This paper discusses the development of a responder index and disease activity score for fibromyalgia, which is related to the source paper's investigation of milnacipran's efficacy in treating fibromyalgia. However, it does not directly build upon or use the findings of the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2012,
+        "source_paper": {
+            "paperId": "7646461a2d5b6f7fcbd1b82c1055ce34cac18858",
+            "pmid": "20496365",
+            "title": "Efficacy and safety of milnacipran 100 mg/day in patients with fibromyalgia: results of a randomized, double-blind, placebo-controlled trial.",
+            "abstract": "OBJECTIVE\nTo assess the efficacy and safety of milnacipran at a dosage of 100 mg/day (50 mg twice daily) for monotherapy treatment of fibromyalgia.\n\n\nMETHODS\nA double-blind, placebo-controlled trial was performed to assess 1,025 patients with fibromyalgia who were randomized to receive milnacipran 100 mg/day (n = 516) or placebo (n = 509). Patients underwent 4-6 weeks of flexible dose escalation followed by 12 weeks of stable-dose treatment. Two composite responder definitions were used as primary end points to classify the response to treatment. The 2-measure composite response required achievement of \u226530% improvement from baseline in the pain score and a rating of \"very much improved\" or \"much improved\" on the Patient's Global Impression of Change (PGIC) scale. The 3-measure composite response required satisfaction of these same 2 improvement criteria for pain and global status as well as improvement in physical function on the Short Form 36 (SF-36) physical component summary (PCS) score.\n\n\nRESULTS\nAfter 12 weeks of stable-dose treatment, a significantly greater proportion of milnacipran-treated patients compared with placebo-treated patients showed clinically meaningful improvements, as evidenced by the proportion of patients meeting the 2-measure composite responder criteria (P < 0.001 in the baseline observation carried forward [BOCF] analysis) and 3-measure composite responder criteria (P < 0.001 in the BOCF). Milnacipran-treated patients also demonstrated significantly greater improvements from baseline on multiple secondary outcomes, including 24-hour and weekly recall pain score, PGIC score, SF-36 PCS and mental component summary scores, average pain severity score on the Brief Pain Inventory, Fibromyalgia Impact Questionnaire total score (all P < 0.001 versus placebo), and Multidimensional Fatigue Inventory total score (P = 0.036 versus placebo). Milnacipran was well tolerated by most patients, with nausea being the most commonly reported adverse event (placebo-adjusted rate of 15.8%).\n\n\nCONCLUSION\nMilnacipran administered at a dosage of 100 mg/day improved pain, global status, fatigue, and physical and mental function in patients with fibromyalgia.",
+            "year": 2010,
+            "citation_count": 85
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Placebo and nocebo responses in randomised controlled trials of drugs applying for approval for fibromyalgia syndrome treatment: systematic review and meta-analysis": {
+                    "explanation": "This paper is not directly connected to the source paper as it is a review of various studies, including those on milnacipran. It explores the placebo and nocebo responses in fibromyalgia trials but does not specifically build upon the findings of the source paper.",
+                    "relevance": 0
+                },
+                "2. Effect of milnacipran on body weight in patients with fibromyalgia": {
+                    "explanation": "This paper explores the effects of milnacipran on body weight in patients with fibromyalgia, building upon the findings of the source paper regarding the efficacy and safety of milnacipran for fibromyalgia treatment.",
+                    "relevance": 1
+                },
+                "3. Imputing Productivity Gains From Clinical Trials": {
+                    "explanation": "This paper discusses the methodology for imputing productivity gains from clinical trials and does not specifically build upon the findings of the source paper. It is a general discussion of clinical trials and productivity measures.",
+                    "relevance": 0
+                },
+                "4. Safety and efficacy of esreboxetine in patients with fibromyalgia: a fourteen-week, randomized, double-blind, placebo-controlled, multicenter clinical trial": {
+                    "explanation": "This paper explores the efficacy and safety of esreboxetine, a different medication, for fibromyalgia treatment. It does not directly build upon the findings of the source paper, which focused on milnacipran.",
+                    "relevance": 0
+                },
+                "5. Short-term (2-week) effects of discontinuing milnacipran in patients with fibromyalgia": {
+                    "explanation": "This paper investigates the short-term effects of discontinuing milnacipran in patients with fibromyalgia. It builds upon the findings of the source paper, which established the efficacy and safety of milnacipran, by examining the consequences of treatment discontinuation.",
+                    "relevance": 2
+                },
+                "6. Development of responder definitions for fibromyalgia clinical trials": {
+                    "explanation": "This paper discusses the development of responder definitions for fibromyalgia clinical trials. While it is related to fibromyalgia, it does not specifically build upon the findings of the source paper, which focused on the efficacy and safety of milnacipran.",
+                    "relevance": 0
+                },
+                "7. MILNACIPRAN FOR NEUROPATHIC PAIN AND FIBROMYALGIA IN ADULTS": {
+                    "explanation": "This paper is a review of milnacipran for neuropathic pain and fibromyalgia in adults. It includes a discussion of the source paper's findings but also provides a broader overview of milnacipran's efficacy and safety in these conditions.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Short-term (2-week) effects of discontinuing milnacipran in patients with fibromyalgia": {
+                    "explanation": "This paper investigates the short-term effects of discontinuing milnacipran in patients with fibromyalgia. It builds upon the findings of the source paper, which established the efficacy and safety of milnacipran, by examining the consequences of treatment discontinuation.",
+                    "relevance": 2
+                },
+                "2. Effect of milnacipran on body weight in patients with fibromyalgia": {
+                    "explanation": "This paper explores the effects of milnacipran on body weight in patients with fibromyalgia, building upon the findings of the source paper regarding the efficacy and safety of milnacipran for fibromyalgia treatment.",
+                    "relevance": 1
+                },
+                "3. MILNACIPRAN FOR NEUROPATHIC PAIN AND FIBROMYALGIA IN ADULTS": {
+                    "explanation": "This paper is a review of milnacipran for neuropathic pain and fibromyalgia in adults. It includes a discussion of the source paper's findings but also provides a broader overview of milnacipran's efficacy and safety in these conditions.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2012,
+        "source_paper": {
+            "paperId": "b7c4166714d68051f40c10ffd32ad6891514c202",
+            "title": "Comparative efficacy and acceptability of amitriptyline, duloxetine and milnacipran in fibromyalgia syndrome: a systematic review with meta-analysis.",
+            "abstract": "OBJECTIVES\nTo evaluate and compare the efficacy and acceptability of the antidepressants amitriptyline (AMT), duloxetine (DLX) and milnacipran (MLN) for FM syndrome (FMS).\n\n\nMETHODS\nCochrane Library, MEDLINE, SCOPUS, www.clinicalstudyresults.org and www.clinicalTrials.gov were searched for randomized pharmacological placebo-controlled trials until 30 May 2010. Outcomes of interest were symptom reduction [pain, fatigue, sleep disturbance and reduced health-related quality of life (HRQOL)] and acceptability (total drop-out rates). We performed a meta-analysis of each drug vs placebo using a random-effects model and adjusted indirect analyses of the three drugs. Methodological quality was assessed by the Cochrane risk of bias tool.\n\n\nRESULTS\nTen AMT studies (612 patients), four DLX studies (1411 patients) and five MLN studies (4129 patients) met the inclusion criteria. The reported methodological quality of most AMT trials was poor, that of DLX and MLN were high. The three drugs were superior to placebo except DLX for fatigue, MLN for sleep disturbance and AMT for HRQOL. The significant effects of AMT and DLX were small and those of MLN not substantial. In adjusted indirect comparisons, AMT was superior to DLX and MLN in reduction of pain, sleep disturbances, fatigue and limitations of HRQOL. DLX was superior to MLN in reducing pain, sleep disturbances and limitations of HRQOL. MLN was superior to DLX in reducing fatigue. There were no significant differences in acceptability of the three drugs.\n\n\nCONCLUSIONS\nAMT cannot be regarded as the gold standard of FMS therapy with antidepressants because of the methodological limitations of its trials.",
+            "year": 2011,
+            "citation_count": 118,
+            "relevance": 2,
+            "explanation": "This paper compares the efficacy and acceptability of different treatments for fibromyalgia, including milnacipran, which was investigated in the source paper. The findings of the source paper are likely to be included in this meta-analysis, making the hypothesis of this paper partially dependent on the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Adverse Events Attributable to Nocebo in Randomized Controlled Drug Trials in Fibromyalgia Syndrome and Painful Diabetic Peripheral Neuropathy: Systematic Review": {
+                    "explanation": "This paper is a systematic review and does not directly build upon the source paper's findings, so it has no connection to the source paper.",
+                    "relevance": 0
+                },
+                "2. Prevalence, clinical features and potential therapies for fibromyalgia in primary headaches": {
+                    "explanation": "The paper discusses fibromyalgia, which is the main topic of the source paper, but it does not directly build upon the source paper's findings or use them as a sub-hypothesis.",
+                    "relevance": 0
+                },
+                "3. MILNACIPRAN FOR NEUROPATHIC PAIN AND FIBROMYALGIA IN ADULTS": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it evaluates the efficacy of milnacipran, one of the antidepressants compared in the source paper.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. MILNACIPRAN FOR NEUROPATHIC PAIN AND FIBROMYALGIA IN ADULTS": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it evaluates the efficacy of milnacipran, one of the antidepressants compared in the source paper.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2013,
+        "source_paper": {
+            "paperId": "b7c4166714d68051f40c10ffd32ad6891514c202",
+            "title": "Comparative efficacy and acceptability of amitriptyline, duloxetine and milnacipran in fibromyalgia syndrome: a systematic review with meta-analysis.",
+            "abstract": "OBJECTIVES\nTo evaluate and compare the efficacy and acceptability of the antidepressants amitriptyline (AMT), duloxetine (DLX) and milnacipran (MLN) for FM syndrome (FMS).\n\n\nMETHODS\nCochrane Library, MEDLINE, SCOPUS, www.clinicalstudyresults.org and www.clinicalTrials.gov were searched for randomized pharmacological placebo-controlled trials until 30 May 2010. Outcomes of interest were symptom reduction [pain, fatigue, sleep disturbance and reduced health-related quality of life (HRQOL)] and acceptability (total drop-out rates). We performed a meta-analysis of each drug vs placebo using a random-effects model and adjusted indirect analyses of the three drugs. Methodological quality was assessed by the Cochrane risk of bias tool.\n\n\nRESULTS\nTen AMT studies (612 patients), four DLX studies (1411 patients) and five MLN studies (4129 patients) met the inclusion criteria. The reported methodological quality of most AMT trials was poor, that of DLX and MLN were high. The three drugs were superior to placebo except DLX for fatigue, MLN for sleep disturbance and AMT for HRQOL. The significant effects of AMT and DLX were small and those of MLN not substantial. In adjusted indirect comparisons, AMT was superior to DLX and MLN in reduction of pain, sleep disturbances, fatigue and limitations of HRQOL. DLX was superior to MLN in reducing pain, sleep disturbances and limitations of HRQOL. MLN was superior to DLX in reducing fatigue. There were no significant differences in acceptability of the three drugs.\n\n\nCONCLUSIONS\nAMT cannot be regarded as the gold standard of FMS therapy with antidepressants because of the methodological limitations of its trials.",
+            "year": 2011,
+            "citation_count": 118,
+            "relevance": 2,
+            "explanation": "This paper compares the efficacy and acceptability of different treatments for fibromyalgia, including milnacipran, which was investigated in the source paper. The findings of the source paper are likely to be included in this meta-analysis, making the hypothesis of this paper partially dependent on the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Management of fibromyalgia: Current pharmacologic therapies & recommendations for therapeutic optimisation": {
+                    "explanation": "This paper is a review of current pharmacologic therapies for fibromyalgia, including antidepressants like amitriptyline, duloxetine, and milnacipran, which were compared in the source paper. However, it does not directly build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "2. Quality of Life in Patients with Fibromyalgia": {
+                    "explanation": "This paper is a review of the quality of life in patients with fibromyalgia, which is related to the topic of the source paper. However, it does not directly build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "3. Longitudinal patterns of analgesic and central acting drug use and associated effectiveness in fibromyalgia": {
+                    "explanation": "This paper investigates the effectiveness of central acting drugs, including duloxetine and milnacipran, in fibromyalgia patients. The source paper compared the efficacy and acceptability of duloxetine and milnacipran, among other drugs, making this paper partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                },
+                "4. Serotonin and noradrenaline reuptake inhibitors (SNRIs) for fibromyalgia syndrome": {
+                    "explanation": "This paper assesses the benefits and harms of serotonin and noradrenaline reuptake inhibitors (SNRIs), including duloxetine and milnacipran, for treating fibromyalgia syndrome. The source paper compared the efficacy and acceptability of duloxetine and milnacipran, among other drugs, making this paper partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Longitudinal patterns of analgesic and central acting drug use and associated effectiveness in fibromyalgia": {
+                    "explanation": "This paper investigates the effectiveness of central acting drugs, including duloxetine and milnacipran, in fibromyalgia patients. The source paper compared the efficacy and acceptability of duloxetine and milnacipran, among other drugs, making this paper partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                },
+                "2. Serotonin and noradrenaline reuptake inhibitors (SNRIs) for fibromyalgia syndrome": {
+                    "explanation": "This paper assesses the benefits and harms of serotonin and noradrenaline reuptake inhibitors (SNRIs), including duloxetine and milnacipran, for treating fibromyalgia syndrome. The source paper compared the efficacy and acceptability of duloxetine and milnacipran, among other drugs, making this paper partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                },
+                "3. Management of fibromyalgia: Current pharmacologic therapies & recommendations for therapeutic optimisation": {
+                    "explanation": "This paper is a review of current pharmacologic therapies for fibromyalgia, including antidepressants like amitriptyline, duloxetine, and milnacipran, which were compared in the source paper. However, it does not directly build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2013,
+        "source_paper": {
+            "paperId": "5c5db993c144c08c1e91d3b15022809b32ed9fe4",
+            "title": "MILNACIPRAN FOR NEUROPATHIC PAIN AND FIBROMYALGIA IN ADULTS",
+            "abstract": "BACKGROUND\nMilnacipran is a serotonin-norepinephrine reuptake inhibitor (SNRI) that is sometimes used to treat chronic neuropathic pain and fibromyalgia.\n\n\nOBJECTIVES\nTo evaluate the analgesic efficacy and adverse effects of milnacipran in the management of chronic neuropathic pain or fibromyalgia.\n\n\nSEARCH METHODS\nWe searched CENTRAL, MEDLINE, and EMBASE to 4th of January 2012, together with reference lists of retrieved papers and reviews.\n\n\nSELECTION CRITERIA\nWe included randomised, double-blind studies of eight weeks duration or longer, comparing milnacipran with placebo or another active treatment in chronic neuropathic pain or fibromyalgia.\n\n\nDATA COLLECTION AND ANALYSIS\nWe extracted efficacy and adverse event data, and two study authors examined issues of study quality independently.\n\n\nMAIN RESULTS\nFive studies (4138 participants) were included, all of which were placebo-controlled, involved participants with fibromyalgia, and used titration to a target dose of 100 mg or 200 mg milnacipran. There were no other active comparators or studies in other neuropathic pain conditions. Study quality was generally good, although the imputation method used in analyses of the primary outcomes could overestimate treatment effect.Both doses of milnacipran provided moderate levels of pain relief to about 40% of those treated, compared to 30% with placebo, giving a number needed to treat of 8 to 10. Adverse events were common in both milnacipran (87%) and placebo (78%) groups, but serious adverse events (< 2%) did not differ between groups. Nausea and constipation were the most common events showing the greatest difference between groups (number needed to treat for an additional harmful outcome of 7 and 13 respectively, compared with placebo).Withdrawals for any reason were more common with milnacipran than placebo, and more common with 200 mg than 100 mg (NNH of 23 and 8.8 respectively, compared with placebo). This was largely driven by adverse event withdrawals, where the NNH compared with placebo was 14 for 100 mg, and 7.0 for 200 mg). Withdrawals due to lack of efficacy were more common with milnacipran than placebo but did not differ between doses (number needed to treat to prevent an additional unwanted outcome of 45 and 41 respectively).\n\n\nAUTHORS' CONCLUSIONS\nThe evidence available indicates that milnacipran 100 mg or 200 mg is effective for a minority in the treatment of pain due to fibromyalgia, providing moderate levels of pain relief (at least 30%) to about 40% of participants, compared with about 30% with placebo. There were insufficient data to assess substantial levels of pain relief (at least 50%), and the use of last observation carried forward imputation may overestimate drug efficacy. Milnacipran is associated with increased adverse events and adverse event withdrawals, which were significantly greater for the higher dose. There were no data for the use of milnacipran for other chronic neuropathic pain conditions.",
+            "year": 2012,
+            "citation_count": 67,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it evaluates the efficacy of milnacipran, one of the antidepressants compared in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Neuropathic pain: treatment guidelines and updates": {
+                    "explanation": "This paper is a review of neuropathic pain treatment guidelines and updates. While it does not directly build on the source paper, it mentions the lack of class I evidence for the treatment of numerous neuropathic pain conditions, which could include fibromyalgia. However, the paper does not specifically mention milnacipran or its use in treating neuropathic pain or fibromyalgia, and it does not appear to be directly connected to the source paper.",
+                    "relevance": 0
+                },
+                "2. Pharmacological Acute Migraine Treatment Strategies: Choosing the Right Drug for a Specific Patient": {
+                    "explanation": "This paper discusses pharmacological acute migraine treatment strategies and does not appear to be directly connected to the source paper, which focuses on milnacipran for neuropathic pain and fibromyalgia.",
+                    "relevance": 0
+                },
+                "3. Supraspinal Projection of Serotonergic and Noradrenergic Pathways Modulates Nociceptive Transmission in the Lower Urinary Tract of Rats": {
+                    "explanation": "This paper investigates the effect of descending serotonergic and noradrenergic pathways on nociception in the lower urinary tract of rats. While it mentions serotonergic and noradrenergic pathways, which are also involved in the mechanism of action of milnacipran, the paper does not appear to be directly connected to the source paper, which focuses on the use of milnacipran in treating neuropathic pain and fibromyalgia in adults.",
+                    "relevance": 0
+                },
+                "4. Topical Review Examining the evidence of psychological treatments for chronic pain: time for a paradigm": {
+                    "explanation": "This paper is a review of psychological treatments for chronic pain and does not appear to be directly connected to the source paper, which focuses on the use of milnacipran in treating neuropathic pain and fibromyalgia.",
+                    "relevance": 0
+                },
+                "5. Examining the evidence of psychological treatments for chronic pain : time for a paradigm shift?": {
+                    "explanation": "This paper is a duplicate of paper 4 and is also a review of psychological treatments for chronic pain. It does not appear to be directly connected to the source paper, which focuses on the use of milnacipran in treating neuropathic pain and fibromyalgia.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2014,
+        "source_paper": {
+            "paperId": "5c5db993c144c08c1e91d3b15022809b32ed9fe4",
+            "title": "MILNACIPRAN FOR NEUROPATHIC PAIN AND FIBROMYALGIA IN ADULTS",
+            "abstract": "BACKGROUND\nMilnacipran is a serotonin-norepinephrine reuptake inhibitor (SNRI) that is sometimes used to treat chronic neuropathic pain and fibromyalgia.\n\n\nOBJECTIVES\nTo evaluate the analgesic efficacy and adverse effects of milnacipran in the management of chronic neuropathic pain or fibromyalgia.\n\n\nSEARCH METHODS\nWe searched CENTRAL, MEDLINE, and EMBASE to 4th of January 2012, together with reference lists of retrieved papers and reviews.\n\n\nSELECTION CRITERIA\nWe included randomised, double-blind studies of eight weeks duration or longer, comparing milnacipran with placebo or another active treatment in chronic neuropathic pain or fibromyalgia.\n\n\nDATA COLLECTION AND ANALYSIS\nWe extracted efficacy and adverse event data, and two study authors examined issues of study quality independently.\n\n\nMAIN RESULTS\nFive studies (4138 participants) were included, all of which were placebo-controlled, involved participants with fibromyalgia, and used titration to a target dose of 100 mg or 200 mg milnacipran. There were no other active comparators or studies in other neuropathic pain conditions. Study quality was generally good, although the imputation method used in analyses of the primary outcomes could overestimate treatment effect.Both doses of milnacipran provided moderate levels of pain relief to about 40% of those treated, compared to 30% with placebo, giving a number needed to treat of 8 to 10. Adverse events were common in both milnacipran (87%) and placebo (78%) groups, but serious adverse events (< 2%) did not differ between groups. Nausea and constipation were the most common events showing the greatest difference between groups (number needed to treat for an additional harmful outcome of 7 and 13 respectively, compared with placebo).Withdrawals for any reason were more common with milnacipran than placebo, and more common with 200 mg than 100 mg (NNH of 23 and 8.8 respectively, compared with placebo). This was largely driven by adverse event withdrawals, where the NNH compared with placebo was 14 for 100 mg, and 7.0 for 200 mg). Withdrawals due to lack of efficacy were more common with milnacipran than placebo but did not differ between doses (number needed to treat to prevent an additional unwanted outcome of 45 and 41 respectively).\n\n\nAUTHORS' CONCLUSIONS\nThe evidence available indicates that milnacipran 100 mg or 200 mg is effective for a minority in the treatment of pain due to fibromyalgia, providing moderate levels of pain relief (at least 30%) to about 40% of participants, compared with about 30% with placebo. There were insufficient data to assess substantial levels of pain relief (at least 50%), and the use of last observation carried forward imputation may overestimate drug efficacy. Milnacipran is associated with increased adverse events and adverse event withdrawals, which were significantly greater for the higher dose. There were no data for the use of milnacipran for other chronic neuropathic pain conditions.",
+            "year": 2012,
+            "citation_count": 67,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it evaluates the efficacy of milnacipran, one of the antidepressants compared in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Recent advances in the pharmacological management of acute and chronic pain": {
+                    "explanation": "This paper is a review of recent advances in pain management, including the use of antidepressants like milnacipran for fibromyalgia. However, it does not build upon the source paper's findings or use them as a sub-hypothesis. Instead, it provides a general overview of the field.",
+                    "relevance": 0
+                },
+                "2. Sumatriptan iontophoretic transdermal system for the acute treatment of migraine": {
+                    "explanation": "This paper discusses a specific treatment for migraine, which is unrelated to the source paper's focus on milnacipran for neuropathic pain and fibromyalgia. There is no connection between the two papers.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2014,
+        "source_paper": {
+            "paperId": "5c5db993c144c08c1e91d3b15022809b32ed9fe4",
+            "title": "MILNACIPRAN FOR NEUROPATHIC PAIN AND FIBROMYALGIA IN ADULTS",
+            "abstract": "BACKGROUND\nMilnacipran is a serotonin-norepinephrine reuptake inhibitor (SNRI) that is sometimes used to treat chronic neuropathic pain and fibromyalgia.\n\n\nOBJECTIVES\nTo evaluate the analgesic efficacy and adverse effects of milnacipran in the management of chronic neuropathic pain or fibromyalgia.\n\n\nSEARCH METHODS\nWe searched CENTRAL, MEDLINE, and EMBASE to 4th of January 2012, together with reference lists of retrieved papers and reviews.\n\n\nSELECTION CRITERIA\nWe included randomised, double-blind studies of eight weeks duration or longer, comparing milnacipran with placebo or another active treatment in chronic neuropathic pain or fibromyalgia.\n\n\nDATA COLLECTION AND ANALYSIS\nWe extracted efficacy and adverse event data, and two study authors examined issues of study quality independently.\n\n\nMAIN RESULTS\nFive studies (4138 participants) were included, all of which were placebo-controlled, involved participants with fibromyalgia, and used titration to a target dose of 100 mg or 200 mg milnacipran. There were no other active comparators or studies in other neuropathic pain conditions. Study quality was generally good, although the imputation method used in analyses of the primary outcomes could overestimate treatment effect.Both doses of milnacipran provided moderate levels of pain relief to about 40% of those treated, compared to 30% with placebo, giving a number needed to treat of 8 to 10. Adverse events were common in both milnacipran (87%) and placebo (78%) groups, but serious adverse events (< 2%) did not differ between groups. Nausea and constipation were the most common events showing the greatest difference between groups (number needed to treat for an additional harmful outcome of 7 and 13 respectively, compared with placebo).Withdrawals for any reason were more common with milnacipran than placebo, and more common with 200 mg than 100 mg (NNH of 23 and 8.8 respectively, compared with placebo). This was largely driven by adverse event withdrawals, where the NNH compared with placebo was 14 for 100 mg, and 7.0 for 200 mg). Withdrawals due to lack of efficacy were more common with milnacipran than placebo but did not differ between doses (number needed to treat to prevent an additional unwanted outcome of 45 and 41 respectively).\n\n\nAUTHORS' CONCLUSIONS\nThe evidence available indicates that milnacipran 100 mg or 200 mg is effective for a minority in the treatment of pain due to fibromyalgia, providing moderate levels of pain relief (at least 30%) to about 40% of participants, compared with about 30% with placebo. There were insufficient data to assess substantial levels of pain relief (at least 50%), and the use of last observation carried forward imputation may overestimate drug efficacy. Milnacipran is associated with increased adverse events and adverse event withdrawals, which were significantly greater for the higher dose. There were no data for the use of milnacipran for other chronic neuropathic pain conditions.",
+            "year": 2012,
+            "citation_count": 67,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it evaluates the efficacy of milnacipran, one of the antidepressants compared in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Recent advances in the pharmacological management of acute and chronic pain": {
+                    "explanation": "This paper is a review of recent advances in pain management and does not directly build upon the source paper. The source paper is a specific study on the efficacy of milnacipran for neuropathic pain and fibromyalgia, whereas this paper is a broader review of various medications and treatments for pain management.",
+                    "relevance": 0
+                },
+                "2. Sumatriptan iontophoretic transdermal system for the acute treatment of migraine": {
+                    "explanation": "This paper discusses a specific treatment for migraine and does not appear to be related to the source paper, which focuses on milnacipran for neuropathic pain and fibromyalgia. There is no clear connection between the two papers.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2015,
+        "source_paper": {
+            "paperId": "5c5db993c144c08c1e91d3b15022809b32ed9fe4",
+            "title": "MILNACIPRAN FOR NEUROPATHIC PAIN AND FIBROMYALGIA IN ADULTS",
+            "abstract": "BACKGROUND\nMilnacipran is a serotonin-norepinephrine reuptake inhibitor (SNRI) that is sometimes used to treat chronic neuropathic pain and fibromyalgia.\n\n\nOBJECTIVES\nTo evaluate the analgesic efficacy and adverse effects of milnacipran in the management of chronic neuropathic pain or fibromyalgia.\n\n\nSEARCH METHODS\nWe searched CENTRAL, MEDLINE, and EMBASE to 4th of January 2012, together with reference lists of retrieved papers and reviews.\n\n\nSELECTION CRITERIA\nWe included randomised, double-blind studies of eight weeks duration or longer, comparing milnacipran with placebo or another active treatment in chronic neuropathic pain or fibromyalgia.\n\n\nDATA COLLECTION AND ANALYSIS\nWe extracted efficacy and adverse event data, and two study authors examined issues of study quality independently.\n\n\nMAIN RESULTS\nFive studies (4138 participants) were included, all of which were placebo-controlled, involved participants with fibromyalgia, and used titration to a target dose of 100 mg or 200 mg milnacipran. There were no other active comparators or studies in other neuropathic pain conditions. Study quality was generally good, although the imputation method used in analyses of the primary outcomes could overestimate treatment effect.Both doses of milnacipran provided moderate levels of pain relief to about 40% of those treated, compared to 30% with placebo, giving a number needed to treat of 8 to 10. Adverse events were common in both milnacipran (87%) and placebo (78%) groups, but serious adverse events (< 2%) did not differ between groups. Nausea and constipation were the most common events showing the greatest difference between groups (number needed to treat for an additional harmful outcome of 7 and 13 respectively, compared with placebo).Withdrawals for any reason were more common with milnacipran than placebo, and more common with 200 mg than 100 mg (NNH of 23 and 8.8 respectively, compared with placebo). This was largely driven by adverse event withdrawals, where the NNH compared with placebo was 14 for 100 mg, and 7.0 for 200 mg). Withdrawals due to lack of efficacy were more common with milnacipran than placebo but did not differ between doses (number needed to treat to prevent an additional unwanted outcome of 45 and 41 respectively).\n\n\nAUTHORS' CONCLUSIONS\nThe evidence available indicates that milnacipran 100 mg or 200 mg is effective for a minority in the treatment of pain due to fibromyalgia, providing moderate levels of pain relief (at least 30%) to about 40% of participants, compared with about 30% with placebo. There were insufficient data to assess substantial levels of pain relief (at least 50%), and the use of last observation carried forward imputation may overestimate drug efficacy. Milnacipran is associated with increased adverse events and adverse event withdrawals, which were significantly greater for the higher dose. There were no data for the use of milnacipran for other chronic neuropathic pain conditions.",
+            "year": 2012,
+            "citation_count": 67,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it evaluates the efficacy of milnacipran, one of the antidepressants compared in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Milnacipran for pain in fibromyalgia in adults": {
+                    "explanation": "This paper is an updated version of the source paper, and it evaluates the analgesic efficacy of milnacipran for pain in fibromyalgia in adults. The hypothesis in this paper is inspired by the hypothesis of the source paper, as it investigates the efficacy of milnacipran in a similar context.",
+                    "relevance": 1
+                },
+                "2. Mapping the Evidence: Sex Effects in High-Impact Conditions for Women Veterans \u2013 Depression, Diabetes, and Chronic Pain": {
+                    "explanation": "This paper does not directly investigate the efficacy of milnacipran, but it discusses the importance of considering sex effects in the evaluation of treatments for chronic pain conditions, including fibromyalgia. The paper does not build upon the source paper's findings, but it provides a broader context for understanding the treatment of chronic pain.",
+                    "relevance": 0
+                },
+                "3. Deconstructing chronic low back pain in the older adult--Step by step evidence and expert-based recommendations for evaluation and treatment part III: Fibromyalgia syndrome": {
+                    "explanation": "This paper discusses the evaluation and treatment of fibromyalgia syndrome in the context of chronic low back pain in older adults. While it mentions milnacipran as a potential treatment option, it does not directly investigate its efficacy or build upon the source paper's findings.",
+                    "relevance": 0
+                },
+                "4. Milnacipran for neuropathic pain in adults": {
+                    "explanation": "This paper evaluates the analgesic efficacy of milnacipran for neuropathic pain in adults, but it does not build upon the source paper's findings, which focused on fibromyalgia. The paper's hypothesis is not directly dependent on the source paper's findings.",
+                    "relevance": 0
+                },
+                "5. Five Patients With Burning Mouth Syndrome in Whom an Antidepressant (Serotonin-Noradrenaline Reuptake Inhibitor) Was Not Effective, but Pregabalin Markedly Relieved Pain": {
+                    "explanation": "This paper discusses the treatment of burning mouth syndrome with pregabalin, but it mentions milnacipran as a serotonin-noradrenaline reuptake inhibitor that was not effective in the patients. The paper does not build upon the source paper's findings or investigate the efficacy of milnacipran.",
+                    "relevance": 0
+                },
+                "6. Pain research funding by the European Union Seventh Framework Programme": {
+                    "explanation": "This paper discusses the funding of pain research by the European Union Seventh Framework Programme, but it does not directly investigate the efficacy of milnacipran or build upon the source paper's findings.",
+                    "relevance": 0
+                },
+                "7. Subcutaneous fluid and drug delivery: safe, efficient and inexpensive": {
+                    "explanation": "This paper discusses the use of subcutaneous fluid and drug delivery, but it does not directly investigate the efficacy of milnacipran or build upon the source paper's findings.",
+                    "relevance": 0
+                },
+                "8. A systematic review of the efficacy of venlafaxine for the treatment of fibromyalgia": {
+                    "explanation": "This paper evaluates the efficacy of venlafaxine for the treatment of fibromyalgia, but it does not build upon the source paper's findings, which focused on milnacipran. The paper's hypothesis is not directly dependent on the source paper's findings.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Milnacipran for pain in fibromyalgia in adults": {
+                    "explanation": "This paper is an updated version of the source paper, and it evaluates the analgesic efficacy of milnacipran for pain in fibromyalgia in adults. The hypothesis in this paper is inspired by the hypothesis of the source paper, as it investigates the efficacy of milnacipran in a similar context.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2016,
+        "source_paper": {
+            "paperId": "2ecb061da547fdbbf3f672b61471d98dac3b1e91",
+            "title": "Milnacipran for pain in fibromyalgia in adults.",
+            "abstract": "BACKGROUND\nThis is an updated version of the original Cochrane review published in Issue 3, 2012. That review considered both fibromyalgia and neuropathic pain, but the efficacy of milnacipran for neuropathic pain is now dealt with in a separate review.Milnacipran is a serotonin-norepinephrine (noradrenaline) reuptake inhibitor (SNRI) that is licensed for the treatment of fibromyalgia in some countries, including Canada, Russia, and the United States.\n\n\nOBJECTIVES\nTo assess the analgesic efficacy of milnacipran for pain in fibromyalgia in adults and the adverse events associated with its use in clinical trials.\n\n\nSEARCH METHODS\nWe searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, and EMBASE to 18 May 2015, together with reference lists of retrieved papers and reviews, and two clinical trial registries. For the earlier review, we also contacted the manufacturer.\n\n\nSELECTION CRITERIA\nWe included randomised, double-blind studies of eight weeks' duration or longer, comparing milnacipran with placebo or another active treatment in fibromyalgia in adults.\n\n\nDATA COLLECTION AND ANALYSIS\nWe extracted efficacy and adverse event data, and two review authors examined issues of study quality independently.\n\n\nMAIN RESULTS\nWe identified one new study with 100 participants for the pooled analysis. We identified two additional reports of a study using an enriched enrolment randomised withdrawal (EERW) design that included participants from earlier randomised controlled trials and an open-label study. Because this study used the same participants already included in our main analysis, and a different design, we dealt with it separately.The main analysis included six studies (five from the earlier review; 4238 participants in total), all of which were placebo-controlled, and used titration to a target dose of milnacipran 100 or 200 mg, with assessment after 8 to 24 weeks of stable treatment. There were no studies with active comparators. Study quality was generally good, although the imputation method used in analyses of the primary outcomes could overestimate treatment effect.Both doses of milnacipran provided moderate levels of pain relief (at least 30% pain intensity reduction) to about 40% of participants treated, compared to 30% with placebo, giving a number needed to treat for an additional beneficial outcome (NNT) of 6 to 10 (high quality evidence). Using a stricter definition for responder and a more conservative method of analysis gave lower levels of response (while maintaining a 10% difference between milnacipran and placebo) and increased the NNT to 11 (high quality evidence). One EERW study was broadly supportive.Adverse events were common in both milnacipran (86%) and placebo (78%) groups (high quality evidence), but serious adverse events did not differ between groups (less than 2%) (low quality evidence). Nausea, constipation, and headache were the most common events showing the greatest difference between groups (number needed to treat for an additional harmful outcome (NNH) of 5.7 for nausea, 13 for constipation, and 29 for headache) (moderate quality evidence).Withdrawals for any reason were more common with milnacipran than placebo, and more common with 200 mg (NNH 9) than 100 mg (NNH 23), compared with placebo. This was largely driven by adverse event withdrawals, where the NNH compared with placebo was 14 for 100 mg and 7.0 for 200 mg (high quality evidence). Withdrawals due to lack of efficacy were less common with milnacipran than placebo but did not differ between doses (number needed to treat to prevent an additional unwanted outcome (NNTp) of 41) (moderate quality evidence).\n\n\nAUTHORS' CONCLUSIONS\nThe evidence available indicates that milnacipran 100 mg or 200 mg is effective for a minority in the treatment of pain due to fibromyalgia, providing moderate levels of pain relief (at least 30%) to about 40% of participants, compared with about 30% with placebo. There were insufficient data to assess substantial levels of pain relief (at least 50%), and the use of last observation carried forward imputation may overestimate drug efficacy. Using stricter criteria for 'responder' and a more conservative method of analysis gave lower response rates (about 26% with milnacipran versus 17% with placebo). Milnacipran was associated with increased adverse events and adverse event withdrawals, which were significantly greater for the higher dose.",
+            "year": 2015,
+            "citation_count": 75,
+            "relevance": 1,
+            "explanation": "This paper is an updated version of the source paper, and it evaluates the analgesic efficacy of milnacipran for pain in fibromyalgia in adults. The hypothesis in this paper is inspired by the hypothesis of the source paper, as it investigates the efficacy of milnacipran in a similar context."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. \u03b12 Adrenoceptor: a Target for Neuropathic Pain Treatment.": {
+                    "explanation": "This paper discusses the \u03b12 adrenoceptor as a target for neuropathic pain treatment and mentions milnacipran as a serotonin/norepinephrine reuptake inhibitor. Although it does not directly build upon the source paper's findings, it explores a related topic and mentions milnacipran, which is the main drug studied in the source paper.",
+                    "relevance": 1
+                },
+                "2. Durations of Opioid, Nonopioid Drug, and Behavioral Clinical Trials for Chronic Pain: Adequate or Inadequate?": {
+                    "explanation": "This paper discusses the duration of clinical trials for chronic pain, including nonopioid drugs like milnacipran. However, it does not directly build upon the source paper's findings or use them as a sub-hypothesis.",
+                    "relevance": 0
+                },
+                "3. Pregabalin for pain in fibromyalgia in adults.": {
+                    "explanation": "This paper evaluates the efficacy of pregabalin for pain in fibromyalgia, which is the same condition studied in the source paper. Although it does not directly build upon the source paper's findings, it explores a related topic and compares the efficacy of pregabalin to other drugs, including milnacipran.",
+                    "relevance": 1
+                },
+                "4. Treatment Recommendations for Fibromyalgia": {
+                    "explanation": "This paper provides treatment recommendations for fibromyalgia, including the use of milnacipran. Although it does not directly build upon the source paper's findings, it mentions milnacipran as a treatment option and provides a broader context for the source paper's research.",
+                    "relevance": 1
+                },
+                "5. One year in review : fibromyalgia": {
+                    "explanation": "This paper is a review of recent research on fibromyalgia and does not directly build upon the source paper's findings or use them as a sub-hypothesis. It is a general review paper and lacks novel hypotheses or findings.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. \u03b12 Adrenoceptor: a Target for Neuropathic Pain Treatment.": {
+                    "explanation": "This paper discusses the \u03b12 adrenoceptor as a target for neuropathic pain treatment and mentions milnacipran as a serotonin/norepinephrine reuptake inhibitor. Although it does not directly build upon the source paper's findings, it explores a related topic and mentions milnacipran, which is the main drug studied in the source paper.",
+                    "relevance": 1
+                },
+                "2. Pregabalin for pain in fibromyalgia in adults.": {
+                    "explanation": "This paper evaluates the efficacy of pregabalin for pain in fibromyalgia, which is the same condition studied in the source paper. Although it does not directly build upon the source paper's findings, it explores a related topic and compares the efficacy of pregabalin to other drugs, including milnacipran.",
+                    "relevance": 1
+                },
+                "3. Treatment Recommendations for Fibromyalgia": {
+                    "explanation": "This paper provides treatment recommendations for fibromyalgia, including the use of milnacipran. Although it does not directly build upon the source paper's findings, it mentions milnacipran as a treatment option and provides a broader context for the source paper's research.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2017,
+        "source_paper": {
+            "paperId": "2ecb061da547fdbbf3f672b61471d98dac3b1e91",
+            "title": "Milnacipran for pain in fibromyalgia in adults.",
+            "abstract": "BACKGROUND\nThis is an updated version of the original Cochrane review published in Issue 3, 2012. That review considered both fibromyalgia and neuropathic pain, but the efficacy of milnacipran for neuropathic pain is now dealt with in a separate review.Milnacipran is a serotonin-norepinephrine (noradrenaline) reuptake inhibitor (SNRI) that is licensed for the treatment of fibromyalgia in some countries, including Canada, Russia, and the United States.\n\n\nOBJECTIVES\nTo assess the analgesic efficacy of milnacipran for pain in fibromyalgia in adults and the adverse events associated with its use in clinical trials.\n\n\nSEARCH METHODS\nWe searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, and EMBASE to 18 May 2015, together with reference lists of retrieved papers and reviews, and two clinical trial registries. For the earlier review, we also contacted the manufacturer.\n\n\nSELECTION CRITERIA\nWe included randomised, double-blind studies of eight weeks' duration or longer, comparing milnacipran with placebo or another active treatment in fibromyalgia in adults.\n\n\nDATA COLLECTION AND ANALYSIS\nWe extracted efficacy and adverse event data, and two review authors examined issues of study quality independently.\n\n\nMAIN RESULTS\nWe identified one new study with 100 participants for the pooled analysis. We identified two additional reports of a study using an enriched enrolment randomised withdrawal (EERW) design that included participants from earlier randomised controlled trials and an open-label study. Because this study used the same participants already included in our main analysis, and a different design, we dealt with it separately.The main analysis included six studies (five from the earlier review; 4238 participants in total), all of which were placebo-controlled, and used titration to a target dose of milnacipran 100 or 200 mg, with assessment after 8 to 24 weeks of stable treatment. There were no studies with active comparators. Study quality was generally good, although the imputation method used in analyses of the primary outcomes could overestimate treatment effect.Both doses of milnacipran provided moderate levels of pain relief (at least 30% pain intensity reduction) to about 40% of participants treated, compared to 30% with placebo, giving a number needed to treat for an additional beneficial outcome (NNT) of 6 to 10 (high quality evidence). Using a stricter definition for responder and a more conservative method of analysis gave lower levels of response (while maintaining a 10% difference between milnacipran and placebo) and increased the NNT to 11 (high quality evidence). One EERW study was broadly supportive.Adverse events were common in both milnacipran (86%) and placebo (78%) groups (high quality evidence), but serious adverse events did not differ between groups (less than 2%) (low quality evidence). Nausea, constipation, and headache were the most common events showing the greatest difference between groups (number needed to treat for an additional harmful outcome (NNH) of 5.7 for nausea, 13 for constipation, and 29 for headache) (moderate quality evidence).Withdrawals for any reason were more common with milnacipran than placebo, and more common with 200 mg (NNH 9) than 100 mg (NNH 23), compared with placebo. This was largely driven by adverse event withdrawals, where the NNH compared with placebo was 14 for 100 mg and 7.0 for 200 mg (high quality evidence). Withdrawals due to lack of efficacy were less common with milnacipran than placebo but did not differ between doses (number needed to treat to prevent an additional unwanted outcome (NNTp) of 41) (moderate quality evidence).\n\n\nAUTHORS' CONCLUSIONS\nThe evidence available indicates that milnacipran 100 mg or 200 mg is effective for a minority in the treatment of pain due to fibromyalgia, providing moderate levels of pain relief (at least 30%) to about 40% of participants, compared with about 30% with placebo. There were insufficient data to assess substantial levels of pain relief (at least 50%), and the use of last observation carried forward imputation may overestimate drug efficacy. Using stricter criteria for 'responder' and a more conservative method of analysis gave lower response rates (about 26% with milnacipran versus 17% with placebo). Milnacipran was associated with increased adverse events and adverse event withdrawals, which were significantly greater for the higher dose.",
+            "year": 2015,
+            "citation_count": 75,
+            "relevance": 1,
+            "explanation": "This paper is an updated version of the source paper, and it evaluates the analgesic efficacy of milnacipran for pain in fibromyalgia in adults. The hypothesis in this paper is inspired by the hypothesis of the source paper, as it investigates the efficacy of milnacipran in a similar context."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Neuromodulators for Functional Gastrointestinal Disorders (Disorders of Gut-Brain Interaction): A Rome Foundation Working Team Report": {
+                    "explanation": "This paper discusses the use of neuromodulators, including serotonin-norepinephrine reuptake inhibitors (SNRIs) like milnacipran, for treating functional gastrointestinal disorders. Although it does not directly build upon the source paper, it provides guidance on the use of SNRIs in a different context, making it somewhat relevant.",
+                    "relevance": 1
+                },
+                "2. Treatment of fibromyalgia": {
+                    "explanation": "This paper is a review of fibromyalgia treatment options and does not provide new findings or hypotheses. Therefore, it is not relevant to the source paper.",
+                    "relevance": 0
+                },
+                "3. Internet-Delivered Exposure Therapy for Fibromyalgia: A Randomized Controlled Trial": {
+                    "explanation": "This paper presents a new treatment approach for fibromyalgia, internet-delivered exposure therapy, which is not directly related to the source paper's focus on milnacipran. However, it does investigate fibromyalgia, making it somewhat relevant.",
+                    "relevance": 1
+                },
+                "4. Effective treatment options for musculoskeletal pain in primary care: A systematic overview of current evidence": {
+                    "explanation": "This paper provides a systematic overview of treatment options for musculoskeletal pain, including fibromyalgia. Although it does not specifically focus on milnacipran, it discusses the use of SNRIs and other pharmacological treatments, making it somewhat relevant.",
+                    "relevance": 1
+                },
+                "5. Serotonin\u2010norepinephrine reuptake inhibitors and the influence of binding affinity (Ki) on analgesia": {
+                    "explanation": "This paper investigates the relationship between serotonin-norepinephrine reuptake inhibitors (SNRIs) and analgesia, which is directly related to the source paper's focus on milnacipran, an SNRI. The paper's findings on the influence of binding affinity on analgesia could be seen as building upon the source paper's results.",
+                    "relevance": 2
+                },
+                "6. Reduced Pro-Inflammatory Cytokines after Eight Weeks of Low-Dose Naltrexone for Fibromyalgia": {
+                    "explanation": "This paper presents a new treatment approach for fibromyalgia, low-dose naltrexone, which is not directly related to the source paper's focus on milnacipran. However, it does investigate fibromyalgia, making it somewhat relevant.",
+                    "relevance": 1
+                },
+                "7. Evidence of both systemic inflammation and neuroinflammation in fibromyalgia patients, as assessed by a multiplex protein panel applied to the cerebrospinal fluid and to plasma": {
+                    "explanation": "This paper investigates the pathophysiology of fibromyalgia, providing evidence of systemic and neuroinflammation. Although it does not directly build upon the source paper, it provides new insights into the underlying mechanisms of fibromyalgia, making it somewhat relevant.",
+                    "relevance": 1
+                },
+                "8. No evidence of potentiation of buprenorphine by milnacipran in healthy subjects using a nociceptive test battery": {
+                    "explanation": "This paper investigates the potential interaction between milnacipran and buprenorphine, which is directly related to the source paper's focus on milnacipran. The paper's findings on the lack of potentiation could be seen as building upon the source paper's results.",
+                    "relevance": 2
+                },
+                "9. Review: Pregabalin reduces fibromyalgia pain but increases adverse events": {
+                    "explanation": "This paper is a review of pregabalin for fibromyalgia treatment and does not provide new findings or hypotheses. Although it discusses fibromyalgia treatment, it is not directly related to the source paper's focus on milnacipran.",
+                    "relevance": 0
+                },
+                "10. Gabapentin for fibromyalgia pain in adults": {
+                    "explanation": "This paper is a review of gabapentin for fibromyalgia treatment and does not provide new findings or hypotheses. Although it discusses fibromyalgia treatment, it is not directly related to the source paper's focus on milnacipran.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Serotonin\u2010norepinephrine reuptake inhibitors and the influence of binding affinity (Ki) on analgesia": {
+                    "explanation": "This paper investigates the relationship between serotonin-norepinephrine reuptake inhibitors (SNRIs) and analgesia, which is directly related to the source paper's focus on milnacipran, an SNRI. The paper's findings on the influence of binding affinity on analgesia could be seen as building upon the source paper's results.",
+                    "relevance": 2
+                },
+                "2. No evidence of potentiation of buprenorphine by milnacipran in healthy subjects using a nociceptive test battery": {
+                    "explanation": "This paper investigates the potential interaction between milnacipran and buprenorphine, which is directly related to the source paper's focus on milnacipran. The paper's findings on the lack of potentiation could be seen as building upon the source paper's results.",
+                    "relevance": 2
+                },
+                "3. Neuromodulators for Functional Gastrointestinal Disorders (Disorders of Gut-Brain Interaction): A Rome Foundation Working Team Report": {
+                    "explanation": "This paper discusses the use of neuromodulators, including serotonin-norepinephrine reuptake inhibitors (SNRIs) like milnacipran, for treating functional gastrointestinal disorders. Although it does not directly build upon the source paper, it provides guidance on the use of SNRIs in a different context, making it somewhat relevant.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2019,
+        "source_paper": {
+            "paperId": "809905b9c4e8f21d5dd790a44ff8e9933540a7c9",
+            "title": "Serotonin\u2010norepinephrine reuptake inhibitors and the influence of binding affinity (Ki) on analgesia",
+            "abstract": "Serotonin\u2010norepinephrine reuptake inhibitors (SNRIs) are commonly used for various psychiatric conditions and neuropathic pain syndromes. SNRIs inhibit the reuptake of serotonin (5\u2010HT) and norepinephrine (NE); however, NE reuptake inhibition is thought to be the primary mediator for their analgesic effect.",
+            "year": 2017,
+            "citation_count": 12,
+            "relevance": 2,
+            "explanation": "This paper investigates the relationship between serotonin-norepinephrine reuptake inhibitors (SNRIs) and analgesia, which is directly related to the source paper's focus on milnacipran, an SNRI. The paper's findings on the influence of binding affinity on analgesia could be seen as building upon the source paper's results."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. LPM580098, a Novel Triple Reuptake Inhibitor of Serotonin, Noradrenaline, and Dopamine, Attenuates Neuropathic Pain": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the analgesic effect of a novel triple reuptake inhibitor, building on the understanding of serotonin-norepinephrine reuptake inhibitors (SNRIs) and their role in analgesia. The source paper's findings on the influence of binding affinity (Ki) on analgesia likely inform the development and testing of LPM580098.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. LPM580098, a Novel Triple Reuptake Inhibitor of Serotonin, Noradrenaline, and Dopamine, Attenuates Neuropathic Pain": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the analgesic effect of a novel triple reuptake inhibitor, building on the understanding of serotonin-norepinephrine reuptake inhibitors (SNRIs) and their role in analgesia. The source paper's findings on the influence of binding affinity (Ki) on analgesia likely inform the development and testing of LPM580098.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2020,
+        "source_paper": {
+            "paperId": "1e425f95d0292b8862494f54731deab98d2a0647",
+            "title": "LPM580098, a Novel Triple Reuptake Inhibitor of Serotonin, Noradrenaline, and Dopamine, Attenuates Neuropathic Pain",
+            "abstract": "Background and Purpose: Sedation and somnolence remain serious adverse effects of the existing analgesics (e.g., pregabalin, duloxetine) for neuropathic pain. The available evidence indicates that serotonin (5-HT), noradrenaline (NE), and dopamine (DA) play important roles in modulating the descending inhibitory pain pathway and sleep\u2013wake cycle. The aim of this work was to test the hypothesis that LPM580098, a novel triple reuptake inhibitor (TRI) of 5-HT, NE, and DA, has analgesic effect, and does not induce significant adverse effects associated with central inhibition, such as sedation and somnolence. Methods: The analgesic activity of LPM580098 was assessed on formalin test and spinal nerve ligation (SNL)-induced neuropathic pain model. Locomotor activity, pentobarbital sodium-induced sleeping and rota-rod tests were also conducted. In vitro binding and uptake assays, and Western blotting were performed to examine the potential mechanisms. Results: LPM580098 suppressed the nocifensive behaviors during phase II of the formalin test in mice. In SNL rats, LPM580098 (16 mg kg\u22121) inhibited mechanical allodynia, thermal hyperalgesia and hyperexcitation of wide-dynamic range (WDR) neurons, in which the effect of LPM580098 was similar to pregabalin (30 mg kg\u22121). However, pregabalin altered the spontaneous locomotion, affected pentobarbital sodium-induced sleep, and showed a trend to perform motor dysfunction, which were not induced by LPM580098. Mechanistically, LPM580098 inhibited the uptake of 5-HT, NE, and DA, improved pain-induced changes of the synaptic functional plasticity and structural plasticity possibly via downregulating the NR2B/CaMKII\u03b1/GluR1 and Rac1/RhoA signaling pathways. Conclusion: Our results suggest that LPM580098, a novel TRI, is effective in attenuating neuropathic pain without producing unwanted sedation and somnolence associated with central nervous system (CNS) depressants.",
+            "year": 2019,
+            "citation_count": 24,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the analgesic effect of a novel triple reuptake inhibitor, building on the understanding of serotonin-norepinephrine reuptake inhibitors (SNRIs) and their role in analgesia. The source paper's findings on the influence of binding affinity (Ki) on analgesia likely inform the development and testing of LPM580098."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. An Investigation of the Molecular Mechanisms Underlying the Analgesic Effect of Jakyak-Gamcho Decoction: A Network Pharmacology Study": {
+                    "explanation": "The hypothesis in this paper is not directly related to the source paper, as it investigates the analgesic effect of Jakyak-Gamcho decoction, an herbal prescription, and its underlying molecular mechanisms, which is a different approach from the source paper's focus on LPM580098, a novel triple reuptake inhibitor.",
+                    "relevance": 0
+                },
+                "2. Role of mu-opioid receptor in nociceptive modulation in anterior cingulate cortex of rats": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the role of mu-opioid receptor in nociceptive modulation in anterior cingulate cortex of rats, which is related to the pain modulation mechanisms discussed in the source paper.",
+                    "relevance": 2
+                },
+                "3. Manganese(iii)-promoted tandem phosphinoylation/cyclization of 2-arylindoles/2-arylbenzimidazoles with disubstituted phosphine oxides": {
+                    "explanation": "This paper has no connection with the source paper, as it discusses a chemical synthesis method and its applications, which is unrelated to the source paper's focus on neuropathic pain and analgesic mechanisms.",
+                    "relevance": 0
+                },
+                "4. Metal\u2010Free Oxidative Decarboxylative Heteroannulation of Alkynyl Carboxylic Acids with Sulfinates and tert\u2010Butyl Nitrite toward 2,2\u2010Disulfonyl\u20102H\u2010Azirines": {
+                    "explanation": "This paper has no connection with the source paper, as it discusses a chemical synthesis method and its applications, which is unrelated to the source paper's focus on neuropathic pain and analgesic mechanisms.",
+                    "relevance": 0
+                },
+                "5. Distinct roles of srGAP3\u2010Rac1 in the initiation and maintenance phases of neuropathic pain induced by paclitaxel": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the roles of srGAP3-Rac1 in the initiation and maintenance phases of neuropathic pain, which is related to the pain modulation mechanisms discussed in the source paper.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Role of mu-opioid receptor in nociceptive modulation in anterior cingulate cortex of rats": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the role of mu-opioid receptor in nociceptive modulation in anterior cingulate cortex of rats, which is related to the pain modulation mechanisms discussed in the source paper.",
+                    "relevance": 2
+                },
+                "2. Distinct roles of srGAP3\u2010Rac1 in the initiation and maintenance phases of neuropathic pain induced by paclitaxel": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the roles of srGAP3-Rac1 in the initiation and maintenance phases of neuropathic pain, which is related to the pain modulation mechanisms discussed in the source paper.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2021,
+        "source_paper": {
+            "paperId": "1e425f95d0292b8862494f54731deab98d2a0647",
+            "title": "LPM580098, a Novel Triple Reuptake Inhibitor of Serotonin, Noradrenaline, and Dopamine, Attenuates Neuropathic Pain",
+            "abstract": "Background and Purpose: Sedation and somnolence remain serious adverse effects of the existing analgesics (e.g., pregabalin, duloxetine) for neuropathic pain. The available evidence indicates that serotonin (5-HT), noradrenaline (NE), and dopamine (DA) play important roles in modulating the descending inhibitory pain pathway and sleep\u2013wake cycle. The aim of this work was to test the hypothesis that LPM580098, a novel triple reuptake inhibitor (TRI) of 5-HT, NE, and DA, has analgesic effect, and does not induce significant adverse effects associated with central inhibition, such as sedation and somnolence. Methods: The analgesic activity of LPM580098 was assessed on formalin test and spinal nerve ligation (SNL)-induced neuropathic pain model. Locomotor activity, pentobarbital sodium-induced sleeping and rota-rod tests were also conducted. In vitro binding and uptake assays, and Western blotting were performed to examine the potential mechanisms. Results: LPM580098 suppressed the nocifensive behaviors during phase II of the formalin test in mice. In SNL rats, LPM580098 (16 mg kg\u22121) inhibited mechanical allodynia, thermal hyperalgesia and hyperexcitation of wide-dynamic range (WDR) neurons, in which the effect of LPM580098 was similar to pregabalin (30 mg kg\u22121). However, pregabalin altered the spontaneous locomotion, affected pentobarbital sodium-induced sleep, and showed a trend to perform motor dysfunction, which were not induced by LPM580098. Mechanistically, LPM580098 inhibited the uptake of 5-HT, NE, and DA, improved pain-induced changes of the synaptic functional plasticity and structural plasticity possibly via downregulating the NR2B/CaMKII\u03b1/GluR1 and Rac1/RhoA signaling pathways. Conclusion: Our results suggest that LPM580098, a novel TRI, is effective in attenuating neuropathic pain without producing unwanted sedation and somnolence associated with central nervous system (CNS) depressants.",
+            "year": 2019,
+            "citation_count": 24,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the analgesic effect of a novel triple reuptake inhibitor, building on the understanding of serotonin-norepinephrine reuptake inhibitors (SNRIs) and their role in analgesia. The source paper's findings on the influence of binding affinity (Ki) on analgesia likely inform the development and testing of LPM580098."
+        },
+        "llama_output": {},
+        "seed": 42
+    },
+    {
+        "year": 2021,
+        "source_paper": {
+            "paperId": "be3a2a1772535a51ccfae39b774dc54801b17a01",
+            "title": "Distinct roles of srGAP3\u2010Rac1 in the initiation and maintenance phases of neuropathic pain induced by paclitaxel",
+            "abstract": "Spinal cord dorsal horn srGAP3 (slit\u2010robo GTPase activating protein 3) increases in the initiation phase of neuropathic pain and decreases in the maintenance phase. However, Rac1 activity, which can be reduced by srGAP3, decreases in the initiation phase and increases in the maintenance phase. The increased srGAP3 in the initiation phase promotes new immature dendritic spines instigating neuropathic pain. Decreased srGAP3 in the maintenance phase enhances Rac1 activity facilitating maturation of dendritic spines and the persistence of neuropathic pain. SrGAP3 small interfering RNA can ameliorate neuropathic pain only when administrated in the initiation phase. The Rac1 inhibitor can ameliorate neuropathic pain only when administrated in the maintenance phase. Combined targeting of srGAP3 in the initiation phase and Rac1 in the maintenance phase can produce optimal analgesic efficacy.",
+            "year": 2020,
+            "citation_count": 14,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the roles of srGAP3-Rac1 in the initiation and maintenance phases of neuropathic pain, which is related to the pain modulation mechanisms discussed in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Dendritic Spine Initiation in Brain Development, Learning and Diseases and Impact of BAR-Domain Proteins": {
+                    "explanation": "This paper discusses the importance of spine initiation in brain development, learning, and neurological diseases. It mentions SrGAP3 as a BAR-domain protein involved in spine initiation, which is also a key protein in the source paper. However, the paper does not directly build upon or depend on the findings of the source paper, so it is not scored as 1 or 2.",
+                    "relevance": 0
+                },
+                "2. Neuro-immune interactions in paclitaxel-induced peripheral neuropathy": {
+                    "explanation": "This paper reviews the molecular mechanisms of paclitaxel-induced peripheral neuropathy, which is related to the topic of neuropathic pain in the source paper. However, it does not directly build upon or depend on the findings of the source paper, so it is not scored as 1 or 2.",
+                    "relevance": 0
+                },
+                "3. Rac-maninoff and Rho-vel: The symphony of Rho-GTPase signaling at excitatory synapses": {
+                    "explanation": "This paper discusses the role of Rho-GTPases, including Rac1, in regulating excitatory synapses. Rac1 is a key protein in the source paper, and this paper provides a broader context for its function. However, it does not directly build upon or depend on the findings of the source paper, so it is not scored as 1 or 2.",
+                    "relevance": 0
+                },
+                "4. Electroacupuncture may alleviate neuropathic pain via suppressing P2X7R expression": {
+                    "explanation": "This paper investigates a potential treatment for neuropathic pain, which is the topic of the source paper. It discusses the role of dendritic spine remodeling in neuropathic pain, which is also a key finding in the source paper. The paper's hypothesis is inspired by the findings of the source paper, so it is scored as 1.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Electroacupuncture may alleviate neuropathic pain via suppressing P2X7R expression": {
+                    "explanation": "This paper investigates a potential treatment for neuropathic pain, which is the topic of the source paper. It discusses the role of dendritic spine remodeling in neuropathic pain, which is also a key finding in the source paper. The paper's hypothesis is inspired by the findings of the source paper, so it is scored as 1.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2022,
+        "source_paper": {
+            "paperId": "be3a2a1772535a51ccfae39b774dc54801b17a01",
+            "title": "Distinct roles of srGAP3\u2010Rac1 in the initiation and maintenance phases of neuropathic pain induced by paclitaxel",
+            "abstract": "Spinal cord dorsal horn srGAP3 (slit\u2010robo GTPase activating protein 3) increases in the initiation phase of neuropathic pain and decreases in the maintenance phase. However, Rac1 activity, which can be reduced by srGAP3, decreases in the initiation phase and increases in the maintenance phase. The increased srGAP3 in the initiation phase promotes new immature dendritic spines instigating neuropathic pain. Decreased srGAP3 in the maintenance phase enhances Rac1 activity facilitating maturation of dendritic spines and the persistence of neuropathic pain. SrGAP3 small interfering RNA can ameliorate neuropathic pain only when administrated in the initiation phase. The Rac1 inhibitor can ameliorate neuropathic pain only when administrated in the maintenance phase. Combined targeting of srGAP3 in the initiation phase and Rac1 in the maintenance phase can produce optimal analgesic efficacy.",
+            "year": 2020,
+            "citation_count": 14,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the roles of srGAP3-Rac1 in the initiation and maintenance phases of neuropathic pain, which is related to the pain modulation mechanisms discussed in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Dendritic Spines and Pain Memory": {
+                    "explanation": "This paper is a review article that discusses the role of dendritic spines in neuropathic pain, but it does not specifically build upon or depend on the findings of the source paper. The source paper explores the distinct roles of srGAP3-Rac1 in the initiation and maintenance phases of neuropathic pain, whereas this paper provides a broader overview of dendritic spines and pain memory without mentioning srGAP3-Rac1.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2022,
+        "source_paper": {
+            "paperId": "e9704becc88863c4d7c3f6037ce1786255165574",
+            "title": "Electroacupuncture may alleviate neuropathic pain via suppressing P2X7R expression",
+            "abstract": "Neuropathic pain is a severe problem that is difficult to treat clinically. Reducing abnormal remodeling of dendritic spines/synapses and increasing the anti-inflammatory effects in the spinal cord dorsal horn are potential methods to treat this disease. Previous studies have reported that electroacupuncture (EA) could increase the pain threshold after peripheral nerve injury. However, the underlying mechanism is unclear. P2X7 receptors (P2X7R) mediate the activation of microglia and participate in the occurrence and development of neuropathic pain. We hypothesized that the effects of EA on relieving pain may be related to the downregulation of the P2X7R. Spinal nerve ligation (SNL) rats were used as a model in this experiment, and 2'(3')-O-(4-benzoyl)benzoyl ATP (BzATP) was used as a P2X7R agonist. We found that EA treatment decreased dendritic spine density, inhibited synaptic reconstruction and reduced inflammatory response, which is consistent with the decrease in P2X7R expression as well as the improved neurobehavioral performance. In contrast to the beneficial effects of EA, BzATP enhanced abnormal remodeling of dendritic spines/synapses and inflammation. Furthermore, the EA-mediated positive effects were reversed by BzATP, which is consistent with the increased P2X7R expression. These findings indicated that EA improves neuropathic pain by reducing abnormal dendritic spine/synaptic reconstruction and inflammation via suppressing P2X7R expression.",
+            "year": 2021,
+            "citation_count": 30,
+            "relevance": 1,
+            "explanation": "This paper investigates a potential treatment for neuropathic pain, which is the topic of the source paper. It discusses the role of dendritic spine remodeling in neuropathic pain, which is also a key finding in the source paper. The paper's hypothesis is inspired by the findings of the source paper, so it is scored as 1."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. From Low-Grade Inflammation in Osteoarthritis to Neuropsychiatric Sequelae: A Narrative Review": {
+                    "explanation": "This paper is a review and has no connection to the source paper. The source paper is about the effects of electroacupuncture on neuropathic pain via suppressing P2X7R expression, whereas this paper is a review about the link between low-grade inflammation in osteoarthritis and neuropsychiatric sequelae.",
+                    "relevance": 0
+                },
+                "2. Mechanism Underlying Acupuncture Therapy in Spinal Cord Injury: A Narrative Overview of Preclinical Studies": {
+                    "explanation": "This paper is a review and has no direct connection to the source paper. However, it discusses the mechanisms of acupuncture therapy in spinal cord injury, which shares some similarities with the source paper's topic of electroacupuncture's effects on neuropathic pain. But since it is a review and lacks novel findings or hypotheses directly related to the source paper, the relevance is 0.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2023,
+        "source_paper": {
+            "paperId": "e9704becc88863c4d7c3f6037ce1786255165574",
+            "title": "Electroacupuncture may alleviate neuropathic pain via suppressing P2X7R expression",
+            "abstract": "Neuropathic pain is a severe problem that is difficult to treat clinically. Reducing abnormal remodeling of dendritic spines/synapses and increasing the anti-inflammatory effects in the spinal cord dorsal horn are potential methods to treat this disease. Previous studies have reported that electroacupuncture (EA) could increase the pain threshold after peripheral nerve injury. However, the underlying mechanism is unclear. P2X7 receptors (P2X7R) mediate the activation of microglia and participate in the occurrence and development of neuropathic pain. We hypothesized that the effects of EA on relieving pain may be related to the downregulation of the P2X7R. Spinal nerve ligation (SNL) rats were used as a model in this experiment, and 2'(3')-O-(4-benzoyl)benzoyl ATP (BzATP) was used as a P2X7R agonist. We found that EA treatment decreased dendritic spine density, inhibited synaptic reconstruction and reduced inflammatory response, which is consistent with the decrease in P2X7R expression as well as the improved neurobehavioral performance. In contrast to the beneficial effects of EA, BzATP enhanced abnormal remodeling of dendritic spines/synapses and inflammation. Furthermore, the EA-mediated positive effects were reversed by BzATP, which is consistent with the increased P2X7R expression. These findings indicated that EA improves neuropathic pain by reducing abnormal dendritic spine/synaptic reconstruction and inflammation via suppressing P2X7R expression.",
+            "year": 2021,
+            "citation_count": 30,
+            "relevance": 1,
+            "explanation": "This paper investigates a potential treatment for neuropathic pain, which is the topic of the source paper. It discusses the role of dendritic spine remodeling in neuropathic pain, which is also a key finding in the source paper. The paper's hypothesis is inspired by the findings of the source paper, so it is scored as 1."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Involvement of microglial P2X7 receptor in pain modulation": {
+                    "explanation": "This paper explores the role of microglial P2X7 receptor in pain modulation, which is closely related to the source paper's findings on the involvement of P2X7R in neuropathic pain. However, it does not directly build upon or depend on the source paper's results.",
+                    "relevance": 1
+                },
+                "2. Effects of Jiawei Yiqihuoxue decotion for the treatment of post stroke depression and anxiety": {
+                    "explanation": "This paper has no apparent connection to the source paper, as it focuses on a different topic (post-stroke depression and anxiety) and does not mention P2X7R or electroacupuncture.",
+                    "relevance": 0
+                },
+                "3. Application and underlying mechanism of acupuncture for the nerve repair after peripheral nerve injury: remodeling of nerve system": {
+                    "explanation": "This paper discusses the application and mechanisms of acupuncture in nerve repair, which is related to the source paper's topic of electroacupuncture for neuropathic pain. However, it does not directly build upon or depend on the source paper's results.",
+                    "relevance": 1
+                },
+                "4. Global research trends in acupuncture for cancer pain: A bibliometric analysis": {
+                    "explanation": "This paper is a review of global research trends in acupuncture for cancer pain and does not have a direct connection to the source paper's findings on electroacupuncture and P2X7R.",
+                    "relevance": 0
+                },
+                "5. An Overview of the Mechanisms Involved in Neuralgia": {
+                    "explanation": "This paper provides an overview of the mechanisms involved in neuralgia, including the role of ion channels and synaptic proteins. While it touches on pain-related disorders, it does not directly build upon or depend on the source paper's results.",
+                    "relevance": 0
+                },
+                "6. Electroacupuncture relieves chronic pain by promoting microglia M2 polarization in lumbar disc herniation rats": {
+                    "explanation": "This paper investigates the mechanism of electroacupuncture in relieving chronic pain, which is closely related to the source paper's topic. The paper's findings on microglia M2 polarization are also relevant to the source paper's discussion of P2X7R expression.",
+                    "relevance": 2
+                },
+                "7. Leveraging the ATP\u2010P2X7 receptor signalling axis to alleviate traumatic CNS damage and related complications": {
+                    "explanation": "This paper discusses the role of the P2X7 receptor in mediating neuroinflammation and other pathogenic events in traumatic CNS damage. While it is related to the source paper's topic of P2X7R, it does not directly build upon or depend on the source paper's results.",
+                    "relevance": 1
+                },
+                "8. Role of nerve signal transduction and neuroimmune crosstalk in mediating the analgesic effects of acupuncture for neuropathic pain": {
+                    "explanation": "This paper comprehensively reviews the analgesic mechanisms of acupuncture for neuropathic pain, including the role of P2X7R. The paper's discussion of nerve signal transduction and neuroimmune crosstalk is also relevant to the source paper's findings.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Electroacupuncture relieves chronic pain by promoting microglia M2 polarization in lumbar disc herniation rats": {
+                    "explanation": "This paper investigates the mechanism of electroacupuncture in relieving chronic pain, which is closely related to the source paper's topic. The paper's findings on microglia M2 polarization are also relevant to the source paper's discussion of P2X7R expression.",
+                    "relevance": 2
+                },
+                "2. Role of nerve signal transduction and neuroimmune crosstalk in mediating the analgesic effects of acupuncture for neuropathic pain": {
+                    "explanation": "This paper comprehensively reviews the analgesic mechanisms of acupuncture for neuropathic pain, including the role of P2X7R. The paper's discussion of nerve signal transduction and neuroimmune crosstalk is also relevant to the source paper's findings.",
+                    "relevance": 2
+                },
+                "3. Involvement of microglial P2X7 receptor in pain modulation": {
+                    "explanation": "This paper explores the role of microglial P2X7 receptor in pain modulation, which is closely related to the source paper's findings on the involvement of P2X7R in neuropathic pain. However, it does not directly build upon or depend on the source paper's results.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2024,
+        "source_paper": {
+            "paperId": "b5fd9f2c274eb82bdb3e80215be2d51e261f61a1",
+            "title": "Role of nerve signal transduction and neuroimmune crosstalk in mediating the analgesic effects of acupuncture for neuropathic pain",
+            "abstract": "Neurogenic pain rises because of nervous system damage or dysfunction and is the most difficult to treat among other pathological pains. Acupuncture has been reported as a great treatment option for neurogenic pain owing to its unlimited advantages. However, previous studies on the analgesic effects of acupuncture for NP were scattered and did not form a whole. In this study, we first comprehensively review the relevant basic articles on acupuncture for NP published in the last 5 years and summarize the analgesic mechanisms of acupuncture in terms of nerve signaling, neuro-immune crosstalk, and metabolic and oxidative stress regulation. Acupuncture inhibits the upstream excitatory system and suppresses neuronal transmission efficiency by downregulating glutamate, NMDA receptors, P2XR, SP, CGRP, and other neurotransmitters and receptors in the spinal cord, as well as plasma channels such as TRPV1, HCN. It can also activate the downstream pain inhibitory pathway by upregulating opioid peptide (\u03b2-endorphin), MOR receptors, GABA and GABA receptors, bi-directional regulating 5-hydroxytryptamine (5-HT) and its receptors (upregulate 5-HT 1A and downregulate 5-HT7R) and stimulating hypothalamic appetite-modifying neurons. Moreover, neuroinflammation in pain can be inhibited by acupuncture through inhibiting JAK2/STAT3, PI3K/mTOR pathways, down regulating chemokine receptor CX3CR1 on microglia and up regulating adenosine receptor A1Rs on astrocytes, inhibiting the activation of glia and reducing TNF-\u03b1 and other inflammatory substances. Acupuncture also inhibits neuronal glucose metabolism by downregulating mPFC's GLUT-3 and promotes metabolic alterations of the brain, thus exerting an analgesic effect. In conclusion, the regulation of nerve signal transduction and neuroimmune crosstalk at the peripheral and central levels mediates the analgesic effects of acupuncture for neuropathic pain in an integrated manner. These findings provide a reliable basis for better clinical application of acupuncture in the management of neuropathic pain.",
+            "year": 2023,
+            "citation_count": 20,
+            "relevance": 2,
+            "explanation": "This paper comprehensively reviews the analgesic mechanisms of acupuncture for neuropathic pain, including the role of P2X7R. The paper's discussion of nerve signal transduction and neuroimmune crosstalk is also relevant to the source paper's findings."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. RNA Interference Unleashed: Current Perspective of Small Interfering RNA (siRNA) Therapeutics in the Treatment of Neuropathic Pain": {
+                    "explanation": "This paper discusses a new therapeutic approach for neuropathic pain using siRNA, but it does not build upon or depend on the findings of the source paper. Therefore, it has no connection to the source paper.",
+                    "relevance": 0
+                },
+                "2. The Antinociceptive Role of Nrf2 in Neuropathic Pain: From Mechanisms to Clinical Perspectives": {
+                    "explanation": "This paper explores the role of Nrf2 in neuropathic pain, which is a different mechanism than the one discussed in the source paper. However, both papers deal with neuropathic pain, but there is no direct connection or dependency between the two papers.",
+                    "relevance": 0
+                },
+                "3. Effects of buccal acupuncture on postoperative analgesia in elderly patients undergoing laparoscopic radical gastrectomy: a randomized controlled trial": {
+                    "explanation": "This paper investigates the effects of buccal acupuncture on postoperative analgesia, which is related to the topic of acupuncture and pain management discussed in the source paper. The key hypothesis in this paper is inspired by the hypothesis or findings from the source paper.",
+                    "relevance": 1
+                },
+                "4. Case report: Spontaneous regression of extruded lumbar disc herniation with acupuncture therapy": {
+                    "explanation": "This paper presents a case report on the use of acupuncture for treating lumbar disc herniation, which is related to the topic of acupuncture and pain management discussed in the source paper. The key hypothesis in this paper is inspired by the hypothesis or findings from the source paper.",
+                    "relevance": 1
+                },
+                "5. Astrocyte activation in hindlimb somatosensory cortex contributes to electroacupuncture analgesia in acid-induced pain": {
+                    "explanation": "This paper explores the mechanism of electroacupuncture analgesia, which is related to the topic of acupuncture and pain management discussed in the source paper. The key hypothesis in this paper is at least partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                },
+                "6. The Efficacy of Neuromodulation Interventions for Chemotherapy-Induced Peripheral Neuropathy: A Systematic Review and Meta-Analysis": {
+                    "explanation": "This paper discusses the efficacy of neuromodulation interventions for chemotherapy-induced peripheral neuropathy, which is a different topic than the one discussed in the source paper. Therefore, it has no connection to the source paper.",
+                    "relevance": 0
+                },
+                "7. Research hotspots and trends on acupuncture treatment for headache: a bibliometric analysis from 2003 to 2023": {
+                    "explanation": "This paper presents a bibliometric analysis of research on acupuncture treatment for headaches, which is related to the topic of acupuncture and pain management discussed in the source paper. However, it is a review paper and lacks novel hypotheses or findings.",
+                    "relevance": 0
+                },
+                "8. MiR\u20109\u2010enriched mesenchymal stem cells derived exosomes prevent cystitis\u2010induced bladder pain via suppressing TLR4/NLRP3 pathway in interstitial cystitis mice": {
+                    "explanation": "This paper discusses the use of miR-9-enriched mesenchymal stem cells derived exosomes for preventing cystitis-induced bladder pain, which is a different topic than the one discussed in the source paper. Therefore, it has no connection to the source paper.",
+                    "relevance": 0
+                },
+                "9. Effectiveness of Complementary and Alternative Medicine in Fibromyalgia Syndrome: A Network Meta-Analysis": {
+                    "explanation": "This paper discusses the effectiveness of complementary and alternative medicine in fibromyalgia syndrome, which is a different topic than the one discussed in the source paper. However, it mentions acupuncture as one of the therapies, which is related to the topic of acupuncture and pain management discussed in the source paper. The key hypothesis in this paper is inspired by the hypothesis or findings from the source paper.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Astrocyte activation in hindlimb somatosensory cortex contributes to electroacupuncture analgesia in acid-induced pain": {
+                    "explanation": "This paper explores the mechanism of electroacupuncture analgesia, which is related to the topic of acupuncture and pain management discussed in the source paper. The key hypothesis in this paper is at least partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                },
+                "2. Effects of buccal acupuncture on postoperative analgesia in elderly patients undergoing laparoscopic radical gastrectomy: a randomized controlled trial": {
+                    "explanation": "This paper investigates the effects of buccal acupuncture on postoperative analgesia, which is related to the topic of acupuncture and pain management discussed in the source paper. The key hypothesis in this paper is inspired by the hypothesis or findings from the source paper.",
+                    "relevance": 1
+                },
+                "3. Case report: Spontaneous regression of extruded lumbar disc herniation with acupuncture therapy": {
+                    "explanation": "This paper presents a case report on the use of acupuncture for treating lumbar disc herniation, which is related to the topic of acupuncture and pain management discussed in the source paper. The key hypothesis in this paper is inspired by the hypothesis or findings from the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    }
+]

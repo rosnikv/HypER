@@ -1,0 +1,342 @@
+[
+    {
+        "year": 2009,
+        "source_paper": {
+            "paperId": "015c546beaeaa82da4a29c327a7e47348a66edb9",
+            "pmid": "18393319",
+            "title": "Recombinant factor VIIa for variceal bleeding in patients with advanced cirrhosis: A randomized, controlled trial",
+            "abstract": "A beneficial effect of recombinant activated factor VII (rFVIIa) in Child\u2010Pugh class B and C patients with cirrhosis who have variceal bleeding has been suggested. This randomized controlled trial assessed the efficacy and safety of rFVIIa in patients with advanced cirrhosis and active variceal bleeding. At 31 hospitals in an emergency setting, 256 patients (Child\u2010Pugh > 8; Child\u2010Pugh B = 26%, C = 74%) were randomized equally to: placebo; 600 \u03bcg/kg rFVIIa (200 + 4\u00d7 100 \u03bcg/kg); or 300 \u03bcg/kg rFVIIa (200 + 100 \u03bcg/kg). Dosing was intravenous at 0, 2, 8, 14, and 20 hours after endoscopy, in addition to standard vasoactive, prophylactic antibiotic, and endoscopic treatment. The primary composite endpoint consisted of failure to control 24\u2010hour bleeding, or failure to prevent rebleeding or death at day 5. Secondary endpoints included adverse events and 42\u2010day mortality. Baseline characteristics were comparable between groups. Administration of rFVIIa had no significant effect on the composite endpoint compared with placebo (P = 0.37). There was no significant difference in 5\u2010day mortality between groups; however, 42\u2010day mortality was significantly lower with 600 \u03bcg/kg rFVIIa compared with placebo (odds ratio 0.31, 95% confidence interval = 0.13\u20130.74), and bleeding\u2010related deaths were reduced from 12% (placebo) to 2% (600 \u03bcg/kg). A marked heterogeneity in the failure rate in all treatment groups was observed across participating centers. Adverse events, including overall thromboembolic events, were comparable between groups. Conclusion: Treatment with rFVIIa had no significant effect on the primary composite endpoint compared with placebo. Therefore, decision on the use of this hemostatic agent in acute variceal bleeding should be carefully considered, because results of this study do not support the routine use of rFVIIa in this setting. Adverse events were comparable across groups. (HEPATOLOGY 2008.)",
+            "year": 2008,
+            "citation_count": 298
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. The use of recombinant activated factor VIIa in coagulopathic traumatic brain injuries requiring emergent craniotomy: is it beneficial?": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the use of recombinant activated factor VIIa (rFVIIa) in a different context (traumatic brain injuries) and builds on the understanding of rFVIIa's effects on coagulopathy established in the source paper.",
+                    "relevance": 2
+                },
+                "2. Pediatric in-hospital cardiac arrest and therapeutic hypothermia: where we are and where we are going": {
+                    "explanation": "This paper has no connection with the source paper, as it discusses a different topic (therapeutic hypothermia in pediatric in-hospital cardiac arrest) and does not mention recombinant activated factor VIIa or its use in variceal bleeding.",
+                    "relevance": 0
+                },
+                "3. The role of recombinant-activated factor VII in bleeding trauma patients": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it reviews the use of recombinant-activated factor VII (rFVIIa) in trauma patients, including its potential benefits and limitations, which is related to the source paper's investigation of rFVIIa in variceal bleeding.",
+                    "relevance": 2
+                },
+                "4. Hematological problems and liver disease": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it discusses the management of coagulopathy in liver disease, which is related to the source paper's investigation of rFVIIa in variceal bleeding, but it does not directly build on the source paper's findings.",
+                    "relevance": 1
+                },
+                "5. Management of Cirrhosis and Associated Complications": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it discusses the management of complications associated with liver cirrhosis, including coagulopathy, which is related to the source paper's investigation of rFVIIa in variceal bleeding.",
+                    "relevance": 1
+                },
+                "6. Are specific guidelines necessary for treatment of esophageal varices in the Nordic countries?": {
+                    "explanation": "This paper has no connection with the source paper, as it discusses the need for guidelines for the treatment of esophageal varices in the Nordic countries, but it does not mention recombinant activated factor VIIa or its use in variceal bleeding.",
+                    "relevance": 0
+                },
+                "7. The use of recombinant activated factor VIIa in coagulopathic traumatic brain injuries requiring emergent craniotomy: is it beneficial?": {
+                    "explanation": "This paper is a duplicate of paper 1 and has the same explanation and relevance score.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. The use of recombinant activated factor VIIa in coagulopathic traumatic brain injuries requiring emergent craniotomy: is it beneficial?": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the use of recombinant activated factor VIIa (rFVIIa) in a different context (traumatic brain injuries) and builds on the understanding of rFVIIa's effects on coagulopathy established in the source paper.",
+                    "relevance": 2
+                },
+                "2. The role of recombinant-activated factor VII in bleeding trauma patients": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it reviews the use of recombinant-activated factor VII (rFVIIa) in trauma patients, including its potential benefits and limitations, which is related to the source paper's investigation of rFVIIa in variceal bleeding.",
+                    "relevance": 2
+                },
+                "3. The use of recombinant activated factor VIIa in coagulopathic traumatic brain injuries requiring emergent craniotomy: is it beneficial? (Duplicate)": {
+                    "explanation": "This paper is a duplicate of paper 1 and has the same explanation and relevance score.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2010,
+        "source_paper": {
+            "paperId": "015c546beaeaa82da4a29c327a7e47348a66edb9",
+            "pmid": "18393319",
+            "title": "Recombinant factor VIIa for variceal bleeding in patients with advanced cirrhosis: A randomized, controlled trial",
+            "abstract": "A beneficial effect of recombinant activated factor VII (rFVIIa) in Child\u2010Pugh class B and C patients with cirrhosis who have variceal bleeding has been suggested. This randomized controlled trial assessed the efficacy and safety of rFVIIa in patients with advanced cirrhosis and active variceal bleeding. At 31 hospitals in an emergency setting, 256 patients (Child\u2010Pugh > 8; Child\u2010Pugh B = 26%, C = 74%) were randomized equally to: placebo; 600 \u03bcg/kg rFVIIa (200 + 4\u00d7 100 \u03bcg/kg); or 300 \u03bcg/kg rFVIIa (200 + 100 \u03bcg/kg). Dosing was intravenous at 0, 2, 8, 14, and 20 hours after endoscopy, in addition to standard vasoactive, prophylactic antibiotic, and endoscopic treatment. The primary composite endpoint consisted of failure to control 24\u2010hour bleeding, or failure to prevent rebleeding or death at day 5. Secondary endpoints included adverse events and 42\u2010day mortality. Baseline characteristics were comparable between groups. Administration of rFVIIa had no significant effect on the composite endpoint compared with placebo (P = 0.37). There was no significant difference in 5\u2010day mortality between groups; however, 42\u2010day mortality was significantly lower with 600 \u03bcg/kg rFVIIa compared with placebo (odds ratio 0.31, 95% confidence interval = 0.13\u20130.74), and bleeding\u2010related deaths were reduced from 12% (placebo) to 2% (600 \u03bcg/kg). A marked heterogeneity in the failure rate in all treatment groups was observed across participating centers. Adverse events, including overall thromboembolic events, were comparable between groups. Conclusion: Treatment with rFVIIa had no significant effect on the primary composite endpoint compared with placebo. Therefore, decision on the use of this hemostatic agent in acute variceal bleeding should be carefully considered, because results of this study do not support the routine use of rFVIIa in this setting. Adverse events were comparable across groups. (HEPATOLOGY 2008.)",
+            "year": 2008,
+            "citation_count": 298
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Recombinant factor VIIa: an assessment of evidence regarding its efficacy and safety in the off-label setting": {
+                    "explanation": "This paper discusses the efficacy and safety of recombinant factor VIIa (rFVIIa) in off-label settings, which is related to the source paper's investigation of rFVIIa in variceal bleeding. However, the paper does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "2. Safety of recombinant activated factor VII in randomized clinical trials": {
+                    "explanation": "This paper assesses the safety of recombinant activated factor VII (rFVIIa) in randomized clinical trials, including its thromboembolic risk. The paper's findings are relevant to the source paper's discussion of rFVIIa's safety and efficacy in variceal bleeding.",
+                    "relevance": 1
+                },
+                "3. Early use of TIPS for cirrhosis and variceal bleeding": {
+                    "explanation": "This paper discusses the use of transjugular intrahepatic portosystemic shunt (TIPS) in cirrhosis and variceal bleeding, which is a different treatment approach than rFVIIa. The paper does not have a direct connection to the source paper.",
+                    "relevance": 0
+                },
+                "4. Acute esophageal variceal bleeding: Current strategies and new perspectives": {
+                    "explanation": "This paper reviews the current management strategies for acute variceal bleeding, including pharmacological and endoscopic therapies. While the paper discusses variceal bleeding, it does not specifically address rFVIIa or build upon the source paper's findings.",
+                    "relevance": 0
+                },
+                "5. Variceal bleeding: consensus meeting report from the Brazilian Society of Hepatology": {
+                    "explanation": "This paper presents the consensus meeting report from the Brazilian Society of Hepatology on the management of variceal bleeding. The paper is a review of existing literature and does not have a direct connection to the source paper.",
+                    "relevance": 0
+                },
+                "6. Emergency sclerotherapy versus vasoactive drugs for bleeding oesophageal varices in cirrhotic patients": {
+                    "explanation": "This paper compares emergency sclerotherapy with vasoactive drugs for variceal bleeding in cirrhotic patients. The paper does not specifically address rFVIIa or build upon the source paper's findings.",
+                    "relevance": 0
+                },
+                "7. Management of varices and variceal hemorrhage in cirrhosis": {
+                    "explanation": "This paper reviews the management of varices and variceal hemorrhage in cirrhosis, including primary prophylaxis, treatment of acute bleeding episodes, and secondary prophylaxis. The paper does not specifically address rFVIIa or build upon the source paper's findings.",
+                    "relevance": 0
+                },
+                "8. Thromboembolic Events With Recombinant Activated Factor VII in Spontaneous Intracerebral Hemorrhage: Results From the Factor Seven for Acute Hemorrhagic Stroke (FAST) Trial": {
+                    "explanation": "This paper investigates the thromboembolic events associated with recombinant activated factor VII (rFVIIa) in spontaneous intracerebral hemorrhage. The paper's findings are relevant to the source paper's discussion of rFVIIa's safety and efficacy in variceal bleeding.",
+                    "relevance": 1
+                },
+                "9. VARICEAL BLEEDING : consensus meeting report from the Brazilian Society of Hepatology": {
+                    "explanation": "This paper is a duplicate of paper 5 and presents the consensus meeting report from the Brazilian Society of Hepatology on the management of variceal bleeding. The paper is a review of existing literature and does not have a direct connection to the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Recombinant factor VIIa: an assessment of evidence regarding its efficacy and safety in the off-label setting": {
+                    "explanation": "This paper discusses the efficacy and safety of recombinant factor VIIa (rFVIIa) in off-label settings, which is related to the source paper's investigation of rFVIIa in variceal bleeding. However, the paper does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "2. Safety of recombinant activated factor VII in randomized clinical trials": {
+                    "explanation": "This paper assesses the safety of recombinant activated factor VII (rFVIIa) in randomized clinical trials, including its thromboembolic risk. The paper's findings are relevant to the source paper's discussion of rFVIIa's safety and efficacy in variceal bleeding.",
+                    "relevance": 1
+                },
+                "3. Thromboembolic Events With Recombinant Activated Factor VII in Spontaneous Intracerebral Hemorrhage: Results From the Factor Seven for Acute Hemorrhagic Stroke (FAST) Trial": {
+                    "explanation": "This paper investigates the thromboembolic events associated with recombinant activated factor VII (rFVIIa) in spontaneous intracerebral hemorrhage. The paper's findings are relevant to the source paper's discussion of rFVIIa's safety and efficacy in variceal bleeding.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2010,
+        "source_paper": {
+            "paperId": "ef33e36ab337e6a38edaf5ff9406fafdd5be141b",
+            "title": "The use of recombinant activated factor VIIa in coagulopathic traumatic brain injuries requiring emergent craniotomy: is it beneficial?",
+            "abstract": "Object. The role of recombinant activated factor VII (rFVIIa) in traumatic brain injury (TBI) has not been well established. This study evaluates the outcomes of using rFVIIa as first-line therapy in patients with a severe TBI requiring emergent craniotomy that are coagulopathic. Methods. The authors retrospectively reviewed patients admitted between 2003 and 2006 to a Level I trauma center with a severe TBI requiring an emergency craniotomy. Eighteen patients with coagulopathy that was corrected using rFVIIa were identified. Variables evaluated included age, injury severity score, head abbreviated injury score, Glasgow Coma Scale score, international normalized ratio, time to operation, operative procedure, thromboembolic events, and death. Results. The cohort consisted of 18 patients, predominantly male (55.6%) with a mean age of 80.5 years. The most common mechanism of injury was a fall. Coagulopathy was due to premorbid anticoagulants in 50% of the cohort. Time from admission to operation was 130 minutes. Coagulopathy reversal was complete in all 18 cases (100%). A high mortality rate (55.6%) was attributed to a high incidence of withdrawal of care (50%). The incidence of thromboembolic events was low (5.6%). Survivors, when compared with nonsurvivors, had a > 3-fold increase in postoperative Glasgow Coma Scale score for similar preoperative scores. A good functional outcome was achieved in 75% of survivors with a mean follow-up period of 4.2 months. Conclusions. The use of rFVIIa in the correction of coagulopathy in patients having sustained severe TBI requiring emergency craniotomy appears to be safe and effective even among the elderly. This allows a shorter transit time to craniotomy. Its effects on mortality and long-term neurological outcome requires further investigation prospectively. (DOI: 10.3171/2009.4.JNS081611) Key W or D s \u2022 traumatic\u2002brain\u2002injury \u2022 recombinant\u2002activated\u2002factor VIIa \u2022 emergency\u2002craniectomy",
+            "year": 2009,
+            "citation_count": 15,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the use of recombinant activated factor VIIa (rFVIIa) in a different context (traumatic brain injuries) and builds on the understanding of rFVIIa's effects on coagulopathy established in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1.Insertion of Intracranial Pressure Monitors in Fulminant Hepatic Failure Patients: Early Experience Using Recombinant Factor VII": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it uses recombinant activated factor VII (rFVIIa) in a different clinical context, i.e., insertion of intracranial pressure monitors in fulminant hepatic failure patients. The source paper's findings on the safety and effectiveness of rFVIIa in correcting coagulopathy in traumatic brain injury patients provide a basis for its use in this new context.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1.Insertion of Intracranial Pressure Monitors in Fulminant Hepatic Failure Patients: Early Experience Using Recombinant Factor VII": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it uses recombinant activated factor VII (rFVIIa) in a different clinical context, i.e., insertion of intracranial pressure monitors in fulminant hepatic failure patients. The source paper's findings on the safety and effectiveness of rFVIIa in correcting coagulopathy in traumatic brain injury patients provide a basis for its use in this new context.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2011,
+        "source_paper": {
+            "paperId": "ef33e36ab337e6a38edaf5ff9406fafdd5be141b",
+            "title": "The use of recombinant activated factor VIIa in coagulopathic traumatic brain injuries requiring emergent craniotomy: is it beneficial?",
+            "abstract": "Object. The role of recombinant activated factor VII (rFVIIa) in traumatic brain injury (TBI) has not been well established. This study evaluates the outcomes of using rFVIIa as first-line therapy in patients with a severe TBI requiring emergent craniotomy that are coagulopathic. Methods. The authors retrospectively reviewed patients admitted between 2003 and 2006 to a Level I trauma center with a severe TBI requiring an emergency craniotomy. Eighteen patients with coagulopathy that was corrected using rFVIIa were identified. Variables evaluated included age, injury severity score, head abbreviated injury score, Glasgow Coma Scale score, international normalized ratio, time to operation, operative procedure, thromboembolic events, and death. Results. The cohort consisted of 18 patients, predominantly male (55.6%) with a mean age of 80.5 years. The most common mechanism of injury was a fall. Coagulopathy was due to premorbid anticoagulants in 50% of the cohort. Time from admission to operation was 130 minutes. Coagulopathy reversal was complete in all 18 cases (100%). A high mortality rate (55.6%) was attributed to a high incidence of withdrawal of care (50%). The incidence of thromboembolic events was low (5.6%). Survivors, when compared with nonsurvivors, had a > 3-fold increase in postoperative Glasgow Coma Scale score for similar preoperative scores. A good functional outcome was achieved in 75% of survivors with a mean follow-up period of 4.2 months. Conclusions. The use of rFVIIa in the correction of coagulopathy in patients having sustained severe TBI requiring emergency craniotomy appears to be safe and effective even among the elderly. This allows a shorter transit time to craniotomy. Its effects on mortality and long-term neurological outcome requires further investigation prospectively. (DOI: 10.3171/2009.4.JNS081611) Key W or D s \u2022 traumatic\u2002brain\u2002injury \u2022 recombinant\u2002activated\u2002factor VIIa \u2022 emergency\u2002craniectomy",
+            "year": 2009,
+            "citation_count": 15,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the use of recombinant activated factor VIIa (rFVIIa) in a different context (traumatic brain injuries) and builds on the understanding of rFVIIa's effects on coagulopathy established in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Systematic Review: Benefits and Harms of In-Hospital Use of Recombinant Factor VIIa for Off-Label Indications": {
+                    "explanation": "This paper is a review paper that summarizes existing literature on the use of recombinant factor VIIa for off-label indications, including traumatic brain injury. It does not present a novel hypothesis or findings and lacks a direct connection to the source paper.",
+                    "relevance": 0
+                },
+                "2. A retrospective case control study of recombinant factor VIIa in patients with intracranial haemorrhage caused by trauma": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the use of recombinant factor VIIa in patients with intracranial hemorrhage caused by trauma, which is a related indication to the source paper's focus on traumatic brain injury.",
+                    "relevance": 1
+                },
+                "3. Evaluation of mutations in the isocitrate dehydrogenase genes in therapy\u2010related and secondary acute myeloid leukaemia identifies a patient with clonal evolution to IDH2 R172K homozygosity due to uniparental disomy": {
+                    "explanation": "This paper has no connection to the source paper, as it discusses a completely different topic related to mutations in the isocitrate dehydrogenase genes in acute myeloid leukemia.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. A retrospective case control study of recombinant factor VIIa in patients with intracranial haemorrhage caused by trauma": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the use of recombinant factor VIIa in patients with intracranial hemorrhage caused by trauma, which is a related indication to the source paper's focus on traumatic brain injury.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2011,
+        "source_paper": {
+            "paperId": "ee405fc57f3ed383d625cbe731653846864b6cea",
+            "title": "Insertion of Intracranial Pressure Monitors in Fulminant Hepatic Failure Patients: Early Experience Using Recombinant Factor VII",
+            "abstract": "BACKGROUNDCerebral edema contributes to the high morbidity and mortality of fulminant hepatic failure (FHF). OBJECTIVEWe report the results of our early experience with insertion of intraparenchymal intracranial pressure (ICP) monitors in these highly coagulopathic patients. METHODSEleven consecutive patients with FHF met the criteria for invasive ICP monitoring. Recombinant activated factor VII (rFVIIa) was administered at an average dose of 3 mg intravenous bolus (average, 36.7 \u03bcg/kg). We inserted the intraparenchymal ICP monitor within 15 minutes to 2 hours after rFVIIa administration, without waiting for the repeat coagulation results. Postprocedure computed tomographic scans of the brain were obtained in all patients. RESULTSNo hemorrhagic complications were detected on the immediate postprocedure computed tomographic scans. There were no thrombotic complications in this group of patients. CONCLUSIONIn this group of patients with FHF, placement of an ICP monitor without hemorrhagic or thrombotic complications was feasible after administration of rFVIIa. This is a report of our early experience, and caution is advised. Further collaborative randomized studies are needed to prove the efficacy, optimal dosing, and cost effectiveness of rFVIIa for the placement of ICP monitors in this group of patients.",
+            "year": 2010,
+            "citation_count": 37,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it uses recombinant activated factor VII (rFVIIa) in a different clinical context, i.e., insertion of intracranial pressure monitors in fulminant hepatic failure patients. The source paper's findings on the safety and effectiveness of rFVIIa in correcting coagulopathy in traumatic brain injury patients provide a basis for its use in this new context."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Clinical Usefulness of Recombinant Activated Factor VII in Patients with Liver Failure Undergoing Invasive Procedures": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it evaluates the use of recombinant activated factor VII (rFVIIa) in patients with liver failure undergoing invasive procedures, which includes the placement of intracranial pressure monitors.",
+                    "relevance": 2
+                },
+                "2. Intracranial pressure monitoring in meningitis: thinking beyond traumatic brain injury.": {
+                    "explanation": "This paper has no connection with the source paper, as it discusses intracranial pressure monitoring in the context of meningitis, which is unrelated to the source paper's focus on fulminant hepatic failure and the use of rFVIIa.",
+                    "relevance": 0
+                },
+                "3. The Use of Activated Recombinant Factor VII in a Patient with Fulminant Hepatic Failure Requiring Placement of an Intracranial Pressure Monitor": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it reports a case where rFVIIa was used to facilitate the placement of an intracranial pressure monitor in a patient with fulminant hepatic failure, which is similar to the scenario described in the source paper.",
+                    "relevance": 2
+                },
+                "4. AASLD Position Paper: The Management of Acute Liver Failure: Update 2011": {
+                    "explanation": "This paper has no connection with the source paper, as it is a review paper that provides recommendations for the management of acute liver failure, but does not specifically address the use of rFVIIa or intracranial pressure monitoring in this context.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Clinical Usefulness of Recombinant Activated Factor VII in Patients with Liver Failure Undergoing Invasive Procedures": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it evaluates the use of recombinant activated factor VII (rFVIIa) in patients with liver failure undergoing invasive procedures, which includes the placement of intracranial pressure monitors.",
+                    "relevance": 2
+                },
+                "2. The Use of Activated Recombinant Factor VII in a Patient with Fulminant Hepatic Failure Requiring Placement of an Intracranial Pressure Monitor": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it reports a case where rFVIIa was used to facilitate the placement of an intracranial pressure monitor in a patient with fulminant hepatic failure, which is similar to the scenario described in the source paper.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2012,
+        "source_paper": {
+            "paperId": "ee405fc57f3ed383d625cbe731653846864b6cea",
+            "title": "Insertion of Intracranial Pressure Monitors in Fulminant Hepatic Failure Patients: Early Experience Using Recombinant Factor VII",
+            "abstract": "BACKGROUNDCerebral edema contributes to the high morbidity and mortality of fulminant hepatic failure (FHF). OBJECTIVEWe report the results of our early experience with insertion of intraparenchymal intracranial pressure (ICP) monitors in these highly coagulopathic patients. METHODSEleven consecutive patients with FHF met the criteria for invasive ICP monitoring. Recombinant activated factor VII (rFVIIa) was administered at an average dose of 3 mg intravenous bolus (average, 36.7 \u03bcg/kg). We inserted the intraparenchymal ICP monitor within 15 minutes to 2 hours after rFVIIa administration, without waiting for the repeat coagulation results. Postprocedure computed tomographic scans of the brain were obtained in all patients. RESULTSNo hemorrhagic complications were detected on the immediate postprocedure computed tomographic scans. There were no thrombotic complications in this group of patients. CONCLUSIONIn this group of patients with FHF, placement of an ICP monitor without hemorrhagic or thrombotic complications was feasible after administration of rFVIIa. This is a report of our early experience, and caution is advised. Further collaborative randomized studies are needed to prove the efficacy, optimal dosing, and cost effectiveness of rFVIIa for the placement of ICP monitors in this group of patients.",
+            "year": 2010,
+            "citation_count": 37,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it uses recombinant activated factor VII (rFVIIa) in a different clinical context, i.e., insertion of intracranial pressure monitors in fulminant hepatic failure patients. The source paper's findings on the safety and effectiveness of rFVIIa in correcting coagulopathy in traumatic brain injury patients provide a basis for its use in this new context."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Introduction to the Revised American Association for the Study of Liver Diseases Position Paper on Acute Liver Failure 2011": {
+                    "explanation": "This paper is a review paper and does not present any novel hypothesis or findings that are directly connected to the source paper. The source paper discusses the use of recombinant factor VII for the insertion of intracranial pressure monitors in fulminant hepatic failure patients, while this paper provides an overview of the diagnosis and management of acute liver failure.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2013,
+        "source_paper": {
+            "paperId": "7c0a155dd27497e5cbdef6410433278dca47e121",
+            "title": "Clinical Usefulness of Recombinant Activated Factor VII in Patients with Liver Failure Undergoing Invasive Procedures",
+            "abstract": "Objective: To evaluate the use of recombinant activated factor VII (rFVIIa) in patients with liver failure undergoing invasive procedures. Methods: An OVID/MEDUNE and PubMed search (1997-June 2011) was performed to identify literature on the use of rFVIIa to reduce bleeding risk in patients with liver failure undergoing invasive procedures. Study Selection and Data Extraction: English-language data evaluating the efficacy of rFVIIa to reverse coagulopathies prior to invasive procedures in patients with liver disease were included. Data Synthesis: Following administration of rFVIIa, prothrombin time (PT) and international normalized ratio (INR) response is within 30 minutes. Doses ranging from 20 to 120 \u03bcg/kg have been studied, with a reduction in PT seen in a dose-dependent manner. One study in patients with no bleeding administered 5, 20, and 80 \u03bcg/kg sequentially during a 24-day period. All doses provided reversal of prolonged PT within 10 minutes, and the duration was dose-dependent. In a study of 15 patients with fulminant liver failure, requiring intracranial pressure monitor placement, a rFVIIa dose of 40 \u03bcg/kg was compared to fresh frozen plasma. In patients who received rFVIIa, the PT and INR normalized, compared to none of the patients in the fresh frozen plasma group. Conclusions: Retrospective and prospective data demonstrate that rFVIIa effectively reverses elevated PT and INR, reducing the risk of bleeding and safely facilitating invasive procedures. Based on available data, a dose of 20-40 \u03bcg/kg 30 minutes prior to an invasive procedure should be considered in patients with acute or chronic liver failure at risk for bleeding complications. A major limitation of rFVIIa use is the high cost of therapy. A prospective, randomized trial could help determine the appropriate dose of rFVIIa, timing of dose in relationship to procedure, and usefulness of subsequent doses.",
+            "year": 2011,
+            "citation_count": 28,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it evaluates the use of recombinant activated factor VII (rFVIIa) in patients with liver failure undergoing invasive procedures, which includes the placement of intracranial pressure monitors."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Hematologic manifestations of liver disease": {
+                    "explanation": "This paper has no direct connection with the source paper as it does not mention the use of recombinant activated factor VII (rFVIIa) in patients with liver failure undergoing invasive procedures. Instead, it provides a general overview of hematologic manifestations of liver disease and mentions fresh frozen plasma as a temporizing measure in bleeding patients.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2013,
+        "source_paper": {
+            "paperId": "7c0a155dd27497e5cbdef6410433278dca47e121",
+            "title": "Clinical Usefulness of Recombinant Activated Factor VII in Patients with Liver Failure Undergoing Invasive Procedures",
+            "abstract": "Objective: To evaluate the use of recombinant activated factor VII (rFVIIa) in patients with liver failure undergoing invasive procedures. Methods: An OVID/MEDUNE and PubMed search (1997-June 2011) was performed to identify literature on the use of rFVIIa to reduce bleeding risk in patients with liver failure undergoing invasive procedures. Study Selection and Data Extraction: English-language data evaluating the efficacy of rFVIIa to reverse coagulopathies prior to invasive procedures in patients with liver disease were included. Data Synthesis: Following administration of rFVIIa, prothrombin time (PT) and international normalized ratio (INR) response is within 30 minutes. Doses ranging from 20 to 120 \u03bcg/kg have been studied, with a reduction in PT seen in a dose-dependent manner. One study in patients with no bleeding administered 5, 20, and 80 \u03bcg/kg sequentially during a 24-day period. All doses provided reversal of prolonged PT within 10 minutes, and the duration was dose-dependent. In a study of 15 patients with fulminant liver failure, requiring intracranial pressure monitor placement, a rFVIIa dose of 40 \u03bcg/kg was compared to fresh frozen plasma. In patients who received rFVIIa, the PT and INR normalized, compared to none of the patients in the fresh frozen plasma group. Conclusions: Retrospective and prospective data demonstrate that rFVIIa effectively reverses elevated PT and INR, reducing the risk of bleeding and safely facilitating invasive procedures. Based on available data, a dose of 20-40 \u03bcg/kg 30 minutes prior to an invasive procedure should be considered in patients with acute or chronic liver failure at risk for bleeding complications. A major limitation of rFVIIa use is the high cost of therapy. A prospective, randomized trial could help determine the appropriate dose of rFVIIa, timing of dose in relationship to procedure, and usefulness of subsequent doses.",
+            "year": 2011,
+            "citation_count": 28,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it evaluates the use of recombinant activated factor VII (rFVIIa) in patients with liver failure undergoing invasive procedures, which includes the placement of intracranial pressure monitors."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Hematologic manifestations of liver disease": {
+                    "explanation": "This paper has no direct connection to the source paper. While both papers discuss liver disease, the source paper focuses on the clinical usefulness of recombinant activated factor VII in patients with liver failure undergoing invasive procedures, whereas this paper provides a general overview of hematologic manifestations of liver disease without mentioning recombinant activated factor VII or its use in invasive procedures.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2014,
+        "source_paper": {
+            "paperId": "7c0a155dd27497e5cbdef6410433278dca47e121",
+            "title": "Clinical Usefulness of Recombinant Activated Factor VII in Patients with Liver Failure Undergoing Invasive Procedures",
+            "abstract": "Objective: To evaluate the use of recombinant activated factor VII (rFVIIa) in patients with liver failure undergoing invasive procedures. Methods: An OVID/MEDUNE and PubMed search (1997-June 2011) was performed to identify literature on the use of rFVIIa to reduce bleeding risk in patients with liver failure undergoing invasive procedures. Study Selection and Data Extraction: English-language data evaluating the efficacy of rFVIIa to reverse coagulopathies prior to invasive procedures in patients with liver disease were included. Data Synthesis: Following administration of rFVIIa, prothrombin time (PT) and international normalized ratio (INR) response is within 30 minutes. Doses ranging from 20 to 120 \u03bcg/kg have been studied, with a reduction in PT seen in a dose-dependent manner. One study in patients with no bleeding administered 5, 20, and 80 \u03bcg/kg sequentially during a 24-day period. All doses provided reversal of prolonged PT within 10 minutes, and the duration was dose-dependent. In a study of 15 patients with fulminant liver failure, requiring intracranial pressure monitor placement, a rFVIIa dose of 40 \u03bcg/kg was compared to fresh frozen plasma. In patients who received rFVIIa, the PT and INR normalized, compared to none of the patients in the fresh frozen plasma group. Conclusions: Retrospective and prospective data demonstrate that rFVIIa effectively reverses elevated PT and INR, reducing the risk of bleeding and safely facilitating invasive procedures. Based on available data, a dose of 20-40 \u03bcg/kg 30 minutes prior to an invasive procedure should be considered in patients with acute or chronic liver failure at risk for bleeding complications. A major limitation of rFVIIa use is the high cost of therapy. A prospective, randomized trial could help determine the appropriate dose of rFVIIa, timing of dose in relationship to procedure, and usefulness of subsequent doses.",
+            "year": 2011,
+            "citation_count": 28,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it evaluates the use of recombinant activated factor VII (rFVIIa) in patients with liver failure undergoing invasive procedures, which includes the placement of intracranial pressure monitors."
+        },
+        "llama_output": {},
+        "seed": 42
+    },
+    {
+        "year": 2014,
+        "source_paper": {
+            "paperId": "7c0a155dd27497e5cbdef6410433278dca47e121",
+            "title": "Clinical Usefulness of Recombinant Activated Factor VII in Patients with Liver Failure Undergoing Invasive Procedures",
+            "abstract": "Objective: To evaluate the use of recombinant activated factor VII (rFVIIa) in patients with liver failure undergoing invasive procedures. Methods: An OVID/MEDUNE and PubMed search (1997-June 2011) was performed to identify literature on the use of rFVIIa to reduce bleeding risk in patients with liver failure undergoing invasive procedures. Study Selection and Data Extraction: English-language data evaluating the efficacy of rFVIIa to reverse coagulopathies prior to invasive procedures in patients with liver disease were included. Data Synthesis: Following administration of rFVIIa, prothrombin time (PT) and international normalized ratio (INR) response is within 30 minutes. Doses ranging from 20 to 120 \u03bcg/kg have been studied, with a reduction in PT seen in a dose-dependent manner. One study in patients with no bleeding administered 5, 20, and 80 \u03bcg/kg sequentially during a 24-day period. All doses provided reversal of prolonged PT within 10 minutes, and the duration was dose-dependent. In a study of 15 patients with fulminant liver failure, requiring intracranial pressure monitor placement, a rFVIIa dose of 40 \u03bcg/kg was compared to fresh frozen plasma. In patients who received rFVIIa, the PT and INR normalized, compared to none of the patients in the fresh frozen plasma group. Conclusions: Retrospective and prospective data demonstrate that rFVIIa effectively reverses elevated PT and INR, reducing the risk of bleeding and safely facilitating invasive procedures. Based on available data, a dose of 20-40 \u03bcg/kg 30 minutes prior to an invasive procedure should be considered in patients with acute or chronic liver failure at risk for bleeding complications. A major limitation of rFVIIa use is the high cost of therapy. A prospective, randomized trial could help determine the appropriate dose of rFVIIa, timing of dose in relationship to procedure, and usefulness of subsequent doses.",
+            "year": 2011,
+            "citation_count": 28,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it evaluates the use of recombinant activated factor VII (rFVIIa) in patients with liver failure undergoing invasive procedures, which includes the placement of intracranial pressure monitors."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Intracranial pressure in acute liver failure: to bolt or not to bolt-that is the question.": {
+                    "explanation": "This paper is not directly related to the source paper, as it discusses intracranial pressure monitoring in acute liver failure patients, whereas the source paper focuses on the use of recombinant activated factor VII in patients with liver failure undergoing invasive procedures.",
+                    "relevance": 0
+                },
+                "2. Recombinant activated factor VII in patients with acute liver failure with UNOS Status 1A: a single tertiary academic centre experience": {
+                    "explanation": "This paper is directly related to the source paper, as it also investigates the use of recombinant activated factor VII (rFVIIa) in patients with acute liver failure. The key hypothesis in this paper is at least partially dependent on the findings of the source paper, which established the efficacy and safety of rFVIIa in patients with liver failure undergoing invasive procedures.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Recombinant activated factor VII in patients with acute liver failure with UNOS Status 1A: a single tertiary academic centre experience": {
+                    "explanation": "This paper is directly related to the source paper, as it also investigates the use of recombinant activated factor VII (rFVIIa) in patients with acute liver failure. The key hypothesis in this paper is at least partially dependent on the findings of the source paper, which established the efficacy and safety of rFVIIa in patients with liver failure undergoing invasive procedures.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    }
+]

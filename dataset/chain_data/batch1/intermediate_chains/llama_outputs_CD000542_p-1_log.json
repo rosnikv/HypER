@@ -1,0 +1,975 @@
+[
+    {
+        "year": 2007,
+        "source_paper": {
+            "paperId": "c3715ac86cfa8ed3450dcf2fe998dad1a67b59a8",
+            "pmid": "16682258",
+            "title": "Polymeric diet alone versus corticosteroids in the treatment of active pediatric Crohn's disease: a randomized controlled open-label trial.",
+            "abstract": null,
+            "year": 2006,
+            "citation_count": 446
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Systematic review: nutritional therapy in paediatric Crohn\u2019s disease": {
+                    "explanation": "This paper is a review of nutritional therapy in pediatric Crohn's disease, which is not directly connected to the source paper. It lacks novel hypotheses or findings.",
+                    "relevance": 0
+                },
+                "2. Recent advances in the medical therapy of Crohn's disease in childhood": {
+                    "explanation": "This paper reviews the current medical management strategies for Crohn's disease in children, including enteral nutrition, which is partially dependent on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "3. Meta\u2010analysis: enteral nutrition in active Crohn\u2019s disease in children": {
+                    "explanation": "This paper is a meta-analysis of enteral nutrition in active Crohn's disease in children, which is not directly connected to the source paper. It lacks novel hypotheses or findings.",
+                    "relevance": 0
+                },
+                "4. Review article: appropriate use of corticosteroids in Crohn\u2019s disease": {
+                    "explanation": "This paper is a review of the use of corticosteroids in Crohn's disease, which is not directly connected to the source paper. It lacks novel hypotheses or findings.",
+                    "relevance": 0
+                },
+                "5. Diagnosis and management of inflammatory bowel disease in children": {
+                    "explanation": "This paper discusses the diagnosis and management of inflammatory bowel disease in children, which is not directly connected to the source paper. It lacks novel hypotheses or findings.",
+                    "relevance": 0
+                },
+                "6. Enteral nutrition for maintenance of remission in Crohn's disease": {
+                    "explanation": "This paper investigates the use of enteral nutrition for maintaining remission in Crohn's disease, which is partially dependent on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "7. Challenges and progress in pediatric inflammatory bowel disease": {
+                    "explanation": "This paper discusses the recent advances in the management of pediatric inflammatory bowel disease, including the use of enteral nutrition, which is partially dependent on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "8. Enteral nutritional therapy for induction of remission in Crohn's disease": {
+                    "explanation": "This paper investigates the use of enteral nutrition for inducing remission in Crohn's disease, which is partially dependent on the findings of the source paper.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Recent advances in the medical therapy of Crohn's disease in childhood": {
+                    "explanation": "This paper reviews the current medical management strategies for Crohn's disease in children, including enteral nutrition, which is partially dependent on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "2. Enteral nutrition for maintenance of remission in Crohn's disease": {
+                    "explanation": "This paper investigates the use of enteral nutrition for maintaining remission in Crohn's disease, which is partially dependent on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "3. Enteral nutritional therapy for induction of remission in Crohn's disease": {
+                    "explanation": "This paper investigates the use of enteral nutrition for inducing remission in Crohn's disease, which is partially dependent on the findings of the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2008,
+        "source_paper": {
+            "paperId": "c3715ac86cfa8ed3450dcf2fe998dad1a67b59a8",
+            "pmid": "16682258",
+            "title": "Polymeric diet alone versus corticosteroids in the treatment of active pediatric Crohn's disease: a randomized controlled open-label trial.",
+            "abstract": null,
+            "year": 2006,
+            "citation_count": 446
+        },
+        "llama_output": {
+            "paper_list": {
+                "1.Enteral nutrition in adult Crohn's disease: present status and perspectives": {
+                    "explanation": "This paper discusses the use of enteral nutrition in adult Crohn's disease, which is not directly related to the source paper's focus on pediatric Crohn's disease and polymeric diet versus corticosteroids. However, the source paper's findings on polymeric diet could be seen as a sub-hypothesis for this paper's exploration of enteral nutrition in adults.",
+                    "relevance": 0
+                },
+                "2.Nutritional concerns in pediatric inflammatory bowel disease patients": {
+                    "explanation": "This paper discusses nutritional concerns in pediatric inflammatory bowel disease patients, which is related to the source paper's focus on pediatric Crohn's disease. However, it does not directly build upon the source paper's findings on polymeric diet versus corticosteroids.",
+                    "relevance": 0
+                },
+                "3.Nutritional therapy for active Crohn's disease": {
+                    "explanation": "This paper discusses nutritional therapy for active Crohn's disease, which is related to the source paper's focus on polymeric diet in pediatric Crohn's disease. The paper's exploration of elemental and polymeric diets could be seen as inspired by the source paper's findings.",
+                    "relevance": 1
+                },
+                "4.Crohn\u2019s disease: current treatment options": {
+                    "explanation": "This paper provides an overview of current treatment options for Crohn's disease, including enteral nutrition and corticosteroids. The paper's discussion of exclusive enteral nutrition as a first-line treatment for pediatric Crohn's disease could be seen as partially dependent on the source paper's findings.",
+                    "relevance": 2
+                },
+                "5.The Management of Paediatric Crohn\u2019s Disease: Addressing Unmet Needs": {
+                    "explanation": "This paper discusses the management of pediatric Crohn's disease, including the use of biologic therapy and nutritional therapies. The paper's exploration of treatment strategies could be seen as inspired by the source paper's findings on polymeric diet versus corticosteroids.",
+                    "relevance": 1
+                },
+                "6.Specific considerations in the treatment of pediatric inflammatory bowel disease": {
+                    "explanation": "This paper discusses specific considerations in the treatment of pediatric inflammatory bowel disease, including nutritional therapies. The paper's exploration of treatment strategies could be seen as related to the source paper's focus on pediatric Crohn's disease, but not directly building upon its findings.",
+                    "relevance": 0
+                },
+                "7.Special issues in pediatric inflammatory bowel disease": {
+                    "explanation": "This paper discusses special issues in pediatric inflammatory bowel disease, including physical and psychosocial development. The paper's exploration of these issues could be seen as related to the source paper's focus on pediatric Crohn's disease, but not directly building upon its findings.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1.Crohn\u2019s disease: current treatment options": {
+                    "explanation": "This paper provides an overview of current treatment options for Crohn's disease, including enteral nutrition and corticosteroids. The paper's discussion of exclusive enteral nutrition as a first-line treatment for pediatric Crohn's disease could be seen as partially dependent on the source paper's findings.",
+                    "relevance": 2
+                },
+                "2.Nutritional therapy for active Crohn's disease": {
+                    "explanation": "This paper discusses nutritional therapy for active Crohn's disease, which is related to the source paper's focus on polymeric diet in pediatric Crohn's disease. The paper's exploration of elemental and polymeric diets could be seen as inspired by the source paper's findings.",
+                    "relevance": 1
+                },
+                "3.The Management of Paediatric Crohn\u2019s Disease: Addressing Unmet Needs": {
+                    "explanation": "This paper discusses the management of pediatric Crohn's disease, including the use of biologic therapy and nutritional therapies. The paper's exploration of treatment strategies could be seen as inspired by the source paper's findings on polymeric diet versus corticosteroids.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2009,
+        "source_paper": {
+            "paperId": "6e37084e97c295112a501e422029b388986df2fe",
+            "title": "Crohn\u2019s disease: current treatment options",
+            "abstract": "There is no known cure for Crohn\u2019s disease (CD), but a better understanding of the evidence base of both established treatments (such as enteral nutrition, corticosteroids, 5-aminosalicylates and immunosuppressive agents) and emerging treatments (such as the anti-tumour necrosis factor-\u03b1 (anti-TNF-\u03b1) agents, infliximab and adalimumab) provides opportunities to improve and maintain the quality of life for children with the disease. This article provides an overview of the evidence base of current medical treatments that are used to induce and maintain remission in CD. Exclusive enteral nutrition is recommended as the first line of treatment for the induction of remission in paediatric CD. Corticosteroids are also effective for inducing remission but may be associated with significant adverse events. Patients with chronically active CD may benefit from immunosuppressive agents such as azathioprine and methotrexate. Infliximab is effective for inducing remission in patients who continue to have significant active disease despite the use of conventional treatments. Adalimumab may be indicated for patients who develop a severe allergic reaction to infliximab or those who initially respond to infliximab but subsequently lose their response. Treatments that have been shown to be effective for the maintenance of remission include azathioprine, methotrexate, infliximab and adalimumab. Recent evidence also suggests that long-term enteral nutritional supplementation with patients taking about half of their daily calorie requirements as enteral nutrition may be an effective strategy for the maintenance of remission in CD. The available evidence does not support the use of corticosteroids or 5-aminosalicylates as maintenance therapy for CD.",
+            "year": 2008,
+            "citation_count": 51,
+            "relevance": 2,
+            "explanation": "This paper provides an overview of current treatment options for Crohn's disease, including enteral nutrition and corticosteroids. The paper's discussion of exclusive enteral nutrition as a first-line treatment for pediatric Crohn's disease could be seen as partially dependent on the source paper's findings."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Symposium 6: Young people, artificial nutrition and transitional care Nutrition, growth and puberty in children and adolescents with Crohn's disease": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it discusses the nutritional support and growth of children with Crohn's disease, building on the source paper's results regarding treatment options for the disease.",
+                    "relevance": 1
+                },
+                "2. Effects of interactions of antibacterial drugs with each other and with 6-mercaptopurine on in vitro growth of Mycobacterium avium subspecies paratuberculosis": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the use of 6-mercaptopurine in the treatment of Crohn's disease and its interaction with other antibacterial agents.",
+                    "relevance": 2
+                },
+                "3. Crohn Disease and Mycobacterial Infection in Children: An Intriguing Relationship": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it discusses the relationship between Crohn's disease and mycobacterial infection, building on the source paper's results regarding treatment options for the disease.",
+                    "relevance": 2
+                },
+                "4. Successful implementation of a nurse\u2010led teaching programme to independently administer subcutaneous methotrexate in the community setting to children with Crohn\u2019s disease": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it discusses the use of methotrexate in the treatment of Crohn's disease, building on the source paper's results regarding treatment options for the disease.",
+                    "relevance": 1
+                },
+                "5. Super Giant Coronary Aneurysm in Kawasaki Disease": {
+                    "explanation": "This paper has no connection with the source paper, as it discusses a different disease (Kawasaki disease) and its complications.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Effects of interactions of antibacterial drugs with each other and with 6-mercaptopurine on in vitro growth of Mycobacterium avium subspecies paratuberculosis": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the use of 6-mercaptopurine in the treatment of Crohn's disease and its interaction with other antibacterial agents.",
+                    "relevance": 2
+                },
+                "2. Crohn Disease and Mycobacterial Infection in Children: An Intriguing Relationship": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it discusses the relationship between Crohn's disease and mycobacterial infection, building on the source paper's results regarding treatment options for the disease.",
+                    "relevance": 2
+                },
+                "3. Symposium 6: Young people, artificial nutrition and transitional care Nutrition, growth and puberty in children and adolescents with Crohn's disease": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it discusses the nutritional support and growth of children with Crohn's disease, building on the source paper's results regarding treatment options for the disease.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2010,
+        "source_paper": {
+            "paperId": "6e37084e97c295112a501e422029b388986df2fe",
+            "title": "Crohn\u2019s disease: current treatment options",
+            "abstract": "There is no known cure for Crohn\u2019s disease (CD), but a better understanding of the evidence base of both established treatments (such as enteral nutrition, corticosteroids, 5-aminosalicylates and immunosuppressive agents) and emerging treatments (such as the anti-tumour necrosis factor-\u03b1 (anti-TNF-\u03b1) agents, infliximab and adalimumab) provides opportunities to improve and maintain the quality of life for children with the disease. This article provides an overview of the evidence base of current medical treatments that are used to induce and maintain remission in CD. Exclusive enteral nutrition is recommended as the first line of treatment for the induction of remission in paediatric CD. Corticosteroids are also effective for inducing remission but may be associated with significant adverse events. Patients with chronically active CD may benefit from immunosuppressive agents such as azathioprine and methotrexate. Infliximab is effective for inducing remission in patients who continue to have significant active disease despite the use of conventional treatments. Adalimumab may be indicated for patients who develop a severe allergic reaction to infliximab or those who initially respond to infliximab but subsequently lose their response. Treatments that have been shown to be effective for the maintenance of remission include azathioprine, methotrexate, infliximab and adalimumab. Recent evidence also suggests that long-term enteral nutritional supplementation with patients taking about half of their daily calorie requirements as enteral nutrition may be an effective strategy for the maintenance of remission in CD. The available evidence does not support the use of corticosteroids or 5-aminosalicylates as maintenance therapy for CD.",
+            "year": 2008,
+            "citation_count": 51,
+            "relevance": 2,
+            "explanation": "This paper provides an overview of current treatment options for Crohn's disease, including enteral nutrition and corticosteroids. The paper's discussion of exclusive enteral nutrition as a first-line treatment for pediatric Crohn's disease could be seen as partially dependent on the source paper's findings."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Complications of tumor necrosis factor-\u03b1 blockade in chronic granulomatous disease-related colitis": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the use of infliximab, an anti-TNF-\u03b1 agent mentioned in the source paper as a treatment for Crohn\u2019s disease, in a different context (chronic granulomatous disease-related colitis).",
+                    "relevance": 2
+                },
+                "2. Methotrexate in paediatric ulcerative colitis: a retrospective survey at a single tertiary referral centre": {
+                    "explanation": "The key hypothesis in this paper is inspired by the hypothesis or the finding from the source paper, as it explores the use of methotrexate, an immunosuppressive agent mentioned in the source paper as a treatment for Crohn\u2019s disease, in pediatric ulcerative colitis.",
+                    "relevance": 1
+                },
+                "3. Nutritional therapy for the treatment of pediatric Crohn\u2019s disease": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it discusses the benefits of exclusive enteral nutrition (EEN), a treatment recommended in the source paper for the induction of remission in pediatric Crohn\u2019s disease.",
+                    "relevance": 2
+                },
+                "4. Gene Expression Profiling and Network Analysis Reveals Lipid and Steroid Metabolism to Be the Most Favored by TNF\u03b1 in HepG2 Cells": {
+                    "explanation": "This paper has no connection with the source paper, as it explores the effects of TNF\u03b1 on lipid and steroid metabolism in HepG2 cells, which is not directly related to the treatment of Crohn\u2019s disease.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Complications of tumor necrosis factor-\u03b1 blockade in chronic granulomatous disease-related colitis": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the use of infliximab, an anti-TNF-\u03b1 agent mentioned in the source paper as a treatment for Crohn\u2019s disease, in a different context (chronic granulomatous disease-related colitis).",
+                    "relevance": 2
+                },
+                "2. Nutritional therapy for the treatment of pediatric Crohn\u2019s disease": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it discusses the benefits of exclusive enteral nutrition (EEN), a treatment recommended in the source paper for the induction of remission in pediatric Crohn\u2019s disease.",
+                    "relevance": 2
+                },
+                "3. Methotrexate in paediatric ulcerative colitis: a retrospective survey at a single tertiary referral centre": {
+                    "explanation": "The key hypothesis in this paper is inspired by the hypothesis or the finding from the source paper, as it explores the use of methotrexate, an immunosuppressive agent mentioned in the source paper as a treatment for Crohn\u2019s disease, in pediatric ulcerative colitis.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2011,
+        "source_paper": {
+            "paperId": "1f531df5058d96181b2ec7a876602af0219b405d",
+            "title": "Complications of tumor necrosis factor-\u03b1 blockade in chronic granulomatous disease-related colitis.",
+            "abstract": "BACKGROUND\nChronic granulomatous disease (CGD) is a genetic disorder of the phagocyte NADPH oxidase, which predisposes patients to infections and inflammatory complications, including severe colitis. Management of CGD colitis is a challenge because standard immunosuppressive therapy increases the risk of infection in already immunocompromised hosts.\n\n\nMETHODS\nWe report the use of infliximab in 5 patients with CGD.\n\n\nRESULTS\nInfliximab administration predisposed patients to severe infections with typical CGD pathogens but not mycobacteria, as reported with infliximab in other conditions. In addition to infections, infliximab administration led to successful closure of fistulae, sometimes with other untoward consequences. Infliximab-associated complications were associated with 2 deaths.\n\n\nCONCLUSIONS\nInfliximab use in the treatment of CGD inflammatory bowel disease requires aggressive antimicrobial prophylaxis, assiduous surveillance for infection, and vigilance for untoward gastrointestinal complications. This experience suggests that infliximab therapy is effective but has untoward consequences in patients with CGD.",
+            "year": 2010,
+            "citation_count": 158,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the use of infliximab, an anti-TNF-\u03b1 agent mentioned in the source paper as a treatment for Crohn\u2019s disease, in a different context (chronic granulomatous disease-related colitis)."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Defective innate immunity in inflammatory bowel disease: a Crohn's disease exclusivity?": {
+                    "explanation": "The source paper explores the complications of tumor necrosis factor-\u03b1 blockade in chronic granulomatous disease-related colitis. This paper discusses defective innate immunity in inflammatory bowel disease, specifically in Crohn's disease. Although it doesn't directly build upon the source paper's findings or use them as a sub-hypothesis, it shares a common topic of inflammatory bowel disease and explores the underlying immunological mechanisms. However, it does not directly relate to the source paper's focus on tumor necrosis factor-\u03b1 blockade in chronic granulomatous disease. Therefore, the relevance is 0.",
+                    "relevance": 0
+                },
+                "2. Immunosuppressive and Cytotoxic Therapy: Pharmacology, Toxicities, and Monitoring": {
+                    "explanation": "The source paper examines the use of infliximab, a type of immunosuppressive therapy, in patients with chronic granulomatous disease. This paper reviews immunosuppressive and cytotoxic therapies, including their pharmacology, toxicities, and monitoring. While it does not directly build upon the source paper's findings or use them as a sub-hypothesis, it shares a common topic of immunosuppressive therapy. However, it does not directly relate to the source paper's focus on chronic granulomatous disease or tumor necrosis factor-\u03b1 blockade. Therefore, the relevance is 0.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2012,
+        "source_paper": {
+            "paperId": "1f531df5058d96181b2ec7a876602af0219b405d",
+            "title": "Complications of tumor necrosis factor-\u03b1 blockade in chronic granulomatous disease-related colitis.",
+            "abstract": "BACKGROUND\nChronic granulomatous disease (CGD) is a genetic disorder of the phagocyte NADPH oxidase, which predisposes patients to infections and inflammatory complications, including severe colitis. Management of CGD colitis is a challenge because standard immunosuppressive therapy increases the risk of infection in already immunocompromised hosts.\n\n\nMETHODS\nWe report the use of infliximab in 5 patients with CGD.\n\n\nRESULTS\nInfliximab administration predisposed patients to severe infections with typical CGD pathogens but not mycobacteria, as reported with infliximab in other conditions. In addition to infections, infliximab administration led to successful closure of fistulae, sometimes with other untoward consequences. Infliximab-associated complications were associated with 2 deaths.\n\n\nCONCLUSIONS\nInfliximab use in the treatment of CGD inflammatory bowel disease requires aggressive antimicrobial prophylaxis, assiduous surveillance for infection, and vigilance for untoward gastrointestinal complications. This experience suggests that infliximab therapy is effective but has untoward consequences in patients with CGD.",
+            "year": 2010,
+            "citation_count": 158,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the use of infliximab, an anti-TNF-\u03b1 agent mentioned in the source paper as a treatment for Crohn\u2019s disease, in a different context (chronic granulomatous disease-related colitis)."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Hyperinflammation of chronic granulomatous disease is abolished by NOX2 reconstitution in macrophages and dendritic cells": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it explores the underlying mechanisms of chronic granulomatous disease (CGD) and its complications, which is a key aspect of the source paper. However, it does not directly build upon the source paper's results regarding infliximab treatment.",
+                    "relevance": 1
+                },
+                "2. Aspergillus nidulans and chronic granulomatous disease: a unique host-pathogen interaction": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it discusses the susceptibility of CGD patients to infections, which is a complication mentioned in the source paper. However, it focuses on a specific pathogen and its interaction with the host, rather than directly building upon the source paper's results regarding infliximab treatment.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Aspergillus nidulans and chronic granulomatous disease: a unique host-pathogen interaction": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it discusses the susceptibility of CGD patients to infections, which is a complication mentioned in the source paper. However, it focuses on a specific pathogen and its interaction with the host, rather than directly building upon the source paper's results regarding infliximab treatment.",
+                    "relevance": 2
+                },
+                "2. Hyperinflammation of chronic granulomatous disease is abolished by NOX2 reconstitution in macrophages and dendritic cells": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it explores the underlying mechanisms of chronic granulomatous disease (CGD) and its complications, which is a key aspect of the source paper. However, it does not directly build upon the source paper's results regarding infliximab treatment.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2013,
+        "source_paper": {
+            "paperId": "fba4be4c4a9b10d496308be4b0c4ba6d450df7fa",
+            "title": "Aspergillus nidulans and chronic granulomatous disease: a unique host-pathogen interaction.",
+            "abstract": "Invasive fungal infections are a major threat for patients suffering from chronic granulomatous disease (CGD), a primary immunodeficiency caused by a defect in the nicotinamide adenine dinucleotide phosphate (NADPH)-oxidase. Interestingly, Aspergillus (Emericella) nidulans is the second most encountered mold in CGD patients, causing almost exclusively invasive infections in this specific host, and is characterized by its aggressive behavior. A proper diagnosis is complicated by the often mild clinical presentation, the low sensitivity of the currently used diagnostic tools, and the difficulties in accurate identification of the Emericella species. According to the hitherto accepted view on the role of the NADPH-oxidase in the innate host-defense pathway, the pathogenesis of A. nidulans in CGD cannot be explained. This synopsis covers the current understanding of invasive infections caused by A. nidulans in the CGD patient and is intended to direct further research by indicating gaps in our knowledge and to guide optimal management strategies.",
+            "year": 2012,
+            "citation_count": 98,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it discusses the susceptibility of CGD patients to infections, which is a complication mentioned in the source paper. However, it focuses on a specific pathogen and its interaction with the host, rather than directly building upon the source paper's results regarding infliximab treatment."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Targeting Fungal Genes by Diced siRNAs: A Rapid Tool to Decipher Gene Function in Aspergillus nidulans": {
+                    "explanation": "Although the paper focuses on gene silencing in Aspergillus nidulans, it does not appear to be directly related to the source paper's topic of chronic granulomatous disease (CGD) and its interaction with A. nidulans. The paper's hypothesis is not inspired by or dependent on the source paper's findings.",
+                    "relevance": 0
+                },
+                "2. Chloroquine modulates the fungal immune response in phagocytic cells from patients with chronic granulomatous disease": {
+                    "explanation": "This paper is directly related to the source paper as it investigates the interaction between CGD and Aspergillus nidulans. The paper's hypothesis is partially dependent on the source paper's findings, as it explores the antifungal capacity of phagocytic cells in CGD patients and the effect of chloroquine on this process.",
+                    "relevance": 2
+                },
+                "3. Low-Volume Toolbox for the Discovery of Immunosuppressive Fungal Secondary Metabolites": {
+                    "explanation": "Although the paper mentions Aspergillus, it does not specifically focus on A. nidulans or CGD. The paper's hypothesis is not directly related to the source paper's findings, but it does explore the immunosuppressive properties of fungal secondary metabolites, which could be relevant to understanding the interaction between CGD and A. nidulans.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Chloroquine modulates the fungal immune response in phagocytic cells from patients with chronic granulomatous disease": {
+                    "explanation": "This paper is directly related to the source paper as it investigates the interaction between CGD and Aspergillus nidulans. The paper's hypothesis is partially dependent on the source paper's findings, as it explores the antifungal capacity of phagocytic cells in CGD patients and the effect of chloroquine on this process.",
+                    "relevance": 2
+                },
+                "2. Low-Volume Toolbox for the Discovery of Immunosuppressive Fungal Secondary Metabolites": {
+                    "explanation": "Although the paper mentions Aspergillus, it does not specifically focus on A. nidulans or CGD. The paper's hypothesis is not directly related to the source paper's findings, but it does explore the immunosuppressive properties of fungal secondary metabolites, which could be relevant to understanding the interaction between CGD and A. nidulans.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2014,
+        "source_paper": {
+            "paperId": "fba4be4c4a9b10d496308be4b0c4ba6d450df7fa",
+            "title": "Aspergillus nidulans and chronic granulomatous disease: a unique host-pathogen interaction.",
+            "abstract": "Invasive fungal infections are a major threat for patients suffering from chronic granulomatous disease (CGD), a primary immunodeficiency caused by a defect in the nicotinamide adenine dinucleotide phosphate (NADPH)-oxidase. Interestingly, Aspergillus (Emericella) nidulans is the second most encountered mold in CGD patients, causing almost exclusively invasive infections in this specific host, and is characterized by its aggressive behavior. A proper diagnosis is complicated by the often mild clinical presentation, the low sensitivity of the currently used diagnostic tools, and the difficulties in accurate identification of the Emericella species. According to the hitherto accepted view on the role of the NADPH-oxidase in the innate host-defense pathway, the pathogenesis of A. nidulans in CGD cannot be explained. This synopsis covers the current understanding of invasive infections caused by A. nidulans in the CGD patient and is intended to direct further research by indicating gaps in our knowledge and to guide optimal management strategies.",
+            "year": 2012,
+            "citation_count": 98,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it discusses the susceptibility of CGD patients to infections, which is a complication mentioned in the source paper. However, it focuses on a specific pathogen and its interaction with the host, rather than directly building upon the source paper's results regarding infliximab treatment."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1.Isolation and Identification of Aspergillus spp. from Brown Kiwi (Apteryx mantelli) Nocturnal Houses in New Zealand": {
+                    "explanation": "This paper has no connection with the source paper, as it focuses on the isolation and identification of Aspergillus spp. in a different context (brown kiwi nocturnal houses in New Zealand) and does not build upon or reference the findings of the source paper on Aspergillus nidulans and chronic granulomatous disease.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2014,
+        "source_paper": {
+            "paperId": "e516aba904a106d4e335098b8e69b2e8707939c1",
+            "title": "Chloroquine modulates the fungal immune response in phagocytic cells from patients with chronic granulomatous disease.",
+            "abstract": "Invasive aspergillosis is a major threat to patients with chronic granulomatous disease (CGD). Fungal pathogenesis is the result of a diminished antifungal capacity and dysregulated inflammation. A deficient NADPH-oxidase complex results in defective phagolysosomal alkalization. To investigate the contribution of defective pH regulation in phagocytes among patients with CGD during fungal pathogenesis, we evaluated the effect of the acidotropic, antimalarial drug chloroquine (CQ) on the antifungal capacity of polymorphonuclear cells (PMNs) and on the inflammatory response of peripheral blood mononuclear cells (PBMCs). Chloroquine exerted a direct pH-dependent antifungal effect on Aspergillus fumigatus and Aspergillus nidulans; it increased the antifungal activity of PMNs from patients with CGD at a significantly lower concentration, compared with the concentration for PMNs from healthy individuals; and decreased the hyperinflammatory state of PBMCs from patients with CGD, as observed by decreased tumor necrosis factor \u03b1 and interleukin 1\u03b2 release. Chloroquine targets both limbs of fungal pathogenesis and might be of great value in the clearance of invasive aspergillosis in patients with CGD.",
+            "year": 2013,
+            "citation_count": 38,
+            "relevance": 2,
+            "explanation": "This paper is directly related to the source paper as it investigates the interaction between CGD and Aspergillus nidulans. The paper's hypothesis is partially dependent on the source paper's findings, as it explores the antifungal capacity of phagocytic cells in CGD patients and the effect of chloroquine on this process."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Diagnosis and treatment of pulmonary aspergillosis syndromes": {
+                    "explanation": "Although this paper discusses the treatment of pulmonary aspergillosis, it does not directly relate to the source paper's findings on chloroquine's effect on fungal pathogenesis in patients with chronic granulomatous disease. The paper is more focused on general diagnosis and treatment of pulmonary aspergillosis syndromes.",
+                    "relevance": 0
+                },
+                "2. Xenophagy in Helicobacter pylori\u2010 and Epstein\u2013Barr virus\u2010induced gastric cancer": {
+                    "explanation": "This paper is a review paper and does not have a direct connection to the source paper. The paper discusses xenophagy in the context of H. pylori- and EBV-induced gastric cancer, which is unrelated to the source paper's focus on chloroquine's effect on fungal pathogenesis in patients with chronic granulomatous disease.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2016,
+        "source_paper": {
+            "paperId": "e516aba904a106d4e335098b8e69b2e8707939c1",
+            "title": "Chloroquine modulates the fungal immune response in phagocytic cells from patients with chronic granulomatous disease.",
+            "abstract": "Invasive aspergillosis is a major threat to patients with chronic granulomatous disease (CGD). Fungal pathogenesis is the result of a diminished antifungal capacity and dysregulated inflammation. A deficient NADPH-oxidase complex results in defective phagolysosomal alkalization. To investigate the contribution of defective pH regulation in phagocytes among patients with CGD during fungal pathogenesis, we evaluated the effect of the acidotropic, antimalarial drug chloroquine (CQ) on the antifungal capacity of polymorphonuclear cells (PMNs) and on the inflammatory response of peripheral blood mononuclear cells (PBMCs). Chloroquine exerted a direct pH-dependent antifungal effect on Aspergillus fumigatus and Aspergillus nidulans; it increased the antifungal activity of PMNs from patients with CGD at a significantly lower concentration, compared with the concentration for PMNs from healthy individuals; and decreased the hyperinflammatory state of PBMCs from patients with CGD, as observed by decreased tumor necrosis factor \u03b1 and interleukin 1\u03b2 release. Chloroquine targets both limbs of fungal pathogenesis and might be of great value in the clearance of invasive aspergillosis in patients with CGD.",
+            "year": 2013,
+            "citation_count": 38,
+            "relevance": 2,
+            "explanation": "This paper is directly related to the source paper as it investigates the interaction between CGD and Aspergillus nidulans. The paper's hypothesis is partially dependent on the source paper's findings, as it explores the antifungal capacity of phagocytic cells in CGD patients and the effect of chloroquine on this process."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Aspergillosis in Chronic Granulomatous Disease": {
+                    "explanation": "This paper is a review paper discussing the clinical presentation, diagnosis, and treatment of invasive aspergillosis in patients with chronic granulomatous disease. It does not present any novel hypotheses or findings inspired by or dependent on the source paper.",
+                    "relevance": 0
+                },
+                "2. NOX2-dependent regulation of inflammation": {
+                    "explanation": "This paper discusses the role of NOX2 in regulating inflammation and its implications for chronic granulomatous disease. While it shares some background information with the source paper, it does not present any hypotheses or findings directly inspired by or dependent on the source paper. However, it does provide more context on the underlying mechanisms of CGD, which is related to the source paper's topic.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. NOX2-dependent regulation of inflammation": {
+                    "explanation": "This paper discusses the role of NOX2 in regulating inflammation and its implications for chronic granulomatous disease. While it shares some background information with the source paper, it does not present any hypotheses or findings directly inspired by or dependent on the source paper. However, it does provide more context on the underlying mechanisms of CGD, which is related to the source paper's topic.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2017,
+        "source_paper": {
+            "paperId": "44ff36f2173f133fd4210c79391be525e03cf6b5",
+            "title": "NOX2-dependent regulation of inflammation.",
+            "abstract": "NADPH oxidase (NOX) isoforms together have multiple functions that are important for normal physiology and have been implicated in the pathogenesis of a broad range of diseases, including atherosclerosis, cancer and neurodegenerative diseases. The phagocyte NADPH oxidase (NOX2) is critical for antimicrobial host defence. Chronic granulomatous disease (CGD) is an inherited disorder of NOX2 characterized by severe life-threatening bacterial and fungal infections and by excessive inflammation, including Crohn's-like inflammatory bowel disease (IBD). NOX2 defends against microbes through the direct antimicrobial activity of reactive oxidants and through activation of granular proteases and generation of neutrophil extracellular traps (NETs). NETosis involves the breakdown of cell membranes and extracellular release of chromatin and neutrophil granular constituents that target extracellular pathogens. Although the immediate effects of oxidant generation and NETosis are predicted to be injurious, NOX2, in several contexts, limits inflammation and injury by modulation of key signalling pathways that affect neutrophil accumulation and clearance. NOX2 also plays a role in antigen presentation and regulation of adaptive immunity. Specific NOX2-activated pathways such as nuclear factor erythroid 2-related factor 2 (Nrf2), a transcriptional factor that induces antioxidative and cytoprotective responses, may be important therapeutic targets for CGD and, more broadly, diseases associated with excessive inflammation and injury.",
+            "year": 2016,
+            "citation_count": 162,
+            "relevance": 1,
+            "explanation": "This paper discusses the role of NOX2 in regulating inflammation and its implications for chronic granulomatous disease. While it shares some background information with the source paper, it does not present any hypotheses or findings directly inspired by or dependent on the source paper. However, it does provide more context on the underlying mechanisms of CGD, which is related to the source paper's topic."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Antiphospholipid syndrome: an update for clinicians and scientists": {
+                    "explanation": "This paper is a review of antiphospholipid syndrome and its inflammatory aspects, and does not have a direct connection to the source paper on NOX2-dependent regulation of inflammation.",
+                    "relevance": 0
+                },
+                "2. Heme-Oxygenase-1 Expression Contributes to the Immunoregulation Induced by Fasciola hepatica and Promotes Infection": {
+                    "explanation": "This paper explores the role of heme-oxygenase-1 in immunoregulation during Fasciola hepatica infection, which is not directly related to the source paper's findings on NOX2-dependent regulation of inflammation.",
+                    "relevance": 0
+                },
+                "3. Eros is a novel transmembrane protein that controls the phagocyte respiratory burst and is essential for innate immunity": {
+                    "explanation": "This paper describes a novel protein Eros that is essential for the phagocyte NADPH oxidase, which is related to the NOX2 isoform discussed in the source paper. The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the role of Eros in regulating the phagocyte respiratory burst, a process that is also influenced by NOX2.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Eros is a novel transmembrane protein that controls the phagocyte respiratory burst and is essential for innate immunity": {
+                    "explanation": "This paper describes a novel protein Eros that is essential for the phagocyte NADPH oxidase, which is related to the NOX2 isoform discussed in the source paper. The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the role of Eros in regulating the phagocyte respiratory burst, a process that is also influenced by NOX2.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2018,
+        "source_paper": {
+            "paperId": "44ff36f2173f133fd4210c79391be525e03cf6b5",
+            "title": "NOX2-dependent regulation of inflammation.",
+            "abstract": "NADPH oxidase (NOX) isoforms together have multiple functions that are important for normal physiology and have been implicated in the pathogenesis of a broad range of diseases, including atherosclerosis, cancer and neurodegenerative diseases. The phagocyte NADPH oxidase (NOX2) is critical for antimicrobial host defence. Chronic granulomatous disease (CGD) is an inherited disorder of NOX2 characterized by severe life-threatening bacterial and fungal infections and by excessive inflammation, including Crohn's-like inflammatory bowel disease (IBD). NOX2 defends against microbes through the direct antimicrobial activity of reactive oxidants and through activation of granular proteases and generation of neutrophil extracellular traps (NETs). NETosis involves the breakdown of cell membranes and extracellular release of chromatin and neutrophil granular constituents that target extracellular pathogens. Although the immediate effects of oxidant generation and NETosis are predicted to be injurious, NOX2, in several contexts, limits inflammation and injury by modulation of key signalling pathways that affect neutrophil accumulation and clearance. NOX2 also plays a role in antigen presentation and regulation of adaptive immunity. Specific NOX2-activated pathways such as nuclear factor erythroid 2-related factor 2 (Nrf2), a transcriptional factor that induces antioxidative and cytoprotective responses, may be important therapeutic targets for CGD and, more broadly, diseases associated with excessive inflammation and injury.",
+            "year": 2016,
+            "citation_count": 162,
+            "relevance": 1,
+            "explanation": "This paper discusses the role of NOX2 in regulating inflammation and its implications for chronic granulomatous disease. While it shares some background information with the source paper, it does not present any hypotheses or findings directly inspired by or dependent on the source paper. However, it does provide more context on the underlying mechanisms of CGD, which is related to the source paper's topic."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. 5\u2010Hydroxytryptamine (5\u2010HT)\u2010exacerbated DSS\u2010induced colitis is associated with elevated NADPH oxidase expression in the colon": {
+                    "explanation": "This paper explores the impact of 5-HT on NOX expression in DSS-induced colitis, which is partially dependent on the source paper's findings regarding NOX2-dependent regulation of inflammation.",
+                    "relevance": 2
+                },
+                "2. Anti-tumor macrophages activated by ferumoxytol combined or surface-functionalized with the TLR3 agonist poly (I : C) promote melanoma regression": {
+                    "explanation": "This paper discusses the anti-tumor potential of macrophages harnessed by ferumoxytol combined with the TLR3 agonist, which involves NOX2-derived ROS, building on the source paper's results regarding NOX2-dependent regulation of inflammation.",
+                    "relevance": 2
+                },
+                "3. Neutrophils: Innate Effectors of TB Resistance?": {
+                    "explanation": "This review discusses the potential role of neutrophils in innate immune-mediated M. tuberculosis infection resistance, but it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 0
+                },
+                "4. Mice Deficient in Cyp4a14 Have An Increased Number of Goblet Cells and Attenuated Dextran Sulfate Sodium-Induced Colitis": {
+                    "explanation": "This paper explores the function of Cyp4a14 in DSS-induced colitis, which involves NOX2 and NOX4 as inflammatory markers, partially dependent on the source paper's findings regarding NOX2-dependent regulation of inflammation.",
+                    "relevance": 2
+                },
+                "5. The total terpenoids of Celastrus orbiculatus (TTC) inhibit NOX-dependent formation of PMA-induced neutrophil extracellular traps (NETs)": {
+                    "explanation": "This paper investigates the pharmacological effect of TTC on NETosis, which involves NOX-dependent formation of NETs, building on the source paper's results regarding NOX2-dependent regulation of inflammation.",
+                    "relevance": 2
+                },
+                "6. Polypharmacological Profiles Underlying the Antitumor Property of Salvia miltiorrhiza Root (Danshen) Interfering with NOX-Dependent Neutrophil Extracellular Traps": {
+                    "explanation": "This paper explores the antitumor property of Danshen, which involves NOX-dependent NET formation, building on the source paper's results regarding NOX2-dependent regulation of inflammation.",
+                    "relevance": 2
+                },
+                "7. Noninfectious Manifestations and Complications of Chronic Granulomatous Disease": {
+                    "explanation": "This review discusses the noninfectious complications of CGD, which is an inherited disorder of NOX2, but it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 0
+                },
+                "8. Inhibition of SREBP With Fatostatin Does Not Attenuate Early Diabetic Nephropathy in Male Mice": {
+                    "explanation": "This paper evaluates the effectiveness of SREBP inhibition as treatment of diabetic nephropathy, but it does not involve NOX2-dependent regulation of inflammation.",
+                    "relevance": 0
+                },
+                "9. The Macrophage Mannose Receptor Regulate Mannan-Induced Psoriasis, Psoriatic Arthritis, and Rheumatoid Arthritis-Like Disease Models": {
+                    "explanation": "This paper investigates the role of the macrophage mannose receptor in mannan-induced disease models, which involves the production of ROS, but it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. 5\u2010Hydroxytryptamine (5\u2010HT)\u2010exacerbated DSS\u2010induced colitis is associated with elevated NADPH oxidase expression in the colon": {
+                    "explanation": "This paper explores the impact of 5-HT on NOX expression in DSS-induced colitis, which is partially dependent on the source paper's findings regarding NOX2-dependent regulation of inflammation.",
+                    "relevance": 2
+                },
+                "2. Anti-tumor macrophages activated by ferumoxytol combined or surface-functionalized with the TLR3 agonist poly (I : C) promote melanoma regression": {
+                    "explanation": "This paper discusses the anti-tumor potential of macrophages harnessed by ferumoxytol combined with the TLR3 agonist, which involves NOX2-derived ROS, building on the source paper's results regarding NOX2-dependent regulation of inflammation.",
+                    "relevance": 2
+                },
+                "3. The total terpenoids of Celastrus orbiculatus (TTC) inhibit NOX-dependent formation of PMA-induced neutrophil extracellular traps (NETs)": {
+                    "explanation": "This paper investigates the pharmacological effect of TTC on NETosis, which involves NOX-dependent formation of NETs, building on the source paper's results regarding NOX2-dependent regulation of inflammation.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2019,
+        "source_paper": {
+            "paperId": "c7a9c56f2c7b4b1a5f4cf53eb1608d7e5bff1d74",
+            "title": "Anti-tumor macrophages activated by ferumoxytol combined or surface-functionalized with the TLR3 agonist poly (I : C) promote melanoma regression",
+            "abstract": "Macrophages orchestrate inflammation and control the promotion or inhibition of tumors and metastasis. Ferumoxytol (FMT), a clinically approved iron oxide nanoparticle, possesses anti-tumor therapeutic potential by inducing pro-inflammatory macrophage polarization. Toll-like receptor 3 (TLR3) activation also potently enhances the anti-tumor response of immune cells. Herein, the anti-tumor potential of macrophages harnessed by FMT combined with the TLR3 agonist, poly (I:C) (PIC), and FP-NPs (nanoparticles composed of amino-modified FMT (FMT-NH2) surface functionalized with PIC) was explored. Methods: Proliferation of B16F10 cells co-cultured with macrophages was measured using immunofluorescence or flow cytometry (FCM). Phagocytosis was analyzed using FCM and fluorescence imaging. FP-NPs were prepared through electrostatic interactions and their properties were characterized using dynamic light scattering, transmission electron microscopy, and gel retardation assay. Anti-tumor and anti-metastasis effects were evaluated in B16F10 tumor-bearing mice, and tumor-infiltrating immunocytes were detected by immunofluorescence staining and FCM. Results: FMT, PIC, or the combination of both hardly impaired B16F10 cell viability. However, FMT combined with PIC synergistically inhibited their proliferation by shifting macrophages to a tumoricidal phenotype with upregulated TNF-\u03b1 and iNOS, increased NO secretion and augmented phagocytosis induced by NOX2-derived ROS in vitro. Combined treatment with FMT/PIC and FMT-NH2/PIC respectively resulted in primary melanoma regression and alleviated pulmonary metastasis with elevated pro-inflammatory macrophage infiltration and upregulation of pro-inflammatory genes in vivo. In comparison, FP-NPs with properties of internalization by macrophages and accumulation in the lung produced a more pronounced anti-metastatic effect accompanied with decreased myeloid-derived suppressor cells, and tumor-associated macrophages shifted to M1 phenotype. In vitro mechanistic studies revealed that FP-NPs nanoparticles barely affected B16F10 cell viability, but specifically retarded their growth by steering macrophages to M1 phenotype through NF-\u03baB signaling. Conclusion: FMT synergized with the TLR3 agonist PIC either in combination or as a nano-composition to induce macrophage activation for primary and metastatic melanoma regression, and the nano-composition of FP-NPs exhibited a more superior anti-metastatic efficacy.",
+            "year": 2018,
+            "citation_count": 93,
+            "relevance": 2,
+            "explanation": "This paper discusses the anti-tumor potential of macrophages harnessed by ferumoxytol combined with the TLR3 agonist, which involves NOX2-derived ROS, building on the source paper's results regarding NOX2-dependent regulation of inflammation."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Current Strategies to Target Tumor-Associated-Macrophages to Improve Anti-Tumor Immune Responses": {
+                    "explanation": "This paper is a review of current strategies to target tumor-associated macrophages, which is a topic related to the source paper. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "2. The Role of Toll-Like Receptors in Skin Host Defense, Psoriasis, and Atopic Dermatitis": {
+                    "explanation": "This paper discusses the role of Toll-like receptors in skin host defense, which is a related topic to the source paper's use of the TLR3 agonist poly(I:C). However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "3. The yin and yang of imaging tumor associated macrophages with PET and MRI": {
+                    "explanation": "This paper discusses imaging techniques for tumor-associated macrophages, which is a related topic to the source paper. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "4. SPIONs enhances IL-10-producing macrophages to relieve sepsis via Cav1-Notch1/HES1-mediated autophagy": {
+                    "explanation": "This paper explores the use of superparamagnetic iron oxide nanoparticles (SPIONs) to modulate macrophage responses, which is related to the source paper's use of ferumoxytol. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "5. Ferumoxytol and CpG oligodeoxynucleotide 2395 synergistically enhance antitumor activity of macrophages against NSCLC with EGFRL858R/T790M mutation": {
+                    "explanation": "This paper investigates the use of ferumoxytol in combination with a CpG oligodeoxynucleotide to activate macrophages against non-small cell lung cancer, which is directly related to the source paper's findings on the use of ferumoxytol and the TLR3 agonist poly(I:C) to activate macrophages against melanoma.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Ferumoxytol and CpG oligodeoxynucleotide 2395 synergistically enhance antitumor activity of macrophages against NSCLC with EGFRL858R/T790M mutation": {
+                    "explanation": "This paper investigates the use of ferumoxytol in combination with a CpG oligodeoxynucleotide to activate macrophages against non-small cell lung cancer, which is directly related to the source paper's findings on the use of ferumoxytol and the TLR3 agonist poly(I:C) to activate macrophages against melanoma.",
+                    "relevance": 2
+                },
+                "2. SPIONs enhances IL-10-producing macrophages to relieve sepsis via Cav1-Notch1/HES1-mediated autophagy": {
+                    "explanation": "This paper explores the use of superparamagnetic iron oxide nanoparticles (SPIONs) to modulate macrophage responses, which is related to the source paper's use of ferumoxytol. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2020,
+        "source_paper": {
+            "paperId": "c7a9c56f2c7b4b1a5f4cf53eb1608d7e5bff1d74",
+            "title": "Anti-tumor macrophages activated by ferumoxytol combined or surface-functionalized with the TLR3 agonist poly (I : C) promote melanoma regression",
+            "abstract": "Macrophages orchestrate inflammation and control the promotion or inhibition of tumors and metastasis. Ferumoxytol (FMT), a clinically approved iron oxide nanoparticle, possesses anti-tumor therapeutic potential by inducing pro-inflammatory macrophage polarization. Toll-like receptor 3 (TLR3) activation also potently enhances the anti-tumor response of immune cells. Herein, the anti-tumor potential of macrophages harnessed by FMT combined with the TLR3 agonist, poly (I:C) (PIC), and FP-NPs (nanoparticles composed of amino-modified FMT (FMT-NH2) surface functionalized with PIC) was explored. Methods: Proliferation of B16F10 cells co-cultured with macrophages was measured using immunofluorescence or flow cytometry (FCM). Phagocytosis was analyzed using FCM and fluorescence imaging. FP-NPs were prepared through electrostatic interactions and their properties were characterized using dynamic light scattering, transmission electron microscopy, and gel retardation assay. Anti-tumor and anti-metastasis effects were evaluated in B16F10 tumor-bearing mice, and tumor-infiltrating immunocytes were detected by immunofluorescence staining and FCM. Results: FMT, PIC, or the combination of both hardly impaired B16F10 cell viability. However, FMT combined with PIC synergistically inhibited their proliferation by shifting macrophages to a tumoricidal phenotype with upregulated TNF-\u03b1 and iNOS, increased NO secretion and augmented phagocytosis induced by NOX2-derived ROS in vitro. Combined treatment with FMT/PIC and FMT-NH2/PIC respectively resulted in primary melanoma regression and alleviated pulmonary metastasis with elevated pro-inflammatory macrophage infiltration and upregulation of pro-inflammatory genes in vivo. In comparison, FP-NPs with properties of internalization by macrophages and accumulation in the lung produced a more pronounced anti-metastatic effect accompanied with decreased myeloid-derived suppressor cells, and tumor-associated macrophages shifted to M1 phenotype. In vitro mechanistic studies revealed that FP-NPs nanoparticles barely affected B16F10 cell viability, but specifically retarded their growth by steering macrophages to M1 phenotype through NF-\u03baB signaling. Conclusion: FMT synergized with the TLR3 agonist PIC either in combination or as a nano-composition to induce macrophage activation for primary and metastatic melanoma regression, and the nano-composition of FP-NPs exhibited a more superior anti-metastatic efficacy.",
+            "year": 2018,
+            "citation_count": 93,
+            "relevance": 2,
+            "explanation": "This paper discusses the anti-tumor potential of macrophages harnessed by ferumoxytol combined with the TLR3 agonist, which involves NOX2-derived ROS, building on the source paper's results regarding NOX2-dependent regulation of inflammation."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Macrophage reprogramming for therapy": {
+                    "explanation": "This paper is a review and does not specifically build on the findings of the source paper. However, it discusses the therapeutic potential of macrophage reprogramming, which is related to the source paper's topic of using ferumoxytol to induce anti-tumor macrophage polarization.",
+                    "relevance": 0
+                },
+                "2. Applications of Nanomaterials for Theranostics of Melanoma": {
+                    "explanation": "This paper discusses the use of nanomaterials for melanoma theranostics, which is a related field to the source paper's use of ferumoxytol nanoparticles for cancer treatment. However, it does not specifically build on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "3. The application of the natural killer cells, macrophages and dendritic cells in treating various types of cancer": {
+                    "explanation": "This paper discusses the role of macrophages in cancer treatment, which is related to the source paper's topic. However, it is a review and does not specifically build on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "4. The Crosstalk Between Tumor-Associated Macrophages (TAMs) and Tumor Cells and the Corresponding Targeted Therapy": {
+                    "explanation": "This paper discusses the crosstalk between TAMs and tumor cells, which is related to the source paper's topic of using ferumoxytol to induce anti-tumor macrophage polarization. However, it does not specifically build on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "5. Advances in Magnetic Nanoparticle\u2010Mediated Cancer Immune\u2010Theranostics": {
+                    "explanation": "This paper discusses the use of magnetic nanoparticles for cancer immunotherapy, which is related to the source paper's use of ferumoxytol nanoparticles for cancer treatment. However, it does not specifically build on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "6. Engineering of Cascade-Responsive Nanoplatform to Inhibit Lactate Efflux for Enhanced Tumor Chemo-Immunotherapy": {
+                    "explanation": "This paper discusses the use of nanoparticles to inhibit lactate efflux and enhance tumor chemo-immunotherapy, which is a related field to the source paper's topic. However, it does not specifically build on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "7. Lack of myeloid cell infiltration as an acquired resistance strategy to immunotherapy": {
+                    "explanation": "This paper discusses the role of myeloid cells in immunotherapy resistance, which is related to the source paper's topic of using ferumoxytol to induce anti-tumor macrophage polarization. However, it does not specifically build on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "8. Engineering Macrophages for Cancer Immunotherapy and Drug Delivery": {
+                    "explanation": "This paper discusses the use of macrophages for cancer immunotherapy and drug delivery, which is related to the source paper's topic. The paper also mentions the use of nanoparticles to deliver immunotherapeutics, which is similar to the source paper's use of ferumoxytol nanoparticles.",
+                    "relevance": 1
+                },
+                "9. A Biomimetic Polymer Magnetic Nanocarrier Polarizing Tumor-Associated Macrophages for Potentiating Immunotherapy": {
+                    "explanation": "This paper discusses the use of a biomimetic polymer magnetic nanocarrier to polarize TAMs for potentiating immunotherapy, which is similar to the source paper's use of ferumoxytol nanoparticles to induce anti-tumor macrophage polarization.",
+                    "relevance": 2
+                },
+                "10. Nanotherapy delivery of c-myc inhibitor targets Protumor Macrophages and preserves Antitumor Macrophages in Breast Cancer": {
+                    "explanation": "This paper discusses the use of nanoparticles to deliver a c-myc inhibitor to target protumor macrophages and preserve antitumor macrophages, which is a related field to the source paper's topic. However, it does not specifically build on the findings of the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. A Biomimetic Polymer Magnetic Nanocarrier Polarizing Tumor-Associated Macrophages for Potentiating Immunotherapy": {
+                    "explanation": "This paper discusses the use of a biomimetic polymer magnetic nanocarrier to polarize TAMs for potentiating immunotherapy, which is similar to the source paper's use of ferumoxytol nanoparticles to induce anti-tumor macrophage polarization.",
+                    "relevance": 2
+                },
+                "2. Engineering Macrophages for Cancer Immunotherapy and Drug Delivery": {
+                    "explanation": "This paper discusses the use of macrophages for cancer immunotherapy and drug delivery, which is related to the source paper's topic. The paper also mentions the use of nanoparticles to deliver immunotherapeutics, which is similar to the source paper's use of ferumoxytol nanoparticles.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2020,
+        "source_paper": {
+            "paperId": "c7a9c56f2c7b4b1a5f4cf53eb1608d7e5bff1d74",
+            "title": "Anti-tumor macrophages activated by ferumoxytol combined or surface-functionalized with the TLR3 agonist poly (I : C) promote melanoma regression",
+            "abstract": "Macrophages orchestrate inflammation and control the promotion or inhibition of tumors and metastasis. Ferumoxytol (FMT), a clinically approved iron oxide nanoparticle, possesses anti-tumor therapeutic potential by inducing pro-inflammatory macrophage polarization. Toll-like receptor 3 (TLR3) activation also potently enhances the anti-tumor response of immune cells. Herein, the anti-tumor potential of macrophages harnessed by FMT combined with the TLR3 agonist, poly (I:C) (PIC), and FP-NPs (nanoparticles composed of amino-modified FMT (FMT-NH2) surface functionalized with PIC) was explored. Methods: Proliferation of B16F10 cells co-cultured with macrophages was measured using immunofluorescence or flow cytometry (FCM). Phagocytosis was analyzed using FCM and fluorescence imaging. FP-NPs were prepared through electrostatic interactions and their properties were characterized using dynamic light scattering, transmission electron microscopy, and gel retardation assay. Anti-tumor and anti-metastasis effects were evaluated in B16F10 tumor-bearing mice, and tumor-infiltrating immunocytes were detected by immunofluorescence staining and FCM. Results: FMT, PIC, or the combination of both hardly impaired B16F10 cell viability. However, FMT combined with PIC synergistically inhibited their proliferation by shifting macrophages to a tumoricidal phenotype with upregulated TNF-\u03b1 and iNOS, increased NO secretion and augmented phagocytosis induced by NOX2-derived ROS in vitro. Combined treatment with FMT/PIC and FMT-NH2/PIC respectively resulted in primary melanoma regression and alleviated pulmonary metastasis with elevated pro-inflammatory macrophage infiltration and upregulation of pro-inflammatory genes in vivo. In comparison, FP-NPs with properties of internalization by macrophages and accumulation in the lung produced a more pronounced anti-metastatic effect accompanied with decreased myeloid-derived suppressor cells, and tumor-associated macrophages shifted to M1 phenotype. In vitro mechanistic studies revealed that FP-NPs nanoparticles barely affected B16F10 cell viability, but specifically retarded their growth by steering macrophages to M1 phenotype through NF-\u03baB signaling. Conclusion: FMT synergized with the TLR3 agonist PIC either in combination or as a nano-composition to induce macrophage activation for primary and metastatic melanoma regression, and the nano-composition of FP-NPs exhibited a more superior anti-metastatic efficacy.",
+            "year": 2018,
+            "citation_count": 93,
+            "relevance": 2,
+            "explanation": "This paper discusses the anti-tumor potential of macrophages harnessed by ferumoxytol combined with the TLR3 agonist, which involves NOX2-derived ROS, building on the source paper's results regarding NOX2-dependent regulation of inflammation."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Multifunctional magnetic iron oxide nanoparticles: an advanced platform for cancer theranostics": {
+                    "explanation": "This paper is a review of the use of iron oxide nanoparticles in cancer diagnosis and treatment. It does not directly build upon the findings of the source paper, but rather provides a broader overview of the field. Therefore, it is not considered relevant.",
+                    "relevance": 0
+                },
+                "2. The Intrinsic Biological Identities of Iron Oxide Nanoparticles and Their Coatings: Unexplored Territory for Combinatorial Therapies": {
+                    "explanation": "This paper is a review of the biological effects of iron oxide nanoparticles, including their interactions with macrophages. While it does not directly build upon the findings of the source paper, it does discuss the importance of understanding the biological identity of nanoparticles in the development of theranostic agents. Therefore, it is considered somewhat relevant.",
+                    "relevance": 1
+                },
+                "3. Contribution of Macrophages and T Cells in Skeletal Metastasis": {
+                    "explanation": "This paper discusses the role of macrophages in skeletal metastasis, which is related to the topic of the source paper. However, it does not directly build upon the findings of the source paper, and instead provides a broader overview of the field. Therefore, it is considered somewhat relevant.",
+                    "relevance": 1
+                },
+                "4. Carbon black nanoparticles induce cell necrosis through lysosomal membrane permeabilization and cause subsequent inflammatory response": {
+                    "explanation": "This paper discusses the effects of carbon black nanoparticles on macrophages, which is not directly related to the topic of the source paper. Therefore, it is not considered relevant.",
+                    "relevance": 0
+                },
+                "5. Advances of functional nanomaterials for cancer immunotherapeutic applications": {
+                    "explanation": "This paper discusses the use of nanomaterials in cancer immunotherapy, including the use of iron oxide nanoparticles. While it does not directly build upon the findings of the source paper, it does provide a broader overview of the field and discusses the potential of nanomaterials in cancer treatment. Therefore, it is considered somewhat relevant.",
+                    "relevance": 1
+                },
+                "6. Reprogramming Tumor Associated Macrophages toward M1 Phenotypes with Nanomedicine for Anticancer Immunotherapy": {
+                    "explanation": "This paper discusses the use of nanomedicine to reprogram tumor-associated macrophages towards an M1 phenotype, which is directly related to the topic of the source paper. The source paper discusses the use of ferumoxytol and poly(I:C) to activate macrophages and promote tumor regression, and this paper builds upon those findings by discussing the use of nanomedicine to achieve similar results. Therefore, it is considered highly relevant.",
+                    "relevance": 2
+                },
+                "7. Imaging of macrophage mitochondria dynamics in vivo reveals cellular activation phenotype for diagnosis": {
+                    "explanation": "This paper discusses the use of imaging techniques to study the dynamics of macrophage mitochondria in vivo, which is not directly related to the topic of the source paper. However, it does provide some insights into the biology of macrophages, which could be relevant to the development of cancer therapies. Therefore, it is considered somewhat relevant.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Reprogramming Tumor Associated Macrophages toward M1 Phenotypes with Nanomedicine for Anticancer Immunotherapy": {
+                    "explanation": "This paper discusses the use of nanomedicine to reprogram tumor-associated macrophages towards an M1 phenotype, which is directly related to the topic of the source paper.",
+                    "relevance": 2
+                },
+                "2. The Intrinsic Biological Identities of Iron Oxide Nanoparticles and Their Coatings: Unexplored Territory for Combinatorial Therapies": {
+                    "explanation": "This paper is a review of the biological effects of iron oxide nanoparticles, including their interactions with macrophages. While it does not directly build upon the findings of the source paper, it does discuss the importance of understanding the biological identity of nanoparticles in the development of theranostic agents.",
+                    "relevance": 1
+                },
+                "3. Advances of functional nanomaterials for cancer immunotherapeutic applications": {
+                    "explanation": "This paper discusses the use of nanomaterials in cancer immunotherapy, including the use of iron oxide nanoparticles. While it does not directly build upon the findings of the source paper, it does provide a broader overview of the field and discusses the potential of nanomaterials in cancer treatment.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2021,
+        "source_paper": {
+            "paperId": "eca4b78828867eeb8454fba94920f6e2819cc0ff",
+            "title": "A Biomimetic Polymer Magnetic Nanocarrier Polarizing Tumor-Associated Macrophages for Potentiating Immunotherapy.",
+            "abstract": "The progress of antitumor immunotherapy is usually limited by tumor-associated macrophages (TAMs) that account for the highest proportion of immunosuppressive cells in the tumor microenvironment, and the TAMs can also be reversed by modulating the M2-like phenotype. Herein, a biomimetic polymer magnetic nanocarrier is developed with selectively targeting and polarizing TAMs for potentiating immunotherapy of breast cancer. This nanocarrier PLGA-ION-R837\u200a@\u200aM (PIR\u200a@\u200aM) is achieved, first, by the fabrication of magnetic polymer nanoparticles (NPs) encapsulating Fe3 O4 NPs and Toll-like receptor 7 (TLR7) agonist imiquimod (R837) and, second, by the coating of the lipopolysaccharide (LPS)-\u200atreated macrophage membranes on the surface of the NPs for targeting TAMs. The intracellular uptake of the PIR\u200a@\u200aM can greatly polarize TAMs from M2 to antitumor M1 phenotype with the synergy of Fe3 O4 NPs and R837. The relevant mechanism of the polarization is deeply studied through analyzing the mRNA expression of the signaling pathways. Different from previous reports, the polarization is ascribed to the fact that Fe3 O4 NPs mainly activate the IRF5 signaling pathway via iron ions instead of the reactive oxygen species-induced NF-\u03baB signaling pathway. The anticancer effect can be effectively enhanced through potentiating immunotherapy by the polarization of the TAMs in the combination of Fe3 O4 NPs and R837.",
+            "year": 2020,
+            "citation_count": 90,
+            "relevance": 2,
+            "explanation": "This paper discusses the use of a biomimetic polymer magnetic nanocarrier to polarize TAMs for potentiating immunotherapy, which is similar to the source paper's use of ferumoxytol nanoparticles to induce anti-tumor macrophage polarization."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. PLGA-based drug delivery system for combined therapy of cancer: research progress": {
+                    "explanation": "This paper discusses the use of PLGA micro/nano particles in cancer treatment, but it does not directly build upon the source paper's hypothesis or findings. The source paper uses PLGA as a component of the biomimetic polymer magnetic nanocarrier, but this paper is more focused on the general application of PLGA in cancer treatment.",
+                    "relevance": 0
+                },
+                "2. Emerging Nanoparticle Strategies for Modulating Tumor-Associated Macrophage Polarization": {
+                    "explanation": "This paper is a mini-review that highlights emerging nano-approaches for TAM repolarization in cancer immunotherapy. While it does not directly build upon the source paper's hypothesis or findings, it is related to the topic of modulating TAM polarization, which is a key aspect of the source paper.",
+                    "relevance": 1
+                },
+                "3. Immunologically Effective Biomaterials": {
+                    "explanation": "This paper discusses the interaction of biomaterials with immune cells and the underlying mechanisms to control immunoregulation. While it is related to the topic of biomaterials and immunotherapy, it does not directly build upon the source paper's hypothesis or findings.",
+                    "relevance": 0
+                },
+                "4. Macrophage-Biomimetic Nanoparticles Ameliorate Ulcerative Colitis through Reducing Inflammatory Factors Expression": {
+                    "explanation": "This paper discusses the use of macrophage-biomimetic nanoparticles to target and treat ulcerative colitis. While it does not directly build upon the source paper's hypothesis or findings, it is related to the topic of using biomimetic nanoparticles to modulate immune responses.",
+                    "relevance": 1
+                },
+                "5. Applications of Magnetite Nanoparticles in Cancer Immunotherapies: Present Hallmarks and Future Perspectives": {
+                    "explanation": "This paper discusses the use of magnetite nanoparticles in cancer immunotherapies, including their ability to polarize tumor-associated macrophages. This is directly related to the source paper's hypothesis and findings, which also involve the use of magnetite nanoparticles to polarize TAMs.",
+                    "relevance": 2
+                },
+                "6. Personalized Nanovaccine Coated with Calcinetin-Expressed Cancer Cell Membrane Antigen for Cancer Immunotherapy": {
+                    "explanation": "This paper discusses the use of a personalized nanovaccine to trigger an antitumor immune response. While it does not directly build upon the source paper's hypothesis or findings, it is related to the topic of cancer immunotherapy and the use of nanoparticles to modulate immune responses.",
+                    "relevance": 1
+                },
+                "7. A Redox\u2010Responsive Nanovaccine Combined with A2A Receptor Antagonist for Cancer Immunotherapy": {
+                    "explanation": "This paper discusses the use of a redox-responsive nanovaccine combined with an A2A receptor antagonist to trigger an antitumor immune response. While it does not directly build upon the source paper's hypothesis or findings, it is related to the topic of cancer immunotherapy and the use of nanoparticles to modulate immune responses.",
+                    "relevance": 1
+                },
+                "8. Nanoparticles to Target and Treat Macrophages: The Ockham\u2019s Concept?": {
+                    "explanation": "This paper discusses the use of nanoparticles to target and treat macrophages. While it does not directly build upon the source paper's hypothesis or findings, it is related to the topic of using nanoparticles to modulate immune responses.",
+                    "relevance": 1
+                },
+                "9. Nanozyme for tumor therapy: Surface modification matters": {
+                    "explanation": "This paper discusses the use of nanozymes for tumor therapy, including the importance of surface modification. While it does not directly build upon the source paper's hypothesis or findings, it is related to the topic of using nanoparticles to modulate immune responses.",
+                    "relevance": 0
+                },
+                "10. Employing Drug Delivery Strategies to Overcome Challenges Using TLR7/8 Agonists for Cancer Immunotherapy": {
+                    "explanation": "This paper discusses the use of drug delivery strategies to overcome challenges using TLR7/8 agonists for cancer immunotherapy. While it does not directly build upon the source paper's hypothesis or findings, it is related to the topic of using biomaterials and nanoparticles to modulate immune responses.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Applications of Magnetite Nanoparticles in Cancer Immunotherapies: Present Hallmarks and Future Perspectives": {
+                    "explanation": "This paper discusses the use of magnetite nanoparticles in cancer immunotherapies, including their ability to polarize tumor-associated macrophages. This is directly related to the source paper's hypothesis and findings, which also involve the use of magnetite nanoparticles to polarize TAMs.",
+                    "relevance": 2
+                },
+                "2. Emerging Nanoparticle Strategies for Modulating Tumor-Associated Macrophage Polarization": {
+                    "explanation": "This paper is a mini-review that highlights emerging nano-approaches for TAM repolarization in cancer immunotherapy. While it does not directly build upon the source paper's hypothesis or findings, it is related to the topic of modulating TAM polarization, which is a key aspect of the source paper.",
+                    "relevance": 1
+                },
+                "3. Macrophage-Biomimetic Nanoparticles Ameliorate Ulcerative Colitis through Reducing Inflammatory Factors Expression": {
+                    "explanation": "This paper discusses the use of macrophage-biomimetic nanoparticles to target and treat ulcerative colitis. While it does not directly build upon the source paper's hypothesis or findings, it is related to the topic of using biomimetic nanoparticles to modulate immune responses.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2021,
+        "source_paper": {
+            "paperId": "eca4b78828867eeb8454fba94920f6e2819cc0ff",
+            "title": "A Biomimetic Polymer Magnetic Nanocarrier Polarizing Tumor-Associated Macrophages for Potentiating Immunotherapy.",
+            "abstract": "The progress of antitumor immunotherapy is usually limited by tumor-associated macrophages (TAMs) that account for the highest proportion of immunosuppressive cells in the tumor microenvironment, and the TAMs can also be reversed by modulating the M2-like phenotype. Herein, a biomimetic polymer magnetic nanocarrier is developed with selectively targeting and polarizing TAMs for potentiating immunotherapy of breast cancer. This nanocarrier PLGA-ION-R837\u200a@\u200aM (PIR\u200a@\u200aM) is achieved, first, by the fabrication of magnetic polymer nanoparticles (NPs) encapsulating Fe3 O4 NPs and Toll-like receptor 7 (TLR7) agonist imiquimod (R837) and, second, by the coating of the lipopolysaccharide (LPS)-\u200atreated macrophage membranes on the surface of the NPs for targeting TAMs. The intracellular uptake of the PIR\u200a@\u200aM can greatly polarize TAMs from M2 to antitumor M1 phenotype with the synergy of Fe3 O4 NPs and R837. The relevant mechanism of the polarization is deeply studied through analyzing the mRNA expression of the signaling pathways. Different from previous reports, the polarization is ascribed to the fact that Fe3 O4 NPs mainly activate the IRF5 signaling pathway via iron ions instead of the reactive oxygen species-induced NF-\u03baB signaling pathway. The anticancer effect can be effectively enhanced through potentiating immunotherapy by the polarization of the TAMs in the combination of Fe3 O4 NPs and R837.",
+            "year": 2020,
+            "citation_count": 90,
+            "relevance": 2,
+            "explanation": "This paper discusses the use of a biomimetic polymer magnetic nanocarrier to polarize TAMs for potentiating immunotherapy, which is similar to the source paper's use of ferumoxytol nanoparticles to induce anti-tumor macrophage polarization."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Polarization of Tumor-Associated Macrophages by Nanoparticle-Loaded Escherichia coli Combined with Immunogenic Cell Death for Cancer Immunotherapy": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it also explores the polarization of tumor-associated macrophages (TAMs) for potentiating immunotherapy, but uses a different approach with nanoparticle-loaded Escherichia coli and immunogenic cell death.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Polarization of Tumor-Associated Macrophages by Nanoparticle-Loaded Escherichia coli Combined with Immunogenic Cell Death for Cancer Immunotherapy": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it also explores the polarization of tumor-associated macrophages (TAMs) for potentiating immunotherapy, but uses a different approach with nanoparticle-loaded Escherichia coli and immunogenic cell death.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2022,
+        "source_paper": {
+            "paperId": "eca4b78828867eeb8454fba94920f6e2819cc0ff",
+            "title": "A Biomimetic Polymer Magnetic Nanocarrier Polarizing Tumor-Associated Macrophages for Potentiating Immunotherapy.",
+            "abstract": "The progress of antitumor immunotherapy is usually limited by tumor-associated macrophages (TAMs) that account for the highest proportion of immunosuppressive cells in the tumor microenvironment, and the TAMs can also be reversed by modulating the M2-like phenotype. Herein, a biomimetic polymer magnetic nanocarrier is developed with selectively targeting and polarizing TAMs for potentiating immunotherapy of breast cancer. This nanocarrier PLGA-ION-R837\u200a@\u200aM (PIR\u200a@\u200aM) is achieved, first, by the fabrication of magnetic polymer nanoparticles (NPs) encapsulating Fe3 O4 NPs and Toll-like receptor 7 (TLR7) agonist imiquimod (R837) and, second, by the coating of the lipopolysaccharide (LPS)-\u200atreated macrophage membranes on the surface of the NPs for targeting TAMs. The intracellular uptake of the PIR\u200a@\u200aM can greatly polarize TAMs from M2 to antitumor M1 phenotype with the synergy of Fe3 O4 NPs and R837. The relevant mechanism of the polarization is deeply studied through analyzing the mRNA expression of the signaling pathways. Different from previous reports, the polarization is ascribed to the fact that Fe3 O4 NPs mainly activate the IRF5 signaling pathway via iron ions instead of the reactive oxygen species-induced NF-\u03baB signaling pathway. The anticancer effect can be effectively enhanced through potentiating immunotherapy by the polarization of the TAMs in the combination of Fe3 O4 NPs and R837.",
+            "year": 2020,
+            "citation_count": 90,
+            "relevance": 2,
+            "explanation": "This paper discusses the use of a biomimetic polymer magnetic nanocarrier to polarize TAMs for potentiating immunotherapy, which is similar to the source paper's use of ferumoxytol nanoparticles to induce anti-tumor macrophage polarization."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Targeting Tumor-Associated Macrophages for Imaging": {
+                    "explanation": "This is a review paper that summarizes existing literature on targeting tumor-associated macrophages for imaging and diagnosis, and lacks novel hypotheses or findings relevant to the source paper.",
+                    "relevance": 0
+                },
+                "2. Development of functional nanomedicines for tumor associated macrophages-focused cancer immunotherapy": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it discusses the design of TAMs-focused immune-nanomedicines and their potential applications in cancer immunotherapy.",
+                    "relevance": 1
+                },
+                "3. Mannose and Hyaluronic Acid Dual-Modified Iron Oxide Enhances Neoantigen-Based Peptide Vaccine Therapy by Polarizing Tumor-Associated Macrophages": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the use of iron oxide nanoparticles to polarize tumor-associated macrophages and enhance neoantigen-based vaccine therapy.",
+                    "relevance": 2
+                },
+                "4. Cell membrane-camouflaged PLGA biomimetic system for diverse biomedical application": {
+                    "explanation": "This paper discusses the development of cell membrane-camouflaged PLGA nanoparticles for various biomedical applications, but does not directly relate to the source paper's findings on tumor-associated macrophages and immunotherapy.",
+                    "relevance": 0
+                },
+                "5. Emerging advances in nanomedicine for breast cancer immunotherapy: opportunities and challenges.": {
+                    "explanation": "This paper provides an overview of the current state of nanomedicine in breast cancer immunotherapy, but does not specifically build upon the source paper's findings or hypotheses.",
+                    "relevance": 0
+                },
+                "6. Shaping Polarization Of Tumor-Associated Macrophages In Cancer Immunotherapy": {
+                    "explanation": "This is a review paper that discusses the role of tumor-associated macrophages in cancer immunotherapy and strategies for targeting them, but does not present novel hypotheses or findings relevant to the source paper.",
+                    "relevance": 0
+                },
+                "7. Mushroom Carboxymethylated \u03b2-d-Glucan Functions as a Macrophage-Targeting Carrier for Iron Oxide Nanoparticles and an Inducer of Proinflammatory Macrophage Polarization for Immunotherapy.": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the use of iron oxide nanoparticles and a macrophage-targeting carrier to induce proinflammatory macrophage polarization for immunotherapy.",
+                    "relevance": 2
+                },
+                "8. Fe(III)-Chelated Polydopamine Nanoparticles for Synergistic Tumor Therapies of Enhanced Photothermal Ablation and Antitumor Immune Activation.": {
+                    "explanation": "This paper discusses the development of Fe(III)-chelated polydopamine nanoparticles for tumor therapy, but does not directly relate to the source paper's findings on tumor-associated macrophages and immunotherapy.",
+                    "relevance": 0
+                },
+                "9. Harnessing anti\u2010tumor and tumor\u2010tropism functions of macrophages via nanotechnology for tumor immunotherapy": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it discusses the use of nanotechnology to target and engineer macrophages for tumor immunotherapy.",
+                    "relevance": 1
+                },
+                "10. Polymeric Systems for Cancer Immunotherapy: A Review": {
+                    "explanation": "This is a review paper that discusses the role of polymeric systems in cancer immunotherapy, but does not present novel hypotheses or findings relevant to the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Mannose and Hyaluronic Acid Dual-Modified Iron Oxide Enhances Neoantigen-Based Peptide Vaccine Therapy by Polarizing Tumor-Associated Macrophages": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the use of iron oxide nanoparticles to polarize tumor-associated macrophages and enhance neoantigen-based vaccine therapy.",
+                    "relevance": 2
+                },
+                "2. Mushroom Carboxymethylated \u03b2-d-Glucan Functions as a Macrophage-Targeting Carrier for Iron Oxide Nanoparticles and an Inducer of Proinflammatory Macrophage Polarization for Immunotherapy.": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the use of iron oxide nanoparticles and a macrophage-targeting carrier to induce proinflammatory macrophage polarization for immunotherapy.",
+                    "relevance": 2
+                },
+                "3. Development of functional nanomedicines for tumor associated macrophages-focused cancer immunotherapy": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it discusses the design of TAMs-focused immune-nanomedicines and their potential applications in cancer immunotherapy.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2023,
+        "source_paper": {
+            "paperId": "f717553a78fc23398ed52c3c2fab4b08dbff6d6d",
+            "title": "Mannose and Hyaluronic Acid Dual-Modified Iron Oxide Enhances Neoantigen-Based Peptide Vaccine Therapy by Polarizing Tumor-Associated Macrophages",
+            "abstract": "Simple Summary Cancer vaccine therapy is promising, though its efficacy is compromised in an immunosuppressive tumor microenvironment. Tumor-associated macrophages (TAMs) have the potential to be repolarized to an antitumor subtype, and their antigen-presenting ability might enhance the efficacy of cancer vaccination. Here, we aimed to develop a nanoparticle with adjuvant effect that could be a carrier for neoantigen-based vaccine to target and repolarize TAMs in situ. Therefore, we prepared a hyaluronic acid and mannose dual-modified iron oxide nanoparticle, and the enhanced efficiency of nanoparticle intake of macrophages was confirmed. It could repolarize macrophages and outperformed a commercialized iron oxide nanoparticle, ferumoxytol. Combined with peptides, this nanoparticle strongly inhibited TC1 tumor growth, and 40% of mice reached complete regression. This is the first report using mannose, hyaluronic acid, and iron oxide to target TAMs and achieve ideal outcomes in vivo. This study provides a facile nanoplatform for neoantigen-based vaccine therapy and a reference for repolarizing TAMs to promote immunotherapy. Abstract Neoantigen-based cancer vaccine therapy is a breakthrough in the field of immunotherapy. However, it is difficult for vaccines against neoantigens to overcome the immunosuppressive microenvironment, where tumor-associated macrophages (TAMs) play a significant role. Herein, we report an iron oxide nanoparticle modified with hyaluronic acid and mannose to reshape the tumor microenvironment by targeting and repolarizing TAMs from protumor M2 to antitumor M1 phenotype. Mannose decoration could confer the nanoparticle-enhanced TAM targeting ability, while hyaluronic acid and iron oxide could repolarize M2-like macrophages both in vitro and in vivo. Combined with antigenic peptides, this nanovaccine could significantly increase the infiltration of CD8+ T cells into tumor tissue and strongly activate dendritic cells in sentinel lymph nodes. Finally, we used the dual-modified nanoparticles to first convert the tumor microenvironment and then the nanovaccine administration in a TC1 tumor model to further enhance efficacy. This strategy inhibited tumor growth and achieved a 40% cure rate in mice (two of five). In summary, this study provides a potent and rationally designed nanoadjuvant to enhance antitumor efficiency and facilitate delivery of neoantigen vaccines by repolarizing TAMs and harmonizing immune cells.",
+            "year": 2022,
+            "citation_count": 13,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the use of iron oxide nanoparticles to polarize tumor-associated macrophages and enhance neoantigen-based vaccine therapy."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Research progress of nanovaccine in anti-tumor immunotherapy": {
+                    "explanation": "This paper is a review paper that discusses the compositions and types of nanovaccine, and the mechanisms behind their anti-tumor effects. Although it mentions nanovaccines, which is related to the source paper, it does not specifically build upon or depend on the findings of the source paper. Therefore, it is not considered relevant.",
+                    "relevance": 0
+                },
+                "2. Tumor-associated macrophages in nanomaterial-based anti-tumor therapy: as target spots or delivery platforms": {
+                    "explanation": "This paper reviews recent advancements in the field of nanomedicines targeting tumor-associated macrophages (TAMs). It discusses strategies to inhibit macrophage recruitment, suppress TAM survival, and transform TAM phenotypes. Although it does not directly build upon the source paper, it shares a common topic of interest in targeting TAMs, which makes it somewhat relevant.",
+                    "relevance": 1
+                },
+                "3. Emerging advances in nanobiomaterials-assisted chimeric antigen receptor (CAR)-macrophages for tumor immunotherapy": {
+                    "explanation": "This paper discusses the use of nanobiomaterials as gene delivery carriers for chimeric antigen receptor (CAR)-macrophages therapy. It highlights the potential of this approach in treating malignancies by equipping macrophages. Although it does not directly depend on the findings of the source paper, it explores a related concept of using nanomaterials to target and repolarize TAMs, which makes it somewhat relevant.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Tumor-associated macrophages in nanomaterial-based anti-tumor therapy: as target spots or delivery platforms": {
+                    "explanation": "This paper reviews recent advancements in the field of nanomedicines targeting tumor-associated macrophages (TAMs). It discusses strategies to inhibit macrophage recruitment, suppress TAM survival, and transform TAM phenotypes. Although it does not directly build upon the source paper, it shares a common topic of interest in targeting TAMs, which makes it somewhat relevant.",
+                    "relevance": 1
+                },
+                "2. Emerging advances in nanobiomaterials-assisted chimeric antigen receptor (CAR)-macrophages for tumor immunotherapy": {
+                    "explanation": "This paper discusses the use of nanobiomaterials as gene delivery carriers for chimeric antigen receptor (CAR)-macrophages therapy. It highlights the potential of this approach in treating malignancies by equipping macrophages. Although it does not directly depend on the findings of the source paper, it explores a related concept of using nanomaterials to target and repolarize TAMs, which makes it somewhat relevant.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2024,
+        "source_paper": {
+            "paperId": "f717553a78fc23398ed52c3c2fab4b08dbff6d6d",
+            "title": "Mannose and Hyaluronic Acid Dual-Modified Iron Oxide Enhances Neoantigen-Based Peptide Vaccine Therapy by Polarizing Tumor-Associated Macrophages",
+            "abstract": "Simple Summary Cancer vaccine therapy is promising, though its efficacy is compromised in an immunosuppressive tumor microenvironment. Tumor-associated macrophages (TAMs) have the potential to be repolarized to an antitumor subtype, and their antigen-presenting ability might enhance the efficacy of cancer vaccination. Here, we aimed to develop a nanoparticle with adjuvant effect that could be a carrier for neoantigen-based vaccine to target and repolarize TAMs in situ. Therefore, we prepared a hyaluronic acid and mannose dual-modified iron oxide nanoparticle, and the enhanced efficiency of nanoparticle intake of macrophages was confirmed. It could repolarize macrophages and outperformed a commercialized iron oxide nanoparticle, ferumoxytol. Combined with peptides, this nanoparticle strongly inhibited TC1 tumor growth, and 40% of mice reached complete regression. This is the first report using mannose, hyaluronic acid, and iron oxide to target TAMs and achieve ideal outcomes in vivo. This study provides a facile nanoplatform for neoantigen-based vaccine therapy and a reference for repolarizing TAMs to promote immunotherapy. Abstract Neoantigen-based cancer vaccine therapy is a breakthrough in the field of immunotherapy. However, it is difficult for vaccines against neoantigens to overcome the immunosuppressive microenvironment, where tumor-associated macrophages (TAMs) play a significant role. Herein, we report an iron oxide nanoparticle modified with hyaluronic acid and mannose to reshape the tumor microenvironment by targeting and repolarizing TAMs from protumor M2 to antitumor M1 phenotype. Mannose decoration could confer the nanoparticle-enhanced TAM targeting ability, while hyaluronic acid and iron oxide could repolarize M2-like macrophages both in vitro and in vivo. Combined with antigenic peptides, this nanovaccine could significantly increase the infiltration of CD8+ T cells into tumor tissue and strongly activate dendritic cells in sentinel lymph nodes. Finally, we used the dual-modified nanoparticles to first convert the tumor microenvironment and then the nanovaccine administration in a TC1 tumor model to further enhance efficacy. This strategy inhibited tumor growth and achieved a 40% cure rate in mice (two of five). In summary, this study provides a potent and rationally designed nanoadjuvant to enhance antitumor efficiency and facilitate delivery of neoantigen vaccines by repolarizing TAMs and harmonizing immune cells.",
+            "year": 2022,
+            "citation_count": 13,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the use of iron oxide nanoparticles to polarize tumor-associated macrophages and enhance neoantigen-based vaccine therapy."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Metal-based nanoparticle in cancer treatment: lessons learned and challenges": {
+                    "explanation": "This paper is a review article that discusses the application of metal nanoparticles in cancer treatment. While it mentions iron oxide nanoparticles, which are also used in the source paper, it does not build upon or depend on the findings of the source paper. Therefore, it has no direct connection to the source paper.",
+                    "relevance": 0
+                },
+                "2. Components, Formulations, Deliveries, and Combinations of Tumor Vaccines": {
+                    "explanation": "This paper is a review article that discusses various aspects of tumor vaccines, including formulations, delivery systems, and combination therapies. Although it mentions tumor vaccines, which is related to the topic of the source paper, it does not specifically build upon or depend on the findings of the source paper. Therefore, it has no direct connection to the source paper.",
+                    "relevance": 0
+                },
+                "3. Cancer Nanovaccines: Nanomaterials and Clinical Perspectives": {
+                    "explanation": "This paper is a review article that discusses the development of cancer nanovaccines, including the use of nanomaterials and their clinical perspectives. Although it mentions nanovaccines, which is related to the topic of the source paper, it does not specifically build upon or depend on the findings of the source paper. However, it does provide a comprehensive overview of the field, which could be relevant to researchers working on cancer nanovaccines. Therefore, it has some indirect connection to the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2024,
+        "source_paper": {
+            "paperId": "0fca96e8abbb9cadf8607d37bab8a8cd33b0d031",
+            "title": "Emerging advances in nanobiomaterials-assisted chimeric antigen receptor (CAR)-macrophages for tumor immunotherapy",
+            "abstract": "Adoptive cell immunotherapy, especially chimeric antigen receptor (CAR)-T-cells therapy, has made great progress in the clinical treatment of hematological malignancies. However, restricted by the complex tumor microenvironment, the potential efficiency of T-cell infiltration and activated immune cells are limited, thus failure prevented the progression of the solid tumor. Alternatively, tumor-associated macrophages (TAMs), one sustentacular and heterogeneous cellular population within the tumor microenvironment, are regarded as potential therapeutic targets. Recently, CARs have shown tremendous promise in treating malignancies by equipping macrophages. This novel therapeutic strategy circumvents the tumor microenvironment\u2019s limitations and provides a safer therapeutic approach. Meanwhile, nanobiomaterials as gene delivery carriers not only substantially reduce the treatment cost of this novel therapeutic strategy, but also set the foundation for in vivo CAR-M therapy. Here, we highlight the major strategies prepared for CAR-M, emphasizing the challenges and opportunities of these approaches. First, the common therapeutic strategies for macrophages are summarized in clinical and preclinical trials. Namely, TAM-targeted therapeutic strategies: 1) Inhibit monocyte or macrophage recruitment into tumors, 2) deplete TAMs, and 3) reprogramme TAMs to antitumor M1 phenotype. Second, the current development and progress of CAR-M therapy are reviewed, including the researchers\u2019 attempts in CAR structure design, cell origin, and gene delivery vectors, especially nanobiomaterials as an alternative to viral vectors, as well as some challenges faced by current CAR-M therapy are also summarized and discussed. Finally, the field of genetically engineered macrophages integration with nanotechnology for the future in oncology has been prospected.",
+            "year": 2023,
+            "citation_count": 14,
+            "relevance": 1,
+            "explanation": "This paper discusses the use of nanobiomaterials as gene delivery carriers for chimeric antigen receptor (CAR)-macrophages therapy. It highlights the potential of this approach in treating malignancies by equipping macrophages. Although it does not directly depend on the findings of the source paper, it explores a related concept of using nanomaterials to target and repolarize TAMs, which makes it somewhat relevant."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Emerging Advances in Nano-biomaterial Assisted Amyloid Beta Chimeric Antigen Receptor Macrophages (CAR-M) Therapy: Reducing Plaque Burden in Alzheimer's Disease": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it explores the application of nano-biomaterial-assisted CAR-M therapy in a new context (Alzheimer's disease), building on the source paper's discussion of CAR-M therapy's potential.",
+                    "relevance": 1
+                },
+                "2. CAR-macrophage: Breaking new ground in cellular immunotherapy": {
+                    "explanation": "This paper is partially dependent on the source paper's findings, as it discusses the potential of CAR-macrophages in cancer immunotherapy, a topic that is closely related to the source paper's focus on CAR-M therapy.",
+                    "relevance": 2
+                },
+                "3. Advancing immunotherapy for intrahepatic cholangiocarcinoma: exploring the tumor immune microenvironment and innovative treatments": {
+                    "explanation": "This paper has no direct connection to the source paper, as it focuses on a different type of cancer (intrahepatic cholangiocarcinoma) and does not mention CAR-M therapy.",
+                    "relevance": 0
+                },
+                "4. Bibliometric analysis of chimeric antigen receptor macrophage therapy": {
+                    "explanation": "This paper is a review paper that provides an analysis of the field of CAR-M therapy, but it does not present a new hypothesis or findings that are directly related to the source paper.",
+                    "relevance": 0
+                },
+                "5. Novel immunotherapeutic approaches in gastric cancer": {
+                    "explanation": "This paper mentions CAR-T cell therapy, but not CAR-M therapy, and does not have a direct connection to the source paper.",
+                    "relevance": 0
+                },
+                "6. PSMA-specific CAR-engineered macrophages for therapy of prostate cancer": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the source paper's findings, as it explores the application of CAR-M therapy in a new context (prostate cancer), building on the source paper's discussion of CAR-M therapy's potential.",
+                    "relevance": 2
+                },
+                "7. Empowering brain tumor management: chimeric antigen receptor macrophage therapy": {
+                    "explanation": "This paper is partially dependent on the source paper's findings, as it discusses the potential of CAR-M therapy in brain tumor management, a topic that is closely related to the source paper's focus on CAR-M therapy.",
+                    "relevance": 2
+                },
+                "8. Current Advancements in Anti-Cancer Chimeric Antigen Receptor T Cell Immunotherapy and How Nanotechnology May Change the Game": {
+                    "explanation": "This paper mentions CAR-T cell therapy, but not CAR-M therapy, and does not have a direct connection to the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. CAR-macrophage: Breaking new ground in cellular immunotherapy": {
+                    "explanation": "This paper is partially dependent on the source paper's findings, as it discusses the potential of CAR-macrophages in cancer immunotherapy, a topic that is closely related to the source paper's focus on CAR-M therapy.",
+                    "relevance": 2
+                },
+                "2. PSMA-specific CAR-engineered macrophages for therapy of prostate cancer": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the source paper's findings, as it explores the application of CAR-M therapy in a new context (prostate cancer), building on the source paper's discussion of CAR-M therapy's potential.",
+                    "relevance": 2
+                },
+                "3. Empowering brain tumor management: chimeric antigen receptor macrophage therapy": {
+                    "explanation": "This paper is partially dependent on the source paper's findings, as it discusses the potential of CAR-M therapy in brain tumor management, a topic that is closely related to the source paper's focus on CAR-M therapy.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    }
+]

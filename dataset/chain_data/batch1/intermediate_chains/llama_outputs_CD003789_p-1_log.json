@@ -1,0 +1,273 @@
+[
+    {
+        "year": 1975,
+        "source_paper": {
+            "paperId": "5a57e4ef259a4aba259bd6babd43a22b457a98ae",
+            "pmid": "4599883",
+            "title": "Voltaren in the treatment of rheumatoid arthritis.",
+            "abstract": null,
+            "year": 1974,
+            "citation_count": 26
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. A Double-Blind Comparison between Diclofenac Sodium and Ibuprofen in Osteoarthritis": {
+                    "explanation": "This paper is related to the source paper as it investigates the efficacy and tolerability of diclofenac sodium (Voltaren), which is also the focus of the source paper. However, it does not build upon the findings of the source paper, but rather explores a different aspect of Voltaren's effects.",
+                    "relevance": 1
+                },
+                "2. Long-Term Tolerability Study of Voltaren": {
+                    "explanation": "This paper is related to the source paper as it examines the long-term tolerability of Voltaren, which is also mentioned in the source paper. However, it does not build upon the findings of the source paper, but rather provides additional information on Voltaren's safety profile.",
+                    "relevance": 1
+                },
+                "3. Diclofenac Sodium (Voltaren): Results of a Multi-Centre Comparative Trial in Adult-Onset Rheumatoid Arthritis": {
+                    "explanation": "This paper is highly relevant to the source paper as it compares the efficacy and tolerability of diclofenac sodium (Voltaren) to indomethacin and placebo in adult-onset rheumatoid arthritis, which is the same condition investigated in the source paper. The findings of this paper are partially dependent on the understanding of Voltaren's effects in rheumatoid arthritis, which is established in the source paper.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Diclofenac Sodium (Voltaren): Results of a Multi-Centre Comparative Trial in Adult-Onset Rheumatoid Arthritis": {
+                    "explanation": "This paper is highly relevant to the source paper as it compares the efficacy and tolerability of diclofenac sodium (Voltaren) to indomethacin and placebo in adult-onset rheumatoid arthritis, which is the same condition investigated in the source paper. The findings of this paper are partially dependent on the understanding of Voltaren's effects in rheumatoid arthritis, which is established in the source paper.",
+                    "relevance": 2
+                },
+                "2. A Double-Blind Comparison between Diclofenac Sodium and Ibuprofen in Osteoarthritis": {
+                    "explanation": "This paper is related to the source paper as it investigates the efficacy and tolerability of diclofenac sodium (Voltaren), which is also the focus of the source paper. However, it does not build upon the findings of the source paper, but rather explores a different aspect of Voltaren's effects.",
+                    "relevance": 1
+                },
+                "3. Long-Term Tolerability Study of Voltaren": {
+                    "explanation": "This paper is related to the source paper as it examines the long-term tolerability of Voltaren, which is also mentioned in the source paper. However, it does not build upon the findings of the source paper, but rather provides additional information on Voltaren's safety profile.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 1977,
+        "source_paper": {
+            "paperId": "7e739f38bbce585a23725094da7b71e45af73498",
+            "title": "Diclofenac Sodium (Voltaren): Results of a Multi-Centre Comparative Trial in Adult-Onset Rheumatoid Arthritis",
+            "abstract": "A short-term trial has been performed under double-blind conditions in 50 adult patients with rheumatoid arthritis to compare diclofenac sodium (Voltaren) with both indomethacin and placebo for efficacy and tolerability. The duration of the trial was two weeks and was a between-patient comparison of 25 mg t.i.d. diclofenac sodium, 25 mg t.i.d. indomethacin or placebo using a double-dummy technique. Forty-eight patients completed the trial. In the majority of parameters examined, diclofenac sodium was superior to placebo and indomethacin in therapeutic effect. One patient was withdrawn from the trial because of intolerance to indomethacin and one other because of severe joint pain under indomethacin therapy. Neither active compound caused clinically significant changes in blood picture or urine analysis.",
+            "year": 1975,
+            "citation_count": 28,
+            "relevance": 2,
+            "explanation": "This paper is highly relevant to the source paper as it compares the efficacy and tolerability of diclofenac sodium (Voltaren) to indomethacin and placebo in adult-onset rheumatoid arthritis, which is the same condition investigated in the source paper. The findings of this paper are partially dependent on the understanding of Voltaren's effects in rheumatoid arthritis, which is established in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Diclofenac (Voltaren) for the Treatment of Osteo-Arthrosis: A Double-Blind Comparison with Naproxen": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the efficacy of diclofenac (Voltaren) in a different condition (osteo-arthrosis) compared to the source paper (rheumatoid arthritis), building on the source paper's results regarding diclofenac's therapeutic effect.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Diclofenac (Voltaren) for the Treatment of Osteo-Arthrosis: A Double-Blind Comparison with Naproxen": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the efficacy of diclofenac (Voltaren) in a different condition (osteo-arthrosis) compared to the source paper (rheumatoid arthritis), building on the source paper's results regarding diclofenac's therapeutic effect.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 1978,
+        "source_paper": {
+            "paperId": "bd1398bbdd937cee717960eddec7ed838925612e",
+            "title": "Diclofenac (Voltaren\u00ae) for the Treatment of Osteo-Arthrosis: A Double-Blind Comparison with Naproxen",
+            "abstract": "A double-blind, between-patient, comparative trial of diclofenac (Voltaren) and naproxen was carried out in 30 patients suffering from osteo-arthrosis of the hip or the knee. The drugs were given twice daily, morning and evening, during a period of two weeks. The daily dose was 100 mg for Voltaren and 500 mg for naproxen. The results indicate that Voltaren brought relief of pain and stiffness in a greater number of patients than did naproxen. The same finding was made regarding the influence on the range of joint movements, the difference reaching statistical significance. Voltaren appeared also to be better tolerated since the number of patients reporting side-effects was smaller and the complaints of less severity.",
+            "year": 1977,
+            "citation_count": 34,
+            "relevance": 1,
+            "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the efficacy of diclofenac (Voltaren) in a different condition (osteo-arthrosis) compared to the source paper (rheumatoid arthritis), building on the source paper's results regarding diclofenac's therapeutic effect."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Diclofenac sodium (Voltaren) and naproxen in the treatment of rheumatoid arthritis: a comparative double-blind study": {
+                    "explanation": "This paper's hypothesis is inspired by the source paper, as it also compares the efficacy and tolerability of diclofenac sodium (Voltaren) and naproxen in a different patient population (rheumatoid arthritis instead of osteo-arthrosis).",
+                    "relevance": 1
+                },
+                "2. A double-blind multicentre comparison of diclofenac sodium and naproxen in osteoarthrosis of the hip": {
+                    "explanation": "This paper's hypothesis is inspired by the source paper, as it also compares the efficacy and tolerability of diclofenac sodium (Voltaren) and naproxen in patients with osteoarthrosis, but specifically focuses on hip osteoarthrosis.",
+                    "relevance": 1
+                },
+                "3. Pharmacological properties of diclofenac sodium and its metabolites": {
+                    "explanation": "This paper has no connection with the source paper, as it explores the pharmacological properties of diclofenac sodium and its metabolites, rather than comparing its efficacy and tolerability with naproxen in patients with osteo-arthrosis.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Diclofenac sodium (Voltaren) and naproxen in the treatment of rheumatoid arthritis: a comparative double-blind study": {
+                    "explanation": "This paper's hypothesis is inspired by the source paper, as it also compares the efficacy and tolerability of diclofenac sodium (Voltaren) and naproxen in a different patient population (rheumatoid arthritis instead of osteo-arthrosis).",
+                    "relevance": 1
+                },
+                "2. A double-blind multicentre comparison of diclofenac sodium and naproxen in osteoarthrosis of the hip": {
+                    "explanation": "This paper's hypothesis is inspired by the source paper, as it also compares the efficacy and tolerability of diclofenac sodium (Voltaren) and naproxen in patients with osteoarthrosis, but specifically focuses on hip osteoarthrosis.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 1979,
+        "source_paper": {
+            "paperId": "a08f0a913cdb3d9bede88f538f698574fc8768e0",
+            "title": "A double-blind multicentre comparison of diclofenac sodium and naproxen in osteoarthrosis of the hip.",
+            "abstract": "In this two-week, double-blind, between-patient trial conducted in 79 patients with osteoarthrosis of the hip, diclofenac sodium (Voltaren\u00ae) in a dosage of 50 mg b.i.d. was compared with naproxen in a dosage of 250 mg b.i.d. At the end of the trial, 81.6% of the patients treated with diclofenac sodium and 70.3 % of those treated with naproxen felt that they had experienced an improvement in the status of their arthritic condition. In this and other parameters of therapeutic efficacy a significant improvement over pre-treatment status occurred. However, no difference was detected between the two treatment groups. In this trial the four centres differed significantly with regard to characteristics of the trial population and pre-treatment severity of disease. Nevertheless, by applying the method of Mantel & Haenszel (6), it was found that there were no statistically significant differences in the. nature of the response to the two trial treatments in the various centres. Hence, the results obtained in the t...",
+            "year": 1978,
+            "citation_count": 22,
+            "relevance": 1,
+            "explanation": "This paper's hypothesis is inspired by the source paper, as it also compares the efficacy and tolerability of diclofenac sodium (Voltaren) and naproxen in patients with osteoarthrosis, but specifically focuses on hip osteoarthrosis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Effect of diclofenac and naproxen on gastroduodenal mucosa": {
+                    "explanation": "This paper is directly related to the source paper as it compares the effects of diclofenac and naproxen, two nonsteroidal anti-inflammatory drugs (NSAIDs) that were also compared in the source paper. The hypothesis in this paper is partially dependent on the findings of the source paper, which compared the efficacy of diclofenac sodium and naproxen in osteoarthrosis of the hip.",
+                    "relevance": 2
+                },
+                "2. Evaluations on New Drugs": {
+                    "explanation": "This paper appears to be a review of new drugs, including bromocriptine, and does not seem to have any connection to the source paper, which compared diclofenac sodium and naproxen in osteoarthrosis of the hip.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Effect of diclofenac and naproxen on gastroduodenal mucosa": {
+                    "explanation": "This paper is directly related to the source paper as it compares the effects of diclofenac and naproxen, two nonsteroidal anti-inflammatory drugs (NSAIDs) that were also compared in the source paper. The hypothesis in this paper is partially dependent on the findings of the source paper, which compared the efficacy of diclofenac sodium and naproxen in osteoarthrosis of the hip.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 1980,
+        "source_paper": {
+            "paperId": "a08f0a913cdb3d9bede88f538f698574fc8768e0",
+            "title": "A double-blind multicentre comparison of diclofenac sodium and naproxen in osteoarthrosis of the hip.",
+            "abstract": "In this two-week, double-blind, between-patient trial conducted in 79 patients with osteoarthrosis of the hip, diclofenac sodium (Voltaren\u00ae) in a dosage of 50 mg b.i.d. was compared with naproxen in a dosage of 250 mg b.i.d. At the end of the trial, 81.6% of the patients treated with diclofenac sodium and 70.3 % of those treated with naproxen felt that they had experienced an improvement in the status of their arthritic condition. In this and other parameters of therapeutic efficacy a significant improvement over pre-treatment status occurred. However, no difference was detected between the two treatment groups. In this trial the four centres differed significantly with regard to characteristics of the trial population and pre-treatment severity of disease. Nevertheless, by applying the method of Mantel & Haenszel (6), it was found that there were no statistically significant differences in the. nature of the response to the two trial treatments in the various centres. Hence, the results obtained in the t...",
+            "year": 1978,
+            "citation_count": 22,
+            "relevance": 1,
+            "explanation": "This paper's hypothesis is inspired by the source paper, as it also compares the efficacy and tolerability of diclofenac sodium (Voltaren) and naproxen in patients with osteoarthrosis, but specifically focuses on hip osteoarthrosis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Once Daily Dose Treatment with a Non-Steroidal Anti-Rheumatic Drug (Diclofenac) in Osteoarthrosis": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the efficacy of diclofenac sodium in a different dosage regimen, building on the source paper's results regarding diclofenac's role in treating osteoarthrosis.",
+                    "relevance": 1
+                },
+                "2. Diclofenac sodium (Voltaren) and ibuprofen in rheumatoid arthritis. A randomized double-blind study.": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it compares the efficacy of diclofenac sodium with another non-steroidal anti-inflammatory drug (ibuprofen) in a different condition (rheumatoid arthritis), using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Diclofenac sodium (Voltaren) and ibuprofen in rheumatoid arthritis. A randomized double-blind study.": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it compares the efficacy of diclofenac sodium with another non-steroidal anti-inflammatory drug (ibuprofen) in a different condition (rheumatoid arthritis), using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "2. Once Daily Dose Treatment with a Non-Steroidal Anti-Rheumatic Drug (Diclofenac) in Osteoarthrosis": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the efficacy of diclofenac sodium in a different dosage regimen, building on the source paper's results regarding diclofenac's role in treating osteoarthrosis.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 1980,
+        "source_paper": {
+            "paperId": "e4349ef57abf6610b9a94e4ff095b682d0f7594b",
+            "title": "Effect of diclofenac and naproxen on gastroduodenal mucosa",
+            "abstract": "The influence on gastroduodenal mucosa of naproxen, 500 mg/day, and diclofenac, 100 mg/day, for 1 wk was investigated in 14 subjects in a double\u2010blind randomized crossover study. Endoscopic examination of the gastroduodenal mucosa was carried out before and after each drug with regard to gastritis and hemorrhagic and erosive lesions. A 20\u2010cm visual analogue scale was used for grading severity cf mucosal changes. Naproxen caused statistically significant increases in median scores for all 3 variables, and 10 subjects showed a score increase in at least 1 variable; reaction to diclofenac occurred in only 4 subjects and the changes in median scores were not significant.",
+            "year": 1979,
+            "citation_count": 47,
+            "relevance": 2,
+            "explanation": "This paper is directly related to the source paper as it compares the effects of diclofenac and naproxen, two nonsteroidal anti-inflammatory drugs (NSAIDs) that were also compared in the source paper. The hypothesis in this paper is partially dependent on the findings of the source paper, which compared the efficacy of diclofenac sodium and naproxen in osteoarthrosis of the hip."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. The effects of four platelet inhibitors on human platelets using two adhesiveness test systems": {
+                    "explanation": "Although this paper explores the effects of nonsteroidal anti-inflammatory drugs (NSAIDs), including naproxen, it does not build upon or depend on the findings of the source paper regarding diclofenac and naproxen's effects on gastroduodenal mucosa. The focus is on platelet adhesion, which is a different aspect of NSAID effects.",
+                    "relevance": 0
+                },
+                "2. Acetylsalicylic acid-induced gastrointestinal bleeding determined by a 51Cr method on a day-to-day basis": {
+                    "explanation": "This paper investigates gastrointestinal bleeding caused by acetylsalicylic acid, which is a different NSAID from diclofenac and naproxen studied in the source paper. Although it touches on the gastrointestinal side effects of NSAIDs, it does not directly relate to or build upon the source paper's findings.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 1981,
+        "source_paper": {
+            "paperId": "e4349ef57abf6610b9a94e4ff095b682d0f7594b",
+            "title": "Effect of diclofenac and naproxen on gastroduodenal mucosa",
+            "abstract": "The influence on gastroduodenal mucosa of naproxen, 500 mg/day, and diclofenac, 100 mg/day, for 1 wk was investigated in 14 subjects in a double\u2010blind randomized crossover study. Endoscopic examination of the gastroduodenal mucosa was carried out before and after each drug with regard to gastritis and hemorrhagic and erosive lesions. A 20\u2010cm visual analogue scale was used for grading severity cf mucosal changes. Naproxen caused statistically significant increases in median scores for all 3 variables, and 10 subjects showed a score increase in at least 1 variable; reaction to diclofenac occurred in only 4 subjects and the changes in median scores were not significant.",
+            "year": 1979,
+            "citation_count": 47,
+            "relevance": 2,
+            "explanation": "This paper is directly related to the source paper as it compares the effects of diclofenac and naproxen, two nonsteroidal anti-inflammatory drugs (NSAIDs) that were also compared in the source paper. The hypothesis in this paper is partially dependent on the findings of the source paper, which compared the efficacy of diclofenac sodium and naproxen in osteoarthrosis of the hip."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Endoscopic evaluation of gastric tolerance to fenclofenac": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effect of fenclofenac on gastroduodenal mucosa, building on the source paper's results regarding the effects of diclofenac and naproxen on gastroduodenal mucosa.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Endoscopic evaluation of gastric tolerance to fenclofenac": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effect of fenclofenac on gastroduodenal mucosa, building on the source paper's results regarding the effects of diclofenac and naproxen on gastroduodenal mucosa.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 1992,
+        "source_paper": {
+            "paperId": "7d3920e051f23c6d5f0fdefa79e10e857dc0dda0",
+            "title": "Endoscopic evaluation of gastric tolerance to fenclofenac.",
+            "abstract": "Gastrointestinal irritation is a common consequence of treatment with many non-steroidal anti-inflammatory agents. An open tolerance study with endoscopic control employing fenclofenac in doses of 900 or 1200 mg daily in ten patients with osteoarthrosis, was carried out over an eight week period. The principal aim of the study was to evaluate the effect of fenclofenac on the gastroduodenal mucosa in a selected group of patients with osteoarthrosis and with a history of gastric intolerance to other non-steroidal anti-inflammatory agents. All patients tolerated fenclofenac well and showed clinical improvement.",
+            "year": 1981,
+            "citation_count": 4,
+            "relevance": 1,
+            "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effect of fenclofenac on gastroduodenal mucosa, building on the source paper's results regarding the effects of diclofenac and naproxen on gastroduodenal mucosa."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Effects of nonsteroidal anti-inflammatory drugs on endogenous gastrointestinal prostaglandins and therapeutic strategies for prevention and treatment of nonsteroidal anti-inflammatory drug-induced damage": {
+                    "explanation": "This paper is a review article that discusses the mechanisms of NSAIDs' anti-inflammatory action and their gastroduodenal toxic effects. Although it does not directly build upon the source paper's findings, it does provide a broader context for understanding the gastrointestinal effects of NSAIDs, which is relevant to the source paper's investigation of fenclofenac's gastric tolerance. However, since it is a review paper, it does not present novel findings or hypotheses that directly depend on the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 1992,
+        "source_paper": {
+            "paperId": "7d3920e051f23c6d5f0fdefa79e10e857dc0dda0",
+            "title": "Endoscopic evaluation of gastric tolerance to fenclofenac.",
+            "abstract": "Gastrointestinal irritation is a common consequence of treatment with many non-steroidal anti-inflammatory agents. An open tolerance study with endoscopic control employing fenclofenac in doses of 900 or 1200 mg daily in ten patients with osteoarthrosis, was carried out over an eight week period. The principal aim of the study was to evaluate the effect of fenclofenac on the gastroduodenal mucosa in a selected group of patients with osteoarthrosis and with a history of gastric intolerance to other non-steroidal anti-inflammatory agents. All patients tolerated fenclofenac well and showed clinical improvement.",
+            "year": 1981,
+            "citation_count": 4,
+            "relevance": 1,
+            "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effect of fenclofenac on gastroduodenal mucosa, building on the source paper's results regarding the effects of diclofenac and naproxen on gastroduodenal mucosa."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Effects of nonsteroidal anti-inflammatory drugs on endogenous gastrointestinal prostaglandins and therapeutic strategies for prevention and treatment of nonsteroidal anti-inflammatory drug-induced damage": {
+                    "explanation": "This paper has no connection to the source paper as it is a review article that discusses the general mechanisms of nonsteroidal anti-inflammatory drugs (NSAIDs) and their effects on the gastrointestinal tract, without referencing or building upon the findings of the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    }
+]

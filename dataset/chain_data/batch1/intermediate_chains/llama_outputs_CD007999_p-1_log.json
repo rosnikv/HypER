@@ -1,0 +1,180 @@
+[
+    {
+        "year": 2002,
+        "source_paper": {
+            "paperId": "7fa9ff025659a8156ac78d8494bfb1509a36df15",
+            "pmid": "11761026",
+            "title": "Regular-dose versus high-dose omeprazole in peptic ulcer bleeding: a prospective randomized double-blind study.",
+            "abstract": "BACKGROUND\nIt has been suggested that profound acid inhibition along with endoscopic therapy might prevent rebleeding and reduce mortality in patients with peptic ulcer bleeding. The aim of the study was to test the possible equivalence of a high dose and the regular dose of omeprazole in peptic ulcer bleeding.\n\n\nMETHODS\nWe performed a prospective randomized double-blind study involving 142 patients with acute peptic ulcer bleeding (Forrest classification I-II: spurting or oozing bleeding, non-bleeding visible vessel, clot and black base). One-hundred-and-two (71.8%) patients received endoscopic treatment (adrenaline injection and/or heater probe) in pre-entry. Patients were randomly assigned to receive the regular dose of omeprazole intravenously (20 mg once a day for 3 days, i.e. 60 mg/72 h) or a high dose of omeprazole (80 mg bolus + 8 mg/h for 3 days, i.e. 652 mg/72 h). Rebleeding, surgery and death were the outcome measures.\n\n\nRESULTS\nSix (8.2%) of the 73 patients receiving the regular dose of omeprazole and 8 (11.6%) of the 69 patients receiving the high dose of omeprazole rebled (P = 0.002 for equivalence, equivalence limit 0.15). Three (4.1%) of the former patients and 5 (7.2%) of the latter group underwent surgery. Four (5.5%) patients in the regular-dose and 2 (2.9%) in the high-dose group died within 30 days.\n\n\nCONCLUSION\nUnder the defined tolerance limits, the regular dose of omeprazole is as successful as a high dose in preventing peptic ulcer rebleeding.",
+            "year": 2001,
+            "citation_count": 95
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. THE NEW ZEALAND MEDICAL JOURNAL": {
+                    "explanation": "This paper has no direct connection with the source paper. The source paper is a prospective randomized double-blind study comparing regular-dose versus high-dose omeprazole in peptic ulcer bleeding, while this paper is an audit of the efficacy of endoscopic injection therapy for non-variceal upper gastrointestinal bleeding. Although both papers deal with gastrointestinal bleeding, the focus, methodology, and interventions are different.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2003,
+        "source_paper": {
+            "paperId": "7fa9ff025659a8156ac78d8494bfb1509a36df15",
+            "pmid": "11761026",
+            "title": "Regular-dose versus high-dose omeprazole in peptic ulcer bleeding: a prospective randomized double-blind study.",
+            "abstract": "BACKGROUND\nIt has been suggested that profound acid inhibition along with endoscopic therapy might prevent rebleeding and reduce mortality in patients with peptic ulcer bleeding. The aim of the study was to test the possible equivalence of a high dose and the regular dose of omeprazole in peptic ulcer bleeding.\n\n\nMETHODS\nWe performed a prospective randomized double-blind study involving 142 patients with acute peptic ulcer bleeding (Forrest classification I-II: spurting or oozing bleeding, non-bleeding visible vessel, clot and black base). One-hundred-and-two (71.8%) patients received endoscopic treatment (adrenaline injection and/or heater probe) in pre-entry. Patients were randomly assigned to receive the regular dose of omeprazole intravenously (20 mg once a day for 3 days, i.e. 60 mg/72 h) or a high dose of omeprazole (80 mg bolus + 8 mg/h for 3 days, i.e. 652 mg/72 h). Rebleeding, surgery and death were the outcome measures.\n\n\nRESULTS\nSix (8.2%) of the 73 patients receiving the regular dose of omeprazole and 8 (11.6%) of the 69 patients receiving the high dose of omeprazole rebled (P = 0.002 for equivalence, equivalence limit 0.15). Three (4.1%) of the former patients and 5 (7.2%) of the latter group underwent surgery. Four (5.5%) patients in the regular-dose and 2 (2.9%) in the high-dose group died within 30 days.\n\n\nCONCLUSION\nUnder the defined tolerance limits, the regular dose of omeprazole is as successful as a high dose in preventing peptic ulcer rebleeding.",
+            "year": 2001,
+            "citation_count": 95
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Consensus Recommendations for Managing Patients with Nonvariceal Upper Gastrointestinal Bleeding": {
+                    "explanation": "This paper is a review paper that provides consensus recommendations for managing patients with nonvariceal upper gastrointestinal bleeding, but it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "2. Non-variceal upper gastrointestinal haemorrhage": {
+                    "explanation": "This paper discusses and critiques guidelines for non-variceal upper gastrointestinal haemorrhage, but it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "3. Effect of Short-term Treatment with Regular or High Doses of Omeprazole on the Detection of Helicobacter pylori in Bleeding Peptic Ulcer Patients": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effect of different doses of omeprazole on the detection of Helicobacter pylori in bleeding peptic ulcer patients, which is related to the source paper's investigation of the optimal dose of omeprazole in peptic ulcer bleeding.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Effect of Short-term Treatment with Regular or High Doses of Omeprazole on the Detection of Helicobacter pylori in Bleeding Peptic Ulcer Patients": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effect of different doses of omeprazole on the detection of Helicobacter pylori in bleeding peptic ulcer patients, which is related to the source paper's investigation of the optimal dose of omeprazole in peptic ulcer bleeding.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2004,
+        "source_paper": {
+            "paperId": "8969dae46fff77445a7f2304686a602ad329bfb6",
+            "title": "Effect of short-term treatment with regular or high doses of omeprazole on the detection of Helicobacter pylori in bleeding peptic ulcer patients.",
+            "abstract": null,
+            "year": 2003,
+            "citation_count": 20,
+            "relevance": 1,
+            "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effect of different doses of omeprazole on the detection of Helicobacter pylori in bleeding peptic ulcer patients, which is related to the source paper's investigation of the optimal dose of omeprazole in peptic ulcer bleeding."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. A Canadian clinical practice algorithm for the management of patients with nonvariceal upper gastrointestinal bleeding": {
+                    "explanation": "This paper is a review paper that provides a clinical algorithm for the management of upper gastrointestinal bleeding, including the use of proton-pump inhibition and testing for Helicobacter pylori infection. While it mentions Helicobacter pylori, it does not build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 0
+                },
+                "2. Diagnosis of Helicobacter pylori Infection": {
+                    "explanation": "This paper discusses various methods for diagnosing Helicobacter pylori infection, including molecular methods and serology. However, it does not build upon or use the findings of the source paper, which investigated the effect of omeprazole on the detection of Helicobacter pylori in bleeding peptic ulcer patients.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2006,
+        "source_paper": {
+            "paperId": "8969dae46fff77445a7f2304686a602ad329bfb6",
+            "title": "Effect of short-term treatment with regular or high doses of omeprazole on the detection of Helicobacter pylori in bleeding peptic ulcer patients.",
+            "abstract": null,
+            "year": 2003,
+            "citation_count": 20,
+            "relevance": 1,
+            "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effect of different doses of omeprazole on the detection of Helicobacter pylori in bleeding peptic ulcer patients, which is related to the source paper's investigation of the optimal dose of omeprazole in peptic ulcer bleeding."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Diagnosis of Helicobacter pylori Infection": {
+                    "explanation": "This paper discusses various methods for diagnosing Helicobacter pylori infection, including some that may be relevant to the source paper's focus on omeprazole treatment. However, the paper does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "2. Accuracy of Helicobacter pylori Diagnostic Tests in Patients with Bleeding Peptic Ulcer: A Systematic Review and Meta-analysis": {
+                    "explanation": "This paper is a systematic review and meta-analysis of diagnostic tests for Helicobacter pylori infection in patients with bleeding peptic ulcers, which is closely related to the topic of the source paper. However, as a review paper, it does not present novel findings or hypotheses that directly build upon or depend on the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2006,
+        "source_paper": {
+            "paperId": "8969dae46fff77445a7f2304686a602ad329bfb6",
+            "title": "Effect of short-term treatment with regular or high doses of omeprazole on the detection of Helicobacter pylori in bleeding peptic ulcer patients.",
+            "abstract": null,
+            "year": 2003,
+            "citation_count": 20,
+            "relevance": 1,
+            "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effect of different doses of omeprazole on the detection of Helicobacter pylori in bleeding peptic ulcer patients, which is related to the source paper's investigation of the optimal dose of omeprazole in peptic ulcer bleeding."
+        },
+        "llama_output": {},
+        "seed": 42
+    },
+    {
+        "year": 2007,
+        "source_paper": {
+            "paperId": "8969dae46fff77445a7f2304686a602ad329bfb6",
+            "title": "Effect of short-term treatment with regular or high doses of omeprazole on the detection of Helicobacter pylori in bleeding peptic ulcer patients.",
+            "abstract": null,
+            "year": 2003,
+            "citation_count": 20,
+            "relevance": 1,
+            "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effect of different doses of omeprazole on the detection of Helicobacter pylori in bleeding peptic ulcer patients, which is related to the source paper's investigation of the optimal dose of omeprazole in peptic ulcer bleeding."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. 13C\u2010urea Breath Test during Hospitalization for the Diagnosis of Helicobacter pylori Infection in Peptic Ulcer Bleeding": {
+                    "explanation": "This paper explores the use of the 13C-urea breath test for diagnosing Helicobacter pylori infection in patients with peptic ulcer bleeding, which is related to the source paper's topic of Helicobacter pylori infection in bleeding peptic ulcer patients. However, it does not directly build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "2. Analysis of the risk factors and their combinations in acute gastroduodenal ulcer bleeding: A case-control study": {
+                    "explanation": "This paper investigates the risk factors for peptic ulcer bleeding, including Helicobacter pylori infection, which is also studied in the source paper. However, it does not directly build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "3. The Treatment and Risk Factors of Peptic Ulcer Bleeding": {
+                    "explanation": "This paper explores the treatment and risk factors of peptic ulcer bleeding, including the use of omeprazole, which is also studied in the source paper. Additionally, it investigates the effect of omeprazole on Helicobacter pylori colonisation, which is related to the source paper's topic. The paper's hypothesis is partially dependent on the findings of the source paper, as it builds upon the understanding of omeprazole's effects on Helicobacter pylori infection.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. The Treatment and Risk Factors of Peptic Ulcer Bleeding": {
+                    "explanation": "This paper explores the treatment and risk factors of peptic ulcer bleeding, including the use of omeprazole, which is also studied in the source paper. Additionally, it investigates the effect of omeprazole on Helicobacter pylori colonisation, which is related to the source paper's topic. The paper's hypothesis is partially dependent on the findings of the source paper, as it builds upon the understanding of omeprazole's effects on Helicobacter pylori infection.",
+                    "relevance": 2
+                },
+                "2. 13C\u2010urea Breath Test during Hospitalization for the Diagnosis of Helicobacter pylori Infection in Peptic Ulcer Bleeding": {
+                    "explanation": "This paper explores the use of the 13C-urea breath test for diagnosing Helicobacter pylori infection in patients with peptic ulcer bleeding, which is related to the source paper's topic of Helicobacter pylori infection in bleeding peptic ulcer patients. However, it does not directly build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "3. Analysis of the risk factors and their combinations in acute gastroduodenal ulcer bleeding: A case-control study": {
+                    "explanation": "This paper investigates the risk factors for peptic ulcer bleeding, including Helicobacter pylori infection, which is also studied in the source paper. However, it does not directly build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2008,
+        "source_paper": {
+            "paperId": "00c67d53f614a4e1f5002394f4e32df144253943",
+            "title": "The Treatment and Risk Factors of Peptic Ulcer Bleeding",
+            "abstract": "The incidence of acute upper gastrointestinal bleeding has been 100/100000 inhabitants in Western countries. Peptic ulcer bleeding (PUB) was the source of bleeding in 50% of these cases. The incidence of non-complicated peptic ulcer has decreased while that of PUB has increased. The mortality of bleeding patients has not significantly decreased despite new therapeutic options. Controversial results in few studies concerning the medical treatment of PUB after endoscopic treatment complicates sound clinical decision making in patient care. Furthermore, the risk profile of these patients and the impact of treatment on H.pylori have been studied seldom, especially in Finnish patients. The significance of gastric acid inhibition following successful endoscopic therapy in preventing rebleeding and reducing mortality in PUB was studied by testing the equivalence of a regular dose (20 mg once a day for 72 hours, n = 73) and a high dose of omeprazole (80 mg bolus + 8 mg/h for 72 hours, n = 69) in a prospective randomised double blind trial. Both doses were equally effective based on rebleeding rates, need of emergency surgery and mortality. The factors associated with rebleeding were shock on admission and duodenal ulcer (DU). In PUB an intragastric pH-level > 4 is considered necessary to prevent dissolving of the formed fibrin clot. Therefore, intragastric pH monitoring for 72 hours was performed in 7 of patients of the regular and 6 of the high dose group. The regular dose of omeprazole raised both mean and median 24-hour intragastric pH > 4 in patients with PUB. This reduction in the acidity together with endoscopic therapy is probably sufficient to maintain haemostasis. The high dose kept the pH almost constantly > 6. A case-control study of PUB patients (n = 94) and controls (n = 94) of age ( 5 years) and sex matched non-ulcer patients attending elective endoscopy was undertaken to analyse risk factors for PUB. A questionnaire concerning possible risk factors was completed. H.pylori was determined positive if histology and/or urease test were positive. CagA antibodies of IgG class of H.pylori were determined by an immunoblot method. H.pylori infection, the use of ASA, other NSAIDs with 1 defined daily doses, smoking 20 cigarettes daily and previous DU were independent risk factors for PUB. Two of them were present simultaneously in 2/3 of the patients. However, the combination of risk factors did not increase the risk. Of H.pylori positive subjects, 97% of the cases and 96% of the controls had CagA strains. ASA, ibuprofen, ketoprofen and smoking had a dose-dependent association with PUB. The effect of a 3-day treatment of omeprazole on the colonisation of H.pylori in the stomach was studied in patients with PUB. H.pylori status was assessed by histology and urease test of gastric biopsies at pre-entry and after 3 days of therapy in 51 patients receiving the regular dose and in 50 patients receiving the high dose of omeprazole. A marked disappearance of H.pylori was found with both regimens, but with the high dose, tests for the diagnosis of H.pylori became negative significantly more often than with the regular dose, 60% vs. 27.5%, p = 0.001 (any test), 67.6% vs. 31.7%, p = 0.003 (histology) and 82.2% vs. 43.6%, p = 0.001 (urease test). Samples to find H.pylori should be taken before any omeprazole treatment, or the presence of the bacteria may be overlooked. National Library of Medicine Classification: QV 69, QV 95, QW 154, WI 141, WI 350, WI 360, WI 370 Medical subject headings: Anti-Inflammatory Agents, Non-Steroidal; Anti-Ulcer Agents; Aspirin; Double-Blind Method; Duodenal Ulcer; Endoscopy, Digestive System; Helicobacter pylori; Mortality; Omeprazole; Peptic Ulcer Hemorrhage/drug therapy; Peptic Ulcer Hemorrhage/prevention and control; Prospective Studies; Randomized Controlled Trials; Risk factors; Smoking; Stomach Ulcer/complications; Warfarin To Jouko, Maria, Annmari and Max",
+            "year": 2007,
+            "citation_count": 3,
+            "relevance": 2,
+            "explanation": "This paper explores the treatment and risk factors of peptic ulcer bleeding, including the use of omeprazole, which is also studied in the source paper. Additionally, it investigates the effect of omeprazole on Helicobacter pylori colonisation, which is related to the source paper's topic. The paper's hypothesis is partially dependent on the findings of the source paper, as it builds upon the understanding of omeprazole's effects on Helicobacter pylori infection."
+        },
+        "llama_output": {},
+        "seed": 42
+    }
+]

@@ -1,0 +1,710 @@
+[
+    {
+        "year": 1986,
+        "source_paper": {
+            "paperId": "9ca4f6d7f6c2f19c11df13315506617d8377fc6d",
+            "pmid": "3883172",
+            "title": "Efficacy of low-dose methotrexate in rheumatoid arthritis.",
+            "abstract": "Twenty-eight patients with refractory rheumatoid arthritis completed a randomized 24-week double-blind crossover trial comparing oral methotrexate (2.5 to 5 mg every 12 hours for three doses weekly) with placebo. The methotrexate group had significant reductions (P less than 0.01 as compared with the placebo group) in the number of tender or painful joints, the duration of morning stiffness, and disease activity according to physician and patient assessments at the 12-week crossover visit; reductions in the number of swollen joints (P less than 0.05) and 15-m walking time (P less than 0.03) also occurred. These variables, as well as the grip strength and erythrocyte sedimentation rate, showed significant (P less than 0.01) improvement at 24 weeks in the population crossed over to methotrexate. A significantly increased frequency (P less than 0.03) of the HLA-DR2 haplotype occurred in the eight patients with the most substantial response to methotrexate. Adverse reactions during methotrexate therapy included transaminase elevation (21 per cent), nausea (18 per cent), and diarrhea (12 per cent); one patient was withdrawn from the trial because of diarrhea. One patient died while receiving the placebo. Methotrexate did not affect measures of humoral or cellular immunity. We conclude that this trial provides evidence of the short-term efficacy of methotrexate in rheumatoid arthritis, but the mechanism of action is unknown. Longer trials will be required to determine the ultimate safety and effectiveness of this drug.",
+            "year": 1985,
+            "citation_count": 839
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Cyclosporin treatment for rheumatoid arthritis: a placebo controlled, double blind, multicentre study": {
+                    "explanation": "This paper explores a different treatment option for rheumatoid arthritis and does not directly build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 0
+                },
+                "2. Low dose methotrexate pneumonitis in rheumatoid arthritis": {
+                    "explanation": "This paper reports a case of pneumonitis related to low-dose methotrexate treatment, which is a potential adverse effect mentioned in the source paper. However, it does not directly build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "3. Methotrexate in Rheumatoid Arthritis: An Update": {
+                    "explanation": "This paper provides an update on the use of methotrexate in rheumatoid arthritis, which is the same treatment option explored in the source paper. It appears to be inspired by the findings of the source paper, but does not use them as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "4. The safety and efficacy of the use of methotrexate in long-term therapy for rheumatoid arthritis": {
+                    "explanation": "This paper investigates the long-term safety and efficacy of methotrexate in rheumatoid arthritis, which is a natural extension of the source paper's findings on the short-term efficacy of methotrexate. The paper's hypothesis is partially dependent on the source paper's findings.",
+                    "relevance": 2
+                },
+                "5. Treatment of Felty's syndrome with low-dose oral methotrexate": {
+                    "explanation": "This paper reports a case of successful treatment of Felty's syndrome with low-dose methotrexate, which is a related condition to rheumatoid arthritis. However, it does not directly build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "6. Methotrexate therapy in juvenile rheumatoid arthritis: a retrospective study": {
+                    "explanation": "This paper explores the use of methotrexate in juvenile rheumatoid arthritis, which is a related condition to rheumatoid arthritis. However, it does not directly build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "7. Rheumatoid arthritis associated with expanded populations of granular lymphocytes": {
+                    "explanation": "This paper reports a case of rheumatoid arthritis associated with expanded populations of granular lymphocytes, which is a related condition to rheumatoid arthritis. However, it does not directly build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 0
+                },
+                "8. Current Concepts in the Treatment of Rheumatoid Arthritis": {
+                    "explanation": "This paper is a review paper that discusses the current concepts in the treatment of rheumatoid arthritis. It does not present new findings or build upon the source paper's hypothesis.",
+                    "relevance": 0
+                },
+                "9. Low-dose methotrexate in rheumatoid arthritis: effect and tolerance. An open trial and a double-blind randomized study": {
+                    "explanation": "This paper investigates the effect and tolerance of low-dose methotrexate in rheumatoid arthritis, which is the same treatment option explored in the source paper. The paper's hypothesis is partially dependent on the source paper's findings.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. The safety and efficacy of the use of methotrexate in long-term therapy for rheumatoid arthritis": {
+                    "explanation": "This paper investigates the long-term safety and efficacy of methotrexate in rheumatoid arthritis, which is a natural extension of the source paper's findings on the short-term efficacy of methotrexate. The paper's hypothesis is partially dependent on the source paper's findings.",
+                    "relevance": 2
+                },
+                "2. Low-dose methotrexate in rheumatoid arthritis: effect and tolerance. An open trial and a double-blind randomized study": {
+                    "explanation": "This paper investigates the effect and tolerance of low-dose methotrexate in rheumatoid arthritis, which is the same treatment option explored in the source paper. The paper's hypothesis is partially dependent on the source paper's findings.",
+                    "relevance": 2
+                },
+                "3. Methotrexate in Rheumatoid Arthritis: An Update": {
+                    "explanation": "This paper provides an update on the use of methotrexate in rheumatoid arthritis, which is the same treatment option explored in the source paper. It appears to be inspired by the findings of the source paper, but does not use them as a sub-hypothesis.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 1987,
+        "source_paper": {
+            "paperId": "9ca4f6d7f6c2f19c11df13315506617d8377fc6d",
+            "pmid": "3883172",
+            "title": "Efficacy of low-dose methotrexate in rheumatoid arthritis.",
+            "abstract": "Twenty-eight patients with refractory rheumatoid arthritis completed a randomized 24-week double-blind crossover trial comparing oral methotrexate (2.5 to 5 mg every 12 hours for three doses weekly) with placebo. The methotrexate group had significant reductions (P less than 0.01 as compared with the placebo group) in the number of tender or painful joints, the duration of morning stiffness, and disease activity according to physician and patient assessments at the 12-week crossover visit; reductions in the number of swollen joints (P less than 0.05) and 15-m walking time (P less than 0.03) also occurred. These variables, as well as the grip strength and erythrocyte sedimentation rate, showed significant (P less than 0.01) improvement at 24 weeks in the population crossed over to methotrexate. A significantly increased frequency (P less than 0.03) of the HLA-DR2 haplotype occurred in the eight patients with the most substantial response to methotrexate. Adverse reactions during methotrexate therapy included transaminase elevation (21 per cent), nausea (18 per cent), and diarrhea (12 per cent); one patient was withdrawn from the trial because of diarrhea. One patient died while receiving the placebo. Methotrexate did not affect measures of humoral or cellular immunity. We conclude that this trial provides evidence of the short-term efficacy of methotrexate in rheumatoid arthritis, but the mechanism of action is unknown. Longer trials will be required to determine the ultimate safety and effectiveness of this drug.",
+            "year": 1985,
+            "citation_count": 839
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Folate status of rheumatoid arthritis patients receiving long-term, low-dose methotrexate therapy": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the folate status of rheumatoid arthritis patients receiving methotrexate therapy, building on the source paper's results regarding the efficacy of methotrexate in rheumatoid arthritis.",
+                    "relevance": 2
+                },
+                "2. Pulse methotrexate therapy in rheumatoid arthritis. A controlled prospective roentgenographic study": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it assesses the radiographic progression of joint disease in patients with rheumatoid arthritis treated with pulse methotrexate therapy, using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "3. Methotrexate in Rheumatoid Arthritis: Indications, Contraindications, Efficacy, and Safety": {
+                    "explanation": "This paper is a review paper, summarizing existing literature on the safety and efficacy of methotrexate in rheumatoid arthritis, including the source paper's findings.",
+                    "relevance": 0
+                },
+                "4. 2,000-centiGray total lymphoid irradiation for refractory rheumatoid arthritis": {
+                    "explanation": "This paper has no connection with the source paper, as it investigates the use of total lymphoid irradiation in refractory rheumatoid arthritis, a different treatment approach.",
+                    "relevance": 0
+                },
+                "5. Methotrexate in the treatment of arthritis and connective tissue diseases": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it reviews the use of methotrexate in various arthropathies and connective tissue diseases, building on the source paper's results regarding the efficacy of methotrexate in rheumatoid arthritis.",
+                    "relevance": 2
+                },
+                "6. Immunologic studies of rheumatoid arthritis patients treated with methotrexate": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the immunologic effects of methotrexate in rheumatoid arthritis patients, using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "7. Methotrexate treatment of psoriatic arthritis": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the use of methotrexate in psoriatic arthritis, building on the source paper's results regarding the efficacy of methotrexate in rheumatoid arthritis.",
+                    "relevance": 2
+                },
+                "8. Low-dose methotrexate compared with azathioprine in the treatment of rheumatoid arthritis. A twenty-four-week controlled clinical trial": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it compares the efficacy of low-dose methotrexate with azathioprine in rheumatoid arthritis, using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "9. Lack of association between HLA-DR2 and clinical response to methotrexate in patients with rheumatoid arthritis": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the relationship between HLA-DR2 and clinical response to methotrexate in rheumatoid arthritis, building on the source paper's results regarding the efficacy of methotrexate in rheumatoid arthritis.",
+                    "relevance": 2
+                },
+                "10. Cyclosporin A treatment of refractory rheumatoid arthritis": {
+                    "explanation": "This paper has no connection with the source paper, as it investigates the use of cyclosporin A in refractory rheumatoid arthritis, a different treatment approach.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Folate status of rheumatoid arthritis patients receiving long-term, low-dose methotrexate therapy": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the folate status of rheumatoid arthritis patients receiving methotrexate therapy, building on the source paper's results regarding the efficacy of methotrexate in rheumatoid arthritis.",
+                    "relevance": 2
+                },
+                "2. Pulse methotrexate therapy in rheumatoid arthritis. A controlled prospective roentgenographic study": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it assesses the radiographic progression of joint disease in patients with rheumatoid arthritis treated with pulse methotrexate therapy, using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "3. Methotrexate in the treatment of arthritis and connective tissue diseases": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it reviews the use of methotrexate in various arthropathies and connective tissue diseases, building on the source paper's results regarding the efficacy of methotrexate in rheumatoid arthritis.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 1987,
+        "source_paper": {
+            "paperId": "66482334502370b43a5fd2025e00b54923755030",
+            "title": "The safety and efficacy of the use of methotrexate in long-term therapy for rheumatoid arthritis.",
+            "abstract": "Twenty-nine patients participated in a prospective study of the safety and efficacy of oral methotrexate in the treatment of refractory rheumatoid arthritis. Patients received a mean dosage of 12.4 mg weekly over a mean duration of 29.1 months. All patients had liver biopsies at baseline, 2 years, and annually thereafter. Patients improved significantly by all clinical measures of efficacy after 1 month; maximum improvement tended to occur after approximately 6 months of therapy. Radiographs showed improvement of erosive disease in 7 of 11 patients measured. There was a significant reduction in mean prednisone dosage. Four patients required an increase in the dosage of methotrexate after prolonged therapy, because of declining clinical response. Toxicity was noted at some time in 26 of 29 patients (90%), but reactions universally became mild and tolerable after adjustment of the dosage. No significant hepatotoxicity was found in 60 sequential liver biopsies, although elevated transaminase levels were noted at some time in 20 of 29 patients (70%).",
+            "year": 1986,
+            "citation_count": 353,
+            "relevance": 2,
+            "explanation": "This paper investigates the long-term safety and efficacy of methotrexate in rheumatoid arthritis, which is a natural extension of the source paper's findings on the short-term efficacy of methotrexate. The paper's hypothesis is partially dependent on the source paper's findings."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Folate status of rheumatoid arthritis patients receiving long-term, low-dose methotrexate therapy": {
+                    "explanation": "This paper explores the biochemical effects of methotrexate on folate status, which is a relevant aspect of the source paper's findings on methotrexate's safety and efficacy in treating rheumatoid arthritis. The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the mechanism of response to methotrexate therapy.",
+                    "relevance": 2
+                },
+                "2. Pulse methotrexate therapy in rheumatoid arthritis. A controlled prospective roentgenographic study": {
+                    "explanation": "This paper investigates the efficacy of pulse methotrexate therapy in altering radiographic progression of joint disease in patients with rheumatoid arthritis, building on the source paper's results regarding methotrexate's role in treating rheumatoid arthritis. The hypothesis in this paper is inspired by the findings of the source paper.",
+                    "relevance": 1
+                },
+                "3. Methotrexate in Rheumatoid Arthritis: Indications, Contraindications, Efficacy, and Safety": {
+                    "explanation": "This paper is a review of the safety and efficacy of methotrexate as a second- or third-line agent for treating patients with rheumatoid arthritis, summarizing existing literature and lacking novel hypotheses or findings. Therefore, it is considered a review paper with no connection to the source paper.",
+                    "relevance": 0
+                },
+                "4. Methotrexate in the treatment of arthritis and connective tissue diseases": {
+                    "explanation": "This paper reviews the potential applications of methotrexate in treating various inflammatory conditions other than rheumatoid arthritis, building on the source paper's results regarding methotrexate's safety and efficacy. The hypothesis in this paper is inspired by the findings of the source paper.",
+                    "relevance": 1
+                },
+                "5. Increase of dihydrofolate reductase in peripheral blood lymphocytes of rheumatoid arthritis patients treated with low-dose oral methotrexate": {
+                    "explanation": "This paper investigates the mechanism of acquired resistance to methotrexate therapy, which is a relevant aspect of the source paper's findings on methotrexate's safety and efficacy in treating rheumatoid arthritis. The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the biochemical effects of long-term methotrexate therapy.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Folate status of rheumatoid arthritis patients receiving long-term, low-dose methotrexate therapy": {
+                    "explanation": "This paper explores the biochemical effects of methotrexate on folate status, which is a relevant aspect of the source paper's findings on methotrexate's safety and efficacy in treating rheumatoid arthritis. The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the mechanism of response to methotrexate therapy.",
+                    "relevance": 2
+                },
+                "2. Increase of dihydrofolate reductase in peripheral blood lymphocytes of rheumatoid arthritis patients treated with low-dose oral methotrexate": {
+                    "explanation": "This paper investigates the mechanism of acquired resistance to methotrexate therapy, which is a relevant aspect of the source paper's findings on methotrexate's safety and efficacy in treating rheumatoid arthritis. The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the biochemical effects of long-term methotrexate therapy.",
+                    "relevance": 2
+                },
+                "3. Pulse methotrexate therapy in rheumatoid arthritis. A controlled prospective roentgenographic study": {
+                    "explanation": "This paper investigates the efficacy of pulse methotrexate therapy in altering radiographic progression of joint disease in patients with rheumatoid arthritis, building on the source paper's results regarding methotrexate's role in treating rheumatoid arthritis. The hypothesis in this paper is inspired by the findings of the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 1988,
+        "source_paper": {
+            "paperId": "66482334502370b43a5fd2025e00b54923755030",
+            "title": "The safety and efficacy of the use of methotrexate in long-term therapy for rheumatoid arthritis.",
+            "abstract": "Twenty-nine patients participated in a prospective study of the safety and efficacy of oral methotrexate in the treatment of refractory rheumatoid arthritis. Patients received a mean dosage of 12.4 mg weekly over a mean duration of 29.1 months. All patients had liver biopsies at baseline, 2 years, and annually thereafter. Patients improved significantly by all clinical measures of efficacy after 1 month; maximum improvement tended to occur after approximately 6 months of therapy. Radiographs showed improvement of erosive disease in 7 of 11 patients measured. There was a significant reduction in mean prednisone dosage. Four patients required an increase in the dosage of methotrexate after prolonged therapy, because of declining clinical response. Toxicity was noted at some time in 26 of 29 patients (90%), but reactions universally became mild and tolerable after adjustment of the dosage. No significant hepatotoxicity was found in 60 sequential liver biopsies, although elevated transaminase levels were noted at some time in 20 of 29 patients (70%).",
+            "year": 1986,
+            "citation_count": 353,
+            "relevance": 2,
+            "explanation": "This paper investigates the long-term safety and efficacy of methotrexate in rheumatoid arthritis, which is a natural extension of the source paper's findings on the short-term efficacy of methotrexate. The paper's hypothesis is partially dependent on the source paper's findings."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Histopathologic findings in the liver of rheumatoid arthritis patients treated with long-term bolus methotrexate": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the long-term effects of methotrexate on the liver, which is a concern raised in the source paper.",
+                    "relevance": 2
+                },
+                "2. Accelerated nodulosis and vasculitis during methotrexate therapy for rheumatoid arthritis": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it explores a new side effect of methotrexate therapy, which was not mentioned in the source paper.",
+                    "relevance": 1
+                },
+                "3. Methotrexate in rheumatoid arthritis: a prospective study in Israeli patients with immunogenetic correlations": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the efficacy and safety of methotrexate in a new population, with a focus on immunogenetic correlations.",
+                    "relevance": 1
+                },
+                "4. Pancytopenia induced by low-dose methotrexate for rheumatoid arthritis": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it explores a new side effect of methotrexate therapy, which was not mentioned in the source paper.",
+                    "relevance": 1
+                },
+                "5. The effects of leucovorin (folinic acid) on methotrexate therapy in rheumatoid arthritis patients": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the interaction between methotrexate and leucovorin, which is relevant to the source paper's discussion of methotrexate's mechanism of action.",
+                    "relevance": 2
+                },
+                "6. Pulse methotrexate therapy in rheumatoid arthritis": {
+                    "explanation": "This paper is a review of the literature and does not present new findings or hypotheses.",
+                    "relevance": 0
+                },
+                "7. A long-term prospective study of the use of methotrexate in rheumatoid arthritis. Update after a mean of fifty-three months": {
+                    "explanation": "This paper is a continuation of the source paper, with an update on the long-term efficacy and safety of methotrexate.",
+                    "relevance": 2
+                },
+                "8. METHOTREXATE AND RHEUMATOID ARTHRITIS": {
+                    "explanation": "This paper is a review of the literature and does not present new findings or hypotheses.",
+                    "relevance": 0
+                },
+                "9. Long-term prospective trial of low-dose methotrexate in rheumatoid arthritis": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the long-term efficacy and safety of methotrexate, which is a concern raised in the source paper.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Histopathologic findings in the liver of rheumatoid arthritis patients treated with long-term bolus methotrexate": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the long-term effects of methotrexate on the liver, which is a concern raised in the source paper.",
+                    "relevance": 2
+                },
+                "2. A long-term prospective study of the use of methotrexate in rheumatoid arthritis. Update after a mean of fifty-three months": {
+                    "explanation": "This paper is a continuation of the source paper, with an update on the long-term efficacy and safety of methotrexate.",
+                    "relevance": 2
+                },
+                "3. Long-term prospective trial of low-dose methotrexate in rheumatoid arthritis": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the long-term efficacy and safety of methotrexate, which is a concern raised in the source paper.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 1989,
+        "source_paper": {
+            "paperId": "be4b882c3edce829048596f457beeb0953581b39",
+            "title": "Long-term prospective trial of low-dose methotrexate in rheumatoid arthritis.",
+            "abstract": "Twenty-six patients with severe rheumatoid arthritis who had completed a randomized crossover trial of methotrexate elected to continue to receive the drug in a long-term prospective study. At 36 months, 16 patients remained in the study. Over this period of time, significant improvement was noted in the number of painful and swollen joints, physician and patient global assessments, erythrocyte sedimentation rate, and prednisone dose. Adverse reactions occurred in 16 patients (62%), including nausea, alopecia, headache, stomatitis, herpes zoster, and diarrhea. Mild leukopenia (3 patients), thrombocytopenia (3 patients), and elevated transaminase levels (8 patients) resolved with temporary drug discontinuation. No patient withdrew due to drug toxicity. Liver biopsy specimens in 17 patients after 24 months of treatment showed no evidence of fibrosis or cirrhosis. A significant increase in the percentage of T3 and T4 blood cells and increases in lymphocyte proliferation to concanavalin A and purified protein derivative of tuberculin were found after 2 years of therapy. Our findings indicate that methotrexate has remained effective over 36 months of therapy, with acceptable toxicity levels and no evidence of systemic immunosuppression.",
+            "year": 1988,
+            "citation_count": 231,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the long-term efficacy and safety of methotrexate, which is a concern raised in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Elevated mean corpuscular volume as a predictor of hematologic toxicity due to methotrexate therapy": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it explores the hematologic toxicity of methotrexate, which was mentioned in the source paper as a potential side effect.",
+                    "relevance": 2
+                },
+                "2. Treatment of rheumatoid arthritis": {
+                    "explanation": "This paper is a review of the treatment options for rheumatoid arthritis, including methotrexate, which was the focus of the source paper. However, it does not build upon the findings of the source paper, so it is not considered highly relevant.",
+                    "relevance": 0
+                },
+                "3. Central nervous system toxicity associated with weekly low-dose methotrexate treatment": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it explores the central nervous system toxicity of methotrexate, which was not mentioned in the source paper. However, it does build upon the knowledge of methotrexate's side effects.",
+                    "relevance": 2
+                },
+                "4. Drug-induced osteoporosis": {
+                    "explanation": "This paper mentions methotrexate as a potential cause of osteoporosis, but it does not build upon the findings of the source paper. It is a review of the literature on drug-induced osteoporosis.",
+                    "relevance": 0
+                },
+                "5. Radiologic assessment as an outcome measure in rheumatoid arthritis": {
+                    "explanation": "This paper does not have a clear connection to the source paper, as it focuses on radiologic assessment in rheumatoid arthritis, which was not the focus of the source paper.",
+                    "relevance": 0
+                },
+                "6. Liver histology in rheumatoid arthritis patients receiving long-term methotrexate therapy": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it explores the liver histology of patients receiving long-term methotrexate therapy, which was mentioned in the source paper as a potential side effect.",
+                    "relevance": 2
+                },
+                "7. Methotrexate treatment of rheumatoid arthritis: effects on radiological progression": {
+                    "explanation": "This paper is inspired by the findings of the source paper, as it explores the effects of methotrexate on radiological progression in rheumatoid arthritis, which was mentioned in the source paper as a potential benefit of methotrexate therapy.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Elevated mean corpuscular volume as a predictor of hematologic toxicity due to methotrexate therapy": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it explores the hematologic toxicity of methotrexate, which was mentioned in the source paper as a potential side effect.",
+                    "relevance": 2
+                },
+                "2. Central nervous system toxicity associated with weekly low-dose methotrexate treatment": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it explores the central nervous system toxicity of methotrexate, which was not mentioned in the source paper. However, it does build upon the knowledge of methotrexate's side effects.",
+                    "relevance": 2
+                },
+                "3. Liver histology in rheumatoid arthritis patients receiving long-term methotrexate therapy": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it explores the liver histology of patients receiving long-term methotrexate therapy, which was mentioned in the source paper as a potential side effect.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 1990,
+        "source_paper": {
+            "paperId": "be4b882c3edce829048596f457beeb0953581b39",
+            "title": "Long-term prospective trial of low-dose methotrexate in rheumatoid arthritis.",
+            "abstract": "Twenty-six patients with severe rheumatoid arthritis who had completed a randomized crossover trial of methotrexate elected to continue to receive the drug in a long-term prospective study. At 36 months, 16 patients remained in the study. Over this period of time, significant improvement was noted in the number of painful and swollen joints, physician and patient global assessments, erythrocyte sedimentation rate, and prednisone dose. Adverse reactions occurred in 16 patients (62%), including nausea, alopecia, headache, stomatitis, herpes zoster, and diarrhea. Mild leukopenia (3 patients), thrombocytopenia (3 patients), and elevated transaminase levels (8 patients) resolved with temporary drug discontinuation. No patient withdrew due to drug toxicity. Liver biopsy specimens in 17 patients after 24 months of treatment showed no evidence of fibrosis or cirrhosis. A significant increase in the percentage of T3 and T4 blood cells and increases in lymphocyte proliferation to concanavalin A and purified protein derivative of tuberculin were found after 2 years of therapy. Our findings indicate that methotrexate has remained effective over 36 months of therapy, with acceptable toxicity levels and no evidence of systemic immunosuppression.",
+            "year": 1988,
+            "citation_count": 231,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the long-term efficacy and safety of methotrexate, which is a concern raised in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Rescue of interleukin-1 activity by leucovorin following inhibition by methotrexate in a murine in vitro system": {
+                    "explanation": "This paper explores the mechanism of action of methotrexate, specifically how it inhibits interleukin-1 activity, which is related to the source paper's findings on methotrexate's effects in rheumatoid arthritis. However, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "2. Aspirin, hydroxychloroquine, and hepatic enzyme abnormalities with methotrexate in rheumatoid arthritis": {
+                    "explanation": "This paper investigates the interactions between methotrexate and other medications in patients with rheumatoid arthritis, which is related to the source paper's topic. However, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "3. Biliary elimination of low-dose methotrexate in humans": {
+                    "explanation": "This paper studies the pharmacokinetics of methotrexate, specifically its biliary elimination, which is related to the source paper's topic. However, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "4. Long-term methotrexate treatment in corticosteroid-dependent asthma": {
+                    "explanation": "This paper explores the use of methotrexate in a different disease context (asthma), which is not directly related to the source paper's findings on rheumatoid arthritis. However, it does demonstrate the broader applicability of methotrexate as a treatment.",
+                    "relevance": 0
+                },
+                "5. Methotrexate-induced cirrhosis requiring liver transplantation in three patients with psoriasis": {
+                    "explanation": "This paper reports on the hepatotoxic effects of methotrexate, which is related to the source paper's findings on the safety of long-term methotrexate treatment. However, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "6. Low\u2010dose methotrexate compared with auranofin in adult rheumatoid arthritis": {
+                    "explanation": "This paper compares the efficacy of methotrexate to another treatment (auranofin) in rheumatoid arthritis, which is directly related to the source paper's topic. The findings of this paper are partially dependent on the source paper's results, as they provide a basis for comparison.",
+                    "relevance": 2
+                },
+                "7. Clinical and laboratory outcomes during the treatment of rheumatoid arthritis with methotrexate": {
+                    "explanation": "This paper evaluates the outcomes of methotrexate treatment in rheumatoid arthritis, which is directly related to the source paper's topic. However, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "8. The effect of folic acid supplementation on the toxicity of low-dose methotrexate in patients with rheumatoid arthritis": {
+                    "explanation": "This paper investigates the effect of folic acid supplementation on methotrexate toxicity, which is related to the source paper's findings on the safety of long-term methotrexate treatment. However, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Low\u2010dose methotrexate compared with auranofin in adult rheumatoid arthritis": {
+                    "explanation": "This paper compares the efficacy of methotrexate to another treatment (auranofin) in rheumatoid arthritis, which is directly related to the source paper's topic. The findings of this paper are partially dependent on the source paper's results, as they provide a basis for comparison.",
+                    "relevance": 2
+                },
+                "2. Rescue of interleukin-1 activity by leucovorin following inhibition by methotrexate in a murine in vitro system": {
+                    "explanation": "This paper explores the mechanism of action of methotrexate, specifically how it inhibits interleukin-1 activity, which is related to the source paper's findings on methotrexate's effects in rheumatoid arthritis. However, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "3. Clinical and laboratory outcomes during the treatment of rheumatoid arthritis with methotrexate": {
+                    "explanation": "This paper evaluates the outcomes of methotrexate treatment in rheumatoid arthritis, which is directly related to the source paper's topic. However, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 1990,
+        "source_paper": {
+            "paperId": "dc7b4f42a8107cc27c0b53174e062abcea9b304d",
+            "title": "Liver histology in rheumatoid arthritis patients receiving long-term methotrexate therapy. A prospective study with baseline and sequential biopsy samples.",
+            "abstract": "Twenty-nine patients with active rheumatoid arthritis receiving long-term oral weekly methotrexate (MTX) therapy were studied to determine the extent of their hepatic architectural changes. Liver biopsies (n = 101) were performed in all patients before the initiation of MTX therapy, after 2 years, and annually thereafter (mean duration of therapy 53 months). The hepatic histologic grade (5-point scale) in 25 patients increased (worsened) (mean +/- SEM change 0.84 +/- 1.02; P = 0.001). Fibrosis, confirmed by trichrome staining, developed in 14 of 27 patients (52%). A history of alcohol consumption prior to starting MTX correlated significantly with subsequent worsening of the liver biopsy grade (r = 0.55, P = 0.0054). Alcohol intake prior to study entry, elevated weight at MTX initiation, and dose and duration of MTX were significantly associated with the development of fibrosis. Elevations in serum aspartate aminotransferase levels at 29-53 months of therapy correlated with the increase in hepatic histologic grade at the 3-year biopsy (r = 0.50, P = 0.04) and 4-year biopsy (r = 0.58, P = 0.03). We conclude that long-term MTX therapy in rheumatoid arthritis patients results in a statistically significant worsening in hepatic histologic grade, with common development of mild fibrosis. We do not consider these changes to be clinically significant at present.",
+            "year": 1989,
+            "citation_count": 181,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it explores the liver histology of patients receiving long-term methotrexate therapy, which was mentioned in the source paper as a potential side effect."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Aspirin, hydroxychloroquine, and hepatic enzyme abnormalities with methotrexate in rheumatoid arthritis": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the effects of combining methotrexate with other medications on liver enzyme abnormalities, building on the source paper's results regarding methotrexate's impact on liver histology.",
+                    "relevance": 2
+                },
+                "2. Methotrexate hepatotoxicity and the premature reporting of Mark Twain's death: Both greatly exaggerated": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it challenges the source paper's conclusion that long-term methotrexate therapy results in a statistically significant worsening in hepatic histologic grade, presenting alternative findings and interpretations.",
+                    "relevance": 2
+                },
+                "3. Effects of oxygen inhalation in ascitic cirrhotic patients: Therapeutic implications?": {
+                    "explanation": "This paper has no connection with the source paper, as it investigates the effects of oxygen inhalation in patients with cirrhosis, a different topic unrelated to methotrexate therapy or rheumatoid arthritis.",
+                    "relevance": 0
+                },
+                "4. Liver histology in patients receiving low dose pulse methotrexate for the treatment of rheumatoid arthritis": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it evaluates the liver histology of patients treated with low-dose pulse methotrexate, building on the source paper's results regarding the effects of methotrexate on liver histology.",
+                    "relevance": 2
+                },
+                "5. Hepatitis with bridging fibrosis and reversible hepatic insufficiency in a woman with rheumatoid arthritis taking methotrexate": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it presents a case study of a patient with rheumatoid arthritis who developed hepatitis while taking methotrexate, building on the source paper's results regarding the potential hepatotoxicity of methotrexate.",
+                    "relevance": 2
+                },
+                "6. THERAPEUTIC PROGRESS\u2013REVIEW XXXVII: METHOTREXATE\u2013AN IMMUNOMODULATOR WITH EXPANDING INDICATIONS": {
+                    "explanation": "This paper is a review paper, summarizing existing literature on methotrexate therapy, including its indications, mechanisms of action, and adverse effects, but not presenting novel findings or hypotheses.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Aspirin, hydroxychloroquine, and hepatic enzyme abnormalities with methotrexate in rheumatoid arthritis": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the effects of combining methotrexate with other medications on liver enzyme abnormalities, building on the source paper's results regarding methotrexate's impact on liver histology.",
+                    "relevance": 2
+                },
+                "2. Methotrexate hepatotoxicity and the premature reporting of Mark Twain's death: Both greatly exaggerated": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it challenges the source paper's conclusion that long-term methotrexate therapy results in a statistically significant worsening in hepatic histologic grade, presenting alternative findings and interpretations.",
+                    "relevance": 2
+                },
+                "3. Liver histology in patients receiving low dose pulse methotrexate for the treatment of rheumatoid arthritis": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it evaluates the liver histology of patients treated with low-dose pulse methotrexate, building on the source paper's results regarding the effects of methotrexate on liver histology.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 1991,
+        "source_paper": {
+            "paperId": "dc7b4f42a8107cc27c0b53174e062abcea9b304d",
+            "title": "Liver histology in rheumatoid arthritis patients receiving long-term methotrexate therapy. A prospective study with baseline and sequential biopsy samples.",
+            "abstract": "Twenty-nine patients with active rheumatoid arthritis receiving long-term oral weekly methotrexate (MTX) therapy were studied to determine the extent of their hepatic architectural changes. Liver biopsies (n = 101) were performed in all patients before the initiation of MTX therapy, after 2 years, and annually thereafter (mean duration of therapy 53 months). The hepatic histologic grade (5-point scale) in 25 patients increased (worsened) (mean +/- SEM change 0.84 +/- 1.02; P = 0.001). Fibrosis, confirmed by trichrome staining, developed in 14 of 27 patients (52%). A history of alcohol consumption prior to starting MTX correlated significantly with subsequent worsening of the liver biopsy grade (r = 0.55, P = 0.0054). Alcohol intake prior to study entry, elevated weight at MTX initiation, and dose and duration of MTX were significantly associated with the development of fibrosis. Elevations in serum aspartate aminotransferase levels at 29-53 months of therapy correlated with the increase in hepatic histologic grade at the 3-year biopsy (r = 0.50, P = 0.04) and 4-year biopsy (r = 0.58, P = 0.03). We conclude that long-term MTX therapy in rheumatoid arthritis patients results in a statistically significant worsening in hepatic histologic grade, with common development of mild fibrosis. We do not consider these changes to be clinically significant at present.",
+            "year": 1989,
+            "citation_count": 181,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it explores the liver histology of patients receiving long-term methotrexate therapy, which was mentioned in the source paper as a potential side effect."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Hepatotoxicity in a rat model caused by orally administered methotrexate": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it explores the hepatotoxicity of methotrexate in a rat model, which is related to the source paper's investigation of methotrexate's effects on liver histology in rheumatoid arthritis patients.",
+                    "relevance": 1
+                },
+                "2. Low\u2010dose methotrexate therapy and hepatotoxicity The view of the hepatologist": {
+                    "explanation": "This paper appears to be a review or opinion piece, and does not present new research or findings that build upon the source paper. Therefore, it has no connection to the source paper.",
+                    "relevance": 0
+                },
+                "3. Two methods of assessment of methotrexate hepatotoxicity in patients with rheumatoid arthritis": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates methods for assessing methotrexate hepatotoxicity in patients with rheumatoid arthritis, which is related to the source paper's investigation of methotrexate's effects on liver histology in rheumatoid arthritis patients.",
+                    "relevance": 2
+                },
+                "4. Hepatic methotrexate content and progression of hepatic fibrosis: preliminary findings": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the relationship between methotrexate content and hepatic fibrosis in patients with rheumatoid arthritis, which is related to the source paper's investigation of methotrexate's effects on liver histology in rheumatoid arthritis patients.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Two methods of assessment of methotrexate hepatotoxicity in patients with rheumatoid arthritis": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates methods for assessing methotrexate hepatotoxicity in patients with rheumatoid arthritis, which is related to the source paper's investigation of methotrexate's effects on liver histology in rheumatoid arthritis patients.",
+                    "relevance": 2
+                },
+                "2. Hepatic methotrexate content and progression of hepatic fibrosis: preliminary findings": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the relationship between methotrexate content and hepatic fibrosis in patients with rheumatoid arthritis, which is related to the source paper's investigation of methotrexate's effects on liver histology in rheumatoid arthritis patients.",
+                    "relevance": 2
+                },
+                "3. Hepatotoxicity in a rat model caused by orally administered methotrexate": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it explores the hepatotoxicity of methotrexate in a rat model, which is related to the source paper's investigation of methotrexate's effects on liver histology in rheumatoid arthritis patients.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 1992,
+        "source_paper": {
+            "paperId": "032ae9d7427be05331d8a006142f0143fb92c6c3",
+            "title": "Aspirin, hydroxychloroquine, and hepatic enzyme abnormalities with methotrexate in rheumatoid arthritis.",
+            "abstract": "Levels of serum glutamic oxaloacetic transaminase (SGOT) and serum glutamic pyruvic transaminase (SGPT) in patients with rheumatoid arthritis from 5 centers involved in the Arthritis, Rheumatism, and Aging Medical Information System were correlated with the use of specific antirheumatic medications. Elevated levels of SGOT and SGPT were most frequent in patients taking salicylates and methotrexate (MTX) and least frequent in patients taking hydroxychloroquine. The combination of MTX and salicylates greatly increased the frequency of abnormal liver enzyme values. In contrast, the addition of hydroxychloroquine to a regimen of either MTX or aspirin essentially eliminated the SGOT and SGPT abnormalities. Results from all 5 centers were consistent and remained so after adjustment for age, sex, and disease duration. Knowledge of these important drug interactions may permit continuation of MTX therapy in patients in whom the drug might otherwise be discontinued.",
+            "year": 1990,
+            "citation_count": 105,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the effects of combining methotrexate with other medications on liver enzyme abnormalities, building on the source paper's results regarding methotrexate's impact on liver histology."
+        },
+        "llama_output": {},
+        "seed": 42
+    },
+    {
+        "year": 1992,
+        "source_paper": {
+            "paperId": "032ae9d7427be05331d8a006142f0143fb92c6c3",
+            "title": "Aspirin, hydroxychloroquine, and hepatic enzyme abnormalities with methotrexate in rheumatoid arthritis.",
+            "abstract": "Levels of serum glutamic oxaloacetic transaminase (SGOT) and serum glutamic pyruvic transaminase (SGPT) in patients with rheumatoid arthritis from 5 centers involved in the Arthritis, Rheumatism, and Aging Medical Information System were correlated with the use of specific antirheumatic medications. Elevated levels of SGOT and SGPT were most frequent in patients taking salicylates and methotrexate (MTX) and least frequent in patients taking hydroxychloroquine. The combination of MTX and salicylates greatly increased the frequency of abnormal liver enzyme values. In contrast, the addition of hydroxychloroquine to a regimen of either MTX or aspirin essentially eliminated the SGOT and SGPT abnormalities. Results from all 5 centers were consistent and remained so after adjustment for age, sex, and disease duration. Knowledge of these important drug interactions may permit continuation of MTX therapy in patients in whom the drug might otherwise be discontinued.",
+            "year": 1990,
+            "citation_count": 105,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the effects of combining methotrexate with other medications on liver enzyme abnormalities, building on the source paper's results regarding methotrexate's impact on liver histology."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Chemotherapeutic agents and hepatotoxicity": {
+                    "explanation": "This paper has no connection with the source paper. It discusses the hepatotoxicity of chemotherapeutic agents and does not mention the interaction between methotrexate, aspirin, and hydroxychloroquine, which is the main topic of the source paper.",
+                    "relevance": 0
+                },
+                "2. Comparison of azathioprine, methotrexate, and the combination of both in the treatment of rheumatoid arthritis": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the efficacy of methotrexate (MTX) in combination with another drug (azathioprine) in the treatment of rheumatoid arthritis, which is related to the source paper's findings on the interaction between MTX and other antirheumatic medications.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Comparison of azathioprine, methotrexate, and the combination of both in the treatment of rheumatoid arthritis": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the efficacy of methotrexate (MTX) in combination with another drug (azathioprine) in the treatment of rheumatoid arthritis, which is related to the source paper's findings on the interaction between MTX and other antirheumatic medications.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 1993,
+        "source_paper": {
+            "paperId": "032ae9d7427be05331d8a006142f0143fb92c6c3",
+            "title": "Aspirin, hydroxychloroquine, and hepatic enzyme abnormalities with methotrexate in rheumatoid arthritis.",
+            "abstract": "Levels of serum glutamic oxaloacetic transaminase (SGOT) and serum glutamic pyruvic transaminase (SGPT) in patients with rheumatoid arthritis from 5 centers involved in the Arthritis, Rheumatism, and Aging Medical Information System were correlated with the use of specific antirheumatic medications. Elevated levels of SGOT and SGPT were most frequent in patients taking salicylates and methotrexate (MTX) and least frequent in patients taking hydroxychloroquine. The combination of MTX and salicylates greatly increased the frequency of abnormal liver enzyme values. In contrast, the addition of hydroxychloroquine to a regimen of either MTX or aspirin essentially eliminated the SGOT and SGPT abnormalities. Results from all 5 centers were consistent and remained so after adjustment for age, sex, and disease duration. Knowledge of these important drug interactions may permit continuation of MTX therapy in patients in whom the drug might otherwise be discontinued.",
+            "year": 1990,
+            "citation_count": 105,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the effects of combining methotrexate with other medications on liver enzyme abnormalities, building on the source paper's results regarding methotrexate's impact on liver histology."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Hepatic toxicity of antirheumatic drugs": {
+                    "explanation": "This paper has no direct connection with the source paper. It discusses the hepatic toxicity of various antirheumatic drugs, including NSAIDs, methotrexate, gold, and penicillamine, but does not specifically address the interaction between methotrexate and other medications mentioned in the source paper.",
+                    "relevance": 0
+                },
+                "2. Methotrexate in rheumatoid arthritis: can current knowledge and experience justify its use as a first-line disease-modifying agent?": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper. The source paper highlights the importance of considering drug interactions when using methotrexate, and this paper discusses the use of methotrexate as a first-line disease-modifying agent, including its efficacy and toxicity, which is related to the source paper's findings.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Methotrexate in rheumatoid arthritis: can current knowledge and experience justify its use as a first-line disease-modifying agent?": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper. The source paper highlights the importance of considering drug interactions when using methotrexate, and this paper discusses the use of methotrexate as a first-line disease-modifying agent, including its efficacy and toxicity, which is related to the source paper's findings.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 1993,
+        "source_paper": {
+            "paperId": "8d8f49c1b278635d366dcecf99ee207458f5a220",
+            "title": "Comparison of azathioprine, methotrexate, and the combination of both in the treatment of rheumatoid arthritis",
+            "abstract": "Objective. To assess the relative efficacy of methotrexate (MTX), azathioprine (AZA), and their combination in the treatment of rheumatoid arthritis (RA) in a double-blind, prospective, multicenter, controlled trial.\r\n\r\n\r\n\r\nMethods. Two hundred nine patients with active RA were treated with escalating doses of MTX (5\u201315 mg/week), AZA (50\u2013150 mg/day), or combination (5 mg MTX/week plus 50 mg AZA/day\u20137.5 mg MTX/week plus 100 mg AZA/day), with opportunity to increase the dosage at 6-w eek intervals. The patients were evaluated for significant clinical and laboratory improvement and assessed for radiologic progression at 48 weeks.\r\n\r\n\r\n\r\nResults. One hundred ten patients remained on the initial, randomly assigned therapeutic regimen. The percentage of patients who were responders, defined as those who had 30% or greater improvement in at least 3 of 4 variables, was 38% for the combination treatment, 26% for AZA, and 45% for MTX (P = 0.06). A trend toward decreased radiologic progression was seen in the MTX-treated patients. Termination of treatment due to adverse experience occurred more frequently with combination and AZA treatments than with MTX treatment. Lack of effectiveness, adverse gastrointestinal effects, and liver enzyme elevation were the most frequent causes of treatment discontinuation.\r\n\r\n\r\n\r\nConclusion. This study establishes that the combination of MTX and AZA in the dosages utilized is not associated with more toxicity than treatment with single agents; however, enhanced efficacy is also not seen. There is a trend toward decreased radiologic progression in patients treated with MTX.",
+            "year": 1992,
+            "citation_count": 111,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the efficacy of methotrexate (MTX) in combination with another drug (azathioprine) in the treatment of rheumatoid arthritis, which is related to the source paper's findings on the interaction between MTX and other antirheumatic medications."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Optimizing Combination Chemotherapy for Rheumatoid Arthritis": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it discusses the combination of DMARDs (including MTX and AZA) and their mechanisms of action, kinetics, and toxicities, building on the source paper's results regarding the combination of MTX and AZA in the treatment of rheumatoid arthritis.",
+                    "relevance": 2
+                },
+                "2. Drug treatment of arthritis. Update on conventional and less conventional methods.": {
+                    "explanation": "This paper is a review paper that discusses various treatments for arthritis, including nonsteroidal anti-inflammatory drugs and disease-modifying antirheumatic drugs, but does not have a direct connection to the source paper's hypothesis or findings.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Optimizing Combination Chemotherapy for Rheumatoid Arthritis": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it discusses the combination of DMARDs (including MTX and AZA) and their mechanisms of action, kinetics, and toxicities, building on the source paper's results regarding the combination of MTX and AZA in the treatment of rheumatoid arthritis.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 1994,
+        "source_paper": {
+            "paperId": "8d8f49c1b278635d366dcecf99ee207458f5a220",
+            "title": "Comparison of azathioprine, methotrexate, and the combination of both in the treatment of rheumatoid arthritis",
+            "abstract": "Objective. To assess the relative efficacy of methotrexate (MTX), azathioprine (AZA), and their combination in the treatment of rheumatoid arthritis (RA) in a double-blind, prospective, multicenter, controlled trial.\r\n\r\n\r\n\r\nMethods. Two hundred nine patients with active RA were treated with escalating doses of MTX (5\u201315 mg/week), AZA (50\u2013150 mg/day), or combination (5 mg MTX/week plus 50 mg AZA/day\u20137.5 mg MTX/week plus 100 mg AZA/day), with opportunity to increase the dosage at 6-w eek intervals. The patients were evaluated for significant clinical and laboratory improvement and assessed for radiologic progression at 48 weeks.\r\n\r\n\r\n\r\nResults. One hundred ten patients remained on the initial, randomly assigned therapeutic regimen. The percentage of patients who were responders, defined as those who had 30% or greater improvement in at least 3 of 4 variables, was 38% for the combination treatment, 26% for AZA, and 45% for MTX (P = 0.06). A trend toward decreased radiologic progression was seen in the MTX-treated patients. Termination of treatment due to adverse experience occurred more frequently with combination and AZA treatments than with MTX treatment. Lack of effectiveness, adverse gastrointestinal effects, and liver enzyme elevation were the most frequent causes of treatment discontinuation.\r\n\r\n\r\n\r\nConclusion. This study establishes that the combination of MTX and AZA in the dosages utilized is not associated with more toxicity than treatment with single agents; however, enhanced efficacy is also not seen. There is a trend toward decreased radiologic progression in patients treated with MTX.",
+            "year": 1992,
+            "citation_count": 111,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the efficacy of methotrexate (MTX) in combination with another drug (azathioprine) in the treatment of rheumatoid arthritis, which is related to the source paper's findings on the interaction between MTX and other antirheumatic medications."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. The efficacy and toxicity of combination therapy in rheumatoid arthritis. A meta-analysis.": {
+                    "explanation": "This paper is a meta-analysis of combination therapy in rheumatoid arthritis, which includes the combination of azathioprine and methotrexate studied in the source paper. However, it is a review paper that summarizes existing literature, lacks novel hypotheses or findings, and does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 0
+                },
+                "2. Second-line drug therapy for rheumatoid arthritis.": {
+                    "explanation": "This paper discusses second-line drug therapy for rheumatoid arthritis, including azathioprine and methotrexate, but does not directly reference or build upon the source paper's findings. It appears to be a general review of treatment options for rheumatoid arthritis.",
+                    "relevance": 0
+                },
+                "3. Combination therapy with methotrexate and chloroquine in rheumatoid arthritis. A multicenter randomized placebo-controlled trial.": {
+                    "explanation": "This paper investigates the efficacy of combination therapy with methotrexate and chloroquine in rheumatoid arthritis. While it does not directly build upon the source paper's findings, it is inspired by the idea of combination therapy, which was also explored in the source paper. The key hypothesis in this paper is partially dependent on the general concept of combination therapy, but not specifically on the source paper's findings.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Combination therapy with methotrexate and chloroquine in rheumatoid arthritis. A multicenter randomized placebo-controlled trial.": {
+                    "explanation": "This paper investigates the efficacy of combination therapy with methotrexate and chloroquine in rheumatoid arthritis. While it does not directly build upon the source paper's findings, it is inspired by the idea of combination therapy, which was also explored in the source paper. The key hypothesis in this paper is partially dependent on the general concept of combination therapy, but not specifically on the source paper's findings.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 1996,
+        "source_paper": {
+            "paperId": "6950f0fd5591c605402b4062ee403f084a8f7938",
+            "title": "Optimizing Combination Chemotherapy for Rheumatoid Arthritis",
+            "abstract": "A potential approach toward rational decision making when using combinations of DMARDs has been presented. This approach combines knowledge of DMARD mechanisms of action, kinetics, and toxicities to look for \"nonoverlapping\" combinations. When using this approach to predict responses and comparing them to studies that have been done, some encouraging results were obtained. Nevertheless, as exemplified by the combination of D-penicillamine and hydroxychloroquine, this approach is not infallible. The use of refinements of such rational choices, however, should be continued in an effort to improve the chances of success and decrease the costs of testing drug combinations.",
+            "year": 1993,
+            "citation_count": 6,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it discusses the combination of DMARDs (including MTX and AZA) and their mechanisms of action, kinetics, and toxicities, building on the source paper's results regarding the combination of MTX and AZA in the treatment of rheumatoid arthritis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. The misconduct of redundant publication": {
+                    "explanation": "The paper discusses the success of combination DMARD therapy in recent double-blind controlled studies, which is related to the source paper's approach of optimizing combination chemotherapy for rheumatoid arthritis. However, the paper does not directly build upon or depend on the findings of the source paper, but rather discusses the broader implications and questions raised by the success of combination DMARD therapy.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. The misconduct of redundant publication": {
+                    "explanation": "The paper discusses the success of combination DMARD therapy in recent double-blind controlled studies, which is related to the source paper's approach of optimizing combination chemotherapy for rheumatoid arthritis. However, the paper does not directly build upon or depend on the findings of the source paper, but rather discusses the broader implications and questions raised by the success of combination DMARD therapy.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 1997,
+        "source_paper": {
+            "paperId": "f2e45f05a0d3f57835dd041efc8860f146203219",
+            "title": "The misconduct of redundant publication.",
+            "abstract": "approaches needs to be considered; triple therapy has been reported to be well tolerated at three to five years, while similar data are not available for methotrexate and cyclosporin A. The success of combination DMARD therapy in recent double blind controlled studies is encouraging.2223 As is frequently the case, however, the success of these approaches raises as many questions as it answers. Should all patients with rheumatoid arthritis receive combination DMARD therapy, or should it be reserved for only those with severe disease? Are there ways to predict who will respond best? When in the course of disease should combinations be used? Which combinations are best, or does this vary among patients? After an excellent response occurs, can some or all of these drugs be tapered or discontinued? Where do biological agents fit in, and should they be used in combinations? I do not have the answer to any of these questions. Until these answers are available, we will have to do as we have always done-make the best decisions we can based on the limited data available. As I stated earlier, our goal when treating patients with rheumatoid arthritis should be remission. As we try to achieve this goal, the data available now support the use of certain combinations of DMARD. Whether combinations should be used early in the disease process as suggested by Wilske and Healey'5 or added later is still open to question. As we better understand the mechanisms of actions of drugs and the disease process itself, we will be able to intervene more intelligently at the right time with the right drugs or combinations of drugs to improve the long term outcome for our patients with rheumatoid arthritis.",
+            "year": 1996,
+            "citation_count": 44,
+            "relevance": 1,
+            "explanation": "The paper discusses the success of combination DMARD therapy in recent double-blind controlled studies, which is related to the source paper's approach of optimizing combination chemotherapy for rheumatoid arthritis. However, the paper does not directly build upon or depend on the findings of the source paper, but rather discusses the broader implications and questions raised by the success of combination DMARD therapy."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. The Responsibilities of Authorship": {
+                    "explanation": "This paper has no direct connection with the source paper, which discusses combination DMARD therapy for rheumatoid arthritis. The paper is focused on authorship responsibilities and does not build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "2. Fraud and misconduct in clinical research": {
+                    "explanation": "This paper has no direct connection with the source paper, which discusses combination DMARD therapy for rheumatoid arthritis. The paper is focused on research misconduct and does not build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 1998,
+        "source_paper": {
+            "paperId": "f2e45f05a0d3f57835dd041efc8860f146203219",
+            "title": "The misconduct of redundant publication.",
+            "abstract": "approaches needs to be considered; triple therapy has been reported to be well tolerated at three to five years, while similar data are not available for methotrexate and cyclosporin A. The success of combination DMARD therapy in recent double blind controlled studies is encouraging.2223 As is frequently the case, however, the success of these approaches raises as many questions as it answers. Should all patients with rheumatoid arthritis receive combination DMARD therapy, or should it be reserved for only those with severe disease? Are there ways to predict who will respond best? When in the course of disease should combinations be used? Which combinations are best, or does this vary among patients? After an excellent response occurs, can some or all of these drugs be tapered or discontinued? Where do biological agents fit in, and should they be used in combinations? I do not have the answer to any of these questions. Until these answers are available, we will have to do as we have always done-make the best decisions we can based on the limited data available. As I stated earlier, our goal when treating patients with rheumatoid arthritis should be remission. As we try to achieve this goal, the data available now support the use of certain combinations of DMARD. Whether combinations should be used early in the disease process as suggested by Wilske and Healey'5 or added later is still open to question. As we better understand the mechanisms of actions of drugs and the disease process itself, we will be able to intervene more intelligently at the right time with the right drugs or combinations of drugs to improve the long term outcome for our patients with rheumatoid arthritis.",
+            "year": 1996,
+            "citation_count": 44,
+            "relevance": 1,
+            "explanation": "The paper discusses the success of combination DMARD therapy in recent double-blind controlled studies, which is related to the source paper's approach of optimizing combination chemotherapy for rheumatoid arthritis. However, the paper does not directly build upon or depend on the findings of the source paper, but rather discusses the broader implications and questions raised by the success of combination DMARD therapy."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. How to Write a Paper": {
+                    "explanation": "This paper is a review paper that provides guidance on writing a scientific paper, including structure, titles, abstracts, and references. It does not have any connection to the source paper, which discusses the misconduct of redundant publication.",
+                    "relevance": 0
+                },
+                "2. Dealing with research misconduct in the United Kingdom. An American perspective on research integrity.": {
+                    "explanation": "This paper discusses research misconduct and integrity, which is related to the topic of the source paper. However, it does not specifically address redundant publication, and its hypothesis is not inspired by or dependent on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "3. Research misconduct and redundant publication": {
+                    "explanation": "This paper directly addresses redundant publication, which is the main topic of the source paper. The hypothesis in this paper is inspired by the findings of the source paper, as it discusses the prevalence of fraud and the need for quality over quantity in research.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Research misconduct and redundant publication": {
+                    "explanation": "This paper directly addresses redundant publication, which is the main topic of the source paper. The hypothesis in this paper is inspired by the findings of the source paper, as it discusses the prevalence of fraud and the need for quality over quantity in research.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    }
+]

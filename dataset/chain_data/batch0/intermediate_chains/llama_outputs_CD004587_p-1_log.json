@@ -1,0 +1,262 @@
+[
+    {
+        "year": 2010,
+        "source_paper": {
+            "paperId": "898fbe2aae9c068e5475927aab97be41ffd7ef79",
+            "pmid": "19081412",
+            "title": "Three-year clinical outcome after primary stenting of totally occluded native coronary arteries: a randomized comparison of bare-metal stent implantation with sirolimus-eluting stent implantation for the treatment of total coronary occlusions (Primary Stenting of Totally Occluded Native Coronary Art",
+            "abstract": null,
+            "year": 2009,
+            "citation_count": 60
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Short and long term comparison (24 months) of an alternative sirolimus-coated stent with bioabsorbable polymer and a bare metal stent of similar design in chronic coronary occlusions: the CORACTO trial.": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it compares the efficacy of sirolimus-eluting stents with bioabsorbable polymer to bare-metal stents in chronic coronary occlusions, building on the source paper's comparison of bare-metal stent implantation with sirolimus-eluting stent implantation.",
+                    "relevance": 2
+                },
+                "2. Stent for chronic total coronary occlusions: benefits and drawbacks after the introduction of drug-eluting stents": {
+                    "explanation": "This paper is a review article that discusses the benefits and drawbacks of using drug-eluting stents in chronic total coronary occlusions, and does not directly build upon the source paper's findings.",
+                    "relevance": 0
+                },
+                "3. Current considerations regarding the percutaneous revascularization of chronic total coronary occlusions": {
+                    "explanation": "This paper discusses the current considerations for percutaneous revascularization of chronic total coronary occlusions, but does not directly reference or build upon the source paper's findings.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Short and long term comparison (24 months) of an alternative sirolimus-coated stent with bioabsorbable polymer and a bare metal stent of similar design in chronic coronary occlusions: the CORACTO trial.": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it compares the efficacy of sirolimus-eluting stents with bioabsorbable polymer to bare-metal stents in chronic coronary occlusions, building on the source paper's comparison of bare-metal stent implantation with sirolimus-eluting stent implantation.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2011,
+        "source_paper": {
+            "paperId": "898fbe2aae9c068e5475927aab97be41ffd7ef79",
+            "pmid": "19081412",
+            "title": "Three-year clinical outcome after primary stenting of totally occluded native coronary arteries: a randomized comparison of bare-metal stent implantation with sirolimus-eluting stent implantation for the treatment of total coronary occlusions (Primary Stenting of Totally Occluded Native Coronary Art",
+            "abstract": null,
+            "year": 2009,
+            "citation_count": 60
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Long\u2010term clinical outcomes of successful versus unsuccessful revascularization with drug\u2010eluting stents for true chronic total occlusion": {
+                    "explanation": "This paper investigates the long-term clinical outcomes of successful versus unsuccessful revascularization with drug-eluting stents for chronic total occlusion, which is related to the source paper's topic of stenting for total coronary occlusions. However, it does not directly build upon or use the source paper's findings as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "2. [Current status of drug-eluting stents and drug-eluting balloons in patients with stable coronary artery disease--an expert consensus document of the Association for Percutaneous Cardiovascular Interventions and Polish Cardiac Society]": {
+                    "explanation": "This paper appears to be a review or consensus document discussing the current status of drug-eluting stents and balloons, rather than presenting new research or findings that directly relate to the source paper.",
+                    "relevance": 0
+                },
+                "3. Short- and long-term follow-up of percutaneous coronary intervention for chronic total occlusion through transradial approach: tips for successful procedure from a single-center experience": {
+                    "explanation": "This paper presents a single-center experience with percutaneous coronary intervention for chronic total occlusion through a transradial approach, which is a different aspect of coronary intervention compared to the source paper's focus on stenting. However, it does not directly build upon or use the source paper's findings as a sub-hypothesis.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Long\u2010term clinical outcomes of successful versus unsuccessful revascularization with drug\u2010eluting stents for true chronic total occlusion": {
+                    "explanation": "This paper investigates the long-term clinical outcomes of successful versus unsuccessful revascularization with drug-eluting stents for chronic total occlusion, which is related to the source paper's topic of stenting for total coronary occlusions.",
+                    "relevance": 1
+                },
+                "2. Short- and long-term follow-up of percutaneous coronary intervention for chronic total occlusion through transradial approach: tips for successful procedure from a single-center experience": {
+                    "explanation": "This paper presents a single-center experience with percutaneous coronary intervention for chronic total occlusion through a transradial approach, which is a different aspect of coronary intervention compared to the source paper's focus on stenting.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2011,
+        "source_paper": {
+            "paperId": "59ee7f13a41858af2c35718da4e3f246540cdd32",
+            "title": "Short and long term comparison (24 months) of an alternative sirolimus-coated stent with bioabsorbable polymer and a bare metal stent of similar design in chronic coronary occlusions: the CORACTO trial.",
+            "abstract": "AIMS\nWe studied a novel sirolimus eluting stent with a bioabsorbable coating (SES) in >3 months old chronic total coronary occlusions (CTO).\n\n\nMETHODS AND RESULTS\nNinety-five patients were randomised to either BMS (n=47) or SES (n=48). The primary endpoints were late lumen loss (LLL) and in-segment restenosis (ISR) after six months. Secondary endpoints were target vessel revascularisation after six and 24 months. Occlusion length (37.6 mm), reference diameter (2.8 mm) as well as the stented segment (45.5 mm) were similar in both groups. Up until six months no death, myocardial infarction or stent thrombosis occurred in either group. Angiographic follow-up (45BMS/46SES): LLL 1.8 mm/0.77 mm (p<0.0001), ISR 60%/17.4% (p<0.0001). In-segment re-occlusion 15.5%/0% and TVR 53.3%/10.8% (p<0.0001). After 24 months: 1 BMS, 2 SES patients died; 0 BMS, 0 SES infarction; 0 BMS, 0 SES stent thrombosis and 3 BMS, 0 SES TVR between six and 24 months. Thus total TVR after 24 months was 60% for BMS and 10.8% for SES (p<0.0001).\n\n\nCONCLUSIONS\nThe alternative sirolimus-coated stent was shown to reduce the relative risk of restenosis after six months by 71%, and of TVR after 24 months by 82%. Between six and 24 months, neither stent thrombosis occurred, nor repeat revascularisation was required in patients who received a SES.",
+            "year": 2010,
+            "citation_count": 46,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it compares the efficacy of sirolimus-eluting stents with bioabsorbable polymer to bare-metal stents in chronic coronary occlusions, building on the source paper's comparison of bare-metal stent implantation with sirolimus-eluting stent implantation."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Long-term clinical and angiographic results of Sirolimus-Eluting Stent in Complex Coronary Chronic Total Occlusion Revascularization: the SECTOR registry": {
+                    "explanation": "This paper explores the long-term efficacy and safety of sirolimus-eluting stent (SES) implantation after complex CTOs recanalization, which is partially dependent on the findings of the source paper regarding the comparison of SES and bare metal stent in chronic coronary occlusions.",
+                    "relevance": 2
+                },
+                "2. Outcomes following successful recanalization of chronic total coronary occlusions": {
+                    "explanation": "This paper discusses the outcomes and indications for revascularizing chronic total coronary occlusions, but it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "3. Percutaneous Revascularisation of Coronary Chronic Total Occlusion - Outcomes and Development of Strategy 2006-2010": {
+                    "explanation": "This paper describes the evolution of percutaneous coronary intervention for chronic total occlusions and the development of strategies, but it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Long-term clinical and angiographic results of Sirolimus-Eluting Stent in Complex Coronary Chronic Total Occlusion Revascularization: the SECTOR registry": {
+                    "explanation": "This paper explores the long-term efficacy and safety of sirolimus-eluting stent (SES) implantation after complex CTOs recanalization, which is partially dependent on the findings of the source paper regarding the comparison of SES and bare metal stent in chronic coronary occlusions.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2012,
+        "source_paper": {
+            "paperId": "59ee7f13a41858af2c35718da4e3f246540cdd32",
+            "title": "Short and long term comparison (24 months) of an alternative sirolimus-coated stent with bioabsorbable polymer and a bare metal stent of similar design in chronic coronary occlusions: the CORACTO trial.",
+            "abstract": "AIMS\nWe studied a novel sirolimus eluting stent with a bioabsorbable coating (SES) in >3 months old chronic total coronary occlusions (CTO).\n\n\nMETHODS AND RESULTS\nNinety-five patients were randomised to either BMS (n=47) or SES (n=48). The primary endpoints were late lumen loss (LLL) and in-segment restenosis (ISR) after six months. Secondary endpoints were target vessel revascularisation after six and 24 months. Occlusion length (37.6 mm), reference diameter (2.8 mm) as well as the stented segment (45.5 mm) were similar in both groups. Up until six months no death, myocardial infarction or stent thrombosis occurred in either group. Angiographic follow-up (45BMS/46SES): LLL 1.8 mm/0.77 mm (p<0.0001), ISR 60%/17.4% (p<0.0001). In-segment re-occlusion 15.5%/0% and TVR 53.3%/10.8% (p<0.0001). After 24 months: 1 BMS, 2 SES patients died; 0 BMS, 0 SES infarction; 0 BMS, 0 SES stent thrombosis and 3 BMS, 0 SES TVR between six and 24 months. Thus total TVR after 24 months was 60% for BMS and 10.8% for SES (p<0.0001).\n\n\nCONCLUSIONS\nThe alternative sirolimus-coated stent was shown to reduce the relative risk of restenosis after six months by 71%, and of TVR after 24 months by 82%. Between six and 24 months, neither stent thrombosis occurred, nor repeat revascularisation was required in patients who received a SES.",
+            "year": 2010,
+            "citation_count": 46,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it compares the efficacy of sirolimus-eluting stents with bioabsorbable polymer to bare-metal stents in chronic coronary occlusions, building on the source paper's comparison of bare-metal stent implantation with sirolimus-eluting stent implantation."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Recanalisation of chronic total coronary occlusions: 2012 consensus document from the EuroCTO club": {
+                    "explanation": "This paper is a review document that provides a consensus on the recanalisation of chronic total coronary occlusions, but it does not directly build upon or reference the findings of the source paper.",
+                    "relevance": 0
+                },
+                "2. Post-coronary Artery Bypass Grafting - Degenerated Saphenous Vein Graft Intervention, or Native Vessel Coronary Chronic Total Occlusion Recanalisation?": {
+                    "explanation": "This paper discusses the management of patients with degenerated saphenous vein grafts and chronic total occlusions, but it does not directly reference or build upon the findings of the source paper, which focused on the comparison of a sirolimus-coated stent with a bare metal stent in chronic coronary occlusions.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2013,
+        "source_paper": {
+            "paperId": "93cf89a7fbee160de540c32858409380adfc3a8c",
+            "title": "Long-term clinical and angiographic results of Sirolimus-Eluting Stent in Complex Coronary Chronic Total Occlusion Revascularization: the SECTOR registry.",
+            "abstract": "BACKGROUND\nDrug-eluting stents showed a better angiographic and clinical outcome in comparison with bare metal stent in chronic total occlusions (CTOs) percutaneous revascularization, however, great concerns still remain regarding the rate of restenosis and reocclusion in comparison with nonocclusive lesions.\n\n\nAIM\nTo evaluate angiographic and clinical outcomes after sirolimus-eluting stent (SES) implantation in the setting of a \"real world\" series of complex CTOs.\n\n\nMETHODS AND RESULTS\nFrom January 2006 to December 2008, 172 consecutive patients with 179 CTO lesions were enrolled into registry. Among these, successful recanalization was obtained in 144 lesions (80.4%) with exclusive SES implantation in 104 lesions. The 9-12 months angiographic follow-up was executed in 85.5% of lesions with evidence of angiographic binary restenosis in 16.8% of lesions. Total stent length and number of stent implanted were recognized as independent predictors of restenosis (odds ratio [OR] 4.7, 95% confidence interval [CI] 1.28-107.09, P = 0.02) and (OR 5.8, 95% CI 1.39-23.55, P = 0.01), respectively.The 2-year clinical follow-up showed rates of target lesion revascularization, non-Q wave myocardial infarction, and total major adverse cardiovascular events (MACEs) of 11.1%, 2%, and 13.1%, respectively. Cox proportional-hazard analysis showed diabetes as independent predictor of MACEs (hazard ratio [HR] 4.832; 95% CI, 0.730-0.861; P = 0.028).\n\n\nCONCLUSIONS\nData from this registry demonstrate the long-term efficacy and safety of SES implantation after complex CTOs recanalization.",
+            "year": 2011,
+            "citation_count": 39,
+            "relevance": 2,
+            "explanation": "This paper explores the long-term efficacy and safety of sirolimus-eluting stent (SES) implantation after complex CTOs recanalization, which is partially dependent on the findings of the source paper regarding the comparison of SES and bare metal stent in chronic coronary occlusions."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. 2013 ESC guidelines on the management of stable coronary artery disease: the Task Force on the management of stable coronary artery disease of the European Society of Cardiology": {
+                    "explanation": "This paper is a review of guidelines and does not directly build upon the findings of the source paper, nor does it use the source paper's findings as a sub-hypothesis. Therefore, it has no connection to the source paper.",
+                    "relevance": 0
+                },
+                "2. Efficacy and safety of sirolimus-eluting stents versus bare-metal stents in coronary artery disease patients with diabetes: a meta-analysis": {
+                    "explanation": "Although the source paper specifically investigates sirolimus-eluting stents in complex coronary chronic total occlusions, this paper explores the efficacy and safety of sirolimus-eluting stents in coronary artery disease patients with diabetes, making it partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                },
+                "3. The role of drug-eluting stents for the treatment of coronary chronic total occlusions": {
+                    "explanation": "This paper is inspired by the hypothesis of the source paper, as it discusses the role of drug-eluting stents in treating coronary chronic total occlusions, a topic closely related to the source paper's investigation of sirolimus-eluting stents in complex coronary chronic total occlusions.",
+                    "relevance": 1
+                },
+                "4. Approach for chronic total occlusion with intravascular ultrasound-guided reverse controlled antegrade and retrograde tracking technique: single center experience": {
+                    "explanation": "This paper presents a new approach for treating coronary chronic total occlusions using intravascular ultrasound-guided reverse controlled antegrade and retrograde tracking technique, which is partially dependent on the findings of the source paper regarding the treatment of complex coronary chronic total occlusions.",
+                    "relevance": 2
+                },
+                "5. ESC guidelines on the management of stable coronary artery disease \u2014 addenda": {
+                    "explanation": "This paper is an addendum to the guidelines and does not directly build upon the findings of the source paper, nor does it use the source paper's findings as a sub-hypothesis. Therefore, it has no connection to the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Efficacy and safety of sirolimus-eluting stents versus bare-metal stents in coronary artery disease patients with diabetes: a meta-analysis": {
+                    "explanation": "Although the source paper specifically investigates sirolimus-eluting stents in complex coronary chronic total occlusions, this paper explores the efficacy and safety of sirolimus-eluting stents in coronary artery disease patients with diabetes, making it partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                },
+                "2. Approach for chronic total occlusion with intravascular ultrasound-guided reverse controlled antegrade and retrograde tracking technique: single center experience": {
+                    "explanation": "This paper presents a new approach for treating coronary chronic total occlusions using intravascular ultrasound-guided reverse controlled antegrade and retrograde tracking technique, which is partially dependent on the findings of the source paper regarding the treatment of complex coronary chronic total occlusions.",
+                    "relevance": 2
+                },
+                "3. The role of drug-eluting stents for the treatment of coronary chronic total occlusions": {
+                    "explanation": "This paper is inspired by the hypothesis of the source paper, as it discusses the role of drug-eluting stents in treating coronary chronic total occlusions, a topic closely related to the source paper's investigation of sirolimus-eluting stents in complex coronary chronic total occlusions.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2014,
+        "source_paper": {
+            "paperId": "2622f3ee89cb5bd4695cce732dc7fbef8f3db227",
+            "title": "Approach for chronic total occlusion with intravascular ultrasound-guided reverse controlled antegrade and retrograde tracking technique: single center experience.",
+            "abstract": "BACKGROUND\nControlled antegrade and retrograde subintimal tracking (CART) or reverse CART techniques is the final step for percutaneous revascularization of coronary chronic total occlusion (CTO), but it still represents technical challenges and risk in interventional procedures.\n\n\nOBJECTIVES\nOur purpose was to utilize intravascular ultrasound (IVUS)-guided reverse CART approach for percutaneous revascularization of CTO in our heart center, focusing on its safety, efficacy, and latest technical developments.\n\n\nMETHODS\nFrom November 2006 to November 2012, 49 patients with CTO failed to antegrade and/or retrograde percutaneous revascularization of CTO from true lumen to true lumen were enrolled in and underwent IVUS guided reverse CART approach.\n\n\nRESULTS\nThe mean J-CTO score of cases was 2.5. IVUS guidance was successfully implemented in 95.9%; IVUS identified that 61.7% of retrograde wires were located at intimal space, and 59.5% of antegrade wires were located at subintimal space. A Corsair channel dilator was used in 77.6% of cases. The success rates of technique and procedure were 95.9% and 93.9%, respectively; the technical minor complications were observed in 10.2% of cases, without significant clinic outcomes; 2.0% of cases occurred with a major adverse cardiac event of non-ST-elevation myocardial infarction; and no case occurred with target vessel revascularization or death. The mean length of stent implanted in a single CTO vessel was 51.3\u2009mm. No patient appeared with radiation dermatitis and contrast-induced rise of creatinine.\n\n\nCONCLUSIONS\nIVUS guided reverse CART approach is effective and safe for percutaneous revascularization of complex CTO, with a high success and a low complication rate. It is feasible to develop this approach for percutaneous revascularization of complex CTO. However, suitable case selection and lately device handling by experienced operators are the crucial points of success.",
+            "year": 2013,
+            "citation_count": 31,
+            "relevance": 2,
+            "explanation": "This paper presents a new approach for treating coronary chronic total occlusions using intravascular ultrasound-guided reverse controlled antegrade and retrograde tracking technique, which is partially dependent on the findings of the source paper regarding the treatment of complex coronary chronic total occlusions."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Chronic total occlusion: current methods of revascularization": {
+                    "explanation": "This paper is a review of current methods of revascularization for chronic total occlusion, and does not appear to be directly connected to the source paper's specific findings or hypothesis.",
+                    "relevance": 0
+                },
+                "2. Impact of Intravascular Ultrasound in Clinical Practice": {
+                    "explanation": "While this paper discusses the use of intravascular ultrasound (IVUS) in clinical practice, which is a technique also used in the source paper, it does not appear to be directly building upon or dependent on the source paper's findings.",
+                    "relevance": 0
+                },
+                "3. Faster, easier, safer: \u201cguideliner reverse CART\u201d for retrograde chronic total occlusion interventions": {
+                    "explanation": "This paper discusses a novel modification of the reverse CART technique, which is a technique also used in the source paper. The paper appears to be building upon the source paper's findings and techniques, and is therefore partially dependent on the source paper.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Faster, easier, safer: \u201cguideliner reverse CART\u201d for retrograde chronic total occlusion interventions": {
+                    "explanation": "This paper discusses a novel modification of the reverse CART technique, which is a technique also used in the source paper. The paper appears to be building upon the source paper's findings and techniques, and is therefore partially dependent on the source paper.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2015,
+        "source_paper": {
+            "paperId": "2622f3ee89cb5bd4695cce732dc7fbef8f3db227",
+            "title": "Approach for chronic total occlusion with intravascular ultrasound-guided reverse controlled antegrade and retrograde tracking technique: single center experience.",
+            "abstract": "BACKGROUND\nControlled antegrade and retrograde subintimal tracking (CART) or reverse CART techniques is the final step for percutaneous revascularization of coronary chronic total occlusion (CTO), but it still represents technical challenges and risk in interventional procedures.\n\n\nOBJECTIVES\nOur purpose was to utilize intravascular ultrasound (IVUS)-guided reverse CART approach for percutaneous revascularization of CTO in our heart center, focusing on its safety, efficacy, and latest technical developments.\n\n\nMETHODS\nFrom November 2006 to November 2012, 49 patients with CTO failed to antegrade and/or retrograde percutaneous revascularization of CTO from true lumen to true lumen were enrolled in and underwent IVUS guided reverse CART approach.\n\n\nRESULTS\nThe mean J-CTO score of cases was 2.5. IVUS guidance was successfully implemented in 95.9%; IVUS identified that 61.7% of retrograde wires were located at intimal space, and 59.5% of antegrade wires were located at subintimal space. A Corsair channel dilator was used in 77.6% of cases. The success rates of technique and procedure were 95.9% and 93.9%, respectively; the technical minor complications were observed in 10.2% of cases, without significant clinic outcomes; 2.0% of cases occurred with a major adverse cardiac event of non-ST-elevation myocardial infarction; and no case occurred with target vessel revascularization or death. The mean length of stent implanted in a single CTO vessel was 51.3\u2009mm. No patient appeared with radiation dermatitis and contrast-induced rise of creatinine.\n\n\nCONCLUSIONS\nIVUS guided reverse CART approach is effective and safe for percutaneous revascularization of complex CTO, with a high success and a low complication rate. It is feasible to develop this approach for percutaneous revascularization of complex CTO. However, suitable case selection and lately device handling by experienced operators are the crucial points of success.",
+            "year": 2013,
+            "citation_count": 31,
+            "relevance": 2,
+            "explanation": "This paper presents a new approach for treating coronary chronic total occlusions using intravascular ultrasound-guided reverse controlled antegrade and retrograde tracking technique, which is partially dependent on the findings of the source paper regarding the treatment of complex coronary chronic total occlusions."
+        },
+        "llama_output": {},
+        "seed": 42
+    },
+    {
+        "year": 2015,
+        "source_paper": {
+            "paperId": "be5970ad4828631b08ed3cccc3378e687ab3ac06",
+            "title": "Faster, easier, safer: \u201cguideliner reverse CART\u201d for retrograde chronic total occlusion interventions",
+            "abstract": "The retrograde approach has revolutionized percutaneous coronary intervention (PCI) to coronary chronic total occlusions (CTO) by significantly improving success rates [1,2]. The retrograde approach involves two main steps: (a) delivering a guidewire and microcatheter distal to the occlusion via a collateral vessel and (b) crossing the CTO segment [2,3]. CTO crossing can be achieved using three techniques (Fig. 1a): (a) using the distal true lumen guidewire as a marker for antegrade guidewire crossing (\u201cjust marker\u201d and \u201ckissing wire\u201d techniques); (b) achieving \u201ctrue to true\u201d lumen crossing with the retrograde guidewire; or (c) using dissection/re-entry techniques, in which the guidewire is redirected from the subintimal space into the true lumen. There are two main dissection/re-entry techniques: in controlled antegrade and retrograde subintimal tracking (CART), a balloon is inflated over the retrograde guidewire allowing the antegrade guidewire to enter the distal true lumen. In reverse CART a balloon is inflated over the antegrade guidewire followed by retrograde guidewire crossing into the proximal true lumen using the space created by the antegrade balloon inflation. With the advent of the channel dilator (Corsair, Asahi Intecc, Nagoya, Japan), reverse CART is currently the most commonly utilized retrograde CTO crossing technique, since it is very common for the antegrade and retrograde guidewires to enter the subintimal space during CTO segment crossing attempts, especially in long occluded segments. Reverse CART also allows for wire externalization, which provides the strongest support for balloon/stent delivery. However, reverse CART may be difficult to perform, necessitating the development of several facilitating techniques. One such technique is the use of large balloons over the antegrade guidewire. Another technique is the use of intravascular ultrasonography, which allows better understanding of the spatial relationship between the antegrade and retrograde guidewires, plaque morphology, vessel size, and allows selection of suitable size balloon for subintimal space dilation [4]. Still, recoil of the subintimal space may occur, even when adequately sized balloons are used. To solve this problem, several additional techniques were developed. The \u201cstent reverse CART\u201d technique involves deploying a stent over the antegrade wire in the subintimal space to create a target for the retrograde wire. Deploying a snare in the antegrade subintimal space can prevent recoil and facilitate retrograde wire crossing into the antegrade true lumen. However, \u201cstent reverse CART\u201d cannot be reversed, i.e. a deployed stent cannot be retrieved and the use of a snare can be cumbersome and expensive. In this issue of the Journal, Mozid et al. describe a novel and elegant modification of reverse CART, the \u201cGuideliner reverse CART\u201d [5] (Fig. 1b). A guide catheter extension is advanced over the antegrade guidewire, creating a new \u201ctarget\u201d for the retrograde guidewire to enter. This technique can achieve re-entry faster and safer compared to the traditional reverse CART technique. For instance, reverse CART in the proximal left anterior descending artery (LAD) can cause left main injury, which may compromise the left circumflex artery. By inserting a guide catheter extension into the proximal LAD, re-entry can be achieved safely without injuring the left main bifurcation. Furthermore, when performing reverse CART in distal vessels, i.e. the distal right coronary artery, it is sometimes very difficult or impossible for the retrograde",
+            "year": 2014,
+            "citation_count": 15,
+            "relevance": 2,
+            "explanation": "This paper discusses a novel modification of the reverse CART technique, which is a technique also used in the source paper. The paper appears to be building upon the source paper's findings and techniques, and is therefore partially dependent on the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Retrograde approach to successfully treat antegrade failure due to subintimal hematoma of a right coronary artery chronic total occlusion": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it utilizes the retrograde approach for coronary chronic total occlusions (CTO), which is a technique discussed and expanded upon in the source paper.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Retrograde approach to successfully treat antegrade failure due to subintimal hematoma of a right coronary artery chronic total occlusion": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it utilizes the retrograde approach for coronary chronic total occlusions (CTO), which is a technique discussed and expanded upon in the source paper.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    }
+]

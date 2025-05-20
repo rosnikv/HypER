@@ -1,0 +1,427 @@
+[
+    {
+        "year": 2008,
+        "source_paper": {
+            "paperId": "4667de347579697a97b14e5831516a27cefc5d48",
+            "pmid": "17565633",
+            "title": "Mesalazine with or without cholestyramine in the treatment of microscopic colitis: Randomized controlled trial",
+            "abstract": "Background:\u2002 Collagenous colitis (CC) and lymphocytic colitis (LC) are chronic inflammatory diseases of the colon with a benign and sometimes relapsing course. Frequency among patients with chronic diarrhea and normal looking colonoscopy is around 10\u201315%. To date, treatment of CC and LC is not well defined. Data about these conditions are mostly derived from retrospective studies. The aim of the present study was to evaluate the response to treatment and the clinical course of CC and LC in a large group of patients prospectively diagnosed.",
+            "year": 2007,
+            "citation_count": 93
+        },
+        "llama_output": {
+            "paper_list": {
+                "1.Diagnosis and management of microscopic colitis": {
+                    "explanation": "This paper has no direct connection to the source paper. It discusses the diagnosis and management of microscopic colitis, including its symptoms, etiology, and treatment options. However, it does not build upon or reference the source paper's findings.",
+                    "relevance": 0
+                },
+                "2.Investigational treatment options in microscopic colitis": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses mesalazine as a treatment option for microscopic colitis, which was investigated in the source paper.",
+                    "relevance": 2
+                },
+                "3.Microscopic colitis: an approach to treatment": {
+                    "explanation": "This paper has no direct connection to the source paper. It provides a general overview of the treatment options for microscopic colitis, including mesalamine, but does not reference the source paper's specific findings.",
+                    "relevance": 0
+                },
+                "4.Interventions for treating collagenous colitis": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the effectiveness of mesalamine with or without cholestyramine in treating collagenous colitis, which was investigated in the source paper.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1.Investigational treatment options in microscopic colitis": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses mesalazine as a treatment option for microscopic colitis, which was investigated in the source paper.",
+                    "relevance": 2
+                },
+                "2.Interventions for treating collagenous colitis": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the effectiveness of mesalamine with or without cholestyramine in treating collagenous colitis, which was investigated in the source paper.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2009,
+        "source_paper": {
+            "paperId": "4667de347579697a97b14e5831516a27cefc5d48",
+            "pmid": "17565633",
+            "title": "Mesalazine with or without cholestyramine in the treatment of microscopic colitis: Randomized controlled trial",
+            "abstract": "Background:\u2002 Collagenous colitis (CC) and lymphocytic colitis (LC) are chronic inflammatory diseases of the colon with a benign and sometimes relapsing course. Frequency among patients with chronic diarrhea and normal looking colonoscopy is around 10\u201315%. To date, treatment of CC and LC is not well defined. Data about these conditions are mostly derived from retrospective studies. The aim of the present study was to evaluate the response to treatment and the clinical course of CC and LC in a large group of patients prospectively diagnosed.",
+            "year": 2007,
+            "citation_count": 93
+        },
+        "llama_output": {},
+        "seed": 42
+    },
+    {
+        "year": 2004,
+        "source_paper": {
+            "paperId": "da906699233223d58d2444c25cd76348369df1bf",
+            "title": "Interventions for treating collagenous colitis.",
+            "abstract": "BACKGROUND\nCollagenous colitis is a disorder that is recognized as a cause of chronic diarrhea. Treatment has been based mainly on anecdotal evidence. This review was performed to identify therapies for collagenous colitis that have been proven in randomized trials.\n\n\nOBJECTIVES\nTo determine effective treatments for patients with clinically active collagenous colitis.\n\n\nSEARCH STRATEGY\nRelevant papers published between 1970 and January 2002 were identified via the MEDLINE, PUBMED, and EMBASE databases. Manual searches from the references of identified papers, as well as review papers on collagenous or microscopic colitis were performed to identify additional studies. Abstracts from major gastroenterological meetings were searched to identify research submitted in abstract form only. Finally, the Cochrane Controlled Trials Register and the Cochrane Inflammatory Bowel Disease Group Specialized Trials Register were searched for other studies.\n\n\nSELECTION CRITERIA\nFour randomized trials were identified. One trial studied bismuth subsalicylate (published in abstract form only), and 3 trials (2 published in abstract form only) studied budesonide in the therapy of collagenous colitis.\n\n\nDATA COLLECTION AND ANALYSIS\nData were extracted independently by each author onto 2x2 tables (treatment versus placebo and response versus no response). For therapies assessed in one trial only, p-values were derived using the chi-square test. For therapies assessed in more than one trial, summary test statistics were derived using the Peto odds ratio and 95% confidence intervals. Data were combined for analysis only if the outcomes were sufficiently similar in definition.\n\n\nMAIN RESULTS\nThere were 9 patients with collagenous colitis in the trial studying bismuth subsalicylate (nine 262 mg tablets daily for 8 weeks). Those randomized to active drug were more likely to have clinical (p=0.003) and histological (p=0.003) improvement than those assigned to placebo. A total of 86 patients were enrolled in 3 trials studying budesonide (9 mg daily for 6 to 8 weeks). The pooled odds ratio for clinical response to treatment with budesonide was 16.79 (95% CI 7.28-38.74), with a number needed to treat of 2 patients. There was significant histological improvement with treatment in all 3 trials studying budesonide therapy.\n\n\nREVIEWER'S CONCLUSIONS\nBudesonide is effective in the treatment of collagenous colitis. The evidence for bismuth subsalicylate is weaker, but still important. The roles of these and other therapies in inducing or maintaining remission (as opposed to clinical or histological improvement) of collagenous colitis are unknown.",
+            "year": 2002,
+            "citation_count": 86,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the effectiveness of mesalamine with or without cholestyramine in treating collagenous colitis, which was investigated in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Diagnosis and management of microscopic colitis syndrome": {
+                    "explanation": "This paper is a review of microscopic colitis syndrome, which includes collagenous colitis. It mentions budesonide and bismuth subsalicylate as effective treatments, but it does not build upon the source paper's findings or use them as a sub-hypothesis. Instead, it provides a general overview of the condition and its management.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2004,
+        "source_paper": {
+            "paperId": "da906699233223d58d2444c25cd76348369df1bf",
+            "title": "Interventions for treating collagenous colitis.",
+            "abstract": "BACKGROUND\nCollagenous colitis is a disorder that is recognized as a cause of chronic diarrhea. Treatment has been based mainly on anecdotal evidence. This review was performed to identify therapies for collagenous colitis that have been proven in randomized trials.\n\n\nOBJECTIVES\nTo determine effective treatments for patients with clinically active collagenous colitis.\n\n\nSEARCH STRATEGY\nRelevant papers published between 1970 and January 2002 were identified via the MEDLINE, PUBMED, and EMBASE databases. Manual searches from the references of identified papers, as well as review papers on collagenous or microscopic colitis were performed to identify additional studies. Abstracts from major gastroenterological meetings were searched to identify research submitted in abstract form only. Finally, the Cochrane Controlled Trials Register and the Cochrane Inflammatory Bowel Disease Group Specialized Trials Register were searched for other studies.\n\n\nSELECTION CRITERIA\nFour randomized trials were identified. One trial studied bismuth subsalicylate (published in abstract form only), and 3 trials (2 published in abstract form only) studied budesonide in the therapy of collagenous colitis.\n\n\nDATA COLLECTION AND ANALYSIS\nData were extracted independently by each author onto 2x2 tables (treatment versus placebo and response versus no response). For therapies assessed in one trial only, p-values were derived using the chi-square test. For therapies assessed in more than one trial, summary test statistics were derived using the Peto odds ratio and 95% confidence intervals. Data were combined for analysis only if the outcomes were sufficiently similar in definition.\n\n\nMAIN RESULTS\nThere were 9 patients with collagenous colitis in the trial studying bismuth subsalicylate (nine 262 mg tablets daily for 8 weeks). Those randomized to active drug were more likely to have clinical (p=0.003) and histological (p=0.003) improvement than those assigned to placebo. A total of 86 patients were enrolled in 3 trials studying budesonide (9 mg daily for 6 to 8 weeks). The pooled odds ratio for clinical response to treatment with budesonide was 16.79 (95% CI 7.28-38.74), with a number needed to treat of 2 patients. There was significant histological improvement with treatment in all 3 trials studying budesonide therapy.\n\n\nREVIEWER'S CONCLUSIONS\nBudesonide is effective in the treatment of collagenous colitis. The evidence for bismuth subsalicylate is weaker, but still important. The roles of these and other therapies in inducing or maintaining remission (as opposed to clinical or histological improvement) of collagenous colitis are unknown.",
+            "year": 2002,
+            "citation_count": 86,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the effectiveness of mesalamine with or without cholestyramine in treating collagenous colitis, which was investigated in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Diagnosis and management of microscopic colitis syndrome": {
+                    "explanation": "This paper is a review of microscopic colitis syndrome, which includes collagenous colitis. It mentions budesonide and bismuth subsalicylate as potential treatments, but does not build upon or depend on the findings of the source paper. Instead, it presents a broader overview of the diagnosis and management of microscopic colitis syndrome.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2005,
+        "source_paper": {
+            "paperId": "da906699233223d58d2444c25cd76348369df1bf",
+            "title": "Interventions for treating collagenous colitis.",
+            "abstract": "BACKGROUND\nCollagenous colitis is a disorder that is recognized as a cause of chronic diarrhea. Treatment has been based mainly on anecdotal evidence. This review was performed to identify therapies for collagenous colitis that have been proven in randomized trials.\n\n\nOBJECTIVES\nTo determine effective treatments for patients with clinically active collagenous colitis.\n\n\nSEARCH STRATEGY\nRelevant papers published between 1970 and January 2002 were identified via the MEDLINE, PUBMED, and EMBASE databases. Manual searches from the references of identified papers, as well as review papers on collagenous or microscopic colitis were performed to identify additional studies. Abstracts from major gastroenterological meetings were searched to identify research submitted in abstract form only. Finally, the Cochrane Controlled Trials Register and the Cochrane Inflammatory Bowel Disease Group Specialized Trials Register were searched for other studies.\n\n\nSELECTION CRITERIA\nFour randomized trials were identified. One trial studied bismuth subsalicylate (published in abstract form only), and 3 trials (2 published in abstract form only) studied budesonide in the therapy of collagenous colitis.\n\n\nDATA COLLECTION AND ANALYSIS\nData were extracted independently by each author onto 2x2 tables (treatment versus placebo and response versus no response). For therapies assessed in one trial only, p-values were derived using the chi-square test. For therapies assessed in more than one trial, summary test statistics were derived using the Peto odds ratio and 95% confidence intervals. Data were combined for analysis only if the outcomes were sufficiently similar in definition.\n\n\nMAIN RESULTS\nThere were 9 patients with collagenous colitis in the trial studying bismuth subsalicylate (nine 262 mg tablets daily for 8 weeks). Those randomized to active drug were more likely to have clinical (p=0.003) and histological (p=0.003) improvement than those assigned to placebo. A total of 86 patients were enrolled in 3 trials studying budesonide (9 mg daily for 6 to 8 weeks). The pooled odds ratio for clinical response to treatment with budesonide was 16.79 (95% CI 7.28-38.74), with a number needed to treat of 2 patients. There was significant histological improvement with treatment in all 3 trials studying budesonide therapy.\n\n\nREVIEWER'S CONCLUSIONS\nBudesonide is effective in the treatment of collagenous colitis. The evidence for bismuth subsalicylate is weaker, but still important. The roles of these and other therapies in inducing or maintaining remission (as opposed to clinical or histological improvement) of collagenous colitis are unknown.",
+            "year": 2002,
+            "citation_count": 86,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the effectiveness of mesalamine with or without cholestyramine in treating collagenous colitis, which was investigated in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Review article: drug\u2010induced microscopic colitis \u2013 proposal for a scoring system and review of the literature": {
+                    "explanation": "This paper is a review article that proposes a scoring system for drug-induced microscopic colitis and reviews the literature. Although it discusses microscopic colitis, which is related to collagenous colitis, it does not build upon or use the findings of the source paper as a sub-hypothesis. Therefore, it is not considered relevant in the context of the source paper's findings.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2005,
+        "source_paper": {
+            "paperId": "da906699233223d58d2444c25cd76348369df1bf",
+            "title": "Interventions for treating collagenous colitis.",
+            "abstract": "BACKGROUND\nCollagenous colitis is a disorder that is recognized as a cause of chronic diarrhea. Treatment has been based mainly on anecdotal evidence. This review was performed to identify therapies for collagenous colitis that have been proven in randomized trials.\n\n\nOBJECTIVES\nTo determine effective treatments for patients with clinically active collagenous colitis.\n\n\nSEARCH STRATEGY\nRelevant papers published between 1970 and January 2002 were identified via the MEDLINE, PUBMED, and EMBASE databases. Manual searches from the references of identified papers, as well as review papers on collagenous or microscopic colitis were performed to identify additional studies. Abstracts from major gastroenterological meetings were searched to identify research submitted in abstract form only. Finally, the Cochrane Controlled Trials Register and the Cochrane Inflammatory Bowel Disease Group Specialized Trials Register were searched for other studies.\n\n\nSELECTION CRITERIA\nFour randomized trials were identified. One trial studied bismuth subsalicylate (published in abstract form only), and 3 trials (2 published in abstract form only) studied budesonide in the therapy of collagenous colitis.\n\n\nDATA COLLECTION AND ANALYSIS\nData were extracted independently by each author onto 2x2 tables (treatment versus placebo and response versus no response). For therapies assessed in one trial only, p-values were derived using the chi-square test. For therapies assessed in more than one trial, summary test statistics were derived using the Peto odds ratio and 95% confidence intervals. Data were combined for analysis only if the outcomes were sufficiently similar in definition.\n\n\nMAIN RESULTS\nThere were 9 patients with collagenous colitis in the trial studying bismuth subsalicylate (nine 262 mg tablets daily for 8 weeks). Those randomized to active drug were more likely to have clinical (p=0.003) and histological (p=0.003) improvement than those assigned to placebo. A total of 86 patients were enrolled in 3 trials studying budesonide (9 mg daily for 6 to 8 weeks). The pooled odds ratio for clinical response to treatment with budesonide was 16.79 (95% CI 7.28-38.74), with a number needed to treat of 2 patients. There was significant histological improvement with treatment in all 3 trials studying budesonide therapy.\n\n\nREVIEWER'S CONCLUSIONS\nBudesonide is effective in the treatment of collagenous colitis. The evidence for bismuth subsalicylate is weaker, but still important. The roles of these and other therapies in inducing or maintaining remission (as opposed to clinical or histological improvement) of collagenous colitis are unknown.",
+            "year": 2002,
+            "citation_count": 86,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the effectiveness of mesalamine with or without cholestyramine in treating collagenous colitis, which was investigated in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Review article: drug\u2010induced microscopic colitis \u2013 proposal for a scoring system and review of the literature": {
+                    "explanation": "This paper is a review article and does not present any novel hypotheses or findings that are directly connected to the source paper. The source paper is a review of interventions for treating collagenous colitis, while this paper proposes a scoring system for drug-induced microscopic colitis.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2006,
+        "source_paper": {
+            "paperId": "da906699233223d58d2444c25cd76348369df1bf",
+            "title": "Interventions for treating collagenous colitis.",
+            "abstract": "BACKGROUND\nCollagenous colitis is a disorder that is recognized as a cause of chronic diarrhea. Treatment has been based mainly on anecdotal evidence. This review was performed to identify therapies for collagenous colitis that have been proven in randomized trials.\n\n\nOBJECTIVES\nTo determine effective treatments for patients with clinically active collagenous colitis.\n\n\nSEARCH STRATEGY\nRelevant papers published between 1970 and January 2002 were identified via the MEDLINE, PUBMED, and EMBASE databases. Manual searches from the references of identified papers, as well as review papers on collagenous or microscopic colitis were performed to identify additional studies. Abstracts from major gastroenterological meetings were searched to identify research submitted in abstract form only. Finally, the Cochrane Controlled Trials Register and the Cochrane Inflammatory Bowel Disease Group Specialized Trials Register were searched for other studies.\n\n\nSELECTION CRITERIA\nFour randomized trials were identified. One trial studied bismuth subsalicylate (published in abstract form only), and 3 trials (2 published in abstract form only) studied budesonide in the therapy of collagenous colitis.\n\n\nDATA COLLECTION AND ANALYSIS\nData were extracted independently by each author onto 2x2 tables (treatment versus placebo and response versus no response). For therapies assessed in one trial only, p-values were derived using the chi-square test. For therapies assessed in more than one trial, summary test statistics were derived using the Peto odds ratio and 95% confidence intervals. Data were combined for analysis only if the outcomes were sufficiently similar in definition.\n\n\nMAIN RESULTS\nThere were 9 patients with collagenous colitis in the trial studying bismuth subsalicylate (nine 262 mg tablets daily for 8 weeks). Those randomized to active drug were more likely to have clinical (p=0.003) and histological (p=0.003) improvement than those assigned to placebo. A total of 86 patients were enrolled in 3 trials studying budesonide (9 mg daily for 6 to 8 weeks). The pooled odds ratio for clinical response to treatment with budesonide was 16.79 (95% CI 7.28-38.74), with a number needed to treat of 2 patients. There was significant histological improvement with treatment in all 3 trials studying budesonide therapy.\n\n\nREVIEWER'S CONCLUSIONS\nBudesonide is effective in the treatment of collagenous colitis. The evidence for bismuth subsalicylate is weaker, but still important. The roles of these and other therapies in inducing or maintaining remission (as opposed to clinical or histological improvement) of collagenous colitis are unknown.",
+            "year": 2002,
+            "citation_count": 86,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the effectiveness of mesalamine with or without cholestyramine in treating collagenous colitis, which was investigated in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Budesonide treatment is associated with increased bile acid absorption in collagenous colitis": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the effects of budesonide treatment, which was identified as an effective treatment for collagenous colitis in the source paper.",
+                    "relevance": 2
+                },
+                "2. Steroids reduce local inflammatory mediator secretion and mucosal permeability in collagenous colitis patients": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it explores the effects of steroids (including budesonide) on collagenous colitis, which was studied in the source paper.",
+                    "relevance": 2
+                },
+                "3. Systematic review: microscopic colitis": {
+                    "explanation": "This paper is a review paper and lacks novel hypotheses or findings. It does not build upon the source paper's results or use its findings as a sub-hypothesis.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Budesonide treatment is associated with increased bile acid absorption in collagenous colitis": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the effects of budesonide treatment, which was identified as an effective treatment for collagenous colitis in the source paper.",
+                    "relevance": 2
+                },
+                "2. Steroids reduce local inflammatory mediator secretion and mucosal permeability in collagenous colitis patients": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it explores the effects of steroids (including budesonide) on collagenous colitis, which was studied in the source paper.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2008,
+        "source_paper": {
+            "paperId": "4fa2658b8043812a69296b3d0a11bbb7aaf27c5a",
+            "title": "Budesonide treatment is associated with increased bile acid absorption in collagenous colitis",
+            "abstract": "Background\u2002 Bile acid malabsorption is frequent in collagenous colitis and harmful bile acids may play a pathophysiological role. Glucocorticoids increase ileal bile acid transport. Budesonide have its main effect in the terminal ileum.",
+            "year": 2006,
+            "citation_count": 51,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the effects of budesonide treatment, which was identified as an effective treatment for collagenous colitis in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Interventions for treating collagenous colitis": {
+                    "explanation": "This paper is a review paper summarizing existing literature, including the source paper, and lacks novel hypotheses or findings. Therefore, it has no connection with the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2008,
+        "source_paper": {
+            "paperId": "4fa2658b8043812a69296b3d0a11bbb7aaf27c5a",
+            "title": "Budesonide treatment is associated with increased bile acid absorption in collagenous colitis",
+            "abstract": "Background\u2002 Bile acid malabsorption is frequent in collagenous colitis and harmful bile acids may play a pathophysiological role. Glucocorticoids increase ileal bile acid transport. Budesonide have its main effect in the terminal ileum.",
+            "year": 2006,
+            "citation_count": 51,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the effects of budesonide treatment, which was identified as an effective treatment for collagenous colitis in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Interventions for treating collagenous colitis": {
+                    "explanation": "This paper is a review paper summarizing existing literature on treatments for collagenous colitis, including budesonide. It does not present a novel hypothesis or findings, and its connection to the source paper is indirect.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2009,
+        "source_paper": {
+            "paperId": "4fa2658b8043812a69296b3d0a11bbb7aaf27c5a",
+            "title": "Budesonide treatment is associated with increased bile acid absorption in collagenous colitis",
+            "abstract": "Background\u2002 Bile acid malabsorption is frequent in collagenous colitis and harmful bile acids may play a pathophysiological role. Glucocorticoids increase ileal bile acid transport. Budesonide have its main effect in the terminal ileum.",
+            "year": 2006,
+            "citation_count": 51,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the effects of budesonide treatment, which was identified as an effective treatment for collagenous colitis in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Budesonide is effective in treating lymphocytic colitis: a randomized double-blind placebo-controlled study": {
+                    "explanation": "This paper is related to the source paper as it investigates the effectiveness of budesonide in treating lymphocytic colitis, a condition related to collagenous colitis, which was the focus of the source paper.",
+                    "relevance": 1
+                },
+                "2. Collagenous Gastritis: Histopathologic Features and Association With Other Gastrointestinal Diseases": {
+                    "explanation": "This paper has no direct connection to the source paper as it discusses collagenous gastritis, a different condition, and does not mention budesonide or bile acid absorption.",
+                    "relevance": 0
+                },
+                "3. Microscopic Colitis: An Update": {
+                    "explanation": "This paper is related to the source paper as it discusses microscopic colitis, a condition that includes collagenous colitis, and mentions budesonide as a treatment option, but it is a review paper and does not present new findings.",
+                    "relevance": 0
+                },
+                "4. CLINICAL\u2014ALIMENTARY TRACT Budesonide Is Effective in Treating Lymphocytic Colitis: A Randomized Double-Blind Placebo-Controlled Study": {
+                    "explanation": "This paper is identical to paper 1 and is related to the source paper as it investigates the effectiveness of budesonide in treating lymphocytic colitis, a condition related to collagenous colitis, which was the focus of the source paper.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Budesonide is effective in treating lymphocytic colitis: a randomized double-blind placebo-controlled study": {
+                    "explanation": "This paper is related to the source paper as it investigates the effectiveness of budesonide in treating lymphocytic colitis, a condition related to collagenous colitis, which was the focus of the source paper.",
+                    "relevance": 1
+                },
+                "2. CLINICAL\u2014ALIMENTARY TRACT Budesonide Is Effective in Treating Lymphocytic Colitis: A Randomized Double-Blind Placebo-Controlled Study": {
+                    "explanation": "This paper is identical to paper 1 and is related to the source paper as it investigates the effectiveness of budesonide in treating lymphocytic colitis, a condition related to collagenous colitis, which was the focus of the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2010,
+        "source_paper": {
+            "paperId": "c9a301386fda2ad21b283c777548a7d4a515150b",
+            "title": "Budesonide is effective in treating lymphocytic colitis: a randomized double-blind placebo-controlled study.",
+            "abstract": "BACKGROUND & AIMS\nBudesonide is effective in treating collagenous colitis, but no treatment is established for lymphocytic colitis. We performed a randomized, double-blind, placebo-controlled study to evaluate the effects of budesonide in patients with lymphocytic colitis.\n\n\nMETHODS\nForty-two patients (median age, 61 years) with lymphocytic colitis and chronic diarrhea were randomly assigned to groups that were given oral doses of budesonide (9 mg/d) or placebo for 6 weeks. Nonresponders at week 6 were given open-label budesonide (9 mg/d) for 6 additional weeks. A complete colonoscopy and histologic and quality-of-life analyses were performed at baseline and at week 6. The primary end point was clinical remission at 6 weeks, with last observation carried forward (LOCF). All patients who left the study in clinical remission were followed for relapse.\n\n\nRESULTS\nAt week 6, 86% of patients given budesonide were in clinical remission (with LOCF) compared with 48% of patients given placebo (P = .010). Furthermore, open-label budesonide therapy induced clinical remission in 7 of 8 patients given placebo. Histologic remission was observed in 73% of patients given budesonide compared with 31% given placebo (P = .030). Only 1 patient discontinued budesonide therapy prematurely. During a mean follow-up period of 14 months, 15 patients (44.1%) experienced a clinical relapse (after a mean of 2 months); 8 of the relapsing patients were retreated with and responded again to budesonide.\n\n\nCONCLUSIONS\nBudesonide effectively induces clinical remission in patients with lymphocytic colitis and significantly improves histology results after 6 weeks. Clinical relapses occur but can be treated again with budesonide.",
+            "year": 2009,
+            "citation_count": 163,
+            "relevance": 1,
+            "explanation": "This paper is related to the source paper as it investigates the effectiveness of budesonide in treating lymphocytic colitis, a condition related to collagenous colitis, which was the focus of the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Therapeutic benefits of budesonide in gastroenterology": {
+                    "explanation": "This paper is a review of budesonide's utility in various gastrointestinal conditions, including microscopic colitis. It summarizes existing literature, including the source paper's findings on budesonide's effectiveness in treating lymphocytic colitis.",
+                    "relevance": 0
+                },
+                "2. Use of Budesonide in the Treatment of Microscopic Colitis": {
+                    "explanation": "This paper explores the use of budesonide in treating microscopic colitis, including lymphocytic colitis. While it builds on the source paper's findings, it does not directly test a hypothesis inspired by the source paper.",
+                    "relevance": 1
+                },
+                "3. A retrospective study on a cohort of patients with lymphocytic colitis": {
+                    "explanation": "This paper presents a retrospective study on patients with lymphocytic colitis, which is the same condition investigated in the source paper. However, it does not directly build on the source paper's findings or test a hypothesis inspired by it.",
+                    "relevance": 0
+                },
+                "4. Classification and management of refractory coeliac disease": {
+                    "explanation": "This paper focuses on refractory coeliac disease, which is a different condition from lymphocytic colitis. While it mentions the association between coeliac disease and microscopic colitis, it does not build on the source paper's findings or test a hypothesis inspired by it.",
+                    "relevance": 0
+                },
+                "5. Collagenous and Lymphocytic Colitis: Systematic Review and Update of the Literature": {
+                    "explanation": "This paper is a systematic review of collagenous and lymphocytic colitis, summarizing existing literature on these conditions. It mentions the source paper's findings on budesonide's effectiveness in treating lymphocytic colitis, but does not test a hypothesis inspired by the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Use of Budesonide in the Treatment of Microscopic Colitis": {
+                    "explanation": "This paper explores the use of budesonide in treating microscopic colitis, including lymphocytic colitis. While it builds on the source paper's findings, it does not directly test a hypothesis inspired by the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2011,
+        "source_paper": {
+            "paperId": "c9a301386fda2ad21b283c777548a7d4a515150b",
+            "title": "Budesonide is effective in treating lymphocytic colitis: a randomized double-blind placebo-controlled study.",
+            "abstract": "BACKGROUND & AIMS\nBudesonide is effective in treating collagenous colitis, but no treatment is established for lymphocytic colitis. We performed a randomized, double-blind, placebo-controlled study to evaluate the effects of budesonide in patients with lymphocytic colitis.\n\n\nMETHODS\nForty-two patients (median age, 61 years) with lymphocytic colitis and chronic diarrhea were randomly assigned to groups that were given oral doses of budesonide (9 mg/d) or placebo for 6 weeks. Nonresponders at week 6 were given open-label budesonide (9 mg/d) for 6 additional weeks. A complete colonoscopy and histologic and quality-of-life analyses were performed at baseline and at week 6. The primary end point was clinical remission at 6 weeks, with last observation carried forward (LOCF). All patients who left the study in clinical remission were followed for relapse.\n\n\nRESULTS\nAt week 6, 86% of patients given budesonide were in clinical remission (with LOCF) compared with 48% of patients given placebo (P = .010). Furthermore, open-label budesonide therapy induced clinical remission in 7 of 8 patients given placebo. Histologic remission was observed in 73% of patients given budesonide compared with 31% given placebo (P = .030). Only 1 patient discontinued budesonide therapy prematurely. During a mean follow-up period of 14 months, 15 patients (44.1%) experienced a clinical relapse (after a mean of 2 months); 8 of the relapsing patients were retreated with and responded again to budesonide.\n\n\nCONCLUSIONS\nBudesonide effectively induces clinical remission in patients with lymphocytic colitis and significantly improves histology results after 6 weeks. Clinical relapses occur but can be treated again with budesonide.",
+            "year": 2009,
+            "citation_count": 163,
+            "relevance": 1,
+            "explanation": "This paper is related to the source paper as it investigates the effectiveness of budesonide in treating lymphocytic colitis, a condition related to collagenous colitis, which was the focus of the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Recent advances in diagnosis and treatment of microscopic colitis": {
+                    "explanation": "This paper is a review article that summarizes existing literature on microscopic colitis, including lymphocytic colitis. It mentions budesonide as a treatment option, but does not build upon or depend on the findings of the source paper. Therefore, it is considered a review paper with no direct connection to the source paper.",
+                    "relevance": 0
+                },
+                "2. Sterile hepatic abscess secondary to administration of parenteral fluids via an umbilical venous catheter in a premature baby": {
+                    "explanation": "This paper reports a case of a sterile hepatic abscess in a premature baby and has no connection to the source paper, which investigates the effectiveness of budesonide in treating lymphocytic colitis.",
+                    "relevance": 0
+                },
+                "3. A Case of Methicillin-Resistant Staphylococcal Enterocolitis with Subsequent Development of Lymphocytic Colitis": {
+                    "explanation": "This paper reports a case of lymphocytic colitis, but the key hypothesis is not inspired by or dependent on the findings of the source paper. Instead, it presents a unique case of lymphocytic colitis following methicillin-resistant Staphylococcal enterocolitis.",
+                    "relevance": 0
+                },
+                "4. Review article: microscopic colitis \u2013 lymphocytic, collagenous and \u2018mast cell\u2019 colitis": {
+                    "explanation": "This paper is a review article that summarizes existing literature on microscopic colitis, including lymphocytic colitis. It does not build upon or depend on the findings of the source paper, and is therefore considered a review paper with no direct connection to the source paper.",
+                    "relevance": 0
+                },
+                "5. Microscopic colitis as a missed cause of chronic diarrhea": {
+                    "explanation": "This paper investigates the prevalence of microscopic colitis in patients with chronic diarrhea, but the key hypothesis is not inspired by or dependent on the findings of the source paper. Instead, it presents a new perspective on the diagnosis of microscopic colitis.",
+                    "relevance": 0
+                },
+                "6. Microscopic colitis : clinical features and gastroduodenal and immunogenetic findings": {
+                    "explanation": "This paper investigates the clinical features and immunogenetic findings of microscopic colitis, but the key hypothesis is not inspired by or dependent on the findings of the source paper. Instead, it presents new information on the pathogenesis of microscopic colitis.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2015,
+        "source_paper": {
+            "paperId": "f8512f49ec9c5076bb718d4a9269d3858af2fcba",
+            "title": "Use of Budesonide in the Treatment of Microscopic Colitis",
+            "abstract": "Collagenous colitis and lymphocytic colitis, the two types of microscopic colitis, cause watery diarrhea. Budesonide, a glucocorticoid medication with limited systemic availability, is commonly used to treat these illnesses. Budesonide has proven efficacy in the induction of clinical remission in both collagenous colitis and lymphocytic colitis. Budesonide is effective as a maintenance drug for patients with collagenous colitis, but has not been studied for this indication in patients with lymphocytic colitis. This drug improves quality of life in patients while causing few mild adverse events. Budesonide is an effective treatment of microscopic colitis that is safe and well tolerated.",
+            "year": 2010,
+            "citation_count": 4,
+            "relevance": 1,
+            "explanation": "This paper explores the use of budesonide in treating microscopic colitis, including lymphocytic colitis. While it builds on the source paper's findings, it does not directly test a hypothesis inspired by the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Study the Efficacy of Budesonide Enema in Treating Collagenous Microscopic Colitis: An Egyptian Trial": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the efficacy of Budesonide enema in treating collagenous microscopic colitis, using the source paper's findings on Budesonide's efficacy in treating microscopic colitis as a sub-hypothesis.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Study the Efficacy of Budesonide Enema in Treating Collagenous Microscopic Colitis: An Egyptian Trial": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the efficacy of Budesonide enema in treating collagenous microscopic colitis, using the source paper's findings on Budesonide's efficacy in treating microscopic colitis as a sub-hypothesis.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2024,
+        "source_paper": {
+            "paperId": "9e5522fe9453f1e532922c9fc5253aa5ee00e644",
+            "title": "Study the Efficacy of Budesonide Enema in Treating Collagenous Microscopic Colitis: An Egyptian Trial",
+            "abstract": "Chronic diarrhea can have a substantial impact on the patient\u2019s quality of life and overall health. Microscopic colitis (MC) is an inflammatory bowel disease, which is characterized by chronic watery diarrhea. Many drugs, including steroids, had emerged to treat MC. Our aim was testing the efficacy of Budesonide enema in improvement of patients with collagenous microscopic colitis both clinically and histo-pathologiclly. 22 patients with active microscopic colitis were enrolled in the present study, 15 women, and 7 men, with mean age of 60.9\u00b18.5 years. Mean duration of symptoms was 2.6\u00b10.8 years. Patients were given Budesonide enema 2mg/100ml twice daily for 2 weeks then, once daily for 4 weeks. They were evaluated both clinically and histopathologically after 6 weeks.18 patients (81.8%) showed high statistically significant decrease in the thickness of collage layer, and degree of inflammation. The patients\u2019 frequency of stool decreased from 7.6\u00b11.0 to 2.7\u00b11.6 motions/day (p<0.001), and also consistency of stool improved (p<0.001).We concluded that Budesonide enema in a dose of 2 mg/100ml was well tolerated and effective in induction of remission in active collagenous colitis. Effects on both clinical symptoms and inflammatory infiltrate were seen. Recurrence rate after stopping treatment is moderate. Non-responders may need prolonged duration of treatment or omitting the drugs that may be responsible for colonic inflammation.",
+            "year": 2015,
+            "citation_count": 1,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the efficacy of Budesonide enema in treating collagenous microscopic colitis, using the source paper's findings on Budesonide's efficacy in treating microscopic colitis as a sub-hypothesis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Microscopic Colitis: An Underestimated Disease of Growing Importance": {
+                    "explanation": "This paper has no connection with the source paper as it is a review paper. The article aims to raise awareness of microscopic colitis and highlights its under-recognition, risk factors, diagnosis, management, and complications. It does not build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2024,
+        "source_paper": {
+            "paperId": "9e5522fe9453f1e532922c9fc5253aa5ee00e644",
+            "title": "Study the Efficacy of Budesonide Enema in Treating Collagenous Microscopic Colitis: An Egyptian Trial",
+            "abstract": "Chronic diarrhea can have a substantial impact on the patient\u2019s quality of life and overall health. Microscopic colitis (MC) is an inflammatory bowel disease, which is characterized by chronic watery diarrhea. Many drugs, including steroids, had emerged to treat MC. Our aim was testing the efficacy of Budesonide enema in improvement of patients with collagenous microscopic colitis both clinically and histo-pathologiclly. 22 patients with active microscopic colitis were enrolled in the present study, 15 women, and 7 men, with mean age of 60.9\u00b18.5 years. Mean duration of symptoms was 2.6\u00b10.8 years. Patients were given Budesonide enema 2mg/100ml twice daily for 2 weeks then, once daily for 4 weeks. They were evaluated both clinically and histopathologically after 6 weeks.18 patients (81.8%) showed high statistically significant decrease in the thickness of collage layer, and degree of inflammation. The patients\u2019 frequency of stool decreased from 7.6\u00b11.0 to 2.7\u00b11.6 motions/day (p<0.001), and also consistency of stool improved (p<0.001).We concluded that Budesonide enema in a dose of 2 mg/100ml was well tolerated and effective in induction of remission in active collagenous colitis. Effects on both clinical symptoms and inflammatory infiltrate were seen. Recurrence rate after stopping treatment is moderate. Non-responders may need prolonged duration of treatment or omitting the drugs that may be responsible for colonic inflammation.",
+            "year": 2015,
+            "citation_count": 1,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the efficacy of Budesonide enema in treating collagenous microscopic colitis, using the source paper's findings on Budesonide's efficacy in treating microscopic colitis as a sub-hypothesis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Microscopic Colitis: An Underestimated Disease of Growing Importance": {
+                    "explanation": "This paper is a review paper that aims to raise awareness of microscopic colitis and discusses its diagnosis, management, and complications. It does not present a novel hypothesis or findings that are directly related to the source paper. Instead, it provides a general overview of the disease, including its risk factors and treatment options, which includes budesonide enema, the treatment studied in the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    }
+]

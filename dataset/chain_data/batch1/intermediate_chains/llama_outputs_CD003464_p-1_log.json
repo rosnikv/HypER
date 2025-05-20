@@ -1,0 +1,491 @@
+[
+    {
+        "year": 1994,
+        "source_paper": {
+            "paperId": "651cccb14cc15c7a81da92a7abeeafc55bb853a2",
+            "pmid": "8336751",
+            "title": "A comparison of aspirin with placebo in patients treated with warfarin after heart-valve replacement.",
+            "abstract": "BACKGROUND\nDespite the use of warfarin, major systemic embolism remains an important complication in patients with heart-valve replacement. Although the addition of antiplatelet agents has the potential to reduce this complication, their efficacy and safety when given in combination with warfarin are uncertain.\n\n\nMETHODS\nIn a randomized, double-blind, placebo-controlled trial, we assessed the efficacy and safety of adding aspirin (100 mg per day) to warfarin treatment (target international normalized ratio, 3.0 to 4.5) in 370 patients with mechanical heart valves or with tissue valves plus atrial fibrillation or a history of thromboembolism.\n\n\nRESULTS\nA total of 186 patients were randomly assigned to aspirin and 184 to placebo, and they were followed for up to 4 years (average, 2.5). Major systemic embolism or death from vascular causes occurred in 6 aspirin-treated patients (1.9 percent per year) and 24 placebo-treated patients (8.5 percent per year) (risk reduction with aspirin, 77 percent; 95 percent confidence interval, 44 to 91 percent; P < 0.001). Major systemic embolism, nonfatal intracranial hemorrhage, or death from hemorrhage or vascular causes occurred in 12 patients assigned to aspirin (3.9 percent per year) and 28 patients assigned to placebo (9.9 percent per year) (risk reduction, 61 per cent; 95 percent confidence interval, 24 to 80 percent; P = 0.005); major systemic embolism or death from any cause occurred in 13 patients (4.2 percent) and 33 patients (11.7 percent), respectively (risk reduction, 65 percent; 95 percent confidence interval, 33 to 82 percent; P < 0.001); and death from all causes occurred in 9 patients (2.8 percent) and 22 patients (7.4 percent), respectively (risk reduction, 63 percent; 95 percent confidence interval, 19 to 83 percent; P = 0.01). Bleeding occurred in 71 patients in the aspirin group (35.0 percent), as compared with 49 patients in the placebo group (22.0 percent) (increase in risk, 55 percent; 95 percent confidence interval, 8 to 124 percent; P = 0.02); major bleeding occurred in 24 and 19 patients, respectively (increase in risk, 27 percent; 95 percent confidence interval, -30 to 132 percent; P = 0.43).\n\n\nCONCLUSIONS\nIn patients with mechanical heart valves and high-risk patients with prosthetic tissue valves, the addition of aspirin to warfarin therapy reduced mortality, particularly mortality from vascular causes, together with major systemic embolism. Although there was some increase in bleeding, the risk of the combined treatment was more than offset by the considerable benefit.",
+            "year": 1993,
+            "citation_count": 512
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Omission of aspirin in patients following coronary artery bypass graft surgery": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the role of aspirin in preventing graft occlusion following coronary artery bypass graft surgery, which is related to the source paper's findings on the efficacy and safety of adding aspirin to warfarin treatment in patients with heart-valve replacement.",
+                    "relevance": 2
+                },
+                "2. Aspirin as an antiplatelet drug": {
+                    "explanation": "This paper is a review of the molecular mechanism of action of aspirin and its clinical pharmacologic data, which is not directly related to the source paper's hypothesis or findings. Therefore, it is considered a review paper with no connection to the source paper.",
+                    "relevance": 0
+                },
+                "3. Anticoagulation and Hemostasis in Cardiac Surgical Patients": {
+                    "explanation": "This paper reviews the pharmacology of various anticoagulants and antiplatelet agents, including warfarin and aspirin, but does not specifically address the hypothesis or findings of the source paper. Therefore, it is considered a review paper with no connection to the source paper.",
+                    "relevance": 0
+                },
+                "4. Guide to anticoagulant therapy. Part 2: Oral anticoagulants": {
+                    "explanation": "This paper provides a guide to oral anticoagulant therapy, including warfarin, but does not specifically address the hypothesis or findings of the source paper. Therefore, it is considered a review paper with no connection to the source paper.",
+                    "relevance": 0
+                },
+                "5. Collaborative overview of randomised trials of antiplatelet therapy Prevention of death, myocardial infarction, and stroke by prolonged antiplatelet therapy in various categories of patients": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the effects of antiplatelet therapy on preventing vascular events in various categories of patients, which is related to the source paper's findings on the efficacy and safety of adding aspirin to warfarin treatment in patients with heart-valve replacement.",
+                    "relevance": 2
+                },
+                "6. Antiphospholipid Antibodies: A Critique of Their Heterogeneity and Hegemony": {
+                    "explanation": "This paper is not related to the source paper's hypothesis or findings, as it discusses antiphospholipid antibodies, which are not mentioned in the source paper.",
+                    "relevance": 0
+                },
+                "7. Aspirin, platelets, and thrombosis: theory and practice": {
+                    "explanation": "This paper reviews the connection between aspirin, platelets, and thrombosis, but does not specifically address the hypothesis or findings of the source paper. Therefore, it is considered a review paper with no connection to the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Omission of aspirin in patients following coronary artery bypass graft surgery": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the role of aspirin in preventing graft occlusion following coronary artery bypass graft surgery, which is related to the source paper's findings on the efficacy and safety of adding aspirin to warfarin treatment in patients with heart-valve replacement.",
+                    "relevance": 2
+                },
+                "2. Collaborative overview of randomised trials of antiplatelet therapy Prevention of death, myocardial infarction, and stroke by prolonged antiplatelet therapy in various categories of patients": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the effects of antiplatelet therapy on preventing vascular events in various categories of patients, which is related to the source paper's findings on the efficacy and safety of adding aspirin to warfarin treatment in patients with heart-valve replacement.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 1995,
+        "source_paper": {
+            "paperId": "651cccb14cc15c7a81da92a7abeeafc55bb853a2",
+            "pmid": "8336751",
+            "title": "A comparison of aspirin with placebo in patients treated with warfarin after heart-valve replacement.",
+            "abstract": "BACKGROUND\nDespite the use of warfarin, major systemic embolism remains an important complication in patients with heart-valve replacement. Although the addition of antiplatelet agents has the potential to reduce this complication, their efficacy and safety when given in combination with warfarin are uncertain.\n\n\nMETHODS\nIn a randomized, double-blind, placebo-controlled trial, we assessed the efficacy and safety of adding aspirin (100 mg per day) to warfarin treatment (target international normalized ratio, 3.0 to 4.5) in 370 patients with mechanical heart valves or with tissue valves plus atrial fibrillation or a history of thromboembolism.\n\n\nRESULTS\nA total of 186 patients were randomly assigned to aspirin and 184 to placebo, and they were followed for up to 4 years (average, 2.5). Major systemic embolism or death from vascular causes occurred in 6 aspirin-treated patients (1.9 percent per year) and 24 placebo-treated patients (8.5 percent per year) (risk reduction with aspirin, 77 percent; 95 percent confidence interval, 44 to 91 percent; P < 0.001). Major systemic embolism, nonfatal intracranial hemorrhage, or death from hemorrhage or vascular causes occurred in 12 patients assigned to aspirin (3.9 percent per year) and 28 patients assigned to placebo (9.9 percent per year) (risk reduction, 61 per cent; 95 percent confidence interval, 24 to 80 percent; P = 0.005); major systemic embolism or death from any cause occurred in 13 patients (4.2 percent) and 33 patients (11.7 percent), respectively (risk reduction, 65 percent; 95 percent confidence interval, 33 to 82 percent; P < 0.001); and death from all causes occurred in 9 patients (2.8 percent) and 22 patients (7.4 percent), respectively (risk reduction, 63 percent; 95 percent confidence interval, 19 to 83 percent; P = 0.01). Bleeding occurred in 71 patients in the aspirin group (35.0 percent), as compared with 49 patients in the placebo group (22.0 percent) (increase in risk, 55 percent; 95 percent confidence interval, 8 to 124 percent; P = 0.02); major bleeding occurred in 24 and 19 patients, respectively (increase in risk, 27 percent; 95 percent confidence interval, -30 to 132 percent; P = 0.43).\n\n\nCONCLUSIONS\nIn patients with mechanical heart valves and high-risk patients with prosthetic tissue valves, the addition of aspirin to warfarin therapy reduced mortality, particularly mortality from vascular causes, together with major systemic embolism. Although there was some increase in bleeding, the risk of the combined treatment was more than offset by the considerable benefit.",
+            "year": 1993,
+            "citation_count": 512
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Adverse Interactions Between Warfarin and Nonsteroidal Antiinflammatory Drugs: Mechanisms, Clinical Significance, and Avoidance": {
+                    "explanation": "This paper discusses the interactions between warfarin and nonsteroidal antiinflammatory drugs, which is related to the source paper's investigation of the efficacy and safety of adding aspirin to warfarin treatment. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "2. Antithrombotic therapy in children": {
+                    "explanation": "This paper reviews the use of antithrombotic agents in children, which is not directly related to the source paper's investigation of aspirin and warfarin in patients with heart-valve replacement.",
+                    "relevance": 0
+                },
+                "3. When bleeding complicates oral anticoagulant therapy": {
+                    "explanation": "This paper discusses the management of bleeding complications in patients on oral anticoagulant therapy, which is related to the source paper's investigation of the risks and benefits of adding aspirin to warfarin treatment. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "4. Oral anticoagulants and intracranial hemorrhage. Facts and hypotheses": {
+                    "explanation": "This paper reviews the risk of intracranial hemorrhage in patients on oral anticoagulant therapy, which is related to the source paper's investigation of the risks and benefits of adding aspirin to warfarin treatment. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "5. Optimal oral anticoagulant therapy in patients with mechanical heart valves": {
+                    "explanation": "This paper investigates the optimal intensity of oral anticoagulant therapy in patients with mechanical heart valves, which is related to the source paper's investigation of the efficacy and safety of adding aspirin to warfarin treatment in patients with heart-valve replacement. The key hypothesis in this paper is at least partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                },
+                "6. Antiplatelet Therapy with Aspirin: From Clinical Trials to Practice": {
+                    "explanation": "This paper reviews the use of aspirin in antiplatelet therapy, which is related to the source paper's investigation of the efficacy and safety of adding aspirin to warfarin treatment. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "7. Incidence and frequency of cerebral embolic signals in patients with a similar bileaflet mechanical heart valve": {
+                    "explanation": "This paper investigates the incidence and frequency of cerebral embolic signals in patients with mechanical heart valves, which is related to the source paper's investigation of the efficacy and safety of adding aspirin to warfarin treatment in patients with heart-valve replacement. The key hypothesis in this paper is inspired by the findings of the source paper.",
+                    "relevance": 1
+                },
+                "8. Clinical Trials of Primary and Secondary Prevention of Thrombosis and Restenosis": {
+                    "explanation": "This paper reviews the use of antiplatelet agents and anticoagulants in the prevention of thrombosis and restenosis, which is related to the source paper's investigation of the efficacy and safety of adding aspirin to warfarin treatment. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "9. Oral Anticoagulant Treatment with and without Aspirin": {
+                    "explanation": "This paper discusses the use of oral anticoagulant treatment with and without aspirin in preventing thromboembolic events, which is related to the source paper's investigation of the efficacy and safety of adding aspirin to warfarin treatment. The key hypothesis in this paper is at least partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                },
+                "10. Systemic thromboembolism leading to myocardial infarction and stroke after fenestrated total cavopulmonary connection": {
+                    "explanation": "This paper reports a case of systemic thromboembolism after a fenestrated total cavopulmonary connection, which is not directly related to the source paper's investigation of aspirin and warfarin in patients with heart-valve replacement.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Optimal oral anticoagulant therapy in patients with mechanical heart valves": {
+                    "explanation": "This paper investigates the optimal intensity of oral anticoagulant therapy in patients with mechanical heart valves, which is related to the source paper's investigation of the efficacy and safety of adding aspirin to warfarin treatment in patients with heart-valve replacement. The key hypothesis in this paper is at least partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                },
+                "2. Oral Anticoagulant Treatment with and without Aspirin": {
+                    "explanation": "This paper discusses the use of oral anticoagulant treatment with and without aspirin in preventing thromboembolic events, which is related to the source paper's investigation of the efficacy and safety of adding aspirin to warfarin treatment. The key hypothesis in this paper is at least partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                },
+                "3. Incidence and frequency of cerebral embolic signals in patients with a similar bileaflet mechanical heart valve": {
+                    "explanation": "This paper investigates the incidence and frequency of cerebral embolic signals in patients with mechanical heart valves, which is related to the source paper's investigation of the efficacy and safety of adding aspirin to warfarin treatment in patients with heart-valve replacement. The key hypothesis in this paper is inspired by the findings of the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 1995,
+        "source_paper": {
+            "paperId": "651cccb14cc15c7a81da92a7abeeafc55bb853a2",
+            "pmid": "8336751",
+            "title": "A comparison of aspirin with placebo in patients treated with warfarin after heart-valve replacement.",
+            "abstract": "BACKGROUND\nDespite the use of warfarin, major systemic embolism remains an important complication in patients with heart-valve replacement. Although the addition of antiplatelet agents has the potential to reduce this complication, their efficacy and safety when given in combination with warfarin are uncertain.\n\n\nMETHODS\nIn a randomized, double-blind, placebo-controlled trial, we assessed the efficacy and safety of adding aspirin (100 mg per day) to warfarin treatment (target international normalized ratio, 3.0 to 4.5) in 370 patients with mechanical heart valves or with tissue valves plus atrial fibrillation or a history of thromboembolism.\n\n\nRESULTS\nA total of 186 patients were randomly assigned to aspirin and 184 to placebo, and they were followed for up to 4 years (average, 2.5). Major systemic embolism or death from vascular causes occurred in 6 aspirin-treated patients (1.9 percent per year) and 24 placebo-treated patients (8.5 percent per year) (risk reduction with aspirin, 77 percent; 95 percent confidence interval, 44 to 91 percent; P < 0.001). Major systemic embolism, nonfatal intracranial hemorrhage, or death from hemorrhage or vascular causes occurred in 12 patients assigned to aspirin (3.9 percent per year) and 28 patients assigned to placebo (9.9 percent per year) (risk reduction, 61 per cent; 95 percent confidence interval, 24 to 80 percent; P = 0.005); major systemic embolism or death from any cause occurred in 13 patients (4.2 percent) and 33 patients (11.7 percent), respectively (risk reduction, 65 percent; 95 percent confidence interval, 33 to 82 percent; P < 0.001); and death from all causes occurred in 9 patients (2.8 percent) and 22 patients (7.4 percent), respectively (risk reduction, 63 percent; 95 percent confidence interval, 19 to 83 percent; P = 0.01). Bleeding occurred in 71 patients in the aspirin group (35.0 percent), as compared with 49 patients in the placebo group (22.0 percent) (increase in risk, 55 percent; 95 percent confidence interval, 8 to 124 percent; P = 0.02); major bleeding occurred in 24 and 19 patients, respectively (increase in risk, 27 percent; 95 percent confidence interval, -30 to 132 percent; P = 0.43).\n\n\nCONCLUSIONS\nIn patients with mechanical heart valves and high-risk patients with prosthetic tissue valves, the addition of aspirin to warfarin therapy reduced mortality, particularly mortality from vascular causes, together with major systemic embolism. Although there was some increase in bleeding, the risk of the combined treatment was more than offset by the considerable benefit.",
+            "year": 1993,
+            "citation_count": 512
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Thromboembolism and Antithrombotic Therapy in Congestive Heart Failure": {
+                    "explanation": "This paper does not directly build upon the source paper. It discusses the risk of thromboembolism in patients with congestive heart failure, which is a different population and context than the source paper.",
+                    "relevance": 0
+                },
+                "2. Economics and efficacy in choosing oral anticoagulants or aspirin after myocardial infarction": {
+                    "explanation": "This paper discusses the economic analysis of anticoagulant treatment after myocardial infarction, which is related to the source paper's topic of antithrombotic therapy. However, it does not directly build upon the source paper's findings.",
+                    "relevance": 1
+                },
+                "3. Current concepts in anticoagulant therapy": {
+                    "explanation": "This paper provides an overview of anticoagulant therapy, including the use of warfarin and aspirin, but it does not directly reference or build upon the source paper's findings.",
+                    "relevance": 0
+                },
+                "4. Drugs and surgery in the prevention of ischemic stroke": {
+                    "explanation": "This paper discusses the use of antithrombotic agents, including warfarin and aspirin, in preventing ischemic stroke. While it is related to the source paper's topic, it does not directly build upon the source paper's findings.",
+                    "relevance": 1
+                },
+                "5. Use of antithrombotic agents during pregnancy": {
+                    "explanation": "This paper discusses the use of antithrombotic agents during pregnancy, which is a different population and context than the source paper.",
+                    "relevance": 0
+                },
+                "6. Monitoring combined antithrombotic treatments in patients with prosthetic heart valves using transcranial Doppler and coagulation markers": {
+                    "explanation": "This paper discusses the use of combined antithrombotic treatments in patients with prosthetic heart valves, which is related to the source paper's topic. The paper also mentions the use of coumarin and aspirin, which is similar to the source paper's combination of warfarin and aspirin.",
+                    "relevance": 2
+                },
+                "7. Antithrombotic therapy in patients with mechanical and biological prosthetic heart valves": {
+                    "explanation": "This paper discusses the use of antithrombotic therapy in patients with prosthetic heart valves, which is related to the source paper's topic. The paper also mentions the use of oral anticoagulants and the importance of maintaining a certain international normalized ratio (INR) range, which is similar to the source paper's discussion of warfarin therapy.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Monitoring combined antithrombotic treatments in patients with prosthetic heart valves using transcranial Doppler and coagulation markers": {
+                    "explanation": "This paper discusses the use of combined antithrombotic treatments in patients with prosthetic heart valves, which is related to the source paper's topic. The paper also mentions the use of coumarin and aspirin, which is similar to the source paper's combination of warfarin and aspirin.",
+                    "relevance": 2
+                },
+                "2. Antithrombotic therapy in patients with mechanical and biological prosthetic heart valves": {
+                    "explanation": "This paper discusses the use of antithrombotic therapy in patients with prosthetic heart valves, which is related to the source paper's topic. The paper also mentions the use of oral anticoagulants and the importance of maintaining a certain international normalized ratio (INR) range, which is similar to the source paper's discussion of warfarin therapy.",
+                    "relevance": 2
+                },
+                "3. Economics and efficacy in choosing oral anticoagulants or aspirin after myocardial infarction": {
+                    "explanation": "This paper discusses the economic analysis of anticoagulant treatment after myocardial infarction, which is related to the source paper's topic of antithrombotic therapy. However, it does not directly build upon the source paper's findings.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2007,
+        "source_paper": {
+            "paperId": "8be067c4c19c20391bbe8aaf1d1f0a13eb294eee",
+            "title": "Collaborative overview of randomised trials of antiplatelet therapy Prevention of death, myocardial infarction, and stroke by prolonged antiplatelet therapy in various categories of patients",
+            "abstract": "Abstract Objective: To determine the effects of \u201cprolonged\u201d antiplatelet therapy (that is, given for one month or more) on \u201cvascular events\u201d (non-fatal myocardial infarctions, non-fatal strokes, or vascular deaths) in various categories of patients. Design: Overviews of 145 randomised trials of \u201cprolonged\u201d antiplatelet therapy versus control and 29 randomised comparisons between such antiplatelet regimens. Setting: Randomised trials that could have been available by March 1990. Subjects: Trials of antiplatelet therapy versus control included about 70 000 \u201chigh risk\u201d patients (that is, with some vascular disease or other condition implying an increased risk of occlusive vascular disease) and 30 000 \u201clow risk\u201d subjects from the general population. Direct comparisons of different antiplatelet regimens involved about 10 000 high risk patients. Results: In each of four main high risk categories of patients antiplatelet therapy was definitely protective. The percentages of patients suffering a vascular event among those allocated antiplatelet therapy versus appropriately adjusted control percentages (and mean scheduled treatment durations and net absolute benefits) were: (a) among about 20 000 patients with acute myocardial infarction, 10% antiplatelet therapy v 14% control (one month benefit about 40 vascular events avoided per 1000 patients treated (2P< 0.00001)); (b) among about 20 000 patients with a past history of myocardial infarction, 13% antiplatelet therapy v 17% control (two year benefit about 40/1000 (2P<0.00001)); (c) among about 10 000 patients with a past history of stroke or transient ischaemic attack, 18% antiplatelet therapy v 22% control (three year benefit about 40/1000 (2P<0.00001)); (d) among about 20 000 patients with some other relevant medical history (unstable angina, stable angina, vascular surgery, angioplasty, atrial fibrillation, valvular disease, peripheral vascular disease, etc), 9% v 14% in 4000 patients with unstable angina (six month benefit about 50/1000 (2P<0.00001)) and 6% v 8% in 16 000 other high risk patients (one year benefit about 20/1000 (2P<0.00001)). Reductions in vascular events were about one quarter in each of these four main categories and were separately statistically significant in middle age and old age, in men and women, in hypertensive and normotensive patients, and in diabetic and non: diabetic patients. Taking all high risk patients together showed reductions of about one third in non-fatal myocardial infarction, about one third in non-fatal stroke, and about one sixth in vascular death (each 2P<0.00001). There was no evidence that non-vascular deaths were increased, so in each of the four main high risk categories overall mortality was significantly reduced. The most widely tested antiplatelet regimen was \u201cmedium dose\u201d (75-325 mg/day) aspirin. Doses throughout this range seemed similarly effective (although in an acute emergency it might be prudent to use an initial dose of 160-325 mg rather than about 75 mg). There was no appreciable evidence that either a higher aspirin dose or any other antiplatelet regimen was more effective than medium dose aspirin in preventing vascular events. The optimal duration of treatment for patients with a past history of myocardial infarction, stroke, or transient ischaemic attack could not be determined directly because most trials lasted only one, two, or three years (average about two years). Nevertheless, there was significant (2P<0.00001) further benefit between the end of year 1 and the end of year 3, suggesting that longer treatment might well be more effective. Among low risk recipients of \u201cprimary prevention\u201d a significant reduction of one third in non: fatal myocardial infarction was, however, accompanied by a non-significant increase in stroke. Furthermore, the absolute reduction in vascular events was much smaller than for high risk patients despite a much longer treatment period (4.4% antiplatelet therapy v 4.8% control; five year benefit only about four per 1000 patients treated) and was not significant (2P=0.09). Conclusions: Among a much wider range of patients at high risk of occlusive vascular disease than is currently treated routinely, some years of antiplatelet therapy - with aspirin 75-325 mg/day or some other antiplatelet regimen (provided there are no contraindications) - offers worthwhile protection against myocardial infarction, stroke, and death. Significant benefit is evident not only among patients with unstable angina, suspected acute myocardial infarction, or a past history of myocardial infarction, stroke, or transient ischaemic attack, but also among many other categories of high risk patients (such as those having vascular procedures and those with stable angina or peripheral vascular disease). There is as yet, however, no clear evidence on the balance of risks and benefits of antiplatelet therapy in primary prevention among low risk subjects.",
+            "year": 1994,
+            "citation_count": 3740,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the effects of antiplatelet therapy on preventing vascular events in various categories of patients, which is related to the source paper's findings on the efficacy and safety of adding aspirin to warfarin treatment in patients with heart-valve replacement."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Multimodal thromboprophylaxis for total hip and knee arthroplasty based on risk assessment": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it uses antiplatelet therapy (aspirin, dipyridamole, or clopidogrel bisulfate) as part of a multimodal approach to thromboprophylaxis.",
+                    "relevance": 2
+                },
+                "2. The challenge of ST\u2010segment elevation myocardial infarction": {
+                    "explanation": "This paper has no direct connection to the source paper, as it discusses the challenge of ST-segment elevation myocardial infarction without referencing antiplatelet therapy or its effects.",
+                    "relevance": 0
+                },
+                "3. [Aspirin in cardiovascular prevention: does the approach differ by gender?]": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effectiveness of aspirin therapy in primary prevention of cardiovascular disease and its potential differences between men and women.",
+                    "relevance": 1
+                },
+                "4. The Metabolic Syndrome and Cerebrovascular Disease: Suspicion and Evidence": {
+                    "explanation": "This paper has no direct connection to the source paper, as it discusses the metabolic syndrome and cerebrovascular disease without referencing antiplatelet therapy or its effects.",
+                    "relevance": 0
+                },
+                "5. Prospective observational study of acute coronary syndromes in China: practice patterns and outcomes": {
+                    "explanation": "This paper has no direct connection to the source paper, as it discusses the management of acute coronary syndromes in China without referencing antiplatelet therapy or its effects.",
+                    "relevance": 0
+                },
+                "6. Quality Indicators for the Care of Diabetes Mellitus in Vulnerable Elders": {
+                    "explanation": "This paper has no direct connection to the source paper, as it discusses the care of diabetes mellitus in vulnerable elders without referencing antiplatelet therapy or its effects.",
+                    "relevance": 0
+                },
+                "7. Is it time to stop treating dyslipidaemia with fibrates?": {
+                    "explanation": "This paper has no direct connection to the source paper, as it discusses the effectiveness of fibrates in treating dyslipidaemia without referencing antiplatelet therapy or its effects.",
+                    "relevance": 0
+                },
+                "8. Platelet function, antiplatelet therapy and clinical outcomes: to test or not to test?": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it discusses the relationship between platelet function, antiplatelet therapy, and clinical outcomes.",
+                    "relevance": 1
+                },
+                "9. An analysis of mortality rates with dual-antiplatelet therapy in the primary prevention population of the CHARISMA trial": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the effectiveness of dual-antiplatelet therapy in a primary prevention population.",
+                    "relevance": 2
+                },
+                "10. Missed opportunities for secondary prevention of cerebrovascular disease in elderly British men from 1999 to 2005: a population-based study": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the use of antiplatelet drugs in secondary prevention of cerebrovascular disease.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Multimodal thromboprophylaxis for total hip and knee arthroplasty based on risk assessment": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it uses antiplatelet therapy (aspirin, dipyridamole, or clopidogrel bisulfate) as part of a multimodal approach to thromboprophylaxis.",
+                    "relevance": 2
+                },
+                "2. An analysis of mortality rates with dual-antiplatelet therapy in the primary prevention population of the CHARISMA trial": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the effectiveness of dual-antiplatelet therapy in a primary prevention population.",
+                    "relevance": 2
+                },
+                "3. Missed opportunities for secondary prevention of cerebrovascular disease in elderly British men from 1999 to 2005: a population-based study": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the use of antiplatelet drugs in secondary prevention of cerebrovascular disease.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2007,
+        "source_paper": {
+            "paperId": "8be067c4c19c20391bbe8aaf1d1f0a13eb294eee",
+            "title": "Collaborative overview of randomised trials of antiplatelet therapy Prevention of death, myocardial infarction, and stroke by prolonged antiplatelet therapy in various categories of patients",
+            "abstract": "Abstract Objective: To determine the effects of \u201cprolonged\u201d antiplatelet therapy (that is, given for one month or more) on \u201cvascular events\u201d (non-fatal myocardial infarctions, non-fatal strokes, or vascular deaths) in various categories of patients. Design: Overviews of 145 randomised trials of \u201cprolonged\u201d antiplatelet therapy versus control and 29 randomised comparisons between such antiplatelet regimens. Setting: Randomised trials that could have been available by March 1990. Subjects: Trials of antiplatelet therapy versus control included about 70 000 \u201chigh risk\u201d patients (that is, with some vascular disease or other condition implying an increased risk of occlusive vascular disease) and 30 000 \u201clow risk\u201d subjects from the general population. Direct comparisons of different antiplatelet regimens involved about 10 000 high risk patients. Results: In each of four main high risk categories of patients antiplatelet therapy was definitely protective. The percentages of patients suffering a vascular event among those allocated antiplatelet therapy versus appropriately adjusted control percentages (and mean scheduled treatment durations and net absolute benefits) were: (a) among about 20 000 patients with acute myocardial infarction, 10% antiplatelet therapy v 14% control (one month benefit about 40 vascular events avoided per 1000 patients treated (2P< 0.00001)); (b) among about 20 000 patients with a past history of myocardial infarction, 13% antiplatelet therapy v 17% control (two year benefit about 40/1000 (2P<0.00001)); (c) among about 10 000 patients with a past history of stroke or transient ischaemic attack, 18% antiplatelet therapy v 22% control (three year benefit about 40/1000 (2P<0.00001)); (d) among about 20 000 patients with some other relevant medical history (unstable angina, stable angina, vascular surgery, angioplasty, atrial fibrillation, valvular disease, peripheral vascular disease, etc), 9% v 14% in 4000 patients with unstable angina (six month benefit about 50/1000 (2P<0.00001)) and 6% v 8% in 16 000 other high risk patients (one year benefit about 20/1000 (2P<0.00001)). Reductions in vascular events were about one quarter in each of these four main categories and were separately statistically significant in middle age and old age, in men and women, in hypertensive and normotensive patients, and in diabetic and non: diabetic patients. Taking all high risk patients together showed reductions of about one third in non-fatal myocardial infarction, about one third in non-fatal stroke, and about one sixth in vascular death (each 2P<0.00001). There was no evidence that non-vascular deaths were increased, so in each of the four main high risk categories overall mortality was significantly reduced. The most widely tested antiplatelet regimen was \u201cmedium dose\u201d (75-325 mg/day) aspirin. Doses throughout this range seemed similarly effective (although in an acute emergency it might be prudent to use an initial dose of 160-325 mg rather than about 75 mg). There was no appreciable evidence that either a higher aspirin dose or any other antiplatelet regimen was more effective than medium dose aspirin in preventing vascular events. The optimal duration of treatment for patients with a past history of myocardial infarction, stroke, or transient ischaemic attack could not be determined directly because most trials lasted only one, two, or three years (average about two years). Nevertheless, there was significant (2P<0.00001) further benefit between the end of year 1 and the end of year 3, suggesting that longer treatment might well be more effective. Among low risk recipients of \u201cprimary prevention\u201d a significant reduction of one third in non: fatal myocardial infarction was, however, accompanied by a non-significant increase in stroke. Furthermore, the absolute reduction in vascular events was much smaller than for high risk patients despite a much longer treatment period (4.4% antiplatelet therapy v 4.8% control; five year benefit only about four per 1000 patients treated) and was not significant (2P=0.09). Conclusions: Among a much wider range of patients at high risk of occlusive vascular disease than is currently treated routinely, some years of antiplatelet therapy - with aspirin 75-325 mg/day or some other antiplatelet regimen (provided there are no contraindications) - offers worthwhile protection against myocardial infarction, stroke, and death. Significant benefit is evident not only among patients with unstable angina, suspected acute myocardial infarction, or a past history of myocardial infarction, stroke, or transient ischaemic attack, but also among many other categories of high risk patients (such as those having vascular procedures and those with stable angina or peripheral vascular disease). There is as yet, however, no clear evidence on the balance of risks and benefits of antiplatelet therapy in primary prevention among low risk subjects.",
+            "year": 1994,
+            "citation_count": 3740,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the effects of antiplatelet therapy on preventing vascular events in various categories of patients, which is related to the source paper's findings on the efficacy and safety of adding aspirin to warfarin treatment in patients with heart-valve replacement."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. ACC/AHA 2007 guidelines for the management of patients with unstable angina/non-ST-Elevation myocardial infarction: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines (Writing Committee to Revise the 2002 Guidelines for the Management of Patie": {
+                    "explanation": "This paper provides guidelines for the management of patients with unstable angina/non-ST-Elevation myocardial infarction, which is related to the source paper's topic of antiplatelet therapy. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "2. Antiplatelet Therapy in Patients with Unstable Angina and Non\u2013ST\u2010Segment\u2010Elevation Myocardial Infarction: Findings from the CRUSADE National Quality Improvement Initiative": {
+                    "explanation": "This paper examines the use of antiplatelet therapy in patients with unstable angina and non-ST-segment-elevation myocardial infarction, which is a specific application of the antiplatelet therapy discussed in the source paper. The paper's findings are partially dependent on the source paper's results.",
+                    "relevance": 2
+                },
+                "3. Rofecoxib and cardiovascular adverse events in adjuvant treatment of colorectal cancer": {
+                    "explanation": "This paper investigates the cardiovascular risks associated with rofecoxib, a non-steroidal anti-inflammatory drug (NSAID), which is not directly related to the source paper's topic of antiplatelet therapy.",
+                    "relevance": 0
+                },
+                "4. The VIOXX in prostate cancer prevention study: cardiovascular events observed in the rofecoxib 25\u2009mg and placebo treatment groups*": {
+                    "explanation": "Similar to paper 3, this paper examines the cardiovascular risks associated with rofecoxib, which is not directly related to the source paper's topic of antiplatelet therapy.",
+                    "relevance": 0
+                },
+                "5. Dipyridamole for preventing stroke and other vascular events in patients with vascular disease": {
+                    "explanation": "This paper discusses the use of dipyridamole, an antiplatelet drug, for preventing stroke and other vascular events. The paper's findings are related to the source paper's topic, but do not directly build upon or depend on the source paper's results.",
+                    "relevance": 1
+                },
+                "6. An examination of the bleeding complications associated with herbal supplements, antiplatelet and anticoagulant medications": {
+                    "explanation": "This paper reviews the bleeding complications associated with herbal supplements, antiplatelet, and anticoagulant medications. While it mentions antiplatelet therapy, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "7. Aspirin-resistant platelet aggregation in a cohort of patients with coronary heart disease": {
+                    "explanation": "This paper investigates aspirin resistance in patients with coronary heart disease, which is a specific aspect of antiplatelet therapy discussed in the source paper. The paper's findings are partially dependent on the source paper's results.",
+                    "relevance": 2
+                },
+                "8. Current Treatment of Age-Related Macular Degeneration": {
+                    "explanation": "This paper discusses the treatment of age-related macular degeneration, which is not directly related to the source paper's topic of antiplatelet therapy.",
+                    "relevance": 0
+                },
+                "9. The role of clopidogrel in the management of ischemic heart disease": {
+                    "explanation": "This paper reviews the use of clopidogrel, an antiplatelet drug, in the management of ischemic heart disease. The paper's findings are related to the source paper's topic, but do not directly build upon or depend on the source paper's results.",
+                    "relevance": 1
+                },
+                "10. Peripheral arterial disease: Epidemiology, natural history, diagnosis and treatment": {
+                    "explanation": "This paper discusses peripheral arterial disease, which is a condition related to atherosclerosis and cardiovascular disease. While it mentions antiplatelet therapy, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Antiplatelet Therapy in Patients with Unstable Angina and Non\u2013ST\u2010Segment\u2010Elevation Myocardial Infarction: Findings from the CRUSADE National Quality Improvement Initiative": {
+                    "explanation": "This paper examines the use of antiplatelet therapy in patients with unstable angina and non-ST-segment-elevation myocardial infarction, which is a specific application of the antiplatelet therapy discussed in the source paper. The paper's findings are partially dependent on the source paper's results.",
+                    "relevance": 2
+                },
+                "2. Aspirin-resistant platelet aggregation in a cohort of patients with coronary heart disease": {
+                    "explanation": "This paper investigates aspirin resistance in patients with coronary heart disease, which is a specific aspect of antiplatelet therapy discussed in the source paper. The paper's findings are partially dependent on the source paper's results.",
+                    "relevance": 2
+                },
+                "3. ACC/AHA 2007 guidelines for the management of patients with unstable angina/non-ST-Elevation myocardial infarction: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines (Writing Committee to Revise the 2002 Guidelines for the Management of Patie": {
+                    "explanation": "This paper provides guidelines for the management of patients with unstable angina/non-ST-Elevation myocardial infarction, which is related to the source paper's topic of antiplatelet therapy. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2007,
+        "source_paper": {
+            "paperId": "8be067c4c19c20391bbe8aaf1d1f0a13eb294eee",
+            "title": "Collaborative overview of randomised trials of antiplatelet therapy Prevention of death, myocardial infarction, and stroke by prolonged antiplatelet therapy in various categories of patients",
+            "abstract": "Abstract Objective: To determine the effects of \u201cprolonged\u201d antiplatelet therapy (that is, given for one month or more) on \u201cvascular events\u201d (non-fatal myocardial infarctions, non-fatal strokes, or vascular deaths) in various categories of patients. Design: Overviews of 145 randomised trials of \u201cprolonged\u201d antiplatelet therapy versus control and 29 randomised comparisons between such antiplatelet regimens. Setting: Randomised trials that could have been available by March 1990. Subjects: Trials of antiplatelet therapy versus control included about 70 000 \u201chigh risk\u201d patients (that is, with some vascular disease or other condition implying an increased risk of occlusive vascular disease) and 30 000 \u201clow risk\u201d subjects from the general population. Direct comparisons of different antiplatelet regimens involved about 10 000 high risk patients. Results: In each of four main high risk categories of patients antiplatelet therapy was definitely protective. The percentages of patients suffering a vascular event among those allocated antiplatelet therapy versus appropriately adjusted control percentages (and mean scheduled treatment durations and net absolute benefits) were: (a) among about 20 000 patients with acute myocardial infarction, 10% antiplatelet therapy v 14% control (one month benefit about 40 vascular events avoided per 1000 patients treated (2P< 0.00001)); (b) among about 20 000 patients with a past history of myocardial infarction, 13% antiplatelet therapy v 17% control (two year benefit about 40/1000 (2P<0.00001)); (c) among about 10 000 patients with a past history of stroke or transient ischaemic attack, 18% antiplatelet therapy v 22% control (three year benefit about 40/1000 (2P<0.00001)); (d) among about 20 000 patients with some other relevant medical history (unstable angina, stable angina, vascular surgery, angioplasty, atrial fibrillation, valvular disease, peripheral vascular disease, etc), 9% v 14% in 4000 patients with unstable angina (six month benefit about 50/1000 (2P<0.00001)) and 6% v 8% in 16 000 other high risk patients (one year benefit about 20/1000 (2P<0.00001)). Reductions in vascular events were about one quarter in each of these four main categories and were separately statistically significant in middle age and old age, in men and women, in hypertensive and normotensive patients, and in diabetic and non: diabetic patients. Taking all high risk patients together showed reductions of about one third in non-fatal myocardial infarction, about one third in non-fatal stroke, and about one sixth in vascular death (each 2P<0.00001). There was no evidence that non-vascular deaths were increased, so in each of the four main high risk categories overall mortality was significantly reduced. The most widely tested antiplatelet regimen was \u201cmedium dose\u201d (75-325 mg/day) aspirin. Doses throughout this range seemed similarly effective (although in an acute emergency it might be prudent to use an initial dose of 160-325 mg rather than about 75 mg). There was no appreciable evidence that either a higher aspirin dose or any other antiplatelet regimen was more effective than medium dose aspirin in preventing vascular events. The optimal duration of treatment for patients with a past history of myocardial infarction, stroke, or transient ischaemic attack could not be determined directly because most trials lasted only one, two, or three years (average about two years). Nevertheless, there was significant (2P<0.00001) further benefit between the end of year 1 and the end of year 3, suggesting that longer treatment might well be more effective. Among low risk recipients of \u201cprimary prevention\u201d a significant reduction of one third in non: fatal myocardial infarction was, however, accompanied by a non-significant increase in stroke. Furthermore, the absolute reduction in vascular events was much smaller than for high risk patients despite a much longer treatment period (4.4% antiplatelet therapy v 4.8% control; five year benefit only about four per 1000 patients treated) and was not significant (2P=0.09). Conclusions: Among a much wider range of patients at high risk of occlusive vascular disease than is currently treated routinely, some years of antiplatelet therapy - with aspirin 75-325 mg/day or some other antiplatelet regimen (provided there are no contraindications) - offers worthwhile protection against myocardial infarction, stroke, and death. Significant benefit is evident not only among patients with unstable angina, suspected acute myocardial infarction, or a past history of myocardial infarction, stroke, or transient ischaemic attack, but also among many other categories of high risk patients (such as those having vascular procedures and those with stable angina or peripheral vascular disease). There is as yet, however, no clear evidence on the balance of risks and benefits of antiplatelet therapy in primary prevention among low risk subjects.",
+            "year": 1994,
+            "citation_count": 3740,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the effects of antiplatelet therapy on preventing vascular events in various categories of patients, which is related to the source paper's findings on the efficacy and safety of adding aspirin to warfarin treatment in patients with heart-valve replacement."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Meta-Analysis of Traditional Chinese Patent Medicine for Ischemic Stroke": {
+                    "explanation": "This paper is a meta-analysis and does not directly build upon the source paper's findings or hypotheses. It explores a different topic, focusing on traditional Chinese patent medicine for ischemic stroke, and lacks a direct connection to the source paper's investigation of antiplatelet therapy.",
+                    "relevance": 0
+                },
+                "2. Clopidogrel-induced Spontaneous Spinal Epidural Hematoma": {
+                    "explanation": "This paper explores a specific side effect of clopidogrel, an antiplatelet medication. While it is related to the broader topic of antiplatelet therapy, it does not directly build upon or depend on the findings of the source paper. Instead, it presents a case study of a rare side effect.",
+                    "relevance": 1
+                },
+                "3. An evaluation of two Rapid Access Chest Pain Clinics in central Lancashire, UK": {
+                    "explanation": "This paper has no direct connection to the source paper. It focuses on evaluating the services provided by two Rapid Access Chest Pain Clinics and does not explore antiplatelet therapy or its effects.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Clopidogrel-induced Spontaneous Spinal Epidural Hematoma": {
+                    "explanation": "This paper explores a specific side effect of clopidogrel, an antiplatelet medication. While it is related to the broader topic of antiplatelet therapy, it does not directly build upon or depend on the findings of the source paper. Instead, it presents a case study of a rare side effect.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2008,
+        "source_paper": {
+            "paperId": "7d33d7157e828d7288be21b59832d8903c77e077",
+            "title": "Multimodal thromboprophylaxis for total hip and knee arthroplasty based on risk assessment.",
+            "abstract": "BACKGROUND\nOrthopaedic surgeons are increasingly challenged to find a prophylaxis regimen that protects patients from thromboembolism while minimizing adverse clinical outcomes such as bleeding. We used a multimodal approach in which the treatment regimen is selected according to patient risk factors.\n\n\nMETHODS\nWe retrospectively reviewed the records on 1179 consecutive total joint arthroplasties in 970 patients who had undergone primary and revision total hip and total knee replacement. Preoperatively, patients were assigned to one of two deep venous thrombosis prophylactic regimens on the basis of an assessment of their risk factors. Eight hundred and fifty-six patients (1046 operations) were considered to be low risk and were managed with aspirin, dipyridamole, or clopidogrel bisulfate as well as intermittent pneumatic calf compression devices. One hundred and fourteen patients (133 operations) were considered to be high risk and were managed with low-molecular-weight heparin or warfarin and intermittent calf compression. All patients were mobilized from bed within twenty-four hours after surgery, and all underwent Doppler ultrasonography within the twenty-four hours before hospital discharge. All of the patients were followed for six months postoperatively. The prevalence of asymptomatic and symptomatic distal and proximal deep venous thrombosis, symptomatic and fatal pulmonary emboli, overall mortality, and bleeding complications was determined. Thrombotic events were expressed as a percentage of 1179 operations because some patients had two or more operations.\n\n\nRESULTS\nOverall, there were no fatal pulmonary emboli, three symptomatic pulmonary emboli (prevalence, 0.25%), and five clinically symptomatic deep venous thrombi (0.4%). Sixty-one asymptomatic deep venous thrombi (5.2%) were found with use of routine postoperative Doppler ultrasound scans. There were three deaths (prevalence, 0.25%) that were unrelated to thromboembolism, and there were two nonfatal gastrointestinal bleeding events (prevalence, 0.17%). Wound hematomas occurred in association with five (0.4%) of the 1179 operations. Three nonfatal pulmonary emboli (prevalence, 0.3%) were detected in association with the 1046 procedures in the low-risk group, and none were detected in association with the 133 operations in the high-risk group (p = 0.767). Clinically symptomatic deep venous thrombosis was detected in association with four (0.38%) of the 1046 operations in the low-risk group and one (0.75%) of the 133 operations in the high-risk group (p = 0.93). Asymptomatic distal deep venous thrombosis was detected in association with thirty-seven (3.5%) of the 1046 procedures in the low-risk group and four (3.0%) of the 133 operations in the high-risk group. Asymptomatic proximal thrombosis was detected in association with fourteen (1.3%) of the 1046 procedures in the low-risk group and six (4.5%) of the 133 procedures in the high-risk group (p = 0.03). Wound hematomas occurred only in patients being managed with warfarin or low-modular-weight heparin (p = 0.0001).\n\n\nCONCLUSIONS\nA multimodal thromboembolic prophylactic regimen is consistent with protecting patients while limiting adverse clinical outcomes secondary to thromboembolic, vascular, and bleeding complications.",
+            "year": 2007,
+            "citation_count": 130,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it uses antiplatelet therapy (aspirin, dipyridamole, or clopidogrel bisulfate) as part of a multimodal approach to thromboprophylaxis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Venous ultrasonography in symptomatic and asymptomatic patients: an updated review": {
+                    "explanation": "This paper is a review of venous ultrasonography and does not directly build upon the source paper's hypothesis or findings. It lacks novel hypotheses or findings that relate to the source paper's multimodal thromboprophylaxis approach.",
+                    "relevance": 0
+                },
+                "2. International normalized ratio and prothrombin time values before the removal of a lumbar plexus catheter in patients receiving warfarin after total hip replacement": {
+                    "explanation": "This paper explores the coagulation status of patients receiving warfarin after total hip replacement, which is related to the source paper's discussion of anticoagulant therapy. However, it does not directly build upon the source paper's hypothesis or findings, and instead, focuses on a specific aspect of anticoagulant management.",
+                    "relevance": 1
+                },
+                "3. VTE prevention in major orthopedic surgery": {
+                    "explanation": "This paper discusses the use of aspirin for thromboprophylaxis in elective joint replacement surgery, which is related to the source paper's multimodal approach to thromboembolic prophylaxis. The author's argument in favor of using aspirin is partially dependent on the idea of multimodal thromboprophylaxis, making it more relevant to the source paper.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. VTE prevention in major orthopedic surgery": {
+                    "explanation": "This paper discusses the use of aspirin for thromboprophylaxis in elective joint replacement surgery, which is related to the source paper's multimodal approach to thromboembolic prophylaxis. The author's argument in favor of using aspirin is partially dependent on the idea of multimodal thromboprophylaxis, making it more relevant to the source paper.",
+                    "relevance": 2
+                },
+                "2. International normalized ratio and prothrombin time values before the removal of a lumbar plexus catheter in patients receiving warfarin after total hip replacement": {
+                    "explanation": "This paper explores the coagulation status of patients receiving warfarin after total hip replacement, which is related to the source paper's discussion of anticoagulant therapy. However, it does not directly build upon the source paper's hypothesis or findings, and instead, focuses on a specific aspect of anticoagulant management.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2009,
+        "source_paper": {
+            "paperId": "7d33d7157e828d7288be21b59832d8903c77e077",
+            "title": "Multimodal thromboprophylaxis for total hip and knee arthroplasty based on risk assessment.",
+            "abstract": "BACKGROUND\nOrthopaedic surgeons are increasingly challenged to find a prophylaxis regimen that protects patients from thromboembolism while minimizing adverse clinical outcomes such as bleeding. We used a multimodal approach in which the treatment regimen is selected according to patient risk factors.\n\n\nMETHODS\nWe retrospectively reviewed the records on 1179 consecutive total joint arthroplasties in 970 patients who had undergone primary and revision total hip and total knee replacement. Preoperatively, patients were assigned to one of two deep venous thrombosis prophylactic regimens on the basis of an assessment of their risk factors. Eight hundred and fifty-six patients (1046 operations) were considered to be low risk and were managed with aspirin, dipyridamole, or clopidogrel bisulfate as well as intermittent pneumatic calf compression devices. One hundred and fourteen patients (133 operations) were considered to be high risk and were managed with low-molecular-weight heparin or warfarin and intermittent calf compression. All patients were mobilized from bed within twenty-four hours after surgery, and all underwent Doppler ultrasonography within the twenty-four hours before hospital discharge. All of the patients were followed for six months postoperatively. The prevalence of asymptomatic and symptomatic distal and proximal deep venous thrombosis, symptomatic and fatal pulmonary emboli, overall mortality, and bleeding complications was determined. Thrombotic events were expressed as a percentage of 1179 operations because some patients had two or more operations.\n\n\nRESULTS\nOverall, there were no fatal pulmonary emboli, three symptomatic pulmonary emboli (prevalence, 0.25%), and five clinically symptomatic deep venous thrombi (0.4%). Sixty-one asymptomatic deep venous thrombi (5.2%) were found with use of routine postoperative Doppler ultrasound scans. There were three deaths (prevalence, 0.25%) that were unrelated to thromboembolism, and there were two nonfatal gastrointestinal bleeding events (prevalence, 0.17%). Wound hematomas occurred in association with five (0.4%) of the 1179 operations. Three nonfatal pulmonary emboli (prevalence, 0.3%) were detected in association with the 1046 procedures in the low-risk group, and none were detected in association with the 133 operations in the high-risk group (p = 0.767). Clinically symptomatic deep venous thrombosis was detected in association with four (0.38%) of the 1046 operations in the low-risk group and one (0.75%) of the 133 operations in the high-risk group (p = 0.93). Asymptomatic distal deep venous thrombosis was detected in association with thirty-seven (3.5%) of the 1046 procedures in the low-risk group and four (3.0%) of the 133 operations in the high-risk group. Asymptomatic proximal thrombosis was detected in association with fourteen (1.3%) of the 1046 procedures in the low-risk group and six (4.5%) of the 133 procedures in the high-risk group (p = 0.03). Wound hematomas occurred only in patients being managed with warfarin or low-modular-weight heparin (p = 0.0001).\n\n\nCONCLUSIONS\nA multimodal thromboembolic prophylactic regimen is consistent with protecting patients while limiting adverse clinical outcomes secondary to thromboembolic, vascular, and bleeding complications.",
+            "year": 2007,
+            "citation_count": 130,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it uses antiplatelet therapy (aspirin, dipyridamole, or clopidogrel bisulfate) as part of a multimodal approach to thromboprophylaxis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Comparison of ACCP and AAOS guidelines for VTE prophylaxis after total hip and total knee arthroplasty": {
+                    "explanation": "This paper compares guidelines for VTE prophylaxis after total hip and total knee arthroplasty, which is related to the source paper's topic of multimodal thromboprophylaxis for total hip and knee arthroplasty. However, the paper does not build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "2. AAOS Guidelines for the Prevention of Symptomatic Pulmonary Embolism After Total Hip and Total Knee Arthroplasty: Advantages and Disadvantages": {
+                    "explanation": "This paper discusses guidelines for preventing symptomatic pulmonary embolism after total hip and total knee arthroplasty, which is related to the source paper's topic. The paper does not directly build upon the source paper, but it explores a similar area of research.",
+                    "relevance": 1
+                },
+                "3. Venous thromboembolism debate in joint arthroplasty": {
+                    "explanation": "This paper discusses the debate surrounding venous thromboembolism prevention in joint arthroplasty, which is related to the source paper's topic. However, the paper does not directly build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "4. What's new in total hip arthroplasty": {
+                    "explanation": "This paper provides an update on total hip arthroplasty, including topics such as venous thromboembolism. However, the paper is more of a review and does not directly build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Comparison of ACCP and AAOS guidelines for VTE prophylaxis after total hip and total knee arthroplasty": {
+                    "explanation": "This paper compares guidelines for VTE prophylaxis after total hip and total knee arthroplasty, which is related to the source paper's topic of multimodal thromboprophylaxis for total hip and knee arthroplasty. However, the paper does not build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "2. AAOS Guidelines for the Prevention of Symptomatic Pulmonary Embolism After Total Hip and Total Knee Arthroplasty: Advantages and Disadvantages": {
+                    "explanation": "This paper discusses guidelines for preventing symptomatic pulmonary embolism after total hip and total knee arthroplasty, which is related to the source paper's topic. The paper does not directly build upon the source paper, but it explores a similar area of research.",
+                    "relevance": 1
+                },
+                "3. Venous thromboembolism debate in joint arthroplasty": {
+                    "explanation": "This paper discusses the debate surrounding venous thromboembolism prevention in joint arthroplasty, which is related to the source paper's topic. However, the paper does not directly build upon or use the findings of the source paper as a sub-hypothesis.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2012,
+        "source_paper": {
+            "paperId": "03b83b4a72ccd566196d266e7562395c319d81fc",
+            "title": "VTE prevention in major orthopedic surgery.",
+            "abstract": "TO THE EDITOR: I must strongly disagree with Deitelzweig and colleagues\u2019 recommendations against the use of aspirin for thromboprophylaxis in elective joint replacement surgery.1 The references cited2\u20135 are outdated. In the last few years, in patients undergoing minimally invasive hip replacement (done either posterolaterally or via an anterior approach with epidural anesthesia), early ambulation and thromboprophylaxis with compression boots and enteric-coated aspirin (or alternative antiplatelet agents in patients allergic to aspirin) has been associated with a lower incidence of deep vein thrombosis (DVT) and postoperative bleeding than either enoxaparin or fondaparinux.6\u20139 Our experience in Los Angeles under the direction of Dr. Lawrence Dorr, past president of the Hip Society, is also instructive: minimally invasive hip replacement performed via a posterior approach with a 2to 3-day length of stay and with the use of multimodal thromboprophylaxis including aspirin (or an alternate antiplatelet) has resulted in a low incidence of proximal DVT and no deaths from pulmonary embolism.10 Our experience with total knee replacement is similar but has included a slightly higher rate of DVT in patients older than 75 years of age.10 The American Academy of Orthopaedic Surgeons has clearly supported the use of aspirin as an effective modality for DVT prophylaxis.11 We are patiently awaiting the newest recommendations from the American College of Chest Physicians, which I believe should incorporate aspirin in DVT prophylaxis and thus get medical physicians on the same page as orthopedic surgeons.",
+            "year": 2008,
+            "citation_count": 4,
+            "relevance": 2,
+            "explanation": "This paper discusses the use of aspirin for thromboprophylaxis in elective joint replacement surgery, which is related to the source paper's multimodal approach to thromboembolic prophylaxis. The author's argument in favor of using aspirin is partially dependent on the idea of multimodal thromboprophylaxis, making it more relevant to the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Thromboprophylaxis, bleeding and post-operative prosthetic joint infection in total hip and knee arthroplasty: a comprehensive literature review": {
+                    "explanation": "This paper has no connection with the source paper as it is a review paper that summarizes existing literature on thromboprophylaxis, bleeding, and post-operative prosthetic joint infection in total hip and knee arthroplasty, without presenting novel hypotheses or findings inspired by the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2012,
+        "source_paper": {
+            "paperId": "03b83b4a72ccd566196d266e7562395c319d81fc",
+            "title": "VTE prevention in major orthopedic surgery.",
+            "abstract": "TO THE EDITOR: I must strongly disagree with Deitelzweig and colleagues\u2019 recommendations against the use of aspirin for thromboprophylaxis in elective joint replacement surgery.1 The references cited2\u20135 are outdated. In the last few years, in patients undergoing minimally invasive hip replacement (done either posterolaterally or via an anterior approach with epidural anesthesia), early ambulation and thromboprophylaxis with compression boots and enteric-coated aspirin (or alternative antiplatelet agents in patients allergic to aspirin) has been associated with a lower incidence of deep vein thrombosis (DVT) and postoperative bleeding than either enoxaparin or fondaparinux.6\u20139 Our experience in Los Angeles under the direction of Dr. Lawrence Dorr, past president of the Hip Society, is also instructive: minimally invasive hip replacement performed via a posterior approach with a 2to 3-day length of stay and with the use of multimodal thromboprophylaxis including aspirin (or an alternate antiplatelet) has resulted in a low incidence of proximal DVT and no deaths from pulmonary embolism.10 Our experience with total knee replacement is similar but has included a slightly higher rate of DVT in patients older than 75 years of age.10 The American Academy of Orthopaedic Surgeons has clearly supported the use of aspirin as an effective modality for DVT prophylaxis.11 We are patiently awaiting the newest recommendations from the American College of Chest Physicians, which I believe should incorporate aspirin in DVT prophylaxis and thus get medical physicians on the same page as orthopedic surgeons.",
+            "year": 2008,
+            "citation_count": 4,
+            "relevance": 2,
+            "explanation": "This paper discusses the use of aspirin for thromboprophylaxis in elective joint replacement surgery, which is related to the source paper's multimodal approach to thromboembolic prophylaxis. The author's argument in favor of using aspirin is partially dependent on the idea of multimodal thromboprophylaxis, making it more relevant to the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Thromboprophylaxis, bleeding and post-operative prosthetic joint infection in total hip and knee arthroplasty: a comprehensive literature review": {
+                    "explanation": "This paper has no connection with the source paper as it is a review paper that discusses various thromboprophylaxis methods, including anticoagulant drugs, but does not build upon or utilize the findings of the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    }
+]

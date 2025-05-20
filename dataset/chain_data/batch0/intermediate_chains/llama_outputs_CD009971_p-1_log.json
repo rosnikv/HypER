@@ -1,0 +1,617 @@
+[
+    {
+        "year": 2013,
+        "source_paper": {
+            "paperId": "39a379dcafe2efad094c9d8e38c120494a4bdf60",
+            "pmid": "22528165",
+            "title": "STAR VaS - Short Term Atorvastatin Regime for Vasculopathic Subjects: a randomized placebo-controlled trial evaluating perioperative atorvastatin therapy in noncardiac surgery",
+            "abstract": null,
+            "year": 2012,
+            "citation_count": 17
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Perioperative statin therapy for improving outcomes during and after noncardiac vascular surgery": {
+                    "explanation": "This paper is a review of existing literature, summarizing the current state of knowledge on perioperative statin therapy in noncardiac vascular surgery. It does not present novel findings or hypotheses, but rather aims to synthesize existing evidence.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2014,
+        "source_paper": {
+            "paperId": "39a379dcafe2efad094c9d8e38c120494a4bdf60",
+            "pmid": "22528165",
+            "title": "STAR VaS - Short Term Atorvastatin Regime for Vasculopathic Subjects: a randomized placebo-controlled trial evaluating perioperative atorvastatin therapy in noncardiac surgery",
+            "abstract": null,
+            "year": 2012,
+            "citation_count": 17
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Effects of adding statins before surgery on mortality and major morbidity: a meta-analysis": {
+                    "explanation": "This paper is a meta-analysis that summarizes existing literature on the effects of adding statins before surgery, and does not have a direct connection with the source paper. The source paper investigates the effects of perioperative atorvastatin therapy in noncardiac surgery, while the meta-analysis explores the broader topic of statin therapy before surgery.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2014,
+        "source_paper": {
+            "paperId": "39a379dcafe2efad094c9d8e38c120494a4bdf60",
+            "pmid": "22528165",
+            "title": "STAR VaS - Short Term Atorvastatin Regime for Vasculopathic Subjects: a randomized placebo-controlled trial evaluating perioperative atorvastatin therapy in noncardiac surgery",
+            "abstract": null,
+            "year": 2012,
+            "citation_count": 17
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Effects of adding statins before surgery on mortality and major morbidity: a meta-analysis": {
+                    "explanation": "This paper is a review paper, as indicated by the term'meta-analysis' in the title, and lacks novel hypotheses or findings. It does not build upon or partially depend on the findings of the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2016,
+        "source_paper": {
+            "paperId": "39a379dcafe2efad094c9d8e38c120494a4bdf60",
+            "pmid": "22528165",
+            "title": "STAR VaS - Short Term Atorvastatin Regime for Vasculopathic Subjects: a randomized placebo-controlled trial evaluating perioperative atorvastatin therapy in noncardiac surgery",
+            "abstract": null,
+            "year": 2012,
+            "citation_count": 17
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Association between pre-operative statin use and major cardiovascular complications among patients undergoing non-cardiac surgery: the VISION study": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effects of pre-operative statin therapy on cardiovascular events in non-cardiac surgery, building on the source paper's results regarding perioperative atorvastatin therapy.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Association between pre-operative statin use and major cardiovascular complications among patients undergoing non-cardiac surgery: the VISION study": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effects of pre-operative statin therapy on cardiovascular events in non-cardiac surgery, building on the source paper's results regarding perioperative atorvastatin therapy.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2017,
+        "source_paper": {
+            "paperId": "7ca4e8529030989395019701e7b3c684f530ed41",
+            "title": "Association between pre-operative statin use and major cardiovascular complications among patients undergoing non-cardiac surgery: the VISION study.",
+            "abstract": "AIMS\nThe aim of this study was to assess the effects of pre-operative statin therapy on cardiovascular events in the first 30-days after non-cardiac surgery.\n\n\nMETHODS AND RESULTS\nWe conducted an international, prospective, cohort study of patients who were \u226545 years having in-patient non-cardiac surgery. We estimated the probability of receiving statins pre-operatively using a multivariable logistic model and conducted a propensity score analysis to correct for confounding. A total of 15 478 patients were recruited at 12 centres in eight countries from August 2007 to January 2011. The matched population consisted of 2845 patients (18.4%) treated with a statin and 4492 (29.0%) controls. The pre-operative use of statins was associated with lower risk of the primary outcome, a composite of all-cause mortality, myocardial injury after non-cardiac surgery (MINS), or stroke at 30 days [relative risk (RR), 0.83; 95% confidence interval (CI), 0.73-0.95; P = 0.007]. Statins were also associated with a significant lower risk of all-cause mortality (RR, 0.58; 95% CI, 0.40-0.83; P = 0.003), cardiovascular mortality (RR, 0.42; 95% CI, 0.23-0.76; P = 0.004), and MINS (RR, 0.86; 95% CI, 0.73-0.98; P = 0.02). There were no statistically significant differences in the risk of myocardial infarction or stroke.\n\n\nCONCLUSION\nAmong patients undergoing non-cardiac surgery, pre-operative statin therapy was independently associated with a lower risk of cardiovascular outcomes at 30 days. These results require confirmation in a large randomized trial.\n\n\nCLINICAL TRIAL REGISTRATION\nClinical Trials.gov NCT00512109.",
+            "year": 2016,
+            "citation_count": 110,
+            "relevance": 1,
+            "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effects of pre-operative statin therapy on cardiovascular events in non-cardiac surgery, building on the source paper's results regarding perioperative atorvastatin therapy."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Perioperative acute myocardial infarction associated with non-cardiac surgery": {
+                    "explanation": "This paper explores the incidence and management of perioperative acute myocardial infarction (AMI), which is a cardiovascular complication that can occur after non-cardiac surgery. Although the paper does not directly build upon the source paper's findings, it is related to the same topic of cardiovascular events in the perioperative period. Therefore, it has a relevance score of 1.",
+                    "relevance": 1
+                },
+                "2. Bleeding impacting mortality after noncardiac surgery: a protocol to establish diagnostic criteria, estimate prognostic importance, and develop and validate a prediction guide in an international prospective cohort study": {
+                    "explanation": "This paper is a protocol for a study that aims to establish diagnostic criteria for bleeding impacting mortality after noncardiac surgery. The study uses data from the VISION study, which is the same study as the source paper. However, the paper does not directly build upon the source paper's findings, but rather uses the same data to explore a different research question. Therefore, it has a relevance score of 1.",
+                    "relevance": 1
+                },
+                "3. Withholding versus Continuing Angiotensin-converting Enzyme Inhibitors or Angiotensin II Receptor Blockers before Noncardiac Surgery: An Analysis of the Vascular events In noncardiac Surgery patIents cOhort evaluatioN Prospective Cohort": {
+                    "explanation": "This paper explores the effect of withholding angiotensin-converting enzyme inhibitors or angiotensin II receptor blockers before noncardiac surgery on cardiovascular outcomes. The study uses data from the VISION study, which is the same study as the source paper. The paper's findings are partially dependent on the source paper's findings, as they explore a related research question using the same data. Therefore, it has a relevance score of 2.",
+                    "relevance": 2
+                },
+                "4. Altered preoperative coagulation and fibrinolysis are associated with myocardial injury after non\u2010cardiac surgery": {
+                    "explanation": "This paper explores the association between preoperative coagulation and fibrinolysis and myocardial injury after non-cardiac surgery. The study uses data from the VISION study, which is the same study as the source paper. The paper's findings are partially dependent on the source paper's findings, as they explore a related research question using the same data. Therefore, it has a relevance score of 2.",
+                    "relevance": 2
+                },
+                "5. Medical treatment strategies to reduce perioperative morbidity and mortality after carotid surgery": {
+                    "explanation": "This paper discusses medical treatment strategies to reduce perioperative morbidity and mortality after carotid surgery. Although the paper is related to the topic of perioperative cardiovascular events, it does not directly build upon the source paper's findings. Therefore, it has a relevance score of 1.",
+                    "relevance": 1
+                },
+                "6. Association of Perioperative Statin Use With Mortality and Morbidity After Major Noncardiac Surgery": {
+                    "explanation": "This paper explores the association between perioperative statin use and mortality and morbidity after major noncardiac surgery. The paper's findings are related to the source paper's findings, as they both explore the effect of statins on cardiovascular outcomes in the perioperative period. However, the paper does not directly build upon the source paper's findings, but rather explores a related research question using a different dataset. Therefore, it has a relevance score of 1.",
+                    "relevance": 1
+                },
+                "7. Perioperative Major Adverse Cardiovascular and Cerebrovascular Events Associated With Noncardiac Surgery": {
+                    "explanation": "This paper explores the incidence of perioperative major adverse cardiovascular and cerebrovascular events (MACCE) associated with noncardiac surgery. Although the paper is related to the topic of perioperative cardiovascular events, it does not directly build upon the source paper's findings. Therefore, it has a relevance score of 1.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Withholding versus Continuing Angiotensin-converting Enzyme Inhibitors or Angiotensin II Receptor Blockers before Noncardiac Surgery: An Analysis of the Vascular events In noncardiac Surgery patIents cOhort evaluatioN Prospective Cohort": {
+                    "explanation": "This paper explores the effect of withholding angiotensin-converting enzyme inhibitors or angiotensin II receptor blockers before noncardiac surgery on cardiovascular outcomes. The study uses data from the VISION study, which is the same study as the source paper. The paper's findings are partially dependent on the source paper's findings, as they explore a related research question using the same data. Therefore, it has a relevance score of 2.",
+                    "relevance": 2
+                },
+                "2. Altered preoperative coagulation and fibrinolysis are associated with myocardial injury after non\u2010cardiac surgery": {
+                    "explanation": "This paper explores the association between preoperative coagulation and fibrinolysis and myocardial injury after non-cardiac surgery. The study uses data from the VISION study, which is the same study as the source paper. The paper's findings are partially dependent on the source paper's findings, as they explore a related research question using the same data. Therefore, it has a relevance score of 2.",
+                    "relevance": 2
+                },
+                "3. Perioperative acute myocardial infarction associated with non-cardiac surgery": {
+                    "explanation": "This paper explores the incidence and management of perioperative acute myocardial infarction (AMI), which is a cardiovascular complication that can occur after non-cardiac surgery. Although the paper does not directly build upon the source paper's findings, it is related to the same topic of cardiovascular events in the perioperative period. Therefore, it has a relevance score of 1.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2018,
+        "source_paper": {
+            "paperId": "7ca4e8529030989395019701e7b3c684f530ed41",
+            "title": "Association between pre-operative statin use and major cardiovascular complications among patients undergoing non-cardiac surgery: the VISION study.",
+            "abstract": "AIMS\nThe aim of this study was to assess the effects of pre-operative statin therapy on cardiovascular events in the first 30-days after non-cardiac surgery.\n\n\nMETHODS AND RESULTS\nWe conducted an international, prospective, cohort study of patients who were \u226545 years having in-patient non-cardiac surgery. We estimated the probability of receiving statins pre-operatively using a multivariable logistic model and conducted a propensity score analysis to correct for confounding. A total of 15 478 patients were recruited at 12 centres in eight countries from August 2007 to January 2011. The matched population consisted of 2845 patients (18.4%) treated with a statin and 4492 (29.0%) controls. The pre-operative use of statins was associated with lower risk of the primary outcome, a composite of all-cause mortality, myocardial injury after non-cardiac surgery (MINS), or stroke at 30 days [relative risk (RR), 0.83; 95% confidence interval (CI), 0.73-0.95; P = 0.007]. Statins were also associated with a significant lower risk of all-cause mortality (RR, 0.58; 95% CI, 0.40-0.83; P = 0.003), cardiovascular mortality (RR, 0.42; 95% CI, 0.23-0.76; P = 0.004), and MINS (RR, 0.86; 95% CI, 0.73-0.98; P = 0.02). There were no statistically significant differences in the risk of myocardial infarction or stroke.\n\n\nCONCLUSION\nAmong patients undergoing non-cardiac surgery, pre-operative statin therapy was independently associated with a lower risk of cardiovascular outcomes at 30 days. These results require confirmation in a large randomized trial.\n\n\nCLINICAL TRIAL REGISTRATION\nClinical Trials.gov NCT00512109.",
+            "year": 2016,
+            "citation_count": 110,
+            "relevance": 1,
+            "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effects of pre-operative statin therapy on cardiovascular events in non-cardiac surgery, building on the source paper's results regarding perioperative atorvastatin therapy."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Causes and prevention of postoperative myocardial injury": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper. The source paper found that pre-operative statin use is associated with a lower risk of cardiovascular outcomes, and this paper investigates the prevention of postoperative myocardial injury, considering statins as a potential preventive option.",
+                    "relevance": 2
+                },
+                "2. A meta-analysis of pharmacological neuroprotection in noncardiac surgery: focus on statins, lidocaine, ketamine, and magnesium sulfate.": {
+                    "explanation": "This paper is a review of existing literature, summarizing the effects of various pharmacological agents, including statins, on cerebral complications in noncardiac surgery. Although it mentions statins, it does not build upon the source paper's findings or use them as a sub-hypothesis.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Causes and prevention of postoperative myocardial injury": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper. The source paper found that pre-operative statin use is associated with a lower risk of cardiovascular outcomes, and this paper investigates the prevention of postoperative myocardial injury, considering statins as a potential preventive option.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2018,
+        "source_paper": {
+            "paperId": "bd3dc495a28928a4e179324c33caedc5d5ccf606",
+            "title": "Withholding versus Continuing Angiotensin-converting Enzyme Inhibitors or Angiotensin II Receptor Blockers before Noncardiac Surgery: An Analysis of the Vascular events In noncardiac Surgery patIents cOhort evaluatioN Prospective Cohort",
+            "abstract": "Background: The effect on cardiovascular outcomes of withholding angiotensin-converting enzyme inhibitors or angiotensin II receptor blockers in chronic users before noncardiac surgery is unknown. Methods: In this international prospective cohort study, the authors analyzed data from 14,687 patients (including 4,802 angiotensin-converting enzyme inhibitor/angiotensin II receptor blocker users) at least 45 yr old who had in-patient noncardiac surgery from 2007 to 2011. Using multivariable regression models, the authors studied the relationship between withholding angiotensin-converting enzyme inhibitors/angiotensin II receptor blockers and a primary composite outcome of all-cause death, stroke, or myocardial injury after noncardiac surgery at 30 days, with intraoperative and postoperative clinically important hypotension as secondary outcomes. Results: Compared to patients who continued their angiotensin-converting enzyme inhibitors/angiotensin II receptor blockers, the 1,245 (26%) angiotensin-converting enzyme inhibitor/angiotensin II receptor blocker users who withheld their angiotensin-converting enzyme inhibitors/angiotensin II receptor blockers in the 24\u2009h before surgery were less likely to suffer the primary composite outcome of all-cause death, stroke, or myocardial injury (150/1,245 [12.0%] vs. 459/3,557 [12.9%]; adjusted relative risk, 0.82; 95% CI, 0.70 to 0.96; P = 0.01) and intraoperative hypotension (adjusted relative risk, 0.80; 95% CI, 0.72 to 0.93; P < 0.001). The risk of postoperative hypotension was similar between the two groups (adjusted relative risk, 0.92; 95% CI, 0.77 to 1.10; P = 0.36). Results were consistent across the range of preoperative blood pressures. The practice of withholding angiotensin-converting enzyme inhibitors/angiotensin II receptor blockers was only modestly correlated with patient characteristics and the type and timing of surgery. Conclusions: Withholding angiotensin-converting enzyme inhibitors/angiotensin II receptor blockers before major noncardiac surgery was associated with a lower risk of death and postoperative vascular events. A large randomized trial is needed to confirm this finding. In the interim, clinicians should consider recommending that patients withhold angiotensin-converting enzyme inhibitors/angiotensin II receptor blockers 24\u2009h before surgery.",
+            "year": 2017,
+            "citation_count": 231,
+            "relevance": 2,
+            "explanation": "This paper explores the effect of withholding angiotensin-converting enzyme inhibitors or angiotensin II receptor blockers before noncardiac surgery on cardiovascular outcomes. The study uses data from the VISION study, which is the same study as the source paper. The paper's findings are partially dependent on the source paper's findings, as they explore a related research question using the same data. Therefore, it has a relevance score of 2."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Bronchial Blocker Use in the Difficult Airway Patient Requiring Lung Isolation: Clarification as to What Blockers Are Actually Available": {
+                    "explanation": "This paper has no connection to the source paper as it discusses bronchial blockers and their use in difficult airway patients, which is unrelated to the topic of angiotensin-converting enzyme inhibitors or angiotensin II receptor blockers in noncardiac surgery.",
+                    "relevance": 0
+                },
+                "2. Myocardial infarction following fast-track total hip and knee arthroplasty\u2014incidence, time course, and risk factors: a prospective cohort study of 24,862 procedures": {
+                    "explanation": "This paper has no direct connection to the source paper, as it discusses the incidence and risk factors of myocardial infarction after total hip and knee arthroplasty, which is a different topic than the management of angiotensin-converting enzyme inhibitors or angiotensin II receptor blockers in noncardiac surgery.",
+                    "relevance": 0
+                },
+                "3. Comparison of Angiotensin\u2010Converting Enzyme Inhibitor and Angiotensin Receptor Blocker Management Strategies Before Cardiac Surgery: A Pilot Randomized Controlled Registry Trial": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the management strategies of angiotensin-converting enzyme inhibitors and angiotensin receptor blockers before cardiac surgery, building on the source paper's results regarding the effects of withholding these medications in noncardiac surgery.",
+                    "relevance": 2
+                },
+                "4. Association between peri\u2010operative angiotensin\u2010converting enzyme inhibitors and angiotensin\u20102 receptor blockers and acute kidney injury in major elective non\u2010cardiac surgery: a multicentre, prospective cohort study": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the association between perioperative angiotensin-converting enzyme inhibitors and angiotensin-2 receptor blockers and acute kidney injury in major elective noncardiac surgery, building on the source paper's results regarding the effects of withholding these medications in noncardiac surgery.",
+                    "relevance": 2
+                },
+                "5. Prolonged Postoperative Vasoplegia in Pediatric Patients on Chronic Angiotensin II Blocker Treatment": {
+                    "explanation": "This paper is inspired by the findings of the source paper, as it discusses the management of angiotensin II blockers in pediatric patients undergoing surgery, which is related to the topic of the source paper.",
+                    "relevance": 1
+                },
+                "6. Angiotensin-Converting Enzyme Inhibitors and Angiotensin II Receptor Blockers Before Elective Noncardiac Surgery: An Ongoing Dilemma": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the ongoing dilemma of managing angiotensin-converting enzyme inhibitors and angiotensin II receptor blockers before elective noncardiac surgery, building on the source paper's results regarding the effects of withholding these medications in noncardiac surgery.",
+                    "relevance": 2
+                },
+                "7. A Systematic Review of Outcomes Associated With Withholding or Continuing Angiotensin-Converting Enzyme Inhibitors and Angiotensin Receptor Blockers Before Noncardiac Surgery": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the outcomes associated with withholding or continuing angiotensin-converting enzyme inhibitors and angiotensin receptor blockers before noncardiac surgery, building on the source paper's results regarding the effects of withholding these medications in noncardiac surgery.",
+                    "relevance": 2
+                },
+                "8. Losartan does not decrease renal oxygenation and norepinephrine effects in rats after resuscitated hemorrhage": {
+                    "explanation": "This paper has no direct connection to the source paper, as it discusses the effects of losartan on renal oxygenation and norepinephrine effects in rats after resuscitated hemorrhage, which is a different topic than the management of angiotensin-converting enzyme inhibitors or angiotensin II receptor blockers in noncardiac surgery.",
+                    "relevance": 0
+                },
+                "9. Perioperative Management of ACE Inhibitor Therapy: Challenges of Clinical Decision Making Based on Surrogate Endpoints": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the perioperative management of ACE inhibitor therapy, building on the source paper's results regarding the effects of withholding these medications in noncardiac surgery.",
+                    "relevance": 2
+                },
+                "10. Prospective Randomized Evaluation of Preoperative Angiotensin-Converting Enzyme Inhibition (PREOP-ACEI)": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the preoperative angiotensin-converting enzyme inhibition in noncardiac surgery, building on the source paper's results regarding the effects of withholding these medications in noncardiac surgery.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Comparison of Angiotensin\u2010Converting Enzyme Inhibitor and Angiotensin Receptor Blocker Management Strategies Before Cardiac Surgery: A Pilot Randomized Controlled Registry Trial": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the management strategies of angiotensin-converting enzyme inhibitors and angiotensin receptor blockers before cardiac surgery, building on the source paper's results regarding the effects of withholding these medications in noncardiac surgery.",
+                    "relevance": 2
+                },
+                "2. Association between peri\u2010operative angiotensin\u2010converting enzyme inhibitors and angiotensin\u20102 receptor blockers and acute kidney injury in major elective non\u2010cardiac surgery: a multicentre, prospective cohort study": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the association between perioperative angiotensin-converting enzyme inhibitors and angiotensin-2 receptor blockers and acute kidney injury in major elective noncardiac surgery, building on the source paper's results regarding the effects of withholding these medications in noncardiac surgery.",
+                    "relevance": 2
+                },
+                "3. A Systematic Review of Outcomes Associated With Withholding or Continuing Angiotensin-Converting Enzyme Inhibitors and Angiotensin Receptor Blockers Before Noncardiac Surgery": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the outcomes associated with withholding or continuing angiotensin-converting enzyme inhibitors and angiotensin receptor blockers before noncardiac surgery, building on the source paper's results regarding the effects of withholding these medications in noncardiac surgery.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2018,
+        "source_paper": {
+            "paperId": "bd3dc495a28928a4e179324c33caedc5d5ccf606",
+            "title": "Withholding versus Continuing Angiotensin-converting Enzyme Inhibitors or Angiotensin II Receptor Blockers before Noncardiac Surgery: An Analysis of the Vascular events In noncardiac Surgery patIents cOhort evaluatioN Prospective Cohort",
+            "abstract": "Background: The effect on cardiovascular outcomes of withholding angiotensin-converting enzyme inhibitors or angiotensin II receptor blockers in chronic users before noncardiac surgery is unknown. Methods: In this international prospective cohort study, the authors analyzed data from 14,687 patients (including 4,802 angiotensin-converting enzyme inhibitor/angiotensin II receptor blocker users) at least 45 yr old who had in-patient noncardiac surgery from 2007 to 2011. Using multivariable regression models, the authors studied the relationship between withholding angiotensin-converting enzyme inhibitors/angiotensin II receptor blockers and a primary composite outcome of all-cause death, stroke, or myocardial injury after noncardiac surgery at 30 days, with intraoperative and postoperative clinically important hypotension as secondary outcomes. Results: Compared to patients who continued their angiotensin-converting enzyme inhibitors/angiotensin II receptor blockers, the 1,245 (26%) angiotensin-converting enzyme inhibitor/angiotensin II receptor blocker users who withheld their angiotensin-converting enzyme inhibitors/angiotensin II receptor blockers in the 24\u2009h before surgery were less likely to suffer the primary composite outcome of all-cause death, stroke, or myocardial injury (150/1,245 [12.0%] vs. 459/3,557 [12.9%]; adjusted relative risk, 0.82; 95% CI, 0.70 to 0.96; P = 0.01) and intraoperative hypotension (adjusted relative risk, 0.80; 95% CI, 0.72 to 0.93; P < 0.001). The risk of postoperative hypotension was similar between the two groups (adjusted relative risk, 0.92; 95% CI, 0.77 to 1.10; P = 0.36). Results were consistent across the range of preoperative blood pressures. The practice of withholding angiotensin-converting enzyme inhibitors/angiotensin II receptor blockers was only modestly correlated with patient characteristics and the type and timing of surgery. Conclusions: Withholding angiotensin-converting enzyme inhibitors/angiotensin II receptor blockers before major noncardiac surgery was associated with a lower risk of death and postoperative vascular events. A large randomized trial is needed to confirm this finding. In the interim, clinicians should consider recommending that patients withhold angiotensin-converting enzyme inhibitors/angiotensin II receptor blockers 24\u2009h before surgery.",
+            "year": 2017,
+            "citation_count": 231,
+            "relevance": 2,
+            "explanation": "This paper explores the effect of withholding angiotensin-converting enzyme inhibitors or angiotensin II receptor blockers before noncardiac surgery on cardiovascular outcomes. The study uses data from the VISION study, which is the same study as the source paper. The paper's findings are partially dependent on the source paper's findings, as they explore a related research question using the same data. Therefore, it has a relevance score of 2."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Perioperative management of angiotensin-converting enzyme inhibitors and/or angiotensin receptor blockers: a survey of perioperative medicine practitioners": {
+                    "explanation": "This paper explores the perioperative management of angiotensin-converting enzyme inhibitors (ACEi) and angiotensin receptor blockers (ARB), which is related to the source paper's topic of withholding ACEi/ARB before noncardiac surgery. However, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                },
+                "2. Perioperative management of hypertension": {
+                    "explanation": "This paper discusses the perioperative management of hypertension, which is a related topic to the source paper. However, it does not specifically focus on ACEi/ARB management and does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 0
+                },
+                "3. 2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines.": {
+                    "explanation": "This paper is a review paper that provides guidelines for the management of high blood pressure in adults. It does not directly build upon or depend on the source paper's findings, and its topic is more general than the source paper's focus on ACEi/ARB management.",
+                    "relevance": 0
+                },
+                "4. 2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults: Executive Summary: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines.": {
+                    "explanation": "This paper is a review paper that provides an executive summary of guidelines for the management of high blood pressure in adults. It does not directly build upon or depend on the source paper's findings, and its topic is more general than the source paper's focus on ACEi/ARB management.",
+                    "relevance": 0
+                },
+                "5. Improved predictive models for acute kidney injury with IDEA: Intraoperative Data Embedded Analytics": {
+                    "explanation": "This paper discusses the development of predictive models for acute kidney injury using intraoperative data. While it touches on perioperative management, it does not directly relate to the source paper's topic of ACEi/ARB management.",
+                    "relevance": 0
+                },
+                "6. Cardiovascular complications after non\u2010cardiac surgery": {
+                    "explanation": "This paper discusses cardiovascular complications after non-cardiac surgery, which is a related topic to the source paper. However, it does not specifically focus on ACEi/ARB management and does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Perioperative management of angiotensin-converting enzyme inhibitors and/or angiotensin receptor blockers: a survey of perioperative medicine practitioners": {
+                    "explanation": "This paper explores the perioperative management of angiotensin-converting enzyme inhibitors (ACEi) and angiotensin receptor blockers (ARB), which is related to the source paper's topic of withholding ACEi/ARB before noncardiac surgery. However, it does not directly build upon or depend on the source paper's findings.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2019,
+        "source_paper": {
+            "paperId": "bd3dc495a28928a4e179324c33caedc5d5ccf606",
+            "title": "Withholding versus Continuing Angiotensin-converting Enzyme Inhibitors or Angiotensin II Receptor Blockers before Noncardiac Surgery: An Analysis of the Vascular events In noncardiac Surgery patIents cOhort evaluatioN Prospective Cohort",
+            "abstract": "Background: The effect on cardiovascular outcomes of withholding angiotensin-converting enzyme inhibitors or angiotensin II receptor blockers in chronic users before noncardiac surgery is unknown. Methods: In this international prospective cohort study, the authors analyzed data from 14,687 patients (including 4,802 angiotensin-converting enzyme inhibitor/angiotensin II receptor blocker users) at least 45 yr old who had in-patient noncardiac surgery from 2007 to 2011. Using multivariable regression models, the authors studied the relationship between withholding angiotensin-converting enzyme inhibitors/angiotensin II receptor blockers and a primary composite outcome of all-cause death, stroke, or myocardial injury after noncardiac surgery at 30 days, with intraoperative and postoperative clinically important hypotension as secondary outcomes. Results: Compared to patients who continued their angiotensin-converting enzyme inhibitors/angiotensin II receptor blockers, the 1,245 (26%) angiotensin-converting enzyme inhibitor/angiotensin II receptor blocker users who withheld their angiotensin-converting enzyme inhibitors/angiotensin II receptor blockers in the 24\u2009h before surgery were less likely to suffer the primary composite outcome of all-cause death, stroke, or myocardial injury (150/1,245 [12.0%] vs. 459/3,557 [12.9%]; adjusted relative risk, 0.82; 95% CI, 0.70 to 0.96; P = 0.01) and intraoperative hypotension (adjusted relative risk, 0.80; 95% CI, 0.72 to 0.93; P < 0.001). The risk of postoperative hypotension was similar between the two groups (adjusted relative risk, 0.92; 95% CI, 0.77 to 1.10; P = 0.36). Results were consistent across the range of preoperative blood pressures. The practice of withholding angiotensin-converting enzyme inhibitors/angiotensin II receptor blockers was only modestly correlated with patient characteristics and the type and timing of surgery. Conclusions: Withholding angiotensin-converting enzyme inhibitors/angiotensin II receptor blockers before major noncardiac surgery was associated with a lower risk of death and postoperative vascular events. A large randomized trial is needed to confirm this finding. In the interim, clinicians should consider recommending that patients withhold angiotensin-converting enzyme inhibitors/angiotensin II receptor blockers 24\u2009h before surgery.",
+            "year": 2017,
+            "citation_count": 231,
+            "relevance": 2,
+            "explanation": "This paper explores the effect of withholding angiotensin-converting enzyme inhibitors or angiotensin II receptor blockers before noncardiac surgery on cardiovascular outcomes. The study uses data from the VISION study, which is the same study as the source paper. The paper's findings are partially dependent on the source paper's findings, as they explore a related research question using the same data. Therefore, it has a relevance score of 2."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Intraoperative hypotension caused by oral administration of 5\u2010aminolevulinic acid for photodynamic diagnosis in patients with bladder cancer": {
+                    "explanation": "This paper has no connection with the source paper, as it discusses a different medical topic and does not reference the source paper's findings on withholding angiotensin-converting enzyme inhibitors or angiotensin II receptor blockers before noncardiac surgery.",
+                    "relevance": 0
+                },
+                "2. Myocardial Injury after Non-Cardiac Surgery: A Systematic Review and Meta-analysis.": {
+                    "explanation": "This paper is a review paper and does not have a direct connection to the source paper. It discusses myocardial injury after non-cardiac surgery, which is a related but distinct topic.",
+                    "relevance": 0
+                },
+                "3. The Elderly Emergency Laparotomy Patient - More Than Just the Operation.": {
+                    "explanation": "This paper has no connection with the source paper, as it discusses the management of elderly patients undergoing emergency laparotomy and does not reference the source paper's findings.",
+                    "relevance": 0
+                },
+                "4. When the pressure drops: A case of vasoplegia during a structural heart intervention": {
+                    "explanation": "This paper has no connection with the source paper, as it discusses a case of vasoplegia during a structural heart intervention and does not reference the source paper's findings.",
+                    "relevance": 0
+                },
+                "5. Risk factors for vasoplegia after cardiac surgery: a meta-analysis.": {
+                    "explanation": "This paper has no connection with the source paper, as it discusses risk factors for vasoplegia after cardiac surgery and does not reference the source paper's findings on noncardiac surgery.",
+                    "relevance": 0
+                },
+                "6. The patient with hypertension and new guidelines for therapy": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the management of hypertension in the perioperative period and mentions the potential benefits of withholding angiotensin-converting enzyme inhibitors or angiotensin II receptor blockers before surgery.",
+                    "relevance": 2
+                },
+                "7. Relationship between Perioperative Hypotension and Perioperative Cardiovascular Events in Patients with Coronary Artery Disease Undergoing Major Noncardiac Surgery": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the relationship between perioperative hypotension and cardiovascular events in patients undergoing noncardiac surgery, which is related to the source paper's topic.",
+                    "relevance": 2
+                },
+                "8. Does withholding an ACE inhibitor or ARB before surgery improve outcomes?": {
+                    "explanation": "This paper is inspired by the hypothesis of the source paper, as it directly discusses the potential benefits of withholding angiotensin-converting enzyme inhibitors or angiotensin II receptor blockers before surgery.",
+                    "relevance": 1
+                },
+                "9. Acute Kidney Injury in Lower-Extremity Joint Arthroplasty: Clinical Epidemiology, Prevention, and Management": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the prevention and management of acute kidney injury in patients undergoing lower-extremity joint arthroplasty and mentions the potential benefits of withholding angiotensin-converting enzyme inhibitors or angiotensin II receptor blockers before surgery.",
+                    "relevance": 2
+                },
+                "10. A randomized controlled trial comparing methohexital and propofol for induction in patients receiving angiotensin axis blockade": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the effects of angiotensin axis blockade on hemodynamic stability during anesthesia induction, which is related to the source paper's topic.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. The patient with hypertension and new guidelines for therapy": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the management of hypertension in the perioperative period and mentions the potential benefits of withholding angiotensin-converting enzyme inhibitors or angiotensin II receptor blockers before surgery.",
+                    "relevance": 2
+                },
+                "2. Relationship between Perioperative Hypotension and Perioperative Cardiovascular Events in Patients with Coronary Artery Disease Undergoing Major Noncardiac Surgery": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the relationship between perioperative hypotension and cardiovascular events in patients undergoing noncardiac surgery, which is related to the source paper's topic.",
+                    "relevance": 2
+                },
+                "3. Acute Kidney Injury in Lower-Extremity Joint Arthroplasty: Clinical Epidemiology, Prevention, and Management": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the prevention and management of acute kidney injury in patients undergoing lower-extremity joint arthroplasty and mentions the potential benefits of withholding angiotensin-converting enzyme inhibitors or angiotensin II receptor blockers before surgery.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2019,
+        "source_paper": {
+            "paperId": "bd3dc495a28928a4e179324c33caedc5d5ccf606",
+            "title": "Withholding versus Continuing Angiotensin-converting Enzyme Inhibitors or Angiotensin II Receptor Blockers before Noncardiac Surgery: An Analysis of the Vascular events In noncardiac Surgery patIents cOhort evaluatioN Prospective Cohort",
+            "abstract": "Background: The effect on cardiovascular outcomes of withholding angiotensin-converting enzyme inhibitors or angiotensin II receptor blockers in chronic users before noncardiac surgery is unknown. Methods: In this international prospective cohort study, the authors analyzed data from 14,687 patients (including 4,802 angiotensin-converting enzyme inhibitor/angiotensin II receptor blocker users) at least 45 yr old who had in-patient noncardiac surgery from 2007 to 2011. Using multivariable regression models, the authors studied the relationship between withholding angiotensin-converting enzyme inhibitors/angiotensin II receptor blockers and a primary composite outcome of all-cause death, stroke, or myocardial injury after noncardiac surgery at 30 days, with intraoperative and postoperative clinically important hypotension as secondary outcomes. Results: Compared to patients who continued their angiotensin-converting enzyme inhibitors/angiotensin II receptor blockers, the 1,245 (26%) angiotensin-converting enzyme inhibitor/angiotensin II receptor blocker users who withheld their angiotensin-converting enzyme inhibitors/angiotensin II receptor blockers in the 24\u2009h before surgery were less likely to suffer the primary composite outcome of all-cause death, stroke, or myocardial injury (150/1,245 [12.0%] vs. 459/3,557 [12.9%]; adjusted relative risk, 0.82; 95% CI, 0.70 to 0.96; P = 0.01) and intraoperative hypotension (adjusted relative risk, 0.80; 95% CI, 0.72 to 0.93; P < 0.001). The risk of postoperative hypotension was similar between the two groups (adjusted relative risk, 0.92; 95% CI, 0.77 to 1.10; P = 0.36). Results were consistent across the range of preoperative blood pressures. The practice of withholding angiotensin-converting enzyme inhibitors/angiotensin II receptor blockers was only modestly correlated with patient characteristics and the type and timing of surgery. Conclusions: Withholding angiotensin-converting enzyme inhibitors/angiotensin II receptor blockers before major noncardiac surgery was associated with a lower risk of death and postoperative vascular events. A large randomized trial is needed to confirm this finding. In the interim, clinicians should consider recommending that patients withhold angiotensin-converting enzyme inhibitors/angiotensin II receptor blockers 24\u2009h before surgery.",
+            "year": 2017,
+            "citation_count": 231,
+            "relevance": 2,
+            "explanation": "This paper explores the effect of withholding angiotensin-converting enzyme inhibitors or angiotensin II receptor blockers before noncardiac surgery on cardiovascular outcomes. The study uses data from the VISION study, which is the same study as the source paper. The paper's findings are partially dependent on the source paper's findings, as they explore a related research question using the same data. Therefore, it has a relevance score of 2."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Peri\u2010operative acute kidney injury": {
+                    "explanation": "This paper is directly related to the source paper, as it discusses the peri-operative management of angiotensin-converting enzyme inhibitors (ACEi) and angiotensin-2 receptor blockers (ARBs), which is the main topic of the source paper. The author of this paper is commenting on another study that compared their findings with the source paper, and is asking for clarification on the definition of 'peri-operative' and the timing of restarting ACEi and ARBs postoperatively.",
+                    "relevance": 2
+                },
+                "2. Pre\u2010operative cardiac optimisation: a directed review": {
+                    "explanation": "This paper is a review of pre-operative cardiac optimisation, which includes the management of antihypertensive drugs in the peri-operative period. While it does not directly cite the source paper, it discusses the management of patients with hypertension, which is related to the topic of the source paper. However, the connection is not strong enough to be considered a sub-hypothesis, and the paper does not present new findings or hypotheses inspired by the source paper.",
+                    "relevance": 0
+                },
+                "3. Pre\u2010optimisation of patients undergoing emergency laparotomy: a review of best practice": {
+                    "explanation": "This paper is a review of pre-optimisation of patients undergoing emergency laparotomy, which includes the optimisation of the patient's condition and the care pathway. While it mentions the continuation of medication in the peri-operative period, it does not specifically discuss the management of angiotensin-converting enzyme inhibitors or angiotensin II receptor blockers, which is the main topic of the source paper. Therefore, the connection to the source paper is weak, and the paper does not present new findings or hypotheses inspired by the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Peri\u2010operative acute kidney injury": {
+                    "explanation": "This paper is directly related to the source paper, as it discusses the peri-operative management of angiotensin-converting enzyme inhibitors (ACEi) and angiotensin-2 receptor blockers (ARBs), which is the main topic of the source paper. The author of this paper is commenting on another study that compared their findings with the source paper, and is asking for clarification on the definition of 'peri-operative' and the timing of restarting ACEi and ARBs postoperatively.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2019,
+        "source_paper": {
+            "paperId": "5e04cdffeb0a252639cbfe957fd04ff5e6993601",
+            "title": "A Systematic Review of Outcomes Associated With Withholding or Continuing Angiotensin-Converting Enzyme Inhibitors and Angiotensin Receptor Blockers Before Noncardiac Surgery",
+            "abstract": "BACKGROUND: The global rate of major noncardiac surgical procedures is increasing annually, and of those patients presenting for surgery, increasing numbers are taking either an angiotensin-converting enzyme inhibitor (ACE-I) or an angiotensin receptor blocker (ARB). The current recommendations of whether to continue or withhold ACE-I and ARB in the perioperative period are conflicting. Previous meta-analyses have linked preoperative ACE-I/ARB therapy to the increased incidence of postinduction hypotension; however, they have failed to correlate this with adverse patient outcomes. The aim of this meta-analysis was to determine whether continuation or withholding ACE-I or ARB therapy in the perioperative period is associated with mortality and major morbidity. METHODS: This meta-analysis was prospectively registered on PROSPERO (CRD42017055291). A comprehensive search of MEDLINE (PubMed), CINAHL (EBSCO host), ProQuest, Cochrane database, Scopus, and Web of Science was conducted on December 6, 2016. We included adult patients >18 years of age on chronic ACE-I or ARB therapy who underwent noncardiac surgery in which ACE-I or ARB was either withheld or continued on the morning of surgery. Primary outcomes included all-cause mortality and major cardiac events (MACE). Secondary outcomes included the risk of congestive heart failure, acute kidney injury, stroke, intraoperative/postoperative hypotension, and the length of hospital stay. RESULTS: After abstract review, the full text of 25 studies was retrieved, of which 9 fulfilled the inclusion criteria: 5 were randomized control trials, and 4 were cohort studies. These studies included a total of 6022 patients on chronic ACE-I/ARB therapy before noncardiac surgery. A total of 1816 patients withheld treatment the morning of surgery and 4206 continued their ACE-I/ARB. Preoperative demographics were similar between the 2 groups. Withholding ACE-I/ARB therapy was not associated with a difference in mortality (odds ratio [OR], 0.97; 95% confidence interval [CI], 0.62\u20131.52; I2 = 0%) or MACE (OR, 1.12; 95% CI, 0.82\u20131.52; I2 = 0%). However, withholding therapy was associated with significantly less intraoperative hypotension (OR, 0.63; 95% CI, 0.47\u20130.85; I2 = 71%). No effect estimate could be pooled concerning length of hospital stay and congestive heart failure. CONCLUSIONS: This meta-analysis did not demonstrate an association between perioperative administration of ACE-I/ARB and mortality or MACE. It did, however, confirm the current observation that perioperative continuation of ACE-I/ARBs is associated with an increased incidence of intraoperative hypotension. A large randomized control trial is necessary to determine the appropriate perioperative management of ACE-I and ARBs.",
+            "year": 2018,
+            "citation_count": 103,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the outcomes associated with withholding or continuing angiotensin-converting enzyme inhibitors and angiotensin receptor blockers before noncardiac surgery, building on the source paper's results regarding the effects of withholding these medications in noncardiac surgery."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Angiotensin axis blockade, acute kidney injury, and perioperative morbidity in patients undergoing colorectal surgery": {
+                    "explanation": "This paper explores the relationship between ACEi/ARB therapy and perioperative outcomes in patients undergoing colorectal surgery. The hypothesis is inspired by the findings of the source paper, which investigated the continuation or withholding of ACE-I/ARB therapy in the perioperative period.",
+                    "relevance": 1
+                },
+                "2. Development of a list of high-risk perioperative medications for the elderly: a Delphi method": {
+                    "explanation": "This paper does not have a direct connection to the source paper. It aims to develop a list of high-risk medications for the elderly population in China, which is a different topic.",
+                    "relevance": 0
+                },
+                "3. The patient with hypertension and new guidelines for therapy": {
+                    "explanation": "This paper discusses the new guidelines for the diagnosis and treatment of hypertension, which includes the management of ACEi/ARB therapy in the perioperative period. The hypothesis is partially dependent on the findings of the source paper, as it considers the continuation or withholding of ACE-I/ARB therapy.",
+                    "relevance": 2
+                },
+                "4. A randomized controlled trial comparing methohexital and propofol for induction in patients receiving angiotensin axis blockade": {
+                    "explanation": "This paper investigates the effects of different induction agents on patients receiving ACEi/ARB therapy. The hypothesis is inspired by the findings of the source paper, which linked preoperative ACE-I/ARB therapy to the increased incidence of postinduction hypotension.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. The patient with hypertension and new guidelines for therapy": {
+                    "explanation": "This paper discusses the new guidelines for the diagnosis and treatment of hypertension, which includes the management of ACEi/ARB therapy in the perioperative period. The hypothesis is partially dependent on the findings of the source paper, as it considers the continuation or withholding of ACE-I/ARB therapy.",
+                    "relevance": 2
+                },
+                "2. Angiotensin axis blockade, acute kidney injury, and perioperative morbidity in patients undergoing colorectal surgery": {
+                    "explanation": "This paper explores the relationship between ACEi/ARB therapy and perioperative outcomes in patients undergoing colorectal surgery. The hypothesis is inspired by the findings of the source paper, which investigated the continuation or withholding of ACE-I/ARB therapy in the perioperative period.",
+                    "relevance": 1
+                },
+                "3. A randomized controlled trial comparing methohexital and propofol for induction in patients receiving angiotensin axis blockade": {
+                    "explanation": "This paper investigates the effects of different induction agents on patients receiving ACEi/ARB therapy. The hypothesis is inspired by the findings of the source paper, which linked preoperative ACE-I/ARB therapy to the increased incidence of postinduction hypotension.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2020,
+        "source_paper": {
+            "paperId": "5e04cdffeb0a252639cbfe957fd04ff5e6993601",
+            "title": "A Systematic Review of Outcomes Associated With Withholding or Continuing Angiotensin-Converting Enzyme Inhibitors and Angiotensin Receptor Blockers Before Noncardiac Surgery",
+            "abstract": "BACKGROUND: The global rate of major noncardiac surgical procedures is increasing annually, and of those patients presenting for surgery, increasing numbers are taking either an angiotensin-converting enzyme inhibitor (ACE-I) or an angiotensin receptor blocker (ARB). The current recommendations of whether to continue or withhold ACE-I and ARB in the perioperative period are conflicting. Previous meta-analyses have linked preoperative ACE-I/ARB therapy to the increased incidence of postinduction hypotension; however, they have failed to correlate this with adverse patient outcomes. The aim of this meta-analysis was to determine whether continuation or withholding ACE-I or ARB therapy in the perioperative period is associated with mortality and major morbidity. METHODS: This meta-analysis was prospectively registered on PROSPERO (CRD42017055291). A comprehensive search of MEDLINE (PubMed), CINAHL (EBSCO host), ProQuest, Cochrane database, Scopus, and Web of Science was conducted on December 6, 2016. We included adult patients >18 years of age on chronic ACE-I or ARB therapy who underwent noncardiac surgery in which ACE-I or ARB was either withheld or continued on the morning of surgery. Primary outcomes included all-cause mortality and major cardiac events (MACE). Secondary outcomes included the risk of congestive heart failure, acute kidney injury, stroke, intraoperative/postoperative hypotension, and the length of hospital stay. RESULTS: After abstract review, the full text of 25 studies was retrieved, of which 9 fulfilled the inclusion criteria: 5 were randomized control trials, and 4 were cohort studies. These studies included a total of 6022 patients on chronic ACE-I/ARB therapy before noncardiac surgery. A total of 1816 patients withheld treatment the morning of surgery and 4206 continued their ACE-I/ARB. Preoperative demographics were similar between the 2 groups. Withholding ACE-I/ARB therapy was not associated with a difference in mortality (odds ratio [OR], 0.97; 95% confidence interval [CI], 0.62\u20131.52; I2 = 0%) or MACE (OR, 1.12; 95% CI, 0.82\u20131.52; I2 = 0%). However, withholding therapy was associated with significantly less intraoperative hypotension (OR, 0.63; 95% CI, 0.47\u20130.85; I2 = 71%). No effect estimate could be pooled concerning length of hospital stay and congestive heart failure. CONCLUSIONS: This meta-analysis did not demonstrate an association between perioperative administration of ACE-I/ARB and mortality or MACE. It did, however, confirm the current observation that perioperative continuation of ACE-I/ARBs is associated with an increased incidence of intraoperative hypotension. A large randomized control trial is necessary to determine the appropriate perioperative management of ACE-I and ARBs.",
+            "year": 2018,
+            "citation_count": 103,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it discusses the outcomes associated with withholding or continuing angiotensin-converting enzyme inhibitors and angiotensin receptor blockers before noncardiac surgery, building on the source paper's results regarding the effects of withholding these medications in noncardiac surgery."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Perioperative pharmacotherapy to prevent cardiac complications in patients undergoing noncardiac surgery": {
+                    "explanation": "This paper is a review of pharmacological management of cardiovascular disease in patients undergoing noncardiac surgery, which is a broader topic than the source paper. It does not directly build upon or reference the source paper's findings.",
+                    "relevance": 0
+                },
+                "2. Leading changes in perioperative medicine: beyond length of stay": {
+                    "explanation": "This paper discusses the evolution of perioperative medicine, including preoperative assessment and optimization. While it touches on cardiovascular disease management, it does not directly relate to the source paper's findings on ACE-I/ARB therapy.",
+                    "relevance": 0
+                },
+                "3. Arterial Stiffness Predicts General Anesthesia-Induced Vasopressor-Resistant Hypotension in Patients Taking Angiotensin-Converting Enzyme Inhibitors": {
+                    "explanation": "This paper investigates the relationship between arterial stiffness and hypotension in patients taking ACEIs, which is a related topic to the source paper's findings on ACE-I/ARB therapy and hypotension. However, it does not directly build upon the source paper's findings.",
+                    "relevance": 1
+                },
+                "4. Refractory Hypotension During General Anesthesia Despite Withholding Telmisartan": {
+                    "explanation": "This case report describes a patient who experienced refractory hypotension during general anesthesia despite withholding telmisartan, an ARB. While it is a related topic to the source paper's findings on ACE-I/ARB therapy and hypotension, it does not directly build upon the source paper's findings.",
+                    "relevance": 1
+                },
+                "5. Pre-anaesthesia ultrasonography of the subclavian/infraclavicular axillary vein for predicting hypotension after inducing general anaesthesia: A prospective observational study": {
+                    "explanation": "This paper investigates the use of ultrasonography to predict hypotension after general anesthesia, which is a related topic to the source paper's findings on ACE-I/ARB therapy and hypotension. However, it does not directly build upon the source paper's findings.",
+                    "relevance": 1
+                },
+                "6. Preoperative Risk Assessment and Management in Adults Receiving Maintenance Dialysis and Those With Earlier Stages of CKD": {
+                    "explanation": "This paper reviews the literature on preoperative risk assessment and management in patients with chronic kidney disease, which is a related topic to the source paper's findings on ACE-I/ARB therapy. However, it does not directly build upon the source paper's findings.",
+                    "relevance": 1
+                },
+                "7. Controversy over renin\u2013angiotensin\u2013aldosterone system (RAAS) inhibitors treatment in nephrology and cardiovascular diseases": {
+                    "explanation": "This paper discusses the controversy surrounding the use of RAAS inhibitors in nephrology and cardiovascular diseases, which is a related topic to the source paper's findings on ACE-I/ARB therapy. However, it does not directly build upon the source paper's findings.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Arterial Stiffness Predicts General Anesthesia-Induced Vasopressor-Resistant Hypotension in Patients Taking Angiotensin-Converting Enzyme Inhibitors": {
+                    "explanation": "This paper investigates the relationship between arterial stiffness and hypotension in patients taking ACEIs, which is a related topic to the source paper's findings on ACE-I/ARB therapy and hypotension.",
+                    "relevance": 1
+                },
+                "2. Refractory Hypotension During General Anesthesia Despite Withholding Telmisartan": {
+                    "explanation": "This case report describes a patient who experienced refractory hypotension during general anesthesia despite withholding telmisartan, an ARB. While it is a related topic to the source paper's findings on ACE-I/ARB therapy and hypotension, it does not directly build upon the source paper's findings.",
+                    "relevance": 1
+                },
+                "3. Pre-anaesthesia ultrasonography of the subclavian/infraclavicular axillary vein for predicting hypotension after inducing general anaesthesia: A prospective observational study": {
+                    "explanation": "This paper investigates the use of ultrasonography to predict hypotension after general anesthesia, which is a related topic to the source paper's findings on ACE-I/ARB therapy and hypotension.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2020,
+        "source_paper": {
+            "paperId": "9dc844387c49291448587590ea28c630999a1a6c",
+            "title": "The patient with hypertension and new guidelines for therapy",
+            "abstract": "Purpose of review Hypertension is a leading disease in preoperative clinics; nearly 60% of patients over 60 years have it. Many guidelines have been published for the diagnosis and treatment of hypertension. Last year, the American College of Cardiology/American Heart Association and European Society of Cardiology and European Society of Hypertension made new recommendations for diagnosis and management, with special emphasis on targets, nonpharmacological treatment, and management of the elderly patient, and pharmacological therapy. We will review relevant concordances and differences that are important for the anesthesiologist and perioperative management. Recent findings Adults with stage 1 hypertension have a two-fold increase in cardiovascular disease risk. Tight blood pressure management improves outcome. Discontinuing angiotensin receptor blockers/angiotensin converting enzyme inhibitors is associated with less intraoperative hypotension and probably less morbidity and mortality. Summary New guidelines could increase the burden of patients with pharmacological treatment that will need surgery and require case by case considerations. The scarcity of information demands trials about blood pressure management and consensus about antihypertensive medications in perioperative period.",
+            "year": 2019,
+            "citation_count": 10,
+            "relevance": 2,
+            "explanation": "This paper discusses the new guidelines for the diagnosis and treatment of hypertension, which includes the management of ACEi/ARB therapy in the perioperative period. The hypothesis is partially dependent on the findings of the source paper, as it considers the continuation or withholding of ACE-I/ARB therapy."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Intraoperative hypotension and neurological outcomes": {
+                    "explanation": "This paper is a review paper that discusses the relationship between intraoperative hypotension and neurological outcomes. It does not present a novel hypothesis that is inspired by or dependent on the findings of the source paper. The source paper focuses on new guidelines for hypertension therapy, while this paper explores a different topic, making it unrelated to the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2021,
+        "source_paper": {
+            "paperId": "9dc844387c49291448587590ea28c630999a1a6c",
+            "title": "The patient with hypertension and new guidelines for therapy",
+            "abstract": "Purpose of review Hypertension is a leading disease in preoperative clinics; nearly 60% of patients over 60 years have it. Many guidelines have been published for the diagnosis and treatment of hypertension. Last year, the American College of Cardiology/American Heart Association and European Society of Cardiology and European Society of Hypertension made new recommendations for diagnosis and management, with special emphasis on targets, nonpharmacological treatment, and management of the elderly patient, and pharmacological therapy. We will review relevant concordances and differences that are important for the anesthesiologist and perioperative management. Recent findings Adults with stage 1 hypertension have a two-fold increase in cardiovascular disease risk. Tight blood pressure management improves outcome. Discontinuing angiotensin receptor blockers/angiotensin converting enzyme inhibitors is associated with less intraoperative hypotension and probably less morbidity and mortality. Summary New guidelines could increase the burden of patients with pharmacological treatment that will need surgery and require case by case considerations. The scarcity of information demands trials about blood pressure management and consensus about antihypertensive medications in perioperative period.",
+            "year": 2019,
+            "citation_count": 10,
+            "relevance": 2,
+            "explanation": "This paper discusses the new guidelines for the diagnosis and treatment of hypertension, which includes the management of ACEi/ARB therapy in the perioperative period. The hypothesis is partially dependent on the findings of the source paper, as it considers the continuation or withholding of ACE-I/ARB therapy."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Renal Denervation in Combination With Angiotensin Receptor Blockade Prolongs Blood Pressure Trough During Hemorrhage": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the effects of antihypertensive medication in combination with renal denervation on hemodynamic responses to blood loss, which is related to the source paper's discussion on blood pressure management and antihypertensive medications in the perioperative period.",
+                    "relevance": 2
+                },
+                "2. Withholding vs. Continuing Angiotensin-Converting Enzyme Inhibitors or Angiotensin Receptor Blockers Before Non-cardiac Surgery in Older Patients: Study Protocol for a Multicenter Randomized Controlled Trial": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the effects of withholding vs. continuing ACEIs/ARBs before non-cardiac surgery, which is related to the source paper's discussion on the management of hypertension in the perioperative period and the potential risks of antihypertensive medications.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Renal Denervation in Combination With Angiotensin Receptor Blockade Prolongs Blood Pressure Trough During Hemorrhage": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the effects of antihypertensive medication in combination with renal denervation on hemodynamic responses to blood loss, which is related to the source paper's discussion on blood pressure management and antihypertensive medications in the perioperative period.",
+                    "relevance": 2
+                },
+                "2. Withholding vs. Continuing Angiotensin-Converting Enzyme Inhibitors or Angiotensin Receptor Blockers Before Non-cardiac Surgery in Older Patients: Study Protocol for a Multicenter Randomized Controlled Trial": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the effects of withholding vs. continuing ACEIs/ARBs before non-cardiac surgery, which is related to the source paper's discussion on the management of hypertension in the perioperative period and the potential risks of antihypertensive medications.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2023,
+        "source_paper": {
+            "paperId": "636d101cc715c196c3ba18d5b6cae2040d06fd2f",
+            "title": "Withholding vs. Continuing Angiotensin-Converting Enzyme Inhibitors or Angiotensin Receptor Blockers Before Non-cardiac Surgery in Older Patients: Study Protocol for a Multicenter Randomized Controlled Trial",
+            "abstract": "Background: Older hypertensive adults are at increased risk for postoperative morbidity and mortality. As first line antihypertensive drug therapy, angiotensin-converting enzyme inhibitors (ACEIs) or angiotensin receptor blockers (ARBs) have many beneficial effects. However, the use of ACEIs/ARBs in the perioperative period remains controversial. This study aims to determine the effects of withholding vs. continuing ACEIs/ARBs before non-cardiac surgery on perioperative hypotension and postoperative outcomes in older patients. Methods: In this multicenter, randomized, double-blind, placebo-controlled trial, a total of 2036 patients aged 60\u201380 years undergoing non-cardiac surgical procedures will be randomly assigned, in a 1:1 ratio, to receive oral ACEIs/ARBs (the ACEIs/ARBs continued group) or inactive placebos (the ACEIs/ARBs withheld group) on the morning of surgery. For both groups, the ACEIs/ARBs will be continued from the first postoperative day. The primary outcome measure is the incidence of perioperative hypotensive events, defined as mean blood pressure (MBP) < 65 mmHg or \u226530% reduction in MBP from baseline during surgery and in a post-anesthesia care unit. The secondary outcomes include duration of perioperative hypotension, intraoperative use of fluids and vasopressors, hypotensive events within postoperative 3 days, and perioperative neurocognitive disorders, major adverse cardiocerebral events (a composite outcome of stroke, coma, myocardial infarction, heart block, and cardiac arrest), and mortality within 30 days after surgery. Discussion: The results of this trial will offer an evidence-based perioperative ACEIs/ARBs therapy for older hypertensive adults undergoing non-cardiac surgery. Study Registration: This study is approved by the Medical Ethics Committee of The First Affiliated Hospital of Soochow University (Approval No. 2020-077-1) and by the institutional ethics review board of each participating center. This protocol is registered at the Chinese Clinical Trials Registry (ChiCTR2000039376).",
+            "year": 2021,
+            "citation_count": 7,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the effects of withholding vs. continuing ACEIs/ARBs before non-cardiac surgery, which is related to the source paper's discussion on the management of hypertension in the perioperative period and the potential risks of antihypertensive medications."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Protocol for development and validation of a prediction model for post-induction hypotension in elderly patients undergoing non-cardiac surgery: a prospective cohort study": {
+                    "explanation": "This paper explores a related but distinct topic, which is the development and validation of a prediction model for post-induction hypotension in elderly patients undergoing non-cardiac surgery. Although the topic is related to the source paper's focus on perioperative hypotension, it does not directly build upon or depend on the findings of the source paper. Therefore, it is assigned a relevance score of 0.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2023,
+        "source_paper": {
+            "paperId": "636d101cc715c196c3ba18d5b6cae2040d06fd2f",
+            "title": "Withholding vs. Continuing Angiotensin-Converting Enzyme Inhibitors or Angiotensin Receptor Blockers Before Non-cardiac Surgery in Older Patients: Study Protocol for a Multicenter Randomized Controlled Trial",
+            "abstract": "Background: Older hypertensive adults are at increased risk for postoperative morbidity and mortality. As first line antihypertensive drug therapy, angiotensin-converting enzyme inhibitors (ACEIs) or angiotensin receptor blockers (ARBs) have many beneficial effects. However, the use of ACEIs/ARBs in the perioperative period remains controversial. This study aims to determine the effects of withholding vs. continuing ACEIs/ARBs before non-cardiac surgery on perioperative hypotension and postoperative outcomes in older patients. Methods: In this multicenter, randomized, double-blind, placebo-controlled trial, a total of 2036 patients aged 60\u201380 years undergoing non-cardiac surgical procedures will be randomly assigned, in a 1:1 ratio, to receive oral ACEIs/ARBs (the ACEIs/ARBs continued group) or inactive placebos (the ACEIs/ARBs withheld group) on the morning of surgery. For both groups, the ACEIs/ARBs will be continued from the first postoperative day. The primary outcome measure is the incidence of perioperative hypotensive events, defined as mean blood pressure (MBP) < 65 mmHg or \u226530% reduction in MBP from baseline during surgery and in a post-anesthesia care unit. The secondary outcomes include duration of perioperative hypotension, intraoperative use of fluids and vasopressors, hypotensive events within postoperative 3 days, and perioperative neurocognitive disorders, major adverse cardiocerebral events (a composite outcome of stroke, coma, myocardial infarction, heart block, and cardiac arrest), and mortality within 30 days after surgery. Discussion: The results of this trial will offer an evidence-based perioperative ACEIs/ARBs therapy for older hypertensive adults undergoing non-cardiac surgery. Study Registration: This study is approved by the Medical Ethics Committee of The First Affiliated Hospital of Soochow University (Approval No. 2020-077-1) and by the institutional ethics review board of each participating center. This protocol is registered at the Chinese Clinical Trials Registry (ChiCTR2000039376).",
+            "year": 2021,
+            "citation_count": 7,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it investigates the effects of withholding vs. continuing ACEIs/ARBs before non-cardiac surgery, which is related to the source paper's discussion on the management of hypertension in the perioperative period and the potential risks of antihypertensive medications."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Protocol for development and validation of a prediction model for post-induction hypotension in elderly patients undergoing non-cardiac surgery: a prospective cohort study": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper. The source paper investigates the effects of withholding vs. continuing ACEIs/ARBs before non-cardiac surgery on perioperative hypotension, which is closely related to the post-induction hypotension (PIH) prediction model being developed in this paper. Understanding the relationship between ACEIs/ARBs and perioperative hypotension can inform the development of a PIH prediction model.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Protocol for development and validation of a prediction model for post-induction hypotension in elderly patients undergoing non-cardiac surgery: a prospective cohort study": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper. The source paper investigates the effects of withholding vs. continuing ACEIs/ARBs before non-cardiac surgery on perioperative hypotension, which is closely related to the post-induction hypotension (PIH) prediction model being developed in this paper. Understanding the relationship between ACEIs/ARBs and perioperative hypotension can inform the development of a PIH prediction model.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    }
+]

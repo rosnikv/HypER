@@ -1,0 +1,1277 @@
+[
+    {
+        "year": 2001,
+        "source_paper": {
+            "paperId": "b0363596a7a6ab15519cae33725823de3a11754a",
+            "pmid": "9710040",
+            "title": "A placebo-controlled trial of insulin-like growth factor-I in amyotrophic lateral sclerosis. European ALS/IGF-I Study Group.",
+            "abstract": "To test the safety and efficacy of recombinant human insulin-like growth factor-I (rhIGF-I) in ALS, 183 patients from eight European centers were randomized to receive double-blind placebo (n = 59) or rhIGF-I 0.1 mg/kg/day (n = 124) subcutaneously for 9 months. At study completion, the primary efficacy outcome measure (change in disease progression as assessed by the Appel ALS rating scale) showed no significant difference between treatment groups. RhIGF-I appeared to be safe and well-tolerated.",
+            "year": 1998,
+            "citation_count": 115
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Clinical Trials in ALS: An Overview": {
+                    "explanation": "This paper is a review of clinical trials in ALS, including the source paper's trial on insulin-like growth factor-I. However, it does not build upon the source paper's findings or use them as a sub-hypothesis, but rather summarizes existing literature.",
+                    "relevance": 0
+                },
+                "2. Survival activity of troglitazone in rat motoneurones": {
+                    "explanation": "This paper investigates the neurotrophic activity of troglitazone in rat motoneurones and its potential application in treating ALS. Although it does not directly build upon the source paper's findings, it does mention insulin-like growth factor-I as a known potent neurotrophic factor, indicating a connection to the source paper's research area.",
+                    "relevance": 1
+                },
+                "3. Recent advances in the therapy of amyotrophic lateral sclerosis: focus on excitotoxicity": {
+                    "explanation": "This paper discusses recent advances in ALS therapy, including the treatment of excitotoxicity. It does not directly build upon the source paper's findings or use them as a sub-hypothesis, and instead focuses on a different aspect of ALS treatment.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Survival activity of troglitazone in rat motoneurones": {
+                    "explanation": "This paper investigates the neurotrophic activity of troglitazone in rat motoneurones and its potential application in treating ALS. Although it does not directly build upon the source paper's findings, it does mention insulin-like growth factor-I as a known potent neurotrophic factor, indicating a connection to the source paper's research area.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2002,
+        "source_paper": {
+            "paperId": "d5a153ce4aa542393a9b5e16efebbe7b9eaca220",
+            "title": "Survival activity of troglitazone in rat motoneurones",
+            "abstract": "Troglitazone (TGZ), an antidiabetic drug that improves insulin\u2010resistance in the peripheral tissues, was tested for neurotrophic activity in motoneurones and other neurones in culture. In rat motoneurones, TGZ had a remarkable effect on survival, which was comparable or superior to that of brain\u2010derived neurotrophic factor, a known potent neurotrophic factor for rat motoneurones. However, TGZ did not promote the survival of sensory, sympathetic, septal or hippocampal neurones. The effect of TGZ on motoneurones was additive to that of insulin\u2010like growth factor\u2010I and both activities were inhibited by phosphatidylinositol 3\u2010kinase (PI3\u2010kinase) inhibitors, wortmannin and LY294002, suggesting the involvement of the activation of PI3\u2010kinase in the activity of TGZ. Pioglitazone, another antidiabetic drug structurally similar to TGZ, did not show any activity, indicating that the agonistic activity of TGZ for peroxisome proliferator\u2010activated receptor\u2010\u03b3 is not involved in the survival activity. Chromanol, an antioxidant moiety of TGZ, showed little or no survival activity. These results indicate specific neurotrophic activity of TGZ for motoneurones through the activation of PI3\u2010kinase and support the applicability of TGZ for the treatment of motor neurone diseases such as amyotrophic lateral sclerosis.",
+            "year": 2001,
+            "citation_count": 34,
+            "relevance": 1,
+            "explanation": "This paper investigates the neurotrophic activity of troglitazone in rat motoneurones and its potential application in treating ALS. Although it does not directly build upon the source paper's findings, it does mention insulin-like growth factor-I as a known potent neurotrophic factor, indicating a connection to the source paper's research area."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Survival\u2010promoting activity of nimodipine and nifedipine in rat motoneurons: implications of an intrinsic calcium toxicity in motoneurons": {
+                    "explanation": "This paper investigates the survival-promoting activity of nimodipine and nifedipine in rat motoneurons, which is a related but distinct topic from the source paper. The source paper discusses the survival activity of troglitazone in rat motoneurones, whereas this paper explores the effects of L-type calcium channel antagonists on motoneuron survival. Although the papers share a common interest in motoneuron survival, they do not directly build upon or depend on each other's findings.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Survival\u2010promoting activity of nimodipine and nifedipine in rat motoneurons: implications of an intrinsic calcium toxicity in motoneurons": {
+                    "explanation": "This paper investigates the survival-promoting activity of nimodipine and nifedipine in rat motoneurons, which is a related but distinct topic from the source paper. The source paper discusses the survival activity of troglitazone in rat motoneurones, whereas this paper explores the effects of L-type calcium channel antagonists on motoneuron survival. Although the papers share a common interest in motoneuron survival, they do not directly build upon or depend on each other's findings.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2003,
+        "source_paper": {
+            "paperId": "d5a153ce4aa542393a9b5e16efebbe7b9eaca220",
+            "title": "Survival activity of troglitazone in rat motoneurones",
+            "abstract": "Troglitazone (TGZ), an antidiabetic drug that improves insulin\u2010resistance in the peripheral tissues, was tested for neurotrophic activity in motoneurones and other neurones in culture. In rat motoneurones, TGZ had a remarkable effect on survival, which was comparable or superior to that of brain\u2010derived neurotrophic factor, a known potent neurotrophic factor for rat motoneurones. However, TGZ did not promote the survival of sensory, sympathetic, septal or hippocampal neurones. The effect of TGZ on motoneurones was additive to that of insulin\u2010like growth factor\u2010I and both activities were inhibited by phosphatidylinositol 3\u2010kinase (PI3\u2010kinase) inhibitors, wortmannin and LY294002, suggesting the involvement of the activation of PI3\u2010kinase in the activity of TGZ. Pioglitazone, another antidiabetic drug structurally similar to TGZ, did not show any activity, indicating that the agonistic activity of TGZ for peroxisome proliferator\u2010activated receptor\u2010\u03b3 is not involved in the survival activity. Chromanol, an antioxidant moiety of TGZ, showed little or no survival activity. These results indicate specific neurotrophic activity of TGZ for motoneurones through the activation of PI3\u2010kinase and support the applicability of TGZ for the treatment of motor neurone diseases such as amyotrophic lateral sclerosis.",
+            "year": 2001,
+            "citation_count": 34,
+            "relevance": 1,
+            "explanation": "This paper investigates the neurotrophic activity of troglitazone in rat motoneurones and its potential application in treating ALS. Although it does not directly build upon the source paper's findings, it does mention insulin-like growth factor-I as a known potent neurotrophic factor, indicating a connection to the source paper's research area."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Role of PPAR-gamma ligands in neuroprotection against glutamate-induced cytotoxicity in retinal ganglion cells": {
+                    "explanation": "This paper explores the neuroprotective effects of PPAR-gamma ligands, including troglitazone, which is the focus of the source paper. Although the paper does not directly build upon the source paper's findings, it does investigate the neuroprotective properties of troglitazone in a different context, suggesting a connection to the source paper's results.",
+                    "relevance": 1
+                },
+                "2. Adenoviral gene transfer of GDNF, BDNF and TGF\u03b22, but not CNTF, cardiotrophin\u20101 or IGF1, protects injured adult motoneurons after facial nerve avulsion": {
+                    "explanation": "This paper investigates the neuroprotective effects of various growth factors on injured adult motoneurons, which is related to the source paper's focus on the survival activity of troglitazone in rat motoneurons. However, the paper does not directly build upon or depend on the source paper's findings, making the connection less direct.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Role of PPAR-gamma ligands in neuroprotection against glutamate-induced cytotoxicity in retinal ganglion cells": {
+                    "explanation": "This paper explores the neuroprotective effects of PPAR-gamma ligands, including troglitazone, which is the focus of the source paper. Although the paper does not directly build upon the source paper's findings, it does investigate the neuroprotective properties of troglitazone in a different context, suggesting a connection to the source paper's results.",
+                    "relevance": 1
+                },
+                "2. Adenoviral gene transfer of GDNF, BDNF and TGF\u03b22, but not CNTF, cardiotrophin\u20101 or IGF1, protects injured adult motoneurons after facial nerve avulsion": {
+                    "explanation": "This paper investigates the neuroprotective effects of various growth factors on injured adult motoneurons, which is related to the source paper's focus on the survival activity of troglitazone in rat motoneurons. However, the paper does not directly build upon or depend on the source paper's findings, making the connection less direct.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2004,
+        "source_paper": {
+            "paperId": "ea009f06953de38c454bc5e003c186765547ef0c",
+            "title": "Role of PPAR-gamma ligands in neuroprotection against glutamate-induced cytotoxicity in retinal ganglion cells.",
+            "abstract": "PURPOSE\nThe peroxisome proliferator-activated receptor-gamma (PPAR-gamma) is the target of the insulin sensitizing thiazolidinediones (TZDs), a class of drugs used in the treatment of type 2 diabetes mellitus. Glaucoma and other retinal disorders are some of the major complications in diabetes. In the present study, the role that PPAR-gamma ligands play in protecting retinal ganglion cells (RGC-5) against glutamate insult was explored.\n\n\nMETHODS\nTransformed rat RGC (RGC-5 cells) and two PPAR-gamma agonists, 15-deoxy-D(12,14)-prostaglandin J2 (15d-PGJ2) and troglitazone were used. RGC-5 cells were incubated with either of the PPAR-gamma ligands and were exposed to either L-glutamic acid or buthionine sulfoximine (BSO). Cell viability was determined with the neutral red dye uptake assay. Levels of PPAR-gamma receptor proteins were monitored by immunoblot analysis.\n\n\nRESULTS\nGlutamate treatment resulted in RGC-5 cell death, and both 15d-PGJ2 and troglitazone protected the RGC-5 cells from glutamate cytotoxicity. The neuroprotective concentrations of both compounds ranged from approximately 1 to 5 micro M. Troglitazone further protected against BSO toxicity, whereas 15d-PGJ2 did not. Glutamate treatment appears to exert its cytotoxicity through oxidative damage, because pretreatment of RGC-5 cells with the antioxidants N-acetyl cysteine (NAC) and thiourea resulted in the reversal of glutamate cytotoxicity. Furthermore, the glutamate effect was not reversed by pretreatment with MK801 or DL-threo-betabenzyloxyaspartate (DL-TBOA), suggesting that glutamate cytotoxicity is not mediated through the NMDA receptor and/or glutamate transporter, respectively. Levels of PPAR-gamma receptor protein did not show any appreciable change in response to glutamate exposure, with or without 15d-PGJ2 or troglitazone.\n\n\nCONCLUSIONS\nTwo PPAR-gamma ligands, 15d-PGJ2 and troglitazone, protect RGC-5, an established transformed rat retinal ganglion cell line, against glutamate cytotoxicity. The neuroprotective effects of the two compounds appear to be mediated through an antioxidant rather than a PPAR-gamma-dependent pathway. These results suggest that PPAR-gamma agonists, in addition to improving insulin sensitivity, may also provide a valuable antioxidant benefit that could prove valuable in targeting ocular complications including glaucoma.",
+            "year": 2003,
+            "citation_count": 118,
+            "relevance": 1,
+            "explanation": "This paper explores the neuroprotective effects of PPAR-gamma ligands, including troglitazone, which is the focus of the source paper. Although the paper does not directly build upon the source paper's findings, it does investigate the neuroprotective properties of troglitazone in a different context, suggesting a connection to the source paper's results."
+        },
+        "llama_output": {},
+        "seed": 42
+    },
+    {
+        "year": 2005,
+        "source_paper": {
+            "paperId": "ea009f06953de38c454bc5e003c186765547ef0c",
+            "title": "Role of PPAR-gamma ligands in neuroprotection against glutamate-induced cytotoxicity in retinal ganglion cells.",
+            "abstract": "PURPOSE\nThe peroxisome proliferator-activated receptor-gamma (PPAR-gamma) is the target of the insulin sensitizing thiazolidinediones (TZDs), a class of drugs used in the treatment of type 2 diabetes mellitus. Glaucoma and other retinal disorders are some of the major complications in diabetes. In the present study, the role that PPAR-gamma ligands play in protecting retinal ganglion cells (RGC-5) against glutamate insult was explored.\n\n\nMETHODS\nTransformed rat RGC (RGC-5 cells) and two PPAR-gamma agonists, 15-deoxy-D(12,14)-prostaglandin J2 (15d-PGJ2) and troglitazone were used. RGC-5 cells were incubated with either of the PPAR-gamma ligands and were exposed to either L-glutamic acid or buthionine sulfoximine (BSO). Cell viability was determined with the neutral red dye uptake assay. Levels of PPAR-gamma receptor proteins were monitored by immunoblot analysis.\n\n\nRESULTS\nGlutamate treatment resulted in RGC-5 cell death, and both 15d-PGJ2 and troglitazone protected the RGC-5 cells from glutamate cytotoxicity. The neuroprotective concentrations of both compounds ranged from approximately 1 to 5 micro M. Troglitazone further protected against BSO toxicity, whereas 15d-PGJ2 did not. Glutamate treatment appears to exert its cytotoxicity through oxidative damage, because pretreatment of RGC-5 cells with the antioxidants N-acetyl cysteine (NAC) and thiourea resulted in the reversal of glutamate cytotoxicity. Furthermore, the glutamate effect was not reversed by pretreatment with MK801 or DL-threo-betabenzyloxyaspartate (DL-TBOA), suggesting that glutamate cytotoxicity is not mediated through the NMDA receptor and/or glutamate transporter, respectively. Levels of PPAR-gamma receptor protein did not show any appreciable change in response to glutamate exposure, with or without 15d-PGJ2 or troglitazone.\n\n\nCONCLUSIONS\nTwo PPAR-gamma ligands, 15d-PGJ2 and troglitazone, protect RGC-5, an established transformed rat retinal ganglion cell line, against glutamate cytotoxicity. The neuroprotective effects of the two compounds appear to be mediated through an antioxidant rather than a PPAR-gamma-dependent pathway. These results suggest that PPAR-gamma agonists, in addition to improving insulin sensitivity, may also provide a valuable antioxidant benefit that could prove valuable in targeting ocular complications including glaucoma.",
+            "year": 2003,
+            "citation_count": 118,
+            "relevance": 1,
+            "explanation": "This paper explores the neuroprotective effects of PPAR-gamma ligands, including troglitazone, which is the focus of the source paper. Although the paper does not directly build upon the source paper's findings, it does investigate the neuroprotective properties of troglitazone in a different context, suggesting a connection to the source paper's results."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Hypophosphorylation of aqueous humor sCD44 and primary open-angle glaucoma": {
+                    "explanation": "This paper does not appear to be directly connected to the source paper. The source paper focuses on the role of PPAR-gamma ligands in neuroprotection against glutamate-induced cytotoxicity in retinal ganglion cells, while this paper explores the relationship between sCD44 and primary open-angle glaucoma.",
+                    "relevance": 0
+                },
+                "2. Human ganglion cells express the alpha-2 adrenergic receptor: relevance to neuroprotection": {
+                    "explanation": "This paper is inspired by the hypothesis of the source paper, as it explores the potential neuroprotective effects of alpha-2 adrenergic receptor agonists on retinal ganglion cells, which is related to the neuroprotective effects of PPAR-gamma ligands investigated in the source paper.",
+                    "relevance": 1
+                },
+                "3. Serum deprivation induces apoptotic cell death of transformed rat retinal ganglion cells via mitochondrial signaling pathways": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the mechanisms of apoptotic cell death in retinal ganglion cells, which is related to the neuroprotective effects of PPAR-gamma ligands investigated in the source paper.",
+                    "relevance": 2
+                },
+                "4. Ciglitazone-Induced Lenticular Opacities in Rats: In Vivo and Whole Lens Explant Culture Evaluation": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the potential toxicity of ciglitazone, a PPAR-gamma ligand, on lens explants, which is related to the neuroprotective effects of PPAR-gamma ligands investigated in the source paper.",
+                    "relevance": 2
+                },
+                "5. The molecular basis of oxidative stress-induced cell death in an immortalized retinal ganglion cell line": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the mechanisms of oxidative stress-induced cell death in retinal ganglion cells, which is related to the neuroprotective effects of PPAR-gamma ligands investigated in the source paper.",
+                    "relevance": 2
+                },
+                "6. Prostaglandin D2 mediates neuronal protection via the DP1 receptor": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the neuroprotective effects of prostaglandin D2, which is related to the neuroprotective effects of PPAR-gamma ligands investigated in the source paper.",
+                    "relevance": 2
+                },
+                "7. Soluble CD44 is cytotoxic to trabecular meshwork and retinal ganglion cells in vitro": {
+                    "explanation": "This paper does not appear to be directly connected to the source paper. The source paper focuses on the role of PPAR-gamma ligands in neuroprotection against glutamate-induced cytotoxicity in retinal ganglion cells, while this paper explores the cytotoxic effects of soluble CD44 on trabecular meshwork and retinal ganglion cells.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Serum deprivation induces apoptotic cell death of transformed rat retinal ganglion cells via mitochondrial signaling pathways": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the mechanisms of apoptotic cell death in retinal ganglion cells, which is related to the neuroprotective effects of PPAR-gamma ligands investigated in the source paper.",
+                    "relevance": 2
+                },
+                "2. Ciglitazone-Induced Lenticular Opacities in Rats: In Vivo and Whole Lens Explant Culture Evaluation": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the potential toxicity of ciglitazone, a PPAR-gamma ligand, on lens explants, which is related to the neuroprotective effects of PPAR-gamma ligands investigated in the source paper.",
+                    "relevance": 2
+                },
+                "3. The molecular basis of oxidative stress-induced cell death in an immortalized retinal ganglion cell line": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the mechanisms of oxidative stress-induced cell death in retinal ganglion cells, which is related to the neuroprotective effects of PPAR-gamma ligands investigated in the source paper.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2006,
+        "source_paper": {
+            "paperId": "0af6a5efae4700cc3ab66c62d0a85a19eb79d22e",
+            "title": "Serum deprivation induces apoptotic cell death of transformed rat retinal ganglion cells via mitochondrial signaling pathways.",
+            "abstract": "PURPOSE\nApoptosis-related signaling pathways were investigated in a cultured rat retinal ganglion cell (RGC-5) line deprived of growth factors after serum withdrawal from the culture medium.\n\n\nMETHODS\nRGC-5 cells were subjected to serum deprivation for 2 to 6 days and compared with RGC-5 cells cultured in growth medium containing 10% fetal calf serum. Cell viability was determined by a neutral red dye uptake assay. Apoptosis of RGC-5 cells was established by DNA laddering. The expression of various apoptosis-related genes was investigated by immunoblot analysis, and or reverse transcription polymerase chain reaction (RT-PCR) analysis. The redox state of the cell was determined by biochemical methods, including NF-kappaB binding activity by electrophoretic mobility gel shift assays (EMSA) and mitochondrial damage by JC-1 (5,5', 6,6'-tetrachloro 1,1',3,3'-tetraethylbenzimidazolyl-carbocyanine iodide) staining, using live cell confocal microscopy and cytosolic release of cytochrome c.\n\n\nRESULTS\nFifty percent cell loss was evident after 2 days of serum deprivation, as demonstrated by neutral red dye uptake assay. This cell loss was due to apoptotic cell death, as established by DNA laddering. The oxidative state of serum-deprived RGC-5 cells was perturbed as suggested by the increase in malonyldialdehyde (MDA) and a decrease in reduced glutathione (GSH) levels in cell lysates. The apoptosis of the RGC-5 cells was associated with the activation of caspase-3, -8, and -9, and increased levels of Bax with corresponding decreases in Bcl-2 levels and NF-kappaB (NF-kappaB) binding activity. Serum deprivation was also associated with a loss of mitochondrial function, as revealed by cytosolic release of cytochrome c and JC-1 staining of mitochondria of dying RGC-5 cells.\n\n\nCONCLUSIONS\nTaken together, these results indicate that serum withdrawal induces apoptotic cell death in RGC-5 cells via mitochondrial pathways. These studies lead to the speculation that growth factor deprivation arising from blockade of retrograde transport of neurotrophins may involve similar mechanism(s) of retinal ganglion cell death in glaucoma.",
+            "year": 2005,
+            "citation_count": 109,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the mechanisms of apoptotic cell death in retinal ganglion cells, which is related to the neuroprotective effects of PPAR-gamma ligands investigated in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Concomitant Inhibition of MDM2 and Bcl-2 Protein Function Synergistically Induce Mitochondrial Apoptosis in AML": {
+                    "explanation": "This paper explores the relationship between Bcl-2 family proteins and mitochondrial apoptosis, which is related to the source paper's findings on the role of mitochondrial pathways in apoptotic cell death. However, the source paper's specific focus on serum deprivation and retinal ganglion cells is not directly built upon in this paper.",
+                    "relevance": 1
+                },
+                "2. Increased stress-induced generation of reactive oxygen species and apoptosis in human keratoconus fibroblasts": {
+                    "explanation": "This paper investigates the relationship between reactive oxygen species (ROS) and apoptosis, which is related to the source paper's findings on the role of oxidative stress in apoptotic cell death. However, the source paper's specific focus on serum deprivation and retinal ganglion cells is not directly built upon in this paper.",
+                    "relevance": 1
+                },
+                "3. Regulation of FOXC1 Stability and Transcriptional Activity by an Epidermal Growth Factor-activated Mitogen-activated Protein Kinase Signaling Cascade": {
+                    "explanation": "This paper explores the regulation of FOXC1 transcriptional activity, which is not directly related to the source paper's findings on serum deprivation and mitochondrial pathways in retinal ganglion cells.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Concomitant Inhibition of MDM2 and Bcl-2 Protein Function Synergistically Induce Mitochondrial Apoptosis in AML": {
+                    "explanation": "This paper explores the relationship between Bcl-2 family proteins and mitochondrial apoptosis, which is related to the source paper's findings on the role of mitochondrial pathways in apoptotic cell death. However, the source paper's specific focus on serum deprivation and retinal ganglion cells is not directly built upon in this paper.",
+                    "relevance": 1
+                },
+                "2. Increased stress-induced generation of reactive oxygen species and apoptosis in human keratoconus fibroblasts": {
+                    "explanation": "This paper investigates the relationship between reactive oxygen species (ROS) and apoptosis, which is related to the source paper's findings on the role of oxidative stress in apoptotic cell death. However, the source paper's specific focus on serum deprivation and retinal ganglion cells is not directly built upon in this paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2007,
+        "source_paper": {
+            "paperId": "0af6a5efae4700cc3ab66c62d0a85a19eb79d22e",
+            "title": "Serum deprivation induces apoptotic cell death of transformed rat retinal ganglion cells via mitochondrial signaling pathways.",
+            "abstract": "PURPOSE\nApoptosis-related signaling pathways were investigated in a cultured rat retinal ganglion cell (RGC-5) line deprived of growth factors after serum withdrawal from the culture medium.\n\n\nMETHODS\nRGC-5 cells were subjected to serum deprivation for 2 to 6 days and compared with RGC-5 cells cultured in growth medium containing 10% fetal calf serum. Cell viability was determined by a neutral red dye uptake assay. Apoptosis of RGC-5 cells was established by DNA laddering. The expression of various apoptosis-related genes was investigated by immunoblot analysis, and or reverse transcription polymerase chain reaction (RT-PCR) analysis. The redox state of the cell was determined by biochemical methods, including NF-kappaB binding activity by electrophoretic mobility gel shift assays (EMSA) and mitochondrial damage by JC-1 (5,5', 6,6'-tetrachloro 1,1',3,3'-tetraethylbenzimidazolyl-carbocyanine iodide) staining, using live cell confocal microscopy and cytosolic release of cytochrome c.\n\n\nRESULTS\nFifty percent cell loss was evident after 2 days of serum deprivation, as demonstrated by neutral red dye uptake assay. This cell loss was due to apoptotic cell death, as established by DNA laddering. The oxidative state of serum-deprived RGC-5 cells was perturbed as suggested by the increase in malonyldialdehyde (MDA) and a decrease in reduced glutathione (GSH) levels in cell lysates. The apoptosis of the RGC-5 cells was associated with the activation of caspase-3, -8, and -9, and increased levels of Bax with corresponding decreases in Bcl-2 levels and NF-kappaB (NF-kappaB) binding activity. Serum deprivation was also associated with a loss of mitochondrial function, as revealed by cytosolic release of cytochrome c and JC-1 staining of mitochondria of dying RGC-5 cells.\n\n\nCONCLUSIONS\nTaken together, these results indicate that serum withdrawal induces apoptotic cell death in RGC-5 cells via mitochondrial pathways. These studies lead to the speculation that growth factor deprivation arising from blockade of retrograde transport of neurotrophins may involve similar mechanism(s) of retinal ganglion cell death in glaucoma.",
+            "year": 2005,
+            "citation_count": 109,
+            "relevance": 2,
+            "explanation": "This paper is partially dependent on the findings of the source paper, as it investigates the mechanisms of apoptotic cell death in retinal ganglion cells, which is related to the neuroprotective effects of PPAR-gamma ligands investigated in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. A key role for calpains in retinal ganglion cell death": {
+                    "explanation": "This paper explores a new angle (calpain's role in RGC apoptosis) of RGC cell death, building on the source paper's results regarding serum withdrawal-induced apoptosis in RGC-5 cells.",
+                    "relevance": 1
+                },
+                "2. Elevated hydrostatic pressure triggers release of OPA1 and cytochrome C, and induces apoptotic cell death in differentiated RGC-5 cells": {
+                    "explanation": "This paper investigates the effect of elevated hydrostatic pressure on RGC-5 cells, which is a new angle, but the apoptosis-related signaling pathways explored in this paper are partially dependent on the previous findings regarding serum withdrawal-induced apoptosis in RGC-5 cells.",
+                    "relevance": 2
+                },
+                "3. Elevated hydrostatic pressure triggers mitochondrial fission and decreases cellular ATP in differentiated RGC-5 cells": {
+                    "explanation": "This paper is similar to paper 2 and investigates the effect of elevated hydrostatic pressure on RGC-5 cells, which is a new angle, but the apoptosis-related signaling pathways explored in this paper are partially dependent on the previous findings regarding serum withdrawal-induced apoptosis in RGC-5 cells.",
+                    "relevance": 2
+                },
+                "4. Oxidative Stress in Glaucoma: A Burden of Evidence": {
+                    "explanation": "This paper is a review paper that discusses the role of oxidative stress in glaucoma, it does not have a direct connection with the source paper.",
+                    "relevance": 0
+                },
+                "5. Inhibition of plasminogen activators attenuates the death of differentiated retinal ganglion cells and stabilizes their neurite network in vitro": {
+                    "explanation": "This paper explores a new angle (plasminogen activators' role in RGC cell death) of RGC cell death, but it is partially dependent on the previous findings regarding apoptosis in RGC-5 cells.",
+                    "relevance": 2
+                },
+                "6. Microarray reveals complement components are regulated in the serum-deprived rat retinal ganglion cell line": {
+                    "explanation": "This paper uses a similar model (serum-deprived RGC-5 cells) to the source paper and explores the regulation of complement components, which is partially dependent on the previous findings regarding serum withdrawal-induced apoptosis in RGC-5 cells.",
+                    "relevance": 2
+                },
+                "7. The influence of visible light exposure on cultured RGC-5 cells": {
+                    "explanation": "This paper explores a new angle (visible light exposure's effect on RGC-5 cells) of RGC cell death, building on the source paper's results regarding serum withdrawal-induced apoptosis in RGC-5 cells.",
+                    "relevance": 1
+                },
+                "8. The influence of visible light exposure on cultured RGC-5 cells": {
+                    "explanation": "This paper is a duplicate of paper 7, it explores a new angle (visible light exposure's effect on RGC-5 cells) of RGC cell death, building on the source paper's results regarding serum withdrawal-induced apoptosis in RGC-5 cells.",
+                    "relevance": 1
+                },
+                "9. Suppression of mitochondrial oxidative stress provides long-term neuroprotection in experimental optic neuritis": {
+                    "explanation": "This paper explores a new angle (mitochondrial oxidative stress's role in optic neuritis) of neurodegeneration, but it is not directly related to the source paper.",
+                    "relevance": 0
+                },
+                "10. Variations in DNA Methylation Patterns During the Cell Cycle of HeLa Cells": {
+                    "explanation": "This paper is not related to the source paper, it discusses DNA methylation patterns in HeLa cells.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Elevated hydrostatic pressure triggers release of OPA1 and cytochrome C, and induces apoptotic cell death in differentiated RGC-5 cells": {
+                    "explanation": "This paper investigates the effect of elevated hydrostatic pressure on RGC-5 cells, which is a new angle, but the apoptosis-related signaling pathways explored in this paper are partially dependent on the previous findings regarding serum withdrawal-induced apoptosis in RGC-5 cells.",
+                    "relevance": 2
+                },
+                "2. Elevated hydrostatic pressure triggers mitochondrial fission and decreases cellular ATP in differentiated RGC-5 cells": {
+                    "explanation": "This paper is similar to paper 1 and investigates the effect of elevated hydrostatic pressure on RGC-5 cells, which is a new angle, but the apoptosis-related signaling pathways explored in this paper are partially dependent on the previous findings regarding serum withdrawal-induced apoptosis in RGC-5 cells.",
+                    "relevance": 2
+                },
+                "3. Microarray reveals complement components are regulated in the serum-deprived rat retinal ganglion cell line": {
+                    "explanation": "This paper uses a similar model (serum-deprived RGC-5 cells) to the source paper and explores the regulation of complement components, which is partially dependent on the previous findings regarding serum withdrawal-induced apoptosis in RGC-5 cells.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2008,
+        "source_paper": {
+            "paperId": "4cfe730beef975a8db21f0da302570fea252225d",
+            "title": "Elevated hydrostatic pressure triggers mitochondrial fission and decreases cellular ATP in differentiated RGC-5 cells.",
+            "abstract": "PURPOSE\nMitochondrial fission is a cellular response to stress that has an important role in neuronal cell death in neurodegenerative diseases. The purpose of this study was to determine whether elevated hydrostatic pressure induces mitochondrial fission and dysfunction in cultured retinal ganglion cells.\n\n\nMETHODS\nRGC-5 cells were differentiated with succinyl concanavalin A (50 microg/mL) and transferred to a pressurized incubator in which 30 mm Hg of pressure was applied for 1, 2, or 3 days. As a control, differentiated cells from an identical passage were incubated simultaneously in a conventional incubator at each of the time points. Live RGC-5 cells were then labeled with a red fluorescent mitochondrial dye and mitochondrial morphology was assessed by fluorescence microscopy and electron microscopy. After elevated hydrostatic pressure, the cellular adenosine triphosphate (ATP) levels were also measured by a luciferase-based assay.\n\n\nRESULTS\nMitochondrial fission, characterized by the conversion of tubular fused mitochondria into isolated small organelles, was triggered in >74.3% +/- 1.9% of mitochondria at 3 days after elevated hydrostatic pressure. Only 4.7% +/- 1.4% of nonpressurized control cells displayed mitochondrial fission after 3 days. Electron microscopy showed that elevated hydrostatic pressure for 3 days induced abnormal cristae depletion and decreased the length of the mitochondria. On elevation of hydrostatic pressure, the fission-linked protein, Drp-1 was translocated from the cytosol to the mitochondria. Elevated hydrostatic pressure also resulted in a significant, time-dependent reduction of cellular ATP.\n\n\nCONCLUSIONS\nElevated hydrostatic pressure triggered mitochondrial fission, abnormal cristae depletion, Drp-1 translocation, and cellular ATP reduction in differentiated RGC-5 cells. Increased understanding of the molecular mechanisms that regulate the cellular response to elevated pressure including mitochondrial fission may provide new therapeutic targets for protecting RGCs from elevated hydrostatic pressure.",
+            "year": 2007,
+            "citation_count": 138,
+            "relevance": 2,
+            "explanation": "This paper is similar to paper 1 and investigates the effect of elevated hydrostatic pressure on RGC-5 cells, which is a new angle, but the apoptosis-related signaling pathways explored in this paper are partially dependent on the previous findings regarding serum withdrawal-induced apoptosis in RGC-5 cells."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Glutamate receptor activation triggers OPA1 release and induces apoptotic cell death in ischemic rat retina": {
+                    "explanation": "The paper investigates the effects of glutamate receptor activation and intraocular pressure elevation on mitochondrial dysfunction and OPA1 release in ischemic rat retina, which is related to the source paper's findings on elevated hydrostatic pressure and mitochondrial fission. However, the paper's hypothesis is not directly dependent on the source paper's findings, but rather explores a related topic.",
+                    "relevance": 1
+                },
+                "2. Intraocular pressure elevation induces mitochondrial fission and triggers OPA1 release in glaucomatous optic nerve": {
+                    "explanation": "The paper examines the effects of intraocular pressure elevation on mitochondrial fission and OPA1 release in glaucomatous optic nerve, which is directly related to the source paper's findings on elevated hydrostatic pressure and mitochondrial fission. The paper's hypothesis is at least partially dependent on the source paper's findings, as it builds upon the understanding of mitochondrial fission in response to elevated pressure.",
+                    "relevance": 2
+                },
+                "3. Activation of autophagy in retinal ganglion cells": {
+                    "explanation": "The paper investigates the activation of autophagy in retinal ganglion cells following optic nerve transection, which is a different topic from the source paper's findings on elevated hydrostatic pressure and mitochondrial fission. There is no direct connection between the two papers.",
+                    "relevance": 0
+                },
+                "4. Mechanical Stretching Elevates Peptidyl Arginine Deiminase 2 Expression in Astrocytes": {
+                    "explanation": "The paper examines the effects of mechanical stretching on peptidyl arginine deiminase 2 expression in astrocytes, which is unrelated to the source paper's findings on elevated hydrostatic pressure and mitochondrial fission in retinal ganglion cells. There is no direct connection between the two papers.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Intraocular pressure elevation induces mitochondrial fission and triggers OPA1 release in glaucomatous optic nerve": {
+                    "explanation": "The paper examines the effects of intraocular pressure elevation on mitochondrial fission and OPA1 release in glaucomatous optic nerve, which is directly related to the source paper's findings on elevated hydrostatic pressure and mitochondrial fission. The paper's hypothesis is at least partially dependent on the source paper's findings, as it builds upon the understanding of mitochondrial fission in response to elevated pressure.",
+                    "relevance": 2
+                },
+                "2. Glutamate receptor activation triggers OPA1 release and induces apoptotic cell death in ischemic rat retina": {
+                    "explanation": "The paper investigates the effects of glutamate receptor activation and intraocular pressure elevation on mitochondrial dysfunction and OPA1 release in ischemic rat retina, which is related to the source paper's findings on elevated hydrostatic pressure and mitochondrial fission. However, the paper's hypothesis is not directly dependent on the source paper's findings, but rather explores a related topic.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2009,
+        "source_paper": {
+            "paperId": "4cfe730beef975a8db21f0da302570fea252225d",
+            "title": "Elevated hydrostatic pressure triggers mitochondrial fission and decreases cellular ATP in differentiated RGC-5 cells.",
+            "abstract": "PURPOSE\nMitochondrial fission is a cellular response to stress that has an important role in neuronal cell death in neurodegenerative diseases. The purpose of this study was to determine whether elevated hydrostatic pressure induces mitochondrial fission and dysfunction in cultured retinal ganglion cells.\n\n\nMETHODS\nRGC-5 cells were differentiated with succinyl concanavalin A (50 microg/mL) and transferred to a pressurized incubator in which 30 mm Hg of pressure was applied for 1, 2, or 3 days. As a control, differentiated cells from an identical passage were incubated simultaneously in a conventional incubator at each of the time points. Live RGC-5 cells were then labeled with a red fluorescent mitochondrial dye and mitochondrial morphology was assessed by fluorescence microscopy and electron microscopy. After elevated hydrostatic pressure, the cellular adenosine triphosphate (ATP) levels were also measured by a luciferase-based assay.\n\n\nRESULTS\nMitochondrial fission, characterized by the conversion of tubular fused mitochondria into isolated small organelles, was triggered in >74.3% +/- 1.9% of mitochondria at 3 days after elevated hydrostatic pressure. Only 4.7% +/- 1.4% of nonpressurized control cells displayed mitochondrial fission after 3 days. Electron microscopy showed that elevated hydrostatic pressure for 3 days induced abnormal cristae depletion and decreased the length of the mitochondria. On elevation of hydrostatic pressure, the fission-linked protein, Drp-1 was translocated from the cytosol to the mitochondria. Elevated hydrostatic pressure also resulted in a significant, time-dependent reduction of cellular ATP.\n\n\nCONCLUSIONS\nElevated hydrostatic pressure triggered mitochondrial fission, abnormal cristae depletion, Drp-1 translocation, and cellular ATP reduction in differentiated RGC-5 cells. Increased understanding of the molecular mechanisms that regulate the cellular response to elevated pressure including mitochondrial fission may provide new therapeutic targets for protecting RGCs from elevated hydrostatic pressure.",
+            "year": 2007,
+            "citation_count": 138,
+            "relevance": 2,
+            "explanation": "This paper is similar to paper 1 and investigates the effect of elevated hydrostatic pressure on RGC-5 cells, which is a new angle, but the apoptosis-related signaling pathways explored in this paper are partially dependent on the previous findings regarding serum withdrawal-induced apoptosis in RGC-5 cells."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Recharacterization of the RGC-5 retinal ganglion cell line": {
+                    "explanation": "This paper has no direct connection with the source paper, as it focuses on the recharacterization of the RGC-5 cell line, which is not directly related to the effects of elevated hydrostatic pressure on mitochondrial fission and cellular ATP in the source paper.",
+                    "relevance": 0
+                },
+                "2. Increased isolevuglandin-modified proteins in glaucomatous astrocytes": {
+                    "explanation": "This paper explores the effects of elevated pressure on astrocytes, which is a related but distinct topic from the source paper's focus on retinal ganglion cells. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "3. Specific expression of E-Tmod (Tmod1) in horizontal cells: implications in neuronal cell mechanics and glaucomatous retina": {
+                    "explanation": "This paper discusses the role of E-Tmod in horizontal cells and its implications for glaucomatous retina, which is a related topic to the source paper. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "4. Mitochondrial Dysfunction and Glaucoma": {
+                    "explanation": "This paper reviews the evidence for mitochondrial dysfunction in glaucoma, which is a related topic to the source paper. The source paper's findings on mitochondrial fission and cellular ATP reduction in response to elevated hydrostatic pressure could be seen as a sub-hypothesis for this paper's discussion of mitochondrial dysfunction in glaucoma.",
+                    "relevance": 2
+                },
+                "5. Norrin attenuates protease-mediated death of transformed retinal ganglion cells": {
+                    "explanation": "This paper explores the effects of norrin on protease-mediated death of transformed retinal ganglion cells, which is a distinct topic from the source paper's focus on the effects of elevated hydrostatic pressure on mitochondrial fission and cellular ATP. However, it does mention the use of RGC-5 cells, which are also used in the source paper.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Mitochondrial Dysfunction and Glaucoma": {
+                    "explanation": "This paper reviews the evidence for mitochondrial dysfunction in glaucoma, which is a related topic to the source paper. The source paper's findings on mitochondrial fission and cellular ATP reduction in response to elevated hydrostatic pressure could be seen as a sub-hypothesis for this paper's discussion of mitochondrial dysfunction in glaucoma.",
+                    "relevance": 2
+                },
+                "2. Increased isolevuglandin-modified proteins in glaucomatous astrocytes": {
+                    "explanation": "This paper explores the effects of elevated pressure on astrocytes, which is a related but distinct topic from the source paper's focus on retinal ganglion cells. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "3. Specific expression of E-Tmod (Tmod1) in horizontal cells: implications in neuronal cell mechanics and glaucomatous retina": {
+                    "explanation": "This paper discusses the role of E-Tmod in horizontal cells and its implications for glaucomatous retina, which is a related topic to the source paper. However, it does not directly build upon or depend on the findings of the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2010,
+        "source_paper": {
+            "paperId": "a4e68ba34ed0a1f7634aa5e3bf43216331df3490",
+            "title": "Mitochondrial Dysfunction and Glaucoma",
+            "abstract": "Glaucoma is increasingly recognized as a neurodegenerative disorder, characterized by the accelerated loss of retinal ganglion cells (RGCs) and their axons. Open angle glaucoma prevalence and incidence increase exponentially with increasing age, yet the pathophysiology underlying increasing age as a risk factor for glaucoma is not well understood. Accumulating evidence points to age-related mitochondrial dysfunction playing a key role in the etiology of other neurodegenerative disorders including amyotrophic lateral sclerosis, Alzheimer and Parkinson disease. The 2 major functions of mitochondria are the generation of ATP through oxidative phosphorylation and the regulation of cell death by apoptosis. This review details evidence to support our hypothesis that age-associated mitochondrial dysfunction renders RGCs susceptible to glaucomatous injury by reducing the energy available for repair processes and predisposing RGCs to apoptosis. Eliciting the role of mitochondria in glaucoma pathogenesis may uncover novel therapeutic targets for protecting the optic nerve and preventing vision loss in glaucoma.",
+            "year": 2009,
+            "citation_count": 252,
+            "relevance": 2,
+            "explanation": "This paper reviews the evidence for mitochondrial dysfunction in glaucoma, which is a related topic to the source paper. The source paper's findings on mitochondrial fission and cellular ATP reduction in response to elevated hydrostatic pressure could be seen as a sub-hypothesis for this paper's discussion of mitochondrial dysfunction in glaucoma."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Neuroprotective agents in glaucoma therapy: recent developments and future directions": {
+                    "explanation": "This paper is not directly connected to the source paper, but it discusses neuroprotection as a treatment paradigm for glaucoma. Although it mentions neurodegeneration, it does not specifically explore mitochondrial dysfunction as a key factor in glaucoma pathogenesis.",
+                    "relevance": 0
+                },
+                "2. The Importance of Mitochondria in Age-Related and Inherited Eye Disorders": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper. The source paper highlights the role of mitochondrial dysfunction in glaucoma, and this paper expands on the importance of mitochondria in age-related and inherited eye disorders, including glaucoma.",
+                    "relevance": 2
+                },
+                "3. Mechanisms of Retinal Ganglion Cell Injury in Aging and Glaucoma": {
+                    "explanation": "The key hypothesis in this paper is inspired by the hypothesis of the source paper. The source paper proposes that age-associated mitochondrial dysfunction renders retinal ganglion cells susceptible to glaucomatous injury, and this paper explores the mechanisms of retinal ganglion cell injury in aging and glaucoma, including the role of mitochondrial dysfunction.",
+                    "relevance": 1
+                },
+                "4. Association of polymorphisms of tumor necrosis factor and tumor protein p53 with primary open-angle glaucoma": {
+                    "explanation": "This paper has no direct connection to the source paper. It explores the association of genetic polymorphisms with primary open-angle glaucoma, but it does not discuss mitochondrial dysfunction or its role in glaucoma pathogenesis.",
+                    "relevance": 0
+                },
+                "5. Energy metabolism of the visual system": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper. The source paper highlights the importance of mitochondrial function in generating energy for retinal ganglion cells, and this paper explores the energy metabolism of the visual system, including the role of mitochondria in generating ATP.",
+                    "relevance": 2
+                },
+                "6. Oxidative Stress Markers in Patients with Primary Open-Angle Glaucoma": {
+                    "explanation": "The key hypothesis in this paper is inspired by the hypothesis of the source paper. The source paper proposes that mitochondrial dysfunction leads to oxidative stress and retinal ganglion cell injury, and this paper explores the levels of oxidative stress markers in patients with primary open-angle glaucoma.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. The Importance of Mitochondria in Age-Related and Inherited Eye Disorders": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper. The source paper highlights the role of mitochondrial dysfunction in glaucoma, and this paper expands on the importance of mitochondria in age-related and inherited eye disorders, including glaucoma.",
+                    "relevance": 2
+                },
+                "2. Energy metabolism of the visual system": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper. The source paper highlights the importance of mitochondrial function in generating energy for retinal ganglion cells, and this paper explores the energy metabolism of the visual system, including the role of mitochondria in generating ATP.",
+                    "relevance": 2
+                },
+                "3. Mechanisms of Retinal Ganglion Cell Injury in Aging and Glaucoma": {
+                    "explanation": "The key hypothesis in this paper is inspired by the hypothesis of the source paper. The source paper proposes that age-associated mitochondrial dysfunction renders retinal ganglion cells susceptible to glaucomatous injury, and this paper explores the mechanisms of retinal ganglion cell injury in aging and glaucoma, including the role of mitochondrial dysfunction.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2011,
+        "source_paper": {
+            "paperId": "a4e68ba34ed0a1f7634aa5e3bf43216331df3490",
+            "title": "Mitochondrial Dysfunction and Glaucoma",
+            "abstract": "Glaucoma is increasingly recognized as a neurodegenerative disorder, characterized by the accelerated loss of retinal ganglion cells (RGCs) and their axons. Open angle glaucoma prevalence and incidence increase exponentially with increasing age, yet the pathophysiology underlying increasing age as a risk factor for glaucoma is not well understood. Accumulating evidence points to age-related mitochondrial dysfunction playing a key role in the etiology of other neurodegenerative disorders including amyotrophic lateral sclerosis, Alzheimer and Parkinson disease. The 2 major functions of mitochondria are the generation of ATP through oxidative phosphorylation and the regulation of cell death by apoptosis. This review details evidence to support our hypothesis that age-associated mitochondrial dysfunction renders RGCs susceptible to glaucomatous injury by reducing the energy available for repair processes and predisposing RGCs to apoptosis. Eliciting the role of mitochondria in glaucoma pathogenesis may uncover novel therapeutic targets for protecting the optic nerve and preventing vision loss in glaucoma.",
+            "year": 2009,
+            "citation_count": 252,
+            "relevance": 2,
+            "explanation": "This paper reviews the evidence for mitochondrial dysfunction in glaucoma, which is a related topic to the source paper. The source paper's findings on mitochondrial fission and cellular ATP reduction in response to elevated hydrostatic pressure could be seen as a sub-hypothesis for this paper's discussion of mitochondrial dysfunction in glaucoma."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Mitochondrial Dysfunction in Retinal Diseases": {
+                    "explanation": "This paper is a review of the role of mitochondrial dysfunction in retinal diseases, including glaucoma. The source paper also explores the connection between mitochondrial dysfunction and glaucoma. However, this paper does not directly build upon the source paper's findings or use them as a sub-hypothesis, so it is given a relevance score of 1.",
+                    "relevance": 1
+                },
+                "2. Quantitative proteomics: TGF\u03b2\u2082 signaling in trabecular meshwork cells": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the role of TGF\u03b2\u2082 signaling in the trabecular meshwork, which is related to glaucoma. The source paper's findings on mitochondrial dysfunction and glaucoma provide a foundation for this study's exploration of TGF\u03b2\u2082 signaling in the trabecular meshwork.",
+                    "relevance": 2
+                },
+                "3. Mitochondrial disorders and the eye": {
+                    "explanation": "This paper is a review of the clinical significance of mitochondrial dysfunction in the eye, including its role in glaucoma. The source paper also explores the connection between mitochondrial dysfunction and glaucoma. However, this paper does not directly build upon the source paper's findings or use them as a sub-hypothesis, so it is given a relevance score of 1.",
+                    "relevance": 1
+                },
+                "4. Mitochondrial disorders and the eye": {
+                    "explanation": "This paper is a review of the recent progress in understanding the ophthalmologic manifestations of primary mitochondrial diseases and the implications of mitochondrial dysfunction in common ophthalmologic disorders of aging, including glaucoma. The source paper also explores the connection between mitochondrial dysfunction and glaucoma. However, this paper does not directly build upon the source paper's findings or use them as a sub-hypothesis, so it is given a relevance score of 1.",
+                    "relevance": 1
+                },
+                "5. Oxidative stress, mitochondrial dysfunction and calcium overload in human lamina cribrosa cells from glaucoma donors": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the role of oxidative stress, mitochondrial dysfunction, and calcium overload in human lamina cribrosa cells from glaucoma donors. The source paper's findings on mitochondrial dysfunction and glaucoma provide a foundation for this study's exploration of the molecular mechanisms underlying glaucoma.",
+                    "relevance": 2
+                },
+                "6. Early gene expression changes in the retinal ganglion cell layer of a rat glaucoma model": {
+                    "explanation": "The key hypothesis in this paper is inspired by the hypothesis of the source paper, as it investigates the early gene expression changes in the retinal ganglion cell layer of a rat glaucoma model. However, it does not directly build upon the source paper's findings or use them as a sub-hypothesis, so it is given a relevance score of 1.",
+                    "relevance": 1
+                },
+                "7. The role of blood pressure in glaucoma": {
+                    "explanation": "This paper reviews the clinical and experimental studies on the relationships among blood pressure, ocular perfusion pressure, and blood flow autoregulation in the pathogenesis of glaucoma. The source paper does not explore the connection between blood pressure and glaucoma, so this paper is given a relevance score of 0.",
+                    "relevance": 0
+                },
+                "8. Potential for serotonergic agents to treat elevated intraocular pressure and glaucoma: focus on 5-HT2 receptor agonists": {
+                    "explanation": "This paper reviews the ocular serotonergic literature pertaining to elevated intraocular pressure in patients with ocular hypertension and glaucoma. The source paper does not explore the connection between serotonergic agents and glaucoma, so this paper is given a relevance score of 0.",
+                    "relevance": 0
+                },
+                "9. Clinical and experimental links between diabetes and glaucoma": {
+                    "explanation": "This paper reviews the clinical trials and biochemical and cellular similarities between diabetes and glaucoma. The source paper does not explore the connection between diabetes and glaucoma, so this paper is given a relevance score of 0.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Quantitative proteomics: TGF\u03b2\u2082 signaling in trabecular meshwork cells": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the role of TGF\u03b2\u2082 signaling in the trabecular meshwork, which is related to glaucoma. The source paper's findings on mitochondrial dysfunction and glaucoma provide a foundation for this study's exploration of TGF\u03b2\u2082 signaling in the trabecular meshwork.",
+                    "relevance": 2
+                },
+                "2. Oxidative stress, mitochondrial dysfunction and calcium overload in human lamina cribrosa cells from glaucoma donors": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the role of oxidative stress, mitochondrial dysfunction, and calcium overload in human lamina cribrosa cells from glaucoma donors. The source paper's findings on mitochondrial dysfunction and glaucoma provide a foundation for this study's exploration of the molecular mechanisms underlying glaucoma.",
+                    "relevance": 2
+                },
+                "3. Mitochondrial Dysfunction in Retinal Diseases": {
+                    "explanation": "This paper is a review of the role of mitochondrial dysfunction in retinal diseases, including glaucoma. The source paper also explores the connection between mitochondrial dysfunction and glaucoma. However, this paper does not directly build upon the source paper's findings or use them as a sub-hypothesis, so it is given a relevance score of 1.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2011,
+        "source_paper": {
+            "paperId": "1964a9734cc8055203d56c35c03d9e54898b83b1",
+            "title": "Energy metabolism of the visual system.",
+            "abstract": "The visual system is one of the most energetically demanding systems in the brain. The currency of energy is ATP, which is generated most efficiently from oxidative metabolism in the mitochondria. ATP supports multiple neuronal functions. Foremost is repolarization of the membrane potential after depolarization. Neuronal activity, ATP generation, blood flow, oxygen consumption, glucose utilization, and mitochondrial oxidative metabolism are all interrelated. In the retina, phototransduction, neurotransmitter utilization, and protein/organelle transport are energy-dependent, yet repolarization-after-depolarization consumes the bulk of the energy. Repolarization in photoreceptor inner segments maintains the dark current. Repolarization by all neurons along the visual pathway following depolarizing excitatory glutamatergic neurotransmission preserves cellular integrity and permits reactivation. The higher metabolic activity in the magno- versus the parvo-cellular pathway, the ON- versus the OFF-pathway in some (and the reverse in other) species, and in specialized functional representations in the visual cortex all reflect a greater emphasis on the processing of specific visual attributes. Neuronal activity and energy metabolism are tightly coupled processes at the cellular and even at the molecular levels. Deficiencies in energy metabolism, such as in diabetes, mitochondrial DNA mutation, mitochondrial protein malfunction, and oxidative stress can lead to retinopathy, visual deficits, neuronal degeneration, and eventual blindness.",
+            "year": 2010,
+            "citation_count": 354,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper. The source paper highlights the importance of mitochondrial function in generating energy for retinal ganglion cells, and this paper explores the energy metabolism of the visual system, including the role of mitochondria in generating ATP."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Low-level light therapy of the eye and brain": {
+                    "explanation": "This paper explores the effects of low-level light therapy on the eye and brain, focusing on its impact on mitochondrial function and energy metabolism. Although it does not directly build upon the source paper's findings, it discusses the importance of mitochondrial function in the visual system, which is a key aspect of the source paper. Therefore, the hypothesis in this paper is partially dependent on the source paper's findings.",
+                    "relevance": 2
+                },
+                "2. Mitochondrial disorders and the eye": {
+                    "explanation": "This paper discusses the clinical significance of disturbed mitochondrial function in the eye, including its relation to various ophthalmic manifestations. The source paper highlights the importance of energy metabolism in the visual system, and this paper explores the consequences of mitochondrial dysfunction in the eye. The hypothesis in this paper is partially dependent on the source paper's findings, as it builds upon the understanding of energy metabolism in the visual system.",
+                    "relevance": 2
+                },
+                "3. Mitochondrial disorders and the eye": {
+                    "explanation": "This review paper focuses on recent progress in understanding the ophthalmologic manifestations of primary mitochondrial diseases and discusses emerging therapies. Although it does not present novel findings, it summarizes the current state of knowledge on mitochondrial dysfunction in the eye. The paper is a review, and its content is not directly dependent on the source paper's findings.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Low-level light therapy of the eye and brain": {
+                    "explanation": "This paper explores the effects of low-level light therapy on the eye and brain, focusing on its impact on mitochondrial function and energy metabolism. Although it does not directly build upon the source paper's findings, it discusses the importance of mitochondrial function in the visual system, which is a key aspect of the source paper. Therefore, the hypothesis in this paper is partially dependent on the source paper's findings.",
+                    "relevance": 2
+                },
+                "2. Mitochondrial disorders and the eye": {
+                    "explanation": "This paper discusses the clinical significance of disturbed mitochondrial function in the eye, including its relation to various ophthalmic manifestations. The source paper highlights the importance of energy metabolism in the visual system, and this paper explores the consequences of mitochondrial dysfunction in the eye. The hypothesis in this paper is partially dependent on the source paper's findings, as it builds upon the understanding of energy metabolism in the visual system.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2012,
+        "source_paper": {
+            "paperId": "1964a9734cc8055203d56c35c03d9e54898b83b1",
+            "title": "Energy metabolism of the visual system.",
+            "abstract": "The visual system is one of the most energetically demanding systems in the brain. The currency of energy is ATP, which is generated most efficiently from oxidative metabolism in the mitochondria. ATP supports multiple neuronal functions. Foremost is repolarization of the membrane potential after depolarization. Neuronal activity, ATP generation, blood flow, oxygen consumption, glucose utilization, and mitochondrial oxidative metabolism are all interrelated. In the retina, phototransduction, neurotransmitter utilization, and protein/organelle transport are energy-dependent, yet repolarization-after-depolarization consumes the bulk of the energy. Repolarization in photoreceptor inner segments maintains the dark current. Repolarization by all neurons along the visual pathway following depolarizing excitatory glutamatergic neurotransmission preserves cellular integrity and permits reactivation. The higher metabolic activity in the magno- versus the parvo-cellular pathway, the ON- versus the OFF-pathway in some (and the reverse in other) species, and in specialized functional representations in the visual cortex all reflect a greater emphasis on the processing of specific visual attributes. Neuronal activity and energy metabolism are tightly coupled processes at the cellular and even at the molecular levels. Deficiencies in energy metabolism, such as in diabetes, mitochondrial DNA mutation, mitochondrial protein malfunction, and oxidative stress can lead to retinopathy, visual deficits, neuronal degeneration, and eventual blindness.",
+            "year": 2010,
+            "citation_count": 354,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper. The source paper highlights the importance of mitochondrial function in generating energy for retinal ganglion cells, and this paper explores the energy metabolism of the visual system, including the role of mitochondria in generating ATP."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Regulation of Na+/K+-ATPase by Nuclear Respiratory Factor 1": {
+                    "explanation": "This paper builds upon the concept of energy metabolism in the visual system presented in the source paper. It specifically explores the regulation of Na+/K+-ATPase, a major energy-consuming enzyme, by Nuclear Respiratory Factor 1 (NRF-1), which is also involved in regulating energy generation in neurons. The paper's hypothesis is partially dependent on the findings of the source paper regarding the tight coupling of neuronal activity and energy metabolism.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Regulation of Na+/K+-ATPase by Nuclear Respiratory Factor 1": {
+                    "explanation": "This paper builds upon the concept of energy metabolism in the visual system presented in the source paper. It specifically explores the regulation of Na+/K+-ATPase, a major energy-consuming enzyme, by Nuclear Respiratory Factor 1 (NRF-1), which is also involved in regulating energy generation in neurons. The paper's hypothesis is partially dependent on the findings of the source paper regarding the tight coupling of neuronal activity and energy metabolism.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2012,
+        "source_paper": {
+            "paperId": "6dd4dd3d3dfe8961932d43523784ac81e0d6f746",
+            "title": "Low-level light therapy of the eye and brain.",
+            "abstract": "Low-level light therapy (LLLT) using red to near-infrared light energy has gained attention in recent years as a new scientific approach with therapeutic applications in ophthalmology, neurology, and psychiatry. The ongoing therapeutic revolution spearheaded by LLLT is largely propelled by progress in the basic science fields of photobiology and bioenergetics. This paper describes the mechanisms of action of LLLT at the molecular, cellular, and nervous tissue levels. Photoneuromodulation of cytochrome oxidase activity is the most important primary mechanism of action of LLLT. Cytochrome oxidase is the primary photoacceptor of light in the red to near-infrared region of the electromagnetic spectrum. It is also a key mitochondrial enzyme for cellular bioenergetics, especially for nerve cells in the retina and the brain. Evidence shows that LLLT can secondarily enhance neural metabolism by regulating mitochondrial function, intraneuronal signaling systems, and redox states. Current knowledge about LLLT dosimetry relevant for its hormetic effects on nervous tissue, including noninvasive in vivo retinal and transcranial effects, is also presented. Recent research is reviewed that supports LLLT potential benefits in retinal disease, stroke, neurotrauma, neurodegeneration, and memory and mood disorders. Since mitochondrial dysfunction plays a key role in neurodegeneration, LLLT has potential significant applications against retinal and brain damage by counteracting the consequences of mitochondrial failure. Upon transcranial delivery in vivo, LLLT induces brain metabolic and antioxidant beneficial effects, as measured by increases in cytochrome oxidase and superoxide dismutase activities. Increases in cerebral blood flow and cognitive functions induced by LLLT have also been observed in humans. Importantly, LLLT given at energy densities that exert beneficial effects does not induce adverse effects. This highlights the value of LLLT as a novel paradigm to treat visual, neurological, and psychological conditions, and supports that neuronal energy metabolism could constitute a major target for neurotherapeutics of the eye and brain.",
+            "year": 2011,
+            "citation_count": 191,
+            "relevance": 2,
+            "explanation": "This paper explores the effects of low-level light therapy on the eye and brain, focusing on its impact on mitochondrial function and energy metabolism. Although it does not directly build upon the source paper's findings, it discusses the importance of mitochondrial function in the visual system, which is a key aspect of the source paper. Therefore, the hypothesis in this paper is partially dependent on the source paper's findings."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Low-level light therapy improves cortical metabolic capacity and memory retention": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the effects of low-level light therapy (LLLT) on cortical metabolic capacity and memory retention, building on the source paper's results regarding LLLT's mechanisms of action and its potential benefits in neurological and psychological conditions.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Low-level light therapy improves cortical metabolic capacity and memory retention": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the effects of low-level light therapy (LLLT) on cortical metabolic capacity and memory retention, building on the source paper's results regarding LLLT's mechanisms of action and its potential benefits in neurological and psychological conditions.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2013,
+        "source_paper": {
+            "paperId": "6dd4dd3d3dfe8961932d43523784ac81e0d6f746",
+            "title": "Low-level light therapy of the eye and brain.",
+            "abstract": "Low-level light therapy (LLLT) using red to near-infrared light energy has gained attention in recent years as a new scientific approach with therapeutic applications in ophthalmology, neurology, and psychiatry. The ongoing therapeutic revolution spearheaded by LLLT is largely propelled by progress in the basic science fields of photobiology and bioenergetics. This paper describes the mechanisms of action of LLLT at the molecular, cellular, and nervous tissue levels. Photoneuromodulation of cytochrome oxidase activity is the most important primary mechanism of action of LLLT. Cytochrome oxidase is the primary photoacceptor of light in the red to near-infrared region of the electromagnetic spectrum. It is also a key mitochondrial enzyme for cellular bioenergetics, especially for nerve cells in the retina and the brain. Evidence shows that LLLT can secondarily enhance neural metabolism by regulating mitochondrial function, intraneuronal signaling systems, and redox states. Current knowledge about LLLT dosimetry relevant for its hormetic effects on nervous tissue, including noninvasive in vivo retinal and transcranial effects, is also presented. Recent research is reviewed that supports LLLT potential benefits in retinal disease, stroke, neurotrauma, neurodegeneration, and memory and mood disorders. Since mitochondrial dysfunction plays a key role in neurodegeneration, LLLT has potential significant applications against retinal and brain damage by counteracting the consequences of mitochondrial failure. Upon transcranial delivery in vivo, LLLT induces brain metabolic and antioxidant beneficial effects, as measured by increases in cytochrome oxidase and superoxide dismutase activities. Increases in cerebral blood flow and cognitive functions induced by LLLT have also been observed in humans. Importantly, LLLT given at energy densities that exert beneficial effects does not induce adverse effects. This highlights the value of LLLT as a novel paradigm to treat visual, neurological, and psychological conditions, and supports that neuronal energy metabolism could constitute a major target for neurotherapeutics of the eye and brain.",
+            "year": 2011,
+            "citation_count": 191,
+            "relevance": 2,
+            "explanation": "This paper explores the effects of low-level light therapy on the eye and brain, focusing on its impact on mitochondrial function and energy metabolism. Although it does not directly build upon the source paper's findings, it discusses the importance of mitochondrial function in the visual system, which is a key aspect of the source paper. Therefore, the hypothesis in this paper is partially dependent on the source paper's findings."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. THE POTENTIAL OF INTRANASAL LIGHT THERAPY FOR BRAIN STIMULATION": {
+                    "explanation": "This paper is inspired by the findings of the source paper, as it explores a new method of delivering low-level light therapy (intranasal) and its potential benefits for brain-related conditions. The parameters for optimum brain stimulation with low-level light are based on the understanding of photoneuromodulation and mitochondrial function, which is a key concept in the source paper.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. THE POTENTIAL OF INTRANASAL LIGHT THERAPY FOR BRAIN STIMULATION": {
+                    "explanation": "This paper is inspired by the findings of the source paper, as it explores a new method of delivering low-level light therapy (intranasal) and its potential benefits for brain-related conditions. The parameters for optimum brain stimulation with low-level light are based on the understanding of photoneuromodulation and mitochondrial function, which is a key concept in the source paper.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2013,
+        "source_paper": {
+            "paperId": "1af06c5917e6207e5d61bb3f6a5da9dbeb4af6e6",
+            "title": "Low-level light therapy improves cortical metabolic capacity and memory retention.",
+            "abstract": "Cerebral hypometabolism characterizes mild cognitive impairment and Alzheimer's disease. Low-level light therapy (LLLT) enhances the metabolic capacity of neurons in culture through photostimulation of cytochrome oxidase, the mitochondrial enzyme that catalyzes oxygen consumption in cellular respiration. Growing evidence supports that neuronal metabolic enhancement by LLLT positively impacts neuronal function in vitro and in vivo. Based on its effects on energy metabolism, it is proposed that LLLT will also affect the cerebral cortex in vivo and modulate higher-order cognitive functions such as memory. In vivo effects of LLLT on brain and behavior are poorly characterized. We tested the hypothesis that in vivo LLLT facilitates cortical oxygenation and metabolic energy capacity and thereby improves memory retention. Specifically, we tested this hypothesis in rats using fear extinction memory, a form of memory modulated by prefrontal cortex activation. Effects of LLLT on brain metabolism were determined through measurement of prefrontal cortex oxygen concentration with fluorescent quenching oximetry and by quantitative cytochrome oxidase histochemistry. Experiment 1 verified that LLLT increased the rate of oxygen consumption in the prefrontal cortex in vivo. Experiment 2 showed that LLLT-treated rats had an enhanced extinction memory as compared to controls. Experiment 3 showed that LLLT reduced fear renewal and prevented the reemergence of extinguished conditioned fear responses. Experiment 4 showed that LLLT induced hormetic dose-response effects on the metabolic capacity of the prefrontal cortex. These data suggest that LLLT can enhance cortical metabolic capacity and retention of extinction memories, and implicate LLLT as a novel intervention to improve memory.",
+            "year": 2012,
+            "citation_count": 114,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the effects of low-level light therapy (LLLT) on cortical metabolic capacity and memory retention, building on the source paper's results regarding LLLT's mechanisms of action and its potential benefits in neurological and psychological conditions."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. THE POTENTIAL OF INTRANASAL LIGHT THERAPY FOR BRAIN STIMULATION": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the potential of intranasal light therapy for brain stimulation, building on the concept of low-level light therapy (LLLT) enhancing the metabolic capacity of neurons, which is also the core idea of the source paper.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. THE POTENTIAL OF INTRANASAL LIGHT THERAPY FOR BRAIN STIMULATION": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the potential of intranasal light therapy for brain stimulation, building on the concept of low-level light therapy (LLLT) enhancing the metabolic capacity of neurons, which is also the core idea of the source paper.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2014,
+        "source_paper": {
+            "paperId": "1af06c5917e6207e5d61bb3f6a5da9dbeb4af6e6",
+            "title": "Low-level light therapy improves cortical metabolic capacity and memory retention.",
+            "abstract": "Cerebral hypometabolism characterizes mild cognitive impairment and Alzheimer's disease. Low-level light therapy (LLLT) enhances the metabolic capacity of neurons in culture through photostimulation of cytochrome oxidase, the mitochondrial enzyme that catalyzes oxygen consumption in cellular respiration. Growing evidence supports that neuronal metabolic enhancement by LLLT positively impacts neuronal function in vitro and in vivo. Based on its effects on energy metabolism, it is proposed that LLLT will also affect the cerebral cortex in vivo and modulate higher-order cognitive functions such as memory. In vivo effects of LLLT on brain and behavior are poorly characterized. We tested the hypothesis that in vivo LLLT facilitates cortical oxygenation and metabolic energy capacity and thereby improves memory retention. Specifically, we tested this hypothesis in rats using fear extinction memory, a form of memory modulated by prefrontal cortex activation. Effects of LLLT on brain metabolism were determined through measurement of prefrontal cortex oxygen concentration with fluorescent quenching oximetry and by quantitative cytochrome oxidase histochemistry. Experiment 1 verified that LLLT increased the rate of oxygen consumption in the prefrontal cortex in vivo. Experiment 2 showed that LLLT-treated rats had an enhanced extinction memory as compared to controls. Experiment 3 showed that LLLT reduced fear renewal and prevented the reemergence of extinguished conditioned fear responses. Experiment 4 showed that LLLT induced hormetic dose-response effects on the metabolic capacity of the prefrontal cortex. These data suggest that LLLT can enhance cortical metabolic capacity and retention of extinction memories, and implicate LLLT as a novel intervention to improve memory.",
+            "year": 2012,
+            "citation_count": 114,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the effects of low-level light therapy (LLLT) on cortical metabolic capacity and memory retention, building on the source paper's results regarding LLLT's mechanisms of action and its potential benefits in neurological and psychological conditions."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Augmentation of cognitive brain functions with transcranial lasers": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper. The source paper investigates the effects of low-level light therapy (LLLT) on cortical metabolic capacity and memory retention, and this paper explores the neurochemical mechanisms supporting transcranial laser stimulation for cognitive-enhancing applications, which is a related concept. The paper also mentions the work of Gonzalez-Lima, who is an author of the source paper, indicating a connection between the two studies.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Augmentation of cognitive brain functions with transcranial lasers": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper. The source paper investigates the effects of low-level light therapy (LLLT) on cortical metabolic capacity and memory retention, and this paper explores the neurochemical mechanisms supporting transcranial laser stimulation for cognitive-enhancing applications, which is a related concept. The paper also mentions the work of Gonzalez-Lima, who is an author of the source paper, indicating a connection between the two studies.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2015,
+        "source_paper": {
+            "paperId": "fb5b6da1bfc06e788359ded1602685b7fe222c85",
+            "title": "Augmentation of cognitive brain functions with transcranial lasers",
+            "abstract": "Discovering that transcranial infrared laser stimulation produces beneficial effects on frontal cortex functions such as sustained attention, working memory, and affective state has been groundbreaking. Transcranial laser stimulation with low-power density (mW/cm2) and high-energy density (J/cm2) monochromatic light in the near-infrared wavelengths modulates brain functions and may produce neurotherapeutic effects in a nondestructive and non-thermal manner (Lampl, 2007; Hashmi et al., 2010). Barrett and Gonzalez-Lima (2013) provided the first controlled study showing that transcranial laser stimulation improves human cognitive and emotional brain functions. But for the field of low-level light/laser therapy (LLLT), development of a model of how luminous energy from red-to-near-infrared wavelengths modulates bioenergetics began with in vitro and in vivo discoveries in the last 40 years. Previous LLLT reviews have provided extensive background about historical developments, principles and applications (Rojas and Gonzalez-Lima, 2011, 2013; Chung et al., 2012). The purpose of this paper is to provide an update on LLLT's neurochemical mechanisms supporting transcranial laser stimulation for cognitive-enhancing applications. We will explain first LLLT's action on brain bioenergetics, briefly describe its bioavailability and dose-response, and finish with its beneficial effects on cognitive functions. Although our focus is on prefrontal-related cognitive functions, in principle LLLT should be able to modulate other brain functions. For example, stimulating different brain regions should affect different functions related to sensory and motor systems.",
+            "year": 2014,
+            "citation_count": 77,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper. The source paper investigates the effects of low-level light therapy (LLLT) on cortical metabolic capacity and memory retention, and this paper explores the neurochemical mechanisms supporting transcranial laser stimulation for cognitive-enhancing applications, which is a related concept. The paper also mentions the work of Gonzalez-Lima, who is an author of the source paper, indicating a connection between the two studies."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Bidirectional interactions between neuronal and hemodynamic responses to transcranial direct current stimulation (tDCS): challenges for brain-state dependent tDCS": {
+                    "explanation": "This paper explores a different brain stimulation technique (tDCS) and its effects on brain activity and hemodynamics. Although it does not directly build on the source paper's findings on transcranial laser stimulation, it is related to the broader field of brain stimulation and its effects on brain function. Therefore, the relevance score is 0.",
+                    "relevance": 0
+                },
+                "2. Protection against neurodegeneration with low-dose methylene blue and near-infrared light": {
+                    "explanation": "This paper discusses the neuroprotective effects of low-dose methylene blue and near-infrared light, which is related to the source paper's topic of transcranial laser stimulation. The paper builds on the idea that near-infrared light can stimulate mitochondrial respiration and promote neuronal survival, which is a similar concept to the source paper's discussion of low-level light/laser therapy (LLLT) and its effects on brain bioenergetics. Therefore, the relevance score is 2.",
+                    "relevance": 2
+                },
+                "3. Low level laser (light) therapy and photobiomodulation: the path forward": {
+                    "explanation": "This paper discusses the current state of low-level laser (light) therapy (LLLT) and photobiomodulation (PBM) therapy, which is directly related to the source paper's topic of transcranial laser stimulation. The paper provides an update on the mechanisms of LLLT and its applications, which is similar to the source paper's discussion of LLLT's neurochemical mechanisms and its effects on cognitive functions. Therefore, the relevance score is 2.",
+                    "relevance": 2
+                },
+                "4. Systems neuroscience in focus: from the human brain to the global brain?": {
+                    "explanation": "This paper discusses the concept of the Global Brain and its potential impact on individual human brains. Although it is a thought-provoking paper, it does not directly relate to the source paper's topic of transcranial laser stimulation and its effects on brain function. Therefore, the relevance score is 0.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Protection against neurodegeneration with low-dose methylene blue and near-infrared light": {
+                    "explanation": "This paper discusses the neuroprotective effects of low-dose methylene blue and near-infrared light, which is related to the source paper's topic of transcranial laser stimulation. The paper builds on the idea that near-infrared light can stimulate mitochondrial respiration and promote neuronal survival, which is a similar concept to the source paper's discussion of low-level light/laser therapy (LLLT) and its effects on brain bioenergetics.",
+                    "relevance": 2
+                },
+                "2. Low level laser (light) therapy and photobiomodulation: the path forward": {
+                    "explanation": "This paper discusses the current state of low-level laser (light) therapy (LLLT) and photobiomodulation (PBM) therapy, which is directly related to the source paper's topic of transcranial laser stimulation. The paper provides an update on the mechanisms of LLLT and its applications, which is similar to the source paper's discussion of LLLT's neurochemical mechanisms and its effects on cognitive functions.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2016,
+        "source_paper": {
+            "paperId": "fb5b6da1bfc06e788359ded1602685b7fe222c85",
+            "title": "Augmentation of cognitive brain functions with transcranial lasers",
+            "abstract": "Discovering that transcranial infrared laser stimulation produces beneficial effects on frontal cortex functions such as sustained attention, working memory, and affective state has been groundbreaking. Transcranial laser stimulation with low-power density (mW/cm2) and high-energy density (J/cm2) monochromatic light in the near-infrared wavelengths modulates brain functions and may produce neurotherapeutic effects in a nondestructive and non-thermal manner (Lampl, 2007; Hashmi et al., 2010). Barrett and Gonzalez-Lima (2013) provided the first controlled study showing that transcranial laser stimulation improves human cognitive and emotional brain functions. But for the field of low-level light/laser therapy (LLLT), development of a model of how luminous energy from red-to-near-infrared wavelengths modulates bioenergetics began with in vitro and in vivo discoveries in the last 40 years. Previous LLLT reviews have provided extensive background about historical developments, principles and applications (Rojas and Gonzalez-Lima, 2011, 2013; Chung et al., 2012). The purpose of this paper is to provide an update on LLLT's neurochemical mechanisms supporting transcranial laser stimulation for cognitive-enhancing applications. We will explain first LLLT's action on brain bioenergetics, briefly describe its bioavailability and dose-response, and finish with its beneficial effects on cognitive functions. Although our focus is on prefrontal-related cognitive functions, in principle LLLT should be able to modulate other brain functions. For example, stimulating different brain regions should affect different functions related to sensory and motor systems.",
+            "year": 2014,
+            "citation_count": 77,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper. The source paper investigates the effects of low-level light therapy (LLLT) on cortical metabolic capacity and memory retention, and this paper explores the neurochemical mechanisms supporting transcranial laser stimulation for cognitive-enhancing applications, which is a related concept. The paper also mentions the work of Gonzalez-Lima, who is an author of the source paper, indicating a connection between the two studies."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. The Neuroscience of Intelligence": {
+                    "explanation": "This paper does not have any connection with the source paper, as it focuses on the neuroscience of intelligence and does not mention transcranial laser stimulation or low-level light therapy.",
+                    "relevance": 0
+                },
+                "2. Phonon Guided Biology. Architecture of Life and Conscious Perception Are Mediated by Toroidal Coupling of Phonon, Photon and Electron Information Fluxes at Discrete Eigenfrequencies.": {
+                    "explanation": "This paper does not have any direct connection with the source paper, as it discusses a novel biological principle related to electromagnetic radiation frequencies and their effects on living cells, but it does not mention transcranial laser stimulation or low-level light therapy.",
+                    "relevance": 0
+                },
+                "3. Intracranial application of near-infrared light in a hemi-parkinsonian rat model: the impact on behavior and cell survival.": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the effects of near-infrared light on the brain, which is a related concept to transcranial laser stimulation discussed in the source paper.",
+                    "relevance": 2
+                },
+                "4. Cerebral Perfusion Enhancing Interventions: A New Strategy for the Prevention of Alzheimer Dementia": {
+                    "explanation": "The key hypothesis in this paper is inspired by the hypothesis or the finding from the source paper, as it discusses the use of photobiomodulation, a technique related to low-level light therapy, to stimulate mitochondrial energy production in nerve cells.",
+                    "relevance": 1
+                },
+                "5. Transcranial laser stimulation improves human cerebral oxygenation": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the effects of transcranial laser stimulation on cerebral hemodynamics and oxygenation, which is a direct application of the concepts discussed in the source paper.",
+                    "relevance": 2
+                },
+                "6. Transcranial low-level laser therapy (810 nm) temporarily inhibits peripheral nociception: photoneuromodulation of glutamate receptors, prostatic acid phophatase, and adenosine triphosphate": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it discusses the effects of transcranial low-level laser therapy on pain perception, which is a related concept to the neurotherapeutic effects of transcranial laser stimulation discussed in the source paper.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Intracranial application of near-infrared light in a hemi-parkinsonian rat model: the impact on behavior and cell survival.": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the effects of near-infrared light on the brain, which is a related concept to transcranial laser stimulation discussed in the source paper.",
+                    "relevance": 2
+                },
+                "2. Transcranial laser stimulation improves human cerebral oxygenation": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the effects of transcranial laser stimulation on cerebral hemodynamics and oxygenation, which is a direct application of the concepts discussed in the source paper.",
+                    "relevance": 2
+                },
+                "3. Transcranial low-level laser therapy (810 nm) temporarily inhibits peripheral nociception: photoneuromodulation of glutamate receptors, prostatic acid phophatase, and adenosine triphosphate": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it discusses the effects of transcranial low-level laser therapy on pain perception, which is a related concept to the neurotherapeutic effects of transcranial laser stimulation discussed in the source paper.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2017,
+        "source_paper": {
+            "paperId": "b92568f3ddfe0f49ed343fb748405168abcbb300",
+            "title": "Transcranial laser stimulation improves human cerebral oxygenation",
+            "abstract": "Transcranial laser stimulation of the brain with near\u2010infrared light is a novel form of non\u2010invasive photobiomodulation or low\u2010level laser therapy (LLLT) that has shown therapeutic potential in a variety of neurological and psychological conditions. Understanding of its neurophysiological effects is essential for mechanistic study and treatment evaluation. This study investigated how transcranial laser stimulation influences cerebral hemodynamics and oxygenation in the human brain in vivo using functional near\u2010infrared spectroscopy (fNIRS).",
+            "year": 2016,
+            "citation_count": 125,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the effects of transcranial laser stimulation on cerebral hemodynamics and oxygenation, which is a direct application of the concepts discussed in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Impact of heat on metabolic and hemodynamic changes in transcranial infrared laser stimulation measured by broadband near-infrared spectroscopy": {
+                    "explanation": "This paper builds on the source paper's findings regarding transcranial laser stimulation's effects on cerebral hemodynamics and oxygenation. It investigates the potential confounding factor of laser heating on the measurements, using a similar experimental setup and methods.",
+                    "relevance": 2
+                },
+                "2. The potential of transcranial photobiomodulation therapy for treatment of major depressive disorder": {
+                    "explanation": "This paper is a review that explores the application of transcranial photobiomodulation therapy for major depressive disorder, which is inspired by the source paper's findings on the therapeutic potential of transcranial laser stimulation. However, it does not directly build on or use the source paper's findings as a sub-hypothesis.",
+                    "relevance": 1
+                },
+                "3. Challenges of transcutaneous laser application for the potential of photobiomodulation of the spinal cord at the scale of a large companion animal": {
+                    "explanation": "This paper explores the challenges of applying transcutaneous laser stimulation to the spinal cord of large animals, which is a different context and application than the source paper's focus on human cerebral oxygenation.",
+                    "relevance": 0
+                },
+                "4. Diffuse correlation spectroscopy (DCS) study of blood flow changes during low level laser therapy (LLLT): a preliminary report": {
+                    "explanation": "This paper investigates the changes in regional blood flow induced by low-level laser therapy using diffuse correlation spectroscopy, which is a different method and context than the source paper's use of functional near-infrared spectroscopy to study cerebral hemodynamics and oxygenation.",
+                    "relevance": 0
+                },
+                "5. Up-regulation of cerebral cytochrome-c-oxidase and hemodynamics by transcranial infrared laser stimulation: A broadband near-infrared spectroscopy study": {
+                    "explanation": "This paper builds on the source paper's findings regarding transcranial laser stimulation's effects on cerebral hemodynamics and oxygenation. It uses a similar experimental setup and methods to investigate the up-regulation of cerebral cytochrome-c-oxidase and hemodynamic changes.",
+                    "relevance": 2
+                },
+                "6. Photokinesio Therapy for Orofacial Paralysis": {
+                    "explanation": "This paper presents a clinical case study on the use of photobiomodulation therapy for orofacial paralysis, which is a different context and application than the source paper's focus on human cerebral oxygenation.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Impact of heat on metabolic and hemodynamic changes in transcranial infrared laser stimulation measured by broadband near-infrared spectroscopy": {
+                    "explanation": "This paper builds on the source paper's findings regarding transcranial laser stimulation's effects on cerebral hemodynamics and oxygenation. It investigates the potential confounding factor of laser heating on the measurements, using a similar experimental setup and methods.",
+                    "relevance": 2
+                },
+                "2. Up-regulation of cerebral cytochrome-c-oxidase and hemodynamics by transcranial infrared laser stimulation: A broadband near-infrared spectroscopy study": {
+                    "explanation": "This paper builds on the source paper's findings regarding transcranial laser stimulation's effects on cerebral hemodynamics and oxygenation. It uses a similar experimental setup and methods to investigate the up-regulation of cerebral cytochrome-c-oxidase and hemodynamic changes.",
+                    "relevance": 2
+                },
+                "3. The potential of transcranial photobiomodulation therapy for treatment of major depressive disorder": {
+                    "explanation": "This paper is a review that explores the application of transcranial photobiomodulation therapy for major depressive disorder, which is inspired by the source paper's findings on the therapeutic potential of transcranial laser stimulation. However, it does not directly build on or use the source paper's findings as a sub-hypothesis.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2018,
+        "source_paper": {
+            "paperId": "b92568f3ddfe0f49ed343fb748405168abcbb300",
+            "title": "Transcranial laser stimulation improves human cerebral oxygenation",
+            "abstract": "Transcranial laser stimulation of the brain with near\u2010infrared light is a novel form of non\u2010invasive photobiomodulation or low\u2010level laser therapy (LLLT) that has shown therapeutic potential in a variety of neurological and psychological conditions. Understanding of its neurophysiological effects is essential for mechanistic study and treatment evaluation. This study investigated how transcranial laser stimulation influences cerebral hemodynamics and oxygenation in the human brain in vivo using functional near\u2010infrared spectroscopy (fNIRS).",
+            "year": 2016,
+            "citation_count": 125,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the effects of transcranial laser stimulation on cerebral hemodynamics and oxygenation, which is a direct application of the concepts discussed in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Transcranial Photobiomodulation for the Treatment of Major Depressive Disorder. The ELATED-2 Pilot Trial.": {
+                    "explanation": "This paper builds upon the source paper's findings on the effects of transcranial laser stimulation on cerebral oxygenation. The hypothesis in this paper is inspired by the source paper's results, as it investigates the antidepressant effect of transcranial photobiomodulation with near-infrared light.",
+                    "relevance": 1
+                },
+                "2. Increased Blood Flow and Oxidative Metabolism in the Human Brain by Transcranial Laser Stimulation": {
+                    "explanation": "This paper is partially dependent on the source paper's findings, as it also explores the effects of transcranial laser stimulation on cerebral hemodynamics and oxygenation. However, it uses functional magnetic resonance imaging (fMRI) to record the blood-oxygenation-level dependent (BOLD) signal, which is a different approach from the source paper's use of functional near-infrared spectroscopy (fNIRS).",
+                    "relevance": 2
+                },
+                "3. Which wavelength is optimal for transcranial low\u2010level laser stimulation?": {
+                    "explanation": "This paper is not directly related to the source paper's findings on cerebral oxygenation. Instead, it focuses on optimizing the illumination parameters for transcranial low-level laser therapy, which is a different aspect of the field.",
+                    "relevance": 0
+                },
+                "4. Low power infrared laser modifies the morphology of lung affected with acute injury induced by sepsis": {
+                    "explanation": "This paper is not related to the source paper's findings on cerebral oxygenation or transcranial laser stimulation. It explores the effects of low-power infrared laser on lung tissue, which is a different application of laser therapy.",
+                    "relevance": 0
+                },
+                "5. Low-Level Light Therapy Protects Red Blood Cells Against Oxidative Stress and Hemolysis During Extracorporeal Circulation": {
+                    "explanation": "This paper is not directly related to the source paper's findings on cerebral oxygenation or transcranial laser stimulation. It explores the effects of low-level light therapy on red blood cells during extracorporeal circulation, which is a different application of light therapy.",
+                    "relevance": 0
+                },
+                "6. Transcranial light-emitting diode therapy for neuropsychological improvement after traumatic brain injury: a new perspective for diffuse axonal lesion management": {
+                    "explanation": "This paper builds upon the source paper's findings on the effects of transcranial laser stimulation on cerebral oxygenation. The hypothesis in this paper is inspired by the source paper's results, as it investigates the use of transcranial light-emitting diode therapy for neuropsychological improvement after traumatic brain injury.",
+                    "relevance": 1
+                },
+                "7. Flexible nine-channel photodetector probe facilitated intraspinal multisite transcutaneous photobiomodulation therapy dosimetry in cadaver dogs.": {
+                    "explanation": "This paper is not directly related to the source paper's findings on cerebral oxygenation or transcranial laser stimulation. It explores the development of a flexible photodetector probe for intraspinal photobiomodulation therapy, which is a different application of light therapy.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Increased Blood Flow and Oxidative Metabolism in the Human Brain by Transcranial Laser Stimulation": {
+                    "explanation": "This paper is partially dependent on the source paper's findings, as it also explores the effects of transcranial laser stimulation on cerebral hemodynamics and oxygenation.",
+                    "relevance": 2
+                },
+                "2. Transcranial Photobiomodulation for the Treatment of Major Depressive Disorder. The ELATED-2 Pilot Trial.": {
+                    "explanation": "This paper builds upon the source paper's findings on the effects of transcranial laser stimulation on cerebral oxygenation.",
+                    "relevance": 1
+                },
+                "3. Transcranial light-emitting diode therapy for neuropsychological improvement after traumatic brain injury: a new perspective for diffuse axonal lesion management": {
+                    "explanation": "This paper builds upon the source paper's findings on the effects of transcranial laser stimulation on cerebral oxygenation.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2018,
+        "source_paper": {
+            "paperId": "1a087a6eda2b8fad600e39f7c66e63871575b839",
+            "title": "Up-regulation of cerebral cytochrome-c-oxidase and hemodynamics by transcranial infrared laser stimulation: A broadband near-infrared spectroscopy study",
+            "abstract": "Transcranial infrared laser stimulation (TILS) is a noninvasive form of brain photobiomulation. Cytochrome-c-oxidase (CCO), the terminal enzyme in the mitochondrial electron transport chain, is hypothesized to be the primary intracellular photoacceptor. We hypothesized that TILS up-regulates cerebral CCO and causes hemodynamic changes. We delivered 1064-nm laser stimulation to the forehead of healthy participants (n\u2009=\u200911), while broadband near-infrared spectroscopy was utilized to acquire light reflectance from the TILS-treated cortical region before, during, and after TILS. Placebo experiments were also performed for accurate comparison. Time course of spectroscopic readings were analyzed and fitted to the modified Beer\u2013Lambert law. With respect to the placebo readings, we observed (1) significant increases in cerebral concentrations of oxidized CCO (\u0394[CCO]; >0.08\u2009\u00b5M; p\u2009<\u20090.01), oxygenated hemoglobin (\u0394[HbO]; >0.8\u2009\u00b5M; p\u2009<\u20090.01), and total hemoglobin (\u0394[HbT]; >0.5\u2009\u00b5M; p\u2009<\u20090.01) during and after TILS, and (2) linear interplays between \u0394[CCO] versus \u0394[HbO] and between \u0394[CCO] versus \u0394[HbT]. Ratios of \u0394[CCO]/\u0394[HbO] and \u0394[CCO]/\u0394[HbT] were introduced as TILS-induced metabolic-hemodynamic coupling indices to quantify the coupling strength between TILS-enhanced cerebral metabolism and blood oxygen supply. This study provides the first demonstration that TILS causes up-regulation of oxidized CCO in the human brain, and contributes important insight into the physiological mechanisms.",
+            "year": 2017,
+            "citation_count": 131,
+            "relevance": 2,
+            "explanation": "This paper builds on the source paper's findings regarding transcranial laser stimulation's effects on cerebral hemodynamics and oxygenation. It uses a similar experimental setup and methods to investigate the up-regulation of cerebral cytochrome-c-oxidase and hemodynamic changes."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Executive functioning: perspectives on neurotrophic activity and pharmacology": {
+                    "explanation": "This paper discusses the improvement of executive functions through targeting certain signaling pathways in the brain, but it does not have any direct connection to the source paper, which focuses on transcranial infrared laser stimulation and its effects on cerebral cytochrome-c-oxidase and hemodynamics.",
+                    "relevance": 0
+                },
+                "2. Development and validation of a 3D-printed neuronavigation headset for therapeutic brain stimulation": {
+                    "explanation": "Although this paper is related to brain stimulation, it focuses on the development of a neuronavigation headset, which is a different topic from the source paper. The source paper explores the effects of transcranial infrared laser stimulation, whereas this paper deals with the technical aspects of brain stimulation.",
+                    "relevance": 0
+                },
+                "3. Optimize Illumination Parameter of Low-Level Laser Therapy for Hemorrhagic Stroke by Monte Carlo Simulation on Visible Human Dataset": {
+                    "explanation": "This paper investigates the optimization of low-level laser therapy for hemorrhagic stroke, which shares a common theme with the source paper, as both papers deal with the therapeutic applications of light. However, the specific focus and methods used in this paper are different from those in the source paper, making it partially dependent on the findings of the source paper.",
+                    "relevance": 1
+                },
+                "4. Transcranial light-emitting diode therapy for neuropsychological improvement after traumatic brain injury: a new perspective for diffuse axonal lesion management": {
+                    "explanation": "This paper explores the use of transcranial light-emitting diode therapy for traumatic brain injury, which is related to the source paper's focus on transcranial infrared laser stimulation. The paper builds upon the concept of photobiomodulation, which is also discussed in the source paper, making it at least partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Transcranial light-emitting diode therapy for neuropsychological improvement after traumatic brain injury: a new perspective for diffuse axonal lesion management": {
+                    "explanation": "This paper explores the use of transcranial light-emitting diode therapy for traumatic brain injury, which is related to the source paper's focus on transcranial infrared laser stimulation. The paper builds upon the concept of photobiomodulation, which is also discussed in the source paper, making it at least partially dependent on the findings of the source paper.",
+                    "relevance": 2
+                },
+                "2. Optimize Illumination Parameter of Low-Level Laser Therapy for Hemorrhagic Stroke by Monte Carlo Simulation on Visible Human Dataset": {
+                    "explanation": "This paper investigates the optimization of low-level laser therapy for hemorrhagic stroke, which shares a common theme with the source paper, as both papers deal with the therapeutic applications of light. However, the specific focus and methods used in this paper are different from those in the source paper, making it partially dependent on the findings of the source paper.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2019,
+        "source_paper": {
+            "paperId": "1a087a6eda2b8fad600e39f7c66e63871575b839",
+            "title": "Up-regulation of cerebral cytochrome-c-oxidase and hemodynamics by transcranial infrared laser stimulation: A broadband near-infrared spectroscopy study",
+            "abstract": "Transcranial infrared laser stimulation (TILS) is a noninvasive form of brain photobiomulation. Cytochrome-c-oxidase (CCO), the terminal enzyme in the mitochondrial electron transport chain, is hypothesized to be the primary intracellular photoacceptor. We hypothesized that TILS up-regulates cerebral CCO and causes hemodynamic changes. We delivered 1064-nm laser stimulation to the forehead of healthy participants (n\u2009=\u200911), while broadband near-infrared spectroscopy was utilized to acquire light reflectance from the TILS-treated cortical region before, during, and after TILS. Placebo experiments were also performed for accurate comparison. Time course of spectroscopic readings were analyzed and fitted to the modified Beer\u2013Lambert law. With respect to the placebo readings, we observed (1) significant increases in cerebral concentrations of oxidized CCO (\u0394[CCO]; >0.08\u2009\u00b5M; p\u2009<\u20090.01), oxygenated hemoglobin (\u0394[HbO]; >0.8\u2009\u00b5M; p\u2009<\u20090.01), and total hemoglobin (\u0394[HbT]; >0.5\u2009\u00b5M; p\u2009<\u20090.01) during and after TILS, and (2) linear interplays between \u0394[CCO] versus \u0394[HbO] and between \u0394[CCO] versus \u0394[HbT]. Ratios of \u0394[CCO]/\u0394[HbO] and \u0394[CCO]/\u0394[HbT] were introduced as TILS-induced metabolic-hemodynamic coupling indices to quantify the coupling strength between TILS-enhanced cerebral metabolism and blood oxygen supply. This study provides the first demonstration that TILS causes up-regulation of oxidized CCO in the human brain, and contributes important insight into the physiological mechanisms.",
+            "year": 2017,
+            "citation_count": 131,
+            "relevance": 2,
+            "explanation": "This paper builds on the source paper's findings regarding transcranial laser stimulation's effects on cerebral hemodynamics and oxygenation. It uses a similar experimental setup and methods to investigate the up-regulation of cerebral cytochrome-c-oxidase and hemodynamic changes."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Polarized light therapy: Shining a light on the mechanism underlying its immunomodulatory effects": {
+                    "explanation": "This paper has no connection with the source paper. It discusses polarized light therapy and its immunomodulatory effects, which is a different area of research.",
+                    "relevance": 0
+                },
+                "2. Learning Hemodynamic Effect of Transcranial Infrared Laser Stimulation Using Longitudinal Data Analysis": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper. It uses longitudinal data analysis to understand the hemodynamic effects of transcranial infrared laser stimulation, which is closely related to the source paper's topic.",
+                    "relevance": 2
+                },
+                "3. Transcranial Photobiomodulation For The Management Of Depression: Current Perspectives": {
+                    "explanation": "The key hypothesis in this paper is inspired by the hypothesis or the finding from the source paper. It reviews the use of transcranial photobiomodulation for managing depression, which is a related area of research.",
+                    "relevance": 1
+                },
+                "4. Cognitive Enhancement by Transcranial Photobiomodulation Is Associated With Cerebrovascular Oxygenation of the Prefrontal Cortex": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper. It investigates the association between cognitive enhancement and cerebrovascular oxygenation, which is closely related to the source paper's topic.",
+                    "relevance": 2
+                },
+                "5. Photobiomodulation therapy in knee osteoarthritis reduces oxidative stress and inflammatory cytokines in rats": {
+                    "explanation": "This paper has no connection with the source paper. It discusses photobiomodulation therapy for knee osteoarthritis, which is a different area of research.",
+                    "relevance": 0
+                },
+                "6. Transcranial Photobiomodulation Improves Cognitive Performance in Young Healthy Adults: A Systematic Review and Meta-Analysis": {
+                    "explanation": "This paper is a review paper and has no novel hypothesis or findings. It reviews the effects of transcranial photobiomodulation on cognitive performance in young healthy adults.",
+                    "relevance": 0
+                },
+                "7. Short-term Effects of Transcranial Near-Infrared Photobiomodulation on Motor Performance in Healthy Human Subjects: An Experimental SingleBlind Randomized Clinical Trial": {
+                    "explanation": "The key hypothesis in this paper is inspired by the hypothesis or the finding from the source paper. It investigates the short-term effects of transcranial near-infrared photobiomodulation on motor performance, which is a related area of research.",
+                    "relevance": 1
+                },
+                "8. Photobiomodulation using low\u2010level 808 nm diode laser rescues cochlear synaptopathy after acoustic overexposure in rat": {
+                    "explanation": "This paper has no connection with the source paper. It discusses photobiomodulation using a low-level 808 nm diode laser for rescuing cochlear synaptopathy, which is a different area of research.",
+                    "relevance": 0
+                },
+                "9. Photobiomodulation for Alzheimer's Disease: Has the Light Dawned?": {
+                    "explanation": "The key hypothesis in this paper is inspired by the hypothesis or the finding from the source paper. It reviews the use of photobiomodulation for Alzheimer's disease, which is a related area of research.",
+                    "relevance": 1
+                },
+                "10. 1064 nm Nd:YAG laser light affects transmembrane mitochondria respiratory chain complexes": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper. It investigates the effects of 1064 nm Nd:YAG laser light on transmembrane mitochondria respiratory chain complexes, which is closely related to the source paper's topic.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Learning Hemodynamic Effect of Transcranial Infrared Laser Stimulation Using Longitudinal Data Analysis": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper. It uses longitudinal data analysis to understand the hemodynamic effects of transcranial infrared laser stimulation, which is closely related to the source paper's topic.",
+                    "relevance": 2
+                },
+                "2. Cognitive Enhancement by Transcranial Photobiomodulation Is Associated With Cerebrovascular Oxygenation of the Prefrontal Cortex": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper. It investigates the association between cognitive enhancement and cerebrovascular oxygenation, which is closely related to the source paper's topic.",
+                    "relevance": 2
+                },
+                "3. 1064 nm Nd:YAG laser light affects transmembrane mitochondria respiratory chain complexes": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper. It investigates the effects of 1064 nm Nd:YAG laser light on transmembrane mitochondria respiratory chain complexes, which is closely related to the source paper's topic.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2019,
+        "source_paper": {
+            "paperId": "1a087a6eda2b8fad600e39f7c66e63871575b839",
+            "title": "Up-regulation of cerebral cytochrome-c-oxidase and hemodynamics by transcranial infrared laser stimulation: A broadband near-infrared spectroscopy study",
+            "abstract": "Transcranial infrared laser stimulation (TILS) is a noninvasive form of brain photobiomulation. Cytochrome-c-oxidase (CCO), the terminal enzyme in the mitochondrial electron transport chain, is hypothesized to be the primary intracellular photoacceptor. We hypothesized that TILS up-regulates cerebral CCO and causes hemodynamic changes. We delivered 1064-nm laser stimulation to the forehead of healthy participants (n\u2009=\u200911), while broadband near-infrared spectroscopy was utilized to acquire light reflectance from the TILS-treated cortical region before, during, and after TILS. Placebo experiments were also performed for accurate comparison. Time course of spectroscopic readings were analyzed and fitted to the modified Beer\u2013Lambert law. With respect to the placebo readings, we observed (1) significant increases in cerebral concentrations of oxidized CCO (\u0394[CCO]; >0.08\u2009\u00b5M; p\u2009<\u20090.01), oxygenated hemoglobin (\u0394[HbO]; >0.8\u2009\u00b5M; p\u2009<\u20090.01), and total hemoglobin (\u0394[HbT]; >0.5\u2009\u00b5M; p\u2009<\u20090.01) during and after TILS, and (2) linear interplays between \u0394[CCO] versus \u0394[HbO] and between \u0394[CCO] versus \u0394[HbT]. Ratios of \u0394[CCO]/\u0394[HbO] and \u0394[CCO]/\u0394[HbT] were introduced as TILS-induced metabolic-hemodynamic coupling indices to quantify the coupling strength between TILS-enhanced cerebral metabolism and blood oxygen supply. This study provides the first demonstration that TILS causes up-regulation of oxidized CCO in the human brain, and contributes important insight into the physiological mechanisms.",
+            "year": 2017,
+            "citation_count": 131,
+            "relevance": 2,
+            "explanation": "This paper builds on the source paper's findings regarding transcranial laser stimulation's effects on cerebral hemodynamics and oxygenation. It uses a similar experimental setup and methods to investigate the up-regulation of cerebral cytochrome-c-oxidase and hemodynamic changes."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Light\u2010emitting diode irradiation using 660\u2009nm promotes human fibroblast HSP90 expression and changes cellular activity and morphology": {
+                    "explanation": "The hypothesis in this paper is not directly related to the source paper, as it investigates the effects of LED irradiation on human fibroblasts, which is a different application and population than the source paper's focus on transcranial infrared laser stimulation and cerebral cytochrome-c-oxidase up-regulation.",
+                    "relevance": 0
+                },
+                "2. Transcranial photobiomodulation with 1064-nm laser modulates brain electroencephalogram rhythms": {
+                    "explanation": "The key hypothesis in this paper is inspired by the hypothesis of the source paper, as it explores the effects of transcranial photobiomodulation with a 1064-nm laser on brain electroencephalogram rhythms, building on the source paper's findings regarding the up-regulation of cerebral cytochrome-c-oxidase and hemodynamics.",
+                    "relevance": 1
+                },
+                "3. Transcranial photobiomodulation with infrared laser increases power of brain oscillations": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the effects of transcranial photobiomodulation with an infrared laser on brain oscillations, using the source paper's findings on cerebral oxygen metabolism and hemodynamics as a sub-hypothesis.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Transcranial photobiomodulation with infrared laser increases power of brain oscillations": {
+                    "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the effects of transcranial photobiomodulation with an infrared laser on brain oscillations, using the source paper's findings on cerebral oxygen metabolism and hemodynamics as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "2. Transcranial photobiomodulation with 1064-nm laser modulates brain electroencephalogram rhythms": {
+                    "explanation": "The key hypothesis in this paper is inspired by the hypothesis of the source paper, as it explores the effects of transcranial photobiomodulation with a 1064-nm laser on brain electroencephalogram rhythms, building on the source paper's findings regarding the up-regulation of cerebral cytochrome-c-oxidase and hemodynamics.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2020,
+        "source_paper": {
+            "paperId": "11cbd67a81eb39b2845ca9b2331804a362769e67",
+            "title": "Cognitive Enhancement by Transcranial Photobiomodulation Is Associated With Cerebrovascular Oxygenation of the Prefrontal Cortex",
+            "abstract": "Transcranial infrared laser stimulation (TILS) is a novel, safe, non-invasive method of brain photobiomodulation. Laser stimulation of the human prefrontal cortex causes cognitive enhancement. To investigate the hemodynamic effects in prefrontal cortex by which this cognitive enhancement occurs, we used functional near-infrared spectroscopy (fNIRS), which is a safe, non-invasive method of monitoring hemodynamics. We measured concentration changes in oxygenated and deoxygenated hemoglobin, total hemoglobin and differential effects in 18 healthy adults during sustained attention and working memory performance, before and after laser of the right prefrontal cortex. We also measured 16 sham controls without photobiomodulation. fNIRS revealed large effects on prefrontal oxygenation during cognitive enhancement post-laser and provided the first demonstration that cognitive enhancement by transcranial photobiomodulation is associated with cerebrovascular oxygenation of the prefrontal cortex. Sham control data served to rule out that the laser effects were due to pre-post task repetition or other non-specific effects. A laser-fNIRS combination may be useful to stimulate and monitor cerebrovascular oxygenation associated with neurocognitive enhancement in healthy individuals and in those with prefrontal hypometabolism, such as in cognitive aging, dementia and many neuropsychiatric disorders.",
+            "year": 2019,
+            "citation_count": 49,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper. It investigates the association between cognitive enhancement and cerebrovascular oxygenation, which is closely related to the source paper's topic."
+        },
+        "llama_output": {},
+        "seed": 42
+    },
+    {
+        "year": 2021,
+        "source_paper": {
+            "paperId": "11cbd67a81eb39b2845ca9b2331804a362769e67",
+            "title": "Cognitive Enhancement by Transcranial Photobiomodulation Is Associated With Cerebrovascular Oxygenation of the Prefrontal Cortex",
+            "abstract": "Transcranial infrared laser stimulation (TILS) is a novel, safe, non-invasive method of brain photobiomodulation. Laser stimulation of the human prefrontal cortex causes cognitive enhancement. To investigate the hemodynamic effects in prefrontal cortex by which this cognitive enhancement occurs, we used functional near-infrared spectroscopy (fNIRS), which is a safe, non-invasive method of monitoring hemodynamics. We measured concentration changes in oxygenated and deoxygenated hemoglobin, total hemoglobin and differential effects in 18 healthy adults during sustained attention and working memory performance, before and after laser of the right prefrontal cortex. We also measured 16 sham controls without photobiomodulation. fNIRS revealed large effects on prefrontal oxygenation during cognitive enhancement post-laser and provided the first demonstration that cognitive enhancement by transcranial photobiomodulation is associated with cerebrovascular oxygenation of the prefrontal cortex. Sham control data served to rule out that the laser effects were due to pre-post task repetition or other non-specific effects. A laser-fNIRS combination may be useful to stimulate and monitor cerebrovascular oxygenation associated with neurocognitive enhancement in healthy individuals and in those with prefrontal hypometabolism, such as in cognitive aging, dementia and many neuropsychiatric disorders.",
+            "year": 2019,
+            "citation_count": 49,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is at least partially dependent on the findings of the source paper. It investigates the association between cognitive enhancement and cerebrovascular oxygenation, which is closely related to the source paper's topic."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Effects of Photobiomodulation on Changes in Cognitive Function and Regional Cerebral Blood Flow in Patients with Mild Cognitive Impairment: A Pilot Uncontrolled Trial.": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effect of photobiomodulation on cognitive function and regional cerebral blood flow, building on the source paper's results regarding the association between cognitive enhancement and cerebrovascular oxygenation of the prefrontal cortex.",
+                    "relevance": 1
+                },
+                "2. Singular and combined effects of transcranial infrared laser stimulation and exposure therapy on pathological fear: a randomized clinical trial": {
+                    "explanation": "The key hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the effect of transcranial infrared laser stimulation on fear extinction learning and cognitive function, using the source paper's findings on the association between cognitive enhancement and cerebrovascular oxygenation of the prefrontal cortex as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "3. Pilot Study on Dose-Dependent Effects of Transcranial Photobiomodulation on Brain Electrical Oscillations: A Potential Therapeutic Target in Alzheimer's Disease.": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effect of transcranial photobiomodulation on brain electrical oscillations, building on the source paper's results regarding the association between cognitive enhancement and cerebrovascular oxygenation of the prefrontal cortex.",
+                    "relevance": 1
+                },
+                "4. Transcranial Infrared Laser Stimulation Improves Cognition in Older Bipolar Patients: Proof of Concept Study": {
+                    "explanation": "The key hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the effect of transcranial infrared laser stimulation on cognition in older bipolar patients, using the source paper's findings on the association between cognitive enhancement and cerebrovascular oxygenation of the prefrontal cortex as a sub-hypothesis.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Singular and combined effects of transcranial infrared laser stimulation and exposure therapy on pathological fear: a randomized clinical trial": {
+                    "explanation": "The key hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the effect of transcranial infrared laser stimulation on fear extinction learning and cognitive function, using the source paper's findings on the association between cognitive enhancement and cerebrovascular oxygenation of the prefrontal cortex as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "2. Transcranial Infrared Laser Stimulation Improves Cognition in Older Bipolar Patients: Proof of Concept Study": {
+                    "explanation": "The key hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the effect of transcranial infrared laser stimulation on cognition in older bipolar patients, using the source paper's findings on the association between cognitive enhancement and cerebrovascular oxygenation of the prefrontal cortex as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "3. Effects of Photobiomodulation on Changes in Cognitive Function and Regional Cerebral Blood Flow in Patients with Mild Cognitive Impairment: A Pilot Uncontrolled Trial.": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effect of photobiomodulation on cognitive function and regional cerebral blood flow, building on the source paper's results regarding the association between cognitive enhancement and cerebrovascular oxygenation of the prefrontal cortex.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2022,
+        "source_paper": {
+            "paperId": "50370bb04b0fa346db4d848ccf3fe79be784e09e",
+            "title": "Transcranial Infrared Laser Stimulation Improves Cognition in Older Bipolar Patients: Proof of Concept Study",
+            "abstract": "This is the first study to examine if transcranial infrared laser stimulation (TILS) improves cognition in older euthymic bipolar patients, who exhibit greater cognitive decline than is expected for age-matched controls. TILS is a non-invasive novel form of photobiomodulation that augments prefrontal oxygenation and improves cognition in young adults by upregulating the mitochondrial respiratory enzyme cytochrome-c-oxidase. We used a crossover sham-controlled design to examine if TILS to bilateral prefrontal cortex produces beneficial effects on cognition in 5 euthymic bipolar patients (ages 60-85). We measured cognitive flexibility, verbal fluency, working memory, sustained attention and impulsivity with tasks that have been shown to differentiate between healthy older adults and older bipolar adults. We found TILS-induced improvements in cognitive performance on the tasks that measure cognitive flexibility and impulsivity, after 5 weekly sessions of TILS. We concluded that TILS appeared both safe and effective in helping alleviate the accelerated cognitive decline present in older bipolar patients.",
+            "year": 2021,
+            "citation_count": 19,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the effect of transcranial infrared laser stimulation on cognition in older bipolar patients, using the source paper's findings on the association between cognitive enhancement and cerebrovascular oxygenation of the prefrontal cortex as a sub-hypothesis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Neuromodulation of brain power topography and network topology by prefrontal transcranial photobiomodulation": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it explores the effects of transcranial photobiomodulation (tPBM) on brain function and cognition, building on the source paper's results regarding transcranial infrared laser stimulation (TILS) and its impact on cognition in older bipolar patients.",
+                    "relevance": 1
+                },
+                "2. Mitochondrial Photobiomodulation as a Neurotherapeutic Strategy for Epilepsy": {
+                    "explanation": "While this paper explores a new angle (mitochondrial photobiomodulation for epilepsy), it is partially dependent on the previous findings regarding the effects of photobiomodulation on human neurocognitive functions and its potential therapeutic applications, thus using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "3. Photobiomodulation of Cytochrome c Oxidase by Chronic Transcranial Laser in Young and Aged Brains": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the effects of photobiomodulation on cytochrome c oxidase (CCO) activity in the brain, which is the same enzyme that was found to be upregulated by TILS in the source paper.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Photobiomodulation of Cytochrome c Oxidase by Chronic Transcranial Laser in Young and Aged Brains": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the effects of photobiomodulation on cytochrome c oxidase (CCO) activity in the brain, which is the same enzyme that was found to be upregulated by TILS in the source paper.",
+                    "relevance": 2
+                },
+                "2. Mitochondrial Photobiomodulation as a Neurotherapeutic Strategy for Epilepsy": {
+                    "explanation": "While this paper explores a new angle (mitochondrial photobiomodulation for epilepsy), it is partially dependent on the previous findings regarding the effects of photobiomodulation on human neurocognitive functions and its potential therapeutic applications, thus using the source paper's findings as a sub-hypothesis.",
+                    "relevance": 2
+                },
+                "3. Neuromodulation of brain power topography and network topology by prefrontal transcranial photobiomodulation": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it explores the effects of transcranial photobiomodulation (tPBM) on brain function and cognition, building on the source paper's results regarding transcranial infrared laser stimulation (TILS) and its impact on cognition in older bipolar patients.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2023,
+        "source_paper": {
+            "paperId": "50370bb04b0fa346db4d848ccf3fe79be784e09e",
+            "title": "Transcranial Infrared Laser Stimulation Improves Cognition in Older Bipolar Patients: Proof of Concept Study",
+            "abstract": "This is the first study to examine if transcranial infrared laser stimulation (TILS) improves cognition in older euthymic bipolar patients, who exhibit greater cognitive decline than is expected for age-matched controls. TILS is a non-invasive novel form of photobiomodulation that augments prefrontal oxygenation and improves cognition in young adults by upregulating the mitochondrial respiratory enzyme cytochrome-c-oxidase. We used a crossover sham-controlled design to examine if TILS to bilateral prefrontal cortex produces beneficial effects on cognition in 5 euthymic bipolar patients (ages 60-85). We measured cognitive flexibility, verbal fluency, working memory, sustained attention and impulsivity with tasks that have been shown to differentiate between healthy older adults and older bipolar adults. We found TILS-induced improvements in cognitive performance on the tasks that measure cognitive flexibility and impulsivity, after 5 weekly sessions of TILS. We concluded that TILS appeared both safe and effective in helping alleviate the accelerated cognitive decline present in older bipolar patients.",
+            "year": 2021,
+            "citation_count": 19,
+            "relevance": 2,
+            "explanation": "The key hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the effect of transcranial infrared laser stimulation on cognition in older bipolar patients, using the source paper's findings on the association between cognitive enhancement and cerebrovascular oxygenation of the prefrontal cortex as a sub-hypothesis."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Prefrontal photobiomodulation produces beneficial mitochondrial and oxygenation effects in older adults with bipolar disorder": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it uses the same non-invasive form of photobiomodulation (transcranial infrared laser stimulation) to study its effects on mitochondrial oxidative energy metabolism and cerebral oxygenation in older adults with bipolar disorder, building on the source paper's results regarding the safety and efficacy of TILS in improving cognition in older euthymic bipolar patients.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Prefrontal photobiomodulation produces beneficial mitochondrial and oxygenation effects in older adults with bipolar disorder": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it uses the same non-invasive form of photobiomodulation (transcranial infrared laser stimulation) to study its effects on mitochondrial oxidative energy metabolism and cerebral oxygenation in older adults with bipolar disorder, building on the source paper's results regarding the safety and efficacy of TILS in improving cognition in older euthymic bipolar patients.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2023,
+        "source_paper": {
+            "paperId": "aa0bfafffe5741510cbf50a4fb52b0a433bfae2e",
+            "title": "Photobiomodulation of Cytochrome c Oxidase by Chronic Transcranial Laser in Young and Aged Brains",
+            "abstract": "In cellular bioenergetics, cytochrome c oxidase (CCO) is the enzyme responsible for oxygen consumption in the mitochondrial electron transport chain, which drives oxidative phosphorylation for adenosine triphosphate (ATP) production. CCO is also the major intracellular acceptor of photons in the light wavelengths used for photobiomodulation (PBM). Brain function is critically dependent on oxygen consumption by CCO for ATP production. Therefore, our objectives were (1) to conduct the first detailed brain mapping study of the effects of PBM on regional CCO activity, and (2) to compare the chronic effects of PBM on young and aged brains. Specifically, we used quantitative CCO histochemistry to map the differences in CCO activity of brain regions in healthy young (4 months old) and aged (20 months old) rats from control groups with sham stimulation and from treated groups with 58 consecutive days of transcranial laser PBM (810 nm wavelength and 100 mW power). We found that aging predominantly decreased regional brain CCO activity and systems-level functional connectivity, while the chronic laser stimulation predominantly reversed these age-related effects. We concluded that chronic PBM modified the effects of aging by causing the CCO activity on brain regions in laser-treated aged rats to reach levels similar to those found in young rats. Given the crucial role of CCO in bioenergetics, PBM may be used to augment brain and behavioral functions of older individuals by improving oxidative energy metabolism.",
+            "year": 2022,
+            "citation_count": 27,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the effects of photobiomodulation on cytochrome c oxidase (CCO) activity in the brain, which is the same enzyme that was found to be upregulated by TILS in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Bibliometric Analysis to Global Research Status Quo on Photobiomodulation": {
+                    "explanation": "This paper is a review paper and does not have a direct connection to the source paper, as it provides a general overview of the current trends and future directions in the field of photobiomodulation.",
+                    "relevance": 0
+                },
+                "2. Mitochondria-sequestered A\u03b2 renders synaptic mitochondria vulnerable in the elderly with a risk of Alzheimer disease": {
+                    "explanation": "This paper explores the relationship between mitochondrial dysfunction and Alzheimer's disease, which is not directly related to the source paper's findings on photobiomodulation and cytochrome c oxidase activity.",
+                    "relevance": 0
+                },
+                "3. Prefrontal photobiomodulation produces beneficial mitochondrial and oxygenation effects in older adults with bipolar disorder": {
+                    "explanation": "This paper investigates the effects of photobiomodulation on mitochondrial function and oxygenation in older adults with bipolar disorder, which is partially dependent on the source paper's findings on the role of cytochrome c oxidase in photobiomodulation.",
+                    "relevance": 2
+                },
+                "4. Histochemical mapping of the duration of action of photobiomodulation on cytochrome c oxidase in the rat brain": {
+                    "explanation": "This paper explores the duration of action of photobiomodulation on cytochrome c oxidase activity in the rat brain, which is directly related to the source paper's findings on the effects of photobiomodulation on cytochrome c oxidase activity.",
+                    "relevance": 2
+                },
+                "5. Exploring Molecular Targets for Mitochondrial Therapies in Neurodegenerative Diseases": {
+                    "explanation": "This paper discusses alternative molecular targets for neurodegeneration treatments that focus on mitochondrial functions, which is not directly related to the source paper's findings on photobiomodulation and cytochrome c oxidase activity.",
+                    "relevance": 0
+                },
+                "6. Photons Induce Vesicular Exocytotic Release of Glutamate in a Power-Dependent Way": {
+                    "explanation": "This paper investigates the mechanisms involved in the photobiomodulation effects on glutamate release, which is not directly related to the source paper's findings on cytochrome c oxidase activity.",
+                    "relevance": 0
+                },
+                "7. Visual red-light stimulation for improving sleep quality in older adults": {
+                    "explanation": "This paper explores the effects of visual red-light stimulation on sleep quality in older adults, which is not directly related to the source paper's findings on photobiomodulation and cytochrome c oxidase activity.",
+                    "relevance": 0
+                },
+                "8. The anti-inflammatory effects of photobiomodulation are mediated by cytokines: Evidence from a mouse model of inflammation": {
+                    "explanation": "This paper investigates the anti-inflammatory effects of photobiomodulation, which is not directly related to the source paper's findings on cytochrome c oxidase activity.",
+                    "relevance": 0
+                },
+                "9. Use of a colorimeter is a viable method to measure melanin and erythema content in the context of laser beam attenuation by use of a class IV laser in different tissues in dogs": {
+                    "explanation": "This paper explores the use of a colorimeter to measure melanin and erythema content in the context of laser beam attenuation, which is not directly related to the source paper's findings on photobiomodulation and cytochrome c oxidase activity.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Prefrontal photobiomodulation produces beneficial mitochondrial and oxygenation effects in older adults with bipolar disorder": {
+                    "explanation": "This paper investigates the effects of photobiomodulation on mitochondrial function and oxygenation in older adults with bipolar disorder, which is partially dependent on the source paper's findings on the role of cytochrome c oxidase in photobiomodulation.",
+                    "relevance": 2
+                },
+                "2. Histochemical mapping of the duration of action of photobiomodulation on cytochrome c oxidase in the rat brain": {
+                    "explanation": "This paper explores the duration of action of photobiomodulation on cytochrome c oxidase activity in the rat brain, which is directly related to the source paper's findings on the effects of photobiomodulation on cytochrome c oxidase activity.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2024,
+        "source_paper": {
+            "paperId": "aa0bfafffe5741510cbf50a4fb52b0a433bfae2e",
+            "title": "Photobiomodulation of Cytochrome c Oxidase by Chronic Transcranial Laser in Young and Aged Brains",
+            "abstract": "In cellular bioenergetics, cytochrome c oxidase (CCO) is the enzyme responsible for oxygen consumption in the mitochondrial electron transport chain, which drives oxidative phosphorylation for adenosine triphosphate (ATP) production. CCO is also the major intracellular acceptor of photons in the light wavelengths used for photobiomodulation (PBM). Brain function is critically dependent on oxygen consumption by CCO for ATP production. Therefore, our objectives were (1) to conduct the first detailed brain mapping study of the effects of PBM on regional CCO activity, and (2) to compare the chronic effects of PBM on young and aged brains. Specifically, we used quantitative CCO histochemistry to map the differences in CCO activity of brain regions in healthy young (4 months old) and aged (20 months old) rats from control groups with sham stimulation and from treated groups with 58 consecutive days of transcranial laser PBM (810 nm wavelength and 100 mW power). We found that aging predominantly decreased regional brain CCO activity and systems-level functional connectivity, while the chronic laser stimulation predominantly reversed these age-related effects. We concluded that chronic PBM modified the effects of aging by causing the CCO activity on brain regions in laser-treated aged rats to reach levels similar to those found in young rats. Given the crucial role of CCO in bioenergetics, PBM may be used to augment brain and behavioral functions of older individuals by improving oxidative energy metabolism.",
+            "year": 2022,
+            "citation_count": 27,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it investigates the effects of photobiomodulation on cytochrome c oxidase (CCO) activity in the brain, which is the same enzyme that was found to be upregulated by TILS in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Enhancing Osteoblast Differentiation from Adipose-Derived Stem Cells Using Hydrogels and Photobiomodulation: Overcoming In Vitro Limitations for Osteoporosis Treatment": {
+                    "explanation": "This paper is a literature review that mentions photobiomodulation (PBM), which is also explored in the source paper. However, it does not build upon or depend on the findings of the source paper, and instead focuses on a different application of PBM.",
+                    "relevance": 0
+                },
+                "2. Selective induction of senescence in cancer cells through near-infrared light treatment via mitochondrial modulation": {
+                    "explanation": "This paper investigates the effects of near-infrared light on cellular senescence, which is related to the mitochondrial modulation explored in the source paper. However, it does not directly build upon or depend on the findings of the source paper, and instead explores a different aspect of photobiomodulation.",
+                    "relevance": 1
+                },
+                "3. Whole-Body Photobiomodulation Therapy Propels the Fibromyalgia Patient into the Recomposition Phase: A Reflexive Thematic Analysis": {
+                    "explanation": "This paper explores the use of whole-body photobiomodulation therapy for fibromyalgia, which is not directly related to the source paper's focus on brain function and cytochrome c oxidase activity. However, it does mention the use of photobiomodulation, which is a common thread between the two papers.",
+                    "relevance": 0
+                },
+                "4. Unleashing light's healing power: an overview of photobiomodulation for Alzheimer's treatment": {
+                    "explanation": "This paper provides an overview of photobiomodulation therapy for Alzheimer's disease, which is related to the source paper's exploration of photobiomodulation's effects on brain function. However, it does not directly build upon or depend on the findings of the source paper, and instead provides a general overview of the topic.",
+                    "relevance": 0
+                },
+                "5. Transcranial photobiomodulation for brain diseases: review of animal and human studies including mechanisms and emerging trends": {
+                    "explanation": "This paper provides a comprehensive review of transcranial photobiomodulation for brain diseases, which is directly related to the source paper's focus on photobiomodulation's effects on brain function. The paper builds upon the findings of the source paper and explores the mechanisms and emerging trends in the field.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Transcranial photobiomodulation for brain diseases: review of animal and human studies including mechanisms and emerging trends": {
+                    "explanation": "This paper provides a comprehensive review of transcranial photobiomodulation for brain diseases, which is directly related to the source paper's focus on photobiomodulation's effects on brain function. The paper builds upon the findings of the source paper and explores the mechanisms and emerging trends in the field.",
+                    "relevance": 2
+                },
+                "2. Selective induction of senescence in cancer cells through near-infrared light treatment via mitochondrial modulation": {
+                    "explanation": "This paper investigates the effects of near-infrared light on cellular senescence, which is related to the mitochondrial modulation explored in the source paper. However, it does not directly build upon or depend on the findings of the source paper, and instead explores a different aspect of photobiomodulation.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    }
+]

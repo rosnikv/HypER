@@ -1,0 +1,65 @@
+[
+    {
+        "year": 2001,
+        "source_paper": {
+            "paperId": "857eca9004df84c23a036e1ebc90d247cc16a88f",
+            "pmid": "10911825",
+            "title": "Randomized controlled trial of nettle sting for treatment of base-of-thumb pain",
+            "abstract": "Summary There are numerous published references to use of nettle sting for arthritis pain but no randomized controlled trials have been reported. We conducted a randomized controlled double-blind crossover study in 27 patients with osteoarthritic pain at the base of the thumb or index finger. Patients applied stinging nettle leaf (Urtica dioica) daily for one week to the painful area. The effect of this treatment was compared with that of placebo, white deadnettle leaf (Lamium album), for one week after a five-week washout period. Observations of pain and disability were recorded for the twelve weeks of the study. After one week's treatment with nettle sting, score reductions on both visual analogue scale (pain) and health assessment questionnaire (disability) were significantly greater than with placebo (P=0.026 and P=0.0027).",
+            "year": 2000,
+            "citation_count": 125
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Biological activity of plant extracts: novel analgesic drugs": {
+                    "explanation": "This paper is a review paper that discusses the development of new analgesic drugs from plant-derived substances, but it does not directly build upon or use the findings of the source paper as a sub-hypothesis. The source paper's specific focus on nettle sting for treating base-of-thumb pain is not directly related to this paper's broader discussion of plant-derived analgesics.",
+                    "relevance": 0
+                },
+                "2. Reliability, validity, and sensitivity to change of the Cochin hand functional disability scale in hand osteoarthritis": {
+                    "explanation": "This paper is focused on the validation of a hand functional disability scale in hand osteoarthritis, which is not directly related to the source paper's investigation of nettle sting for treating base-of-thumb pain. There is no apparent connection between the two papers' hypotheses or findings.",
+                    "relevance": 0
+                },
+                "3. Herbal medicines for the treatment of osteoarthritis: a systematic review": {
+                    "explanation": "This paper is a systematic review of herbal medicines for treating osteoarthritis, but it does not specifically focus on nettle sting or build upon the source paper's findings. While the source paper's results on nettle sting might be mentioned in the review, the paper's hypothesis and findings are not directly dependent on the source paper.",
+                    "relevance": 0
+                },
+                "4. Treatment of musculoskeletal pain with the sting of the stinging nettle, Urtica dioica": {
+                    "explanation": "This paper is directly related to the source paper, as it also investigates the therapeutic potential of nettle sting for treating musculoskeletal pain. The paper's hypothesis is at least partially dependent on the findings of the source paper, which demonstrated the efficacy of nettle sting for treating base-of-thumb pain. This paper appears to build upon the source paper's results and explore the broader application of nettle sting for treating musculoskeletal pain.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Treatment of musculoskeletal pain with the sting of the stinging nettle, Urtica dioica": {
+                    "explanation": "This paper is directly related to the source paper, as it also investigates the therapeutic potential of nettle sting for treating musculoskeletal pain. The paper's hypothesis is at least partially dependent on the findings of the source paper, which demonstrated the efficacy of nettle sting for treating base-of-thumb pain.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2002,
+        "source_paper": {
+            "paperId": "857eca9004df84c23a036e1ebc90d247cc16a88f",
+            "pmid": "10911825",
+            "title": "Randomized controlled trial of nettle sting for treatment of base-of-thumb pain",
+            "abstract": "Summary There are numerous published references to use of nettle sting for arthritis pain but no randomized controlled trials have been reported. We conducted a randomized controlled double-blind crossover study in 27 patients with osteoarthritic pain at the base of the thumb or index finger. Patients applied stinging nettle leaf (Urtica dioica) daily for one week to the painful area. The effect of this treatment was compared with that of placebo, white deadnettle leaf (Lamium album), for one week after a five-week washout period. Observations of pain and disability were recorded for the twelve weeks of the study. After one week's treatment with nettle sting, score reductions on both visual analogue scale (pain) and health assessment questionnaire (disability) were significantly greater than with placebo (P=0.026 and P=0.0027).",
+            "year": 2000,
+            "citation_count": 125
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Complementary and alternative medicine for pain management in rheumatic disease": {
+                    "explanation": "This paper is a review paper that discusses various complementary and alternative medicine approaches for pain management in rheumatic conditions, including the use of herbal remedies. While it mentions herbal remedies, it does not specifically build upon or depend on the findings of the source paper regarding nettle sting for treatment of base-of-thumb pain.",
+                    "relevance": 0
+                },
+                "2. Anti-Osteoporosis Activity of Fresh Water Snail (Viviparous bengalensis) Flesh Extracted Protein Fraction VB-P4 in Rat Models": {
+                    "explanation": "This paper explores the anti-osteoporosis activity of a protein fraction extracted from fresh water snail flesh in rat models. It does not appear to have any connection to the source paper, which investigated the use of nettle sting for treatment of base-of-thumb pain.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    }
+]

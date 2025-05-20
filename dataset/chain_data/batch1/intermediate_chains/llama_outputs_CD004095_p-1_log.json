@@ -1,0 +1,253 @@
+[
+    {
+        "year": 1979,
+        "source_paper": {
+            "paperId": "52dfeb1d7e06373b0a8221da153cd33e578a09f5",
+            "pmid": "629924",
+            "title": "Prospective comparison of modified-fat\u2013high-carbohydrate with standard low-carbohydrate dietary advice in the treatment of diabetes: one year follow-up study",
+            "abstract": "1. A prospective randomized study of two dietary regimens has been started in newly-diagnosed diabetics to determine their effect on circulating metabolites and on diabetic complications. 2. During the first year of treatment the fasting plasma glucose concentrations on both the low-carbohydrate diet and the high-carbohydrate, modified-fat (MF) diet showed a similar decrease. 3. Plasma cholesterol showed a sustained decrease only in patients recommended a MF diet. Transient changes in plasma triglyceride concentrations occurred in patients on both dietary regimens. 4. Increased plasma cholesterol levels are associated with atheromatous disease which is common in diabetics in Europe and North America. A MF diet may therefore have an advantage in that it lowers the plasma cholesterol as well as being effective in lowering the plasma glucose.",
+            "year": 1978,
+            "citation_count": 86
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. A prudent diet for the nation": {
+                    "explanation": "This paper discusses nutritional factors in the aetiology of diseases such as coronary heart disease and maturity-onset diabetes, and suggests principles for a prudent diet. The source paper also investigates the effect of dietary advice on diabetes treatment, but the connection between the two papers is not direct. The source paper does not serve as a sub-hypothesis for this paper, nor does this paper's hypothesis directly build upon the source paper's findings.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. A prudent diet for the nation": {
+                    "explanation": "This paper discusses nutritional factors in the aetiology of diseases such as coronary heart disease and maturity-onset diabetes, and suggests principles for a prudent diet. The source paper also investigates the effect of dietary advice on diabetes treatment, but the connection between the two papers is not direct. The source paper does not serve as a sub-hypothesis for this paper, nor does this paper's hypothesis directly build upon the source paper's findings.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 1980,
+        "source_paper": {
+            "paperId": "52dfeb1d7e06373b0a8221da153cd33e578a09f5",
+            "pmid": "629924",
+            "title": "Prospective comparison of modified-fat\u2013high-carbohydrate with standard low-carbohydrate dietary advice in the treatment of diabetes: one year follow-up study",
+            "abstract": "1. A prospective randomized study of two dietary regimens has been started in newly-diagnosed diabetics to determine their effect on circulating metabolites and on diabetic complications. 2. During the first year of treatment the fasting plasma glucose concentrations on both the low-carbohydrate diet and the high-carbohydrate, modified-fat (MF) diet showed a similar decrease. 3. Plasma cholesterol showed a sustained decrease only in patients recommended a MF diet. Transient changes in plasma triglyceride concentrations occurred in patients on both dietary regimens. 4. Increased plasma cholesterol levels are associated with atheromatous disease which is common in diabetics in Europe and North America. A MF diet may therefore have an advantage in that it lowers the plasma cholesterol as well as being effective in lowering the plasma glucose.",
+            "year": 1978,
+            "citation_count": 86
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. New perspectives on the dietary management of diabetes": {
+                    "explanation": "This paper has no direct connection to the source paper. It discusses the dietary management of diabetes in general and does not build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 1981,
+        "source_paper": {
+            "paperId": "530fc517596c9f66a8c4389b5d197678f373448b",
+            "title": "A prudent diet for the nation.",
+            "abstract": ": Nutritional factors in the aetiology of coronary heart disease, maturity-onset diabetes, diverticular disease and dental caries are discussed. Four principles for a prudent diet are suggested, namely: avoid excess intake of energy, increase dietary fibre intake, reduce total fat intake to approximately 30 per cent of energy intake, take a high proportion of fat as the polyunsaturated form.",
+            "year": 1979,
+            "citation_count": 5,
+            "relevance": 1,
+            "explanation": "This paper discusses nutritional factors in the aetiology of diseases such as coronary heart disease and maturity-onset diabetes, and suggests principles for a prudent diet. The source paper also investigates the effect of dietary advice on diabetes treatment, but the connection between the two papers is not direct. The source paper does not serve as a sub-hypothesis for this paper, nor does this paper's hypothesis directly build upon the source paper's findings."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. The nutrition significance of sucrose consumption, 1970-1980": {
+                    "explanation": "This paper is a review of the literature on sucrose consumption and its relationship to various disease conditions, including dental caries, cardiovascular disease, and diabetes. Although it discusses some of the same topics as the source paper, it does not present new findings or hypotheses that build on the source paper's principles for a prudent diet. Therefore, it is considered a review paper with no direct connection to the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 1981,
+        "source_paper": {
+            "paperId": "530fc517596c9f66a8c4389b5d197678f373448b",
+            "title": "A prudent diet for the nation.",
+            "abstract": ": Nutritional factors in the aetiology of coronary heart disease, maturity-onset diabetes, diverticular disease and dental caries are discussed. Four principles for a prudent diet are suggested, namely: avoid excess intake of energy, increase dietary fibre intake, reduce total fat intake to approximately 30 per cent of energy intake, take a high proportion of fat as the polyunsaturated form.",
+            "year": 1979,
+            "citation_count": 5,
+            "relevance": 1,
+            "explanation": "This paper discusses nutritional factors in the aetiology of diseases such as coronary heart disease and maturity-onset diabetes, and suggests principles for a prudent diet. The source paper also investigates the effect of dietary advice on diabetes treatment, but the connection between the two papers is not direct. The source paper does not serve as a sub-hypothesis for this paper, nor does this paper's hypothesis directly build upon the source paper's findings."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. The nutrition significance of sucrose consumption, 1970-1980": {
+                    "explanation": "This paper is a review of existing literature on sucrose consumption and its relationship to various disease conditions, including dental caries, cardiovascular disease, and diabetes. Although it touches on some of the same topics as the source paper, it does not build upon or depend on the findings of the source paper, and lacks novel hypotheses or findings.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 1982,
+        "source_paper": {
+            "paperId": "530fc517596c9f66a8c4389b5d197678f373448b",
+            "title": "A prudent diet for the nation.",
+            "abstract": ": Nutritional factors in the aetiology of coronary heart disease, maturity-onset diabetes, diverticular disease and dental caries are discussed. Four principles for a prudent diet are suggested, namely: avoid excess intake of energy, increase dietary fibre intake, reduce total fat intake to approximately 30 per cent of energy intake, take a high proportion of fat as the polyunsaturated form.",
+            "year": 1979,
+            "citation_count": 5,
+            "relevance": 1,
+            "explanation": "This paper discusses nutritional factors in the aetiology of diseases such as coronary heart disease and maturity-onset diabetes, and suggests principles for a prudent diet. The source paper also investigates the effect of dietary advice on diabetes treatment, but the connection between the two papers is not direct. The source paper does not serve as a sub-hypothesis for this paper, nor does this paper's hypothesis directly build upon the source paper's findings."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. School meals as an education resource": {
+                    "explanation": "This paper does not appear to be connected to the source paper, as it discusses the influence of school meals on food habits without referencing or building upon the source paper's principles for a prudent diet.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 1982,
+        "source_paper": {
+            "paperId": "530fc517596c9f66a8c4389b5d197678f373448b",
+            "title": "A prudent diet for the nation.",
+            "abstract": ": Nutritional factors in the aetiology of coronary heart disease, maturity-onset diabetes, diverticular disease and dental caries are discussed. Four principles for a prudent diet are suggested, namely: avoid excess intake of energy, increase dietary fibre intake, reduce total fat intake to approximately 30 per cent of energy intake, take a high proportion of fat as the polyunsaturated form.",
+            "year": 1979,
+            "citation_count": 5,
+            "relevance": 1,
+            "explanation": "This paper discusses nutritional factors in the aetiology of diseases such as coronary heart disease and maturity-onset diabetes, and suggests principles for a prudent diet. The source paper also investigates the effect of dietary advice on diabetes treatment, but the connection between the two papers is not direct. The source paper does not serve as a sub-hypothesis for this paper, nor does this paper's hypothesis directly build upon the source paper's findings."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. School meals as an education resource": {
+                    "explanation": "This paper has no connection with the source paper, as it discusses the influence of school meals on food habits, which is unrelated to the nutritional principles for a prudent diet suggested in the source paper.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2022,
+        "source_paper": {
+            "paperId": "530fc517596c9f66a8c4389b5d197678f373448b",
+            "title": "A prudent diet for the nation.",
+            "abstract": ": Nutritional factors in the aetiology of coronary heart disease, maturity-onset diabetes, diverticular disease and dental caries are discussed. Four principles for a prudent diet are suggested, namely: avoid excess intake of energy, increase dietary fibre intake, reduce total fat intake to approximately 30 per cent of energy intake, take a high proportion of fat as the polyunsaturated form.",
+            "year": 1979,
+            "citation_count": 5,
+            "relevance": 1,
+            "explanation": "This paper discusses nutritional factors in the aetiology of diseases such as coronary heart disease and maturity-onset diabetes, and suggests principles for a prudent diet. The source paper also investigates the effect of dietary advice on diabetes treatment, but the connection between the two papers is not direct. The source paper does not serve as a sub-hypothesis for this paper, nor does this paper's hypothesis directly build upon the source paper's findings."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Dietary Patterns and Dietary Recommendations Achievement From Latin American College Students During the COVID-19 Pandemic Lockdown": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the source paper's findings regarding the 'Prudent diet', as it investigates the adherence to this diet among college students. The source paper provides the foundation for the 'Prudent diet' concept, which is then applied and evaluated in this study.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Dietary Patterns and Dietary Recommendations Achievement From Latin American College Students During the COVID-19 Pandemic Lockdown": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the source paper's findings regarding the 'Prudent diet', as it investigates the adherence to this diet among college students. The source paper provides the foundation for the 'Prudent diet' concept, which is then applied and evaluated in this study.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2023,
+        "source_paper": {
+            "paperId": "f220f662ee823ff20102c94b737ea80e836b654e",
+            "title": "Dietary Patterns and Dietary Recommendations Achievement From Latin American College Students During the COVID-19 Pandemic Lockdown",
+            "abstract": "This study aimed to compare the diet quality of different dietary patterns among college students from Latin American countries, including vegetarians, vegans, and omnivores during the COVID-19 pandemic. A cross-sectional, observational, multicenter study was conducted including a non- probabilistic sample of university students from 10 countries. University students were invited to participate in the study through social network platforms. Participants were self-reported to have followed a specific dietary pattern; either the Prudent diet, Western diet, Ovo-dairy-vegetarian diet, Fish-vegetarian diet, Strict vegetarian diet (vegan) or other. The last three patterns (vegetarians and vegans) were grouped as following a plant-based diet. A self-assessment survey was used to evaluate healthy eating habits using a questionnaire with values between 1 (do not consume) and 5 (consume) for a total of 9\u201345 points (higher values represent better eating habits). Unhealthy habits were assessed with nine questions. A total of 4,809 students filled out the questionnaire, and the majority of them were females (73.7%). A high percentage have been in lockdown for more than 5 months and were in lockdown when the survey was released. 74.3% were self-reported to follow a prudent diet, while 11.4% reported following a western dietary pattern and 8.8% a plant-based diet. When compliance with healthy and unhealthy dietary habits was analyzed, although all groups had low compliance, the plant-based diet group (56.09 \u00b1 6.11) performed better than the Western diet group (48.03 \u00b1 5.99). The total diet quality score was significantly higher for plant-based diet followers, who also tended to better achieve the recommendations than omnivorous students, especially the ones following a western diet. These results present evidence that young adults such as college-aged students have unhealthy dietary habits. However, the ones who follow a plant-based diet such as vegetarians and vegans exhibit better scores and healthier dietary conducts.",
+            "year": 2022,
+            "citation_count": 4,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the source paper's findings regarding the 'Prudent diet', as it investigates the adherence to this diet among college students. The source paper provides the foundation for the 'Prudent diet' concept, which is then applied and evaluated in this study."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Comparison of Consumption of Pulses in Two Seasons of the Year in Chile": {
+                    "explanation": "This paper has no direct connection with the source paper, as it focuses on the consumption of pulses in Chile and does not reference the dietary patterns or recommendations achievement among Latin American college students during the COVID-19 pandemic.",
+                    "relevance": 0
+                },
+                "2. Impact of COVID-19 on dietary intake, sleeping patterns and physical activity levels among Malaysian University students": {
+                    "explanation": "The key hypothesis in this paper is inspired by the findings of the source paper, as it also investigates the impact of the COVID-19 pandemic on dietary intake, but among Malaysian university students. Although the population and location are different, the paper builds upon the idea of exploring dietary habits during the pandemic.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Impact of COVID-19 on dietary intake, sleeping patterns and physical activity levels among Malaysian University students": {
+                    "explanation": "The key hypothesis in this paper is inspired by the findings of the source paper, as it also investigates the impact of the COVID-19 pandemic on dietary intake, but among Malaysian university students. Although the population and location are different, the paper builds upon the idea of exploring dietary habits during the pandemic.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2024,
+        "source_paper": {
+            "paperId": "f220f662ee823ff20102c94b737ea80e836b654e",
+            "title": "Dietary Patterns and Dietary Recommendations Achievement From Latin American College Students During the COVID-19 Pandemic Lockdown",
+            "abstract": "This study aimed to compare the diet quality of different dietary patterns among college students from Latin American countries, including vegetarians, vegans, and omnivores during the COVID-19 pandemic. A cross-sectional, observational, multicenter study was conducted including a non- probabilistic sample of university students from 10 countries. University students were invited to participate in the study through social network platforms. Participants were self-reported to have followed a specific dietary pattern; either the Prudent diet, Western diet, Ovo-dairy-vegetarian diet, Fish-vegetarian diet, Strict vegetarian diet (vegan) or other. The last three patterns (vegetarians and vegans) were grouped as following a plant-based diet. A self-assessment survey was used to evaluate healthy eating habits using a questionnaire with values between 1 (do not consume) and 5 (consume) for a total of 9\u201345 points (higher values represent better eating habits). Unhealthy habits were assessed with nine questions. A total of 4,809 students filled out the questionnaire, and the majority of them were females (73.7%). A high percentage have been in lockdown for more than 5 months and were in lockdown when the survey was released. 74.3% were self-reported to follow a prudent diet, while 11.4% reported following a western dietary pattern and 8.8% a plant-based diet. When compliance with healthy and unhealthy dietary habits was analyzed, although all groups had low compliance, the plant-based diet group (56.09 \u00b1 6.11) performed better than the Western diet group (48.03 \u00b1 5.99). The total diet quality score was significantly higher for plant-based diet followers, who also tended to better achieve the recommendations than omnivorous students, especially the ones following a western diet. These results present evidence that young adults such as college-aged students have unhealthy dietary habits. However, the ones who follow a plant-based diet such as vegetarians and vegans exhibit better scores and healthier dietary conducts.",
+            "year": 2022,
+            "citation_count": 4,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is partially dependent on the source paper's findings regarding the 'Prudent diet', as it investigates the adherence to this diet among college students. The source paper provides the foundation for the 'Prudent diet' concept, which is then applied and evaluated in this study."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Modification of eating habits and lifestyle during COVID-19 in university students from Mexico and Peru": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates changes in lifestyle habits, including eating habits, during the COVID-19 pandemic, which is related to the source paper's focus on dietary patterns and habits during the pandemic.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Modification of eating habits and lifestyle during COVID-19 in university students from Mexico and Peru": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates changes in lifestyle habits, including eating habits, during the COVID-19 pandemic, which is related to the source paper's focus on dietary patterns and habits during the pandemic.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2024,
+        "source_paper": {
+            "paperId": "2cc4f403586e9319709b720e279a41d8b5fec5ff",
+            "title": "Impact of COVID-19 on dietary intake, sleeping patterns and physical activity levels among Malaysian University students",
+            "abstract": "Abstract Objectives The COVID-19 pandemic has brought a significant impact on people\u2019s behaviour and lifestyles. Limited research has been conducted on the impact of COVID-19 on Malaysian university students\u2019 lifestyle modifications. This study aims to identify the impact of COVID-19 on dietary intake, sleeping patterns and physical activity levels among Malaysian university students. Methods A total of 261 university students were recruited. Sociodemographic and anthropometric data were collected. Dietary intake was assessed using PLifeCOVID-19 questionnaire, sleep quality was assessed using Pittsburgh Sleep Quality Index Questionnaire (PSQI) while physical activity level was assessed using International Physical Activity Questionnaire-Short Forms (IPAQ-SF). SPSS was used to perform statistical analysis. Results 30.7% of the participants adhered to the unhealthy dietary pattern, 48.7% had poor quality of sleep and 59.4% engaged in low physical activity levels during the pandemic. Unhealthy dietary pattern was significantly associated with a lower IPAQ category (p=0.013), and increased time spent sitting (p=0.027) during the pandemic. Participants being underweight before the pandemic (aOR=2.472, 95% CI=1.358\u20134.499), increased takeaway meal consumption (aOR=1.899, 95% CI=1.042\u20133.461), increased snacking between meals consumption (aOR=2.989, 95% CI=1.653\u20135.404) and engaged in a low level of physical activity during pandemic (aOR=1.935, 95% CI=1.028\u20133.643) were the predictors of unhealthy dietary pattern. Conclusions The university students\u2019 dietary intake, sleeping patterns, and physical activity levels were impacted in different ways during the pandemic. Strategies and interventions should be developed and implemented to improve the dietary intake and lifestyle of the students.",
+            "year": 2023,
+            "citation_count": 3,
+            "relevance": 1,
+            "explanation": "The key hypothesis in this paper is inspired by the findings of the source paper, as it also investigates the impact of the COVID-19 pandemic on dietary intake, but among Malaysian university students. Although the population and location are different, the paper builds upon the idea of exploring dietary habits during the pandemic."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Study on university students\u2019 intention to choose reusable takeaway food containers: evidence from China": {
+                    "explanation": "This paper has no connection with the source paper as it focuses on university students' intention to choose reusable takeaway food containers and its impact on reducing plastic waste, which is unrelated to the source paper's investigation of the impact of COVID-19 on dietary intake, sleeping patterns, and physical activity levels among Malaysian university students.",
+                    "relevance": 0
+                },
+                "2. The impact of the COVID-19 pandemic on dietary behaviors among school-age children, adolescents, and young adults: a systematic review and meta-analysis.": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it explores the impact of the COVID-19 pandemic on dietary behaviors, which is a related topic to the source paper's investigation of the impact of COVID-19 on dietary intake among Malaysian university students. However, the focus on school-age children, adolescents, and young adults, and the use of a systematic review and meta-analysis approach, makes it a distinct study that builds upon the source paper's findings.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. The impact of the COVID-19 pandemic on dietary behaviors among school-age children, adolescents, and young adults: a systematic review and meta-analysis.": {
+                    "explanation": "This paper is partially dependent on the findings of the source paper, as it explores the impact of the COVID-19 pandemic on dietary behaviors, which is a related topic to the source paper's investigation of the impact of COVID-19 on dietary intake among Malaysian university students. However, the focus on school-age children, adolescents, and young adults, and the use of a systematic review and meta-analysis approach, makes it a distinct study that builds upon the source paper's findings.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    }
+]

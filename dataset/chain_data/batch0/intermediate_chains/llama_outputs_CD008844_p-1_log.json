@@ -1,0 +1,498 @@
+[
+    {
+        "year": 2008,
+        "source_paper": {
+            "paperId": "b06ce1e6bcbac93e756ec4eacf54349bc5b7520f",
+            "pmid": "17659916",
+            "title": "Usefulness of granulocyte colony-stimulating factor in patients with a large anterior wall acute myocardial infarction to prevent left ventricular remodeling (the rigenera study).",
+            "abstract": null,
+            "year": 2007,
+            "citation_count": 67
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Autologous bone marrow stem cell mobilization induced by granulocyte colony-stimulating factor after myocardial infarction": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it evaluates the safety and efficacy profile of granulocyte-colony stimulating factor (G-CSF) in the setting of acute/subacute phase of myocardial infarction, which is related to the source paper's investigation of G-CSF's usefulness in preventing left ventricular remodeling.",
+                    "relevance": 2
+                },
+                "2. Cell Therapy for Age-Related Disorders: Myocardial Infarction and Stroke \u2013 A Mini-Review": {
+                    "explanation": "This paper is a review of the literature and does not present a novel hypothesis. It summarizes existing research on cell therapies for myocardial infarction and stroke, including the use of G-CSF, but does not build upon the source paper's findings.",
+                    "relevance": 0
+                },
+                "3. Granulocyte\u2010colony stimulating factor induces proliferation of hepatic progenitors in alcoholic steatohepatitis: A randomized trial": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effects of G-CSF on liver regeneration and proliferation of hepatic progenitors, which is related to the source paper's investigation of G-CSF's usefulness in preventing left ventricular remodeling.",
+                    "relevance": 1
+                },
+                "4. G-CSF- and erythropoietin-based cell therapy: a promising strategy for angiomyogenesis in myocardial infarction": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it evaluates the potential of G-CSF-based cell therapy for angiomyogenesis in myocardial infarction, which is related to the source paper's investigation of G-CSF's usefulness in preventing left ventricular remodeling.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Autologous bone marrow stem cell mobilization induced by granulocyte colony-stimulating factor after myocardial infarction": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it evaluates the safety and efficacy profile of granulocyte-colony stimulating factor (G-CSF) in the setting of acute/subacute phase of myocardial infarction, which is related to the source paper's investigation of G-CSF's usefulness in preventing left ventricular remodeling.",
+                    "relevance": 2
+                },
+                "2. G-CSF- and erythropoietin-based cell therapy: a promising strategy for angiomyogenesis in myocardial infarction": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it evaluates the potential of G-CSF-based cell therapy for angiomyogenesis in myocardial infarction, which is related to the source paper's investigation of G-CSF's usefulness in preventing left ventricular remodeling.",
+                    "relevance": 2
+                },
+                "3. Granulocyte\u2010colony stimulating factor induces proliferation of hepatic progenitors in alcoholic steatohepatitis: A randomized trial": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the effects of G-CSF on liver regeneration and proliferation of hepatic progenitors, which is related to the source paper's investigation of G-CSF's usefulness in preventing left ventricular remodeling.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2009,
+        "source_paper": {
+            "paperId": "b06ce1e6bcbac93e756ec4eacf54349bc5b7520f",
+            "pmid": "17659916",
+            "title": "Usefulness of granulocyte colony-stimulating factor in patients with a large anterior wall acute myocardial infarction to prevent left ventricular remodeling (the rigenera study).",
+            "abstract": null,
+            "year": 2007,
+            "citation_count": 67
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Cytokines and Myocardial Regeneration: A Novel Treatment Option for Acute Myocardial Infarction": {
+                    "explanation": "This paper explores the role of cytokines, including granulocyte colony-stimulating factor (G-CSF), in myocardial regeneration and treatment of acute myocardial infarction. The source paper investigates the usefulness of G-CSF in preventing left ventricular remodeling after a large anterior wall acute myocardial infarction. The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it discusses the potential of G-CSF in treating myocardial infarction.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Cytokines and Myocardial Regeneration: A Novel Treatment Option for Acute Myocardial Infarction": {
+                    "explanation": "This paper explores the role of cytokines, including granulocyte colony-stimulating factor (G-CSF), in myocardial regeneration and treatment of acute myocardial infarction. The source paper investigates the usefulness of G-CSF in preventing left ventricular remodeling after a large anterior wall acute myocardial infarction. The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it discusses the potential of G-CSF in treating myocardial infarction.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2010,
+        "source_paper": {
+            "paperId": "6d838ed423084373f6e58f658f23cde7815bf6a4",
+            "title": "Cytokines and Myocardial Regeneration: A Novel Treatment Option for Acute Myocardial Infarction",
+            "abstract": "The regenerative capacity of the myocardium and its blood vessels has now been well demonstrated. The cytokines granulocyte colony-stimulating factor, erythropoietin, and stem cell factor may play a role in helping to stimulate cell regeneration under normal physiologic conditions and in patients with myocardial injury. After an ischemic insult, cytokines are released into the peripheral circulation and signal for the mobilization of stem cells. In experimental cardiac injury models, the addition of cytokines has been shown to improve myocardial function with and without the concurrent use of stem cell therapy. Preliminary studies in humans using cytokine therapy alone for treating myocardial infarction have been disappointing. Future studies in patients with myocardial injury need to examine the use of various combinations of cytokines, with and without the addition of intravascular stem cell infusions or direct stem cell injections.",
+            "year": 2009,
+            "citation_count": 40,
+            "relevance": 2,
+            "explanation": "This paper explores the role of cytokines, including granulocyte colony-stimulating factor (G-CSF), in myocardial regeneration and treatment of acute myocardial infarction. The source paper investigates the usefulness of G-CSF in preventing left ventricular remodeling after a large anterior wall acute myocardial infarction. The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it discusses the potential of G-CSF in treating myocardial infarction."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Cell treatment after acute myocardial infarction prevents early decline in circulating IGF-1": {
+                    "explanation": "This paper explores the relationship between intracoronary autologous bone marrow cell transplantation and circulating growth factors, which is related to the source paper's discussion on cytokines and myocardial regeneration. However, it does not directly build upon the source paper's findings.",
+                    "relevance": 1
+                },
+                "2. Peripheric stem cell transplantation in children with dilated cardiomyopathy: preliminary report of first two cases": {
+                    "explanation": "This paper investigates the use of autologous stem cell transplantation in pediatric patients with dilated cardiomyopathy, which is partially dependent on the source paper's findings on the regenerative capacity of the myocardium and the role of cytokines in stimulating cell regeneration.",
+                    "relevance": 2
+                },
+                "3. Autologous cellular cardiomyoplasty for pediatric dilated cardiomyopathy patients: New therapeutic option for children with failing heart?": {
+                    "explanation": "This paper discusses the potential of cellular cardiomyoplasty as a therapeutic option for pediatric dilated cardiomyopathy patients, which is related to the source paper's discussion on myocardial regeneration. However, it does not directly build upon the source paper's findings.",
+                    "relevance": 1
+                },
+                "4. Peripheric stem cell transplantation in children with dilated cardiomyopathy: Preliminary report of first two cases": {
+                    "explanation": "This paper appears to be a duplicate of paper 2, and therefore has the same explanation and relevance score.",
+                    "relevance": 2
+                },
+                "5. Vascularization shaping the heart": {
+                    "explanation": "This paper discusses the importance of vascularization in tissue-engineered cardiac constructs, which is not directly related to the source paper's findings on cytokines and myocardial regeneration.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Peripheric stem cell transplantation in children with dilated cardiomyopathy: preliminary report of first two cases": {
+                    "explanation": "This paper investigates the use of autologous stem cell transplantation in pediatric patients with dilated cardiomyopathy, which is partially dependent on the source paper's findings on the regenerative capacity of the myocardium and the role of cytokines in stimulating cell regeneration.",
+                    "relevance": 2
+                },
+                "2. Peripheric stem cell transplantation in children with dilated cardiomyopathy: Preliminary report of first two cases": {
+                    "explanation": "This paper appears to be a duplicate of paper 2, and therefore has the same explanation and relevance score.",
+                    "relevance": 2
+                },
+                "3. Cell treatment after acute myocardial infarction prevents early decline in circulating IGF-1": {
+                    "explanation": "This paper explores the relationship between intracoronary autologous bone marrow cell transplantation and circulating growth factors, which is related to the source paper's discussion on cytokines and myocardial regeneration. However, it does not directly build upon the source paper's findings.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2011,
+        "source_paper": {
+            "paperId": "6d838ed423084373f6e58f658f23cde7815bf6a4",
+            "title": "Cytokines and Myocardial Regeneration: A Novel Treatment Option for Acute Myocardial Infarction",
+            "abstract": "The regenerative capacity of the myocardium and its blood vessels has now been well demonstrated. The cytokines granulocyte colony-stimulating factor, erythropoietin, and stem cell factor may play a role in helping to stimulate cell regeneration under normal physiologic conditions and in patients with myocardial injury. After an ischemic insult, cytokines are released into the peripheral circulation and signal for the mobilization of stem cells. In experimental cardiac injury models, the addition of cytokines has been shown to improve myocardial function with and without the concurrent use of stem cell therapy. Preliminary studies in humans using cytokine therapy alone for treating myocardial infarction have been disappointing. Future studies in patients with myocardial injury need to examine the use of various combinations of cytokines, with and without the addition of intravascular stem cell infusions or direct stem cell injections.",
+            "year": 2009,
+            "citation_count": 40,
+            "relevance": 2,
+            "explanation": "This paper explores the role of cytokines, including granulocyte colony-stimulating factor (G-CSF), in myocardial regeneration and treatment of acute myocardial infarction. The source paper investigates the usefulness of G-CSF in preventing left ventricular remodeling after a large anterior wall acute myocardial infarction. The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it discusses the potential of G-CSF in treating myocardial infarction."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Effects of Combination of Proliferative Agents and Erythropoietin on Left Ventricular Remodeling Post\u2013Myocardial Infarction": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the effects of erythropoietin, a cytokine mentioned in the source paper, on myocardial regeneration and left ventricular remodeling post-myocardial infarction.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Effects of Combination of Proliferative Agents and Erythropoietin on Left Ventricular Remodeling Post\u2013Myocardial Infarction": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores the effects of erythropoietin, a cytokine mentioned in the source paper, on myocardial regeneration and left ventricular remodeling post-myocardial infarction.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2011,
+        "source_paper": {
+            "paperId": "05cd21acec07a2319acbddf7ff5faa34d6a22a08",
+            "title": "Peripheric stem cell transplantation in children with dilated cardiomyopathy: preliminary report of first two cases.",
+            "abstract": "We report two pediatric patients with IDC who underwent autologous PSCT. Both cases were referred to our clinic for cardiac transplantation because of end-stage heart failure resistant to conventional therapy with digoxin, diuretics, ACE inhibitors, and sympathomimetics. They had ejection fractions below 35%. In each case, autologous stem cell transplantation was performed via the coronary arteries, and five wk after the procedure transthoracic echocardiography showed a striking gain in their ejection fractions and an improvement in the left ventricular dimensions compared with the initial measurements. Although heart transplantation is the only option for children with IDC, stem cell transplantation can lessen the waiting list mortality and prolong the time for a patient to wait for a suitable donor.",
+            "year": 2010,
+            "citation_count": 31,
+            "relevance": 2,
+            "explanation": "This paper investigates the use of autologous stem cell transplantation in pediatric patients with dilated cardiomyopathy, which is partially dependent on the source paper's findings on the regenerative capacity of the myocardium and the role of cytokines in stimulating cell regeneration."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Safety and Efficacy of Intramyocardial Implantation of Peripheral Blood Stem Cell for Cardiomyopathy": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the safety and efficacy of intramyocardial autologous blood stem cell injection for cardiomyopathy, building on the source paper's results regarding peripheric stem cell transplantation in children with dilated cardiomyopathy.",
+                    "relevance": 1
+                },
+                "2. Cardiomyopathy in childhood": {
+                    "explanation": "This paper is a review paper that discusses cardiomyopathy in childhood, including its phenotypes, clinical outcomes, and perioperative complications. It does not have a direct connection to the source paper, and its purpose is to summarize existing literature rather than present novel findings or hypotheses.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Safety and Efficacy of Intramyocardial Implantation of Peripheral Blood Stem Cell for Cardiomyopathy": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the safety and efficacy of intramyocardial autologous blood stem cell injection for cardiomyopathy, building on the source paper's results regarding peripheric stem cell transplantation in children with dilated cardiomyopathy.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2012,
+        "source_paper": {
+            "paperId": "05cd21acec07a2319acbddf7ff5faa34d6a22a08",
+            "title": "Peripheric stem cell transplantation in children with dilated cardiomyopathy: preliminary report of first two cases.",
+            "abstract": "We report two pediatric patients with IDC who underwent autologous PSCT. Both cases were referred to our clinic for cardiac transplantation because of end-stage heart failure resistant to conventional therapy with digoxin, diuretics, ACE inhibitors, and sympathomimetics. They had ejection fractions below 35%. In each case, autologous stem cell transplantation was performed via the coronary arteries, and five wk after the procedure transthoracic echocardiography showed a striking gain in their ejection fractions and an improvement in the left ventricular dimensions compared with the initial measurements. Although heart transplantation is the only option for children with IDC, stem cell transplantation can lessen the waiting list mortality and prolong the time for a patient to wait for a suitable donor.",
+            "year": 2010,
+            "citation_count": 31,
+            "relevance": 2,
+            "explanation": "This paper investigates the use of autologous stem cell transplantation in pediatric patients with dilated cardiomyopathy, which is partially dependent on the source paper's findings on the regenerative capacity of the myocardium and the role of cytokines in stimulating cell regeneration."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Therapeutic Role of Mobilized Bone Marrow Cells in Children with Nonischemic Dilated Cardiomyopathy": {
+                    "explanation": "This paper explores the therapeutic role of mobilized bone marrow cells in children with nonischemic dilated cardiomyopathy, which is partially dependent on the findings of the source paper regarding the use of autologous stem cell transplantation in pediatric patients with dilated cardiomyopathy.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Therapeutic Role of Mobilized Bone Marrow Cells in Children with Nonischemic Dilated Cardiomyopathy": {
+                    "explanation": "This paper explores the therapeutic role of mobilized bone marrow cells in children with nonischemic dilated cardiomyopathy, which is partially dependent on the findings of the source paper regarding the use of autologous stem cell transplantation in pediatric patients with dilated cardiomyopathy.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2015,
+        "source_paper": {
+            "paperId": "70684a7acf71d1fbbeb20e4f4a55e6a49cff7ef1",
+            "title": "Therapeutic Role of Mobilized Bone Marrow Cells in Children with Nonischemic Dilated Cardiomyopathy",
+            "abstract": "Dilated cardiomyopathy is an important cause of congestive cardiac failure in infants and children. Mobilizing hematopoietic progenitor cells is a promising intervention to this deadly disease. Aim. Evaluate granulocyte colony stimulating factor (GCSF) as therapeutic modality in children with idiopathic dilated cardiomyopathy (IDCM). Subjects and Methods. This case-control prospective study was conducted on 20 children with IDCM following up at Cardiology Clinic Children's Hospital, Ain Shams University (group 1) who were compared to another 10 age-, sex-, duration-of-illness-, and systolic-function-matched children with IDCM as control (group 2). They were subjected to history taking, clinical examination, echocardiography, and peripheral blood CD34+ cell assessment before and one week after GCSF intake for 5 consecutive days (by group 1 but not group 2). Results. A significant improvement in echocardiographic data and CD34+-T-cell increase was found in group 1 one week after GCSF intake and for the next 6 months CD34+ T cells percentage of change showed no significant correlation with the that of the left ventricular dimensions and systolic function. Conclusion. Administration of GCSF to children with IDCM resulted in clinical and echocardiographic improvement not correlated to mobilized CD34+ T cells, implying involvement of additional mechanisms over simple stem cell mobilization.",
+            "year": 2012,
+            "citation_count": 1,
+            "relevance": 2,
+            "explanation": "This paper explores the therapeutic role of mobilized bone marrow cells in children with nonischemic dilated cardiomyopathy, which is partially dependent on the findings of the source paper regarding the use of autologous stem cell transplantation in pediatric patients with dilated cardiomyopathy."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Study of peripheral stem cells mobilization as a treatment line of pediatric dilated cardiomyopathy": {
+                    "explanation": "The hypothesis in this paper is directly dependent on the findings of the source paper, as it also evaluates the efficacy of granulocyte-colony stimulating factor (G-CSF) as a therapeutic modality in pediatric idiopathic dilated cardiomyopathy (IDCM), and explores similar outcomes such as clinical improvement, increase in CD34+ mobilized cells, and improvement in echocardiographic data.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Study of peripheral stem cells mobilization as a treatment line of pediatric dilated cardiomyopathy": {
+                    "explanation": "The hypothesis in this paper is directly dependent on the findings of the source paper, as it also evaluates the efficacy of granulocyte-colony stimulating factor (G-CSF) as a therapeutic modality in pediatric idiopathic dilated cardiomyopathy (IDCM), and explores similar outcomes such as clinical improvement, increase in CD34+ mobilized cells, and improvement in echocardiographic data.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2020,
+        "source_paper": {
+            "paperId": "5b8662e132b1c4b64f778ca96c6a5a60fc24f505",
+            "title": "Study of peripheral stem cells mobilization as a treatment line of pediatric dilated cardiomyopathy.",
+            "abstract": "BACKGROUND\nMobilizing hematopoietic stem cells may be a promising intervention for the treatment of idiopathic dilated cardiomyopathy (IDCM) in infant and children. So the aim of the work is to evaluate the efficacy of granulocyte-colony stimulating factor (G-CSF) as a therapeutic modality in pediatric IDCM.\n\n\nMETHODS\nA randomized clinical trial was conducted on 40 pediatric patients with IDCM. They were subjected to history taking, clinical examination, serum lactate dehydrogenase (LDH), total creatinine phosphokinase (CPK), creatinine phosphokinase isoenzyme B (CK-MB) isoenzyme, and peripheral blood CD34(+) cell assessment before and at day 7 after subcutaneous G-CSF injection for 5 consecutive days. Echocardiography was done before and 1, 3 and 6 months after therapy.\n\n\nRESULTS\nClinical improvement in the form of regression of patients Modified Ross heart failure (MRHC) classification classes. Increased percentage of CD34(+) mobilized cells from the bone marrow, and significant increase in blood counts especially white blood cells 7 days after G-CSF injection. Significant improvement was found in echocardiographic data evaluating systolic function of the heart [Ejection fraction, Fractional shortening and systolic velocity at mitral annulus (Sm)].\n\n\nCONCLUSIONS\nAdministration of G-CSF may be beneficial in improving systolic functions of the heart in pediatric IDCM and more studies with a large number of patients are needed.",
+            "year": 2015,
+            "citation_count": 1,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is directly dependent on the findings of the source paper, as it also evaluates the efficacy of granulocyte-colony stimulating factor (G-CSF) as a therapeutic modality in pediatric idiopathic dilated cardiomyopathy (IDCM), and explores similar outcomes such as clinical improvement, increase in CD34+ mobilized cells, and improvement in echocardiographic data."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Cardiosphere-derived exosomal microRNAs for myocardial repair in pediatric dilated cardiomyopathy": {
+                    "explanation": "This paper explores an alternative treatment for pediatric dilated cardiomyopathy using cardiosphere-derived exosomal microRNAs, which is inspired by the source paper's investigation of mobilizing hematopoietic stem cells as a treatment for the same condition.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Cardiosphere-derived exosomal microRNAs for myocardial repair in pediatric dilated cardiomyopathy": {
+                    "explanation": "This paper explores an alternative treatment for pediatric dilated cardiomyopathy using cardiosphere-derived exosomal microRNAs, which is inspired by the source paper's investigation of mobilizing hematopoietic stem cells as a treatment for the same condition.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2021,
+        "source_paper": {
+            "paperId": "0150ff738815ced47a6c3b64d28f2bf1974a51b9",
+            "title": "Cardiosphere-derived exosomal microRNAs for myocardial repair in pediatric dilated cardiomyopathy",
+            "abstract": "Cardiosphere-derived exosomes improve cardiac function in dilated cardiomyopathy and provide safety lead-in results for further clinical translation. Curbing cardiomyopathy Stem cells and exosomes have been investigated as potential treatments for cardiovascular applications with varying degrees of success. Here, Hirai et al. treated a porcine model of dilated cardiomyopathy with cardiosphere-derived cells (CDCs) or CDCs pretreated to prevent release of their exosomes. Cardiac repair was achieved with injection of CDCs, but blocking exosome release abrogated functional recovery\u2014even when exosomes were coinjected with cells. Moving into the clinic, they safely treated five pediatric patients with dilated cardiomyopathy with CDCs. Analysis of patients\u2019 CDC-derived exosomes implicated miR-146a-5p in inhibiting inflammatory cytokine expression. Results demonstrate the safety of CDC treatment and highlight a potential mechanism of therapeutic efficacy. Although cardiosphere-derived cells (CDCs) improve cardiac function and outcomes in patients with single ventricle physiology, little is known about their safety and therapeutic benefit in children with dilated cardiomyopathy (DCM). We aimed to determine the safety and efficacy of CDCs in a porcine model of DCM and translate the preclinical results into this patient population. A swine model of DCM using intracoronary injection of microspheres created cardiac dysfunction. Forty pigs were randomized as preclinical validation of the delivery method and CDC doses, and CDC-secreted exosome (CDCex)\u2013mediated cardiac repair was analyzed. A phase 1 safety cohort enrolled five pediatric patients with DCM and reduced ejection fraction to receive CDC infusion. The primary endpoint was to assess safety, and the secondary outcome measure was change in cardiac function. Improved cardiac function and reduced myocardial fibrosis were noted in animals treated with CDCs compared with placebo. These functional benefits were mediated via CDCex that were highly enriched with proangiogenic and cardioprotective microRNAs (miRNAs), whereas isolated CDCex did not recapitulate these reparative effects. One-year follow-up of safety lead-in stage was completed with favorable profile and preliminary efficacy outcomes. Increased CDCex-derived miR-146a-5p expression was associated with the reduction in myocardial fibrosis via suppression of proinflammatory cytokines and transcripts. Collectively, intracoronary CDC administration is safe and improves cardiac function through CDCex in a porcine model of DCM. The safety lead-in results in patients provide a translational framework for further studies of randomized trials and CDCex-derived miRNAs as potential paracrine mediators underlying this therapeutic strategy.",
+            "year": 2020,
+            "citation_count": 54,
+            "relevance": 1,
+            "explanation": "This paper explores an alternative treatment for pediatric dilated cardiomyopathy using cardiosphere-derived exosomal microRNAs, which is inspired by the source paper's investigation of mobilizing hematopoietic stem cells as a treatment for the same condition."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Potential Applications and Functional Roles of Exosomes in Cardiometabolic Disease": {
+                    "explanation": "This paper is a review of the current state of knowledge on exosomes in cardiometabolic disease, and does not build upon the source paper's specific findings. It provides a general overview of the field, without a direct connection to the source paper's hypothesis or results.",
+                    "relevance": 0
+                },
+                "2. Roles of Exosomes in Cardiac Fibroblast Activation and Fibrosis": {
+                    "explanation": "This paper explores the role of exosomes in cardiac fibroblast activation and fibrosis, which is related to the source paper's topic of cardiac repair. However, it does not directly build upon the source paper's findings or hypothesis.",
+                    "relevance": 1
+                },
+                "3. Extracellular Vesicles Secreted by TDO2-Augmented Fibroblasts Regulate Pro-inflammatory Response in Macrophages": {
+                    "explanation": "This paper investigates the role of extracellular vesicles in regulating pro-inflammatory response in macrophages, which is not directly related to the source paper's hypothesis or findings.",
+                    "relevance": 0
+                },
+                "4. Biomaterials-based Approaches for Cardiac Regeneration": {
+                    "explanation": "This paper discusses biomaterials-based approaches for cardiac regeneration, which is related to the source paper's topic of cardiac repair. However, it does not directly build upon the source paper's findings or hypothesis.",
+                    "relevance": 1
+                },
+                "5. Building new cardiac vasculature and myocardium: where are we at?": {
+                    "explanation": "This paper is a review of the current state of knowledge on cell therapy, biomaterials, and 3D bioprinting for the treatment of cardiovascular disease. It provides a general overview of the field, without a direct connection to the source paper's hypothesis or results.",
+                    "relevance": 0
+                },
+                "6. Unfathomed Nanomessages to the Heart: Translational Implications of Stem Cell-Derived, Progenitor Cell Exosomes in Cardiac Repair and Regeneration": {
+                    "explanation": "This paper discusses the potential of stem cell-derived exosomes in cardiac repair and regeneration, which is directly related to the source paper's hypothesis and findings. It builds upon the idea of using exosomes for cardiac repair, which is a key aspect of the source paper.",
+                    "relevance": 2
+                },
+                "7. Extracellular Vesicles in Organ Fibrosis: Mechanisms, Therapies, and Diagnostics": {
+                    "explanation": "This paper explores the role of extracellular vesicles in organ fibrosis, which is related to the source paper's topic of cardiac repair. However, it does not directly build upon the source paper's findings or hypothesis.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Unfathomed Nanomessages to the Heart: Translational Implications of Stem Cell-Derived, Progenitor Cell Exosomes in Cardiac Repair and Regeneration": {
+                    "explanation": "This paper discusses the potential of stem cell-derived exosomes in cardiac repair and regeneration, which is directly related to the source paper's hypothesis and findings. It builds upon the idea of using exosomes for cardiac repair, which is a key aspect of the source paper.",
+                    "relevance": 2
+                },
+                "2. Roles of Exosomes in Cardiac Fibroblast Activation and Fibrosis": {
+                    "explanation": "This paper explores the role of exosomes in cardiac fibroblast activation and fibrosis, which is related to the source paper's topic of cardiac repair. However, it does not directly build upon the source paper's findings or hypothesis.",
+                    "relevance": 1
+                },
+                "3. Biomaterials-based Approaches for Cardiac Regeneration": {
+                    "explanation": "This paper discusses biomaterials-based approaches for cardiac regeneration, which is related to the source paper's topic of cardiac repair. However, it does not directly build upon the source paper's findings or hypothesis.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2022,
+        "source_paper": {
+            "paperId": "0150ff738815ced47a6c3b64d28f2bf1974a51b9",
+            "title": "Cardiosphere-derived exosomal microRNAs for myocardial repair in pediatric dilated cardiomyopathy",
+            "abstract": "Cardiosphere-derived exosomes improve cardiac function in dilated cardiomyopathy and provide safety lead-in results for further clinical translation. Curbing cardiomyopathy Stem cells and exosomes have been investigated as potential treatments for cardiovascular applications with varying degrees of success. Here, Hirai et al. treated a porcine model of dilated cardiomyopathy with cardiosphere-derived cells (CDCs) or CDCs pretreated to prevent release of their exosomes. Cardiac repair was achieved with injection of CDCs, but blocking exosome release abrogated functional recovery\u2014even when exosomes were coinjected with cells. Moving into the clinic, they safely treated five pediatric patients with dilated cardiomyopathy with CDCs. Analysis of patients\u2019 CDC-derived exosomes implicated miR-146a-5p in inhibiting inflammatory cytokine expression. Results demonstrate the safety of CDC treatment and highlight a potential mechanism of therapeutic efficacy. Although cardiosphere-derived cells (CDCs) improve cardiac function and outcomes in patients with single ventricle physiology, little is known about their safety and therapeutic benefit in children with dilated cardiomyopathy (DCM). We aimed to determine the safety and efficacy of CDCs in a porcine model of DCM and translate the preclinical results into this patient population. A swine model of DCM using intracoronary injection of microspheres created cardiac dysfunction. Forty pigs were randomized as preclinical validation of the delivery method and CDC doses, and CDC-secreted exosome (CDCex)\u2013mediated cardiac repair was analyzed. A phase 1 safety cohort enrolled five pediatric patients with DCM and reduced ejection fraction to receive CDC infusion. The primary endpoint was to assess safety, and the secondary outcome measure was change in cardiac function. Improved cardiac function and reduced myocardial fibrosis were noted in animals treated with CDCs compared with placebo. These functional benefits were mediated via CDCex that were highly enriched with proangiogenic and cardioprotective microRNAs (miRNAs), whereas isolated CDCex did not recapitulate these reparative effects. One-year follow-up of safety lead-in stage was completed with favorable profile and preliminary efficacy outcomes. Increased CDCex-derived miR-146a-5p expression was associated with the reduction in myocardial fibrosis via suppression of proinflammatory cytokines and transcripts. Collectively, intracoronary CDC administration is safe and improves cardiac function through CDCex in a porcine model of DCM. The safety lead-in results in patients provide a translational framework for further studies of randomized trials and CDCex-derived miRNAs as potential paracrine mediators underlying this therapeutic strategy.",
+            "year": 2020,
+            "citation_count": 54,
+            "relevance": 1,
+            "explanation": "This paper explores an alternative treatment for pediatric dilated cardiomyopathy using cardiosphere-derived exosomal microRNAs, which is inspired by the source paper's investigation of mobilizing hematopoietic stem cells as a treatment for the same condition."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. The Role of MicroRNAs in Dilated Cardiomyopathy: New Insights for an Old Entity": {
+                    "explanation": "This paper explores the role of microRNAs in dilated cardiomyopathy, a topic related to the source paper's focus on cardiosphere-derived exosomal microRNAs for myocardial repair in pediatric dilated cardiomyopathy. However, it does not build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "2. Extracellular vesicles as advanced therapeutics for the resolution of organ fibrosis: Current progress and future perspectives": {
+                    "explanation": "This review paper discusses the therapeutic potential of extracellular vesicles, including exosomes, in resolving organ fibrosis. While it touches on the topic of exosomes, it does not specifically relate to the source paper's findings on cardiosphere-derived exosomal microRNAs.",
+                    "relevance": 0
+                },
+                "3. Healing the Broken Hearts: A Glimpse on Next Generation Therapeutics": {
+                    "explanation": "This paper provides a broad overview of cardiovascular diseases and potential therapeutic strategies, including the use of exosomes. However, it does not specifically build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "4. Non-coding RNAs: Important participants in cardiac fibrosis": {
+                    "explanation": "This review paper discusses the role of non-coding RNAs, including microRNAs, in cardiac fibrosis. While it touches on the topic of microRNAs, it does not specifically relate to the source paper's findings on cardiosphere-derived exosomal microRNAs.",
+                    "relevance": 0
+                },
+                "5. Nano-Messengers of the Heart: Promising Theranostic Candidates for Cardiovascular Maladies": {
+                    "explanation": "This review paper discusses the therapeutic potential of stem cell-derived exosomes, including their role in cardiac repair. While it touches on the topic of exosomes, it does not specifically relate to the source paper's findings on cardiosphere-derived exosomal microRNAs.",
+                    "relevance": 0
+                },
+                "6. Impaired regulation of MMP2/16\u2013MLCK3 by miR-146a-5p increased susceptibility to myocardial ischaemic injury in aging mice": {
+                    "explanation": "This paper investigates the role of miR-146a-5p in regulating MMP2/16-MLCK3 and its impact on myocardial ischemic injury. The source paper also implicates miR-146a-5p in inhibiting inflammatory cytokine expression, suggesting a connection between the two papers.",
+                    "relevance": 1
+                },
+                "7. Role of Cardiomyocyte-Derived Exosomal MicroRNA-146a-5p in Macrophage Polarization and Activation": {
+                    "explanation": "This paper explores the role of cardiomyocyte-derived exosomal miR-146a-5p in macrophage polarization and activation, building upon the source paper's findings on the therapeutic potential of cardiosphere-derived exosomal microRNAs.",
+                    "relevance": 2
+                },
+                "8. Peripheral Serum Exosomes Isolated from Patients with Acute Myocardial Infarction Promote Endothelial Cell Angiogenesis via the miR-126-3p/TSC1/mTORC1/HIF-1\u03b1 Pathway": {
+                    "explanation": "This paper investigates the role of peripheral serum exosomes in promoting endothelial cell angiogenesis, which is related to the source paper's focus on cardiosphere-derived exosomal microRNAs for myocardial repair. However, it does not specifically build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "9. Identification and Validation of Dilated Cardiomyopathy-Related Genes via Bioinformatics Analysis": {
+                    "explanation": "This paper uses bioinformatics analysis to identify and validate genes related to dilated cardiomyopathy, which is the focus of the source paper. However, it does not specifically build upon or depend on the findings of the source paper.",
+                    "relevance": 0
+                },
+                "10. Recent Advances in the Application of Mesenchymal Stem Cell-Derived Exosomes for Cardiovascular and Neurodegenerative Disease Therapies": {
+                    "explanation": "This review paper discusses the therapeutic potential of mesenchymal stem cell-derived exosomes, including their role in cardiovascular diseases. While it touches on the topic of exosomes, it does not specifically relate to the source paper's findings on cardiosphere-derived exosomal microRNAs.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Role of Cardiomyocyte-Derived Exosomal MicroRNA-146a-5p in Macrophage Polarization and Activation": {
+                    "explanation": "This paper explores the role of cardiomyocyte-derived exosomal miR-146a-5p in macrophage polarization and activation, building upon the source paper's findings on the therapeutic potential of cardiosphere-derived exosomal microRNAs.",
+                    "relevance": 2
+                },
+                "2. Impaired regulation of MMP2/16\u2013MLCK3 by miR-146a-5p increased susceptibility to myocardial ischaemic injury in aging mice": {
+                    "explanation": "This paper investigates the role of miR-146a-5p in regulating MMP2/16-MLCK3 and its impact on myocardial ischemic injury. The source paper also implicates miR-146a-5p in inhibiting inflammatory cytokine expression, suggesting a connection between the two papers.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2022,
+        "source_paper": {
+            "paperId": "0150ff738815ced47a6c3b64d28f2bf1974a51b9",
+            "title": "Cardiosphere-derived exosomal microRNAs for myocardial repair in pediatric dilated cardiomyopathy",
+            "abstract": "Cardiosphere-derived exosomes improve cardiac function in dilated cardiomyopathy and provide safety lead-in results for further clinical translation. Curbing cardiomyopathy Stem cells and exosomes have been investigated as potential treatments for cardiovascular applications with varying degrees of success. Here, Hirai et al. treated a porcine model of dilated cardiomyopathy with cardiosphere-derived cells (CDCs) or CDCs pretreated to prevent release of their exosomes. Cardiac repair was achieved with injection of CDCs, but blocking exosome release abrogated functional recovery\u2014even when exosomes were coinjected with cells. Moving into the clinic, they safely treated five pediatric patients with dilated cardiomyopathy with CDCs. Analysis of patients\u2019 CDC-derived exosomes implicated miR-146a-5p in inhibiting inflammatory cytokine expression. Results demonstrate the safety of CDC treatment and highlight a potential mechanism of therapeutic efficacy. Although cardiosphere-derived cells (CDCs) improve cardiac function and outcomes in patients with single ventricle physiology, little is known about their safety and therapeutic benefit in children with dilated cardiomyopathy (DCM). We aimed to determine the safety and efficacy of CDCs in a porcine model of DCM and translate the preclinical results into this patient population. A swine model of DCM using intracoronary injection of microspheres created cardiac dysfunction. Forty pigs were randomized as preclinical validation of the delivery method and CDC doses, and CDC-secreted exosome (CDCex)\u2013mediated cardiac repair was analyzed. A phase 1 safety cohort enrolled five pediatric patients with DCM and reduced ejection fraction to receive CDC infusion. The primary endpoint was to assess safety, and the secondary outcome measure was change in cardiac function. Improved cardiac function and reduced myocardial fibrosis were noted in animals treated with CDCs compared with placebo. These functional benefits were mediated via CDCex that were highly enriched with proangiogenic and cardioprotective microRNAs (miRNAs), whereas isolated CDCex did not recapitulate these reparative effects. One-year follow-up of safety lead-in stage was completed with favorable profile and preliminary efficacy outcomes. Increased CDCex-derived miR-146a-5p expression was associated with the reduction in myocardial fibrosis via suppression of proinflammatory cytokines and transcripts. Collectively, intracoronary CDC administration is safe and improves cardiac function through CDCex in a porcine model of DCM. The safety lead-in results in patients provide a translational framework for further studies of randomized trials and CDCex-derived miRNAs as potential paracrine mediators underlying this therapeutic strategy.",
+            "year": 2020,
+            "citation_count": 54,
+            "relevance": 1,
+            "explanation": "This paper explores an alternative treatment for pediatric dilated cardiomyopathy using cardiosphere-derived exosomal microRNAs, which is inspired by the source paper's investigation of mobilizing hematopoietic stem cells as a treatment for the same condition."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Epicardium-Derived Tbx18+ CDCs Transplantation Improve Heart Function in Infarcted Mice": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the therapeutic potential of cardiosphere-derived cells (CDCs) in cardiac repair and regeneration, specifically focusing on epicardium-derived CDCs. The source paper's findings on the safety and efficacy of CDCs in a porcine model of dilated cardiomyopathy provide a foundation for this study's investigation of CDCs in myocardial infarction.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Epicardium-Derived Tbx18+ CDCs Transplantation Improve Heart Function in Infarcted Mice": {
+                    "explanation": "The hypothesis in this paper is partially dependent on the findings of the source paper, as it explores the therapeutic potential of cardiosphere-derived cells (CDCs) in cardiac repair and regeneration, specifically focusing on epicardium-derived CDCs. The source paper's findings on the safety and efficacy of CDCs in a porcine model of dilated cardiomyopathy provide a foundation for this study's investigation of CDCs in myocardial infarction.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 2023,
+        "source_paper": {
+            "paperId": "2c05cbc47cd224d4d2c63e6c9c6a26f6dfedc224",
+            "title": "Role of Cardiomyocyte-Derived Exosomal MicroRNA-146a-5p in Macrophage Polarization and Activation",
+            "abstract": "Myocardial infarction arises from an excessive or prolonged inflammatory response, leading to ventricular remodeling or impaired cardiac function. Macrophages exhibit different polarization types associated with inflammation both at steady state and after myocardial infarction. Exosomal miR-146a-5p has been identified as an important molecule in the cardiovascular field in recent years. However, the effect of cardiomyocyte-derived exosomal miR-146a-5p on macrophages has not yet been elucidated. Initially, we found that exosomes with low expression of miR-146a-5p derived from myocardial infarction tissues modulated macrophage polarization. To determine whether cardiomyocyte-derived exosomal miR-146a-5p mediated macrophage polarization, we treated macrophages with exosomes rich in miR-146a-5p collected from neonatal mouse cardiomyocytes. The effects of exosomal miR-146a-5p on macrophage polarization were measured using RT-qPCR, transwell assays, and western blotting. The results showed that the increased expression of miR-146a-5p promoted M1 macrophage polarization, inhibited M2 macrophage polarization, and increased the expression of VEGFA. However, the decreased expression of exosomalmiR-146a-5p showed the opposite trends. Interestingly, in contrast to treatment with the solitary miR-146a-5p mimic, exosomal miR-146a-5p derived from neonatal mouse cardiomyocytes reduced TNF\u03b1 and iNOS expression. In addition, when macrophages were activated by the miR-146a-5p mimic or exosomal miR-146a-5p, the expression of TNF receptor-associated factor 6 (TRAF6), a target gene of miR-146a-5p, was reduced significantly. Taken together, these findings indicate that exosomal miR-146a-5p derived from cardiomyocytes could stimulate M1 macrophage polarization to induce an inflammatory reaction, while targeting TRAF6, exerting an anti-inflammatory effect. Exosomal miR-146a-5p plays important roles in macrophages, illuminating a novel potential therapeutic target in myocardial infarction.",
+            "year": 2022,
+            "citation_count": 18,
+            "relevance": 2,
+            "explanation": "This paper explores the role of cardiomyocyte-derived exosomal miR-146a-5p in macrophage polarization and activation, building upon the source paper's findings on the therapeutic potential of cardiosphere-derived exosomal microRNAs."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. miRNAs Epigenetic Tuning of Wall Remodeling in the Early Phase after Myocardial Infarction: A Novel Epidrug Approach": {
+                    "explanation": "This paper is a review paper that discusses the role of miRNAs in myocardial infarction, but it does not build upon the specific findings of the source paper regarding cardiomyocyte-derived exosomal miR-146a-5p.",
+                    "relevance": 0
+                },
+                "2. Exosomal Non-Coding RNA Mediates Macrophage Polarization: Roles in Cardiovascular Diseases": {
+                    "explanation": "This paper is a review paper that discusses the role of exosomal non-coding RNA in regulating macrophage polarization, which is related to the topic of the source paper, but it does not specifically build upon the findings of the source paper.",
+                    "relevance": 0
+                },
+                "3. MicroRNA: role in macrophage polarization and the pathogenesis of the liver fibrosis": {
+                    "explanation": "This paper discusses the role of microRNAs in macrophage polarization, but it focuses on liver fibrosis, which is a different context than the source paper. However, it does not build upon the specific findings of the source paper regarding cardiomyocyte-derived exosomal miR-146a-5p.",
+                    "relevance": 0
+                },
+                "4. The Role of ncRNAs in Cardiac Infarction and Regeneration": {
+                    "explanation": "This paper is a review paper that discusses the role of non-coding RNAs in cardiac infarction and regeneration, which is related to the topic of the source paper. However, it does not specifically build upon the findings of the source paper regarding cardiomyocyte-derived exosomal miR-146a-5p.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 2024,
+        "source_paper": {
+            "paperId": "2c05cbc47cd224d4d2c63e6c9c6a26f6dfedc224",
+            "title": "Role of Cardiomyocyte-Derived Exosomal MicroRNA-146a-5p in Macrophage Polarization and Activation",
+            "abstract": "Myocardial infarction arises from an excessive or prolonged inflammatory response, leading to ventricular remodeling or impaired cardiac function. Macrophages exhibit different polarization types associated with inflammation both at steady state and after myocardial infarction. Exosomal miR-146a-5p has been identified as an important molecule in the cardiovascular field in recent years. However, the effect of cardiomyocyte-derived exosomal miR-146a-5p on macrophages has not yet been elucidated. Initially, we found that exosomes with low expression of miR-146a-5p derived from myocardial infarction tissues modulated macrophage polarization. To determine whether cardiomyocyte-derived exosomal miR-146a-5p mediated macrophage polarization, we treated macrophages with exosomes rich in miR-146a-5p collected from neonatal mouse cardiomyocytes. The effects of exosomal miR-146a-5p on macrophage polarization were measured using RT-qPCR, transwell assays, and western blotting. The results showed that the increased expression of miR-146a-5p promoted M1 macrophage polarization, inhibited M2 macrophage polarization, and increased the expression of VEGFA. However, the decreased expression of exosomalmiR-146a-5p showed the opposite trends. Interestingly, in contrast to treatment with the solitary miR-146a-5p mimic, exosomal miR-146a-5p derived from neonatal mouse cardiomyocytes reduced TNF\u03b1 and iNOS expression. In addition, when macrophages were activated by the miR-146a-5p mimic or exosomal miR-146a-5p, the expression of TNF receptor-associated factor 6 (TRAF6), a target gene of miR-146a-5p, was reduced significantly. Taken together, these findings indicate that exosomal miR-146a-5p derived from cardiomyocytes could stimulate M1 macrophage polarization to induce an inflammatory reaction, while targeting TRAF6, exerting an anti-inflammatory effect. Exosomal miR-146a-5p plays important roles in macrophages, illuminating a novel potential therapeutic target in myocardial infarction.",
+            "year": 2022,
+            "citation_count": 18,
+            "relevance": 2,
+            "explanation": "This paper explores the role of cardiomyocyte-derived exosomal miR-146a-5p in macrophage polarization and activation, building upon the source paper's findings on the therapeutic potential of cardiosphere-derived exosomal microRNAs."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Cardiac cells and mesenchymal stem cells derived extracellular vesicles: a potential therapeutic strategy for myocardial infarction": {
+                    "explanation": "This paper discusses the role of extracellular vesicles in cardiac communication and their potential as cardiac therapies after myocardial infarction, but it does not directly build upon or depend on the findings of the source paper. It is a review paper that provides an overview of the current understanding of the role of EVs in cardiac communication.",
+                    "relevance": 0
+                },
+                "2. The immune regulatory role of exosomal miRNAs and their clinical application potential in heart failure": {
+                    "explanation": "This paper reviews the immune-regulatory role of exosomal miRNAs in heart failure, but it does not directly build upon or depend on the findings of the source paper. It discusses the potential of exosomal miRNAs as diagnostic biomarkers and therapeutic agents, but it does not specifically focus on the role of miR-146a-5p in macrophage polarization.",
+                    "relevance": 0
+                },
+                "3. Exosomes as Regulators of Macrophages in Cardiovascular Diseases": {
+                    "explanation": "This paper reviews the role of exosomes in regulating macrophages in cardiovascular diseases, but it does not directly build upon or depend on the findings of the source paper. It provides an overview of the biological role of macrophages in atherosclerosis and myocardial infarction and the effects of exosomes on these cells as therapeutic agents in the disease.",
+                    "relevance": 0
+                },
+                "4. Research progress of exosomes from different sources in myocardial ischemia": {
+                    "explanation": "This paper reviews the role of exosomes from different sources in myocardial ischemia, but it does not directly build upon or depend on the findings of the source paper. It discusses the potential of exosomes as diagnostic markers and therapeutic agents for myocardial ischemia, but it does not specifically focus on the role of miR-146a-5p in macrophage polarization.",
+                    "relevance": 0
+                },
+                "5. Adipose\u2010derived miRNAs as potential biomarkers for predicting adulthood obesity and its complications: A systematic review and bioinformatic analysis": {
+                    "explanation": "This paper is unrelated to the source paper as it focuses on adipose-derived miRNAs as potential biomarkers for predicting adulthood obesity and its complications, whereas the source paper focuses on the role of exosomal miR-146a-5p in macrophage polarization and activation.",
+                    "relevance": 0
+                },
+                "6. Unraveling the Signaling Dynamics of Small Extracellular Vesicles in Cardiac Diseases": {
+                    "explanation": "This paper reviews the role of small extracellular vesicles in cardiac diseases, including their potential as diagnostic biomarkers and therapeutic agents. While it discusses the role of extracellular vesicles in cardiovascular diseases, it does not specifically focus on the role of miR-146a-5p in macrophage polarization. However, it is partially dependent on the findings of the source paper as it discusses the role of extracellular vesicles in regulating macrophage function.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Unraveling the Signaling Dynamics of Small Extracellular Vesicles in Cardiac Diseases": {
+                    "explanation": "This paper reviews the role of small extracellular vesicles in cardiac diseases, including their potential as diagnostic biomarkers and therapeutic agents. While it discusses the role of extracellular vesicles in cardiovascular diseases, it does not specifically focus on the role of miR-146a-5p in macrophage polarization. However, it is partially dependent on the findings of the source paper as it discusses the role of extracellular vesicles in regulating macrophage function.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    }
+]

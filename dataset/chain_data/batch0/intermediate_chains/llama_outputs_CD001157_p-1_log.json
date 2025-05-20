@@ -1,0 +1,252 @@
+[
+    {
+        "year": 1977,
+        "source_paper": {
+            "paperId": "79d2c8751fe500da035a1729bb179912515b7c1f",
+            "pmid": "779796",
+            "title": "Controlled trial of cyclophosphamide in rheumatoid arthritis.",
+            "abstract": "Twenty-four patients with severe progressive rheumatoid arthritis were randomly assigned to cyclophosphamide or placebo in a double-blind crossover trial. Eleven patients who completed 9 months on cyclophosphamide (average dose: 1.8 mg/kg/day) demonstrated significant decrease in painful joints, swollen joints, and morning stiffness and increase in grip strength when compared to 11 patients on placebo. After crossover, significant improvement was observed in patients switched to cyclophosphamide, and deterioration within 2 months was observed in most patients changed from drug to placebo. Serum immunoglobulins and rheumatoid factor titers decreased with cyclophosphamide but antibody response to Vi antigen was unaffected. Primary delayed immune response to 2,4-dinitrochlorobenzene was markedly depressed. Adverse effects were troublesome--hemorrhagic cystitis affected 4 patients and amenorrhea occurred in 3. Despite striking beneficial effect, cyclophosphamide should be prescribed cautiously and only in severe resistant cases of rheumatoid arthritis.",
+            "year": 1976,
+            "citation_count": 178
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Sarcoma complicating therapy with cyclophosphamide": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores a potential adverse effect (neoplastic disease) of cyclophosphamide, which was identified as a treatment for rheumatoid arthritis in the source paper.",
+                    "relevance": 2
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Sarcoma complicating therapy with cyclophosphamide": {
+                    "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores a potential adverse effect (neoplastic disease) of cyclophosphamide, which was identified as a treatment for rheumatoid arthritis in the source paper.",
+                    "relevance": 2
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 1978,
+        "source_paper": {
+            "paperId": "79d2c8751fe500da035a1729bb179912515b7c1f",
+            "pmid": "779796",
+            "title": "Controlled trial of cyclophosphamide in rheumatoid arthritis.",
+            "abstract": "Twenty-four patients with severe progressive rheumatoid arthritis were randomly assigned to cyclophosphamide or placebo in a double-blind crossover trial. Eleven patients who completed 9 months on cyclophosphamide (average dose: 1.8 mg/kg/day) demonstrated significant decrease in painful joints, swollen joints, and morning stiffness and increase in grip strength when compared to 11 patients on placebo. After crossover, significant improvement was observed in patients switched to cyclophosphamide, and deterioration within 2 months was observed in most patients changed from drug to placebo. Serum immunoglobulins and rheumatoid factor titers decreased with cyclophosphamide but antibody response to Vi antigen was unaffected. Primary delayed immune response to 2,4-dinitrochlorobenzene was markedly depressed. Adverse effects were troublesome--hemorrhagic cystitis affected 4 patients and amenorrhea occurred in 3. Despite striking beneficial effect, cyclophosphamide should be prescribed cautiously and only in severe resistant cases of rheumatoid arthritis.",
+            "year": 1976,
+            "citation_count": 178
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Treatment of eczema with cyclophosphamide and azathioprine": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the use of cyclophosphamide, an immunosuppressive drug, in treating another autoimmune condition (eczema), building on the source paper's results regarding cyclophosphamide's efficacy in treating rheumatoid arthritis.",
+                    "relevance": 1
+                }
+            },
+            "top3_relevant_papers": {
+                "1. Treatment of eczema with cyclophosphamide and azathioprine": {
+                    "explanation": "The hypothesis in this paper is inspired by the findings of the source paper, as it investigates the use of cyclophosphamide, an immunosuppressive drug, in treating another autoimmune condition (eczema), building on the source paper's results regarding cyclophosphamide's efficacy in treating rheumatoid arthritis.",
+                    "relevance": 1
+                }
+            }
+        },
+        "seed": 42
+    },
+    {
+        "year": 1978,
+        "source_paper": {
+            "paperId": "180b8e2d446fbda23aa0f3e95062f2d8b757786a",
+            "title": "Sarcoma complicating therapy with cyclophosphamide.",
+            "abstract": "A patient is described who developed a poorly differentiated sarcoma after cyclophosphamide was used to treat his rheumatoid arthritis. This case emphasizes the importance ot considering neoplastic disease as a potential hazard associated with the use of immunosuppressive drugs.",
+            "year": 1977,
+            "citation_count": 18,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores a potential adverse effect (neoplastic disease) of cyclophosphamide, which was identified as a treatment for rheumatoid arthritis in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. The clinical pharmacology of mexiletine": {
+                    "explanation": "This paper is unrelated to the source paper as it discusses the clinical pharmacology of mexiletine, a different drug, and does not mention cyclophosphamide or its association with neoplastic disease.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 1979,
+        "source_paper": {
+            "paperId": "180b8e2d446fbda23aa0f3e95062f2d8b757786a",
+            "title": "Sarcoma complicating therapy with cyclophosphamide.",
+            "abstract": "A patient is described who developed a poorly differentiated sarcoma after cyclophosphamide was used to treat his rheumatoid arthritis. This case emphasizes the importance ot considering neoplastic disease as a potential hazard associated with the use of immunosuppressive drugs.",
+            "year": 1977,
+            "citation_count": 18,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores a potential adverse effect (neoplastic disease) of cyclophosphamide, which was identified as a treatment for rheumatoid arthritis in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Observations on haemodynamic effects of mexiletine": {
+                    "explanation": "This paper has no connection with the source paper. The source paper discusses the potential hazards of cyclophosphamide, specifically the development of sarcoma, whereas this paper focuses on the haemodynamic effects of mexiletine in patients with valvular heart disease.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 1979,
+        "source_paper": {
+            "paperId": "180b8e2d446fbda23aa0f3e95062f2d8b757786a",
+            "title": "Sarcoma complicating therapy with cyclophosphamide.",
+            "abstract": "A patient is described who developed a poorly differentiated sarcoma after cyclophosphamide was used to treat his rheumatoid arthritis. This case emphasizes the importance ot considering neoplastic disease as a potential hazard associated with the use of immunosuppressive drugs.",
+            "year": 1977,
+            "citation_count": 18,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores a potential adverse effect (neoplastic disease) of cyclophosphamide, which was identified as a treatment for rheumatoid arthritis in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Observations on haemodynamic effects of mexiletine": {
+                    "explanation": "This paper has no connection to the source paper, as it discusses the haemodynamic effects of mexiletine in patients with valvular heart disease, whereas the source paper focuses on the risk of neoplastic disease associated with cyclophosphamide therapy.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 1980,
+        "source_paper": {
+            "paperId": "180b8e2d446fbda23aa0f3e95062f2d8b757786a",
+            "title": "Sarcoma complicating therapy with cyclophosphamide.",
+            "abstract": "A patient is described who developed a poorly differentiated sarcoma after cyclophosphamide was used to treat his rheumatoid arthritis. This case emphasizes the importance ot considering neoplastic disease as a potential hazard associated with the use of immunosuppressive drugs.",
+            "year": 1977,
+            "citation_count": 18,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores a potential adverse effect (neoplastic disease) of cyclophosphamide, which was identified as a treatment for rheumatoid arthritis in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. A RAPID AND SIMPLE METHOD FOR THE DETERMINATION OF MEXILETINE IN HUMAN PLASMA AND URINE BY GAS\u2010LIQUID CHROMATOGRAPHY (GLC)": {
+                    "explanation": "This paper has no connection to the source paper. The source paper discusses the risk of neoplastic disease associated with the use of immunosuppressive drugs, specifically cyclophosphamide, while this paper focuses on a method for determining mexiletine levels in human plasma and urine.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 1980,
+        "source_paper": {
+            "paperId": "180b8e2d446fbda23aa0f3e95062f2d8b757786a",
+            "title": "Sarcoma complicating therapy with cyclophosphamide.",
+            "abstract": "A patient is described who developed a poorly differentiated sarcoma after cyclophosphamide was used to treat his rheumatoid arthritis. This case emphasizes the importance ot considering neoplastic disease as a potential hazard associated with the use of immunosuppressive drugs.",
+            "year": 1977,
+            "citation_count": 18,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores a potential adverse effect (neoplastic disease) of cyclophosphamide, which was identified as a treatment for rheumatoid arthritis in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. A RAPID AND SIMPLE METHOD FOR THE DETERMINATION OF MEXILETINE IN HUMAN PLASMA AND URINE BY GAS\u2010LIQUID CHROMATOGRAPHY (GLC)": {
+                    "explanation": "This paper has no connection with the source paper as it discusses a method for measuring mexiletine levels in plasma and urine, whereas the source paper is about a patient developing a sarcoma after cyclophosphamide treatment.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 1982,
+        "source_paper": {
+            "paperId": "180b8e2d446fbda23aa0f3e95062f2d8b757786a",
+            "title": "Sarcoma complicating therapy with cyclophosphamide.",
+            "abstract": "A patient is described who developed a poorly differentiated sarcoma after cyclophosphamide was used to treat his rheumatoid arthritis. This case emphasizes the importance ot considering neoplastic disease as a potential hazard associated with the use of immunosuppressive drugs.",
+            "year": 1977,
+            "citation_count": 18,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores a potential adverse effect (neoplastic disease) of cyclophosphamide, which was identified as a treatment for rheumatoid arthritis in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Enhanced metabolism of mexiletine after phenytoin administration": {
+                    "explanation": "This paper has no connection with the source paper. The source paper discusses the risk of neoplastic disease associated with the use of immunosuppressive drugs like cyclophosphamide, while this paper explores the interaction between phenytoin and mexiletine, which is unrelated to the source paper's topic.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 1982,
+        "source_paper": {
+            "paperId": "180b8e2d446fbda23aa0f3e95062f2d8b757786a",
+            "title": "Sarcoma complicating therapy with cyclophosphamide.",
+            "abstract": "A patient is described who developed a poorly differentiated sarcoma after cyclophosphamide was used to treat his rheumatoid arthritis. This case emphasizes the importance ot considering neoplastic disease as a potential hazard associated with the use of immunosuppressive drugs.",
+            "year": 1977,
+            "citation_count": 18,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores a potential adverse effect (neoplastic disease) of cyclophosphamide, which was identified as a treatment for rheumatoid arthritis in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Enhanced metabolism of mexiletine after phenytoin administration": {
+                    "explanation": "This paper has no connection to the source paper, as it discusses the interaction between mexiletine and phenytoin, which is unrelated to the topic of sarcoma complicating therapy with cyclophosphamide.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 1993,
+        "source_paper": {
+            "paperId": "180b8e2d446fbda23aa0f3e95062f2d8b757786a",
+            "title": "Sarcoma complicating therapy with cyclophosphamide.",
+            "abstract": "A patient is described who developed a poorly differentiated sarcoma after cyclophosphamide was used to treat his rheumatoid arthritis. This case emphasizes the importance ot considering neoplastic disease as a potential hazard associated with the use of immunosuppressive drugs.",
+            "year": 1977,
+            "citation_count": 18,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores a potential adverse effect (neoplastic disease) of cyclophosphamide, which was identified as a treatment for rheumatoid arthritis in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Gas chromatographic determination of mexiletine in human plasma with flame ionization detection after reaction with carbon disulphide": {
+                    "explanation": "This paper has no connection to the source paper as it deals with a completely different topic, the determination of mexiletine in human plasma, and does not mention or build upon the findings of the source paper regarding sarcoma complicating therapy with cyclophosphamide.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    },
+    {
+        "year": 1993,
+        "source_paper": {
+            "paperId": "180b8e2d446fbda23aa0f3e95062f2d8b757786a",
+            "title": "Sarcoma complicating therapy with cyclophosphamide.",
+            "abstract": "A patient is described who developed a poorly differentiated sarcoma after cyclophosphamide was used to treat his rheumatoid arthritis. This case emphasizes the importance ot considering neoplastic disease as a potential hazard associated with the use of immunosuppressive drugs.",
+            "year": 1977,
+            "citation_count": 18,
+            "relevance": 2,
+            "explanation": "The hypothesis in this paper is at least partially dependent on the findings of the source paper, as it explores a potential adverse effect (neoplastic disease) of cyclophosphamide, which was identified as a treatment for rheumatoid arthritis in the source paper."
+        },
+        "llama_output": {
+            "paper_list": {
+                "1. Gas chromatographic determination of mexiletine in human plasma with flame ionization detection after reaction with carbon disulphide": {
+                    "explanation": "This paper has no connection with the source paper. The source paper discusses the risk of neoplastic disease associated with immunosuppressive drugs like cyclophosphamide, while this paper describes a gas chromatographic method for determining mexiletine in human plasma.",
+                    "relevance": 0
+                }
+            },
+            "top3_relevant_papers": {}
+        },
+        "seed": 42
+    }
+]
