@@ -1,0 +1,27 @@
+# macOS system files
+.DS_Store
+**/.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS / editor files
+*.swp
+*.swo
+.idea/
+.vscode/
