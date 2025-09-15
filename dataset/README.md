@@ -1,7 +1,7 @@
 ## HypER: Literature-grounded Hypothesis Generation and Distillation with Provenance
 
 
-This dataset supports the paper **"HypER: Literature-grounded Hypothesis Generation and Distillation with Provenance"** submitted to ARR 2025. It contains validated reasoning chains constructed from PubMed abstracts for hypothesis generation.
+This dataset supports the paper **"HypER: Literature-grounded Hypothesis Generation and Distillation with Provenance"** submitted to EMNLP 2025. It contains validated reasoning chains constructed from PubMed abstracts for hypothesis generation.
 
 ## Directory Structure
 
@@ -36,5 +36,4 @@ This folder contains raw reasoning chain data and scripts used to generate multi
 - `collect_paths.ipynb`: Extracts reasoning paths and creates chain-level summaries, also script for converting to alpaca formatted dataset.
 - `groundtruth_statistics.ipynb`: Computes task and label distributions for analysis and construct the balanced dataset.
 
-⚠️ **Note**: Due to submission size limits, the final multi-task formatted JSONL files are not included.  
-However, **all raw data files are provided**, and the complete multi-task dataset can be reproduced using the included scripts.
+**Note that all raw data files are provided**, and the complete multi-task dataset can be reproduced using the included scripts.
